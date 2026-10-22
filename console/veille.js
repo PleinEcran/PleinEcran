@@ -1,101 +1,161 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "22/10/2026 à 04h31",
+  "collecte": "22/10/2026 à 11h40",
   "seuil": 14,
   "sujets": [
     {
-      "id": "ea-shuts-down-legendary-rpg-developer-bioware",
-      "titre": "EA Shuts Down Legendary RPG Developer BioWare",
-      "url": "https://www.nintendolife.com/news/2026/10/ea-shuts-down-legendary-rpg-developer-bioware",
+      "id": "mass-effect-tv-series-still-in-production-despite-bioware-cl",
+      "titre": "Mass Effect TV series ‘still in production’ despite BioWare closure, as game director writes: ‘At least I can play GTA 6’",
+      "url": "https://www.videogameschronicle.com/news/mass-effect-tv-series-still-in-production-despite-bioware-closure-as-game-director-writes-at-least-i-can-play-gta-6/",
       "sources": [
-        "Nintendo Life",
-        "PC Gamer",
-        "Push Square",
         "VGC"
       ],
-      "reprises": 4,
-      "heures": 3.1,
-      "chaleur": 18,
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 12,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/ea-shuts-down-legendary-rpg-developer-bioware",
-          "titre": "EA Shuts Down Legendary RPG Developer BioWare"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/mass-effect-tv-series-still-in-production-despite-bioware-closure-as-game-director-writes-at-least-i-can-play-gta-6/",
+          "titre": "Mass Effect TV series ‘still in production’ despite BioWare closure, as game director writes: ‘At least I can play GTA 6’"
+        }
+      ]
+    },
+    {
+      "id": "xbox-reveals-pricing-for-cloud-gaming-limits-starting-at-3-9",
+      "titre": "Xbox reveals pricing for cloud gaming limits, starting at $3.99 for 10 hours",
+      "url": "https://www.gamesindustry.biz/xbox-reveals-pricing-for-cloud-gaming-limits-starting-at-399-for-10-hours",
+      "sources": [
+        "Eurogamer",
+        "GamesIndustry.biz"
+      ],
+      "reprises": 2,
+      "heures": 2.4,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/xbox-reveals-pricing-for-cloud-gaming-limits-starting-at-399-for-10-hours",
+          "titre": "Xbox reveals pricing for cloud gaming limits, starting at $3.99 for 10 hours"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-cloud-gaming-prices-revealed",
+          "titre": "Xbox cloud gaming prices revealed, with 50 hours of ad-free game-time priced $11.99"
+        }
+      ]
+    },
+    {
+      "id": "star-wars-battlefront-3-reportedly-being-co-developed-by-bat",
+      "titre": "Star Wars: Battlefront 3 reportedly being co-developed by Battlefield studio DICE and Apex Legends studio Respawn",
+      "url": "https://www.eurogamer.net/star-wars-battlefront-3-developer-respawn-dice-report",
+      "sources": [
+        "Eurogamer",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 3.0,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/star-wars-battlefront-3-developer-respawn-dice-report",
+          "titre": "Star Wars: Battlefront 3 reportedly being co-developed by Battlefield studio DICE and Apex Legends studio Respawn"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/star-wars-battlefront-3-in-dev-at-dice-and-respawn-multiple-sources-say",
+          "titre": "Star Wars Battlefront 3 in Dev at DICE and Respawn, Multiple Sources Say"
+        }
+      ]
+    },
+    {
+      "id": "ea-is-shutting-down-rpg-veteran-bioware-to-align-talent-and",
+      "titre": "EA is shutting down RPG veteran Bioware \"to align talent and investments where we see the greatest opportunities for players and long-term growth\"",
+      "url": "https://www.rockpapershotgun.com/development-on-the-next-mass-effect-is-ending-ea-is-shutting-down-rpg-veteran-bioware-to-align-talent-and-investments-where-we-see-the-greatest-opportunities-for-players-and-long-term-growth",
+      "sources": [
+        "Push Square",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 4.7,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/development-on-the-next-mass-effect-is-ending-ea-is-shutting-down-rpg-veteran-bioware-to-align-talent-and-investments-where-we-see-the-greatest-opportunities-for-players-and-long-term-growth",
+          "titre": "EA is shutting down RPG veteran Bioware \"to align talent and investments where we see the greatest opportunities for players and long-term growth\""
         },
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/ea-shutting-down-rpg-dev-bioware-next-mass-effect-game-cancelled",
           "titre": "EA Shutting Down RPG Dev BioWare, Next Mass Effect Game Cancelled"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/rip-bioware-ea-has-shut-down-the-legendary-rpg-developer/",
-          "titre": "RIP BioWare: EA has shut down the legendary RPG developer"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/ea-is-closing-bioware-and-cancelling-the-next-mass-effect/",
-          "titre": "EA is closing BioWare and cancelling the next Mass Effect"
         }
       ]
     },
     {
-      "id": "cyberpunk-2077-edgerunners-2-update-2-5-officially-revealed",
-      "titre": "Cyberpunk 2077: Edgerunners 2 Update (2.5) Officially Revealed, Here Are The Full Patch Notes",
-      "url": "https://www.nintendolife.com/news/2026/10/cyberpunk-2077-edgerunners-2-update-2-5-officially-revealed-here-are-the-full-patch-notes",
+      "id": "further-xbox-layoff-rounds-reportedly-planned-for-this-month",
+      "titre": "Further Xbox layoff rounds reportedly planned for this month, November, and January, while a Game Pass overhaul is in the works",
+      "url": "https://www.rockpapershotgun.com/further-xbox-layoff-rounds-reportedly-planned-for-this-month-november-and-january-while-a-game-pass-overhaul-is-in-the-works",
       "sources": [
-        "Eurogamer",
-        "Nintendo Life",
-        "Push Square",
         "Rock Paper Shotgun"
       ],
-      "reprises": 4,
-      "heures": 4.1,
-      "chaleur": 13,
+      "reprises": 1,
+      "heures": 25.1,
+      "chaleur": 10,
       "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/cyberpunk-2077-edgerunners-2-update-2-5-officially-revealed-here-are-the-full-patch-notes",
-          "titre": "Cyberpunk 2077: Edgerunners 2 Update (2.5) Officially Revealed, Here Are The Full Patch Notes"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/cyberpunk-2077s-edgerunners-2-update-adds-two-new-quests-handgun-dual-wielding-and-the-ability-to-pimp-your-mantis-blades",
-          "titre": "Cyberpunk 2077's Edgerunners 2 update adds two new quests, handgun dual wielding and the ability to pimp your mantis blades"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/cyberpunk-2077-update-edgerunners-2-mod-support",
-          "titre": "CD Projekt Red details new Cyberpunk 2077 update - adding dual-wielding, cross-platform mods, Edgerunners story quests, and more"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/cyberpunk-2077-ps5-patch-2-5-notes-revealed-update-live-on-thursday",
-          "titre": "Cyberpunk 2077 PS5 Patch 2.5 Notes Revealed, Update Live on Thursday"
-        }
-      ]
-    },
-    {
-      "id": "xbox-reportedly-planning-three-more-rounds-of-layoffs-with-t",
-      "titre": "Xbox reportedly planning three more rounds of layoffs, with the first wave coming as early as this month",
-      "url": "https://www.eurogamer.net/xbox-layoffs-october-november-january-report",
-      "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 17.7,
-      "chaleur": 13,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-layoffs-october-november-january-report",
-          "titre": "Xbox reportedly planning three more rounds of layoffs, with the first wave coming as early as this month"
-        },
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/further-xbox-layoff-rounds-reportedly-planned-for-this-month-november-and-january-while-a-game-pass-overhaul-is-in-the-works",
           "titre": "Further Xbox layoff rounds reportedly planned for this month, November, and January, while a Game Pass overhaul is in the works"
+        }
+      ]
+    },
+    {
+      "id": "while-ea-shuts-down-bioware-developers-of-the-sims-skate-and",
+      "titre": "While EA shuts down BioWare, developers of The Sims, Skate, and Battlefield say they've also lost their jobs",
+      "url": "https://www.rockpapershotgun.com/while-ea-shuts-down-bioware-developers-of-the-sims-skate-and-battlefield-say-theyve-also-lost-their-jobs",
+      "sources": [
+        "Nintendo Life",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 1.2,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/while-ea-shuts-down-bioware-developers-of-the-sims-skate-and-battlefield-say-theyve-also-lost-their-jobs",
+          "titre": "While EA shuts down BioWare, developers of The Sims, Skate, and Battlefield say they've also lost their jobs"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/ea-shuts-down-legendary-rpg-developer-bioware",
+          "titre": "EA Shuts Down Legendary RPG Developer BioWare"
+        }
+      ]
+    },
+    {
+      "id": "cyberpunk-2077-ps5-update-2-5-live-now-get-the-patch-notes-h",
+      "titre": "Cyberpunk 2077 PS5 Update 2.5 Live Now, Get the Patch Notes Here",
+      "url": "https://www.pushsquare.com/news/2026/10/cyberpunk-2077-ps5-update-2-5-live-now-get-the-patch-notes-here",
+      "sources": [
+        "Nintendo Life",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 1.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/cyberpunk-2077-ps5-update-2-5-live-now-get-the-patch-notes-here",
+          "titre": "Cyberpunk 2077 PS5 Update 2.5 Live Now, Get the Patch Notes Here"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/cyberpunk-2077-edgerunners-2-update-2-5-officially-revealed-here-are-the-full-patch-notes",
+          "titre": "Cyberpunk 2077: Edgerunners 2 Update (2.5) Officially Revealed, Here Are The Full Patch Notes"
         }
       ]
     },
@@ -108,8 +168,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 10.9,
-      "chaleur": 10,
+      "heures": 18.0,
+      "chaleur": 9,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -124,6 +184,348 @@ const VEILLE = {
       ]
     },
     {
+      "id": "report-explores-how-roblox-can-maintain-older-players-as-it",
+      "titre": "Report explores how Roblox can maintain older players as it becomes most-played game by total hours in H1 2026",
+      "url": "https://www.gamesindustry.biz/report-explores-how-roblox-can-maintain-older-players-as-it-becomes-most-played-game-by-total-hours-in-h1-2026",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 0.7,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/report-explores-how-roblox-can-maintain-older-players-as-it-becomes-most-played-game-by-total-hours-in-h1-2026",
+          "titre": "Report explores how Roblox can maintain older players as it becomes most-played game by total hours in H1 2026"
+        }
+      ]
+    },
+    {
+      "id": "mass-effect-s-amazon-series-is-reportedly-continuing-after-b",
+      "titre": "Mass Effect's Amazon series is reportedly continuing after BioWare shutdown, which'll make an uncomfortable gravestone for the studio's work",
+      "url": "https://www.pcgamer.com/movies-tv/mass-effects-amazon-series-is-reportedly-continuing-after-bioware-shutdown-whichll-make-an-uncomfortable-gravestone-for-the-studios-work/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/movies-tv/mass-effects-amazon-series-is-reportedly-continuing-after-bioware-shutdown-whichll-make-an-uncomfortable-gravestone-for-the-studios-work/",
+          "titre": "Mass Effect's Amazon series is reportedly continuing after BioWare shutdown, which'll make an uncomfortable gravestone for the studio's work"
+        }
+      ]
+    },
+    {
+      "id": "masahiro-sakurai-says-as-ai-games-dominate-steam-developers",
+      "titre": "Masahiro Sakurai says as AI games dominate Steam, developers who are truly creative will become even more important",
+      "url": "https://www.videogameschronicle.com/news/masahiro-sakurai-says-as-ai-games-dominate-steam-developers-who-are-truly-creative-will-become-even-more-important/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 2.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/masahiro-sakurai-says-as-ai-games-dominate-steam-developers-who-are-truly-creative-will-become-even-more-important/",
+          "titre": "Masahiro Sakurai says as AI games dominate Steam, developers who are truly creative will become even more important"
+        }
+      ]
+    },
+    {
+      "id": "we-made-a-very-difficult-decision-australian-indie-showcase",
+      "titre": "\"We made a very difficult decision\": Australian indie showcase Freeplay reject antisemitism claims after delisting a Jewish sponsor who was allegedly accused of being a \"zionist\"",
+      "url": "https://www.rockpapershotgun.com/we-made-a-very-difficult-decision-australian-indie-showcase-freeplay-reject-antisemitism-claims-after-delisting-a-jewish-sponsor-who-was-allegedly-accused-of-being-a-zionist",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/we-made-a-very-difficult-decision-australian-indie-showcase-freeplay-reject-antisemitism-claims-after-delisting-a-jewish-sponsor-who-was-allegedly-accused-of-being-a-zionist",
+          "titre": "\"We made a very difficult decision\": Australian indie showcase Freeplay reject antisemitism claims after delisting a Jewish sponsor who was allegedly accused of being a \"zionist\""
+        }
+      ]
+    },
+    {
+      "id": "how-to-clear-a-compound-in-modern-warfare-4-dmz",
+      "titre": "How to clear a compound in Modern Warfare 4 DMZ",
+      "url": "https://www.pcgamer.com/games/call-of-duty/dmz-clear-a-compound-no-one-left/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/call-of-duty/dmz-clear-a-compound-no-one-left/",
+          "titre": "How to clear a compound in Modern Warfare 4 DMZ"
+        }
+      ]
+    },
+    {
+      "id": "cod-mw4-campaign-all-codes-for-safes-doors-and-lockboxes",
+      "titre": "COD MW4 Campaign: All codes for safes, doors, and lockboxes",
+      "url": "https://www.videogameschronicle.com/guide/cod-mw4-campaign-all-codes-for-safes-doors-and-lockboxes/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/cod-mw4-campaign-all-codes-for-safes-doors-and-lockboxes/",
+          "titre": "COD MW4 Campaign: All codes for safes, doors, and lockboxes"
+        }
+      ]
+    },
+    {
+      "id": "cyberpunk-2077-has-over-50-mods-on-ps5-including-new-quests",
+      "titre": "Cyberpunk 2077 Has Over 50 Mods on PS5, Including New Quests, Improved Romance, Cut Content, and More",
+      "url": "https://www.pushsquare.com/news/2026/10/cyberpunk-2077-has-over-50-mods-on-ps5-including-new-quests-improved-romance-cut-content-and-more",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/cyberpunk-2077-has-over-50-mods-on-ps5-including-new-quests-improved-romance-cut-content-and-more",
+          "titre": "Cyberpunk 2077 Has Over 50 Mods on PS5, Including New Quests, Improved Romance, Cut Content, and More"
+        }
+      ]
+    },
+    {
+      "id": "how-pantaloon-is-curating-an-evolving-library-of-bold-and-bi",
+      "titre": "How Pantaloon is curating an \"evolving library of bold and bizarre games\" with its new subscription service",
+      "url": "https://www.gamesindustry.biz/how-pantaloon-is-curating-an-evolving-library-of-bold-and-bizarre-games-with-its-new-subscription-service",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 0.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/how-pantaloon-is-curating-an-evolving-library-of-bold-and-bizarre-games-with-its-new-subscription-service",
+          "titre": "How Pantaloon is curating an \"evolving library of bold and bizarre games\" with its new subscription service"
+        }
+      ]
+    },
+    {
+      "id": "the-iconic-windows-fish-screensaver-was-inspired-by-a-dentis",
+      "titre": "The iconic Windows fish screensaver was inspired by a dentist's office, which makes a lot of sense when you think about it",
+      "url": "https://www.pcgamer.com/hardware/the-iconic-windows-fish-screensaver-was-inspired-by-a-dentists-office-which-makes-a-lot-of-sense-when-you-think-about-it/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/the-iconic-windows-fish-screensaver-was-inspired-by-a-dentists-office-which-makes-a-lot-of-sense-when-you-think-about-it/",
+          "titre": "The iconic Windows fish screensaver was inspired by a dentist's office, which makes a lot of sense when you think about it"
+        }
+      ]
+    },
+    {
+      "id": "star-wars-the-old-republic-lead-writer-calls-out-bioware-for",
+      "titre": "Star Wars: The Old Republic lead writer calls out BioWare for snubbing the MMO",
+      "url": "https://www.pcgamer.com/games/mmo/star-wars-the-old-republic-lead-writer-calls-out-bioware-for-snubbing-the-mmo/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/mmo/star-wars-the-old-republic-lead-writer-calls-out-bioware-for-snubbing-the-mmo/",
+          "titre": "Star Wars: The Old Republic lead writer calls out BioWare for snubbing the MMO"
+        }
+      ]
+    },
+    {
+      "id": "pok-mon-apps-are-coming-back-online-after-extended-cybersecu",
+      "titre": "Pokémon Apps Are Coming Back Online After Extended Cybersecurity Outage",
+      "url": "https://www.nintendolife.com/news/2026/10/pokemon-apps-are-coming-back-online-after-extended-cybersecurity-outage",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/pokemon-apps-are-coming-back-online-after-extended-cybersecurity-outage",
+          "titre": "Pokémon Apps Are Coming Back Online After Extended Cybersecurity Outage"
+        }
+      ]
+    },
+    {
+      "id": "dawnwalker-ps5-patch-1-1-is-available-to-download-now-13gb-u",
+      "titre": "Dawnwalker PS5 Patch 1.1 Is Available to Download Now, 13GB Update with Over 1,100 Improvements",
+      "url": "https://www.pushsquare.com/news/2026/10/dawnwalker-ps5-patch-1-1-is-available-to-download-now-13gb-update-with-over-1100-improvements",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/dawnwalker-ps5-patch-1-1-is-available-to-download-now-13gb-update-with-over-1100-improvements",
+          "titre": "Dawnwalker PS5 Patch 1.1 Is Available to Download Now, 13GB Update with Over 1,100 Improvements"
+        }
+      ]
+    },
+    {
+      "id": "best-black-friday-controller-deals",
+      "titre": "Best Black Friday controller deals",
+      "url": "https://www.pcgamer.com/hardware/controllers/black-friday-controller-deals/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/controllers/black-friday-controller-deals/",
+          "titre": "Best Black Friday controller deals"
+        }
+      ]
+    },
+    {
+      "id": "reminder-pre-orders-go-live-today-for-gran-turismo-s-gorgeou",
+      "titre": "Reminder: Pre-Orders Go Live Today for Gran Turismo's Gorgeous PS5 Controller",
+      "url": "https://www.pushsquare.com/news/2026/10/reminder-pre-orders-go-live-today-for-gran-turismos-gorgeous-ps5-controller",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/reminder-pre-orders-go-live-today-for-gran-turismos-gorgeous-ps5-controller",
+          "titre": "Reminder: Pre-Orders Go Live Today for Gran Turismo's Gorgeous PS5 Controller"
+        }
+      ]
+    },
+    {
+      "id": "mass-effect-5-was-aiming-to-offer-a-level-of-autonomy-and-ch",
+      "titre": "Mass Effect 5 was aiming to offer a \"level of autonomy and choice\" that could vault it into orbit with Larian and CD Projekt's top RPGs, former dev says post-cancellation",
+      "url": "https://www.rockpapershotgun.com/mass-effect-5-was-aiming-to-offer-a-level-of-autonomy-and-choice-that-could-vault-it-into-orbit-with-larian-and-cd-projekts-top-rpgs-former-dev-says-post-cancellation",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/mass-effect-5-was-aiming-to-offer-a-level-of-autonomy-and-choice-that-could-vault-it-into-orbit-with-larian-and-cd-projekts-top-rpgs-former-dev-says-post-cancellation",
+          "titre": "Mass Effect 5 was aiming to offer a \"level of autonomy and choice\" that could vault it into orbit with Larian and CD Projekt's top RPGs, former dev says post-cancellation"
+        }
+      ]
+    },
+    {
+      "id": "capcom-says-a-data-breach-affected-more-than-11-million-capc",
+      "titre": "Capcom says a data breach affected more than 11 million Capcom ID accounts, credit card details unaffected",
+      "url": "https://www.videogameschronicle.com/news/capcom-says-a-data-breach-affected-more-than-11-million-capcom-id-accounts-credit-card-details-unaffected/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/capcom-says-a-data-breach-affected-more-than-11-million-capcom-id-accounts-credit-card-details-unaffected/",
+          "titre": "Capcom says a data breach affected more than 11 million Capcom ID accounts, credit card details unaffected"
+        }
+      ]
+    },
+    {
+      "id": "cooler-master-haf-ii-500-review",
+      "titre": "Cooler Master HAF II 500 review",
+      "url": "https://www.pcgamer.com/hardware/pc-cases/cooler-master-haf-ii-500-review/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/pc-cases/cooler-master-haf-ii-500-review/",
+          "titre": "Cooler Master HAF II 500 review"
+        }
+      ]
+    },
+    {
+      "id": "phantom-blade-zero-physical-version-set-for-2027-3-ps5-editi",
+      "titre": "Phantom Blade Zero Physical Version Set for 2027, 3 PS5 Editions Revealed",
+      "url": "https://www.pushsquare.com/news/2026/10/phantom-blade-zero-physical-version-set-for-2027-3-ps5-editions-revealed",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 3.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/phantom-blade-zero-physical-version-set-for-2027-3-ps5-editions-revealed",
+          "titre": "Phantom Blade Zero Physical Version Set for 2027, 3 PS5 Editions Revealed"
+        }
+      ]
+    },
+    {
+      "id": "fortnite-returns-to-ios-in-australia-after-court-rules-apple",
+      "titre": "Fortnite returns to iOS in Australia after court rules Apple violated competition law",
+      "url": "https://www.gamesindustry.biz/fortnite-returns-to-ios-in-australia-after-court-rules-apple-violated-competition-law",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 3.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/fortnite-returns-to-ios-in-australia-after-court-rules-apple-violated-competition-law",
+          "titre": "Fortnite returns to iOS in Australia after court rules Apple violated competition law"
+        }
+      ]
+    },
+    {
       "id": "limited-run-announces-hitman-absolution-switch-2-physical-re",
       "titre": "Limited Run Announces Hitman: Absolution Switch 2 Physical Release, Here's A Look",
       "url": "https://www.nintendolife.com/news/2026/10/limited-run-announces-hitman-absolution-switch-2-physical-release-heres-a-look",
@@ -131,13 +533,31 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.0,
-      "chaleur": 8,
+      "heures": 9.2,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/limited-run-announces-hitman-absolution-switch-2-physical-release-heres-a-look",
           "titre": "Limited Run Announces Hitman: Absolution Switch 2 Physical Release, Here's A Look"
+        }
+      ]
+    },
+    {
+      "id": "do-not-miss-this-playstation-all-timer-while-it-costs-less-t",
+      "titre": "Do Not Miss This PlayStation All-Timer While It Costs Less Than a Frothy Coffee",
+      "url": "https://www.pushsquare.com/news/2026/10/do-not-miss-this-playstation-all-timer-while-it-costs-less-than-a-frothy-coffee",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 11.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/do-not-miss-this-playstation-all-timer-while-it-costs-less-than-a-frothy-coffee",
+          "titre": "Do Not Miss This PlayStation All-Timer While It Costs Less Than a Frothy Coffee"
         }
       ]
     },
@@ -150,8 +570,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 6.8,
-      "chaleur": 7,
+      "heures": 14.0,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
@@ -173,8 +593,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.0,
-      "chaleur": 7,
+      "heures": 16.2,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
@@ -191,8 +611,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 9.5,
-      "chaleur": 7,
+      "heures": 16.7,
+      "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
@@ -209,8 +629,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 7,
+      "heures": 17.7,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
@@ -220,128 +640,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-next-mass-effect-would-have-had-a-level-of-autonomy-and",
-      "titre": "The next Mass Effect would have had 'a level of autonomy and choice that no other game has been able to match', according to BioWare veteran",
-      "url": "https://www.pcgamer.com/games/mass-effect/the-next-mass-effect-would-have-had-a-level-of-autonomy-and-choice-that-no-other-game-has-been-able-to-match-according-to-bioware-veteran/",
+      "id": "cyberpunk-2077-is-getting-another-big-update-2-years-after-c",
+      "titre": "Cyberpunk 2077 is getting another big update, 2 years after CD Projekt claimed it was finished",
+      "url": "https://www.videogameschronicle.com/news/cyberpunk-2077-is-getting-yet-another-big-update-2-years-cd-projekt-claimed-it-was-finished/",
       "sources": [
-        "PC Gamer"
+        "Eurogamer",
+        "VGC"
       ],
-      "reprises": 1,
-      "heures": 3.3,
+      "reprises": 2,
+      "heures": 18.7,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/mass-effect/the-next-mass-effect-would-have-had-a-level-of-autonomy-and-choice-that-no-other-game-has-been-able-to-match-according-to-bioware-veteran/",
-          "titre": "The next Mass Effect would have had 'a level of autonomy and choice that no other game has been able to match', according to BioWare veteran"
-        }
-      ]
-    },
-    {
-      "id": "can-you-identify-the-horror-game-by-its-horrors",
-      "titre": "Can you identify the horror game by its horrors?",
-      "url": "https://www.pcgamer.com/games/can-you-identify-the-horror-game-by-its-horrors/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/can-you-identify-the-horror-game-by-its-horrors/",
-          "titre": "Can you identify the horror game by its horrors?"
-        }
-      ]
-    },
-    {
-      "id": "do-not-miss-this-playstation-all-timer-while-it-costs-less-t",
-      "titre": "Do Not Miss This PlayStation All-Timer While It Costs Less Than a Frothy Coffee",
-      "url": "https://www.pushsquare.com/news/2026/10/do-not-miss-this-playstation-all-timer-while-it-costs-less-than-a-frothy-coffee",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 4.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/do-not-miss-this-playstation-all-timer-while-it-costs-less-than-a-frothy-coffee",
-          "titre": "Do Not Miss This PlayStation All-Timer While It Costs Less Than a Frothy Coffee"
-        }
-      ]
-    },
-    {
-      "id": "it-gives-me-great-nerdly-joy-that-the-next-fest-demo-on-stea",
-      "titre": "It gives me great nerdly joy that the Next Fest demo on Steam's 100 most-played games list is a shopkeeping sim",
-      "url": "https://www.pcgamer.com/games/sim/it-gives-me-great-nerdly-joy-that-the-next-fest-demo-on-steams-100-most-played-games-list-is-a-shopkeeping-sim/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 8.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/it-gives-me-great-nerdly-joy-that-the-next-fest-demo-on-steams-100-most-played-games-list-is-a-shopkeeping-sim/",
-          "titre": "It gives me great nerdly joy that the Next Fest demo on Steam's 100 most-played games list is a shopkeeping sim"
-        }
-      ]
-    },
-    {
-      "id": "ea-cancels-unannounced-the-sims-project-trims-the-skate-team",
-      "titre": "EA cancels unannounced The Sims project, trims the Skate team and reportedly plans to lay off 400 workers: \"We're the number one publisher in Western HD gaming\"",
-      "url": "https://www.eurogamer.net/ea-cancels-sims-skate-400-layoffs",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 9.5,
-      "chaleur": 6,
-      "liens": [
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/cyberpunk-2077-is-getting-yet-another-big-update-2-years-cd-projekt-claimed-it-was-finished/",
+          "titre": "Cyberpunk 2077 is getting another big update, 2 years after CD Projekt claimed it was finished"
+        },
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/ea-cancels-sims-skate-400-layoffs",
-          "titre": "EA cancels unannounced The Sims project, trims the Skate team and reportedly plans to lay off 400 workers: \"We're the number one publisher in Western HD gaming\""
-        }
-      ]
-    },
-    {
-      "id": "ps6-costs-200-less-to-make-than-xbox-helix-snoop-claims",
-      "titre": "PS6 Costs $200 Less to Make Than Xbox Helix, Snoop Claims",
-      "url": "https://www.pushsquare.com/news/2026/10/ps6-costs-usd200-less-to-make-than-xbox-helix-snoop-claims",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 10.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/ps6-costs-usd200-less-to-make-than-xbox-helix-snoop-claims",
-          "titre": "PS6 Costs $200 Less to Make Than Xbox Helix, Snoop Claims"
-        }
-      ]
-    },
-    {
-      "id": "us-government-leaks-the-best-gta-6-promo-yet-pi-wasser-is-re",
-      "titre": "US government leaks the best GTA 6 promo yet: Pißwasser is real",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/us-government-leaks-the-best-gta-6-promo-yet-pisswasser-is-real/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 12.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/us-government-leaks-the-best-gta-6-promo-yet-pisswasser-is-real/",
-          "titre": "US government leaks the best GTA 6 promo yet: Pißwasser is real"
+          "url": "https://www.eurogamer.net/cyberpunk-2077-update-edgerunners-2-mod-support",
+          "titre": "CD Projekt Red details new Cyberpunk 2077 update - adding dual-wielding, cross-platform mods, Edgerunners story quests, and more"
         }
       ]
     },
@@ -353,7 +671,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.8,
+      "heures": 19.9,
       "chaleur": 6,
       "liens": [
         {
@@ -371,37 +689,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 20.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/a-remaster-of-the-shrek-2-game-from-2004-has-been-announced-via-a-gta-like-trailer/",
           "titre": "A remaster of the Shrek 2 game from 2004 has been announced via a GTA-like trailer"
-        }
-      ]
-    },
-    {
-      "id": "a-permanent-pok-mon-store-is-finally-coming-to-london",
-      "titre": "A Permanent Pokémon Store Is Finally Coming To London",
-      "url": "https://www.nintendolife.com/news/2026/10/a-permanent-pokemon-store-is-finally-coming-to-london",
-      "sources": [
-        "Nintendo Life",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 14.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/a-permanent-pokemon-store-is-finally-coming-to-london",
-          "titre": "A Permanent Pokémon Store Is Finally Coming To London"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/a-permanent-pokemon-retail-store-is-coming-to-london-the-first-of-several-outside-asia/",
-          "titre": "A permanent Pokémon retail store is coming to London, the first of several planned to open outside Asia"
         }
       ]
     },
@@ -413,37 +707,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.0,
+      "heures": 22.2,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/guides/65-switch-1-and-2-games-you-should-check-out-in-nintendos-screaming-deals-sale-north-america",
           "titre": "Guide: 65 Switch 1 & 2 Games You Should Check Out In Nintendo's 'Screaming Deals' Sale (North America)"
-        }
-      ]
-    },
-    {
-      "id": "football-manager-27-is-launching-for-free-for-a-limited-time",
-      "titre": "Football Manager 27 is launching for free for a limited time, following troubled 26 game",
-      "url": "https://www.videogameschronicle.com/news/football-manager-27-is-launching-for-free-for-a-limited-time-following-troubled-26-game/",
-      "sources": [
-        "Eurogamer",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 16.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/football-manager-27-is-launching-for-free-for-a-limited-time-following-troubled-26-game/",
-          "titre": "Football Manager 27 is launching for free for a limited time, following troubled 26 game"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/football-manager-27-free-to-play-five-days",
-          "titre": "Football Manager 27 will be free to play for five days before its full release, in \"industry first\" for a game of its kind"
         }
       ]
     },
@@ -456,7 +726,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 17.4,
+      "heures": 24.5,
       "chaleur": 6,
       "liens": [
         {
@@ -479,7 +749,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 17.6,
+      "heures": 24.8,
       "chaleur": 6,
       "liens": [
         {
@@ -490,20 +760,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-legend-of-zelda-ocarina-of-time-switch-2-estimated-file",
-      "titre": "The Legend Of Zelda: Ocarina Of Time Switch 2 Estimated File Size Revealed",
-      "url": "https://www.nintendolife.com/news/2026/10/the-legend-of-zelda-ocarina-of-time-switch-2-estimated-file-size-revealed",
+      "id": "it-gives-me-great-nerdly-joy-that-the-next-fest-demo-on-stea",
+      "titre": "It gives me great nerdly joy that the Next Fest demo on Steam's 100 most-played games list is a shopkeeping sim",
+      "url": "https://www.pcgamer.com/games/sim/it-gives-me-great-nerdly-joy-that-the-next-fest-demo-on-steams-100-most-played-games-list-is-a-shopkeeping-sim/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 25.0,
-      "chaleur": 6,
+      "heures": 15.6,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/the-legend-of-zelda-ocarina-of-time-switch-2-estimated-file-size-revealed",
-          "titre": "The Legend Of Zelda: Ocarina Of Time Switch 2 Estimated File Size Revealed"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sim/it-gives-me-great-nerdly-joy-that-the-next-fest-demo-on-steams-100-most-played-games-list-is-a-shopkeeping-sim/",
+          "titre": "It gives me great nerdly joy that the Next Fest demo on Steam's 100 most-played games list is a shopkeeping sim"
+        }
+      ]
+    },
+    {
+      "id": "ea-cancels-unannounced-the-sims-project-trims-the-skate-team",
+      "titre": "EA cancels unannounced The Sims project, trims the Skate team and reportedly plans to lay off 400 workers: \"We're the number one publisher in Western HD gaming\"",
+      "url": "https://www.eurogamer.net/ea-cancels-sims-skate-400-layoffs",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 16.6,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/ea-cancels-sims-skate-400-layoffs",
+          "titre": "EA cancels unannounced The Sims project, trims the Skate team and reportedly plans to lay off 400 workers: \"We're the number one publisher in Western HD gaming\""
+        }
+      ]
+    },
+    {
+      "id": "ps6-costs-200-less-to-make-than-xbox-helix-snoop-claims",
+      "titre": "PS6 Costs $200 Less to Make Than Xbox Helix, Snoop Claims",
+      "url": "https://www.pushsquare.com/news/2026/10/ps6-costs-usd200-less-to-make-than-xbox-helix-snoop-claims",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 17.2,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/ps6-costs-usd200-less-to-make-than-xbox-helix-snoop-claims",
+          "titre": "PS6 Costs $200 Less to Make Than Xbox Helix, Snoop Claims"
         }
       ]
     },
@@ -515,31 +821,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 19.7,
       "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/beyond-good-and-evil-bge2-report-ubisoft",
           "titre": "Beyond Good & Evil 2 reportedly still in development 18 years after being announced, now a \"solo-first\" adventure"
-        }
-      ]
-    },
-    {
-      "id": "sony-said-xbox-game-pass-isn-t-sustainable-now-it-seems-the",
-      "titre": "Sony Said Xbox Game Pass Isn't Sustainable, Now It Seems the Gravy Train Is Almost Over",
-      "url": "https://www.pushsquare.com/news/2026/10/sony-said-xbox-game-pass-isnt-sustainable-now-it-seems-the-gravy-train-is-almost-over",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 13.0,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/sony-said-xbox-game-pass-isnt-sustainable-now-it-seems-the-gravy-train-is-almost-over",
-          "titre": "Sony Said Xbox Game Pass Isn't Sustainable, Now It Seems the Gravy Train Is Almost Over"
         }
       ]
     },
@@ -551,7 +839,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 20.7,
       "chaleur": 5,
       "liens": [
         {
@@ -569,7 +857,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 22.0,
       "chaleur": 5,
       "liens": [
         {
@@ -587,7 +875,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.8,
+      "heures": 22.9,
       "chaleur": 5,
       "liens": [
         {
@@ -605,7 +893,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.5,
+      "heures": 23.7,
       "chaleur": 5,
       "liens": [
         {
@@ -623,7 +911,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.3,
+      "heures": 24.4,
       "chaleur": 5,
       "liens": [
         {
@@ -641,7 +929,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.3,
+      "heures": 24.5,
       "chaleur": 5,
       "liens": [
         {
@@ -659,7 +947,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.8,
+      "heures": 30.9,
       "chaleur": 5,
       "liens": [
         {
@@ -670,20 +958,74 @@ const VEILLE = {
       ]
     },
     {
-      "id": "ubisoft-s-extreme-sports-playground-riders-republic-launches",
-      "titre": "Ubisoft's Extreme Sports Playground 'Riders Republic' Launches On Switch 2 This December",
-      "url": "https://www.nintendolife.com/news/2026/10/ubisofts-extreme-sports-playground-riders-republic-launches-on-switch-2-this-december",
+      "id": "ea-outlines-future-development-plans-as-it-prepares-to-cut-a",
+      "titre": "EA Outlines Future Development Plans As It Prepares To Cut Around 400 Jobs",
+      "url": "https://www.nintendolife.com/news/2026/10/ea-outlines-future-development-plans-as-it-prepares-to-cut-around-400-jobs",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 26.6,
-      "chaleur": 5,
+      "heures": 5.2,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/ubisofts-extreme-sports-playground-riders-republic-launches-on-switch-2-this-december",
-          "titre": "Ubisoft's Extreme Sports Playground 'Riders Republic' Launches On Switch 2 This December"
+          "url": "https://www.nintendolife.com/news/2026/10/ea-outlines-future-development-plans-as-it-prepares-to-cut-around-400-jobs",
+          "titre": "EA Outlines Future Development Plans As It Prepares To Cut Around 400 Jobs"
+        }
+      ]
+    },
+    {
+      "id": "minecraft-x-dragon-ball-z-1-1-legends-update-adds-more-chara",
+      "titre": "Minecraft x Dragon Ball Z - 1.1 Legends Update Adds More Characters, New Story Mode Fights & Custom Tournament",
+      "url": "https://www.nintendolife.com/news/2026/10/minecraft-x-dragon-ball-z-1-1-legends-update-adds-more-characters-new-story-mode-fights-and-custom-tournament",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 6.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/minecraft-x-dragon-ball-z-1-1-legends-update-adds-more-characters-new-story-mode-fights-and-custom-tournament",
+          "titre": "Minecraft x Dragon Ball Z - 1.1 Legends Update Adds More Characters, New Story Mode Fights & Custom Tournament"
+        }
+      ]
+    },
+    {
+      "id": "the-next-mass-effect-would-have-had-a-level-of-autonomy-and",
+      "titre": "The next Mass Effect would have had 'a level of autonomy and choice that no other game has been able to match', according to BioWare veteran",
+      "url": "https://www.pcgamer.com/games/mass-effect/the-next-mass-effect-would-have-had-a-level-of-autonomy-and-choice-that-no-other-game-has-been-able-to-match-according-to-bioware-veteran/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 10.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/mass-effect/the-next-mass-effect-would-have-had-a-level-of-autonomy-and-choice-that-no-other-game-has-been-able-to-match-according-to-bioware-veteran/",
+          "titre": "The next Mass Effect would have had 'a level of autonomy and choice that no other game has been able to match', according to BioWare veteran"
+        }
+      ]
+    },
+    {
+      "id": "can-you-identify-the-horror-game-by-its-horrors",
+      "titre": "Can you identify the horror game by its horrors?",
+      "url": "https://www.pcgamer.com/games/can-you-identify-the-horror-game-by-its-horrors/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 10.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/can-you-identify-the-horror-game-by-its-horrors/",
+          "titre": "Can you identify the horror game by its horrors?"
         }
       ]
     },
@@ -695,7 +1037,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 11.5,
       "chaleur": 4,
       "liens": [
         {
@@ -713,8 +1055,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.5,
-      "chaleur": 4,
+      "heures": 12.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -731,8 +1073,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.1,
-      "chaleur": 4,
+      "heures": 13.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -749,8 +1091,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.9,
-      "chaleur": 4,
+      "heures": 14.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -767,31 +1109,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.6,
-      "chaleur": 4,
+      "heures": 15.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/world-of-warcraft/everyone-gets-a-free-ticket-to-world-of-warcraft-forever-today-as-blizzard-stress-tests-the-servers-ahead-of-launch-day/",
           "titre": "Everyone gets a free ticket to World of Warcraft: Forever today as Blizzard stress tests the servers ahead of launch day"
-        }
-      ]
-    },
-    {
-      "id": "star-wars-battlefront-3-in-dev-at-dice-and-respawn-multiple",
-      "titre": "Star Wars Battlefront 3 in Dev at DICE and Respawn, Multiple Sources Say",
-      "url": "https://www.pushsquare.com/news/2026/10/star-wars-battlefront-3-in-dev-at-dice-and-respawn-multiple-sources-say",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 9.5,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/star-wars-battlefront-3-in-dev-at-dice-and-respawn-multiple-sources-say",
-          "titre": "Star Wars Battlefront 3 in Dev at DICE and Respawn, Multiple Sources Say"
         }
       ]
     },
@@ -803,8 +1127,8 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 9.6,
-      "chaleur": 4,
+      "heures": 16.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Game Developer",
@@ -812,351 +1136,7 @@ const VEILLE = {
           "titre": "EA closes Mass Effect, Dragon Age creator BioWare after 30 years of game development"
         }
       ]
-    },
-    {
-      "id": "with-bioware-dead-ea-lays-out-its-next-chapter-and-it-s-pret",
-      "titre": "With BioWare dead, EA lays out its 'next chapter,' and it's pretty much as predicted: Guns and football are fine, and everything else is under the microscope",
-      "url": "https://www.pcgamer.com/gaming-industry/with-bioware-dead-ea-lays-out-its-next-chapter-and-its-pretty-much-as-predicted-guns-and-football-are-fine-and-everything-else-is-under-the-microscope/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 9.8,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/with-bioware-dead-ea-lays-out-its-next-chapter-and-its-pretty-much-as-predicted-guns-and-football-are-fine-and-everything-else-is-under-the-microscope/",
-          "titre": "With BioWare dead, EA lays out its 'next chapter,' and it's pretty much as predicted: Guns and football are fine, and everything else is under the microscope"
-        }
-      ]
-    },
-    {
-      "id": "cyberpunk-2077-is-getting-another-big-update-2-years-after-c",
-      "titre": "Cyberpunk 2077 is getting another big update, 2 years after CD Projekt claimed it was finished",
-      "url": "https://www.videogameschronicle.com/news/cyberpunk-2077-is-getting-yet-another-big-update-2-years-cd-projekt-claimed-it-was-finished/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/cyberpunk-2077-is-getting-yet-another-big-update-2-years-cd-projekt-claimed-it-was-finished/",
-          "titre": "Cyberpunk 2077 is getting another big update, 2 years after CD Projekt claimed it was finished"
-        }
-      ]
-    },
-    {
-      "id": "rumour-beyond-good-evil-2-isn-t-dead-yet-and-it-s-being-comp",
-      "titre": "Rumour: Beyond Good & Evil 2 Isn't Dead Yet, and It's Being Compared to PS5's Spider-Man Games",
-      "url": "https://www.pushsquare.com/news/2026/10/rumour-beyond-good-and-evil-2-isnt-dead-yet-and-its-being-compared-to-ps5s-spider-man-games",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/rumour-beyond-good-and-evil-2-isnt-dead-yet-and-its-being-compared-to-ps5s-spider-man-games",
-          "titre": "Rumour: Beyond Good & Evil 2 Isn't Dead Yet, and It's Being Compared to PS5's Spider-Man Games"
-        }
-      ]
-    },
-    {
-      "id": "first-person-soulslike-valor-mortis-is-already-making-a-prof",
-      "titre": "First-person Soulslike Valor Mortis is already making a profit after seven days, despite launching against some stiff competition",
-      "url": "https://www.eurogamer.net/soulslike-valor-mortis-making-profit-seven-days",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/soulslike-valor-mortis-making-profit-seven-days",
-          "titre": "First-person Soulslike Valor Mortis is already making a profit after seven days, despite launching against some stiff competition"
-        }
-      ]
-    },
-    {
-      "id": "nearly-1-million-worth-of-psa-graded-pok-mon-and-other-tradi",
-      "titre": "Nearly $1 million worth of PSA-graded Pokémon and other trading cards have been stolen right outside PSA's headquarters",
-      "url": "https://www.pcgamer.com/gaming-industry/nearly-usd1-million-worth-of-psa-graded-pokemon-and-other-tcg-have-been-stolen-right-outside-psas-headquarters/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/nearly-usd1-million-worth-of-psa-graded-pokemon-and-other-tcg-have-been-stolen-right-outside-psas-headquarters/",
-          "titre": "Nearly $1 million worth of PSA-graded Pokémon and other trading cards have been stolen right outside PSA's headquarters"
-        }
-      ]
-    },
-    {
-      "id": "one-of-ps5-s-best-exclusive-games-is-at-an-all-time-low-pric",
-      "titre": "One of PS5's Best Exclusive Games Is at an All-Time Low Price",
-      "url": "https://www.pushsquare.com/news/2026/10/one-of-ps5s-best-exclusive-games-is-at-an-all-time-low-price",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 12.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/one-of-ps5s-best-exclusive-games-is-at-an-all-time-low-price",
-          "titre": "One of PS5's Best Exclusive Games Is at an All-Time Low Price"
-        }
-      ]
-    },
-    {
-      "id": "gog-taken-offline-for-maintenance-in-wake-of-php-security-em",
-      "titre": "GOG taken offline for maintenance in wake of PHP security emergency",
-      "url": "https://www.pcgamer.com/software/security/gog-taken-offline-for-maintenance-in-wake-of-php-security-emergency/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 12.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/security/gog-taken-offline-for-maintenance-in-wake-of-php-security-emergency/",
-          "titre": "GOG taken offline for maintenance in wake of PHP security emergency"
-        }
-      ]
-    },
-    {
-      "id": "guide-stage-tour-setlist-all-confirmed-songs-and-artists",
-      "titre": "Guide: Stage Tour Setlist: All Confirmed Songs and Artists",
-      "url": "https://www.pushsquare.com/guides/stage-tour-setlist-all-confirmed-songs-and-artists",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 12.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/guides/stage-tour-setlist-all-confirmed-songs-and-artists",
-          "titre": "Guide: Stage Tour Setlist: All Confirmed Songs and Artists"
-        }
-      ]
-    },
-    {
-      "id": "black-friday-gaming-mouse-deals",
-      "titre": "Black Friday gaming mouse deals",
-      "url": "https://www.pcgamer.com/hardware/gaming-mice/black-friday-gaming-mouse-deals/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 12.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-mice/black-friday-gaming-mouse-deals/",
-          "titre": "Black Friday gaming mouse deals"
-        }
-      ]
-    },
-    {
-      "id": "peak-isn-t-the-only-friendslop-game-coming-soon-to-ps5",
-      "titre": "Peak Isn't the Only 'Friendslop' Game Coming Soon to PS5",
-      "url": "https://www.pushsquare.com/news/2026/10/peak-isnt-the-only-friendslop-game-coming-soon-to-ps5",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 12.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/peak-isnt-the-only-friendslop-game-coming-soon-to-ps5",
-          "titre": "Peak Isn't the Only 'Friendslop' Game Coming Soon to PS5"
-        }
-      ]
-    },
-    {
-      "id": "world-of-warcraft-forever-s-beta-has-been-extended-as-commun",
-      "titre": "World of Warcraft: Forever's beta has been extended, as community members mourn the loss of their hunter pets",
-      "url": "https://www.eurogamer.net/world-of-warcraft-forever-beta-extended",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 12.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/world-of-warcraft-forever-beta-extended",
-          "titre": "World of Warcraft: Forever's beta has been extended, as community members mourn the loss of their hunter pets"
-        }
-      ]
-    },
-    {
-      "id": "a-puzzle-game-where-you-must-avoid-the-doing-the-most-awkwar",
-      "titre": "A puzzle game where you must avoid the doing the most awkward of things: facing someone while riding an elevator",
-      "url": "https://www.rockpapershotgun.com/a-puzzle-game-where-you-must-avoid-the-doing-the-most-awkward-of-things-facing-someone-while-riding-an-elevator",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 13.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/a-puzzle-game-where-you-must-avoid-the-doing-the-most-awkward-of-things-facing-someone-while-riding-an-elevator",
-          "titre": "A puzzle game where you must avoid the doing the most awkward of things: facing someone while riding an elevator"
-        }
-      ]
-    },
-    {
-      "id": "feature-40-ps5-ps4-games-to-buy-in-ps-store-s-planet-of-the",
-      "titre": "Feature: 40+ PS5, PS4 Games to Buy in PS Store's Planet of the Deals Sale",
-      "url": "https://www.pushsquare.com/features/40plus-ps5-ps4-games-to-buy-in-ps-stores-planet-of-the-deals-sale",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 13.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/40plus-ps5-ps4-games-to-buy-in-ps-stores-planet-of-the-deals-sale",
-          "titre": "Feature: 40+ PS5, PS4 Games to Buy in PS Store's Planet of the Deals Sale"
-        }
-      ]
-    },
-    {
-      "id": "i-keep-embarrassing-myself-in-front-of-the-nature-gods-in-ha",
-      "titre": "I keep embarrassing myself in front of the nature gods in handpainted 2D roguelike Talaka, whose colourful, combative demo is out now",
-      "url": "https://www.rockpapershotgun.com/i-keep-embarrassing-myself-in-front-of-the-nature-gods-in-handpainted-2d-roguelike-talaka-whose-colourful-combative-demo-is-out-now",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 13.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/i-keep-embarrassing-myself-in-front-of-the-nature-gods-in-handpainted-2d-roguelike-talaka-whose-colourful-combative-demo-is-out-now",
-          "titre": "I keep embarrassing myself in front of the nature gods in handpainted 2D roguelike Talaka, whose colourful, combative demo is out now"
-        }
-      ]
-    },
-    {
-      "id": "ace-driver-victory-lap-is-the-next-polygonal-namco-arcade-ra",
-      "titre": "Ace Driver Victory Lap is the next polygonal Namco arcade racer getting its first ever home release",
-      "url": "https://www.videogameschronicle.com/news/ace-driver-victory-lap-is-the-next-polygonal-namco-arcade-racer-getting-its-first-ever-home-release/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 14.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/ace-driver-victory-lap-is-the-next-polygonal-namco-arcade-racer-getting-its-first-ever-home-release/",
-          "titre": "Ace Driver Victory Lap is the next polygonal Namco arcade racer getting its first ever home release"
-        }
-      ]
-    },
-    {
-      "id": "fans-have-done-what-sega-s-scared-to-do-remaster-the-crazies",
-      "titre": "Fans Have Done What SEGA's Scared to Do: Remaster the Craziest Yakuza Game",
-      "url": "https://www.pushsquare.com/news/2026/10/fans-have-done-what-segas-scared-to-do-remaster-the-craziest-yakuza-game",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 14.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/fans-have-done-what-segas-scared-to-do-remaster-the-craziest-yakuza-game",
-          "titre": "Fans Have Done What SEGA's Scared to Do: Remaster the Craziest Yakuza Game"
-        }
-      ]
-    },
-    {
-      "id": "you-won-t-have-to-wait-long-for-the-apothecary-diaries-ps5-g",
-      "titre": "You Won't Have to Wait Long for The Apothecary Diaries' PS5 Game",
-      "url": "https://www.pushsquare.com/news/2026/10/you-wont-have-to-wait-long-for-the-apothecary-diaries-ps5-game",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 14.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/you-wont-have-to-wait-long-for-the-apothecary-diaries-ps5-game",
-          "titre": "You Won't Have to Wait Long for The Apothecary Diaries' PS5 Game"
-        }
-      ]
-    },
-    {
-      "id": "there-are-a-lot-of-things-to-like-about-stranger-than-heaven",
-      "titre": "There are a lot of things to like about Stranger Than Heaven, but its multi-person combat isn’t one",
-      "url": "https://www.videogameschronicle.com/features/there-are-a-lot-of-things-to-like-about-stranger-than-heaven-but-its-multi-person-combat-isnt-one/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 14.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/features/there-are-a-lot-of-things-to-like-about-stranger-than-heaven-but-its-multi-person-combat-isnt-one/",
-          "titre": "There are a lot of things to like about Stranger Than Heaven, but its multi-person combat isn’t one"
-        }
-      ]
-    },
-    {
-      "id": "after-a-few-hours-with-yakuza-studio-s-soulful-stranger-than",
-      "titre": "After a few hours with Yakuza studio's soulful Stranger Than Heaven, I'm smitten, but I suspect it'll be a divisive game",
-      "url": "https://www.eurogamer.net/stranger-than-heaven-preview",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 14.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/stranger-than-heaven-preview",
-          "titre": "After a few hours with Yakuza studio's soulful Stranger Than Heaven, I'm smitten, but I suspect it'll be a divisive game"
-        }
-      ]
     }
   ],
-  "alertes": [
-    "EA Shuts Down Legendary RPG Developer BioWare"
-  ]
+  "alertes": []
 };
