@@ -1,22 +1,27 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "23/10/2026 à 07h22",
+  "collecte": "23/10/2026 à 13h19",
   "seuil": 14,
   "sujets": [
     {
-      "id": "mass-effect-universe-trailer-leaked-online-as-bioware-shuts",
-      "titre": "Mass Effect: Universe Trailer Leaked Online As BioWare Shuts Down",
-      "url": "https://www.nintendolife.com/news/2026/10/mass-effect-universe-trailer-leaked-online-as-bioware-shuts-down",
+      "id": "flashy-internal-trailer-for-now-cancelled-mass-effect-univer",
+      "titre": "Flashy internal trailer for now-cancelled Mass Effect Universe appears online, following EA's closure of BioWare",
+      "url": "https://www.eurogamer.net/mass-effect-universe-trailer-leak-real",
       "sources": [
+        "Eurogamer",
         "Nintendo Life",
         "Push Square",
-        "Rock Paper Shotgun",
-        "VGC"
+        "Rock Paper Shotgun"
       ],
       "reprises": 4,
-      "heures": 1.5,
-      "chaleur": 20,
+      "heures": 4.1,
+      "chaleur": 21,
       "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/mass-effect-universe-trailer-leak-real",
+          "titre": "Flashy internal trailer for now-cancelled Mass Effect Universe appears online, following EA's closure of BioWare"
+        },
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/mass-effect-universe-trailer-leaked-online-as-bioware-shuts-down",
@@ -28,11 +33,6 @@ const VEILLE = {
           "titre": "Leaked Mass Effect 5 Trailer Is Real, Offers Glimpse of Cancelled Game"
         },
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/mass-effect-universe-trailer-leaks-online-showcases-what-bioware-was-working-on-before-being-shut-down/",
-          "titre": "Mass Effect Universe trailer leaks online, showcases what BioWare was working on before being shut down"
-        },
-        {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/an-internal-mass-effect-5-trailer-has-reportedly-leaked-offering-you-a-glimpse-at-the-sequel-youll-never-get-to-play",
           "titre": "An internal Mass Effect 5 trailer has reportedly leaked, offering you a glimpse at the sequel you'll never get to play"
@@ -40,18 +40,53 @@ const VEILLE = {
       ]
     },
     {
-      "id": "capcom-data-breach-results-in-unauthorised-access-to-more-th",
-      "titre": "Capcom Data Breach Results In Unauthorised Access To More Than 11.7 Million 'CAPCOM ID' Accounts",
-      "url": "https://www.nintendolife.com/news/2026/10/capcom-data-breach-results-in-unauthorised-access-to-more-than-11-7-million-capcom-id-accounts",
+      "id": "half-life-3-is-back-in-the-news-again-as-valve-developer-acc",
+      "titre": "Half-Life 3 is back in the news again as Valve developer accidentally sort-of references it in public, reigniting hope once more",
+      "url": "https://www.eurogamer.net/half-life-3-developer-references-codename-public",
       "sources": [
-        "Nintendo Life",
-        "Rock Paper Shotgun",
+        "Eurogamer",
+        "PC Gamer",
         "VGC"
       ],
       "reprises": 3,
-      "heures": 3.5,
+      "heures": 0.6,
       "chaleur": 12,
       "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/half-life-3-developer-references-codename-public",
+          "titre": "Half-Life 3 is back in the news again as Valve developer accidentally sort-of references it in public, reigniting hope once more"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/half-life-3-speculation-grows-as-valve-developer-mentions-hlx-during-stage-panel/",
+          "titre": "Half-Life 3 speculation grows as Valve developer mentions ‘HLX’ during stage panel"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/half-life-3-re-re-re-confirmed-a-valve-dev-just-said-hlx-out-loud/",
+          "titre": "Half-Life 3 re-re-re-confirmed: A Valve dev just said 'HLX' out loud"
+        }
+      ]
+    },
+    {
+      "id": "capcom-affected-by-data-breach-over-11-7m-capcom-id-accounts",
+      "titre": "Capcom affected by data breach, over 11.7m Capcom ID accounts compromised",
+      "url": "https://www.gamesindustry.biz/capcom-affected-by-data-breach-over-117m-capcom-id-accounts-compromised",
+      "sources": [
+        "GamesIndustry.biz",
+        "Nintendo Life",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 3,
+      "heures": 2.2,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/capcom-affected-by-data-breach-over-117m-capcom-id-accounts-compromised",
+          "titre": "Capcom affected by data breach, over 11.7m Capcom ID accounts compromised"
+        },
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/capcom-data-breach-results-in-unauthorised-access-to-more-than-11-7-million-capcom-id-accounts",
@@ -61,29 +96,174 @@ const VEILLE = {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/resident-evil-makers-capcom-reveal-data-breach-has-affected-over-11-million-capcom-id-accounts-warn-against-potential-phishing-emails",
           "titre": "Resident Evil makers Capcom reveal data breach has affected over 11 million Capcom ID accounts, warn against potential phishing emails"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/capcom-says-a-data-breach-affected-more-than-11-million-capcom-id-accounts-credit-card-details-unaffected/",
-          "titre": "Capcom says a data breach affected more than 11 million Capcom ID accounts, credit card details unaffected"
         }
       ]
     },
     {
-      "id": "review-call-of-duty-modern-warfare-4-switch-2-best-in-class",
-      "titre": "Review: Call Of Duty: Modern Warfare 4 (Switch 2) - Best-In-Class Bombast That Doesn't Shortchange Nintendo Gamers",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/call-of-duty-modern-warfare-4",
+      "id": "i-ve-tested-every-graphics-setting-in-call-of-duty-modern-wa",
+      "titre": "I've tested every graphics setting in Call of Duty: Modern Warfare 4—tweak these four options for the best performance",
+      "url": "https://www.pcgamer.com/games/call-of-duty/ive-tested-every-graphics-setting-in-call-of-duty-modern-warfare-4-tweak-these-four-options-for-the-best-performance/",
       "sources": [
-        "Nintendo Life"
+        "Nintendo Life",
+        "PC Gamer"
       ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 9,
+      "reprises": 2,
+      "heures": 2.8,
+      "chaleur": 12,
       "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/call-of-duty/ive-tested-every-graphics-setting-in-call-of-duty-modern-warfare-4-tweak-these-four-options-for-the-best-performance/",
+          "titre": "I've tested every graphics setting in Call of Duty: Modern Warfare 4—tweak these four options for the best performance"
+        },
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/call-of-duty-modern-warfare-4",
           "titre": "Review: Call Of Duty: Modern Warfare 4 (Switch 2) - Best-In-Class Bombast That Doesn't Shortchange Nintendo Gamers"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-veteran-shigeru-miyamoto-to-receive-japan-s-order-o",
+      "titre": "Nintendo veteran Shigeru Miyamoto to receive Japan's Order of Culture award",
+      "url": "https://www.gamesindustry.biz/nintendo-veteran-shigeru-miyamoto-to-receive-japans-order-of-culture-award",
+      "sources": [
+        "GamesIndustry.biz",
+        "Nintendo Life"
+      ],
+      "reprises": 2,
+      "heures": 0.2,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/nintendo-veteran-shigeru-miyamoto-to-receive-japans-order-of-culture-award",
+          "titre": "Nintendo veteran Shigeru Miyamoto to receive Japan's Order of Culture award"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/shigeru-miyamoto-becomes-first-game-dev-to-receive-japans-prestigious-culture-award",
+          "titre": "Shigeru Miyamoto Becomes First Game Dev To Receive Japan's Prestigious Culture Award"
+        }
+      ]
+    },
+    {
+      "id": "phantom-blade-zero-isn-t-even-out-yet-but-it-could-be-one-of",
+      "titre": "Phantom Blade Zero isn't even out yet, but it could be 'one of the year's breakout hits' as it shifts half a million copies on Steam alone",
+      "url": "https://www.eurogamer.net/phantom-blade-zero-hit-not-out",
+      "sources": [
+        "Eurogamer",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 0.8,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/phantom-blade-zero-hit-not-out",
+          "titre": "Phantom Blade Zero isn't even out yet, but it could be 'one of the year's breakout hits' as it shifts half a million copies on Steam alone"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/sonys-marketing-the-hell-out-of-ps5-console-exclusive-phantom-blade-zero-in-china",
+          "titre": "Sony's Marketing the Hell Out of PS5 Console Exclusive Phantom Blade Zero in China"
+        }
+      ]
+    },
+    {
+      "id": "three-more-game-boy-games-are-coming-to-switch-online-includ",
+      "titre": "Three more Game Boy games are coming to Switch Online, including one produced by Shigeru Miyamoto",
+      "url": "https://www.videogameschronicle.com/news/three-more-game-boy-games-are-coming-to-switch-online-including-one-produced-by-shigeru-miyamoto/",
+      "sources": [
+        "Nintendo Life",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 4.8,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/three-more-game-boy-games-are-coming-to-switch-online-including-one-produced-by-shigeru-miyamoto/",
+          "titre": "Three more Game Boy games are coming to Switch Online, including one produced by Shigeru Miyamoto"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-expands-switch-onlines-game-boy-library-with-three-more-titles",
+          "titre": "Nintendo Expands Switch Online's Game Boy Library With Three More Titles"
+        }
+      ]
+    },
+    {
+      "id": "call-of-duty-modern-warfare-4-s-multiplayer-unlocked-early-b",
+      "titre": "Call of Duty: Modern Warfare 4's Multiplayer Unlocked Early, But Feedback Has Been Brutal So Far",
+      "url": "https://www.pushsquare.com/news/2026/10/call-of-duty-modern-warfare-4s-multiplayer-unlocked-early-but-feedback-has-been-brutal-so-far",
+      "sources": [
+        "GamesIndustry.biz",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 0.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/call-of-duty-modern-warfare-4s-multiplayer-unlocked-early-but-feedback-has-been-brutal-so-far",
+          "titre": "Call of Duty: Modern Warfare 4's Multiplayer Unlocked Early, But Feedback Has Been Brutal So Far"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/call-of-duty-modern-warfare-4-critical-consensus",
+          "titre": "Call of Duty: Modern Warfare 4 | Critical Consensus"
+        }
+      ]
+    },
+    {
+      "id": "what-if-larian-had-shut-down-after-divine-divinity-star-tre",
+      "titre": "\"What if Larian had shut down after Divine Divinity?\": Star Trek Online exec scorns publishers who close teams like BioWare in favour of \"AAA veteran\" start-ups and AI \"magic beans\"",
+      "url": "https://www.rockpapershotgun.com/what-if-larian-had-shut-down-after-divine-divinity-star-trek-online-exec-scorns-publishers-who-close-teams-like-bioware-in-favour-of-aaa-veteran-start-ups-and-ai-magic-beans",
+      "sources": [
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 2.5,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/what-if-larian-had-shut-down-after-divine-divinity-star-trek-online-exec-scorns-publishers-who-close-teams-like-bioware-in-favour-of-aaa-veteran-start-ups-and-ai-magic-beans",
+          "titre": "\"What if Larian had shut down after Divine Divinity?\": Star Trek Online exec scorns publishers who close teams like BioWare in favour of \"AAA veteran\" start-ups and AI \"magic beans\""
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/mass-effect-universe-trailer-leaks-online-showcases-what-bioware-was-working-on-before-being-shut-down/",
+          "titre": "Mass Effect Universe trailer leaks online, showcases what BioWare was working on before being shut down"
+        }
+      ]
+    },
+    {
+      "id": "cyberpunk-2077-s-new-dual-wielding-has-already-been-modded-t",
+      "titre": "Cyberpunk 2077's new dual wielding has already been modded to include shotguns and rifles, provided you're down to get \"janky and wildly overpowered\"",
+      "url": "https://www.rockpapershotgun.com/cyberpunk-2077s-new-dual-wielding-has-already-been-modded-to-include-shotguns-and-rifles-provided-youre-down-to-get-janky-and-wildly-overpowered",
+      "sources": [
+        "PC Gamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 3.8,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/cyberpunk-2077s-new-dual-wielding-has-already-been-modded-to-include-shotguns-and-rifles-provided-youre-down-to-get-janky-and-wildly-overpowered",
+          "titre": "Cyberpunk 2077's new dual wielding has already been modded to include shotguns and rifles, provided you're down to get \"janky and wildly overpowered\""
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/how-to-dual-wield-in-cyberpunk-2077/",
+          "titre": "How to dual wield in Cyberpunk 2077"
         }
       ]
     },
@@ -97,7 +277,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 3,
-      "heures": 17.4,
+      "heures": 23.3,
       "chaleur": 9,
       "liens": [
         {
@@ -125,7 +305,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.6,
+      "heures": 25.6,
       "chaleur": 9,
       "liens": [
         {
@@ -136,26 +316,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "dice-and-respawn-are-teaming-up-for-star-wars-battlefront-3",
-      "titre": "DICE and Respawn ‘are teaming up for Star Wars: Battlefront 3’",
-      "url": "https://www.videogameschronicle.com/news/dice-and-respawn-are-teaming-up-for-star-wars-battlefront-3/",
+      "id": "review-village-in-the-shade-switch-2-a-farm-sim-that-plays-w",
+      "titre": "Review: Village In The Shade (Switch 2) - A Farm Sim That Plays With Cosy Tropes In Clever Ways",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/village-in-the-shade",
       "sources": [
-        "Eurogamer",
-        "VGC"
+        "Nintendo Life"
       ],
-      "reprises": 2,
-      "heures": 19.4,
+      "reprises": 1,
+      "heures": 0.3,
       "chaleur": 8,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/dice-and-respawn-are-teaming-up-for-star-wars-battlefront-3/",
-          "titre": "DICE and Respawn ‘are teaming up for Star Wars: Battlefront 3’"
-        },
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/village-in-the-shade",
+          "titre": "Review: Village In The Shade (Switch 2) - A Farm Sim That Plays With Cosy Tropes In Clever Ways"
+        }
+      ]
+    },
+    {
+      "id": "stolen-rtx-5090-from-brazilian-airport-forklift-heist-report",
+      "titre": "Stolen RTX 5090 from Brazilian airport forklift heist reportedly turns up on second hand market for $6,400, but the rest remain AWOL",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/stolen-rtx-5090-from-brazilian-airport-forklift-heist-reportedly-turns-up-on-second-hand-market-for-usd6-400-but-the-rest-remain-awol/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.6,
+      "chaleur": 8,
+      "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/star-wars-battlefront-3-developer-respawn-dice-report",
-          "titre": "Star Wars: Battlefront 3 reportedly being co-developed by Battlefield studio DICE and Apex Legends studio Respawn"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/stolen-rtx-5090-from-brazilian-airport-forklift-heist-reportedly-turns-up-on-second-hand-market-for-usd6-400-but-the-rest-remain-awol/",
+          "titre": "Stolen RTX 5090 from Brazilian airport forklift heist reportedly turns up on second hand market for $6,400, but the rest remain AWOL"
+        }
+      ]
+    },
+    {
+      "id": "a-public-outing-of-severe-and-unfixed-linux-kernel-vulnerabi",
+      "titre": "A public outing of severe and unfixed Linux kernel vulnerabilities should have you thinking of updating your SteamOS or other distros to beta branches",
+      "url": "https://www.pcgamer.com/hardware/a-public-outing-of-severe-and-unfixed-linux-kernel-vulnerabilities-should-have-you-thinking-of-updating-your-steamos-or-other-distros-to-beta-branches/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 3.9,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/a-public-outing-of-severe-and-unfixed-linux-kernel-vulnerabilities-should-have-you-thinking-of-updating-your-steamos-or-other-distros-to-beta-branches/",
+          "titre": "A public outing of severe and unfixed Linux kernel vulnerabilities should have you thinking of updating your SteamOS or other distros to beta branches"
         }
       ]
     },
@@ -168,7 +378,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 22.1,
+      "heures": 28.1,
       "chaleur": 8,
       "liens": [
         {
@@ -184,20 +394,236 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nintendo-expands-switch-online-s-game-boy-library-with-three",
-      "titre": "Nintendo Expands Switch Online's Game Boy Library With Three More Titles",
-      "url": "https://www.nintendolife.com/news/2026/10/nintendo-expands-switch-onlines-game-boy-library-with-three-more-titles",
+      "id": "xbox-reportedly-mandate-four-days-a-week-in-office-for-staff",
+      "titre": "Xbox reportedly mandate four days a week in office for staff close to Microsoft's Washington HQ, up from three day requirement brought in last year",
+      "url": "https://www.rockpapershotgun.com/xbox-reportedly-mandate-four-days-a-week-in-office-for-staff-close-to-microsofts-washington-hq-up-from-three-day-requirement-brought-in-last-year",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 22.4,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/xbox-reportedly-mandate-four-days-a-week-in-office-for-staff-close-to-microsofts-washington-hq-up-from-three-day-requirement-brought-in-last-year",
+          "titre": "Xbox reportedly mandate four days a week in office for staff close to Microsoft's Washington HQ, up from three day requirement brought in last year"
+        }
+      ]
+    },
+    {
+      "id": "fanatical-halloween-bundle-gives-you-prey-doom-1-2-and-evil",
+      "titre": "Fanatical Halloween bundle gives you Prey, Doom 1 & 2, and Evil Within 1 & 2 for $11.66",
+      "url": "https://www.videogameschronicle.com/news/fanatical-halloween-bundle-gives-you-prey-doom-1-2-and-evil-within-1-2-for-11-66/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/fanatical-halloween-bundle-gives-you-prey-doom-1-2-and-evil-within-1-2-for-11-66/",
+          "titre": "Fanatical Halloween bundle gives you Prey, Doom 1 & 2, and Evil Within 1 & 2 for $11.66"
+        }
+      ]
+    },
+    {
+      "id": "stupid-never-dies-review-capcom-veterans-resurrect-the-ps3-e",
+      "titre": "Stupid Never Dies review: Capcom veterans resurrect the PS3 era with a quirky, off-beat action game",
+      "url": "https://www.videogameschronicle.com/review/stupid-never-dies-review/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/review/stupid-never-dies-review/",
+          "titre": "Stupid Never Dies review: Capcom veterans resurrect the PS3 era with a quirky, off-beat action game"
+        }
+      ]
+    },
+    {
+      "id": "thai-rapper-lisa-s-tarantino-music-video-squeezes-in-ps5-pro",
+      "titre": "Thai Rapper Lisa's 'Tarantino' Music Video Squeezes in PS5 Product Placement",
+      "url": "https://www.pushsquare.com/news/2026/10/thai-rapper-lisas-tarantino-music-video-squeezes-in-ps5-product-placement",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/thai-rapper-lisas-tarantino-music-video-squeezes-in-ps5-product-placement",
+          "titre": "Thai Rapper Lisa's 'Tarantino' Music Video Squeezes in PS5 Product Placement"
+        }
+      ]
+    },
+    {
+      "id": "helldivers-3-only-makes-sense-if-it-s-so-unlike-helldivers-2",
+      "titre": "Helldivers 3 \"only makes sense\" if it’s so unlike Helldivers 2 \"that both games can exist side by side\", says Arrowhead boss, discussing their new prototype game",
+      "url": "https://www.rockpapershotgun.com/helldivers-3-only-makes-sense-if-its-so-unlike-helldivers-2-that-both-games-can-exist-side-by-side-says-arrowhead-boss-discussing-their-new-prototype-game",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/helldivers-3-only-makes-sense-if-its-so-unlike-helldivers-2-that-both-games-can-exist-side-by-side-says-arrowhead-boss-discussing-their-new-prototype-game",
+          "titre": "Helldivers 3 \"only makes sense\" if it’s so unlike Helldivers 2 \"that both games can exist side by side\", says Arrowhead boss, discussing their new prototype game"
+        }
+      ]
+    },
+    {
+      "id": "all-genshin-impact-7-2-livestream-codes",
+      "titre": "All Genshin Impact 7.2 livestream codes",
+      "url": "https://www.pcgamer.com/games/rpg/genshin-impact-codes-7-2-livestream/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/genshin-impact-codes-7-2-livestream/",
+          "titre": "All Genshin Impact 7.2 livestream codes"
+        }
+      ]
+    },
+    {
+      "id": "gallery-iam8bit-s-sonic-legacy-cartridges-are-stunning-but-a",
+      "titre": "Gallery: iam8bit's Sonic Legacy Cartridges Are Stunning, But Are They Worth The Money?",
+      "url": "https://www.nintendolife.com/news/2026/10/gallery-iam8bits-sonic-legacy-cartridges-are-stunning-but-are-they-worth-the-money",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.0,
-      "chaleur": 7,
+      "heures": 1.3,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendo-expands-switch-onlines-game-boy-library-with-three-more-titles",
-          "titre": "Nintendo Expands Switch Online's Game Boy Library With Three More Titles"
+          "url": "https://www.nintendolife.com/news/2026/10/gallery-iam8bits-sonic-legacy-cartridges-are-stunning-but-are-they-worth-the-money",
+          "titre": "Gallery: iam8bit's Sonic Legacy Cartridges Are Stunning, But Are They Worth The Money?"
+        }
+      ]
+    },
+    {
+      "id": "half-life-3-speculation-reignited-by-valve-dev-mentioning-th",
+      "titre": "Half-Life 3 speculation reignited by Valve dev mentioning three sweet little rumored codenamey letters amid technical chat about video game noises",
+      "url": "https://www.rockpapershotgun.com/half-life-3-speculation-reignited-by-valve-dev-mentioning-three-sweet-little-rumored-codenamey-letters-amid-technical-chat-about-video-game-noises",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/half-life-3-speculation-reignited-by-valve-dev-mentioning-three-sweet-little-rumored-codenamey-letters-amid-technical-chat-about-video-game-noises",
+          "titre": "Half-Life 3 speculation reignited by Valve dev mentioning three sweet little rumored codenamey letters amid technical chat about video game noises"
+        }
+      ]
+    },
+    {
+      "id": "ff-resonance-beat-citrine-pot-enemies",
+      "titre": "FF Resonance: Beat Citrine Pot enemies",
+      "url": "https://www.videogameschronicle.com/guide/ff-resonance-beat-citrine-pot-enemies/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 3.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/ff-resonance-beat-citrine-pot-enemies/",
+          "titre": "FF Resonance: Beat Citrine Pot enemies"
+        }
+      ]
+    },
+    {
+      "id": "asus-rog-rapture-gt-bn98-router-review",
+      "titre": "Asus ROG Rapture GT-BN98 router review",
+      "url": "https://www.pcgamer.com/hardware/networking/asus-rog-rapture-gt-bn98-review/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 3.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/networking/asus-rog-rapture-gt-bn98-review/",
+          "titre": "Asus ROG Rapture GT-BN98 router review"
+        }
+      ]
+    },
+    {
+      "id": "shigeru-miyamoto-explains-why-ai-won-t-make-human-creativity",
+      "titre": "Shigeru Miyamoto explains why AI won’t make human creativity obsolete",
+      "url": "https://www.videogameschronicle.com/news/shigeru-miyamoto-explains-why-ai-wont-make-human-creativity-obsolete/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 3.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/shigeru-miyamoto-explains-why-ai-wont-make-human-creativity-obsolete/",
+          "titre": "Shigeru Miyamoto explains why AI won’t make human creativity obsolete"
+        }
+      ]
+    },
+    {
+      "id": "psa-hitman-absolution-s-switch-2-upgrade-path-is-free-for-no",
+      "titre": "PSA: Hitman: Absolution's Switch 2 Upgrade Path Is Free For Now, But Be Quick!",
+      "url": "https://www.nintendolife.com/news/2026/10/psa-hitman-absolutions-switch-2-upgrade-path-is-free-for-now-but-be-quick",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/psa-hitman-absolutions-switch-2-upgrade-path-is-free-for-now-but-be-quick",
+          "titre": "PSA: Hitman: Absolution's Switch 2 Upgrade Path Is Free For Now, But Be Quick!"
+        }
+      ]
+    },
+    {
+      "id": "switch-2-supposedly-jailbroken-via-software-only-exploit",
+      "titre": "Switch 2 Supposedly Jailbroken Via Software-Only Exploit",
+      "url": "https://www.nintendolife.com/news/2026/10/switch-2-supposedly-jailbroken-via-software-only-exploit",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 10.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/switch-2-supposedly-jailbroken-via-software-only-exploit",
+          "titre": "Switch 2 Supposedly Jailbroken Via Software-Only Exploit"
         }
       ]
     },
@@ -209,8 +635,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.5,
-      "chaleur": 7,
+      "heures": 15.5,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -227,85 +653,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 7,
+      "heures": 17.8,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/gears-of-war-e-day-cancelled-last-minute-for-ps5-may-have-cost-half-a-billion-to-make",
           "titre": "Gears of War: E-Day, Cancelled Last-Minute for PS5, May Have Cost Half a Billion to Make"
-        }
-      ]
-    },
-    {
-      "id": "xbox-reportedly-mandate-four-days-a-week-in-office-for-staff",
-      "titre": "Xbox reportedly mandate four days a week in office for staff close to Microsoft's Washington HQ, up from three day requirement brought in last year",
-      "url": "https://www.rockpapershotgun.com/xbox-reportedly-mandate-four-days-a-week-in-office-for-staff-close-to-microsofts-washington-hq-up-from-three-day-requirement-brought-in-last-year",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 16.5,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/xbox-reportedly-mandate-four-days-a-week-in-office-for-staff-close-to-microsofts-washington-hq-up-from-three-day-requirement-brought-in-last-year",
-          "titre": "Xbox reportedly mandate four days a week in office for staff close to Microsoft's Washington HQ, up from three day requirement brought in last year"
-        }
-      ]
-    },
-    {
-      "id": "switch-2-supposedly-jailbroken-via-software-only-exploit",
-      "titre": "Switch 2 Supposedly Jailbroken Via Software-Only Exploit",
-      "url": "https://www.nintendolife.com/news/2026/10/switch-2-supposedly-jailbroken-via-software-only-exploit",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 4.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/switch-2-supposedly-jailbroken-via-software-only-exploit",
-          "titre": "Switch 2 Supposedly Jailbroken Via Software-Only Exploit"
-        }
-      ]
-    },
-    {
-      "id": "zelda-tears-of-the-kingdom-exclusive-edition-statue-official",
-      "titre": "Zelda: Tears Of The Kingdom \"Exclusive Edition\" Statue Officially Revealed, Pre-Orders Now Open",
-      "url": "https://www.nintendolife.com/news/2026/10/zelda-tears-of-the-kingdom-exclusive-edition-statue-officially-revealed-pre-orders-now-open",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 6.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/zelda-tears-of-the-kingdom-exclusive-edition-statue-officially-revealed-pre-orders-now-open",
-          "titre": "Zelda: Tears Of The Kingdom \"Exclusive Edition\" Statue Officially Revealed, Pre-Orders Now Open"
-        }
-      ]
-    },
-    {
-      "id": "my-goty-is-7-and-has-253-steam-reviews",
-      "titre": "My GOTY is $7 and has 253 Steam reviews",
-      "url": "https://www.pcgamer.com/games/racing/my-goty-is-usd7-and-has-253-steam-reviews/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 8.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/racing/my-goty-is-usd7-and-has-253-steam-reviews/",
-          "titre": "My GOTY is $7 and has 253 Steam reviews"
         }
       ]
     },
@@ -318,7 +672,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 14.2,
+      "heures": 20.2,
       "chaleur": 6,
       "liens": [
         {
@@ -341,31 +695,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.8,
+      "heures": 23.7,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/cancelled-mass-effect-bioware-unprecedented-levels-of-autonomy",
           "titre": "BioWare's cancelled Mass Effect game would've learned from Baldur's Gate 3 and The Witcher to deliver \"a level of autonomy and choice that no other game has\""
-        }
-      ]
-    },
-    {
-      "id": "rockstar-is-quietly-transforming-the-real-miami-into-gta-6-s",
-      "titre": "Rockstar is quietly transforming the real Miami into GTA 6’s Vice City",
-      "url": "https://www.videogameschronicle.com/news/rockstar-is-quietly-transforming-the-real-miami-into-gta-6s-vice-city/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 18.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/rockstar-is-quietly-transforming-the-real-miami-into-gta-6s-vice-city/",
-          "titre": "Rockstar is quietly transforming the real Miami into GTA 6’s Vice City"
         }
       ]
     },
@@ -377,7 +713,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 18.4,
+      "heures": 24.4,
       "chaleur": 6,
       "liens": [
         {
@@ -388,20 +724,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nintendo-switch-sports-resort-archery-secret-target-location",
-      "titre": "Nintendo Switch Sports Resort: Archery Secret Target locations",
-      "url": "https://www.videogameschronicle.com/guide/nintendo-switch-sports-resort-archery-secret-target-locations/",
+      "id": "zelda-tears-of-the-kingdom-exclusive-edition-statue-official",
+      "titre": "Zelda: Tears Of The Kingdom \"Exclusive Edition\" Statue Officially Revealed, Pre-Orders Now Open",
+      "url": "https://www.nintendolife.com/news/2026/10/zelda-tears-of-the-kingdom-exclusive-edition-statue-officially-revealed-pre-orders-now-open",
       "sources": [
-        "VGC"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.6,
-      "chaleur": 6,
+      "heures": 12.8,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/nintendo-switch-sports-resort-archery-secret-target-locations/",
-          "titre": "Nintendo Switch Sports Resort: Archery Secret Target locations"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/zelda-tears-of-the-kingdom-exclusive-edition-statue-officially-revealed-pre-orders-now-open",
+          "titre": "Zelda: Tears Of The Kingdom \"Exclusive Edition\" Statue Officially Revealed, Pre-Orders Now Open"
+        }
+      ]
+    },
+    {
+      "id": "my-goty-is-7-and-has-253-steam-reviews",
+      "titre": "My GOTY is $7 and has 253 Steam reviews",
+      "url": "https://www.pcgamer.com/games/racing/my-goty-is-usd7-and-has-253-steam-reviews/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 14.8,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/racing/my-goty-is-usd7-and-has-253-steam-reviews/",
+          "titre": "My GOTY is $7 and has 253 Steam reviews"
         }
       ]
     },
@@ -413,7 +767,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 19.6,
       "chaleur": 5,
       "liens": [
         {
@@ -431,7 +785,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 20.3,
       "chaleur": 5,
       "liens": [
         {
@@ -449,7 +803,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 21.3,
       "chaleur": 5,
       "liens": [
         {
@@ -467,7 +821,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.9,
+      "heures": 21.8,
       "chaleur": 5,
       "liens": [
         {
@@ -485,7 +839,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 16.6,
+      "heures": 22.6,
       "chaleur": 5,
       "liens": [
         {
@@ -503,7 +857,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 17.6,
+      "heures": 23.6,
       "chaleur": 5,
       "liens": [
         {
@@ -521,13 +875,67 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 20.4,
+      "heures": 26.3,
       "chaleur": 5,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/report-explores-how-roblox-can-maintain-older-players-as-it-becomes-most-played-game-by-total-hours-in-h1-2026",
           "titre": "Report explores how Roblox can maintain older players as it becomes most-played game by total hours in H1 2026"
+        }
+      ]
+    },
+    {
+      "id": "star-wars-battlefront-3-reportedly-being-co-developed-by-bat",
+      "titre": "Star Wars: Battlefront 3 reportedly being co-developed by Battlefield studio DICE and Apex Legends studio Respawn",
+      "url": "https://www.eurogamer.net/star-wars-battlefront-3-developer-respawn-dice-report",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 28.7,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/star-wars-battlefront-3-developer-respawn-dice-report",
+          "titre": "Star Wars: Battlefront 3 reportedly being co-developed by Battlefield studio DICE and Apex Legends studio Respawn"
+        }
+      ]
+    },
+    {
+      "id": "cyberpunk-2-associate-director-says-half-the-quest-team-were",
+      "titre": "Cyberpunk 2 associate director says half the quest team were hired for their modding work on other CDPR games",
+      "url": "https://www.videogameschronicle.com/news/cyberpunk-2-associate-director-says-half-the-quest-team-were-hired-for-their-modding-work-on-other-cdpr-games/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 4.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/cyberpunk-2-associate-director-says-half-the-quest-team-were-hired-for-their-modding-work-on-other-cdpr-games/",
+          "titre": "Cyberpunk 2 associate director says half the quest team were hired for their modding work on other CDPR games"
+        }
+      ]
+    },
+    {
+      "id": "podcast-landfall-s-rebecca-lautner-on-peak-s-23-million-sale",
+      "titre": "Podcast: Landfall's Rebecca Lautner on Peak's 23 million sales and looking past friendslop",
+      "url": "https://www.gamesindustry.biz/podcast-landfalls-rebecca-lautner-on-peaks-23-million-sales-and-looking-past-friendslop",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/podcast-landfalls-rebecca-lautner-on-peaks-23-million-sales-and-looking-past-friendslop",
+          "titre": "Podcast: Landfall's Rebecca Lautner on Peak's 23 million sales and looking past friendslop"
         }
       ]
     },
@@ -539,8 +947,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.0,
-      "chaleur": 4,
+      "heures": 15.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -557,8 +965,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.7,
-      "chaleur": 4,
+      "heures": 15.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -575,8 +983,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.9,
-      "chaleur": 4,
+      "heures": 15.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -593,8 +1001,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 4,
+      "heures": 16.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -611,49 +1019,13 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 4,
+      "heures": 16.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/production/opinion-why-prioritizing-success-of-core-teams-risks-devaluing-other-devs",
           "titre": "Opinion: Why words matter when we prioritize 'core teams' in game development"
-        }
-      ]
-    },
-    {
-      "id": "half-life-3-re-re-re-confirmed-a-valve-dev-just-said-hlx-out",
-      "titre": "Half-Life 3 re-re-re-confirmed: A Valve dev just said 'HLX' out loud",
-      "url": "https://www.pcgamer.com/games/fps/half-life-3-re-re-re-confirmed-a-valve-dev-just-said-hlx-out-loud/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/half-life-3-re-re-re-confirmed-a-valve-dev-just-said-hlx-out-loud/",
-          "titre": "Half-Life 3 re-re-re-confirmed: A Valve dev just said 'HLX' out loud"
-        }
-      ]
-    },
-    {
-      "id": "how-to-dual-wield-in-cyberpunk-2077",
-      "titre": "How to dual wield in Cyberpunk 2077",
-      "url": "https://www.pcgamer.com/games/rpg/how-to-dual-wield-in-cyberpunk-2077/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/how-to-dual-wield-in-cyberpunk-2077/",
-          "titre": "How to dual wield in Cyberpunk 2077"
         }
       ]
     },
@@ -665,7 +1037,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.1,
+      "heures": 18.0,
       "chaleur": 3,
       "liens": [
         {
@@ -683,7 +1055,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 19.3,
       "chaleur": 3,
       "liens": [
         {
@@ -701,7 +1073,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 19.4,
       "chaleur": 3,
       "liens": [
         {
@@ -719,7 +1091,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.8,
+      "heures": 19.8,
       "chaleur": 3,
       "liens": [
         {
@@ -737,7 +1109,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 19.8,
       "chaleur": 3,
       "liens": [
         {
@@ -755,7 +1127,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 20.3,
       "chaleur": 3,
       "liens": [
         {
@@ -773,31 +1145,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 20.3,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/features/is-cyberpunk-2077-patch-2-5-worth-returning-to-night-city-for",
           "titre": "Feature: Is Cyberpunk 2077 Patch 2.5 Worth Returning to Night City For?"
-        }
-      ]
-    },
-    {
-      "id": "someone-leaked-a-mass-effect-5-trailer-and-now-i-feel-even-w",
-      "titre": "Someone leaked a Mass Effect 5 trailer and now I feel even worse, because it looks really good",
-      "url": "https://www.pcgamer.com/games/mass-effect/someone-leaked-a-mass-effect-5-trailer-and-now-i-feel-even-worse-because-it-looks-really-good/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 14.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/mass-effect/someone-leaked-a-mass-effect-5-trailer-and-now-i-feel-even-worse-because-it-looks-really-good/",
-          "titre": "Someone leaked a Mass Effect 5 trailer and now I feel even worse, because it looks really good"
         }
       ]
     },
@@ -809,49 +1163,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.6,
+      "heures": 20.6,
       "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/farewell-bioware-closed-ea",
           "titre": "Farewell BioWare, you inspired so many of us, and you deserved so much better than this"
-        }
-      ]
-    },
-    {
-      "id": "i-ve-never-seen-a-laptop-cooler-come-with-its-own-comic-stri",
-      "titre": "I've never seen a laptop cooler come with its own comic strip before, but it still hasn't convinced me this noisy beast is worth $50",
-      "url": "https://www.pcgamer.com/hardware/cooling/ive-never-seen-a-laptop-cooler-come-with-its-own-comic-strip-before-but-it-still-hasnt-convinced-me-this-noisy-beast-is-worth-usd50/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 14.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/cooling/ive-never-seen-a-laptop-cooler-come-with-its-own-comic-strip-before-but-it-still-hasnt-convinced-me-this-noisy-beast-is-worth-usd50/",
-          "titre": "I've never seen a laptop cooler come with its own comic strip before, but it still hasn't convinced me this noisy beast is worth $50"
-        }
-      ]
-    },
-    {
-      "id": "we-probably-sold-millions-of-boards-because-of-that-game-an",
-      "titre": "'We probably sold millions of boards because of that game, and it was magnificent': 3dfx cofounder gives Quake a 'great deal of credit for our overall success'",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/we-probably-sold-millions-of-boards-because-of-that-game-and-it-was-magnificent-3dfx-cofounder-gives-quake-a-great-deal-of-credit-for-our-overall-success/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 14.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/we-probably-sold-millions-of-boards-because-of-that-game-and-it-was-magnificent-3dfx-cofounder-gives-quake-a-great-deal-of-credit-for-our-overall-success/",
-          "titre": "'We probably sold millions of boards because of that game, and it was magnificent': 3dfx cofounder gives Quake a 'great deal of credit for our overall success'"
         }
       ]
     },
@@ -863,7 +1181,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 20.8,
       "chaleur": 3,
       "liens": [
         {
@@ -872,279 +1190,9 @@ const VEILLE = {
           "titre": "Even at their most chaotic and conflicted, BioWare were the heart of the western computer RPG"
         }
       ]
-    },
-    {
-      "id": "sony-s-marketing-the-hell-out-of-ps5-console-exclusive-phant",
-      "titre": "Sony's Marketing the Hell Out of PS5 Console Exclusive Phantom Blade Zero in China",
-      "url": "https://www.pushsquare.com/news/2026/10/sonys-marketing-the-hell-out-of-ps5-console-exclusive-phantom-blade-zero-in-china",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 14.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/sonys-marketing-the-hell-out-of-ps5-console-exclusive-phantom-blade-zero-in-china",
-          "titre": "Sony's Marketing the Hell Out of PS5 Console Exclusive Phantom Blade Zero in China"
-        }
-      ]
-    },
-    {
-      "id": "ex-bioware-boss-and-mass-effect-director-casey-hudson-says-h",
-      "titre": "Ex-BioWare boss and Mass Effect director Casey Hudson says he'll 'forever be grateful' for his time at the studio: 'Its legacy will live on'",
-      "url": "https://www.pcgamer.com/gaming-industry/ex-bioware-boss-and-mass-effect-director-casey-hudson-says-hell-forever-be-grateful-for-his-time-at-the-studio-its-legacy-will-live-on/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 15.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/ex-bioware-boss-and-mass-effect-director-casey-hudson-says-hell-forever-be-grateful-for-his-time-at-the-studio-its-legacy-will-live-on/",
-          "titre": "Ex-BioWare boss and Mass Effect director Casey Hudson says he'll 'forever be grateful' for his time at the studio: 'Its legacy will live on'"
-        }
-      ]
-    },
-    {
-      "id": "it-was-crushing-how-hard-it-was-the-chaotic-development-of",
-      "titre": "\"It was crushing how hard it was\" – The chaotic development of Dispatch, and what AdHoc Studio plans next",
-      "url": "https://www.gamesindustry.biz/it-was-crushing-how-hard-it-was-the-chaotic-development-of-dispatch-and-what-adhoc-studio-plans-next",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 15.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/it-was-crushing-how-hard-it-was-the-chaotic-development-of-dispatch-and-what-adhoc-studio-plans-next",
-          "titre": "\"It was crushing how hard it was\" – The chaotic development of Dispatch, and what AdHoc Studio plans next"
-        }
-      ]
-    },
-    {
-      "id": "captivating-cosmic-megastructure-adventure-game-hypnos-leave",
-      "titre": "Captivating cosmic megastructure adventure game Hypnos leaves early access next week, offering up a world I'm desperate to dig into further",
-      "url": "https://www.rockpapershotgun.com/captivating-cosmic-megastructure-adventure-game-hypnos-leaves-early-access-next-week-offering-up-a-world-im-desperate-to-dig-into-further",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 15.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/captivating-cosmic-megastructure-adventure-game-hypnos-leaves-early-access-next-week-offering-up-a-world-im-desperate-to-dig-into-further",
-          "titre": "Captivating cosmic megastructure adventure game Hypnos leaves early access next week, offering up a world I'm desperate to dig into further"
-        }
-      ]
-    },
-    {
-      "id": "clive-barker-s-hellraiser-revival-review-rough-around-the-ed",
-      "titre": "Clive Barker's Hellraiser: Revival review–Rough around the edges",
-      "url": "https://www.pcgamer.com/games/horror/clive-barkers-hellraiser-revival-review/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 15.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/clive-barkers-hellraiser-revival-review/",
-          "titre": "Clive Barker's Hellraiser: Revival review–Rough around the edges"
-        }
-      ]
-    },
-    {
-      "id": "alice-in-wonderland-roguelite-is-free-to-try-on-ps5-now",
-      "titre": "Alice in Wonderland Roguelite Is Free to Try on PS5 Now",
-      "url": "https://www.pushsquare.com/news/2026/10/alice-in-wonderland-roguelite-is-free-to-try-on-ps5-now",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 15.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/alice-in-wonderland-roguelite-is-free-to-try-on-ps5-now",
-          "titre": "Alice in Wonderland Roguelite Is Free to Try on PS5 Now"
-        }
-      ]
-    },
-    {
-      "id": "atari-is-ending-support-for-its-2021-vcs-console-will-releas",
-      "titre": "Atari is ending support for its 2021 VCS console, will release a Homebrew App to let players keep making and adding games",
-      "url": "https://www.videogameschronicle.com/news/atari-is-ending-support-for-its-2021-vcs-console-will-release-a-homebrew-app-to-let-players-keep-making-and-adding-games/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 15.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/atari-is-ending-support-for-its-2021-vcs-console-will-release-a-homebrew-app-to-let-players-keep-making-and-adding-games/",
-          "titre": "Atari is ending support for its 2021 VCS console, will release a Homebrew App to let players keep making and adding games"
-        }
-      ]
-    },
-    {
-      "id": "opinion-i-may-never-play-the-original-ocarina-of-time-again",
-      "titre": "Opinion: I May Never Play The Original Ocarina Of Time Again",
-      "url": "https://www.nintendolife.com/features/opinion-i-may-never-play-the-original-ocarina-of-time-again",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 16.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/opinion-i-may-never-play-the-original-ocarina-of-time-again",
-          "titre": "Opinion: I May Never Play The Original Ocarina Of Time Again"
-        }
-      ]
-    },
-    {
-      "id": "feature-these-20-ps5-ps4-exclusives-are-cheaper-than-ever-on",
-      "titre": "Feature: These 20 PS5, PS4 Exclusives Are Cheaper Than Ever on PS Store",
-      "url": "https://www.pushsquare.com/features/these-20-ps5-ps4-exclusives-are-cheaper-than-ever-on-ps-store",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 16.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/these-20-ps5-ps4-exclusives-are-cheaper-than-ever-on-ps-store",
-          "titre": "Feature: These 20 PS5, PS4 Exclusives Are Cheaper Than Ever on PS Store"
-        }
-      ]
-    },
-    {
-      "id": "vr-pioneer-owlchemy-labs-jumps-to-xr-for-its-next-release",
-      "titre": "VR pioneer Owlchemy Labs jumps to XR for its next release",
-      "url": "https://www.gamedeveloper.com/extended-reality/vr-pioneer-owlchemy-labs-pivots-to-xr-for-its-next-release",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 16.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/extended-reality/vr-pioneer-owlchemy-labs-pivots-to-xr-for-its-next-release",
-          "titre": "VR pioneer Owlchemy Labs jumps to XR for its next release"
-        }
-      ]
-    },
-    {
-      "id": "star-wars-galactic-racer-doubles-online-party-size-in-first",
-      "titre": "Star Wars: Galactic Racer Doubles Online Party Size in First Major PS5 Update",
-      "url": "https://www.pushsquare.com/news/2026/10/star-wars-galactic-racer-doubles-online-party-size-in-first-major-ps5-update",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 16.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/star-wars-galactic-racer-doubles-online-party-size-in-first-major-ps5-update",
-          "titre": "Star Wars: Galactic Racer Doubles Online Party Size in First Major PS5 Update"
-        }
-      ]
-    },
-    {
-      "id": "final-fantasy-14-umamusume-pretty-derby-and-more-impacted-as",
-      "titre": "Final Fantasy 14, Umamusume: Pretty Derby, and more impacted as PHP vulnerability outages hit games around the globe",
-      "url": "https://www.eurogamer.net/video-games-down-php-vulnerability",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 17.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/video-games-down-php-vulnerability",
-          "titre": "Final Fantasy 14, Umamusume: Pretty Derby, and more impacted as PHP vulnerability outages hit games around the globe"
-        }
-      ]
-    },
-    {
-      "id": "wolverine-was-us-s-best-selling-game-in-september-with-ps5-s",
-      "titre": "Wolverine was US’s best-selling game in September, with PS5 sales up 43%",
-      "url": "https://www.videogameschronicle.com/news/wolverine-was-uss-best-selling-game-in-september-with-ps5-sales-up-43/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 17.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/wolverine-was-uss-best-selling-game-in-september-with-ps5-sales-up-43/",
-          "titre": "Wolverine was US’s best-selling game in September, with PS5 sales up 43%"
-        }
-      ]
-    },
-    {
-      "id": "japanese-charts-castlevania-and-tales-of-eternia-battle-it-o",
-      "titre": "Japanese Charts: Castlevania And Tales Of Eternia Battle It Out For The Gold",
-      "url": "https://www.nintendolife.com/news/2026/10/japanese-charts-castlevania-and-tales-of-eternia-battle-it-out-for-the-gold",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 17.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/japanese-charts-castlevania-and-tales-of-eternia-battle-it-out-for-the-gold",
-          "titre": "Japanese Charts: Castlevania And Tales Of Eternia Battle It Out For The Gold"
-        }
-      ]
-    },
-    {
-      "id": "it-just-seemed-arbitrary-and-not-very-smart-ea-was-never-a",
-      "titre": "\"It just seemed arbitrary, and not very smart\": EA was never a responsible owner for Bioware, but the developer never seemed to learn from their mistakes",
-      "url": "https://www.rockpapershotgun.com/it-just-seemed-arbitrary-and-not-very-smart-ea-was-never-a-responsible-owner-for-bioware-but-the-developer-never-seemed-to-learn-from-their-mistakes",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 17.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/it-just-seemed-arbitrary-and-not-very-smart-ea-was-never-a-responsible-owner-for-bioware-but-the-developer-never-seemed-to-learn-from-their-mistakes",
-          "titre": "\"It just seemed arbitrary, and not very smart\": EA was never a responsible owner for Bioware, but the developer never seemed to learn from their mistakes"
-        }
-      ]
     }
   ],
   "alertes": [
-    "Mass Effect: Universe Trailer Leaked Online As BioWare Shuts Down"
+    "Flashy internal trailer for now-cancelled Mass Effect Universe appears online, following EA's closure of BioWare"
   ]
 };
