@@ -1,24 +1,27 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "23/10/2026 à 00h34",
+  "collecte": "23/10/2026 à 07h22",
   "seuil": 14,
   "sujets": [
     {
-      "id": "leaked-mass-effect-5-trailer-is-real-offers-glimpse-of-cance",
-      "titre": "Leaked Mass Effect 5 Trailer Is Real, Offers Glimpse of Cancelled Game",
-      "url": "https://www.pushsquare.com/news/2026/10/leaked-mass-effect-5-trailer-is-real-offers-glimpse-of-cancelled-game",
+      "id": "mass-effect-universe-trailer-leaked-online-as-bioware-shuts",
+      "titre": "Mass Effect: Universe Trailer Leaked Online As BioWare Shuts Down",
+      "url": "https://www.nintendolife.com/news/2026/10/mass-effect-universe-trailer-leaked-online-as-bioware-shuts-down",
       "sources": [
-        "Eurogamer",
-        "Game Developer",
-        "GamesIndustry.biz",
+        "Nintendo Life",
         "Push Square",
         "Rock Paper Shotgun",
         "VGC"
       ],
-      "reprises": 6,
-      "heures": 1.6,
-      "chaleur": 26,
+      "reprises": 4,
+      "heures": 1.5,
+      "chaleur": 20,
       "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/mass-effect-universe-trailer-leaked-online-as-bioware-shuts-down",
+          "titre": "Mass Effect: Universe Trailer Leaked Online As BioWare Shuts Down"
+        },
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/leaked-mass-effect-5-trailer-is-real-offers-glimpse-of-cancelled-game",
@@ -33,51 +36,54 @@ const VEILLE = {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/an-internal-mass-effect-5-trailer-has-reportedly-leaked-offering-you-a-glimpse-at-the-sequel-youll-never-get-to-play",
           "titre": "An internal Mass Effect 5 trailer has reportedly leaked, offering you a glimpse at the sequel you'll never get to play"
-        },
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/ea-closes-mass-effect-dragon-age-creator-bioware-after-30-years-of-game-development",
-          "titre": "EA closes Mass Effect, Dragon Age creator BioWare after 30 years of game development"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/bioware-closing-down-mass-effect-5-cancelled",
-          "titre": "BioWare is closing down and Mass Effect 5 is cancelled, months after Saudi Arabia's $55bn EA buyout"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/bioware-is-closing-after-30-years",
-          "titre": "BioWare is closing after 30 years"
         }
       ]
     },
     {
-      "id": "how-to-dual-wield-in-cyberpunk-2077",
-      "titre": "How to dual wield in Cyberpunk 2077",
-      "url": "https://www.pcgamer.com/games/rpg/how-to-dual-wield-in-cyberpunk-2077/",
+      "id": "capcom-data-breach-results-in-unauthorised-access-to-more-th",
+      "titre": "Capcom Data Breach Results In Unauthorised Access To More Than 11.7 Million 'CAPCOM ID' Accounts",
+      "url": "https://www.nintendolife.com/news/2026/10/capcom-data-breach-results-in-unauthorised-access-to-more-than-11-7-million-capcom-id-accounts",
       "sources": [
-        "Eurogamer",
-        "PC Gamer",
-        "Rock Paper Shotgun"
+        "Nintendo Life",
+        "Rock Paper Shotgun",
+        "VGC"
       ],
       "reprises": 3,
-      "heures": 5.0,
-      "chaleur": 10,
+      "heures": 3.5,
+      "chaleur": 12,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/how-to-dual-wield-in-cyberpunk-2077/",
-          "titre": "How to dual wield in Cyberpunk 2077"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/capcom-data-breach-results-in-unauthorised-access-to-more-than-11-7-million-capcom-id-accounts",
+          "titre": "Capcom Data Breach Results In Unauthorised Access To More Than 11.7 Million 'CAPCOM ID' Accounts"
         },
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/cyberpunk-2077s-edgerunners-2-update-adds-two-new-quests-handgun-dual-wielding-and-the-ability-to-pimp-your-mantis-blades",
-          "titre": "Cyberpunk 2077's Edgerunners 2 update adds two new quests, handgun dual wielding and the ability to pimp your mantis blades"
+          "url": "https://www.rockpapershotgun.com/resident-evil-makers-capcom-reveal-data-breach-has-affected-over-11-million-capcom-id-accounts-warn-against-potential-phishing-emails",
+          "titre": "Resident Evil makers Capcom reveal data breach has affected over 11 million Capcom ID accounts, warn against potential phishing emails"
         },
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/cyberpunk-2077-update-edgerunners-2-mod-support",
-          "titre": "CD Projekt Red details new Cyberpunk 2077 update - adding dual-wielding, cross-platform mods, Edgerunners story quests, and more"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/capcom-says-a-data-breach-affected-more-than-11-million-capcom-id-accounts-credit-card-details-unaffected/",
+          "titre": "Capcom says a data breach affected more than 11 million Capcom ID accounts, credit card details unaffected"
+        }
+      ]
+    },
+    {
+      "id": "review-call-of-duty-modern-warfare-4-switch-2-best-in-class",
+      "titre": "Review: Call Of Duty: Modern Warfare 4 (Switch 2) - Best-In-Class Bombast That Doesn't Shortchange Nintendo Gamers",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/call-of-duty-modern-warfare-4",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 3.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/call-of-duty-modern-warfare-4",
+          "titre": "Review: Call Of Duty: Modern Warfare 4 (Switch 2) - Best-In-Class Bombast That Doesn't Shortchange Nintendo Gamers"
         }
       ]
     },
@@ -91,8 +97,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 3,
-      "heures": 10.6,
-      "chaleur": 10,
+      "heures": 17.4,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Push Square",
@@ -112,48 +118,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nintendo-switch-sports-resort-archery-secret-target-location",
-      "titre": "Nintendo Switch Sports Resort: Archery Secret Target locations",
-      "url": "https://www.videogameschronicle.com/guide/nintendo-switch-sports-resort-archery-secret-target-locations/",
-      "sources": [
-        "Nintendo Life",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 11.8,
-      "chaleur": 10,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/nintendo-switch-sports-resort-archery-secret-target-locations/",
-          "titre": "Nintendo Switch Sports Resort: Archery Secret Target locations"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendo-switch-sports-resort-has-been-updated-to-ver-1-1-0-here-are-the-full-patch-notes",
-          "titre": "Nintendo Switch Sports Resort Has Been Updated To Ver. 1.1.0, Here Are The Full Patch Notes"
-        }
-      ]
-    },
-    {
-      "id": "a-line-held-tight-is-a-charcoal-visual-novel-about-a-miner-s",
-      "titre": "A Line Held Tight is a charcoal visual novel about a miner's strike in the 32nd century and choosing your relationships wisely",
-      "url": "https://www.rockpapershotgun.com/a-line-held-tight-is-a-charcoal-visual-novel-about-a-miners-strike-in-the-32nd-century-and-choosing-your-relationships-wisely",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/a-line-held-tight-is-a-charcoal-visual-novel-about-a-miners-strike-in-the-32nd-century-and-choosing-your-relationships-wisely",
-          "titre": "A Line Held Tight is a charcoal visual novel about a miner's strike in the 32nd century and choosing your relationships wisely"
-        }
-      ]
-    },
-    {
       "id": "following-shock-bioware-closure-scope-of-ea-job-cuts-becomes",
       "titre": "Following shock BioWare closure, scope of EA job cuts becomes clear as layoffs hit Respawn, Maxis, Full Circle, EA Motive, and more",
       "url": "https://www.eurogamer.net/ea-cuts-massive-ripple-effect-motive-full-circle-respawn",
@@ -161,49 +125,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 19.6,
       "chaleur": 9,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/ea-cuts-massive-ripple-effect-motive-full-circle-respawn",
           "titre": "Following shock BioWare closure, scope of EA job cuts becomes clear as layoffs hit Respawn, Maxis, Full Circle, EA Motive, and more"
-        }
-      ]
-    },
-    {
-      "id": "my-goty-is-7-and-has-253-steam-reviews",
-      "titre": "My GOTY is $7 and has 253 Steam reviews",
-      "url": "https://www.pcgamer.com/games/racing/my-goty-is-usd7-and-has-253-steam-reviews/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/racing/my-goty-is-usd7-and-has-253-steam-reviews/",
-          "titre": "My GOTY is $7 and has 253 Steam reviews"
-        }
-      ]
-    },
-    {
-      "id": "xbox-reportedly-mandate-four-days-a-week-in-office-for-staff",
-      "titre": "Xbox reportedly mandate four days a week in office for staff close to Microsoft's Washington HQ, up from three day requirement brought in last year",
-      "url": "https://www.rockpapershotgun.com/xbox-reportedly-mandate-four-days-a-week-in-office-for-staff-close-to-microsofts-washington-hq-up-from-three-day-requirement-brought-in-last-year",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 9.7,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/xbox-reportedly-mandate-four-days-a-week-in-office-for-staff-close-to-microsofts-washington-hq-up-from-three-day-requirement-brought-in-last-year",
-          "titre": "Xbox reportedly mandate four days a week in office for staff close to Microsoft's Washington HQ, up from three day requirement brought in last year"
         }
       ]
     },
@@ -216,7 +144,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 12.6,
+      "heures": 19.4,
       "chaleur": 8,
       "liens": [
         {
@@ -240,7 +168,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 15.3,
+      "heures": 22.1,
       "chaleur": 8,
       "liens": [
         {
@@ -256,6 +184,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "nintendo-expands-switch-online-s-game-boy-library-with-three",
+      "titre": "Nintendo Expands Switch Online's Game Boy Library With Three More Titles",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-expands-switch-onlines-game-boy-library-with-three-more-titles",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 6.0,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-expands-switch-onlines-game-boy-library-with-three-more-titles",
+          "titre": "Nintendo Expands Switch Online's Game Boy Library With Three More Titles"
+        }
+      ]
+    },
+    {
+      "id": "a-line-held-tight-is-a-charcoal-visual-novel-about-a-miner-s",
+      "titre": "A Line Held Tight is a charcoal visual novel about a miner's strike in the 32nd century and choosing your relationships wisely",
+      "url": "https://www.rockpapershotgun.com/a-line-held-tight-is-a-charcoal-visual-novel-about-a-miners-strike-in-the-32nd-century-and-choosing-your-relationships-wisely",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 9.5,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/a-line-held-tight-is-a-charcoal-visual-novel-about-a-miners-strike-in-the-32nd-century-and-choosing-your-relationships-wisely",
+          "titre": "A Line Held Tight is a charcoal visual novel about a miner's strike in the 32nd century and choosing your relationships wisely"
+        }
+      ]
+    },
+    {
       "id": "gears-of-war-e-day-cancelled-last-minute-for-ps5-may-have-co",
       "titre": "Gears of War: E-Day, Cancelled Last-Minute for PS5, May Have Cost Half a Billion to Make",
       "url": "https://www.pushsquare.com/news/2026/10/gears-of-war-e-day-cancelled-last-minute-for-ps5-may-have-cost-half-a-billion-to-make",
@@ -263,13 +227,85 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 11.9,
       "chaleur": 7,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/gears-of-war-e-day-cancelled-last-minute-for-ps5-may-have-cost-half-a-billion-to-make",
           "titre": "Gears of War: E-Day, Cancelled Last-Minute for PS5, May Have Cost Half a Billion to Make"
+        }
+      ]
+    },
+    {
+      "id": "xbox-reportedly-mandate-four-days-a-week-in-office-for-staff",
+      "titre": "Xbox reportedly mandate four days a week in office for staff close to Microsoft's Washington HQ, up from three day requirement brought in last year",
+      "url": "https://www.rockpapershotgun.com/xbox-reportedly-mandate-four-days-a-week-in-office-for-staff-close-to-microsofts-washington-hq-up-from-three-day-requirement-brought-in-last-year",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 16.5,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/xbox-reportedly-mandate-four-days-a-week-in-office-for-staff-close-to-microsofts-washington-hq-up-from-three-day-requirement-brought-in-last-year",
+          "titre": "Xbox reportedly mandate four days a week in office for staff close to Microsoft's Washington HQ, up from three day requirement brought in last year"
+        }
+      ]
+    },
+    {
+      "id": "switch-2-supposedly-jailbroken-via-software-only-exploit",
+      "titre": "Switch 2 Supposedly Jailbroken Via Software-Only Exploit",
+      "url": "https://www.nintendolife.com/news/2026/10/switch-2-supposedly-jailbroken-via-software-only-exploit",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/switch-2-supposedly-jailbroken-via-software-only-exploit",
+          "titre": "Switch 2 Supposedly Jailbroken Via Software-Only Exploit"
+        }
+      ]
+    },
+    {
+      "id": "zelda-tears-of-the-kingdom-exclusive-edition-statue-official",
+      "titre": "Zelda: Tears Of The Kingdom \"Exclusive Edition\" Statue Officially Revealed, Pre-Orders Now Open",
+      "url": "https://www.nintendolife.com/news/2026/10/zelda-tears-of-the-kingdom-exclusive-edition-statue-officially-revealed-pre-orders-now-open",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 6.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/zelda-tears-of-the-kingdom-exclusive-edition-statue-officially-revealed-pre-orders-now-open",
+          "titre": "Zelda: Tears Of The Kingdom \"Exclusive Edition\" Statue Officially Revealed, Pre-Orders Now Open"
+        }
+      ]
+    },
+    {
+      "id": "my-goty-is-7-and-has-253-steam-reviews",
+      "titre": "My GOTY is $7 and has 253 Steam reviews",
+      "url": "https://www.pcgamer.com/games/racing/my-goty-is-usd7-and-has-253-steam-reviews/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 8.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/racing/my-goty-is-usd7-and-has-253-steam-reviews/",
+          "titre": "My GOTY is $7 and has 253 Steam reviews"
         }
       ]
     },
@@ -282,8 +318,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 7.4,
-      "chaleur": 7,
+      "heures": 14.2,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -298,30 +334,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "feature-is-cyberpunk-2077-patch-2-5-worth-returning-to-night",
-      "titre": "Feature: Is Cyberpunk 2077 Patch 2.5 Worth Returning to Night City For?",
-      "url": "https://www.pushsquare.com/features/is-cyberpunk-2077-patch-2-5-worth-returning-to-night-city-for",
-      "sources": [
-        "Nintendo Life",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 7.6,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/is-cyberpunk-2077-patch-2-5-worth-returning-to-night-city-for",
-          "titre": "Feature: Is Cyberpunk 2077 Patch 2.5 Worth Returning to Night City For?"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/cyberpunk-2077-edgerunners-2-update-2-5-officially-revealed-here-are-the-full-patch-notes",
-          "titre": "Cyberpunk 2077: Edgerunners 2 Update (2.5) Officially Revealed, Here Are The Full Patch Notes"
-        }
-      ]
-    },
-    {
       "id": "bioware-s-cancelled-mass-effect-game-would-ve-learned-from-b",
       "titre": "BioWare's cancelled Mass Effect game would've learned from Baldur's Gate 3 and The Witcher to deliver \"a level of autonomy and choice that no other game has\"",
       "url": "https://www.eurogamer.net/cancelled-mass-effect-bioware-unprecedented-levels-of-autonomy",
@@ -329,8 +341,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.0,
-      "chaleur": 7,
+      "heures": 17.8,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
@@ -347,8 +359,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 7,
+      "heures": 18.3,
+      "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
@@ -365,8 +377,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 7,
+      "heures": 18.4,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
@@ -376,74 +388,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "a-new-fallout-4-mod-adds-an-entire-town-but-more-importantly",
-      "titre": "A new Fallout 4 mod adds an entire town, but more importantly, it lets you join a gang",
-      "url": "https://www.pcgamer.com/games/fallout/a-new-fallout-4-mod-adds-an-entire-town-but-more-importantly-it-lets-you-join-a-gang/",
+      "id": "nintendo-switch-sports-resort-archery-secret-target-location",
+      "titre": "Nintendo Switch Sports Resort: Archery Secret Target locations",
+      "url": "https://www.videogameschronicle.com/guide/nintendo-switch-sports-resort-archery-secret-target-locations/",
       "sources": [
-        "PC Gamer"
+        "VGC"
       ],
       "reprises": 1,
-      "heures": 2.2,
+      "heures": 18.6,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fallout/a-new-fallout-4-mod-adds-an-entire-town-but-more-importantly-it-lets-you-join-a-gang/",
-          "titre": "A new Fallout 4 mod adds an entire town, but more importantly, it lets you join a gang"
-        }
-      ]
-    },
-    {
-      "id": "epic-announces-game-jam-where-you-have-to-use-ai-then-walks",
-      "titre": "Epic announces game jam where you have to use AI, then walks back the requirement",
-      "url": "https://www.pcgamer.com/software/ai/epic-announces-game-jam-where-you-have-to-use-ai/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/epic-announces-game-jam-where-you-have-to-use-ai/",
-          "titre": "Epic announces game jam where you have to use AI, then walks back the requirement"
-        }
-      ]
-    },
-    {
-      "id": "canadian-politician-calls-on-government-to-help-bioware-empl",
-      "titre": "Canadian politician calls on government to help BioWare employees buy the studio and run it themselves",
-      "url": "https://www.pcgamer.com/games/mass-effect/canadian-politician-calls-on-government-to-help-bioware-employees-buy-the-studio-and-run-it-themselves/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/mass-effect/canadian-politician-calls-on-government-to-help-bioware-employees-buy-the-studio-and-run-it-themselves/",
-          "titre": "Canadian politician calls on government to help BioWare employees buy the studio and run it themselves"
-        }
-      ]
-    },
-    {
-      "id": "robot-smashing-catharsis-game-virtue-and-a-sledgehammer-is-o",
-      "titre": "Robot smashing catharsis game Virtue and a Sledgehammer is out next week, but there's an experimental visual novella prologue you can play right now",
-      "url": "https://www.rockpapershotgun.com/robot-smashing-catharsis-game-virtue-and-a-sledgehammer-is-out-next-week-but-theres-an-experimental-visual-novella-prologue-you-can-play-right-now",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 4.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/robot-smashing-catharsis-game-virtue-and-a-sledgehammer-is-out-next-week-but-theres-an-experimental-visual-novella-prologue-you-can-play-right-now",
-          "titre": "Robot smashing catharsis game Virtue and a Sledgehammer is out next week, but there's an experimental visual novella prologue you can play right now"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/nintendo-switch-sports-resort-archery-secret-target-locations/",
+          "titre": "Nintendo Switch Sports Resort: Archery Secret Target locations"
         }
       ]
     },
@@ -455,8 +413,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.8,
-      "chaleur": 6,
+      "heures": 13.6,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -473,8 +431,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.6,
-      "chaleur": 6,
+      "heures": 14.4,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -491,8 +449,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.6,
-      "chaleur": 6,
+      "heures": 15.4,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -509,8 +467,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.1,
-      "chaleur": 6,
+      "heures": 15.9,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -527,8 +485,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 9.8,
-      "chaleur": 6,
+      "heures": 16.6,
+      "chaleur": 5,
       "liens": [
         {
           "source": "VGC",
@@ -545,61 +503,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 6,
+      "heures": 17.6,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/ps5-beats-switch-2-in-strongest-us-sales-month-since-may-2025",
           "titre": "PS5 Beats Switch 2 in Strongest US Sales Month Since May 2025"
-        }
-      ]
-    },
-    {
-      "id": "resident-evil-makers-capcom-reveal-data-breach-has-affected",
-      "titre": "Resident Evil makers Capcom reveal data breach has affected over 11 million Capcom ID accounts, warn against potential phishing emails",
-      "url": "https://www.rockpapershotgun.com/resident-evil-makers-capcom-reveal-data-breach-has-affected-over-11-million-capcom-id-accounts-warn-against-potential-phishing-emails",
-      "sources": [
-        "Rock Paper Shotgun",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 12.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/resident-evil-makers-capcom-reveal-data-breach-has-affected-over-11-million-capcom-id-accounts-warn-against-potential-phishing-emails",
-          "titre": "Resident Evil makers Capcom reveal data breach has affected over 11 million Capcom ID accounts, warn against potential phishing emails"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/capcom-says-a-data-breach-affected-more-than-11-million-capcom-id-accounts-credit-card-details-unaffected/",
-          "titre": "Capcom says a data breach affected more than 11 million Capcom ID accounts, credit card details unaffected"
-        }
-      ]
-    },
-    {
-      "id": "while-ea-shuts-down-bioware-developers-of-the-sims-skate-and",
-      "titre": "While EA shuts down BioWare, developers of The Sims, Skate, and Battlefield say they've also lost their jobs",
-      "url": "https://www.rockpapershotgun.com/while-ea-shuts-down-bioware-developers-of-the-sims-skate-and-battlefield-say-theyve-also-lost-their-jobs",
-      "sources": [
-        "Nintendo Life",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 14.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/while-ea-shuts-down-bioware-developers-of-the-sims-skate-and-battlefield-say-theyve-also-lost-their-jobs",
-          "titre": "While EA shuts down BioWare, developers of The Sims, Skate, and Battlefield say they've also lost their jobs"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/ea-shuts-down-legendary-rpg-developer-bioware",
-          "titre": "EA Shuts Down Legendary RPG Developer BioWare"
         }
       ]
     },
@@ -611,7 +521,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 20.4,
       "chaleur": 5,
       "liens": [
         {
@@ -622,92 +532,74 @@ const VEILLE = {
       ]
     },
     {
-      "id": "limited-run-announces-hitman-absolution-switch-2-physical-re",
-      "titre": "Limited Run Announces Hitman: Absolution Switch 2 Physical Release, Here's A Look",
-      "url": "https://www.nintendolife.com/news/2026/10/limited-run-announces-hitman-absolution-switch-2-physical-release-heres-a-look",
+      "id": "a-new-fallout-4-mod-adds-an-entire-town-but-more-importantly",
+      "titre": "A new Fallout 4 mod adds an entire town, but more importantly, it lets you join a gang",
+      "url": "https://www.pcgamer.com/games/fallout/a-new-fallout-4-mod-adds-an-entire-town-but-more-importantly-it-lets-you-join-a-gang/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 22.1,
-      "chaleur": 5,
+      "heures": 9.0,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/limited-run-announces-hitman-absolution-switch-2-physical-release-heres-a-look",
-          "titre": "Limited Run Announces Hitman: Absolution Switch 2 Physical Release, Here's A Look"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fallout/a-new-fallout-4-mod-adds-an-entire-town-but-more-importantly-it-lets-you-join-a-gang/",
+          "titre": "A new Fallout 4 mod adds an entire town, but more importantly, it lets you join a gang"
         }
       ]
     },
     {
-      "id": "ea-cancels-unannounced-the-sims-project-trims-the-skate-team",
-      "titre": "EA cancels unannounced The Sims project, trims the Skate team and reportedly plans to lay off 400 workers: \"We're the number one publisher in Western HD gaming\"",
-      "url": "https://www.eurogamer.net/ea-cancels-sims-skate-400-layoffs",
+      "id": "epic-announces-game-jam-where-you-have-to-use-ai-then-walks",
+      "titre": "Epic announces game jam where you have to use AI, then walks back the requirement",
+      "url": "https://www.pcgamer.com/software/ai/epic-announces-game-jam-where-you-have-to-use-ai/",
       "sources": [
-        "Eurogamer"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 29.6,
-      "chaleur": 5,
+      "heures": 9.7,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/ea-cancels-sims-skate-400-layoffs",
-          "titre": "EA cancels unannounced The Sims project, trims the Skate team and reportedly plans to lay off 400 workers: \"We're the number one publisher in Western HD gaming\""
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/epic-announces-game-jam-where-you-have-to-use-ai/",
+          "titre": "Epic announces game jam where you have to use AI, then walks back the requirement"
         }
       ]
     },
     {
-      "id": "amd-s-fsr-4-1-upscaling-is-coming-to-xbox-series-x-s",
-      "titre": "AMD's FSR 4.1 upscaling is coming to Xbox Series X|S",
-      "url": "https://www.gamesindustry.biz/amds-fsr-41-upscaling-is-coming-to-xbox-series-xs",
+      "id": "canadian-politician-calls-on-government-to-help-bioware-empl",
+      "titre": "Canadian politician calls on government to help BioWare employees buy the studio and run it themselves",
+      "url": "https://www.pcgamer.com/games/mass-effect/canadian-politician-calls-on-government-to-help-bioware-employees-buy-the-studio-and-run-it-themselves/",
       "sources": [
-        "GamesIndustry.biz"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 30.9,
-      "chaleur": 5,
+      "heures": 9.9,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/amds-fsr-41-upscaling-is-coming-to-xbox-series-xs",
-          "titre": "AMD's FSR 4.1 upscaling is coming to Xbox Series X|S"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/mass-effect/canadian-politician-calls-on-government-to-help-bioware-employees-buy-the-studio-and-run-it-themselves/",
+          "titre": "Canadian politician calls on government to help BioWare employees buy the studio and run it themselves"
         }
       ]
     },
     {
-      "id": "review-jsaux-6-in-1-gaming-dock-for-switch-2-attractive-enou",
-      "titre": "Review: JSAUX 6-In-1 Gaming Dock For Switch 2 - Attractive Enough, But No Replacement For The Real Deal",
-      "url": "https://www.nintendolife.com/reviews/jsaux-6-in-1-gaming-dock-for-switch-2-attractive-enough-but-no-replacement-for-the-real-deal",
+      "id": "robot-smashing-catharsis-game-virtue-and-a-sledgehammer-is-o",
+      "titre": "Robot smashing catharsis game Virtue and a Sledgehammer is out next week, but there's an experimental visual novella prologue you can play right now",
+      "url": "https://www.rockpapershotgun.com/robot-smashing-catharsis-game-virtue-and-a-sledgehammer-is-out-next-week-but-theres-an-experimental-visual-novella-prologue-you-can-play-right-now",
       "sources": [
-        "Nintendo Life"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 33.6,
-      "chaleur": 5,
+      "heures": 10.8,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/jsaux-6-in-1-gaming-dock-for-switch-2-attractive-enough-but-no-replacement-for-the-real-deal",
-          "titre": "Review: JSAUX 6-In-1 Gaming Dock For Switch 2 - Attractive Enough, But No Replacement For The Real Deal"
-        }
-      ]
-    },
-    {
-      "id": "project-helix-reportedly-launching-in-late-2028-projected-to",
-      "titre": "Project Helix reportedly launching in late 2028, projected to cost between $1,200 and $1,800",
-      "url": "https://www.gamesindustry.biz/project-helix-reportedly-launching-in-late-2028-projected-to-cost-between-1200-and-1800",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 34.9,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/project-helix-reportedly-launching-in-late-2028-projected-to-cost-between-1200-and-1800",
-          "titre": "Project Helix reportedly launching in late 2028, projected to cost between $1,200 and $1,800"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/robot-smashing-catharsis-game-virtue-and-a-sledgehammer-is-out-next-week-but-theres-an-experimental-visual-novella-prologue-you-can-play-right-now",
+          "titre": "Robot smashing catharsis game Virtue and a Sledgehammer is out next week, but there's an experimental visual novella prologue you can play right now"
         }
       ]
     },
@@ -719,7 +611,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 4.0,
+      "heures": 10.8,
       "chaleur": 4,
       "liens": [
         {
@@ -737,13 +629,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 11.1,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/fps/half-life-3-re-re-re-confirmed-a-valve-dev-just-said-hlx-out-loud/",
           "titre": "Half-Life 3 re-re-re-confirmed: A Valve dev just said 'HLX' out loud"
+        }
+      ]
+    },
+    {
+      "id": "how-to-dual-wield-in-cyberpunk-2077",
+      "titre": "How to dual wield in Cyberpunk 2077",
+      "url": "https://www.pcgamer.com/games/rpg/how-to-dual-wield-in-cyberpunk-2077/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 11.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/how-to-dual-wield-in-cyberpunk-2077/",
+          "titre": "How to dual wield in Cyberpunk 2077"
         }
       ]
     },
@@ -755,8 +665,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.3,
-      "chaleur": 4,
+      "heures": 12.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -773,8 +683,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.6,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -791,8 +701,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.6,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -809,8 +719,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.0,
-      "chaleur": 4,
+      "heures": 13.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -827,8 +737,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.1,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -845,13 +755,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.6,
-      "chaleur": 4,
+      "heures": 14.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/smash-bros-masahiro-sakurai-generative-ai-unoriginal-games",
           "titre": "Smash Bros. director Masahiro Sakurai thinks gen-AI will cause a surge of unoriginal games, but says human creativity can't be replicated"
+        }
+      ]
+    },
+    {
+      "id": "feature-is-cyberpunk-2077-patch-2-5-worth-returning-to-night",
+      "titre": "Feature: Is Cyberpunk 2077 Patch 2.5 Worth Returning to Night City For?",
+      "url": "https://www.pushsquare.com/features/is-cyberpunk-2077-patch-2-5-worth-returning-to-night-city-for",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 14.4,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/is-cyberpunk-2077-patch-2-5-worth-returning-to-night-city-for",
+          "titre": "Feature: Is Cyberpunk 2077 Patch 2.5 Worth Returning to Night City For?"
         }
       ]
     },
@@ -863,8 +791,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.6,
-      "chaleur": 4,
+      "heures": 14.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -881,8 +809,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.8,
-      "chaleur": 4,
+      "heures": 14.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -899,8 +827,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.0,
-      "chaleur": 4,
+      "heures": 14.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -917,8 +845,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.0,
-      "chaleur": 4,
+      "heures": 14.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -935,8 +863,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.1,
-      "chaleur": 4,
+      "heures": 14.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -953,8 +881,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.1,
-      "chaleur": 4,
+      "heures": 14.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -971,8 +899,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.2,
-      "chaleur": 4,
+      "heures": 15.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -989,8 +917,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 8.3,
-      "chaleur": 4,
+      "heures": 15.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -1007,8 +935,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.6,
-      "chaleur": 4,
+      "heures": 15.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1025,8 +953,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.7,
-      "chaleur": 4,
+      "heures": 15.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1043,8 +971,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.1,
-      "chaleur": 4,
+      "heures": 15.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1061,8 +989,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 9.2,
-      "chaleur": 4,
+      "heures": 15.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -1079,8 +1007,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.6,
-      "chaleur": 4,
+      "heures": 16.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -1097,8 +1025,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.6,
-      "chaleur": 4,
+      "heures": 16.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1115,8 +1043,8 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 10.0,
-      "chaleur": 4,
+      "heures": 16.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Game Developer",
@@ -1133,8 +1061,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 4,
+      "heures": 16.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1151,8 +1079,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 4,
+      "heures": 17.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -1169,8 +1097,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 4,
+      "heures": 17.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -1178,9 +1106,45 @@ const VEILLE = {
           "titre": "Wolverine was US’s best-selling game in September, with PS5 sales up 43%"
         }
       ]
+    },
+    {
+      "id": "japanese-charts-castlevania-and-tales-of-eternia-battle-it-o",
+      "titre": "Japanese Charts: Castlevania And Tales Of Eternia Battle It Out For The Gold",
+      "url": "https://www.nintendolife.com/news/2026/10/japanese-charts-castlevania-and-tales-of-eternia-battle-it-out-for-the-gold",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 17.6,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/japanese-charts-castlevania-and-tales-of-eternia-battle-it-out-for-the-gold",
+          "titre": "Japanese Charts: Castlevania And Tales Of Eternia Battle It Out For The Gold"
+        }
+      ]
+    },
+    {
+      "id": "it-just-seemed-arbitrary-and-not-very-smart-ea-was-never-a",
+      "titre": "\"It just seemed arbitrary, and not very smart\": EA was never a responsible owner for Bioware, but the developer never seemed to learn from their mistakes",
+      "url": "https://www.rockpapershotgun.com/it-just-seemed-arbitrary-and-not-very-smart-ea-was-never-a-responsible-owner-for-bioware-but-the-developer-never-seemed-to-learn-from-their-mistakes",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 17.8,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/it-just-seemed-arbitrary-and-not-very-smart-ea-was-never-a-responsible-owner-for-bioware-but-the-developer-never-seemed-to-learn-from-their-mistakes",
+          "titre": "\"It just seemed arbitrary, and not very smart\": EA was never a responsible owner for Bioware, but the developer never seemed to learn from their mistakes"
+        }
+      ]
     }
   ],
   "alertes": [
-    "Leaked Mass Effect 5 Trailer Is Real, Offers Glimpse of Cancelled Game"
+    "Mass Effect: Universe Trailer Leaked Online As BioWare Shuts Down"
   ]
 };
