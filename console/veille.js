@@ -1,32 +1,38 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "22/10/2026 à 21h28",
+  "collecte": "23/10/2026 à 00h34",
   "seuil": 14,
   "sujets": [
     {
-      "id": "mass-effect-universe-trailer-leaks-online-showcases-what-bio",
-      "titre": "Mass Effect Universe trailer leaks online, showcases what BioWare was working on before being shut down",
-      "url": "https://www.videogameschronicle.com/news/mass-effect-universe-trailer-leaks-online-showcases-what-bioware-was-working-on-before-being-shut-down/",
+      "id": "leaked-mass-effect-5-trailer-is-real-offers-glimpse-of-cance",
+      "titre": "Leaked Mass Effect 5 Trailer Is Real, Offers Glimpse of Cancelled Game",
+      "url": "https://www.pushsquare.com/news/2026/10/leaked-mass-effect-5-trailer-is-real-offers-glimpse-of-cancelled-game",
       "sources": [
         "Eurogamer",
         "Game Developer",
         "GamesIndustry.biz",
         "Push Square",
+        "Rock Paper Shotgun",
         "VGC"
       ],
-      "reprises": 5,
-      "heures": 2.7,
-      "chaleur": 24,
+      "reprises": 6,
+      "heures": 1.6,
+      "chaleur": 26,
       "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/leaked-mass-effect-5-trailer-is-real-offers-glimpse-of-cancelled-game",
+          "titre": "Leaked Mass Effect 5 Trailer Is Real, Offers Glimpse of Cancelled Game"
+        },
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/mass-effect-universe-trailer-leaks-online-showcases-what-bioware-was-working-on-before-being-shut-down/",
           "titre": "Mass Effect Universe trailer leaks online, showcases what BioWare was working on before being shut down"
         },
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/mass-effect-5-trailer-allegedly-leaks-following-bioware-closure",
-          "titre": "Mass Effect 5 Trailer Allegedly Leaks Following BioWare Closure"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/an-internal-mass-effect-5-trailer-has-reportedly-leaked-offering-you-a-glimpse-at-the-sequel-youll-never-get-to-play",
+          "titre": "An internal Mass Effect 5 trailer has reportedly leaked, offering you a glimpse at the sequel you'll never get to play"
         },
         {
           "source": "Game Developer",
@@ -55,8 +61,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 1.9,
-      "chaleur": 12,
+      "heures": 5.0,
+      "chaleur": 10,
       "liens": [
         {
           "source": "PC Gamer",
@@ -76,66 +82,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "ea-has-reportedly-put-dice-and-respawn-to-work-on-a-new-star",
-      "titre": "EA has reportedly put DICE and Respawn to work on a new Star Wars: Battlefront game",
-      "url": "https://www.pcgamer.com/games/fps/ea-has-reportedly-put-dice-and-respawn-to-work-on-a-new-star-wars-battlefront-game/",
-      "sources": [
-        "Eurogamer",
-        "PC Gamer",
-        "VGC"
-      ],
-      "reprises": 3,
-      "heures": 6.1,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/ea-has-reportedly-put-dice-and-respawn-to-work-on-a-new-star-wars-battlefront-game/",
-          "titre": "EA has reportedly put DICE and Respawn to work on a new Star Wars: Battlefront game"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/dice-and-respawn-are-teaming-up-for-star-wars-battlefront-3/",
-          "titre": "DICE and Respawn ‘are teaming up for Star Wars: Battlefront 3’"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/star-wars-battlefront-3-developer-respawn-dice-report",
-          "titre": "Star Wars: Battlefront 3 reportedly being co-developed by Battlefield studio DICE and Apex Legends studio Respawn"
-        }
-      ]
-    },
-    {
-      "id": "capcom-confirms-a-data-breach-has-affected-over-11-million-p",
-      "titre": "Capcom confirms a data breach has affected over 11 million people, with emails, IP addresses, and birthdays caught up in the mix",
-      "url": "https://www.pcgamer.com/hardware/capcom-confirms-a-data-breach-has-affected-over-11-million-people-with-emails-ip-addresses-and-birthdays-caught-up-in-the-mix/",
-      "sources": [
-        "PC Gamer",
-        "Rock Paper Shotgun",
-        "VGC"
-      ],
-      "reprises": 3,
-      "heures": 6.3,
-      "chaleur": 10,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/capcom-confirms-a-data-breach-has-affected-over-11-million-people-with-emails-ip-addresses-and-birthdays-caught-up-in-the-mix/",
-          "titre": "Capcom confirms a data breach has affected over 11 million people, with emails, IP addresses, and birthdays caught up in the mix"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/resident-evil-makers-capcom-reveal-data-breach-has-affected-over-11-million-capcom-id-accounts-warn-against-potential-phishing-emails",
-          "titre": "Resident Evil makers Capcom reveal data breach has affected over 11 million Capcom ID accounts, warn against potential phishing emails"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/capcom-says-a-data-breach-affected-more-than-11-million-capcom-id-accounts-credit-card-details-unaffected/",
-          "titre": "Capcom says a data breach affected more than 11 million Capcom ID accounts, credit card details unaffected"
-        }
-      ]
-    },
-    {
       "id": "ps5-exclusive-marvel-s-wolverine-is-sony-s-biggest-launch-si",
       "titre": "PS5 Exclusive Marvel's Wolverine Is Sony's Biggest Launch Since Helldivers 2",
       "url": "https://www.pushsquare.com/news/2026/10/ps5-exclusive-marvels-wolverine-is-sonys-biggest-launch-since-helldivers-2",
@@ -145,7 +91,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 3,
-      "heures": 7.5,
+      "heures": 10.6,
       "chaleur": 10,
       "liens": [
         {
@@ -174,7 +120,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 8.7,
+      "heures": 11.8,
       "chaleur": 10,
       "liens": [
         {
@@ -190,6 +136,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "a-line-held-tight-is-a-charcoal-visual-novel-about-a-miner-s",
+      "titre": "A Line Held Tight is a charcoal visual novel about a miner's strike in the 32nd century and choosing your relationships wisely",
+      "url": "https://www.rockpapershotgun.com/a-line-held-tight-is-a-charcoal-visual-novel-about-a-miners-strike-in-the-32nd-century-and-choosing-your-relationships-wisely",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 2.7,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/a-line-held-tight-is-a-charcoal-visual-novel-about-a-miners-strike-in-the-32nd-century-and-choosing-your-relationships-wisely",
+          "titre": "A Line Held Tight is a charcoal visual novel about a miner's strike in the 32nd century and choosing your relationships wisely"
+        }
+      ]
+    },
+    {
       "id": "following-shock-bioware-closure-scope-of-ea-job-cuts-becomes",
       "titre": "Following shock BioWare closure, scope of EA job cuts becomes clear as layoffs hit Respawn, Maxis, Full Circle, EA Motive, and more",
       "url": "https://www.eurogamer.net/ea-cuts-massive-ripple-effect-motive-full-circle-respawn",
@@ -197,8 +161,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.8,
-      "chaleur": 10,
+      "heures": 12.9,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Eurogamer",
@@ -208,56 +172,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gears-of-war-e-day-cancelled-last-minute-for-ps5-may-have-co",
-      "titre": "Gears of War: E-Day, Cancelled Last-Minute for PS5, May Have Cost Half a Billion to Make",
-      "url": "https://www.pushsquare.com/news/2026/10/gears-of-war-e-day-cancelled-last-minute-for-ps5-may-have-cost-half-a-billion-to-make",
+      "id": "my-goty-is-7-and-has-253-steam-reviews",
+      "titre": "My GOTY is $7 and has 253 Steam reviews",
+      "url": "https://www.pcgamer.com/games/racing/my-goty-is-usd7-and-has-253-steam-reviews/",
       "sources": [
-        "Push Square"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.0,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/gears-of-war-e-day-cancelled-last-minute-for-ps5-may-have-cost-half-a-billion-to-make",
-          "titre": "Gears of War: E-Day, Cancelled Last-Minute for PS5, May Have Cost Half a Billion to Make"
-        }
-      ]
-    },
-    {
-      "id": "an-internal-mass-effect-5-trailer-has-reportedly-leaked-offe",
-      "titre": "An internal Mass Effect 5 trailer has reportedly leaked, offering you a glimpse at the sequel you'll never get to play",
-      "url": "https://www.rockpapershotgun.com/an-internal-mass-effect-5-trailer-has-reportedly-leaked-offering-you-a-glimpse-at-the-sequel-youll-never-get-to-play",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
+      "heures": 2.1,
       "chaleur": 8,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/an-internal-mass-effect-5-trailer-has-reportedly-leaked-offering-you-a-glimpse-at-the-sequel-youll-never-get-to-play",
-          "titre": "An internal Mass Effect 5 trailer has reportedly leaked, offering you a glimpse at the sequel you'll never get to play"
-        }
-      ]
-    },
-    {
-      "id": "surprise-shadow-of-the-tomb-raider-definitive-edition-has-sh",
-      "titre": "Surprise! 'Shadow Of The Tomb Raider: Definitive Edition' Has Shadow Dropped On Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/10/surprise-shadow-of-the-tomb-raider-definitive-edition-has-shadow-dropped-on-switch-2",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/surprise-shadow-of-the-tomb-raider-definitive-edition-has-shadow-dropped-on-switch-2",
-          "titre": "Surprise! 'Shadow Of The Tomb Raider: Definitive Edition' Has Shadow Dropped On Switch 2"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/racing/my-goty-is-usd7-and-has-253-steam-reviews/",
+          "titre": "My GOTY is $7 and has 253 Steam reviews"
         }
       ]
     },
@@ -269,13 +197,37 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 9.7,
       "chaleur": 8,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/xbox-reportedly-mandate-four-days-a-week-in-office-for-staff-close-to-microsofts-washington-hq-up-from-three-day-requirement-brought-in-last-year",
           "titre": "Xbox reportedly mandate four days a week in office for staff close to Microsoft's Washington HQ, up from three day requirement brought in last year"
+        }
+      ]
+    },
+    {
+      "id": "dice-and-respawn-are-teaming-up-for-star-wars-battlefront-3",
+      "titre": "DICE and Respawn ‘are teaming up for Star Wars: Battlefront 3’",
+      "url": "https://www.videogameschronicle.com/news/dice-and-respawn-are-teaming-up-for-star-wars-battlefront-3/",
+      "sources": [
+        "Eurogamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 12.6,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/dice-and-respawn-are-teaming-up-for-star-wars-battlefront-3/",
+          "titre": "DICE and Respawn ‘are teaming up for Star Wars: Battlefront 3’"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/star-wars-battlefront-3-developer-respawn-dice-report",
+          "titre": "Star Wars: Battlefront 3 reportedly being co-developed by Battlefield studio DICE and Apex Legends studio Respawn"
         }
       ]
     },
@@ -288,7 +240,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 12.2,
+      "heures": 15.3,
       "chaleur": 8,
       "liens": [
         {
@@ -304,6 +256,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "gears-of-war-e-day-cancelled-last-minute-for-ps5-may-have-co",
+      "titre": "Gears of War: E-Day, Cancelled Last-Minute for PS5, May Have Cost Half a Billion to Make",
+      "url": "https://www.pushsquare.com/news/2026/10/gears-of-war-e-day-cancelled-last-minute-for-ps5-may-have-cost-half-a-billion-to-make",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.1,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/gears-of-war-e-day-cancelled-last-minute-for-ps5-may-have-cost-half-a-billion-to-make",
+          "titre": "Gears of War: E-Day, Cancelled Last-Minute for PS5, May Have Cost Half a Billion to Make"
+        }
+      ]
+    },
+    {
       "id": "dispatch-celebrates-its-first-anniversary-with-commentary-an",
       "titre": "Dispatch celebrates its first anniversary with commentary and storyboard modes for every single episode, if you've got the deluxe edition anyway",
       "url": "https://www.rockpapershotgun.com/dispatch-celebrates-its-first-anniversary-with-commentary-and-storyboard-modes-for-every-single-episode-if-youve-got-the-deluxe-edition-anyway",
@@ -312,7 +282,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 4.3,
+      "heures": 7.4,
       "chaleur": 7,
       "liens": [
         {
@@ -336,7 +306,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 4.5,
+      "heures": 7.6,
       "chaleur": 7,
       "liens": [
         {
@@ -359,7 +329,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.9,
+      "heures": 11.0,
       "chaleur": 7,
       "liens": [
         {
@@ -377,7 +347,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 8.4,
+      "heures": 11.5,
       "chaleur": 7,
       "liens": [
         {
@@ -395,7 +365,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.5,
+      "heures": 11.6,
       "chaleur": 7,
       "liens": [
         {
@@ -406,26 +376,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "while-ea-shuts-down-bioware-developers-of-the-sims-skate-and",
-      "titre": "While EA shuts down BioWare, developers of The Sims, Skate, and Battlefield say they've also lost their jobs",
-      "url": "https://www.rockpapershotgun.com/while-ea-shuts-down-bioware-developers-of-the-sims-skate-and-battlefield-say-theyve-also-lost-their-jobs",
+      "id": "a-new-fallout-4-mod-adds-an-entire-town-but-more-importantly",
+      "titre": "A new Fallout 4 mod adds an entire town, but more importantly, it lets you join a gang",
+      "url": "https://www.pcgamer.com/games/fallout/a-new-fallout-4-mod-adds-an-entire-town-but-more-importantly-it-lets-you-join-a-gang/",
       "sources": [
-        "Nintendo Life",
-        "Rock Paper Shotgun"
+        "PC Gamer"
       ],
-      "reprises": 2,
-      "heures": 11.0,
-      "chaleur": 7,
+      "reprises": 1,
+      "heures": 2.2,
+      "chaleur": 6,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/while-ea-shuts-down-bioware-developers-of-the-sims-skate-and-battlefield-say-theyve-also-lost-their-jobs",
-          "titre": "While EA shuts down BioWare, developers of The Sims, Skate, and Battlefield say they've also lost their jobs"
-        },
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fallout/a-new-fallout-4-mod-adds-an-entire-town-but-more-importantly-it-lets-you-join-a-gang/",
+          "titre": "A new Fallout 4 mod adds an entire town, but more importantly, it lets you join a gang"
+        }
+      ]
+    },
+    {
+      "id": "epic-announces-game-jam-where-you-have-to-use-ai-then-walks",
+      "titre": "Epic announces game jam where you have to use AI, then walks back the requirement",
+      "url": "https://www.pcgamer.com/software/ai/epic-announces-game-jam-where-you-have-to-use-ai/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.9,
+      "chaleur": 6,
+      "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/ea-shuts-down-legendary-rpg-developer-bioware",
-          "titre": "EA Shuts Down Legendary RPG Developer BioWare"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/epic-announces-game-jam-where-you-have-to-use-ai/",
+          "titre": "Epic announces game jam where you have to use AI, then walks back the requirement"
+        }
+      ]
+    },
+    {
+      "id": "canadian-politician-calls-on-government-to-help-bioware-empl",
+      "titre": "Canadian politician calls on government to help BioWare employees buy the studio and run it themselves",
+      "url": "https://www.pcgamer.com/games/mass-effect/canadian-politician-calls-on-government-to-help-bioware-employees-buy-the-studio-and-run-it-themselves/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 3.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/mass-effect/canadian-politician-calls-on-government-to-help-bioware-employees-buy-the-studio-and-run-it-themselves/",
+          "titre": "Canadian politician calls on government to help BioWare employees buy the studio and run it themselves"
         }
       ]
     },
@@ -437,7 +437,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 4.0,
       "chaleur": 6,
       "liens": [
         {
@@ -448,128 +448,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "opinion-why-words-matter-when-we-prioritize-core-teams-in-ga",
-      "titre": "Opinion: Why words matter when we prioritize 'core teams' in game development",
-      "url": "https://www.gamedeveloper.com/production/opinion-why-prioritizing-success-of-core-teams-risks-devaluing-other-devs",
+      "id": "surprise-shadow-of-the-tomb-raider-definitive-edition-has-sh",
+      "titre": "Surprise! 'Shadow Of The Tomb Raider: Definitive Edition' Has Shadow Dropped On Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/10/surprise-shadow-of-the-tomb-raider-definitive-edition-has-shadow-dropped-on-switch-2",
       "sources": [
-        "Game Developer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.9,
+      "heures": 6.8,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/production/opinion-why-prioritizing-success-of-core-teams-risks-devaluing-other-devs",
-          "titre": "Opinion: Why words matter when we prioritize 'core teams' in game development"
-        }
-      ]
-    },
-    {
-      "id": "half-life-3-re-re-re-confirmed-a-valve-dev-just-said-hlx-out",
-      "titre": "Half-Life 3 re-re-re-confirmed: A Valve dev just said 'HLX' out loud",
-      "url": "https://www.pcgamer.com/games/fps/half-life-3-re-re-re-confirmed-a-valve-dev-just-said-hlx-out-loud/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/half-life-3-re-re-re-confirmed-a-valve-dev-just-said-hlx-out-loud/",
-          "titre": "Half-Life 3 re-re-re-confirmed: A Valve dev just said 'HLX' out loud"
-        }
-      ]
-    },
-    {
-      "id": "future-capcom-games-will-have-onimusha-to-thank-for-re-engin",
-      "titre": "Future Capcom games will have Onimusha to thank for RE Engine's gnarly dismemberments",
-      "url": "https://www.pcgamer.com/games/action/future-capcom-games-will-have-onimusha-to-thank-for-re-engines-gnarly-dismemberments/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/future-capcom-games-will-have-onimusha-to-thank-for-re-engines-gnarly-dismemberments/",
-          "titre": "Future Capcom games will have Onimusha to thank for RE Engine's gnarly dismemberments"
-        }
-      ]
-    },
-    {
-      "id": "promising-sci-fi-rpg-exodus-changes-its-main-character-s-fac",
-      "titre": "Promising Sci-Fi RPG Exodus Changes Its Main Character's Face After Fan Criticism",
-      "url": "https://www.pushsquare.com/news/2026/10/promising-sci-fi-rpg-exodus-changes-its-main-characters-face-after-fan-criticism",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/promising-sci-fi-rpg-exodus-changes-its-main-characters-face-after-fan-criticism",
-          "titre": "Promising Sci-Fi RPG Exodus Changes Its Main Character's Face After Fan Criticism"
-        }
-      ]
-    },
-    {
-      "id": "no-other-studio-in-the-world-did-it-better-than-bioware-at",
-      "titre": "'No other studio in the world did it better' than BioWare at its peak, says former Dragon Age lead writer David Gaider",
-      "url": "https://www.pcgamer.com/games/dragon-age/no-other-studio-in-the-world-did-it-better-than-bioware-at-its-peak-says-former-dragon-age-lead-writer-david-gaider/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/dragon-age/no-other-studio-in-the-world-did-it-better-than-bioware-at-its-peak-says-former-dragon-age-lead-writer-david-gaider/",
-          "titre": "'No other studio in the world did it better' than BioWare at its peak, says former Dragon Age lead writer David Gaider"
-        }
-      ]
-    },
-    {
-      "id": "splash-damage-acquired-this-studio-just-3-months-after-layin",
-      "titre": "Splash Damage acquired this studio just 3 months after laying off a bunch of people—now it's laying them off, too",
-      "url": "https://www.pcgamer.com/gaming-industry/splash-damage-acquired-this-studio-just-3-months-after-laying-off-a-bunch-of-people-now-its-laying-them-off-too/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/splash-damage-acquired-this-studio-just-3-months-after-laying-off-a-bunch-of-people-now-its-laying-them-off-too/",
-          "titre": "Splash Damage acquired this studio just 3 months after laying off a bunch of people—now it's laying them off, too"
-        }
-      ]
-    },
-    {
-      "id": "hellraiser-performing-extremely-well-says-saber-boss-in-bid",
-      "titre": "Hellraiser 'Performing Extremely Well' Says Saber Boss in Bid for Return of AA Games",
-      "url": "https://www.pushsquare.com/news/2026/10/hellraiser-performing-extremely-well-says-saber-boss-in-bid-for-return-of-aa-games",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 4.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/hellraiser-performing-extremely-well-says-saber-boss-in-bid-for-return-of-aa-games",
-          "titre": "Hellraiser 'Performing Extremely Well' Says Saber Boss in Bid for Return of AA Games"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/surprise-shadow-of-the-tomb-raider-definitive-edition-has-shadow-dropped-on-switch-2",
+          "titre": "Surprise! 'Shadow Of The Tomb Raider: Definitive Edition' Has Shadow Dropped On Switch 2"
         }
       ]
     },
@@ -581,7 +473,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 7.6,
       "chaleur": 6,
       "liens": [
         {
@@ -599,7 +491,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 8.6,
       "chaleur": 6,
       "liens": [
         {
@@ -617,7 +509,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 9.1,
       "chaleur": 6,
       "liens": [
         {
@@ -635,7 +527,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.7,
+      "heures": 9.8,
       "chaleur": 6,
       "liens": [
         {
@@ -653,13 +545,61 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.7,
+      "heures": 10.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/ps5-beats-switch-2-in-strongest-us-sales-month-since-may-2025",
           "titre": "PS5 Beats Switch 2 in Strongest US Sales Month Since May 2025"
+        }
+      ]
+    },
+    {
+      "id": "resident-evil-makers-capcom-reveal-data-breach-has-affected",
+      "titre": "Resident Evil makers Capcom reveal data breach has affected over 11 million Capcom ID accounts, warn against potential phishing emails",
+      "url": "https://www.rockpapershotgun.com/resident-evil-makers-capcom-reveal-data-breach-has-affected-over-11-million-capcom-id-accounts-warn-against-potential-phishing-emails",
+      "sources": [
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 12.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/resident-evil-makers-capcom-reveal-data-breach-has-affected-over-11-million-capcom-id-accounts-warn-against-potential-phishing-emails",
+          "titre": "Resident Evil makers Capcom reveal data breach has affected over 11 million Capcom ID accounts, warn against potential phishing emails"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/capcom-says-a-data-breach-affected-more-than-11-million-capcom-id-accounts-credit-card-details-unaffected/",
+          "titre": "Capcom says a data breach affected more than 11 million Capcom ID accounts, credit card details unaffected"
+        }
+      ]
+    },
+    {
+      "id": "while-ea-shuts-down-bioware-developers-of-the-sims-skate-and",
+      "titre": "While EA shuts down BioWare, developers of The Sims, Skate, and Battlefield say they've also lost their jobs",
+      "url": "https://www.rockpapershotgun.com/while-ea-shuts-down-bioware-developers-of-the-sims-skate-and-battlefield-say-theyve-also-lost-their-jobs",
+      "sources": [
+        "Nintendo Life",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 14.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/while-ea-shuts-down-bioware-developers-of-the-sims-skate-and-battlefield-say-theyve-also-lost-their-jobs",
+          "titre": "While EA shuts down BioWare, developers of The Sims, Skate, and Battlefield say they've also lost their jobs"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/ea-shuts-down-legendary-rpg-developer-bioware",
+          "titre": "EA Shuts Down Legendary RPG Developer BioWare"
         }
       ]
     },
@@ -671,31 +611,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 6,
+      "heures": 13.6,
+      "chaleur": 5,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/report-explores-how-roblox-can-maintain-older-players-as-it-becomes-most-played-game-by-total-hours-in-h1-2026",
           "titre": "Report explores how Roblox can maintain older players as it becomes most-played game by total hours in H1 2026"
-        }
-      ]
-    },
-    {
-      "id": "games-like-call-of-duty-and-ea-sports-fc-most-at-risk-of-los",
-      "titre": "Games like Call of Duty and EA Sports FC most at risk of losing players during GTA 6 launch, according to new data",
-      "url": "https://www.gamesindustry.biz/games-like-call-of-duty-and-ea-sports-fc-most-at-risk-of-losing-players-during-gta-6-launch-according-to-new-data",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 34.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/games-like-call-of-duty-and-ea-sports-fc-most-at-risk-of-losing-players-during-gta-6-launch-according-to-new-data",
-          "titre": "Games like Call of Duty and EA Sports FC most at risk of losing players during GTA 6 launch, according to new data"
         }
       ]
     },
@@ -707,7 +629,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.0,
+      "heures": 22.1,
       "chaleur": 5,
       "liens": [
         {
@@ -725,7 +647,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 26.5,
+      "heures": 29.6,
       "chaleur": 5,
       "liens": [
         {
@@ -743,7 +665,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 27.8,
+      "heures": 30.9,
       "chaleur": 5,
       "liens": [
         {
@@ -761,7 +683,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 30.5,
+      "heures": 33.6,
       "chaleur": 5,
       "liens": [
         {
@@ -779,13 +701,139 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 31.8,
+      "heures": 34.9,
       "chaleur": 5,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/project-helix-reportedly-launching-in-late-2028-projected-to-cost-between-1200-and-1800",
           "titre": "Project Helix reportedly launching in late 2028, projected to cost between $1,200 and $1,800"
+        }
+      ]
+    },
+    {
+      "id": "opinion-why-words-matter-when-we-prioritize-core-teams-in-ga",
+      "titre": "Opinion: Why words matter when we prioritize 'core teams' in game development",
+      "url": "https://www.gamedeveloper.com/production/opinion-why-prioritizing-success-of-core-teams-risks-devaluing-other-devs",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 4.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/production/opinion-why-prioritizing-success-of-core-teams-risks-devaluing-other-devs",
+          "titre": "Opinion: Why words matter when we prioritize 'core teams' in game development"
+        }
+      ]
+    },
+    {
+      "id": "half-life-3-re-re-re-confirmed-a-valve-dev-just-said-hlx-out",
+      "titre": "Half-Life 3 re-re-re-confirmed: A Valve dev just said 'HLX' out loud",
+      "url": "https://www.pcgamer.com/games/fps/half-life-3-re-re-re-confirmed-a-valve-dev-just-said-hlx-out-loud/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/half-life-3-re-re-re-confirmed-a-valve-dev-just-said-hlx-out-loud/",
+          "titre": "Half-Life 3 re-re-re-confirmed: A Valve dev just said 'HLX' out loud"
+        }
+      ]
+    },
+    {
+      "id": "future-capcom-games-will-have-onimusha-to-thank-for-re-engin",
+      "titre": "Future Capcom games will have Onimusha to thank for RE Engine's gnarly dismemberments",
+      "url": "https://www.pcgamer.com/games/action/future-capcom-games-will-have-onimusha-to-thank-for-re-engines-gnarly-dismemberments/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/future-capcom-games-will-have-onimusha-to-thank-for-re-engines-gnarly-dismemberments/",
+          "titre": "Future Capcom games will have Onimusha to thank for RE Engine's gnarly dismemberments"
+        }
+      ]
+    },
+    {
+      "id": "promising-sci-fi-rpg-exodus-changes-its-main-character-s-fac",
+      "titre": "Promising Sci-Fi RPG Exodus Changes Its Main Character's Face After Fan Criticism",
+      "url": "https://www.pushsquare.com/news/2026/10/promising-sci-fi-rpg-exodus-changes-its-main-characters-face-after-fan-criticism",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 6.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/promising-sci-fi-rpg-exodus-changes-its-main-characters-face-after-fan-criticism",
+          "titre": "Promising Sci-Fi RPG Exodus Changes Its Main Character's Face After Fan Criticism"
+        }
+      ]
+    },
+    {
+      "id": "no-other-studio-in-the-world-did-it-better-than-bioware-at",
+      "titre": "'No other studio in the world did it better' than BioWare at its peak, says former Dragon Age lead writer David Gaider",
+      "url": "https://www.pcgamer.com/games/dragon-age/no-other-studio-in-the-world-did-it-better-than-bioware-at-its-peak-says-former-dragon-age-lead-writer-david-gaider/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/dragon-age/no-other-studio-in-the-world-did-it-better-than-bioware-at-its-peak-says-former-dragon-age-lead-writer-david-gaider/",
+          "titre": "'No other studio in the world did it better' than BioWare at its peak, says former Dragon Age lead writer David Gaider"
+        }
+      ]
+    },
+    {
+      "id": "splash-damage-acquired-this-studio-just-3-months-after-layin",
+      "titre": "Splash Damage acquired this studio just 3 months after laying off a bunch of people—now it's laying them off, too",
+      "url": "https://www.pcgamer.com/gaming-industry/splash-damage-acquired-this-studio-just-3-months-after-laying-off-a-bunch-of-people-now-its-laying-them-off-too/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 7.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/splash-damage-acquired-this-studio-just-3-months-after-laying-off-a-bunch-of-people-now-its-laying-them-off-too/",
+          "titre": "Splash Damage acquired this studio just 3 months after laying off a bunch of people—now it's laying them off, too"
+        }
+      ]
+    },
+    {
+      "id": "hellraiser-performing-extremely-well-says-saber-boss-in-bid",
+      "titre": "Hellraiser 'Performing Extremely Well' Says Saber Boss in Bid for Return of AA Games",
+      "url": "https://www.pushsquare.com/news/2026/10/hellraiser-performing-extremely-well-says-saber-boss-in-bid-for-return-of-aa-games",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 7.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/hellraiser-performing-extremely-well-says-saber-boss-in-bid-for-return-of-aa-games",
+          "titre": "Hellraiser 'Performing Extremely Well' Says Saber Boss in Bid for Return of AA Games"
         }
       ]
     },
@@ -797,7 +845,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 7.6,
       "chaleur": 4,
       "liens": [
         {
@@ -815,7 +863,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 7.6,
       "chaleur": 4,
       "liens": [
         {
@@ -833,7 +881,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 7.8,
       "chaleur": 4,
       "liens": [
         {
@@ -851,7 +899,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 8.0,
       "chaleur": 4,
       "liens": [
         {
@@ -869,7 +917,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 8.0,
       "chaleur": 4,
       "liens": [
         {
@@ -887,7 +935,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 8.1,
       "chaleur": 4,
       "liens": [
         {
@@ -905,7 +953,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 8.1,
       "chaleur": 4,
       "liens": [
         {
@@ -923,7 +971,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 8.2,
       "chaleur": 4,
       "liens": [
         {
@@ -941,7 +989,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 5.2,
+      "heures": 8.3,
       "chaleur": 4,
       "liens": [
         {
@@ -959,7 +1007,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 8.6,
       "chaleur": 4,
       "liens": [
         {
@@ -977,7 +1025,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 8.7,
       "chaleur": 4,
       "liens": [
         {
@@ -995,7 +1043,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 9.1,
       "chaleur": 4,
       "liens": [
         {
@@ -1013,31 +1061,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 9.2,
       "chaleur": 4,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/atari-is-ending-support-for-its-2021-vcs-console-will-release-a-homebrew-app-to-let-players-keep-making-and-adding-games/",
           "titre": "Atari is ending support for its 2021 VCS console, will release a Homebrew App to let players keep making and adding games"
-        }
-      ]
-    },
-    {
-      "id": "i-ve-been-waiting-to-see-a-pixel-bounce-into-a-perfect-corne",
-      "titre": "I've been waiting to see a pixel bounce into a perfect corner since childhood and finally this Next Fest Demo delivered it",
-      "url": "https://www.pcgamer.com/games/adventure/ive-been-waiting-to-see-a-pixel-bounce-into-a-perfect-corner-since-childhood-and-finally-this-next-fest-demo-delivered-it/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 6.1,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/adventure/ive-been-waiting-to-see-a-pixel-bounce-into-a-perfect-corner-since-childhood-and-finally-this-next-fest-demo-delivered-it/",
-          "titre": "I've been waiting to see a pixel bounce into a perfect corner since childhood and finally this Next Fest Demo delivered it"
         }
       ]
     },
@@ -1049,7 +1079,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 9.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1067,31 +1097,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 9.6,
       "chaleur": 4,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/features/these-20-ps5-ps4-exclusives-are-cheaper-than-ever-on-ps-store",
           "titre": "Feature: These 20 PS5, PS4 Exclusives Are Cheaper Than Ever on PS Store"
-        }
-      ]
-    },
-    {
-      "id": "only-70-separates-rtx-5050-rtx-5060-and-rtx-5060-ti-and-the",
-      "titre": "Only $70 separates RTX 5050, RTX 5060, and RTX 5060 Ti AND the RTX 5060 Ti 16 GB is now the same price as the RTX 5070 in what I can only describe as pure carnage",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/only-usd70-separates-rtx-5050-rtx-5060-and-rtx-5060-ti-and-the-rtx-5060-ti-16-gb-is-now-the-same-price-as-the-rtx-5070-in-what-i-can-only-describe-as-pure-carnage/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 6.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/only-usd70-separates-rtx-5050-rtx-5060-and-rtx-5060-ti-and-the-rtx-5060-ti-16-gb-is-now-the-same-price-as-the-rtx-5070-in-what-i-can-only-describe-as-pure-carnage/",
-          "titre": "Only $70 separates RTX 5050, RTX 5060, and RTX 5060 Ti AND the RTX 5060 Ti 16 GB is now the same price as the RTX 5070 in what I can only describe as pure carnage"
         }
       ]
     },
@@ -1103,7 +1115,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 10.0,
       "chaleur": 4,
       "liens": [
         {
@@ -1121,7 +1133,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.0,
+      "heures": 10.1,
       "chaleur": 4,
       "liens": [
         {
@@ -1139,7 +1151,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 10.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1157,7 +1169,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 7.5,
+      "heures": 10.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1166,27 +1178,9 @@ const VEILLE = {
           "titre": "Wolverine was US’s best-selling game in September, with PS5 sales up 43%"
         }
       ]
-    },
-    {
-      "id": "japanese-charts-castlevania-and-tales-of-eternia-battle-it-o",
-      "titre": "Japanese Charts: Castlevania And Tales Of Eternia Battle It Out For The Gold",
-      "url": "https://www.nintendolife.com/news/2026/10/japanese-charts-castlevania-and-tales-of-eternia-battle-it-out-for-the-gold",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 7.7,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/japanese-charts-castlevania-and-tales-of-eternia-battle-it-out-for-the-gold",
-          "titre": "Japanese Charts: Castlevania And Tales Of Eternia Battle It Out For The Gold"
-        }
-      ]
     }
   ],
   "alertes": [
-    "Mass Effect Universe trailer leaks online, showcases what BioWare was working on before being shut down"
+    "Leaked Mass Effect 5 Trailer Is Real, Offers Glimpse of Cancelled Game"
   ]
 };
