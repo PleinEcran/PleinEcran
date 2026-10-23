@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "23/10/2026 à 18h15",
+  "collecte": "23/10/2026 à 23h04",
   "seuil": 14,
   "sujets": [
     {
@@ -15,8 +15,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 5,
-      "heures": 0.9,
-      "chaleur": 26,
+      "heures": 5.7,
+      "chaleur": 24,
       "liens": [
         {
           "source": "Eurogamer",
@@ -46,6 +46,36 @@ const VEILLE = {
       ]
     },
     {
+      "id": "time-could-be-running-out-for-arkane",
+      "titre": "Time could be running out for Arkane",
+      "url": "https://www.pcgamer.com/gaming-industry/time-could-be-running-out-for-arkane/",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer",
+        "Push Square"
+      ],
+      "reprises": 3,
+      "heures": 2.9,
+      "chaleur": 14,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/time-could-be-running-out-for-arkane/",
+          "titre": "Time could be running out for Arkane"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/phantom-blade-zero-hit-not-out",
+          "titre": "Phantom Blade Zero isn't even out yet, but it could be 'one of the year's breakout hits' as it shifts half a million copies on Steam alone"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/sonys-marketing-the-hell-out-of-ps5-console-exclusive-phantom-blade-zero-in-china",
+          "titre": "Sony's Marketing the Hell Out of PS5 Console Exclusive Phantom Blade Zero in China"
+        }
+      ]
+    },
+    {
       "id": "as-devastating-xbox-reset-continues-dishonored-studio-arkane",
       "titre": "As devastating Xbox \"reset\" continues, Dishonored studio Arkane Lyon reportedly only has until November to find a new buyer before it's closed",
       "url": "https://www.eurogamer.net/xbox-layoffs-marvels-blade-arkane-lyon-closure",
@@ -54,8 +84,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 0.1,
-      "chaleur": 16,
+      "heures": 4.9,
+      "chaleur": 14,
       "liens": [
         {
           "source": "Eurogamer",
@@ -79,8 +109,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 3,
-      "heures": 2.0,
-      "chaleur": 15,
+      "heures": 6.8,
+      "chaleur": 13,
       "liens": [
         {
           "source": "PC Gamer",
@@ -109,8 +139,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 3,
-      "heures": 2.5,
-      "chaleur": 12,
+      "heures": 7.3,
+      "chaleur": 10,
       "liens": [
         {
           "source": "Push Square",
@@ -130,6 +160,72 @@ const VEILLE = {
       ]
     },
     {
+      "id": "why-private-equity-acquisitions-like-the-one-that-just-claim",
+      "titre": "Why private equity acquisitions like the one that just claimed BioWare are so dreaded",
+      "url": "https://www.pcgamer.com/gaming-industry/why-private-equity-acquisitions-like-the-one-that-just-claimed-bioware-are-so-dreaded/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/why-private-equity-acquisitions-like-the-one-that-just-claimed-bioware-are-so-dreaded/",
+          "titre": "Why private equity acquisitions like the one that just claimed BioWare are so dreaded"
+        }
+      ]
+    },
+    {
+      "id": "creative-assembly-exec-pins-the-blame-for-the-shogun-2-remas",
+      "titre": "Creative Assembly exec pins the blame for the Shogun 2 remaster mess on someone else: 'This was not a Creative Assembly developed game'",
+      "url": "https://www.pcgamer.com/games/strategy/creative-assembly-exec-pins-the-blame-for-the-shogun-2-remaster-mess-on-someone-else-this-was-not-a-creative-assembly-developed-game/",
+      "sources": [
+        "PC Gamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 3.5,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/strategy/creative-assembly-exec-pins-the-blame-for-the-shogun-2-remaster-mess-on-someone-else-this-was-not-a-creative-assembly-developed-game/",
+          "titre": "Creative Assembly exec pins the blame for the Shogun 2 remaster mess on someone else: 'This was not a Creative Assembly developed game'"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/this-was-not-a-creative-assembly-developed-game-total-war-boss-points-the-finger-at-external-partner-for-shogun-2-complete-edition-disaster",
+          "titre": "\"This was not a Creative Assembly developed game\": Total War boss points the finger at external partner for Shogun 2 Complete Edition disaster"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-veteran-shigeru-miyamoto-to-receive-japan-s-order-o",
+      "titre": "Nintendo veteran Shigeru Miyamoto to receive Japan's Order of Culture award",
+      "url": "https://www.gamesindustry.biz/nintendo-veteran-shigeru-miyamoto-to-receive-japans-order-of-culture-award",
+      "sources": [
+        "GamesIndustry.biz",
+        "Nintendo Life"
+      ],
+      "reprises": 2,
+      "heures": 10.0,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/nintendo-veteran-shigeru-miyamoto-to-receive-japans-order-of-culture-award",
+          "titre": "Nintendo veteran Shigeru Miyamoto to receive Japan's Order of Culture award"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/shigeru-miyamoto-becomes-first-game-dev-to-receive-japans-prestigious-culture-award",
+          "titre": "Shigeru Miyamoto Becomes First Game Dev To Receive Japan's Prestigious Culture Award"
+        }
+      ]
+    },
+    {
       "id": "three-more-game-boy-games-are-coming-to-switch-online-includ",
       "titre": "Three more Game Boy games are coming to Switch Online, including one produced by Shigeru Miyamoto",
       "url": "https://www.videogameschronicle.com/news/three-more-game-boy-games-are-coming-to-switch-online-including-one-produced-by-shigeru-miyamoto/",
@@ -138,8 +234,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 9.7,
-      "chaleur": 10,
+      "heures": 14.5,
+      "chaleur": 9,
       "liens": [
         {
           "source": "VGC",
@@ -154,6 +250,60 @@ const VEILLE = {
       ]
     },
     {
+      "id": "following-shock-bioware-closure-scope-of-ea-job-cuts-becomes",
+      "titre": "Following shock BioWare closure, scope of EA job cuts becomes clear as layoffs hit Respawn, Maxis, Full Circle, EA Motive, and more",
+      "url": "https://www.eurogamer.net/ea-cuts-massive-ripple-effect-motive-full-circle-respawn",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 35.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/ea-cuts-massive-ripple-effect-motive-full-circle-respawn",
+          "titre": "Following shock BioWare closure, scope of EA job cuts becomes clear as layoffs hit Respawn, Maxis, Full Circle, EA Motive, and more"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-s-shigeru-miyamoto-says-even-if-gen-ai-were-to-even",
+      "titre": "Nintendo's Shigeru Miyamoto says even if gen-AI \"were to eventually handle everything, there will always be a role left\" for human designers",
+      "url": "https://www.eurogamer.net/nintendo-shigeru-miyamoto-gen-ai",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 2.9,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/nintendo-shigeru-miyamoto-gen-ai",
+          "titre": "Nintendo's Shigeru Miyamoto says even if gen-AI \"were to eventually handle everything, there will always be a role left\" for human designers"
+        }
+      ]
+    },
+    {
+      "id": "with-minecraft-and-diablo-shows-already-on-the-way-netflix-r",
+      "titre": "With Minecraft and Diablo shows already on the way, Netflix reportedly offered Xbox $500m for a bigger film and TV deal",
+      "url": "https://www.eurogamer.net/netflix-500m-xbox-film-tv-rights",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/netflix-500m-xbox-film-tv-rights",
+          "titre": "With Minecraft and Diablo shows already on the way, Netflix reportedly offered Xbox $500m for a bigger film and TV deal"
+        }
+      ]
+    },
+    {
       "id": "gamemaker-s-gmrt-runtime-will-soon-be-free-for-all-developer",
       "titre": "GameMaker's GMRT runtime will soon be free for all developers",
       "url": "https://www.gamedeveloper.com/programming/gamemaker-s-gmrt-runtime-will-soon-be-free-for-all-commercial-devs",
@@ -162,8 +312,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 0.4,
-      "chaleur": 9,
+      "heures": 5.2,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Game Developer",
@@ -185,8 +335,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.3,
-      "chaleur": 9,
+      "heures": 6.1,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Push Square",
@@ -203,8 +353,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 9,
+      "heures": 7.1,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Push Square",
@@ -221,175 +371,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 9,
+      "heures": 8.3,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/guides/61-switch-1-and-2-games-you-should-check-out-in-nintendos-halloween-sale-europe",
           "titre": "Guide: 61 Switch 1 & 2 Games You Should Check Out In Nintendo's 'Halloween Sale' (Europe)"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-veteran-shigeru-miyamoto-to-receive-japan-s-order-o",
-      "titre": "Nintendo veteran Shigeru Miyamoto to receive Japan's Order of Culture award",
-      "url": "https://www.gamesindustry.biz/nintendo-veteran-shigeru-miyamoto-to-receive-japans-order-of-culture-award",
-      "sources": [
-        "GamesIndustry.biz",
-        "Nintendo Life"
-      ],
-      "reprises": 2,
-      "heures": 5.2,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/nintendo-veteran-shigeru-miyamoto-to-receive-japans-order-of-culture-award",
-          "titre": "Nintendo veteran Shigeru Miyamoto to receive Japan's Order of Culture award"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/shigeru-miyamoto-becomes-first-game-dev-to-receive-japans-prestigious-culture-award",
-          "titre": "Shigeru Miyamoto Becomes First Game Dev To Receive Japan's Prestigious Culture Award"
-        }
-      ]
-    },
-    {
-      "id": "phantom-blade-zero-isn-t-even-out-yet-but-it-could-be-one-of",
-      "titre": "Phantom Blade Zero isn't even out yet, but it could be 'one of the year's breakout hits' as it shifts half a million copies on Steam alone",
-      "url": "https://www.eurogamer.net/phantom-blade-zero-hit-not-out",
-      "sources": [
-        "Eurogamer",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 5.7,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/phantom-blade-zero-hit-not-out",
-          "titre": "Phantom Blade Zero isn't even out yet, but it could be 'one of the year's breakout hits' as it shifts half a million copies on Steam alone"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/sonys-marketing-the-hell-out-of-ps5-console-exclusive-phantom-blade-zero-in-china",
-          "titre": "Sony's Marketing the Hell Out of PS5 Console Exclusive Phantom Blade Zero in China"
-        }
-      ]
-    },
-    {
-      "id": "following-shock-bioware-closure-scope-of-ea-job-cuts-becomes",
-      "titre": "Following shock BioWare closure, scope of EA job cuts becomes clear as layoffs hit Respawn, Maxis, Full Circle, EA Motive, and more",
-      "url": "https://www.eurogamer.net/ea-cuts-massive-ripple-effect-motive-full-circle-respawn",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 30.5,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/ea-cuts-massive-ripple-effect-motive-full-circle-respawn",
-          "titre": "Following shock BioWare closure, scope of EA job cuts becomes clear as layoffs hit Respawn, Maxis, Full Circle, EA Motive, and more"
-        }
-      ]
-    },
-    {
-      "id": "countdown-zelda-ocarina-of-time-dungeon-crawl-6-forget-the-h",
-      "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #6 - Forget The Hate, It Still Floats My Boat",
-      "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-6-forget-the-hate-it-still-floats-my-boat",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 1.3,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-6-forget-the-hate-it-still-floats-my-boat",
-          "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #6 - Forget The Hate, It Still Floats My Boat"
-        }
-      ]
-    },
-    {
-      "id": "we-re-victims-of-xbox-s-change-in-strategy-dishonored-dev-h",
-      "titre": "'We're Victims of Xbox's Change in Strategy': Dishonored Dev Has Weeks to Save Itself",
-      "url": "https://www.pushsquare.com/news/2026/10/were-victims-of-xboxs-change-in-strategy-dishonored-dev-has-weeks-to-save-itself",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 1.8,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/were-victims-of-xboxs-change-in-strategy-dishonored-dev-has-weeks-to-save-itself",
-          "titre": "'We're Victims of Xbox's Change in Strategy': Dishonored Dev Has Weeks to Save Itself"
-        }
-      ]
-    },
-    {
-      "id": "xbox-wanted-800-million-from-netflix-for-7-years-of-its-bigg",
-      "titre": "Xbox wanted $800 million from Netflix for 7 years of its biggest characters, it’s claimed",
-      "url": "https://www.videogameschronicle.com/news/xbox-wanted-800-million-from-netflix-for-7-years-of-its-biggest-characters-its-claimed/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/xbox-wanted-800-million-from-netflix-for-7-years-of-its-biggest-characters-its-claimed/",
-          "titre": "Xbox wanted $800 million from Netflix for 7 years of its biggest characters, it’s claimed"
-        }
-      ]
-    },
-    {
-      "id": "arkane-survival-negotiations-reportedly-seeing-several-forms",
-      "titre": "Arkane survival negotiations reportedly seeing \"several forms of takeover\" considered ahead of November deadline, as Marvel's Blade production nears end",
-      "url": "https://www.rockpapershotgun.com/arkane-survival-negotiations-reportedly-seeing-several-forms-of-takeover-considered-ahead-of-november-deadline-as-marvels-blade-production-nears-end",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/arkane-survival-negotiations-reportedly-seeing-several-forms-of-takeover-considered-ahead-of-november-deadline-as-marvels-blade-production-nears-end",
-          "titre": "Arkane survival negotiations reportedly seeing \"several forms of takeover\" considered ahead of November deadline, as Marvel's Blade production nears end"
-        }
-      ]
-    },
-    {
-      "id": "xbox-reveals-pricing-for-cloud-gaming-limits-starting-at-3-9",
-      "titre": "Xbox reveals pricing for cloud gaming limits, starting at $3.99 for 10 hours",
-      "url": "https://www.gamesindustry.biz/xbox-reveals-pricing-for-cloud-gaming-limits-starting-at-399-for-10-hours",
-      "sources": [
-        "Eurogamer",
-        "GamesIndustry.biz"
-      ],
-      "reprises": 2,
-      "heures": 33.0,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/xbox-reveals-pricing-for-cloud-gaming-limits-starting-at-399-for-10-hours",
-          "titre": "Xbox reveals pricing for cloud gaming limits, starting at $3.99 for 10 hours"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-cloud-gaming-prices-revealed",
-          "titre": "Xbox cloud gaming prices revealed, with 50 hours of ad-free game-time priced $11.99"
         }
       ]
     },
@@ -402,7 +390,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 4.0,
+      "heures": 8.8,
       "chaleur": 7,
       "liens": [
         {
@@ -426,7 +414,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 5.5,
+      "heures": 10.3,
       "chaleur": 7,
       "liens": [
         {
@@ -442,279 +430,63 @@ const VEILLE = {
       ]
     },
     {
-      "id": "i-m-forever-grateful-to-bioware-16-game-developers-share-th",
-      "titre": "'I'm forever grateful to BioWare': 16 game developers share the moment a BioWare game inspired them to join the industry",
-      "url": "https://www.pcgamer.com/gaming-industry/im-forever-grateful-to-bioware-16-game-developers-share-the-moment-a-bioware-game-inspired-them-to-join-the-industry/",
+      "id": "mass-effect-5-was-set-in-a-galactic-cold-war-new-leak-claims",
+      "titre": "Mass Effect 5 was set in a 'galactic Cold War,' new leak claims, and all 3 endings were wrapped into 1",
+      "url": "https://www.pcgamer.com/games/mass-effect/mass-effect-5-was-set-in-a-galactic-cold-war-new-leak-claims-and-all-3-endings-were-wrapped-into-1/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 1.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/im-forever-grateful-to-bioware-16-game-developers-share-the-moment-a-bioware-game-inspired-them-to-join-the-industry/",
-          "titre": "'I'm forever grateful to BioWare': 16 game developers share the moment a BioWare game inspired them to join the industry"
+          "url": "https://www.pcgamer.com/games/mass-effect/mass-effect-5-was-set-in-a-galactic-cold-war-new-leak-claims-and-all-3-endings-were-wrapped-into-1/",
+          "titre": "Mass Effect 5 was set in a 'galactic Cold War,' new leak claims, and all 3 endings were wrapped into 1"
         }
       ]
     },
     {
-      "id": "factorio-s-final-major-update-has-rolled-off-the-assembly-li",
-      "titre": "Factorio's final major update has rolled off the assembly line, adding \"the things we wanted to do for 2.0 but didn't have time for\"",
-      "url": "https://www.rockpapershotgun.com/factorios-final-major-update-has-rolled-off-the-assembly-line-adding-the-things-we-wanted-to-do-for-20-but-didnt-have-time-for",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 0.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/factorios-final-major-update-has-rolled-off-the-assembly-line-adding-the-things-we-wanted-to-do-for-20-but-didnt-have-time-for",
-          "titre": "Factorio's final major update has rolled off the assembly line, adding \"the things we wanted to do for 2.0 but didn't have time for\""
-        }
-      ]
-    },
-    {
-      "id": "future-no-thanks-dev-removes-ai-generated-voices-from-game-a",
-      "titre": "Future? No Thanks! dev removes AI-generated voices from game and offers refunds to players who feel \"betrayed\"",
-      "url": "https://www.rockpapershotgun.com/future-no-thanks-dev-removes-ai-generated-voices-from-game-and-offers-refunds-to-players-who-feel-betrayed",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 0.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/future-no-thanks-dev-removes-ai-generated-voices-from-game-and-offers-refunds-to-players-who-feel-betrayed",
-          "titre": "Future? No Thanks! dev removes AI-generated voices from game and offers refunds to players who feel \"betrayed\""
-        }
-      ]
-    },
-    {
-      "id": "abyssal-lapidary-is-making-the-social-media-rounds-and-i-can",
-      "titre": "Abyssal Lapidary is making the social media rounds and I can confirm cutting gemstones is just as satisfying as it looks",
-      "url": "https://www.pcgamer.com/games/sim/abyssal-lapidary-is-making-the-social-media-rounds-and-i-can-confirm-cutting-gemstones-is-just-as-satisfying-as-it-looks/",
+      "id": "based-on-player-data-capcom-s-pretty-happy-with-the-difficul",
+      "titre": "Based on player data, Capcom's pretty happy with the difficulty level of Onimusha: Way of the Sword: 'We think it's hit the right spot'",
+      "url": "https://www.pcgamer.com/games/action/based-on-player-data-capcoms-pretty-happy-with-the-difficulty-level-of-onimusha-way-of-the-sword-we-think-its-hit-the-right-spot/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 1.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/abyssal-lapidary-is-making-the-social-media-rounds-and-i-can-confirm-cutting-gemstones-is-just-as-satisfying-as-it-looks/",
-          "titre": "Abyssal Lapidary is making the social media rounds and I can confirm cutting gemstones is just as satisfying as it looks"
+          "url": "https://www.pcgamer.com/games/action/based-on-player-data-capcoms-pretty-happy-with-the-difficulty-level-of-onimusha-way-of-the-sword-we-think-its-hit-the-right-spot/",
+          "titre": "Based on player data, Capcom's pretty happy with the difficulty level of Onimusha: Way of the Sword: 'We think it's hit the right spot'"
         }
       ]
     },
     {
-      "id": "bioware-staff-should-be-given-the-first-opportunity-and-the",
-      "titre": "BioWare staff \"should be given the first opportunity and the federal support\" to buy the studio and keep it running, says Canadian political party leader",
-      "url": "https://www.rockpapershotgun.com/bioware-staff-should-be-given-the-first-opportunity-and-the-federal-support-to-buy-the-studio-and-keep-it-running-says-canadian-political-party-leader",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 1.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/bioware-staff-should-be-given-the-first-opportunity-and-the-federal-support-to-buy-the-studio-and-keep-it-running-says-canadian-political-party-leader",
-          "titre": "BioWare staff \"should be given the first opportunity and the federal support\" to buy the studio and keep it running, says Canadian political party leader"
-        }
-      ]
-    },
-    {
-      "id": "upcoming-mass-effect-like-exodus-himbo-fies-protagonist-afte",
-      "titre": "Upcoming Mass Effect-like Exodus himbo-fies protagonist after fans complain about his face",
-      "url": "https://www.pcgamer.com/games/rpg/upcoming-mass-effect-like-exodus-himbo-fies-protagonist-after-fans-complain-about-his-face/",
+      "id": "it-s-our-new-daily-game-fixation-and-we-all-stink-at-it-can",
+      "titre": "It's our new daily game fixation and we all stink at it: Can you guess how much used cars cost?",
+      "url": "https://www.pcgamer.com/games/puzzle/its-our-new-daily-game-fixation-and-we-all-stink-at-it-can-you-guess-how-much-used-cars-cost/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/upcoming-mass-effect-like-exodus-himbo-fies-protagonist-after-fans-complain-about-his-face/",
-          "titre": "Upcoming Mass Effect-like Exodus himbo-fies protagonist after fans complain about his face"
+          "url": "https://www.pcgamer.com/games/puzzle/its-our-new-daily-game-fixation-and-we-all-stink-at-it-can-you-guess-how-much-used-cars-cost/",
+          "titre": "It's our new daily game fixation and we all stink at it: Can you guess how much used cars cost?"
         }
       ]
     },
     {
-      "id": "amd-says-the-re-release-of-the-ryzen-7-5800x3d-was-like-a-fi",
-      "titre": "AMD says the re-release of the Ryzen 7 5800X3D was 'like a final gift to our loyal [AM4] users' and it was CEO Dr. Lisa Su who first came up with the idea",
-      "url": "https://www.pcgamer.com/hardware/processors/amd-says-the-re-release-of-the-ryzen-7-5800x3d-was-like-a-final-gift-to-our-loyal-am4-users-and-it-was-ceo-dr-lisa-su-who-first-came-up-with-the-idea/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/processors/amd-says-the-re-release-of-the-ryzen-7-5800x3d-was-like-a-final-gift-to-our-loyal-am4-users-and-it-was-ceo-dr-lisa-su-who-first-came-up-with-the-idea/",
-          "titre": "AMD says the re-release of the Ryzen 7 5800X3D was 'like a final gift to our loyal [AM4] users' and it was CEO Dr. Lisa Su who first came up with the idea"
-        }
-      ]
-    },
-    {
-      "id": "amd-says-its-working-on-fsr-s-frame-pacing-issues-but-there",
-      "titre": "AMD says its working on FSR's frame pacing issues, but there's still conspicuously no mention of Multi Frame Generation",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-says-its-working-on-fsrs-frame-pacing-issues-but-theres-still-conspicuously-no-mention-of-multi-frame-generation/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-says-its-working-on-fsrs-frame-pacing-issues-but-theres-still-conspicuously-no-mention-of-multi-frame-generation/",
-          "titre": "AMD says its working on FSR's frame pacing issues, but there's still conspicuously no mention of Multi Frame Generation"
-        }
-      ]
-    },
-    {
-      "id": "this-was-not-a-creative-assembly-developed-game-total-war-b",
-      "titre": "\"This was not a Creative Assembly developed game\": Total War boss points the finger at external partner for Shogun 2 Complete Edition disaster",
-      "url": "https://www.rockpapershotgun.com/this-was-not-a-creative-assembly-developed-game-total-war-boss-points-the-finger-at-external-partner-for-shogun-2-complete-edition-disaster",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/this-was-not-a-creative-assembly-developed-game-total-war-boss-points-the-finger-at-external-partner-for-shogun-2-complete-edition-disaster",
-          "titre": "\"This was not a Creative Assembly developed game\": Total War boss points the finger at external partner for Shogun 2 Complete Edition disaster"
-        }
-      ]
-    },
-    {
-      "id": "helldivers-3-not-unless-it-s-very-different-from-helldivers",
-      "titre": "Helldivers 3? Not Unless It's Very Different from Helldivers 2, Says Arrowhead",
-      "url": "https://www.pushsquare.com/news/2026/10/helldivers-3-not-unless-its-very-different-from-helldivers-2-says-arrowhead",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/helldivers-3-not-unless-its-very-different-from-helldivers-2-says-arrowhead",
-          "titre": "Helldivers 3? Not Unless It's Very Different from Helldivers 2, Says Arrowhead"
-        }
-      ]
-    },
-    {
-      "id": "woim-is-the-earth-guzzling-self-bisecting-sokoban-pick-me-up",
-      "titre": "Woim is the earth-guzzling, self-bisecting sokoban pick-me-up I needed after a week of games industry disasters",
-      "url": "https://www.rockpapershotgun.com/woim-is-the-earth-guzzling-self-bisecting-sokoban-pick-me-up-i-needed-after-a-week-of-games-industry-disasters",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/woim-is-the-earth-guzzling-self-bisecting-sokoban-pick-me-up-i-needed-after-a-week-of-games-industry-disasters",
-          "titre": "Woim is the earth-guzzling, self-bisecting sokoban pick-me-up I needed after a week of games industry disasters"
-        }
-      ]
-    },
-    {
-      "id": "bioware-s-end-is-a-tragically-familiar-tale-opinion",
-      "titre": "BioWare's end is a tragically familiar tale | Opinion",
-      "url": "https://www.gamesindustry.biz/biowares-end-is-a-tragically-familiar-tale-opinion",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/biowares-end-is-a-tragically-familiar-tale-opinion",
-          "titre": "BioWare's end is a tragically familiar tale | Opinion"
-        }
-      ]
-    },
-    {
-      "id": "why-the-f-k-would-they-add-a-perk-like-that-modern-warfare",
-      "titre": "\"Why the f**k would they add a perk like that?\" - Modern Warfare 4 DMZ players are up in arms over the ability to self-revive",
-      "url": "https://www.eurogamer.net/modern-warfare-4-dmz-playing-possum-perk-broke",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/modern-warfare-4-dmz-playing-possum-perk-broke",
-          "titre": "\"Why the f**k would they add a perk like that?\" - Modern Warfare 4 DMZ players are up in arms over the ability to self-revive"
-        }
-      ]
-    },
-    {
-      "id": "in-a-rare-instance-of-good-news-philips-has-announced-the-wo",
-      "titre": "In a rare instance of good news, Philips has announced the world's first 36-inch, 260 Hz gaming monitor. So that's nice",
-      "url": "https://www.pcgamer.com/hardware/gaming-monitors/in-a-rare-instance-of-good-news-philips-has-announced-the-worlds-first-36-inch-260-hz-gaming-monitor-so-thats-nice/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-monitors/in-a-rare-instance-of-good-news-philips-has-announced-the-worlds-first-36-inch-260-hz-gaming-monitor-so-thats-nice/",
-          "titre": "In a rare instance of good news, Philips has announced the world's first 36-inch, 260 Hz gaming monitor. So that's nice"
-        }
-      ]
-    },
-    {
-      "id": "round-up-steins-gate-re-boot-ps5-reviews-here-s-what-the-cri",
-      "titre": "Round Up: STEINS;GATE RE:BOOT PS5 Reviews - Here's What the Critics Are Saying",
-      "url": "https://www.pushsquare.com/news/2026/10/round-up-steinsgate-reboot-ps5-reviews-heres-what-the-critics-are-saying",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/round-up-steinsgate-reboot-ps5-reviews-heres-what-the-critics-are-saying",
-          "titre": "Round Up: STEINS;GATE RE:BOOT PS5 Reviews - Here's What the Critics Are Saying"
-        }
-      ]
-    },
-    {
-      "id": "lg-ultragear-evo-52g930b-evo-gaming-monitor-review",
-      "titre": "LG UltraGear Evo 52G930B Evo gaming monitor review",
-      "url": "https://www.pcgamer.com/hardware/gaming-monitors/lg-ultragear-evo-52g930b-review/",
+      "id": "every-single-week-it-s-going-to-feel-like-the-sky-is-fallin",
+      "titre": "'Every single week it's going to feel like the sky is falling': Cloudflare CEO says strap in for 'a couple years' of AI-powered internet security mayhem",
+      "url": "https://www.pcgamer.com/software/security/every-single-week-its-going-to-feel-like-the-sky-is-falling-cloudflare-ceo-says-strap-in-for-a-couple-years-of-ai-powered-internet-security-mayhem/",
       "sources": [
         "PC Gamer"
       ],
@@ -724,8 +496,80 @@ const VEILLE = {
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-monitors/lg-ultragear-evo-52g930b-review/",
-          "titre": "LG UltraGear Evo 52G930B Evo gaming monitor review"
+          "url": "https://www.pcgamer.com/software/security/every-single-week-its-going-to-feel-like-the-sky-is-falling-cloudflare-ceo-says-strap-in-for-a-couple-years-of-ai-powered-internet-security-mayhem/",
+          "titre": "'Every single week it's going to feel like the sky is falling': Cloudflare CEO says strap in for 'a couple years' of AI-powered internet security mayhem"
+        }
+      ]
+    },
+    {
+      "id": "countdown-zelda-ocarina-of-time-dungeon-crawl-6-forget-the-h",
+      "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #6 - Forget The Hate, It Still Floats My Boat",
+      "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-6-forget-the-hate-it-still-floats-my-boat",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 6.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-6-forget-the-hate-it-still-floats-my-boat",
+          "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #6 - Forget The Hate, It Still Floats My Boat"
+        }
+      ]
+    },
+    {
+      "id": "we-re-victims-of-xbox-s-change-in-strategy-dishonored-dev-h",
+      "titre": "'We're Victims of Xbox's Change in Strategy': Dishonored Dev Has Weeks to Save Itself",
+      "url": "https://www.pushsquare.com/news/2026/10/were-victims-of-xboxs-change-in-strategy-dishonored-dev-has-weeks-to-save-itself",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 6.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/were-victims-of-xboxs-change-in-strategy-dishonored-dev-has-weeks-to-save-itself",
+          "titre": "'We're Victims of Xbox's Change in Strategy': Dishonored Dev Has Weeks to Save Itself"
+        }
+      ]
+    },
+    {
+      "id": "xbox-wanted-800-million-from-netflix-for-7-years-of-its-bigg",
+      "titre": "Xbox wanted $800 million from Netflix for 7 years of its biggest characters, it’s claimed",
+      "url": "https://www.videogameschronicle.com/news/xbox-wanted-800-million-from-netflix-for-7-years-of-its-biggest-characters-its-claimed/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 7.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/xbox-wanted-800-million-from-netflix-for-7-years-of-its-biggest-characters-its-claimed/",
+          "titre": "Xbox wanted $800 million from Netflix for 7 years of its biggest characters, it’s claimed"
+        }
+      ]
+    },
+    {
+      "id": "arkane-survival-negotiations-reportedly-seeing-several-forms",
+      "titre": "Arkane survival negotiations reportedly seeing \"several forms of takeover\" considered ahead of November deadline, as Marvel's Blade production nears end",
+      "url": "https://www.rockpapershotgun.com/arkane-survival-negotiations-reportedly-seeing-several-forms-of-takeover-considered-ahead-of-november-deadline-as-marvels-blade-production-nears-end",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 8.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/arkane-survival-negotiations-reportedly-seeing-several-forms-of-takeover-considered-ahead-of-november-deadline-as-marvels-blade-production-nears-end",
+          "titre": "Arkane survival negotiations reportedly seeing \"several forms of takeover\" considered ahead of November deadline, as Marvel's Blade production nears end"
         }
       ]
     },
@@ -737,67 +581,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 10.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/village-in-the-shade",
           "titre": "Review: Village In The Shade (Switch 2) - A Farm Sim That Plays With Cosy Tropes In Clever Ways"
-        }
-      ]
-    },
-    {
-      "id": "stolen-rtx-5090-from-brazilian-airport-forklift-heist-report",
-      "titre": "Stolen RTX 5090 from Brazilian airport forklift heist reportedly turns up on second hand market for $6,400, but the rest remain AWOL",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/stolen-rtx-5090-from-brazilian-airport-forklift-heist-reportedly-turns-up-on-second-hand-market-for-usd6-400-but-the-rest-remain-awol/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 7.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/stolen-rtx-5090-from-brazilian-airport-forklift-heist-reportedly-turns-up-on-second-hand-market-for-usd6-400-but-the-rest-remain-awol/",
-          "titre": "Stolen RTX 5090 from Brazilian airport forklift heist reportedly turns up on second hand market for $6,400, but the rest remain AWOL"
-        }
-      ]
-    },
-    {
-      "id": "a-public-outing-of-severe-and-unfixed-linux-kernel-vulnerabi",
-      "titre": "A public outing of severe and unfixed Linux kernel vulnerabilities should have you thinking of updating your SteamOS or other distros to beta branches",
-      "url": "https://www.pcgamer.com/hardware/a-public-outing-of-severe-and-unfixed-linux-kernel-vulnerabilities-should-have-you-thinking-of-updating-your-steamos-or-other-distros-to-beta-branches/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 8.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/a-public-outing-of-severe-and-unfixed-linux-kernel-vulnerabilities-should-have-you-thinking-of-updating-your-steamos-or-other-distros-to-beta-branches/",
-          "titre": "A public outing of severe and unfixed Linux kernel vulnerabilities should have you thinking of updating your SteamOS or other distros to beta branches"
-        }
-      ]
-    },
-    {
-      "id": "psa-hitman-absolution-s-switch-2-upgrade-path-is-free-for-no",
-      "titre": "PSA: Hitman: Absolution's Switch 2 Upgrade Path Is Free For Now, But Be Quick!",
-      "url": "https://www.nintendolife.com/news/2026/10/psa-hitman-absolutions-switch-2-upgrade-path-is-free-for-now-but-be-quick",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 9.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/psa-hitman-absolutions-switch-2-upgrade-path-is-free-for-now-but-be-quick",
-          "titre": "PSA: Hitman: Absolution's Switch 2 Upgrade Path Is Free For Now, But Be Quick!"
         }
       ]
     },
@@ -809,7 +599,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 20.4,
+      "heures": 25.2,
       "chaleur": 6,
       "liens": [
         {
@@ -827,7 +617,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 22.8,
+      "heures": 27.6,
       "chaleur": 6,
       "liens": [
         {
@@ -846,7 +636,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 28.9,
+      "heures": 33.7,
       "chaleur": 6,
       "liens": [
         {
@@ -869,13 +659,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.3,
+      "heures": 34.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/video-game-industry-reacts-to-bioware-closure",
           "titre": "Games industry mourns sudden BioWare closure - \"Anyone who participated in this travesty should be ashamed\""
+        }
+      ]
+    },
+    {
+      "id": "psa-hitman-absolution-s-switch-2-upgrade-path-is-free-for-no",
+      "titre": "PSA: Hitman: Absolution's Switch 2 Upgrade Path Is Free For Now, But Be Quick!",
+      "url": "https://www.nintendolife.com/news/2026/10/psa-hitman-absolutions-switch-2-upgrade-path-is-free-for-now-but-be-quick",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 14.1,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/psa-hitman-absolutions-switch-2-upgrade-path-is-free-for-now-but-be-quick",
+          "titre": "PSA: Hitman: Absolution's Switch 2 Upgrade Path Is Free For Now, But Be Quick!"
         }
       ]
     },
@@ -887,7 +695,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.3,
+      "heures": 20.2,
       "chaleur": 5,
       "liens": [
         {
@@ -905,7 +713,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.8,
+      "heures": 22.6,
       "chaleur": 5,
       "liens": [
         {
@@ -923,7 +731,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.5,
+      "heures": 29.3,
       "chaleur": 5,
       "liens": [
         {
@@ -941,7 +749,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.3,
+      "heures": 30.1,
       "chaleur": 5,
       "liens": [
         {
@@ -959,7 +767,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 26.3,
+      "heures": 31.1,
       "chaleur": 5,
       "liens": [
         {
@@ -970,56 +778,272 @@ const VEILLE = {
       ]
     },
     {
-      "id": "report-explores-how-roblox-can-maintain-older-players-as-it",
-      "titre": "Report explores how Roblox can maintain older players as it becomes most-played game by total hours in H1 2026",
-      "url": "https://www.gamesindustry.biz/report-explores-how-roblox-can-maintain-older-players-as-it-becomes-most-played-game-by-total-hours-in-h1-2026",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 31.3,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/report-explores-how-roblox-can-maintain-older-players-as-it-becomes-most-played-game-by-total-hours-in-h1-2026",
-          "titre": "Report explores how Roblox can maintain older players as it becomes most-played game by total hours in H1 2026"
-        }
-      ]
-    },
-    {
-      "id": "star-wars-battlefront-3-reportedly-being-co-developed-by-bat",
-      "titre": "Star Wars: Battlefront 3 reportedly being co-developed by Battlefield studio DICE and Apex Legends studio Respawn",
-      "url": "https://www.eurogamer.net/star-wars-battlefront-3-developer-respawn-dice-report",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 33.6,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/star-wars-battlefront-3-developer-respawn-dice-report",
-          "titre": "Star Wars: Battlefront 3 reportedly being co-developed by Battlefield studio DICE and Apex Legends studio Respawn"
-        }
-      ]
-    },
-    {
-      "id": "graphics-card-wholesale-prices-are-on-the-rise-once-again-in",
-      "titre": "Graphics card wholesale prices are on the rise once again in China, so it's time to brace yourself for even more GPU pricing pain",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/graphics-card-wholesale-prices-are-on-the-rise-once-again-in-china-so-its-time-to-brace-yourself-for-even-more-gpu-pricing-pain/",
+      "id": "i-m-forever-grateful-to-bioware-16-game-developers-share-th",
+      "titre": "'I'm forever grateful to BioWare': 16 game developers share the moment a BioWare game inspired them to join the industry",
+      "url": "https://www.pcgamer.com/gaming-industry/im-forever-grateful-to-bioware-16-game-developers-share-the-moment-a-bioware-game-inspired-them-to-join-the-industry/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 5.1,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/graphics-card-wholesale-prices-are-on-the-rise-once-again-in-china-so-its-time-to-brace-yourself-for-even-more-gpu-pricing-pain/",
-          "titre": "Graphics card wholesale prices are on the rise once again in China, so it's time to brace yourself for even more GPU pricing pain"
+          "url": "https://www.pcgamer.com/gaming-industry/im-forever-grateful-to-bioware-16-game-developers-share-the-moment-a-bioware-game-inspired-them-to-join-the-industry/",
+          "titre": "'I'm forever grateful to BioWare': 16 game developers share the moment a BioWare game inspired them to join the industry"
+        }
+      ]
+    },
+    {
+      "id": "factorio-s-final-major-update-has-rolled-off-the-assembly-li",
+      "titre": "Factorio's final major update has rolled off the assembly line, adding \"the things we wanted to do for 2.0 but didn't have time for\"",
+      "url": "https://www.rockpapershotgun.com/factorios-final-major-update-has-rolled-off-the-assembly-line-adding-the-things-we-wanted-to-do-for-20-but-didnt-have-time-for",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/factorios-final-major-update-has-rolled-off-the-assembly-line-adding-the-things-we-wanted-to-do-for-20-but-didnt-have-time-for",
+          "titre": "Factorio's final major update has rolled off the assembly line, adding \"the things we wanted to do for 2.0 but didn't have time for\""
+        }
+      ]
+    },
+    {
+      "id": "future-no-thanks-dev-removes-ai-generated-voices-from-game-a",
+      "titre": "Future? No Thanks! dev removes AI-generated voices from game and offers refunds to players who feel \"betrayed\"",
+      "url": "https://www.rockpapershotgun.com/future-no-thanks-dev-removes-ai-generated-voices-from-game-and-offers-refunds-to-players-who-feel-betrayed",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/future-no-thanks-dev-removes-ai-generated-voices-from-game-and-offers-refunds-to-players-who-feel-betrayed",
+          "titre": "Future? No Thanks! dev removes AI-generated voices from game and offers refunds to players who feel \"betrayed\""
+        }
+      ]
+    },
+    {
+      "id": "abyssal-lapidary-is-making-the-social-media-rounds-and-i-can",
+      "titre": "Abyssal Lapidary is making the social media rounds and I can confirm cutting gemstones is just as satisfying as it looks",
+      "url": "https://www.pcgamer.com/games/sim/abyssal-lapidary-is-making-the-social-media-rounds-and-i-can-confirm-cutting-gemstones-is-just-as-satisfying-as-it-looks/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sim/abyssal-lapidary-is-making-the-social-media-rounds-and-i-can-confirm-cutting-gemstones-is-just-as-satisfying-as-it-looks/",
+          "titre": "Abyssal Lapidary is making the social media rounds and I can confirm cutting gemstones is just as satisfying as it looks"
+        }
+      ]
+    },
+    {
+      "id": "bioware-staff-should-be-given-the-first-opportunity-and-the",
+      "titre": "BioWare staff \"should be given the first opportunity and the federal support\" to buy the studio and keep it running, says Canadian political party leader",
+      "url": "https://www.rockpapershotgun.com/bioware-staff-should-be-given-the-first-opportunity-and-the-federal-support-to-buy-the-studio-and-keep-it-running-says-canadian-political-party-leader",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 6.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/bioware-staff-should-be-given-the-first-opportunity-and-the-federal-support-to-buy-the-studio-and-keep-it-running-says-canadian-political-party-leader",
+          "titre": "BioWare staff \"should be given the first opportunity and the federal support\" to buy the studio and keep it running, says Canadian political party leader"
+        }
+      ]
+    },
+    {
+      "id": "upcoming-mass-effect-like-exodus-himbo-fies-protagonist-afte",
+      "titre": "Upcoming Mass Effect-like Exodus himbo-fies protagonist after fans complain about his face",
+      "url": "https://www.pcgamer.com/games/rpg/upcoming-mass-effect-like-exodus-himbo-fies-protagonist-after-fans-complain-about-his-face/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/upcoming-mass-effect-like-exodus-himbo-fies-protagonist-after-fans-complain-about-his-face/",
+          "titre": "Upcoming Mass Effect-like Exodus himbo-fies protagonist after fans complain about his face"
+        }
+      ]
+    },
+    {
+      "id": "amd-says-the-re-release-of-the-ryzen-7-5800x3d-was-like-a-fi",
+      "titre": "AMD says the re-release of the Ryzen 7 5800X3D was 'like a final gift to our loyal [AM4] users' and it was CEO Dr. Lisa Su who first came up with the idea",
+      "url": "https://www.pcgamer.com/hardware/processors/amd-says-the-re-release-of-the-ryzen-7-5800x3d-was-like-a-final-gift-to-our-loyal-am4-users-and-it-was-ceo-dr-lisa-su-who-first-came-up-with-the-idea/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/processors/amd-says-the-re-release-of-the-ryzen-7-5800x3d-was-like-a-final-gift-to-our-loyal-am4-users-and-it-was-ceo-dr-lisa-su-who-first-came-up-with-the-idea/",
+          "titre": "AMD says the re-release of the Ryzen 7 5800X3D was 'like a final gift to our loyal [AM4] users' and it was CEO Dr. Lisa Su who first came up with the idea"
+        }
+      ]
+    },
+    {
+      "id": "amd-says-its-working-on-fsr-s-frame-pacing-issues-but-there",
+      "titre": "AMD says its working on FSR's frame pacing issues, but there's still conspicuously no mention of Multi Frame Generation",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-says-its-working-on-fsrs-frame-pacing-issues-but-theres-still-conspicuously-no-mention-of-multi-frame-generation/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 7.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-says-its-working-on-fsrs-frame-pacing-issues-but-theres-still-conspicuously-no-mention-of-multi-frame-generation/",
+          "titre": "AMD says its working on FSR's frame pacing issues, but there's still conspicuously no mention of Multi Frame Generation"
+        }
+      ]
+    },
+    {
+      "id": "helldivers-3-not-unless-it-s-very-different-from-helldivers",
+      "titre": "Helldivers 3? Not Unless It's Very Different from Helldivers 2, Says Arrowhead",
+      "url": "https://www.pushsquare.com/news/2026/10/helldivers-3-not-unless-its-very-different-from-helldivers-2-says-arrowhead",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 7.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/helldivers-3-not-unless-its-very-different-from-helldivers-2-says-arrowhead",
+          "titre": "Helldivers 3? Not Unless It's Very Different from Helldivers 2, Says Arrowhead"
+        }
+      ]
+    },
+    {
+      "id": "woim-is-the-earth-guzzling-self-bisecting-sokoban-pick-me-up",
+      "titre": "Woim is the earth-guzzling, self-bisecting sokoban pick-me-up I needed after a week of games industry disasters",
+      "url": "https://www.rockpapershotgun.com/woim-is-the-earth-guzzling-self-bisecting-sokoban-pick-me-up-i-needed-after-a-week-of-games-industry-disasters",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 7.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/woim-is-the-earth-guzzling-self-bisecting-sokoban-pick-me-up-i-needed-after-a-week-of-games-industry-disasters",
+          "titre": "Woim is the earth-guzzling, self-bisecting sokoban pick-me-up I needed after a week of games industry disasters"
+        }
+      ]
+    },
+    {
+      "id": "bioware-s-end-is-a-tragically-familiar-tale-opinion",
+      "titre": "BioWare's end is a tragically familiar tale | Opinion",
+      "url": "https://www.gamesindustry.biz/biowares-end-is-a-tragically-familiar-tale-opinion",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 8.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/biowares-end-is-a-tragically-familiar-tale-opinion",
+          "titre": "BioWare's end is a tragically familiar tale | Opinion"
+        }
+      ]
+    },
+    {
+      "id": "why-the-f-k-would-they-add-a-perk-like-that-modern-warfare",
+      "titre": "\"Why the f**k would they add a perk like that?\" - Modern Warfare 4 DMZ players are up in arms over the ability to self-revive",
+      "url": "https://www.eurogamer.net/modern-warfare-4-dmz-playing-possum-perk-broke",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 8.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/modern-warfare-4-dmz-playing-possum-perk-broke",
+          "titre": "\"Why the f**k would they add a perk like that?\" - Modern Warfare 4 DMZ players are up in arms over the ability to self-revive"
+        }
+      ]
+    },
+    {
+      "id": "in-a-rare-instance-of-good-news-philips-has-announced-the-wo",
+      "titre": "In a rare instance of good news, Philips has announced the world's first 36-inch, 260 Hz gaming monitor. So that's nice",
+      "url": "https://www.pcgamer.com/hardware/gaming-monitors/in-a-rare-instance-of-good-news-philips-has-announced-the-worlds-first-36-inch-260-hz-gaming-monitor-so-thats-nice/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 8.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-monitors/in-a-rare-instance-of-good-news-philips-has-announced-the-worlds-first-36-inch-260-hz-gaming-monitor-so-thats-nice/",
+          "titre": "In a rare instance of good news, Philips has announced the world's first 36-inch, 260 Hz gaming monitor. So that's nice"
+        }
+      ]
+    },
+    {
+      "id": "round-up-steins-gate-re-boot-ps5-reviews-here-s-what-the-cri",
+      "titre": "Round Up: STEINS;GATE RE:BOOT PS5 Reviews - Here's What the Critics Are Saying",
+      "url": "https://www.pushsquare.com/news/2026/10/round-up-steinsgate-reboot-ps5-reviews-heres-what-the-critics-are-saying",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 8.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/round-up-steinsgate-reboot-ps5-reviews-heres-what-the-critics-are-saying",
+          "titre": "Round Up: STEINS;GATE RE:BOOT PS5 Reviews - Here's What the Critics Are Saying"
+        }
+      ]
+    },
+    {
+      "id": "lg-ultragear-evo-52g930b-evo-gaming-monitor-review",
+      "titre": "LG UltraGear Evo 52G930B Evo gaming monitor review",
+      "url": "https://www.pcgamer.com/hardware/gaming-monitors/lg-ultragear-evo-52g930b-review/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 8.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-monitors/lg-ultragear-evo-52g930b-review/",
+          "titre": "LG UltraGear Evo 52G930B Evo gaming monitor review"
         }
       ]
     },
@@ -1031,31 +1055,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 9.8,
       "chaleur": 4,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/fanatical-halloween-bundle-gives-you-prey-doom-1-2-and-evil-within-1-2-for-11-66/",
           "titre": "Fanatical Halloween bundle gives you Prey, Doom 1 & 2, and Evil Within 1 & 2 for $11.66"
-        }
-      ]
-    },
-    {
-      "id": "vote-now-the-mammoth-tank-and-priest-go-head-to-head-to-dete",
-      "titre": "Vote now: The Mammoth Tank and Priest go head-to-head to determine the best RTS unit of all time",
-      "url": "https://www.pcgamer.com/games/rts/vote-now-the-mammoth-tank-and-priest-go-head-to-head-to-determine-the-best-rts-unit-of-all-time/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 5.0,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rts/vote-now-the-mammoth-tank-and-priest-go-head-to-head-to-determine-the-best-rts-unit-of-all-time/",
-          "titre": "Vote now: The Mammoth Tank and Priest go head-to-head to determine the best RTS unit of all time"
         }
       ]
     },
@@ -1067,7 +1073,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 10.1,
       "chaleur": 4,
       "liens": [
         {
@@ -1085,7 +1091,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 10.1,
       "chaleur": 4,
       "liens": [
         {
@@ -1103,7 +1109,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 10.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1121,31 +1127,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 10.7,
       "chaleur": 4,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/helldivers-3-only-makes-sense-if-its-so-unlike-helldivers-2-that-both-games-can-exist-side-by-side-says-arrowhead-boss-discussing-their-new-prototype-game",
           "titre": "Helldivers 3 \"only makes sense\" if it’s so unlike Helldivers 2 \"that both games can exist side by side\", says Arrowhead boss, discussing their new prototype game"
-        }
-      ]
-    },
-    {
-      "id": "all-genshin-impact-7-2-livestream-codes",
-      "titre": "All Genshin Impact 7.2 livestream codes",
-      "url": "https://www.pcgamer.com/games/rpg/genshin-impact-codes-7-2-livestream/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 6.2,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/genshin-impact-codes-7-2-livestream/",
-          "titre": "All Genshin Impact 7.2 livestream codes"
         }
       ]
     },
@@ -1157,7 +1145,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 11.1,
       "chaleur": 4,
       "liens": [
         {
@@ -1175,7 +1163,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 11.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1184,11 +1172,27 @@ const VEILLE = {
           "titre": "Half-Life 3 speculation reignited by Valve dev mentioning three sweet little rumored codenamey letters amid technical chat about video game noises"
         }
       ]
+    },
+    {
+      "id": "what-if-larian-had-shut-down-after-divine-divinity-star-tre",
+      "titre": "\"What if Larian had shut down after Divine Divinity?\": Star Trek Online exec scorns publishers who close teams like BioWare in favour of \"AAA veteran\" start-ups and AI \"magic beans\"",
+      "url": "https://www.rockpapershotgun.com/what-if-larian-had-shut-down-after-divine-divinity-star-trek-online-exec-scorns-publishers-who-close-teams-like-bioware-in-favour-of-aaa-veteran-start-ups-and-ai-magic-beans",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 12.2,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/what-if-larian-had-shut-down-after-divine-divinity-star-trek-online-exec-scorns-publishers-who-close-teams-like-bioware-in-favour-of-aaa-veteran-start-ups-and-ai-magic-beans",
+          "titre": "\"What if Larian had shut down after Divine Divinity?\": Star Trek Online exec scorns publishers who close teams like BioWare in favour of \"AAA veteran\" start-ups and AI \"magic beans\""
+        }
+      ]
     }
   ],
   "alertes": [
-    "Mass Effect crossover items have seemingly been removed from Battlefield 6 following EA's sudden closure of BioWare",
-    "As devastating Xbox \"reset\" continues, Dishonored studio Arkane Lyon reportedly only has until November to find a new buyer before it's closed",
-    "Call of Duty: Modern Warfare 4 actually runs pretty smoothly with Activision's 'recommended' RTX 3060 Ti graphics card, and here are the settings I use to get the best performance from it"
+    "Time could be running out for Arkane"
   ]
 };
