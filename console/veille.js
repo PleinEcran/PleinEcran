@@ -1,38 +1,8 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "24/10/2026 à 18h44",
+  "collecte": "24/10/2026 à 22h24",
   "seuil": 14,
   "sujets": [
-    {
-      "id": "psa-call-of-duty-modern-warfare-4-switch-2-update-now-live",
-      "titre": "PSA: Call Of Duty: Modern Warfare 4 Switch 2 Update Now Live",
-      "url": "https://www.nintendolife.com/news/2026/10/psa-call-of-duty-modern-warfare-4-switch-2-update-now-live",
-      "sources": [
-        "GamesIndustry.biz",
-        "Nintendo Life",
-        "Push Square"
-      ],
-      "reprises": 3,
-      "heures": 3.7,
-      "chaleur": 14,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/psa-call-of-duty-modern-warfare-4-switch-2-update-now-live",
-          "titre": "PSA: Call Of Duty: Modern Warfare 4 Switch 2 Update Now Live"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/call-of-duty-modern-warfare-4s-multiplayer-unlocked-early-but-feedback-has-been-brutal-so-far",
-          "titre": "Call of Duty: Modern Warfare 4's Multiplayer Unlocked Early, But Feedback Has Been Brutal So Far"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/call-of-duty-modern-warfare-4-critical-consensus",
-          "titre": "Call of Duty: Modern Warfare 4 | Critical Consensus"
-        }
-      ]
-    },
     {
       "id": "as-devastating-xbox-reset-continues-dishonored-studio-arkane",
       "titre": "As devastating Xbox \"reset\" continues, Dishonored studio Arkane Lyon reportedly only has until November to find a new buyer before it's closed",
@@ -42,7 +12,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 24.6,
+      "heures": 28.3,
       "chaleur": 13,
       "liens": [
         {
@@ -66,7 +36,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 4.3,
+      "heures": 8.0,
       "chaleur": 10,
       "liens": [
         {
@@ -82,6 +52,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "psa-call-of-duty-modern-warfare-4-switch-2-update-now-live",
+      "titre": "PSA: Call Of Duty: Modern Warfare 4 Switch 2 Update Now Live",
+      "url": "https://www.nintendolife.com/news/2026/10/psa-call-of-duty-modern-warfare-4-switch-2-update-now-live",
+      "sources": [
+        "Nintendo Life",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 7.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/psa-call-of-duty-modern-warfare-4-switch-2-update-now-live",
+          "titre": "PSA: Call Of Duty: Modern Warfare 4 Switch 2 Update Now Live"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/call-of-duty-modern-warfare-4s-multiplayer-unlocked-early-but-feedback-has-been-brutal-so-far",
+          "titre": "Call of Duty: Modern Warfare 4's Multiplayer Unlocked Early, But Feedback Has Been Brutal So Far"
+        }
+      ]
+    },
+    {
       "id": "talking-point-what-are-you-playing-this-weekend-24th-october",
       "titre": "Talking Point: What Are You Playing This Weekend? (24th October)",
       "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-24th-october",
@@ -91,8 +85,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 9.7,
-      "chaleur": 10,
+      "heures": 13.4,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -112,38 +106,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "i-ve-got-egg-on-my-face-because-steam-s-personal-calendar-fe",
-      "titre": "I've got egg on my face because Steam's Personal Calendar feature has apparently been a test this whole time and is only now actually a fully fledged component",
-      "url": "https://www.rockpapershotgun.com/ive-got-egg-on-my-face-because-steams-personal-calendar-feature-has-apparently-been-a-test-this-whole-time-and-is-only-now-actually-a-fully-fledged-component",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/ive-got-egg-on-my-face-because-steams-personal-calendar-feature-has-apparently-been-a-test-this-whole-time-and-is-only-now-actually-a-fully-fledged-component",
-          "titre": "I've got egg on my face because Steam's Personal Calendar feature has apparently been a test this whole time and is only now actually a fully fledged component"
-        }
-      ]
-    },
-    {
-      "id": "are-we-in-the-cozy-gaming-gold-rush-era-cozy-has-grown-over",
-      "titre": "Are we in the cozy gaming gold rush era? 'Cozy' has grown over 250% on Steam and 200% in my inbox since 2024",
-      "url": "https://www.pcgamer.com/games/life-sim/are-we-in-the-cozy-gaming-gold-rush-era-cozy-has-grown-over-250-percent-on-steam-and-200-percent-in-my-inbox-since-2024/",
+      "id": "top-xbox-exec-promoted-in-brand-reset-leaves-after-3-months",
+      "titre": "Top Xbox exec promoted in brand 'reset' leaves after 3 months in role",
+      "url": "https://www.pcgamer.com/gaming-industry/top-xbox-exec-promoted-in-brand-reset-leaves-after-3-months-in-role/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 3.6,
+      "heures": 3.4,
       "chaleur": 8,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/life-sim/are-we-in-the-cozy-gaming-gold-rush-era-cozy-has-grown-over-250-percent-on-steam-and-200-percent-in-my-inbox-since-2024/",
-          "titre": "Are we in the cozy gaming gold rush era? 'Cozy' has grown over 250% on Steam and 200% in my inbox since 2024"
+          "url": "https://www.pcgamer.com/gaming-industry/top-xbox-exec-promoted-in-brand-reset-leaves-after-3-months-in-role/",
+          "titre": "Top Xbox exec promoted in brand 'reset' leaves after 3 months in role"
         }
       ]
     },
@@ -156,7 +132,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 29.6,
+      "heures": 33.3,
       "chaleur": 8,
       "liens": [
         {
@@ -180,7 +156,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 6.6,
+      "heures": 10.2,
       "chaleur": 7,
       "liens": [
         {
@@ -203,7 +179,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 24.1,
+      "heures": 27.8,
       "chaleur": 7,
       "liens": [
         {
@@ -214,254 +190,92 @@ const VEILLE = {
       ]
     },
     {
-      "id": "penguin-colony-review-a-daringly-weird-horror-game-whose-atm",
-      "titre": "Penguin Colony review: A daringly weird horror game whose atmosphere and surprises overcome its rough edges",
-      "url": "https://www.pcgamer.com/games/horror/penguin-colony-review/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 0.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/penguin-colony-review/",
-          "titre": "Penguin Colony review: A daringly weird horror game whose atmosphere and surprises overcome its rough edges"
-        }
-      ]
-    },
-    {
-      "id": "stalker-2-s-next-update-has-already-leaked",
-      "titre": "Stalker 2's next update has already leaked",
-      "url": "https://www.eurogamer.net/stalker-2-update-2-1-zone-lookout-playstation-asia-leak",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 0.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/stalker-2-update-2-1-zone-lookout-playstation-asia-leak",
-          "titre": "Stalker 2's next update has already leaked"
-        }
-      ]
-    },
-    {
-      "id": "bioware-s-incredible-legacy-will-continue-as-long-as-there-a",
-      "titre": "BioWare's incredible legacy will continue as long as there are RPGs",
-      "url": "https://www.pcgamer.com/games/rpg/biowares-incredible-legacy-will-continue-as-long-as-there-are-rpgs/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 0.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/biowares-incredible-legacy-will-continue-as-long-as-there-are-rpgs/",
-          "titre": "BioWare's incredible legacy will continue as long as there are RPGs"
-        }
-      ]
-    },
-    {
-      "id": "a-free-officially-licensed-game-based-on-classic-uk-children",
-      "titre": "A free, officially licensed game based on classic UK children’s TV show Knightmare is in development",
-      "url": "https://www.videogameschronicle.com/news/a-free-officially-licensed-game-based-on-classic-uk-childrens-tv-show-knightmare-is-in-development/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 0.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/a-free-officially-licensed-game-based-on-classic-uk-childrens-tv-show-knightmare-is-in-development/",
-          "titre": "A free, officially licensed game based on classic UK children’s TV show Knightmare is in development"
-        }
-      ]
-    },
-    {
-      "id": "ps5-s-release-schedule-is-insane-next-week-and-it-s-just-add",
-      "titre": "PS5's Release Schedule Is Insane Next Week, and It's Just Added Another Must-Play",
-      "url": "https://www.pushsquare.com/news/2026/10/ps5s-release-schedule-is-insane-next-week-and-its-just-added-another-must-play",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 1.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/ps5s-release-schedule-is-insane-next-week-and-its-just-added-another-must-play",
-          "titre": "PS5's Release Schedule Is Insane Next Week, and It's Just Added Another Must-Play"
-        }
-      ]
-    },
-    {
-      "id": "fbi-investigating-theft-of-more-than-6000-psa-graded-trading",
-      "titre": "FBI investigating theft of more than 6000 PSA-graded trading cards, including almost 3000 Pokémon cards",
-      "url": "https://www.eurogamer.net/fbi-investigates-psa-graded-card-theft-pokemon",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 1.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/fbi-investigates-psa-graded-card-theft-pokemon",
-          "titre": "FBI investigating theft of more than 6000 PSA-graded trading cards, including almost 3000 Pokémon cards"
-        }
-      ]
-    },
-    {
-      "id": "paralives-first-major-update-slips-to-next-year-but-when-it",
-      "titre": "Paralives' first major update slips to next year, but when it comes you can expect some pretty meaty improvements for all of its main features",
-      "url": "https://www.rockpapershotgun.com/paralives-first-major-update-slips-to-next-year-but-when-it-comes-you-can-expect-some-pretty-meaty-improvements-for-all-of-its-main-features",
+      "id": "abelina-is-a-strange-platforming-romp-through-a-natural-afte",
+      "titre": "Abelina is a strange, platforming romp through a natural afterlife from a former League of Legends animator and the composer of Zach Cregger's Resident Evil",
+      "url": "https://www.rockpapershotgun.com/abelina-is-a-strange-platforming-romp-through-a-natural-afterlife-from-a-former-league-of-legends-animator-and-the-composer-of-zach-creggers-resident-evil",
       "sources": [
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 0.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/paralives-first-major-update-slips-to-next-year-but-when-it-comes-you-can-expect-some-pretty-meaty-improvements-for-all-of-its-main-features",
-          "titre": "Paralives' first major update slips to next year, but when it comes you can expect some pretty meaty improvements for all of its main features"
+          "url": "https://www.rockpapershotgun.com/abelina-is-a-strange-platforming-romp-through-a-natural-afterlife-from-a-former-league-of-legends-animator-and-the-composer-of-zach-creggers-resident-evil",
+          "titre": "Abelina is a strange, platforming romp through a natural afterlife from a former League of Legends animator and the composer of Zach Cregger's Resident Evil"
         }
       ]
     },
     {
-      "id": "sony-s-new-walkman-is-a-real-status-symbol-with-a-6-000-pric",
-      "titre": "Sony's New Walkman Is a Real Status Symbol, with a $6,000 Price Point to Match",
-      "url": "https://www.pushsquare.com/news/2026/10/sonys-new-walkman-is-a-real-status-symbol-with-a-usd6000-price-point-to-match",
+      "id": "system-shock-and-deus-ex-they-were-rpgs-people-called-them",
+      "titre": "\"System Shock and Deus Ex, they were RPGs. People called them RPGs\": Gloomwood's publisher isn't too keen on using the term immersive sim despite it being one",
+      "url": "https://www.rockpapershotgun.com/system-shock-and-deus-ex-they-were-rpgs-people-called-them-rpgs-gloomwoods-publisher-isnt-too-keen-on-using-the-term-immersive-sim-despite-it-being-one",
       "sources": [
-        "Push Square"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 1.9,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/sonys-new-walkman-is-a-real-status-symbol-with-a-usd6000-price-point-to-match",
-          "titre": "Sony's New Walkman Is a Real Status Symbol, with a $6,000 Price Point to Match"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/system-shock-and-deus-ex-they-were-rpgs-people-called-them-rpgs-gloomwoods-publisher-isnt-too-keen-on-using-the-term-immersive-sim-despite-it-being-one",
+          "titre": "\"System Shock and Deus Ex, they were RPGs. People called them RPGs\": Gloomwood's publisher isn't too keen on using the term immersive sim despite it being one"
         }
       ]
     },
     {
-      "id": "now-it-s-over-wow-forever-s-beta-has-left-me-with-just-one-f",
-      "titre": "Now it's over, WoW: Forever's beta has left me with just one fear—its endgame",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/now-its-over-wow-forevers-beta-has-left-me-with-just-one-fear-its-endgame/",
+      "id": "helena-cloud-district-is-a-megastructure-photography-game-la",
+      "titre": "HELENA : Cloud District is a megastructure photography game laser targeted at my interests, and it's out next week",
+      "url": "https://www.rockpapershotgun.com/helena-cloud-district-is-a-megastructure-photography-game-laser-targeted-at-my-interests-and-its-out-next-week",
       "sources": [
-        "PC Gamer"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.7,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/now-its-over-wow-forevers-beta-has-left-me-with-just-one-fear-its-endgame/",
-          "titre": "Now it's over, WoW: Forever's beta has left me with just one fear—its endgame"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/helena-cloud-district-is-a-megastructure-photography-game-laser-targeted-at-my-interests-and-its-out-next-week",
+          "titre": "HELENA : Cloud District is a megastructure photography game laser targeted at my interests, and it's out next week"
         }
       ]
     },
     {
-      "id": "new-blood-ceo-confirms-it-the-worst-way-to-sell-immersive-si",
-      "titre": "New Blood CEO confirms it: the worst way to sell immersive sims like Gloomwood and Fallen Aces is to call them immersive sims",
-      "url": "https://www.pcgamer.com/games/sim/new-blood-ceo-confirms-it-the-worst-way-to-sell-immersive-sims-like-gloomwood-and-fallen-aces-is-to-call-them-immersive-sims/",
+      "id": "i-ve-got-egg-on-my-face-because-steam-s-personal-calendar-fe",
+      "titre": "I've got egg on my face because Steam's Personal Calendar feature has apparently been a test this whole time and is only now actually a fully fledged component",
+      "url": "https://www.rockpapershotgun.com/ive-got-egg-on-my-face-because-steams-personal-calendar-feature-has-apparently-been-a-test-this-whole-time-and-is-only-now-actually-a-fully-fledged-component",
       "sources": [
-        "PC Gamer"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 2.7,
+      "heures": 6.5,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/new-blood-ceo-confirms-it-the-worst-way-to-sell-immersive-sims-like-gloomwood-and-fallen-aces-is-to-call-them-immersive-sims/",
-          "titre": "New Blood CEO confirms it: the worst way to sell immersive sims like Gloomwood and Fallen Aces is to call them immersive sims"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/ive-got-egg-on-my-face-because-steams-personal-calendar-feature-has-apparently-been-a-test-this-whole-time-and-is-only-now-actually-a-fully-fledged-component",
+          "titre": "I've got egg on my face because Steam's Personal Calendar feature has apparently been a test this whole time and is only now actually a fully fledged component"
         }
       ]
     },
     {
-      "id": "the-mouse-p-i-for-hire-from-mouse-p-i-for-hire-joins-the-mea",
-      "titre": "The mouse P.I. for hire from Mouse: P.I. For Hire joins the meat boy from Super Meat Boy 3D in gaming's latest indie crossover",
-      "url": "https://www.pcgamer.com/games/action/the-mouse-p-i-for-hire-from-mouse-p-i-for-hire-joins-the-meat-boy-from-super-meat-boy-3d-in-gamings-latest-indie-crossover/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/the-mouse-p-i-for-hire-from-mouse-p-i-for-hire-joins-the-meat-boy-from-super-meat-boy-3d-in-gamings-latest-indie-crossover/",
-          "titre": "The mouse P.I. for hire from Mouse: P.I. For Hire joins the meat boy from Super Meat Boy 3D in gaming's latest indie crossover"
-        }
-      ]
-    },
-    {
-      "id": "japan-actors-union-pushes-for-heavy-restrictions-on-ai-copyi",
-      "titre": "Japan Actors Union pushes for heavy restrictions on AI copying dead actors",
-      "url": "https://www.pcgamer.com/software/ai/japan-actors-union-pushes-for-heavy-restrictions-on-ai-copying-dead-actors/",
+      "id": "are-we-in-the-cozy-gaming-gold-rush-era-cozy-has-grown-over",
+      "titre": "Are we in the cozy gaming gold rush era? 'Cozy' has grown over 250% on Steam and 200% in my inbox since 2024",
+      "url": "https://www.pcgamer.com/games/life-sim/are-we-in-the-cozy-gaming-gold-rush-era-cozy-has-grown-over-250-percent-on-steam-and-200-percent-in-my-inbox-since-2024/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 3.2,
+      "heures": 7.2,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/japan-actors-union-pushes-for-heavy-restrictions-on-ai-copying-dead-actors/",
-          "titre": "Japan Actors Union pushes for heavy restrictions on AI copying dead actors"
-        }
-      ]
-    },
-    {
-      "id": "feature-star-wars-galactic-racer-is-the-blueprint-for-a-new",
-      "titre": "Feature: Star Wars: Galactic Racer Is the Blueprint for a New Burnout, and I Need It to Happen",
-      "url": "https://www.pushsquare.com/features/star-wars-galactic-racer-is-the-blueprint-for-a-new-burnout-and-i-need-it-to-happen",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/star-wars-galactic-racer-is-the-blueprint-for-a-new-burnout-and-i-need-it-to-happen",
-          "titre": "Feature: Star Wars: Galactic Racer Is the Blueprint for a New Burnout, and I Need It to Happen"
-        }
-      ]
-    },
-    {
-      "id": "the-best-feature-in-the-original-alan-wake-is-an-absence-the",
-      "titre": "The best feature in the original Alan Wake is an absence: the man has no reticle",
-      "url": "https://www.pcgamer.com/games/horror/the-best-feature-in-the-original-alan-wake-is-an-absence-the-man-has-no-reticle/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/the-best-feature-in-the-original-alan-wake-is-an-absence-the-man-has-no-reticle/",
-          "titre": "The best feature in the original Alan Wake is an absence: the man has no reticle"
+          "url": "https://www.pcgamer.com/games/life-sim/are-we-in-the-cozy-gaming-gold-rush-era-cozy-has-grown-over-250-percent-on-steam-and-200-percent-in-my-inbox-since-2024/",
+          "titre": "Are we in the cozy gaming gold rush era? 'Cozy' has grown over 250% on Steam and 200% in my inbox since 2024"
         }
       ]
     },
@@ -473,31 +287,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 9.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/xbox-coo-helen-chiang-leaves-microsoft",
           "titre": "Xbox's first chief operating officer Helen Chiang leaves Microsoft just three months into the job"
-        }
-      ]
-    },
-    {
-      "id": "final-battle-nintendo-music-expands-its-library-with-the-ar",
-      "titre": "\"Final Battle\" - Nintendo Music Expands Its Library With The ARMS Soundtrack",
-      "url": "https://www.nintendolife.com/news/2026/10/final-battle-nintendo-music-expands-its-library-with-the-arms-soundtrack",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 10.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/final-battle-nintendo-music-expands-its-library-with-the-arms-soundtrack",
-          "titre": "\"Final Battle\" - Nintendo Music Expands Its Library With The ARMS Soundtrack"
         }
       ]
     },
@@ -509,7 +305,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.2,
+      "heures": 22.9,
       "chaleur": 6,
       "liens": [
         {
@@ -527,7 +323,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 20.0,
+      "heures": 23.6,
       "chaleur": 6,
       "liens": [
         {
@@ -546,7 +342,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 24.9,
+      "heures": 28.6,
       "chaleur": 6,
       "liens": [
         {
@@ -569,7 +365,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 25.4,
+      "heures": 29.1,
       "chaleur": 6,
       "liens": [
         {
@@ -587,7 +383,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 25.7,
+      "heures": 29.4,
       "chaleur": 6,
       "liens": [
         {
@@ -605,7 +401,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 26.7,
+      "heures": 30.4,
       "chaleur": 6,
       "liens": [
         {
@@ -624,7 +420,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 27.0,
+      "heures": 30.7,
       "chaleur": 6,
       "liens": [
         {
@@ -647,7 +443,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 28.0,
+      "heures": 31.7,
       "chaleur": 6,
       "liens": [
         {
@@ -658,26 +454,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "half-life-3-is-back-in-the-news-again-as-valve-developer-acc",
-      "titre": "Half-Life 3 is back in the news again as Valve developer accidentally sort-of references it in public, reigniting hope once more",
-      "url": "https://www.eurogamer.net/half-life-3-developer-references-codename-public",
+      "id": "final-battle-nintendo-music-expands-its-library-with-the-ar",
+      "titre": "\"Final Battle\" - Nintendo Music Expands Its Library With The ARMS Soundtrack",
+      "url": "https://www.nintendolife.com/news/2026/10/final-battle-nintendo-music-expands-its-library-with-the-arms-soundtrack",
       "sources": [
-        "Eurogamer",
-        "VGC"
+        "Nintendo Life"
       ],
-      "reprises": 2,
-      "heures": 30.0,
-      "chaleur": 6,
+      "reprises": 1,
+      "heures": 14.4,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/half-life-3-developer-references-codename-public",
-          "titre": "Half-Life 3 is back in the news again as Valve developer accidentally sort-of references it in public, reigniting hope once more"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/half-life-3-speculation-grows-as-valve-developer-mentions-hlx-during-stage-panel/",
-          "titre": "Half-Life 3 speculation grows as Valve developer mentions ‘HLX’ during stage panel"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/final-battle-nintendo-music-expands-its-library-with-the-arms-soundtrack",
+          "titre": "\"Final Battle\" - Nintendo Music Expands Its Library With The ARMS Soundtrack"
         }
       ]
     },
@@ -689,7 +479,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.2,
+      "heures": 18.9,
       "chaleur": 5,
       "liens": [
         {
@@ -707,7 +497,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 22.5,
+      "heures": 26.2,
       "chaleur": 5,
       "liens": [
         {
@@ -725,7 +515,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.7,
+      "heures": 29.4,
       "chaleur": 5,
       "liens": [
         {
@@ -743,7 +533,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 26.2,
+      "heures": 29.9,
       "chaleur": 5,
       "liens": [
         {
@@ -761,7 +551,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 27.3,
+      "heures": 31.0,
       "chaleur": 5,
       "liens": [
         {
@@ -779,7 +569,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 28.0,
+      "heures": 31.7,
       "chaleur": 5,
       "liens": [
         {
@@ -797,7 +587,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.7,
+      "heures": 33.4,
       "chaleur": 5,
       "liens": [
         {
@@ -815,13 +605,265 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 30.2,
+      "heures": 33.9,
       "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/phantom-blade-zero-hit-not-out",
           "titre": "Phantom Blade Zero isn't even out yet, but it could be 'one of the year's breakout hits' as it shifts half a million copies on Steam alone"
+        }
+      ]
+    },
+    {
+      "id": "penguin-colony-review-a-daringly-weird-horror-game-whose-atm",
+      "titre": "Penguin Colony review: A daringly weird horror game whose atmosphere and surprises overcome its rough edges",
+      "url": "https://www.pcgamer.com/games/horror/penguin-colony-review/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/penguin-colony-review/",
+          "titre": "Penguin Colony review: A daringly weird horror game whose atmosphere and surprises overcome its rough edges"
+        }
+      ]
+    },
+    {
+      "id": "stalker-2-s-next-update-has-already-leaked",
+      "titre": "Stalker 2's next update has already leaked",
+      "url": "https://www.eurogamer.net/stalker-2-update-2-1-zone-lookout-playstation-asia-leak",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/stalker-2-update-2-1-zone-lookout-playstation-asia-leak",
+          "titre": "Stalker 2's next update has already leaked"
+        }
+      ]
+    },
+    {
+      "id": "bioware-s-incredible-legacy-will-continue-as-long-as-there-a",
+      "titre": "BioWare's incredible legacy will continue as long as there are RPGs",
+      "url": "https://www.pcgamer.com/games/rpg/biowares-incredible-legacy-will-continue-as-long-as-there-are-rpgs/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/biowares-incredible-legacy-will-continue-as-long-as-there-are-rpgs/",
+          "titre": "BioWare's incredible legacy will continue as long as there are RPGs"
+        }
+      ]
+    },
+    {
+      "id": "a-free-officially-licensed-game-based-on-classic-uk-children",
+      "titre": "A free, officially licensed game based on classic UK children’s TV show Knightmare is in development",
+      "url": "https://www.videogameschronicle.com/news/a-free-officially-licensed-game-based-on-classic-uk-childrens-tv-show-knightmare-is-in-development/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/a-free-officially-licensed-game-based-on-classic-uk-childrens-tv-show-knightmare-is-in-development/",
+          "titre": "A free, officially licensed game based on classic UK children’s TV show Knightmare is in development"
+        }
+      ]
+    },
+    {
+      "id": "ps5-s-release-schedule-is-insane-next-week-and-it-s-just-add",
+      "titre": "PS5's Release Schedule Is Insane Next Week, and It's Just Added Another Must-Play",
+      "url": "https://www.pushsquare.com/news/2026/10/ps5s-release-schedule-is-insane-next-week-and-its-just-added-another-must-play",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/ps5s-release-schedule-is-insane-next-week-and-its-just-added-another-must-play",
+          "titre": "PS5's Release Schedule Is Insane Next Week, and It's Just Added Another Must-Play"
+        }
+      ]
+    },
+    {
+      "id": "fbi-investigating-theft-of-more-than-6000-psa-graded-trading",
+      "titre": "FBI investigating theft of more than 6000 PSA-graded trading cards, including almost 3000 Pokémon cards",
+      "url": "https://www.eurogamer.net/fbi-investigates-psa-graded-card-theft-pokemon",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/fbi-investigates-psa-graded-card-theft-pokemon",
+          "titre": "FBI investigating theft of more than 6000 PSA-graded trading cards, including almost 3000 Pokémon cards"
+        }
+      ]
+    },
+    {
+      "id": "paralives-first-major-update-slips-to-next-year-but-when-it",
+      "titre": "Paralives' first major update slips to next year, but when it comes you can expect some pretty meaty improvements for all of its main features",
+      "url": "https://www.rockpapershotgun.com/paralives-first-major-update-slips-to-next-year-but-when-it-comes-you-can-expect-some-pretty-meaty-improvements-for-all-of-its-main-features",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/paralives-first-major-update-slips-to-next-year-but-when-it-comes-you-can-expect-some-pretty-meaty-improvements-for-all-of-its-main-features",
+          "titre": "Paralives' first major update slips to next year, but when it comes you can expect some pretty meaty improvements for all of its main features"
+        }
+      ]
+    },
+    {
+      "id": "sony-s-new-walkman-is-a-real-status-symbol-with-a-6-000-pric",
+      "titre": "Sony's New Walkman Is a Real Status Symbol, with a $6,000 Price Point to Match",
+      "url": "https://www.pushsquare.com/news/2026/10/sonys-new-walkman-is-a-real-status-symbol-with-a-usd6000-price-point-to-match",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/sonys-new-walkman-is-a-real-status-symbol-with-a-usd6000-price-point-to-match",
+          "titre": "Sony's New Walkman Is a Real Status Symbol, with a $6,000 Price Point to Match"
+        }
+      ]
+    },
+    {
+      "id": "now-it-s-over-wow-forever-s-beta-has-left-me-with-just-one-f",
+      "titre": "Now it's over, WoW: Forever's beta has left me with just one fear—its endgame",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/now-its-over-wow-forevers-beta-has-left-me-with-just-one-fear-its-endgame/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/now-its-over-wow-forevers-beta-has-left-me-with-just-one-fear-its-endgame/",
+          "titre": "Now it's over, WoW: Forever's beta has left me with just one fear—its endgame"
+        }
+      ]
+    },
+    {
+      "id": "new-blood-ceo-confirms-it-the-worst-way-to-sell-immersive-si",
+      "titre": "New Blood CEO confirms it: the worst way to sell immersive sims like Gloomwood and Fallen Aces is to call them immersive sims",
+      "url": "https://www.pcgamer.com/games/sim/new-blood-ceo-confirms-it-the-worst-way-to-sell-immersive-sims-like-gloomwood-and-fallen-aces-is-to-call-them-immersive-sims/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sim/new-blood-ceo-confirms-it-the-worst-way-to-sell-immersive-sims-like-gloomwood-and-fallen-aces-is-to-call-them-immersive-sims/",
+          "titre": "New Blood CEO confirms it: the worst way to sell immersive sims like Gloomwood and Fallen Aces is to call them immersive sims"
+        }
+      ]
+    },
+    {
+      "id": "the-mouse-p-i-for-hire-from-mouse-p-i-for-hire-joins-the-mea",
+      "titre": "The mouse P.I. for hire from Mouse: P.I. For Hire joins the meat boy from Super Meat Boy 3D in gaming's latest indie crossover",
+      "url": "https://www.pcgamer.com/games/action/the-mouse-p-i-for-hire-from-mouse-p-i-for-hire-joins-the-meat-boy-from-super-meat-boy-3d-in-gamings-latest-indie-crossover/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/the-mouse-p-i-for-hire-from-mouse-p-i-for-hire-joins-the-meat-boy-from-super-meat-boy-3d-in-gamings-latest-indie-crossover/",
+          "titre": "The mouse P.I. for hire from Mouse: P.I. For Hire joins the meat boy from Super Meat Boy 3D in gaming's latest indie crossover"
+        }
+      ]
+    },
+    {
+      "id": "japan-actors-union-pushes-for-heavy-restrictions-on-ai-copyi",
+      "titre": "Japan Actors Union pushes for heavy restrictions on AI copying dead actors",
+      "url": "https://www.pcgamer.com/software/ai/japan-actors-union-pushes-for-heavy-restrictions-on-ai-copying-dead-actors/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/japan-actors-union-pushes-for-heavy-restrictions-on-ai-copying-dead-actors/",
+          "titre": "Japan Actors Union pushes for heavy restrictions on AI copying dead actors"
+        }
+      ]
+    },
+    {
+      "id": "feature-star-wars-galactic-racer-is-the-blueprint-for-a-new",
+      "titre": "Feature: Star Wars: Galactic Racer Is the Blueprint for a New Burnout, and I Need It to Happen",
+      "url": "https://www.pushsquare.com/features/star-wars-galactic-racer-is-the-blueprint-for-a-new-burnout-and-i-need-it-to-happen",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 7.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/star-wars-galactic-racer-is-the-blueprint-for-a-new-burnout-and-i-need-it-to-happen",
+          "titre": "Feature: Star Wars: Galactic Racer Is the Blueprint for a New Burnout, and I Need It to Happen"
+        }
+      ]
+    },
+    {
+      "id": "the-best-feature-in-the-original-alan-wake-is-an-absence-the",
+      "titre": "The best feature in the original Alan Wake is an absence: the man has no reticle",
+      "url": "https://www.pcgamer.com/games/horror/the-best-feature-in-the-original-alan-wake-is-an-absence-the-man-has-no-reticle/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 7.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/the-best-feature-in-the-original-alan-wake-is-an-absence-the-man-has-no-reticle/",
+          "titre": "The best feature in the original Alan Wake is an absence: the man has no reticle"
         }
       ]
     },
@@ -833,7 +875,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 7.9,
       "chaleur": 4,
       "liens": [
         {
@@ -851,7 +893,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
@@ -869,7 +911,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
@@ -887,7 +929,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.2,
+      "heures": 8.9,
       "chaleur": 4,
       "liens": [
         {
@@ -905,7 +947,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.7,
+      "heures": 10.4,
       "chaleur": 4,
       "liens": [
         {
@@ -923,7 +965,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.6,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -941,7 +983,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.7,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -959,8 +1001,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.7,
-      "chaleur": 4,
+      "heures": 15.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -977,31 +1019,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 20.8,
+      "heures": 24.4,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/mass-effect/mass-effect-5-was-set-in-a-galactic-cold-war-new-leak-claims-and-all-3-endings-were-wrapped-into-1/",
           "titre": "Mass Effect 5 was set in a 'galactic Cold War,' new leak claims, and all 3 endings were wrapped into 1"
-        }
-      ]
-    },
-    {
-      "id": "based-on-player-data-capcom-s-pretty-happy-with-the-difficul",
-      "titre": "Based on player data, Capcom's pretty happy with the difficulty level of Onimusha: Way of the Sword: 'We think it's hit the right spot'",
-      "url": "https://www.pcgamer.com/games/action/based-on-player-data-capcoms-pretty-happy-with-the-difficulty-level-of-onimusha-way-of-the-sword-we-think-its-hit-the-right-spot/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 21.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/based-on-player-data-capcoms-pretty-happy-with-the-difficulty-level-of-onimusha-way-of-the-sword-we-think-its-hit-the-right-spot/",
-          "titre": "Based on player data, Capcom's pretty happy with the difficulty level of Onimusha: Way of the Sword: 'We think it's hit the right spot'"
         }
       ]
     },
@@ -1013,7 +1037,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 25.3,
+      "heures": 29.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1031,7 +1055,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 26.2,
+      "heures": 29.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1049,7 +1073,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 26.7,
+      "heures": 30.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1067,7 +1091,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 27.5,
+      "heures": 31.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1085,7 +1109,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 27.6,
+      "heures": 31.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1103,49 +1127,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 27.7,
+      "heures": 31.3,
       "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/biowares-end-is-a-tragically-familiar-tale-opinion",
           "titre": "BioWare's end is a tragically familiar tale | Opinion"
-        }
-      ]
-    },
-    {
-      "id": "why-the-f-k-would-they-add-a-perk-like-that-modern-warfare",
-      "titre": "\"Why the f**k would they add a perk like that?\" - Modern Warfare 4 DMZ players are up in arms over the ability to self-revive",
-      "url": "https://www.eurogamer.net/modern-warfare-4-dmz-playing-possum-perk-broke",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 27.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/modern-warfare-4-dmz-playing-possum-perk-broke",
-          "titre": "\"Why the f**k would they add a perk like that?\" - Modern Warfare 4 DMZ players are up in arms over the ability to self-revive"
-        }
-      ]
-    },
-    {
-      "id": "round-up-steins-gate-re-boot-ps5-reviews-here-s-what-the-cri",
-      "titre": "Round Up: STEINS;GATE RE:BOOT PS5 Reviews - Here's What the Critics Are Saying",
-      "url": "https://www.pushsquare.com/news/2026/10/round-up-steinsgate-reboot-ps5-reviews-heres-what-the-critics-are-saying",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 28.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/round-up-steinsgate-reboot-ps5-reviews-heres-what-the-critics-are-saying",
-          "titre": "Round Up: STEINS;GATE RE:BOOT PS5 Reviews - Here's What the Critics Are Saying"
         }
       ]
     }
