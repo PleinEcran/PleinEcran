@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "23/10/2026 à 23h04",
+  "collecte": "24/10/2026 à 04h26",
   "seuil": 14,
   "sujets": [
     {
@@ -15,7 +15,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 5,
-      "heures": 5.7,
+      "heures": 11.1,
       "chaleur": 24,
       "liens": [
         {
@@ -46,36 +46,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "time-could-be-running-out-for-arkane",
-      "titre": "Time could be running out for Arkane",
-      "url": "https://www.pcgamer.com/gaming-industry/time-could-be-running-out-for-arkane/",
-      "sources": [
-        "Eurogamer",
-        "PC Gamer",
-        "Push Square"
-      ],
-      "reprises": 3,
-      "heures": 2.9,
-      "chaleur": 14,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/time-could-be-running-out-for-arkane/",
-          "titre": "Time could be running out for Arkane"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/phantom-blade-zero-hit-not-out",
-          "titre": "Phantom Blade Zero isn't even out yet, but it could be 'one of the year's breakout hits' as it shifts half a million copies on Steam alone"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/sonys-marketing-the-hell-out-of-ps5-console-exclusive-phantom-blade-zero-in-china",
-          "titre": "Sony's Marketing the Hell Out of PS5 Console Exclusive Phantom Blade Zero in China"
-        }
-      ]
-    },
-    {
       "id": "as-devastating-xbox-reset-continues-dishonored-studio-arkane",
       "titre": "As devastating Xbox \"reset\" continues, Dishonored studio Arkane Lyon reportedly only has until November to find a new buyer before it's closed",
       "url": "https://www.eurogamer.net/xbox-layoffs-marvels-blade-arkane-lyon-closure",
@@ -84,7 +54,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 4.9,
+      "heures": 10.3,
       "chaleur": 14,
       "liens": [
         {
@@ -109,8 +79,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 3,
-      "heures": 6.8,
-      "chaleur": 13,
+      "heures": 12.2,
+      "chaleur": 12,
       "liens": [
         {
           "source": "PC Gamer",
@@ -130,6 +100,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "time-could-be-running-out-for-arkane",
+      "titre": "Time could be running out for Arkane",
+      "url": "https://www.pcgamer.com/gaming-industry/time-could-be-running-out-for-arkane/",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 8.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/time-could-be-running-out-for-arkane/",
+          "titre": "Time could be running out for Arkane"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/phantom-blade-zero-hit-not-out",
+          "titre": "Phantom Blade Zero isn't even out yet, but it could be 'one of the year's breakout hits' as it shifts half a million copies on Steam alone"
+        }
+      ]
+    },
+    {
       "id": "nearly-12-million-capcom-id-accounts-affected-in-huge-data-b",
       "titre": "Nearly 12 Million Capcom ID Accounts Affected in Huge Data Breach",
       "url": "https://www.pushsquare.com/news/2026/10/nearly-12-million-capcom-id-accounts-affected-in-huge-data-breach",
@@ -139,8 +133,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 3,
-      "heures": 7.3,
-      "chaleur": 10,
+      "heures": 12.7,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Push Square",
@@ -160,6 +154,108 @@ const VEILLE = {
       ]
     },
     {
+      "id": "three-more-game-boy-games-are-coming-to-switch-online-includ",
+      "titre": "Three more Game Boy games are coming to Switch Online, including one produced by Shigeru Miyamoto",
+      "url": "https://www.videogameschronicle.com/news/three-more-game-boy-games-are-coming-to-switch-online-including-one-produced-by-shigeru-miyamoto/",
+      "sources": [
+        "Nintendo Life",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 19.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/three-more-game-boy-games-are-coming-to-switch-online-including-one-produced-by-shigeru-miyamoto/",
+          "titre": "Three more Game Boy games are coming to Switch Online, including one produced by Shigeru Miyamoto"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-expands-switch-onlines-game-boy-library-with-three-more-titles",
+          "titre": "Nintendo Expands Switch Online's Game Boy Library With Three More Titles"
+        }
+      ]
+    },
+    {
+      "id": "icymi-cult-of-the-lamb-summons-a-switch-2-version-includes-f",
+      "titre": "ICYMI: Cult Of The Lamb Summons A Switch 2 Version, Includes Free Upgrade Path",
+      "url": "https://www.nintendolife.com/news/2026/10/icymi-cult-of-the-lamb-summons-a-switch-2-version-includes-free-upgrade-path",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/icymi-cult-of-the-lamb-summons-a-switch-2-version-includes-free-upgrade-path",
+          "titre": "ICYMI: Cult Of The Lamb Summons A Switch 2 Version, Includes Free Upgrade Path"
+        }
+      ]
+    },
+    {
+      "id": "with-minecraft-and-diablo-shows-already-on-the-way-netflix-r",
+      "titre": "With Minecraft and Diablo shows already on the way, Netflix reportedly offered Xbox $500m for a bigger film and TV deal",
+      "url": "https://www.eurogamer.net/netflix-500m-xbox-film-tv-rights",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 9.8,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/netflix-500m-xbox-film-tv-rights",
+          "titre": "With Minecraft and Diablo shows already on the way, Netflix reportedly offered Xbox $500m for a bigger film and TV deal"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-veteran-shigeru-miyamoto-to-receive-japan-s-order-o",
+      "titre": "Nintendo veteran Shigeru Miyamoto to receive Japan's Order of Culture award",
+      "url": "https://www.gamesindustry.biz/nintendo-veteran-shigeru-miyamoto-to-receive-japans-order-of-culture-award",
+      "sources": [
+        "GamesIndustry.biz",
+        "Nintendo Life"
+      ],
+      "reprises": 2,
+      "heures": 15.3,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/nintendo-veteran-shigeru-miyamoto-to-receive-japans-order-of-culture-award",
+          "titre": "Nintendo veteran Shigeru Miyamoto to receive Japan's Order of Culture award"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/shigeru-miyamoto-becomes-first-game-dev-to-receive-japans-prestigious-culture-award",
+          "titre": "Shigeru Miyamoto Becomes First Game Dev To Receive Japan's Prestigious Culture Award"
+        }
+      ]
+    },
+    {
+      "id": "the-legend-of-zelda-ocarina-of-time-switch-2-esrb-rating-sum",
+      "titre": "The Legend Of Zelda: Ocarina Of Time Switch 2 ESRB Rating Summary Published",
+      "url": "https://www.nintendolife.com/news/2026/10/the-legend-of-zelda-ocarina-of-time-switch-2-esrb-rating-summary-published",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/the-legend-of-zelda-ocarina-of-time-switch-2-esrb-rating-summary-published",
+          "titre": "The Legend Of Zelda: Ocarina Of Time Switch 2 ESRB Rating Summary Published"
+        }
+      ]
+    },
+    {
       "id": "why-private-equity-acquisitions-like-the-one-that-just-claim",
       "titre": "Why private equity acquisitions like the one that just claimed BioWare are so dreaded",
       "url": "https://www.pcgamer.com/gaming-industry/why-private-equity-acquisitions-like-the-one-that-just-claimed-bioware-are-so-dreaded/",
@@ -167,8 +263,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.3,
-      "chaleur": 9,
+      "heures": 5.7,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
@@ -186,8 +282,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 3.5,
-      "chaleur": 9,
+      "heures": 8.9,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
@@ -202,108 +298,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nintendo-veteran-shigeru-miyamoto-to-receive-japan-s-order-o",
-      "titre": "Nintendo veteran Shigeru Miyamoto to receive Japan's Order of Culture award",
-      "url": "https://www.gamesindustry.biz/nintendo-veteran-shigeru-miyamoto-to-receive-japans-order-of-culture-award",
-      "sources": [
-        "GamesIndustry.biz",
-        "Nintendo Life"
-      ],
-      "reprises": 2,
-      "heures": 10.0,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/nintendo-veteran-shigeru-miyamoto-to-receive-japans-order-of-culture-award",
-          "titre": "Nintendo veteran Shigeru Miyamoto to receive Japan's Order of Culture award"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/shigeru-miyamoto-becomes-first-game-dev-to-receive-japans-prestigious-culture-award",
-          "titre": "Shigeru Miyamoto Becomes First Game Dev To Receive Japan's Prestigious Culture Award"
-        }
-      ]
-    },
-    {
-      "id": "three-more-game-boy-games-are-coming-to-switch-online-includ",
-      "titre": "Three more Game Boy games are coming to Switch Online, including one produced by Shigeru Miyamoto",
-      "url": "https://www.videogameschronicle.com/news/three-more-game-boy-games-are-coming-to-switch-online-including-one-produced-by-shigeru-miyamoto/",
-      "sources": [
-        "Nintendo Life",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 14.5,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/three-more-game-boy-games-are-coming-to-switch-online-including-one-produced-by-shigeru-miyamoto/",
-          "titre": "Three more Game Boy games are coming to Switch Online, including one produced by Shigeru Miyamoto"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendo-expands-switch-onlines-game-boy-library-with-three-more-titles",
-          "titre": "Nintendo Expands Switch Online's Game Boy Library With Three More Titles"
-        }
-      ]
-    },
-    {
-      "id": "following-shock-bioware-closure-scope-of-ea-job-cuts-becomes",
-      "titre": "Following shock BioWare closure, scope of EA job cuts becomes clear as layoffs hit Respawn, Maxis, Full Circle, EA Motive, and more",
-      "url": "https://www.eurogamer.net/ea-cuts-massive-ripple-effect-motive-full-circle-respawn",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 35.3,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/ea-cuts-massive-ripple-effect-motive-full-circle-respawn",
-          "titre": "Following shock BioWare closure, scope of EA job cuts becomes clear as layoffs hit Respawn, Maxis, Full Circle, EA Motive, and more"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-s-shigeru-miyamoto-says-even-if-gen-ai-were-to-even",
-      "titre": "Nintendo's Shigeru Miyamoto says even if gen-AI \"were to eventually handle everything, there will always be a role left\" for human designers",
-      "url": "https://www.eurogamer.net/nintendo-shigeru-miyamoto-gen-ai",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/nintendo-shigeru-miyamoto-gen-ai",
-          "titre": "Nintendo's Shigeru Miyamoto says even if gen-AI \"were to eventually handle everything, there will always be a role left\" for human designers"
-        }
-      ]
-    },
-    {
-      "id": "with-minecraft-and-diablo-shows-already-on-the-way-netflix-r",
-      "titre": "With Minecraft and Diablo shows already on the way, Netflix reportedly offered Xbox $500m for a bigger film and TV deal",
-      "url": "https://www.eurogamer.net/netflix-500m-xbox-film-tv-rights",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 4.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/netflix-500m-xbox-film-tv-rights",
-          "titre": "With Minecraft and Diablo shows already on the way, Netflix reportedly offered Xbox $500m for a bigger film and TV deal"
-        }
-      ]
-    },
-    {
       "id": "gamemaker-s-gmrt-runtime-will-soon-be-free-for-all-developer",
       "titre": "GameMaker's GMRT runtime will soon be free for all developers",
       "url": "https://www.gamedeveloper.com/programming/gamemaker-s-gmrt-runtime-will-soon-be-free-for-all-commercial-devs",
@@ -312,7 +306,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 5.2,
+      "heures": 10.6,
       "chaleur": 7,
       "liens": [
         {
@@ -335,13 +329,67 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 11.4,
       "chaleur": 7,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/what-a-loss-for-all-of-us-boss-of-baldurs-gate-3-maker-reacts-to-bioware-closure",
           "titre": "'What a Loss for All of Us': Boss of Baldur's Gate 3 Maker Reacts to BioWare Closure"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-s-shigeru-miyamoto-says-even-if-gen-ai-were-to-even",
+      "titre": "Nintendo's Shigeru Miyamoto says even if gen-AI \"were to eventually handle everything, there will always be a role left\" for human designers",
+      "url": "https://www.eurogamer.net/nintendo-shigeru-miyamoto-gen-ai",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 8.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/nintendo-shigeru-miyamoto-gen-ai",
+          "titre": "Nintendo's Shigeru Miyamoto says even if gen-AI \"were to eventually handle everything, there will always be a role left\" for human designers"
+        }
+      ]
+    },
+    {
+      "id": "countdown-zelda-ocarina-of-time-dungeon-crawl-6-forget-the-h",
+      "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #6 - Forget The Hate, It Still Floats My Boat",
+      "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-6-forget-the-hate-it-still-floats-my-boat",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 11.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-6-forget-the-hate-it-still-floats-my-boat",
+          "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #6 - Forget The Hate, It Still Floats My Boat"
+        }
+      ]
+    },
+    {
+      "id": "we-re-victims-of-xbox-s-change-in-strategy-dishonored-dev-h",
+      "titre": "'We're Victims of Xbox's Change in Strategy': Dishonored Dev Has Weeks to Save Itself",
+      "url": "https://www.pushsquare.com/news/2026/10/were-victims-of-xboxs-change-in-strategy-dishonored-dev-has-weeks-to-save-itself",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 11.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/were-victims-of-xboxs-change-in-strategy-dishonored-dev-has-weeks-to-save-itself",
+          "titre": "'We're Victims of Xbox's Change in Strategy': Dishonored Dev Has Weeks to Save Itself"
         }
       ]
     },
@@ -353,8 +401,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.1,
-      "chaleur": 7,
+      "heures": 12.4,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
@@ -371,8 +419,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.3,
-      "chaleur": 7,
+      "heures": 13.7,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -390,8 +438,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 8.8,
-      "chaleur": 7,
+      "heures": 14.2,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
@@ -414,8 +462,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 10.3,
-      "chaleur": 7,
+      "heures": 15.7,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
@@ -430,168 +478,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "mass-effect-5-was-set-in-a-galactic-cold-war-new-leak-claims",
-      "titre": "Mass Effect 5 was set in a 'galactic Cold War,' new leak claims, and all 3 endings were wrapped into 1",
-      "url": "https://www.pcgamer.com/games/mass-effect/mass-effect-5-was-set-in-a-galactic-cold-war-new-leak-claims-and-all-3-endings-were-wrapped-into-1/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/mass-effect/mass-effect-5-was-set-in-a-galactic-cold-war-new-leak-claims-and-all-3-endings-were-wrapped-into-1/",
-          "titre": "Mass Effect 5 was set in a 'galactic Cold War,' new leak claims, and all 3 endings were wrapped into 1"
-        }
-      ]
-    },
-    {
-      "id": "based-on-player-data-capcom-s-pretty-happy-with-the-difficul",
-      "titre": "Based on player data, Capcom's pretty happy with the difficulty level of Onimusha: Way of the Sword: 'We think it's hit the right spot'",
-      "url": "https://www.pcgamer.com/games/action/based-on-player-data-capcoms-pretty-happy-with-the-difficulty-level-of-onimusha-way-of-the-sword-we-think-its-hit-the-right-spot/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/based-on-player-data-capcoms-pretty-happy-with-the-difficulty-level-of-onimusha-way-of-the-sword-we-think-its-hit-the-right-spot/",
-          "titre": "Based on player data, Capcom's pretty happy with the difficulty level of Onimusha: Way of the Sword: 'We think it's hit the right spot'"
-        }
-      ]
-    },
-    {
-      "id": "it-s-our-new-daily-game-fixation-and-we-all-stink-at-it-can",
-      "titre": "It's our new daily game fixation and we all stink at it: Can you guess how much used cars cost?",
-      "url": "https://www.pcgamer.com/games/puzzle/its-our-new-daily-game-fixation-and-we-all-stink-at-it-can-you-guess-how-much-used-cars-cost/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/puzzle/its-our-new-daily-game-fixation-and-we-all-stink-at-it-can-you-guess-how-much-used-cars-cost/",
-          "titre": "It's our new daily game fixation and we all stink at it: Can you guess how much used cars cost?"
-        }
-      ]
-    },
-    {
-      "id": "every-single-week-it-s-going-to-feel-like-the-sky-is-fallin",
-      "titre": "'Every single week it's going to feel like the sky is falling': Cloudflare CEO says strap in for 'a couple years' of AI-powered internet security mayhem",
-      "url": "https://www.pcgamer.com/software/security/every-single-week-its-going-to-feel-like-the-sky-is-falling-cloudflare-ceo-says-strap-in-for-a-couple-years-of-ai-powered-internet-security-mayhem/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/security/every-single-week-its-going-to-feel-like-the-sky-is-falling-cloudflare-ceo-says-strap-in-for-a-couple-years-of-ai-powered-internet-security-mayhem/",
-          "titre": "'Every single week it's going to feel like the sky is falling': Cloudflare CEO says strap in for 'a couple years' of AI-powered internet security mayhem"
-        }
-      ]
-    },
-    {
-      "id": "countdown-zelda-ocarina-of-time-dungeon-crawl-6-forget-the-h",
-      "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #6 - Forget The Hate, It Still Floats My Boat",
-      "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-6-forget-the-hate-it-still-floats-my-boat",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 6.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-6-forget-the-hate-it-still-floats-my-boat",
-          "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #6 - Forget The Hate, It Still Floats My Boat"
-        }
-      ]
-    },
-    {
-      "id": "we-re-victims-of-xbox-s-change-in-strategy-dishonored-dev-h",
-      "titre": "'We're Victims of Xbox's Change in Strategy': Dishonored Dev Has Weeks to Save Itself",
-      "url": "https://www.pushsquare.com/news/2026/10/were-victims-of-xboxs-change-in-strategy-dishonored-dev-has-weeks-to-save-itself",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 6.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/were-victims-of-xboxs-change-in-strategy-dishonored-dev-has-weeks-to-save-itself",
-          "titre": "'We're Victims of Xbox's Change in Strategy': Dishonored Dev Has Weeks to Save Itself"
-        }
-      ]
-    },
-    {
-      "id": "xbox-wanted-800-million-from-netflix-for-7-years-of-its-bigg",
-      "titre": "Xbox wanted $800 million from Netflix for 7 years of its biggest characters, it’s claimed",
-      "url": "https://www.videogameschronicle.com/news/xbox-wanted-800-million-from-netflix-for-7-years-of-its-biggest-characters-its-claimed/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 7.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/xbox-wanted-800-million-from-netflix-for-7-years-of-its-biggest-characters-its-claimed/",
-          "titre": "Xbox wanted $800 million from Netflix for 7 years of its biggest characters, it’s claimed"
-        }
-      ]
-    },
-    {
-      "id": "arkane-survival-negotiations-reportedly-seeing-several-forms",
-      "titre": "Arkane survival negotiations reportedly seeing \"several forms of takeover\" considered ahead of November deadline, as Marvel's Blade production nears end",
-      "url": "https://www.rockpapershotgun.com/arkane-survival-negotiations-reportedly-seeing-several-forms-of-takeover-considered-ahead-of-november-deadline-as-marvels-blade-production-nears-end",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 8.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/arkane-survival-negotiations-reportedly-seeing-several-forms-of-takeover-considered-ahead-of-november-deadline-as-marvels-blade-production-nears-end",
-          "titre": "Arkane survival negotiations reportedly seeing \"several forms of takeover\" considered ahead of November deadline, as Marvel's Blade production nears end"
-        }
-      ]
-    },
-    {
-      "id": "review-village-in-the-shade-switch-2-a-farm-sim-that-plays-w",
-      "titre": "Review: Village In The Shade (Switch 2) - A Farm Sim That Plays With Cosy Tropes In Clever Ways",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/village-in-the-shade",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/village-in-the-shade",
-          "titre": "Review: Village In The Shade (Switch 2) - A Farm Sim That Plays With Cosy Tropes In Clever Ways"
-        }
-      ]
-    },
-    {
       "id": "a-line-held-tight-is-a-charcoal-visual-novel-about-a-miner-s",
       "titre": "A Line Held Tight is a charcoal visual novel about a miner's strike in the 32nd century and choosing your relationships wisely",
       "url": "https://www.rockpapershotgun.com/a-line-held-tight-is-a-charcoal-visual-novel-about-a-miners-strike-in-the-32nd-century-and-choosing-your-relationships-wisely",
@@ -599,7 +485,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 25.2,
+      "heures": 30.6,
       "chaleur": 6,
       "liens": [
         {
@@ -617,7 +503,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 27.6,
+      "heures": 32.9,
       "chaleur": 6,
       "liens": [
         {
@@ -628,62 +514,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "despite-its-mixed-reception-marvel-s-wolverine-was-september",
-      "titre": "Despite its mixed reception, Marvel's Wolverine was September's top-selling new game in the US, making Sony launch revenues it hasn't seen since Helldivers 2",
-      "url": "https://www.eurogamer.net/marvels-wolverine-top-seling-september-us-circana",
+      "id": "xbox-wanted-800-million-from-netflix-for-7-years-of-its-bigg",
+      "titre": "Xbox wanted $800 million from Netflix for 7 years of its biggest characters, it’s claimed",
+      "url": "https://www.videogameschronicle.com/news/xbox-wanted-800-million-from-netflix-for-7-years-of-its-biggest-characters-its-claimed/",
       "sources": [
-        "Eurogamer",
-        "GamesIndustry.biz"
-      ],
-      "reprises": 2,
-      "heures": 33.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/marvels-wolverine-top-seling-september-us-circana",
-          "titre": "Despite its mixed reception, Marvel's Wolverine was September's top-selling new game in the US, making Sony launch revenues it hasn't seen since Helldivers 2"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/marvels-wolverine-leads-us-september-charts-achieves-highest-monthly-dollar-sales-for-a-sony-published-title-since-helldivers-2",
-          "titre": "Marvel's Wolverine leads US September charts, achieves highest monthly dollar sales for a Sony-published title since Helldivers 2"
-        }
-      ]
-    },
-    {
-      "id": "games-industry-mourns-sudden-bioware-closure-anyone-who-part",
-      "titre": "Games industry mourns sudden BioWare closure - \"Anyone who participated in this travesty should be ashamed\"",
-      "url": "https://www.eurogamer.net/video-game-industry-reacts-to-bioware-closure",
-      "sources": [
-        "Eurogamer"
+        "VGC"
       ],
       "reprises": 1,
-      "heures": 34.1,
-      "chaleur": 6,
+      "heures": 13.0,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/video-game-industry-reacts-to-bioware-closure",
-          "titre": "Games industry mourns sudden BioWare closure - \"Anyone who participated in this travesty should be ashamed\""
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/xbox-wanted-800-million-from-netflix-for-7-years-of-its-biggest-characters-its-claimed/",
+          "titre": "Xbox wanted $800 million from Netflix for 7 years of its biggest characters, it’s claimed"
         }
       ]
     },
     {
-      "id": "psa-hitman-absolution-s-switch-2-upgrade-path-is-free-for-no",
-      "titre": "PSA: Hitman: Absolution's Switch 2 Upgrade Path Is Free For Now, But Be Quick!",
-      "url": "https://www.nintendolife.com/news/2026/10/psa-hitman-absolutions-switch-2-upgrade-path-is-free-for-now-but-be-quick",
+      "id": "arkane-survival-negotiations-reportedly-seeing-several-forms",
+      "titre": "Arkane survival negotiations reportedly seeing \"several forms of takeover\" considered ahead of November deadline, as Marvel's Blade production nears end",
+      "url": "https://www.rockpapershotgun.com/arkane-survival-negotiations-reportedly-seeing-several-forms-of-takeover-considered-ahead-of-november-deadline-as-marvels-blade-production-nears-end",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 13.7,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/arkane-survival-negotiations-reportedly-seeing-several-forms-of-takeover-considered-ahead-of-november-deadline-as-marvels-blade-production-nears-end",
+          "titre": "Arkane survival negotiations reportedly seeing \"several forms of takeover\" considered ahead of November deadline, as Marvel's Blade production nears end"
+        }
+      ]
+    },
+    {
+      "id": "review-village-in-the-shade-switch-2-a-farm-sim-that-plays-w",
+      "titre": "Review: Village In The Shade (Switch 2) - A Farm Sim That Plays With Cosy Tropes In Clever Ways",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/village-in-the-shade",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.1,
+      "heures": 15.4,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/psa-hitman-absolutions-switch-2-upgrade-path-is-free-for-now-but-be-quick",
-          "titre": "PSA: Hitman: Absolution's Switch 2 Upgrade Path Is Free For Now, But Be Quick!"
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/village-in-the-shade",
+          "titre": "Review: Village In The Shade (Switch 2) - A Farm Sim That Plays With Cosy Tropes In Clever Ways"
         }
       ]
     },
@@ -695,7 +575,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.2,
+      "heures": 25.5,
       "chaleur": 5,
       "liens": [
         {
@@ -713,7 +593,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.6,
+      "heures": 27.9,
       "chaleur": 5,
       "liens": [
         {
@@ -731,7 +611,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.3,
+      "heures": 34.7,
       "chaleur": 5,
       "liens": [
         {
@@ -742,38 +622,92 @@ const VEILLE = {
       ]
     },
     {
-      "id": "review-steins-gate-re-boot-switch-2-the-timeless-visual-nove",
-      "titre": "Review: Steins;Gate Re:Boot (Switch 2) - The Timeless Visual Novel Gets A Fresh Lick Of Paint",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/steinsgate-reboot",
+      "id": "talking-point-what-are-you-playing-this-weekend-issue-655",
+      "titre": "Talking Point: What Are You Playing This Weekend? - Issue 655",
+      "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-655",
       "sources": [
-        "Nintendo Life"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 30.1,
-      "chaleur": 5,
+      "heures": 5.4,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/steinsgate-reboot",
-          "titre": "Review: Steins;Gate Re:Boot (Switch 2) - The Timeless Visual Novel Gets A Fresh Lick Of Paint"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-655",
+          "titre": "Talking Point: What Are You Playing This Weekend? - Issue 655"
         }
       ]
     },
     {
-      "id": "nintendo-download-22nd-october-north-america",
-      "titre": "Nintendo Download: 22nd October (North America)",
-      "url": "https://www.nintendolife.com/news/2026/10/nintendo-download-22nd-october-north-america",
+      "id": "mass-effect-5-was-set-in-a-galactic-cold-war-new-leak-claims",
+      "titre": "Mass Effect 5 was set in a 'galactic Cold War,' new leak claims, and all 3 endings were wrapped into 1",
+      "url": "https://www.pcgamer.com/games/mass-effect/mass-effect-5-was-set-in-a-galactic-cold-war-new-leak-claims-and-all-3-endings-were-wrapped-into-1/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 31.1,
-      "chaleur": 5,
+      "heures": 6.5,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendo-download-22nd-october-north-america",
-          "titre": "Nintendo Download: 22nd October (North America)"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/mass-effect/mass-effect-5-was-set-in-a-galactic-cold-war-new-leak-claims-and-all-3-endings-were-wrapped-into-1/",
+          "titre": "Mass Effect 5 was set in a 'galactic Cold War,' new leak claims, and all 3 endings were wrapped into 1"
+        }
+      ]
+    },
+    {
+      "id": "based-on-player-data-capcom-s-pretty-happy-with-the-difficul",
+      "titre": "Based on player data, Capcom's pretty happy with the difficulty level of Onimusha: Way of the Sword: 'We think it's hit the right spot'",
+      "url": "https://www.pcgamer.com/games/action/based-on-player-data-capcoms-pretty-happy-with-the-difficulty-level-of-onimusha-way-of-the-sword-we-think-its-hit-the-right-spot/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/based-on-player-data-capcoms-pretty-happy-with-the-difficulty-level-of-onimusha-way-of-the-sword-we-think-its-hit-the-right-spot/",
+          "titre": "Based on player data, Capcom's pretty happy with the difficulty level of Onimusha: Way of the Sword: 'We think it's hit the right spot'"
+        }
+      ]
+    },
+    {
+      "id": "it-s-our-new-daily-game-fixation-and-we-all-stink-at-it-can",
+      "titre": "It's our new daily game fixation and we all stink at it: Can you guess how much used cars cost?",
+      "url": "https://www.pcgamer.com/games/puzzle/its-our-new-daily-game-fixation-and-we-all-stink-at-it-can-you-guess-how-much-used-cars-cost/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 8.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/puzzle/its-our-new-daily-game-fixation-and-we-all-stink-at-it-can-you-guess-how-much-used-cars-cost/",
+          "titre": "It's our new daily game fixation and we all stink at it: Can you guess how much used cars cost?"
+        }
+      ]
+    },
+    {
+      "id": "every-single-week-it-s-going-to-feel-like-the-sky-is-fallin",
+      "titre": "'Every single week it's going to feel like the sky is falling': Cloudflare CEO says strap in for 'a couple years' of AI-powered internet security mayhem",
+      "url": "https://www.pcgamer.com/software/security/every-single-week-its-going-to-feel-like-the-sky-is-falling-cloudflare-ceo-says-strap-in-for-a-couple-years-of-ai-powered-internet-security-mayhem/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 9.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/security/every-single-week-its-going-to-feel-like-the-sky-is-falling-cloudflare-ceo-says-strap-in-for-a-couple-years-of-ai-powered-internet-security-mayhem/",
+          "titre": "'Every single week it's going to feel like the sky is falling': Cloudflare CEO says strap in for 'a couple years' of AI-powered internet security mayhem"
         }
       ]
     },
@@ -785,7 +719,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 10.5,
       "chaleur": 4,
       "liens": [
         {
@@ -803,7 +737,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 10.9,
       "chaleur": 4,
       "liens": [
         {
@@ -821,7 +755,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 11.0,
       "chaleur": 4,
       "liens": [
         {
@@ -839,7 +773,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 11.6,
       "chaleur": 4,
       "liens": [
         {
@@ -857,7 +791,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -875,7 +809,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 12.0,
       "chaleur": 4,
       "liens": [
         {
@@ -893,8 +827,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.9,
-      "chaleur": 4,
+      "heures": 12.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -911,8 +845,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.0,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -929,8 +863,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.8,
-      "chaleur": 4,
+      "heures": 13.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -947,8 +881,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.9,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -965,8 +899,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 8.0,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -983,8 +917,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.1,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -1001,8 +935,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.1,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1019,8 +953,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.3,
-      "chaleur": 4,
+      "heures": 13.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1037,8 +971,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.5,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1055,8 +989,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 9.8,
-      "chaleur": 4,
+      "heures": 15.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -1073,8 +1007,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 4,
+      "heures": 15.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1091,8 +1025,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 4,
+      "heures": 15.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -1109,8 +1043,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 4,
+      "heures": 15.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1127,8 +1061,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.7,
-      "chaleur": 4,
+      "heures": 16.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1145,8 +1079,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 4,
+      "heures": 16.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -1163,8 +1097,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 4,
+      "heures": 17.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1181,7 +1115,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 17.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1190,9 +1124,61 @@ const VEILLE = {
           "titre": "\"What if Larian had shut down after Divine Divinity?\": Star Trek Online exec scorns publishers who close teams like BioWare in favour of \"AAA veteran\" start-ups and AI \"magic beans\""
         }
       ]
+    },
+    {
+      "id": "ff-resonance-beat-citrine-pot-enemies",
+      "titre": "FF Resonance: Beat Citrine Pot enemies",
+      "url": "https://www.videogameschronicle.com/guide/ff-resonance-beat-citrine-pot-enemies/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 18.3,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/ff-resonance-beat-citrine-pot-enemies/",
+          "titre": "FF Resonance: Beat Citrine Pot enemies"
+        }
+      ]
+    },
+    {
+      "id": "shigeru-miyamoto-explains-why-ai-won-t-make-human-creativity",
+      "titre": "Shigeru Miyamoto explains why AI won’t make human creativity obsolete",
+      "url": "https://www.videogameschronicle.com/news/shigeru-miyamoto-explains-why-ai-wont-make-human-creativity-obsolete/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 18.7,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/shigeru-miyamoto-explains-why-ai-wont-make-human-creativity-obsolete/",
+          "titre": "Shigeru Miyamoto explains why AI won’t make human creativity obsolete"
+        }
+      ]
+    },
+    {
+      "id": "cyberpunk-2077-s-new-dual-wielding-has-already-been-modded-t",
+      "titre": "Cyberpunk 2077's new dual wielding has already been modded to include shotguns and rifles, provided you're down to get \"janky and wildly overpowered\"",
+      "url": "https://www.rockpapershotgun.com/cyberpunk-2077s-new-dual-wielding-has-already-been-modded-to-include-shotguns-and-rifles-provided-youre-down-to-get-janky-and-wildly-overpowered",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 18.9,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/cyberpunk-2077s-new-dual-wielding-has-already-been-modded-to-include-shotguns-and-rifles-provided-youre-down-to-get-janky-and-wildly-overpowered",
+          "titre": "Cyberpunk 2077's new dual wielding has already been modded to include shotguns and rifles, provided you're down to get \"janky and wildly overpowered\""
+        }
+      ]
     }
   ],
-  "alertes": [
-    "Time could be running out for Arkane"
-  ]
+  "alertes": []
 };
