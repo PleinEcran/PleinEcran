@@ -1,26 +1,25 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "24/10/2026 à 10h49",
+  "collecte": "24/10/2026 à 15h50",
   "seuil": 14,
   "sujets": [
     {
-      "id": "mass-effect-crossover-items-have-seemingly-been-removed-from",
-      "titre": "Mass Effect crossover items have seemingly been removed from Battlefield 6 following EA's sudden closure of BioWare",
-      "url": "https://www.eurogamer.net/mass-effect-battlefield-6-crossover-bioware-closure",
+      "id": "mass-effect-universe-looked-incredible-says-creator-who-clai",
+      "titre": "Mass Effect Universe \"looked incredible\" says creator who claims he advised BioWare",
+      "url": "https://www.eurogamer.net/mass-effect-universe-details-dantics-claims",
       "sources": [
         "Eurogamer",
         "Nintendo Life",
-        "Push Square",
         "VGC"
       ],
-      "reprises": 4,
-      "heures": 17.5,
-      "chaleur": 18,
+      "reprises": 3,
+      "heures": 1.4,
+      "chaleur": 15,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/mass-effect-battlefield-6-crossover-bioware-closure",
-          "titre": "Mass Effect crossover items have seemingly been removed from Battlefield 6 following EA's sudden closure of BioWare"
+          "url": "https://www.eurogamer.net/mass-effect-universe-details-dantics-claims",
+          "titre": "Mass Effect Universe \"looked incredible\" says creator who claims he advised BioWare"
         },
         {
           "source": "VGC",
@@ -31,11 +30,36 @@ const VEILLE = {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/mass-effect-universe-trailer-leaked-online-as-bioware-shuts-down",
           "titre": "Mass Effect: Universe Trailer Leaked Online As BioWare Shuts Down"
+        }
+      ]
+    },
+    {
+      "id": "psa-call-of-duty-modern-warfare-4-switch-2-update-now-live",
+      "titre": "PSA: Call Of Duty: Modern Warfare 4 Switch 2 Update Now Live",
+      "url": "https://www.nintendolife.com/news/2026/10/psa-call-of-duty-modern-warfare-4-switch-2-update-now-live",
+      "sources": [
+        "GamesIndustry.biz",
+        "Nintendo Life",
+        "Push Square"
+      ],
+      "reprises": 3,
+      "heures": 0.8,
+      "chaleur": 14,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/psa-call-of-duty-modern-warfare-4-switch-2-update-now-live",
+          "titre": "PSA: Call Of Duty: Modern Warfare 4 Switch 2 Update Now Live"
         },
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/leaked-mass-effect-5-trailer-is-real-offers-glimpse-of-cancelled-game",
-          "titre": "Leaked Mass Effect 5 Trailer Is Real, Offers Glimpse of Cancelled Game"
+          "url": "https://www.pushsquare.com/news/2026/10/call-of-duty-modern-warfare-4s-multiplayer-unlocked-early-but-feedback-has-been-brutal-so-far",
+          "titre": "Call of Duty: Modern Warfare 4's Multiplayer Unlocked Early, But Feedback Has Been Brutal So Far"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/call-of-duty-modern-warfare-4-critical-consensus",
+          "titre": "Call of Duty: Modern Warfare 4 | Critical Consensus"
         }
       ]
     },
@@ -48,7 +72,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 16.7,
+      "heures": 21.7,
       "chaleur": 13,
       "liens": [
         {
@@ -73,8 +97,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 1.8,
-      "chaleur": 12,
+      "heures": 6.8,
+      "chaleur": 10,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -94,32 +118,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "call-of-duty-modern-warfare-4-actually-runs-pretty-smoothly",
-      "titre": "Call of Duty: Modern Warfare 4 actually runs pretty smoothly with Activision's 'recommended' RTX 3060 Ti graphics card, and here are the settings I use to get the best performance from it",
-      "url": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-modern-warfare-4-actually-runs-pretty-smoothly-with-activisions-recommended-rtx-3060-ti-graphics-card-and-here-are-the-settings-i-use-to-get-the-best-performance-from-it/",
+      "id": "after-14-years-of-development-factorio-s-final-major-update",
+      "titre": "After 14 years of development, Factorio's final major update is out now",
+      "url": "https://www.pcgamer.com/games/survival-crafting/after-14-years-of-development-factorios-final-major-update-is-out-now/",
       "sources": [
-        "GamesIndustry.biz",
-        "Nintendo Life",
-        "PC Gamer"
+        "PC Gamer",
+        "Rock Paper Shotgun"
       ],
-      "reprises": 3,
-      "heures": 18.6,
-      "chaleur": 12,
+      "reprises": 2,
+      "heures": 3.7,
+      "chaleur": 9,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-modern-warfare-4-actually-runs-pretty-smoothly-with-activisions-recommended-rtx-3060-ti-graphics-card-and-here-are-the-settings-i-use-to-get-the-best-performance-from-it/",
-          "titre": "Call of Duty: Modern Warfare 4 actually runs pretty smoothly with Activision's 'recommended' RTX 3060 Ti graphics card, and here are the settings I use to get the best performance from it"
+          "url": "https://www.pcgamer.com/games/survival-crafting/after-14-years-of-development-factorios-final-major-update-is-out-now/",
+          "titre": "After 14 years of development, Factorio's final major update is out now"
         },
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/call-of-duty-modern-warfare-4-critical-consensus",
-          "titre": "Call of Duty: Modern Warfare 4 | Critical Consensus"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/call-of-duty-modern-warfare-4",
-          "titre": "Review: Call Of Duty: Modern Warfare 4 (Switch 2) - Best-In-Class Bombast That Doesn't Shortchange Nintendo Gamers"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/factorios-final-major-update-has-rolled-off-the-assembly-line-adding-the-things-we-wanted-to-do-for-20-but-didnt-have-time-for",
+          "titre": "Factorio's final major update has rolled off the assembly line, adding \"the things we wanted to do for 2.0 but didn't have time for\""
         }
       ]
     },
@@ -133,7 +151,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 3,
-      "heures": 19.1,
+      "heures": 24.1,
       "chaleur": 9,
       "liens": [
         {
@@ -154,20 +172,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "final-battle-nintendo-music-expands-its-library-with-the-ar",
-      "titre": "\"Final Battle\" - Nintendo Music Expands Its Library With The ARMS Soundtrack",
-      "url": "https://www.nintendolife.com/news/2026/10/final-battle-nintendo-music-expands-its-library-with-the-arms-soundtrack",
+      "id": "are-we-in-the-cozy-gaming-gold-rush-era-cozy-has-grown-over",
+      "titre": "Are we in the cozy gaming gold rush era? 'Cozy' has grown over 250% on Steam and 200% in my inbox since 2024",
+      "url": "https://www.pcgamer.com/games/life-sim/are-we-in-the-cozy-gaming-gold-rush-era-cozy-has-grown-over-250-percent-on-steam-and-200-percent-in-my-inbox-since-2024/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.8,
+      "heures": 0.7,
       "chaleur": 8,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/final-battle-nintendo-music-expands-its-library-with-the-arms-soundtrack",
-          "titre": "\"Final Battle\" - Nintendo Music Expands Its Library With The ARMS Soundtrack"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/life-sim/are-we-in-the-cozy-gaming-gold-rush-era-cozy-has-grown-over-250-percent-on-steam-and-200-percent-in-my-inbox-since-2024/",
+          "titre": "Are we in the cozy gaming gold rush era? 'Cozy' has grown over 250% on Steam and 200% in my inbox since 2024"
+        }
+      ]
+    },
+    {
+      "id": "xbox-s-first-chief-operating-officer-helen-chiang-leaves-mic",
+      "titre": "Xbox's first chief operating officer Helen Chiang leaves Microsoft just three months into the job",
+      "url": "https://www.eurogamer.net/xbox-coo-helen-chiang-leaves-microsoft",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 2.9,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-coo-helen-chiang-leaves-microsoft",
+          "titre": "Xbox's first chief operating officer Helen Chiang leaves Microsoft just three months into the job"
         }
       ]
     },
@@ -180,7 +216,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 14.7,
+      "heures": 19.7,
       "chaleur": 8,
       "liens": [
         {
@@ -204,7 +240,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 21.7,
+      "heures": 26.7,
       "chaleur": 8,
       "liens": [
         {
@@ -220,24 +256,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-legend-of-zelda-ocarina-of-time-switch-2-esrb-rating-sum",
-      "titre": "The Legend Of Zelda: Ocarina Of Time Switch 2 ESRB Rating Summary Published",
-      "url": "https://www.nintendolife.com/news/2026/10/the-legend-of-zelda-ocarina-of-time-switch-2-esrb-rating-summary-published",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/the-legend-of-zelda-ocarina-of-time-switch-2-esrb-rating-summary-published",
-          "titre": "The Legend Of Zelda: Ocarina Of Time Switch 2 ESRB Rating Summary Published"
-        }
-      ]
-    },
-    {
       "id": "with-minecraft-and-diablo-shows-already-on-the-way-netflix-r",
       "titre": "With Minecraft and Diablo shows already on the way, Netflix reportedly offered Xbox $500m for a bigger film and TV deal",
       "url": "https://www.eurogamer.net/netflix-500m-xbox-film-tv-rights",
@@ -245,7 +263,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.2,
+      "heures": 21.2,
       "chaleur": 7,
       "liens": [
         {
@@ -256,38 +274,200 @@ const VEILLE = {
       ]
     },
     {
-      "id": "what-we-ve-been-playing-shoving-moon-flesh-into-an-alien-gra",
-      "titre": "What we've been playing - \"Shoving Moon Flesh into an alien grandma's mouth\"",
-      "url": "https://www.eurogamer.net/what-weve-been-playing-warframe-over-the-hill-switch-sports-resort",
+      "id": "the-mouse-p-i-for-hire-from-mouse-p-i-for-hire-joins-the-mea",
+      "titre": "The mouse P.I. for hire from Mouse: P.I. For Hire joins the meat boy from Super Meat Boy 3D in gaming's latest indie crossover",
+      "url": "https://www.pcgamer.com/games/action/the-mouse-p-i-for-hire-from-mouse-p-i-for-hire-joins-the-meat-boy-from-super-meat-boy-3d-in-gamings-latest-indie-crossover/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/the-mouse-p-i-for-hire-from-mouse-p-i-for-hire-joins-the-meat-boy-from-super-meat-boy-3d-in-gamings-latest-indie-crossover/",
+          "titre": "The mouse P.I. for hire from Mouse: P.I. For Hire joins the meat boy from Super Meat Boy 3D in gaming's latest indie crossover"
+        }
+      ]
+    },
+    {
+      "id": "japan-actors-union-pushes-for-heavy-restrictions-on-ai-copyi",
+      "titre": "Japan Actors Union pushes for heavy restrictions on AI copying dead actors",
+      "url": "https://www.pcgamer.com/software/ai/japan-actors-union-pushes-for-heavy-restrictions-on-ai-copying-dead-actors/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/japan-actors-union-pushes-for-heavy-restrictions-on-ai-copying-dead-actors/",
+          "titre": "Japan Actors Union pushes for heavy restrictions on AI copying dead actors"
+        }
+      ]
+    },
+    {
+      "id": "feature-star-wars-galactic-racer-is-the-blueprint-for-a-new",
+      "titre": "Feature: Star Wars: Galactic Racer Is the Blueprint for a New Burnout, and I Need It to Happen",
+      "url": "https://www.pushsquare.com/features/star-wars-galactic-racer-is-the-blueprint-for-a-new-burnout-and-i-need-it-to-happen",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/star-wars-galactic-racer-is-the-blueprint-for-a-new-burnout-and-i-need-it-to-happen",
+          "titre": "Feature: Star Wars: Galactic Racer Is the Blueprint for a New Burnout, and I Need It to Happen"
+        }
+      ]
+    },
+    {
+      "id": "the-best-feature-in-the-original-alan-wake-is-an-absence-the",
+      "titre": "The best feature in the original Alan Wake is an absence: the man has no reticle",
+      "url": "https://www.pcgamer.com/games/horror/the-best-feature-in-the-original-alan-wake-is-an-absence-the-man-has-no-reticle/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/the-best-feature-in-the-original-alan-wake-is-an-absence-the-man-has-no-reticle/",
+          "titre": "The best feature in the original Alan Wake is an absence: the man has no reticle"
+        }
+      ]
+    },
+    {
+      "id": "i-drank-from-the-chalice-of-blood-indie-dev-scrubs-his-game",
+      "titre": "'I drank from the chalice of blood': indie dev scrubs his game of AI-generated voice lines, having previously described the technology as 'anti-human and anti-art'",
+      "url": "https://www.pcgamer.com/gaming-industry/game-development/i-drank-from-the-chalice-of-blood-indie-dev-scrubs-his-game-of-ai-generated-voice-lines-having-previously-described-the-technology-as-anti-human-and-anti-art/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/game-development/i-drank-from-the-chalice-of-blood-indie-dev-scrubs-his-game-of-ai-generated-voice-lines-having-previously-described-the-technology-as-anti-human-and-anti-art/",
+          "titre": "'I drank from the chalice of blood': indie dev scrubs his game of AI-generated voice lines, having previously described the technology as 'anti-human and anti-art'"
+        }
+      ]
+    },
+    {
+      "id": "mass-effect-3-ending-discourse-ignored-the-rpg-s-scale-ambit",
+      "titre": "Mass Effect 3 ending discourse ignored the RPG's scale, ambition, and exuberance, including that of its oddly great co-op",
+      "url": "https://www.rockpapershotgun.com/mass-effect-3-ending-discourse-ignored-the-rpgs-scale-ambition-and-exuberance-including-that-of-its-oddly-great-co-op",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/mass-effect-3-ending-discourse-ignored-the-rpgs-scale-ambition-and-exuberance-including-that-of-its-oddly-great-co-op",
+          "titre": "Mass Effect 3 ending discourse ignored the RPG's scale, ambition, and exuberance, including that of its oddly great co-op"
+        }
+      ]
+    },
+    {
+      "id": "award-winning-sci-fi-author-nk-jemisin-joins-bioware-s-mourn",
+      "titre": "Award-winning sci-fi author NK Jemisin joins BioWare's mourners and scorns a broken industry for killing geese that 'laid the golden eggs'",
+      "url": "https://www.pcgamer.com/gaming-industry/award-winning-sci-fi-author-nk-jemisin-joins-biowares-mourners-and-scorns-a-broken-industry-for-killing-geese-that-laid-the-golden-eggs/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/award-winning-sci-fi-author-nk-jemisin-joins-biowares-mourners-and-scorns-a-broken-industry-for-killing-geese-that-laid-the-golden-eggs/",
+          "titre": "Award-winning sci-fi author NK Jemisin joins BioWare's mourners and scorns a broken industry for killing geese that 'laid the golden eggs'"
+        }
+      ]
+    },
+    {
+      "id": "prime-video-s-fallout-reality-competition-fallout-shelter-th",
+      "titre": "Prime Video's Fallout reality competition Fallout Shelter: The Experiment premieres in January",
+      "url": "https://www.eurogamer.net/fallout-shelter-the-experiment-prime-video-release-date",
       "sources": [
         "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 2.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/fallout-shelter-the-experiment-prime-video-release-date",
+          "titre": "Prime Video's Fallout reality competition Fallout Shelter: The Experiment premieres in January"
+        }
+      ]
+    },
+    {
+      "id": "feature-15-years-ago-return-to-dream-land-ushered-in-kirby-s",
+      "titre": "Feature: 15 Years Ago, 'Return To Dream Land' Ushered In Kirby's Golden Era",
+      "url": "https://www.nintendolife.com/features/15-years-ago-return-to-dream-land-ushered-in-kirbys-golden-era",
+      "sources": [
+        "Nintendo Life"
       ],
       "reprises": 1,
       "heures": 3.8,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/what-weve-been-playing-warframe-over-the-hill-switch-sports-resort",
-          "titre": "What we've been playing - \"Shoving Moon Flesh into an alien grandma's mouth\""
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/15-years-ago-return-to-dream-land-ushered-in-kirbys-golden-era",
+          "titre": "Feature: 15 Years Ago, 'Return To Dream Land' Ushered In Kirby's Golden Era"
         }
       ]
     },
     {
-      "id": "icymi-cult-of-the-lamb-summons-a-switch-2-version-includes-f",
-      "titre": "ICYMI: Cult Of The Lamb Summons A Switch 2 Version, Includes Free Upgrade Path",
-      "url": "https://www.nintendolife.com/news/2026/10/icymi-cult-of-the-lamb-summons-a-switch-2-version-includes-free-upgrade-path",
+      "id": "final-battle-nintendo-music-expands-its-library-with-the-ar",
+      "titre": "\"Final Battle\" - Nintendo Music Expands Its Library With The ARMS Soundtrack",
+      "url": "https://www.nintendolife.com/news/2026/10/final-battle-nintendo-music-expands-its-library-with-the-arms-soundtrack",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 7.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/icymi-cult-of-the-lamb-summons-a-switch-2-version-includes-free-upgrade-path",
-          "titre": "ICYMI: Cult Of The Lamb Summons A Switch 2 Version, Includes Free Upgrade Path"
+          "url": "https://www.nintendolife.com/news/2026/10/final-battle-nintendo-music-expands-its-library-with-the-arms-soundtrack",
+          "titre": "\"Final Battle\" - Nintendo Music Expands Its Library With The ARMS Soundtrack"
+        }
+      ]
+    },
+    {
+      "id": "the-legend-of-zelda-ocarina-of-time-switch-2-esrb-rating-sum",
+      "titre": "The Legend Of Zelda: Ocarina Of Time Switch 2 ESRB Rating Summary Published",
+      "url": "https://www.nintendolife.com/news/2026/10/the-legend-of-zelda-ocarina-of-time-switch-2-esrb-rating-summary-published",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 16.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/the-legend-of-zelda-ocarina-of-time-switch-2-esrb-rating-summary-published",
+          "titre": "The Legend Of Zelda: Ocarina Of Time Switch 2 ESRB Rating Summary Published"
         }
       ]
     },
@@ -299,7 +479,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.0,
+      "heures": 17.1,
       "chaleur": 6,
       "liens": [
         {
@@ -318,7 +498,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 15.2,
+      "heures": 20.3,
       "chaleur": 6,
       "liens": [
         {
@@ -342,7 +522,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 17.0,
+      "heures": 22.0,
       "chaleur": 6,
       "liens": [
         {
@@ -358,6 +538,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "mass-effect-crossover-items-have-seemingly-been-removed-from",
+      "titre": "Mass Effect crossover items have seemingly been removed from Battlefield 6 following EA's sudden closure of BioWare",
+      "url": "https://www.eurogamer.net/mass-effect-battlefield-6-crossover-bioware-closure",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 22.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/mass-effect-battlefield-6-crossover-bioware-closure",
+          "titre": "Mass Effect crossover items have seemingly been removed from Battlefield 6 following EA's sudden closure of BioWare"
+        }
+      ]
+    },
+    {
       "id": "what-a-loss-for-all-of-us-boss-of-baldur-s-gate-3-maker-rea",
       "titre": "'What a Loss for All of Us': Boss of Baldur's Gate 3 Maker Reacts to BioWare Closure",
       "url": "https://www.pushsquare.com/news/2026/10/what-a-loss-for-all-of-us-boss-of-baldurs-gate-3-maker-reacts-to-bioware-closure",
@@ -365,7 +563,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 17.8,
+      "heures": 22.8,
       "chaleur": 6,
       "liens": [
         {
@@ -383,7 +581,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.8,
+      "heures": 23.8,
       "chaleur": 6,
       "liens": [
         {
@@ -401,7 +599,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.1,
+      "heures": 25.1,
       "chaleur": 6,
       "liens": [
         {
@@ -420,7 +618,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 22.1,
+      "heures": 27.1,
       "chaleur": 6,
       "liens": [
         {
@@ -436,6 +634,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "icymi-cult-of-the-lamb-summons-a-switch-2-version-includes-f",
+      "titre": "ICYMI: Cult Of The Lamb Summons A Switch 2 Version, Includes Free Upgrade Path",
+      "url": "https://www.nintendolife.com/news/2026/10/icymi-cult-of-the-lamb-summons-a-switch-2-version-includes-free-upgrade-path",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 12.3,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/icymi-cult-of-the-lamb-summons-a-switch-2-version-includes-free-upgrade-path",
+          "titre": "ICYMI: Cult Of The Lamb Summons A Switch 2 Version, Includes Free Upgrade Path"
+        }
+      ]
+    },
+    {
       "id": "nintendo-s-shigeru-miyamoto-says-even-if-gen-ai-were-to-even",
       "titre": "Nintendo's Shigeru Miyamoto says even if gen-AI \"were to eventually handle everything, there will always be a role left\" for human designers",
       "url": "https://www.eurogamer.net/nintendo-shigeru-miyamoto-gen-ai",
@@ -443,7 +659,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.6,
+      "heures": 19.6,
       "chaleur": 5,
       "liens": [
         {
@@ -461,7 +677,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.8,
+      "heures": 22.8,
       "chaleur": 5,
       "liens": [
         {
@@ -479,7 +695,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.3,
+      "heures": 23.3,
       "chaleur": 5,
       "liens": [
         {
@@ -497,7 +713,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 24.4,
       "chaleur": 5,
       "liens": [
         {
@@ -515,7 +731,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 20.1,
+      "heures": 25.1,
       "chaleur": 5,
       "liens": [
         {
@@ -533,7 +749,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.8,
+      "heures": 26.8,
       "chaleur": 5,
       "liens": [
         {
@@ -551,7 +767,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 26.3,
+      "heures": 31.3,
       "chaleur": 5,
       "liens": [
         {
@@ -562,20 +778,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "switch-2-supposedly-jailbroken-via-software-only-exploit",
-      "titre": "Switch 2 Supposedly Jailbroken Via Software-Only Exploit",
-      "url": "https://www.nintendolife.com/news/2026/10/switch-2-supposedly-jailbroken-via-software-only-exploit",
+      "id": "star-wars-galaxies-restoration-project-just-received-another",
+      "titre": "Star Wars Galaxies' Restoration project just received another massive update, including a huge visual upgrade and an overhaul to the Wookiees' home planet",
+      "url": "https://www.pcgamer.com/games/mmo/star-wars-galaxies-just-got-another-massive-update-thanks-to-its-community-restoration-project-including-a-huge-visual-upgrade-and-a-refurb-to-the-wookiees-home-planet/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 31.9,
-      "chaleur": 5,
+      "heures": 4.7,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/switch-2-supposedly-jailbroken-via-software-only-exploit",
-          "titre": "Switch 2 Supposedly Jailbroken Via Software-Only Exploit"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/mmo/star-wars-galaxies-just-got-another-massive-update-thanks-to-its-community-restoration-project-including-a-huge-visual-upgrade-and-a-refurb-to-the-wookiees-home-planet/",
+          "titre": "Star Wars Galaxies' Restoration project just received another massive update, including a huge visual upgrade and an overhaul to the Wookiees' home planet"
+        }
+      ]
+    },
+    {
+      "id": "guide-these-45-ps5-and-ps-plus-games-are-coming-out-next-wee",
+      "titre": "Guide: These 45+ PS5 and PS Plus Games Are Coming Out Next Week (26th-1st November)",
+      "url": "https://www.pushsquare.com/guides/these-45plus-ps5-and-ps-plus-games-are-coming-out-next-week-26th-1st-november",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/guides/these-45plus-ps5-and-ps-plus-games-are-coming-out-next-week-26th-1st-november",
+          "titre": "Guide: These 45+ PS5 and PS Plus Games Are Coming Out Next Week (26th-1st November)"
+        }
+      ]
+    },
+    {
+      "id": "what-we-ve-been-playing-shoving-moon-flesh-into-an-alien-gra",
+      "titre": "What we've been playing - \"Shoving Moon Flesh into an alien grandma's mouth\"",
+      "url": "https://www.eurogamer.net/what-weve-been-playing-warframe-over-the-hill-switch-sports-resort",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 8.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/what-weve-been-playing-warframe-over-the-hill-switch-sports-resort",
+          "titre": "What we've been playing - \"Shoving Moon Flesh into an alien grandma's mouth\""
         }
       ]
     },
@@ -587,7 +839,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.8,
+      "heures": 17.9,
       "chaleur": 3,
       "liens": [
         {
@@ -605,7 +857,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.1,
+      "heures": 18.1,
       "chaleur": 3,
       "liens": [
         {
@@ -623,7 +875,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.2,
+      "heures": 20.2,
       "chaleur": 3,
       "liens": [
         {
@@ -641,49 +893,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 20.4,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/software/security/every-single-week-its-going-to-feel-like-the-sky-is-falling-cloudflare-ceo-says-strap-in-for-a-couple-years-of-ai-powered-internet-security-mayhem/",
           "titre": "'Every single week it's going to feel like the sky is falling': Cloudflare CEO says strap in for 'a couple years' of AI-powered internet security mayhem"
-        }
-      ]
-    },
-    {
-      "id": "i-m-forever-grateful-to-bioware-16-game-developers-share-th",
-      "titre": "'I'm forever grateful to BioWare': 16 game developers share the moment a BioWare game inspired them to join the industry",
-      "url": "https://www.pcgamer.com/gaming-industry/im-forever-grateful-to-bioware-16-game-developers-share-the-moment-a-bioware-game-inspired-them-to-join-the-industry/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 16.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/im-forever-grateful-to-bioware-16-game-developers-share-the-moment-a-bioware-game-inspired-them-to-join-the-industry/",
-          "titre": "'I'm forever grateful to BioWare': 16 game developers share the moment a BioWare game inspired them to join the industry"
-        }
-      ]
-    },
-    {
-      "id": "factorio-s-final-major-update-has-rolled-off-the-assembly-li",
-      "titre": "Factorio's final major update has rolled off the assembly line, adding \"the things we wanted to do for 2.0 but didn't have time for\"",
-      "url": "https://www.rockpapershotgun.com/factorios-final-major-update-has-rolled-off-the-assembly-line-adding-the-things-we-wanted-to-do-for-20-but-didnt-have-time-for",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 17.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/factorios-final-major-update-has-rolled-off-the-assembly-line-adding-the-things-we-wanted-to-do-for-20-but-didnt-have-time-for",
-          "titre": "Factorio's final major update has rolled off the assembly line, adding \"the things we wanted to do for 2.0 but didn't have time for\""
         }
       ]
     },
@@ -695,31 +911,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 22.4,
       "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/future-no-thanks-dev-removes-ai-generated-voices-from-game-and-offers-refunds-to-players-who-feel-betrayed",
           "titre": "Future? No Thanks! dev removes AI-generated voices from game and offers refunds to players who feel \"betrayed\""
-        }
-      ]
-    },
-    {
-      "id": "abyssal-lapidary-is-making-the-social-media-rounds-and-i-can",
-      "titre": "Abyssal Lapidary is making the social media rounds and I can confirm cutting gemstones is just as satisfying as it looks",
-      "url": "https://www.pcgamer.com/games/sim/abyssal-lapidary-is-making-the-social-media-rounds-and-i-can-confirm-cutting-gemstones-is-just-as-satisfying-as-it-looks/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 18.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/abyssal-lapidary-is-making-the-social-media-rounds-and-i-can-confirm-cutting-gemstones-is-just-as-satisfying-as-it-looks/",
-          "titre": "Abyssal Lapidary is making the social media rounds and I can confirm cutting gemstones is just as satisfying as it looks"
         }
       ]
     },
@@ -731,67 +929,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 18.3,
+      "heures": 23.3,
       "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/bioware-staff-should-be-given-the-first-opportunity-and-the-federal-support-to-buy-the-studio-and-keep-it-running-says-canadian-political-party-leader",
           "titre": "BioWare staff \"should be given the first opportunity and the federal support\" to buy the studio and keep it running, says Canadian political party leader"
-        }
-      ]
-    },
-    {
-      "id": "upcoming-mass-effect-like-exodus-himbo-fies-protagonist-afte",
-      "titre": "Upcoming Mass Effect-like Exodus himbo-fies protagonist after fans complain about his face",
-      "url": "https://www.pcgamer.com/games/rpg/upcoming-mass-effect-like-exodus-himbo-fies-protagonist-after-fans-complain-about-his-face/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 18.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/upcoming-mass-effect-like-exodus-himbo-fies-protagonist-after-fans-complain-about-his-face/",
-          "titre": "Upcoming Mass Effect-like Exodus himbo-fies protagonist after fans complain about his face"
-        }
-      ]
-    },
-    {
-      "id": "amd-says-the-re-release-of-the-ryzen-7-5800x3d-was-like-a-fi",
-      "titre": "AMD says the re-release of the Ryzen 7 5800X3D was 'like a final gift to our loyal [AM4] users' and it was CEO Dr. Lisa Su who first came up with the idea",
-      "url": "https://www.pcgamer.com/hardware/processors/amd-says-the-re-release-of-the-ryzen-7-5800x3d-was-like-a-final-gift-to-our-loyal-am4-users-and-it-was-ceo-dr-lisa-su-who-first-came-up-with-the-idea/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 18.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/processors/amd-says-the-re-release-of-the-ryzen-7-5800x3d-was-like-a-final-gift-to-our-loyal-am4-users-and-it-was-ceo-dr-lisa-su-who-first-came-up-with-the-idea/",
-          "titre": "AMD says the re-release of the Ryzen 7 5800X3D was 'like a final gift to our loyal [AM4] users' and it was CEO Dr. Lisa Su who first came up with the idea"
-        }
-      ]
-    },
-    {
-      "id": "amd-says-its-working-on-fsr-s-frame-pacing-issues-but-there",
-      "titre": "AMD says its working on FSR's frame pacing issues, but there's still conspicuously no mention of Multi Frame Generation",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-says-its-working-on-fsrs-frame-pacing-issues-but-theres-still-conspicuously-no-mention-of-multi-frame-generation/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 18.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-says-its-working-on-fsrs-frame-pacing-issues-but-theres-still-conspicuously-no-mention-of-multi-frame-generation/",
-          "titre": "AMD says its working on FSR's frame pacing issues, but there's still conspicuously no mention of Multi Frame Generation"
         }
       ]
     },
@@ -803,7 +947,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 19.6,
+      "heures": 24.6,
       "chaleur": 3,
       "liens": [
         {
@@ -821,7 +965,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 19.7,
+      "heures": 24.7,
       "chaleur": 3,
       "liens": [
         {
@@ -839,7 +983,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 19.7,
+      "heures": 24.8,
       "chaleur": 3,
       "liens": [
         {
@@ -857,31 +1001,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.9,
+      "heures": 24.9,
       "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/modern-warfare-4-dmz-playing-possum-perk-broke",
           "titre": "\"Why the f**k would they add a perk like that?\" - Modern Warfare 4 DMZ players are up in arms over the ability to self-revive"
-        }
-      ]
-    },
-    {
-      "id": "in-a-rare-instance-of-good-news-philips-has-announced-the-wo",
-      "titre": "In a rare instance of good news, Philips has announced the world's first 36-inch, 260 Hz gaming monitor. So that's nice",
-      "url": "https://www.pcgamer.com/hardware/gaming-monitors/in-a-rare-instance-of-good-news-philips-has-announced-the-worlds-first-36-inch-260-hz-gaming-monitor-so-thats-nice/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 19.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-monitors/in-a-rare-instance-of-good-news-philips-has-announced-the-worlds-first-36-inch-260-hz-gaming-monitor-so-thats-nice/",
-          "titre": "In a rare instance of good news, Philips has announced the world's first 36-inch, 260 Hz gaming monitor. So that's nice"
         }
       ]
     },
@@ -893,31 +1019,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 20.1,
+      "heures": 25.1,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/round-up-steinsgate-reboot-ps5-reviews-heres-what-the-critics-are-saying",
           "titre": "Round Up: STEINS;GATE RE:BOOT PS5 Reviews - Here's What the Critics Are Saying"
-        }
-      ]
-    },
-    {
-      "id": "lg-ultragear-evo-52g930b-evo-gaming-monitor-review",
-      "titre": "LG UltraGear Evo 52G930B Evo gaming monitor review",
-      "url": "https://www.pcgamer.com/hardware/gaming-monitors/lg-ultragear-evo-52g930b-review/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 20.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-monitors/lg-ultragear-evo-52g930b-review/",
-          "titre": "LG UltraGear Evo 52G930B Evo gaming monitor review"
         }
       ]
     },
@@ -929,7 +1037,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 20.6,
+      "heures": 25.6,
       "chaleur": 3,
       "liens": [
         {
@@ -947,31 +1055,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 21.5,
+      "heures": 26.6,
       "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/fanatical-halloween-bundle-gives-you-prey-doom-1-2-and-evil-within-1-2-for-11-66/",
           "titre": "Fanatical Halloween bundle gives you Prey, Doom 1 & 2, and Evil Within 1 & 2 for $11.66"
-        }
-      ]
-    },
-    {
-      "id": "call-of-duty-modern-warfare-4-s-multiplayer-unlocked-early-b",
-      "titre": "Call of Duty: Modern Warfare 4's Multiplayer Unlocked Early, But Feedback Has Been Brutal So Far",
-      "url": "https://www.pushsquare.com/news/2026/10/call-of-duty-modern-warfare-4s-multiplayer-unlocked-early-but-feedback-has-been-brutal-so-far",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 21.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/call-of-duty-modern-warfare-4s-multiplayer-unlocked-early-but-feedback-has-been-brutal-so-far",
-          "titre": "Call of Duty: Modern Warfare 4's Multiplayer Unlocked Early, But Feedback Has Been Brutal So Far"
         }
       ]
     },
@@ -983,7 +1073,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 21.9,
+      "heures": 26.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1001,7 +1091,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 22.3,
+      "heures": 27.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1019,7 +1109,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 22.5,
+      "heures": 27.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1037,7 +1127,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.8,
+      "heures": 27.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1055,7 +1145,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 23.4,
+      "heures": 28.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1073,7 +1163,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 24.0,
+      "heures": 29.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1082,97 +1172,10 @@ const VEILLE = {
           "titre": "\"What if Larian had shut down after Divine Divinity?\": Star Trek Online exec scorns publishers who close teams like BioWare in favour of \"AAA veteran\" start-ups and AI \"magic beans\""
         }
       ]
-    },
-    {
-      "id": "ff-resonance-beat-citrine-pot-enemies",
-      "titre": "FF Resonance: Beat Citrine Pot enemies",
-      "url": "https://www.videogameschronicle.com/guide/ff-resonance-beat-citrine-pot-enemies/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 24.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/ff-resonance-beat-citrine-pot-enemies/",
-          "titre": "FF Resonance: Beat Citrine Pot enemies"
-        }
-      ]
-    },
-    {
-      "id": "shigeru-miyamoto-explains-why-ai-won-t-make-human-creativity",
-      "titre": "Shigeru Miyamoto explains why AI won’t make human creativity obsolete",
-      "url": "https://www.videogameschronicle.com/news/shigeru-miyamoto-explains-why-ai-wont-make-human-creativity-obsolete/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 25.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/shigeru-miyamoto-explains-why-ai-wont-make-human-creativity-obsolete/",
-          "titre": "Shigeru Miyamoto explains why AI won’t make human creativity obsolete"
-        }
-      ]
-    },
-    {
-      "id": "cyberpunk-2077-s-new-dual-wielding-has-already-been-modded-t",
-      "titre": "Cyberpunk 2077's new dual wielding has already been modded to include shotguns and rifles, provided you're down to get \"janky and wildly overpowered\"",
-      "url": "https://www.rockpapershotgun.com/cyberpunk-2077s-new-dual-wielding-has-already-been-modded-to-include-shotguns-and-rifles-provided-youre-down-to-get-janky-and-wildly-overpowered",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 25.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/cyberpunk-2077s-new-dual-wielding-has-already-been-modded-to-include-shotguns-and-rifles-provided-youre-down-to-get-janky-and-wildly-overpowered",
-          "titre": "Cyberpunk 2077's new dual wielding has already been modded to include shotguns and rifles, provided you're down to get \"janky and wildly overpowered\""
-        }
-      ]
-    },
-    {
-      "id": "cyberpunk-2-associate-director-says-half-the-quest-team-were",
-      "titre": "Cyberpunk 2 associate director says half the quest team were hired for their modding work on other CDPR games",
-      "url": "https://www.videogameschronicle.com/news/cyberpunk-2-associate-director-says-half-the-quest-team-were-hired-for-their-modding-work-on-other-cdpr-games/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 25.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/cyberpunk-2-associate-director-says-half-the-quest-team-were-hired-for-their-modding-work-on-other-cdpr-games/",
-          "titre": "Cyberpunk 2 associate director says half the quest team were hired for their modding work on other CDPR games"
-        }
-      ]
-    },
-    {
-      "id": "podcast-landfall-s-rebecca-lautner-on-peak-s-23-million-sale",
-      "titre": "Podcast: Landfall's Rebecca Lautner on Peak's 23 million sales and looking past friendslop",
-      "url": "https://www.gamesindustry.biz/podcast-landfalls-rebecca-lautner-on-peaks-23-million-sales-and-looking-past-friendslop",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 26.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/podcast-landfalls-rebecca-lautner-on-peaks-23-million-sales-and-looking-past-friendslop",
-          "titre": "Podcast: Landfall's Rebecca Lautner on Peak's 23 million sales and looking past friendslop"
-        }
-      ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "Mass Effect Universe \"looked incredible\" says creator who claims he advised BioWare",
+    "PSA: Call Of Duty: Modern Warfare 4 Switch 2 Update Now Live"
+  ]
 };
