@@ -1,80 +1,8 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "24/10/2026 à 22h24",
+  "collecte": "25/10/2026 à 04h30",
   "seuil": 14,
   "sujets": [
-    {
-      "id": "as-devastating-xbox-reset-continues-dishonored-studio-arkane",
-      "titre": "As devastating Xbox \"reset\" continues, Dishonored studio Arkane Lyon reportedly only has until November to find a new buyer before it's closed",
-      "url": "https://www.eurogamer.net/xbox-layoffs-marvels-blade-arkane-lyon-closure",
-      "sources": [
-        "Eurogamer",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 28.3,
-      "chaleur": 13,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-layoffs-marvels-blade-arkane-lyon-closure",
-          "titre": "As devastating Xbox \"reset\" continues, Dishonored studio Arkane Lyon reportedly only has until November to find a new buyer before it's closed"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/arkane-has-until-november-to-find-a-buyer-or-face-closure-its-claimed/",
-          "titre": "Arkane has until November to find a buyer or face closure, it’s claimed"
-        }
-      ]
-    },
-    {
-      "id": "mass-effect-universe-looked-incredible-says-creator-who-clai",
-      "titre": "Mass Effect Universe \"looked incredible\" says creator who claims he advised BioWare",
-      "url": "https://www.eurogamer.net/mass-effect-universe-details-dantics-claims",
-      "sources": [
-        "Eurogamer",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 8.0,
-      "chaleur": 10,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/mass-effect-universe-details-dantics-claims",
-          "titre": "Mass Effect Universe \"looked incredible\" says creator who claims he advised BioWare"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/blog/podcast/podcast-mass-effect-4-has-been-cancelled-as-ea-closes-bioware/",
-          "titre": "Podcast: Mass Effect 4 has been cancelled as EA closes BioWare"
-        }
-      ]
-    },
-    {
-      "id": "psa-call-of-duty-modern-warfare-4-switch-2-update-now-live",
-      "titre": "PSA: Call Of Duty: Modern Warfare 4 Switch 2 Update Now Live",
-      "url": "https://www.nintendolife.com/news/2026/10/psa-call-of-duty-modern-warfare-4-switch-2-update-now-live",
-      "sources": [
-        "Nintendo Life",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 7.4,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/psa-call-of-duty-modern-warfare-4-switch-2-update-now-live",
-          "titre": "PSA: Call Of Duty: Modern Warfare 4 Switch 2 Update Now Live"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/call-of-duty-modern-warfare-4s-multiplayer-unlocked-early-but-feedback-has-been-brutal-so-far",
-          "titre": "Call of Duty: Modern Warfare 4's Multiplayer Unlocked Early, But Feedback Has Been Brutal So Far"
-        }
-      ]
-    },
     {
       "id": "talking-point-what-are-you-playing-this-weekend-24th-october",
       "titre": "Talking Point: What Are You Playing This Weekend? (24th October)",
@@ -85,7 +13,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 13.4,
+      "heures": 19.5,
       "chaleur": 9,
       "liens": [
         {
@@ -106,6 +34,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "with-minecraft-and-diablo-shows-already-on-the-way-netflix-r",
+      "titre": "With Minecraft and Diablo shows already on the way, Netflix reportedly offered Xbox $500m for a bigger film and TV deal",
+      "url": "https://www.eurogamer.net/netflix-500m-xbox-film-tv-rights",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 33.9,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/netflix-500m-xbox-film-tv-rights",
+          "titre": "With Minecraft and Diablo shows already on the way, Netflix reportedly offered Xbox $500m for a bigger film and TV deal"
+        }
+      ]
+    },
+    {
+      "id": "as-devastating-xbox-reset-continues-dishonored-studio-arkane",
+      "titre": "As devastating Xbox \"reset\" continues, Dishonored studio Arkane Lyon reportedly only has until November to find a new buyer before it's closed",
+      "url": "https://www.eurogamer.net/xbox-layoffs-marvels-blade-arkane-lyon-closure",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 34.4,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-layoffs-marvels-blade-arkane-lyon-closure",
+          "titre": "As devastating Xbox \"reset\" continues, Dishonored studio Arkane Lyon reportedly only has until November to find a new buyer before it's closed"
+        }
+      ]
+    },
+    {
       "id": "top-xbox-exec-promoted-in-brand-reset-leaves-after-3-months",
       "titre": "Top Xbox exec promoted in brand 'reset' leaves after 3 months in role",
       "url": "https://www.pcgamer.com/gaming-industry/top-xbox-exec-promoted-in-brand-reset-leaves-after-3-months-in-role/",
@@ -113,37 +77,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 8,
+      "heures": 9.5,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/gaming-industry/top-xbox-exec-promoted-in-brand-reset-leaves-after-3-months-in-role/",
           "titre": "Top Xbox exec promoted in brand 'reset' leaves after 3 months in role"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-veteran-shigeru-miyamoto-to-receive-japan-s-order-o",
-      "titre": "Nintendo veteran Shigeru Miyamoto to receive Japan's Order of Culture award",
-      "url": "https://www.gamesindustry.biz/nintendo-veteran-shigeru-miyamoto-to-receive-japans-order-of-culture-award",
-      "sources": [
-        "GamesIndustry.biz",
-        "Nintendo Life"
-      ],
-      "reprises": 2,
-      "heures": 33.3,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/nintendo-veteran-shigeru-miyamoto-to-receive-japans-order-of-culture-award",
-          "titre": "Nintendo veteran Shigeru Miyamoto to receive Japan's Order of Culture award"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/shigeru-miyamoto-becomes-first-game-dev-to-receive-japans-prestigious-culture-award",
-          "titre": "Shigeru Miyamoto Becomes First Game Dev To Receive Japan's Prestigious Culture Award"
         }
       ]
     },
@@ -156,8 +96,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 10.2,
-      "chaleur": 7,
+      "heures": 16.3,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
@@ -172,132 +112,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "with-minecraft-and-diablo-shows-already-on-the-way-netflix-r",
-      "titre": "With Minecraft and Diablo shows already on the way, Netflix reportedly offered Xbox $500m for a bigger film and TV deal",
-      "url": "https://www.eurogamer.net/netflix-500m-xbox-film-tv-rights",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 27.8,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/netflix-500m-xbox-film-tv-rights",
-          "titre": "With Minecraft and Diablo shows already on the way, Netflix reportedly offered Xbox $500m for a bigger film and TV deal"
-        }
-      ]
-    },
-    {
-      "id": "abelina-is-a-strange-platforming-romp-through-a-natural-afte",
-      "titre": "Abelina is a strange, platforming romp through a natural afterlife from a former League of Legends animator and the composer of Zach Cregger's Resident Evil",
-      "url": "https://www.rockpapershotgun.com/abelina-is-a-strange-platforming-romp-through-a-natural-afterlife-from-a-former-league-of-legends-animator-and-the-composer-of-zach-creggers-resident-evil",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 0.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/abelina-is-a-strange-platforming-romp-through-a-natural-afterlife-from-a-former-league-of-legends-animator-and-the-composer-of-zach-creggers-resident-evil",
-          "titre": "Abelina is a strange, platforming romp through a natural afterlife from a former League of Legends animator and the composer of Zach Cregger's Resident Evil"
-        }
-      ]
-    },
-    {
-      "id": "system-shock-and-deus-ex-they-were-rpgs-people-called-them",
-      "titre": "\"System Shock and Deus Ex, they were RPGs. People called them RPGs\": Gloomwood's publisher isn't too keen on using the term immersive sim despite it being one",
-      "url": "https://www.rockpapershotgun.com/system-shock-and-deus-ex-they-were-rpgs-people-called-them-rpgs-gloomwoods-publisher-isnt-too-keen-on-using-the-term-immersive-sim-despite-it-being-one",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 1.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/system-shock-and-deus-ex-they-were-rpgs-people-called-them-rpgs-gloomwoods-publisher-isnt-too-keen-on-using-the-term-immersive-sim-despite-it-being-one",
-          "titre": "\"System Shock and Deus Ex, they were RPGs. People called them RPGs\": Gloomwood's publisher isn't too keen on using the term immersive sim despite it being one"
-        }
-      ]
-    },
-    {
-      "id": "helena-cloud-district-is-a-megastructure-photography-game-la",
-      "titre": "HELENA : Cloud District is a megastructure photography game laser targeted at my interests, and it's out next week",
-      "url": "https://www.rockpapershotgun.com/helena-cloud-district-is-a-megastructure-photography-game-laser-targeted-at-my-interests-and-its-out-next-week",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/helena-cloud-district-is-a-megastructure-photography-game-laser-targeted-at-my-interests-and-its-out-next-week",
-          "titre": "HELENA : Cloud District is a megastructure photography game laser targeted at my interests, and it's out next week"
-        }
-      ]
-    },
-    {
-      "id": "i-ve-got-egg-on-my-face-because-steam-s-personal-calendar-fe",
-      "titre": "I've got egg on my face because Steam's Personal Calendar feature has apparently been a test this whole time and is only now actually a fully fledged component",
-      "url": "https://www.rockpapershotgun.com/ive-got-egg-on-my-face-because-steams-personal-calendar-feature-has-apparently-been-a-test-this-whole-time-and-is-only-now-actually-a-fully-fledged-component",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 6.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/ive-got-egg-on-my-face-because-steams-personal-calendar-feature-has-apparently-been-a-test-this-whole-time-and-is-only-now-actually-a-fully-fledged-component",
-          "titre": "I've got egg on my face because Steam's Personal Calendar feature has apparently been a test this whole time and is only now actually a fully fledged component"
-        }
-      ]
-    },
-    {
-      "id": "are-we-in-the-cozy-gaming-gold-rush-era-cozy-has-grown-over",
-      "titre": "Are we in the cozy gaming gold rush era? 'Cozy' has grown over 250% on Steam and 200% in my inbox since 2024",
-      "url": "https://www.pcgamer.com/games/life-sim/are-we-in-the-cozy-gaming-gold-rush-era-cozy-has-grown-over-250-percent-on-steam-and-200-percent-in-my-inbox-since-2024/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 7.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/life-sim/are-we-in-the-cozy-gaming-gold-rush-era-cozy-has-grown-over-250-percent-on-steam-and-200-percent-in-my-inbox-since-2024/",
-          "titre": "Are we in the cozy gaming gold rush era? 'Cozy' has grown over 250% on Steam and 200% in my inbox since 2024"
-        }
-      ]
-    },
-    {
-      "id": "xbox-s-first-chief-operating-officer-helen-chiang-leaves-mic",
-      "titre": "Xbox's first chief operating officer Helen Chiang leaves Microsoft just three months into the job",
-      "url": "https://www.eurogamer.net/xbox-coo-helen-chiang-leaves-microsoft",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 9.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-coo-helen-chiang-leaves-microsoft",
-          "titre": "Xbox's first chief operating officer Helen Chiang leaves Microsoft just three months into the job"
-        }
-      ]
-    },
-    {
       "id": "the-legend-of-zelda-ocarina-of-time-switch-2-esrb-rating-sum",
       "titre": "The Legend Of Zelda: Ocarina Of Time Switch 2 ESRB Rating Summary Published",
       "url": "https://www.nintendolife.com/news/2026/10/the-legend-of-zelda-ocarina-of-time-switch-2-esrb-rating-summary-published",
@@ -305,7 +119,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.9,
+      "heures": 29.0,
       "chaleur": 6,
       "liens": [
         {
@@ -323,37 +137,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 23.6,
+      "heures": 29.7,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/gaming-industry/why-private-equity-acquisitions-like-the-one-that-just-claimed-bioware-are-so-dreaded/",
           "titre": "Why private equity acquisitions like the one that just claimed BioWare are so dreaded"
-        }
-      ]
-    },
-    {
-      "id": "gamemaker-s-gmrt-runtime-will-soon-be-free-for-all-developer",
-      "titre": "GameMaker's GMRT runtime will soon be free for all developers",
-      "url": "https://www.gamedeveloper.com/programming/gamemaker-s-gmrt-runtime-will-soon-be-free-for-all-commercial-devs",
-      "sources": [
-        "Game Developer",
-        "GamesIndustry.biz"
-      ],
-      "reprises": 2,
-      "heures": 28.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/programming/gamemaker-s-gmrt-runtime-will-soon-be-free-for-all-commercial-devs",
-          "titre": "GameMaker's GMRT runtime will soon be free for all developers"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/gamemaker-to-make-its-next-generation-runtime-gmrt-free-for-commercial-use-in-january-2027",
-          "titre": "GameMaker to make its \"next-generation runtime\" GMRT free for commercial use in January 2027"
         }
       ]
     },
@@ -365,7 +155,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.1,
+      "heures": 35.2,
       "chaleur": 6,
       "liens": [
         {
@@ -383,7 +173,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 29.4,
+      "heures": 35.5,
       "chaleur": 6,
       "liens": [
         {
@@ -394,62 +184,74 @@ const VEILLE = {
       ]
     },
     {
-      "id": "poll-are-you-taking-time-off-for-gta-6",
-      "titre": "Poll: Are You Taking Time Off for GTA 6?",
-      "url": "https://www.pushsquare.com/features/poll-are-you-taking-time-off-for-gta-6",
+      "id": "i-ve-got-egg-on-my-face-because-steam-s-personal-calendar-fe",
+      "titre": "I've got egg on my face because Steam's Personal Calendar feature has apparently been a test this whole time and is only now actually a fully fledged component",
+      "url": "https://www.rockpapershotgun.com/ive-got-egg-on-my-face-because-steams-personal-calendar-feature-has-apparently-been-a-test-this-whole-time-and-is-only-now-actually-a-fully-fledged-component",
       "sources": [
-        "Push Square"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 30.4,
-      "chaleur": 6,
+      "heures": 12.5,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/poll-are-you-taking-time-off-for-gta-6",
-          "titre": "Poll: Are You Taking Time Off for GTA 6?"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/ive-got-egg-on-my-face-because-steams-personal-calendar-feature-has-apparently-been-a-test-this-whole-time-and-is-only-now-actually-a-fully-fledged-component",
+          "titre": "I've got egg on my face because Steam's Personal Calendar feature has apparently been a test this whole time and is only now actually a fully fledged component"
         }
       ]
     },
     {
-      "id": "nearly-12-million-capcom-id-accounts-affected-in-huge-data-b",
-      "titre": "Nearly 12 Million Capcom ID Accounts Affected in Huge Data Breach",
-      "url": "https://www.pushsquare.com/news/2026/10/nearly-12-million-capcom-id-accounts-affected-in-huge-data-breach",
+      "id": "are-we-in-the-cozy-gaming-gold-rush-era-cozy-has-grown-over",
+      "titre": "Are we in the cozy gaming gold rush era? 'Cozy' has grown over 250% on Steam and 200% in my inbox since 2024",
+      "url": "https://www.pcgamer.com/games/life-sim/are-we-in-the-cozy-gaming-gold-rush-era-cozy-has-grown-over-250-percent-on-steam-and-200-percent-in-my-inbox-since-2024/",
       "sources": [
-        "GamesIndustry.biz",
-        "Push Square"
+        "PC Gamer"
       ],
-      "reprises": 2,
-      "heures": 30.7,
-      "chaleur": 6,
+      "reprises": 1,
+      "heures": 13.3,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/nearly-12-million-capcom-id-accounts-affected-in-huge-data-breach",
-          "titre": "Nearly 12 Million Capcom ID Accounts Affected in Huge Data Breach"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/capcom-affected-by-data-breach-over-117m-capcom-id-accounts-compromised",
-          "titre": "Capcom affected by data breach, over 11.7m Capcom ID accounts compromised"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/life-sim/are-we-in-the-cozy-gaming-gold-rush-era-cozy-has-grown-over-250-percent-on-steam-and-200-percent-in-my-inbox-since-2024/",
+          "titre": "Are we in the cozy gaming gold rush era? 'Cozy' has grown over 250% on Steam and 200% in my inbox since 2024"
         }
       ]
     },
     {
-      "id": "guide-61-switch-1-2-games-you-should-check-out-in-nintendo-s",
-      "titre": "Guide: 61 Switch 1 & 2 Games You Should Check Out In Nintendo's 'Halloween Sale' (Europe)",
-      "url": "https://www.nintendolife.com/guides/61-switch-1-and-2-games-you-should-check-out-in-nintendos-halloween-sale-europe",
+      "id": "psa-call-of-duty-modern-warfare-4-switch-2-update-now-live",
+      "titre": "PSA: Call Of Duty: Modern Warfare 4 Switch 2 Update Now Live",
+      "url": "https://www.nintendolife.com/news/2026/10/psa-call-of-duty-modern-warfare-4-switch-2-update-now-live",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 31.7,
-      "chaleur": 6,
+      "heures": 13.5,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/guides/61-switch-1-and-2-games-you-should-check-out-in-nintendos-halloween-sale-europe",
-          "titre": "Guide: 61 Switch 1 & 2 Games You Should Check Out In Nintendo's 'Halloween Sale' (Europe)"
+          "url": "https://www.nintendolife.com/news/2026/10/psa-call-of-duty-modern-warfare-4-switch-2-update-now-live",
+          "titre": "PSA: Call Of Duty: Modern Warfare 4 Switch 2 Update Now Live"
+        }
+      ]
+    },
+    {
+      "id": "xbox-s-first-chief-operating-officer-helen-chiang-leaves-mic",
+      "titre": "Xbox's first chief operating officer Helen Chiang leaves Microsoft just three months into the job",
+      "url": "https://www.eurogamer.net/xbox-coo-helen-chiang-leaves-microsoft",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 15.5,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-coo-helen-chiang-leaves-microsoft",
+          "titre": "Xbox's first chief operating officer Helen Chiang leaves Microsoft just three months into the job"
         }
       ]
     },
@@ -461,7 +263,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 20.5,
       "chaleur": 5,
       "liens": [
         {
@@ -479,7 +281,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.9,
+      "heures": 25.0,
       "chaleur": 5,
       "liens": [
         {
@@ -497,7 +299,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 26.2,
+      "heures": 32.3,
       "chaleur": 5,
       "liens": [
         {
@@ -515,7 +317,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.4,
+      "heures": 35.5,
       "chaleur": 5,
       "liens": [
         {
@@ -526,92 +328,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "we-re-victims-of-xbox-s-change-in-strategy-dishonored-dev-h",
-      "titre": "'We're Victims of Xbox's Change in Strategy': Dishonored Dev Has Weeks to Save Itself",
-      "url": "https://www.pushsquare.com/news/2026/10/were-victims-of-xboxs-change-in-strategy-dishonored-dev-has-weeks-to-save-itself",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 29.9,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/were-victims-of-xboxs-change-in-strategy-dishonored-dev-has-weeks-to-save-itself",
-          "titre": "'We're Victims of Xbox's Change in Strategy': Dishonored Dev Has Weeks to Save Itself"
-        }
-      ]
-    },
-    {
-      "id": "xbox-wanted-800-million-from-netflix-for-7-years-of-its-bigg",
-      "titre": "Xbox wanted $800 million from Netflix for 7 years of its biggest characters, it’s claimed",
-      "url": "https://www.videogameschronicle.com/news/xbox-wanted-800-million-from-netflix-for-7-years-of-its-biggest-characters-its-claimed/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 31.0,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/xbox-wanted-800-million-from-netflix-for-7-years-of-its-biggest-characters-its-claimed/",
-          "titre": "Xbox wanted $800 million from Netflix for 7 years of its biggest characters, it’s claimed"
-        }
-      ]
-    },
-    {
-      "id": "arkane-survival-negotiations-reportedly-seeing-several-forms",
-      "titre": "Arkane survival negotiations reportedly seeing \"several forms of takeover\" considered ahead of November deadline, as Marvel's Blade production nears end",
-      "url": "https://www.rockpapershotgun.com/arkane-survival-negotiations-reportedly-seeing-several-forms-of-takeover-considered-ahead-of-november-deadline-as-marvels-blade-production-nears-end",
+      "id": "abelina-is-a-strange-platforming-romp-through-a-natural-afte",
+      "titre": "Abelina is a strange, platforming romp through a natural afterlife from a former League of Legends animator and the composer of Zach Cregger's Resident Evil",
+      "url": "https://www.rockpapershotgun.com/abelina-is-a-strange-platforming-romp-through-a-natural-afterlife-from-a-former-league-of-legends-animator-and-the-composer-of-zach-creggers-resident-evil",
       "sources": [
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 31.7,
-      "chaleur": 5,
+      "heures": 6.6,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/arkane-survival-negotiations-reportedly-seeing-several-forms-of-takeover-considered-ahead-of-november-deadline-as-marvels-blade-production-nears-end",
-          "titre": "Arkane survival negotiations reportedly seeing \"several forms of takeover\" considered ahead of November deadline, as Marvel's Blade production nears end"
+          "url": "https://www.rockpapershotgun.com/abelina-is-a-strange-platforming-romp-through-a-natural-afterlife-from-a-former-league-of-legends-animator-and-the-composer-of-zach-creggers-resident-evil",
+          "titre": "Abelina is a strange, platforming romp through a natural afterlife from a former League of Legends animator and the composer of Zach Cregger's Resident Evil"
         }
       ]
     },
     {
-      "id": "review-village-in-the-shade-switch-2-a-farm-sim-that-plays-w",
-      "titre": "Review: Village In The Shade (Switch 2) - A Farm Sim That Plays With Cosy Tropes In Clever Ways",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/village-in-the-shade",
+      "id": "system-shock-and-deus-ex-they-were-rpgs-people-called-them",
+      "titre": "\"System Shock and Deus Ex, they were RPGs. People called them RPGs\": Gloomwood's publisher isn't too keen on using the term immersive sim despite it being one",
+      "url": "https://www.rockpapershotgun.com/system-shock-and-deus-ex-they-were-rpgs-people-called-them-rpgs-gloomwoods-publisher-isnt-too-keen-on-using-the-term-immersive-sim-despite-it-being-one",
       "sources": [
-        "Nintendo Life"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 33.4,
-      "chaleur": 5,
+      "heures": 8.0,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/village-in-the-shade",
-          "titre": "Review: Village In The Shade (Switch 2) - A Farm Sim That Plays With Cosy Tropes In Clever Ways"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/system-shock-and-deus-ex-they-were-rpgs-people-called-them-rpgs-gloomwoods-publisher-isnt-too-keen-on-using-the-term-immersive-sim-despite-it-being-one",
+          "titre": "\"System Shock and Deus Ex, they were RPGs. People called them RPGs\": Gloomwood's publisher isn't too keen on using the term immersive sim despite it being one"
         }
       ]
     },
     {
-      "id": "phantom-blade-zero-isn-t-even-out-yet-but-it-could-be-one-of",
-      "titre": "Phantom Blade Zero isn't even out yet, but it could be 'one of the year's breakout hits' as it shifts half a million copies on Steam alone",
-      "url": "https://www.eurogamer.net/phantom-blade-zero-hit-not-out",
+      "id": "helena-cloud-district-is-a-megastructure-photography-game-la",
+      "titre": "HELENA : Cloud District is a megastructure photography game laser targeted at my interests, and it's out next week",
+      "url": "https://www.rockpapershotgun.com/helena-cloud-district-is-a-megastructure-photography-game-laser-targeted-at-my-interests-and-its-out-next-week",
       "sources": [
-        "Eurogamer"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 33.9,
-      "chaleur": 5,
+      "heures": 9.5,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/phantom-blade-zero-hit-not-out",
-          "titre": "Phantom Blade Zero isn't even out yet, but it could be 'one of the year's breakout hits' as it shifts half a million copies on Steam alone"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/helena-cloud-district-is-a-megastructure-photography-game-laser-targeted-at-my-interests-and-its-out-next-week",
+          "titre": "HELENA : Cloud District is a megastructure photography game laser targeted at my interests, and it's out next week"
         }
       ]
     },
@@ -623,7 +389,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
@@ -641,7 +407,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 10.4,
       "chaleur": 4,
       "liens": [
         {
@@ -659,7 +425,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 10.5,
       "chaleur": 4,
       "liens": [
         {
@@ -677,7 +443,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 10.6,
       "chaleur": 4,
       "liens": [
         {
@@ -695,7 +461,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 11.0,
       "chaleur": 4,
       "liens": [
         {
@@ -713,7 +479,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 11.2,
       "chaleur": 4,
       "liens": [
         {
@@ -731,7 +497,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -749,7 +515,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 11.5,
       "chaleur": 4,
       "liens": [
         {
@@ -767,7 +533,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 11.5,
       "chaleur": 4,
       "liens": [
         {
@@ -785,8 +551,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.4,
-      "chaleur": 4,
+      "heures": 12.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -803,8 +569,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.6,
-      "chaleur": 4,
+      "heures": 12.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -821,8 +587,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.9,
-      "chaleur": 4,
+      "heures": 12.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -839,8 +605,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.4,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -857,8 +623,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.4,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -875,13 +641,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.9,
-      "chaleur": 4,
+      "heures": 14.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/gaming-industry/game-development/i-drank-from-the-chalice-of-blood-indie-dev-scrubs-his-game-of-ai-generated-voice-lines-having-previously-described-the-technology-as-anti-human-and-anti-art/",
           "titre": "'I drank from the chalice of blood': indie dev scrubs his game of AI-generated voice lines, having previously described the technology as 'anti-human and anti-art'"
+        }
+      ]
+    },
+    {
+      "id": "mass-effect-universe-looked-incredible-says-creator-who-clai",
+      "titre": "Mass Effect Universe \"looked incredible\" says creator who claims he advised BioWare",
+      "url": "https://www.eurogamer.net/mass-effect-universe-details-dantics-claims",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 14.1,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/mass-effect-universe-details-dantics-claims",
+          "titre": "Mass Effect Universe \"looked incredible\" says creator who claims he advised BioWare"
         }
       ]
     },
@@ -893,8 +677,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.4,
-      "chaleur": 4,
+      "heures": 14.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -911,8 +695,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.4,
-      "chaleur": 4,
+      "heures": 14.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -929,8 +713,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.9,
-      "chaleur": 4,
+      "heures": 15.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -947,8 +731,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 4,
+      "heures": 16.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -965,8 +749,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 17.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -983,8 +767,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 17.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1001,7 +785,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 21.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1019,13 +803,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 24.4,
+      "heures": 30.5,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/mass-effect/mass-effect-5-was-set-in-a-galactic-cold-war-new-leak-claims-and-all-3-endings-were-wrapped-into-1/",
           "titre": "Mass Effect 5 was set in a 'galactic Cold War,' new leak claims, and all 3 endings were wrapped into 1"
+        }
+      ]
+    },
+    {
+      "id": "gamemaker-s-gmrt-runtime-will-soon-be-free-for-all-developer",
+      "titre": "GameMaker's GMRT runtime will soon be free for all developers",
+      "url": "https://www.gamedeveloper.com/programming/gamemaker-s-gmrt-runtime-will-soon-be-free-for-all-commercial-devs",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 34.6,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/programming/gamemaker-s-gmrt-runtime-will-soon-be-free-for-all-commercial-devs",
+          "titre": "GameMaker's GMRT runtime will soon be free for all developers"
         }
       ]
     },
@@ -1037,103 +839,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 29.0,
+      "heures": 35.1,
       "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/future-no-thanks-dev-removes-ai-generated-voices-from-game-and-offers-refunds-to-players-who-feel-betrayed",
           "titre": "Future? No Thanks! dev removes AI-generated voices from game and offers refunds to players who feel \"betrayed\""
-        }
-      ]
-    },
-    {
-      "id": "bioware-staff-should-be-given-the-first-opportunity-and-the",
-      "titre": "BioWare staff \"should be given the first opportunity and the federal support\" to buy the studio and keep it running, says Canadian political party leader",
-      "url": "https://www.rockpapershotgun.com/bioware-staff-should-be-given-the-first-opportunity-and-the-federal-support-to-buy-the-studio-and-keep-it-running-says-canadian-political-party-leader",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 29.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/bioware-staff-should-be-given-the-first-opportunity-and-the-federal-support-to-buy-the-studio-and-keep-it-running-says-canadian-political-party-leader",
-          "titre": "BioWare staff \"should be given the first opportunity and the federal support\" to buy the studio and keep it running, says Canadian political party leader"
-        }
-      ]
-    },
-    {
-      "id": "this-was-not-a-creative-assembly-developed-game-total-war-b",
-      "titre": "\"This was not a Creative Assembly developed game\": Total War boss points the finger at external partner for Shogun 2 Complete Edition disaster",
-      "url": "https://www.rockpapershotgun.com/this-was-not-a-creative-assembly-developed-game-total-war-boss-points-the-finger-at-external-partner-for-shogun-2-complete-edition-disaster",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 30.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/this-was-not-a-creative-assembly-developed-game-total-war-boss-points-the-finger-at-external-partner-for-shogun-2-complete-edition-disaster",
-          "titre": "\"This was not a Creative Assembly developed game\": Total War boss points the finger at external partner for Shogun 2 Complete Edition disaster"
-        }
-      ]
-    },
-    {
-      "id": "helldivers-3-not-unless-it-s-very-different-from-helldivers",
-      "titre": "Helldivers 3? Not Unless It's Very Different from Helldivers 2, Says Arrowhead",
-      "url": "https://www.pushsquare.com/news/2026/10/helldivers-3-not-unless-its-very-different-from-helldivers-2-says-arrowhead",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 31.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/helldivers-3-not-unless-its-very-different-from-helldivers-2-says-arrowhead",
-          "titre": "Helldivers 3? Not Unless It's Very Different from Helldivers 2, Says Arrowhead"
-        }
-      ]
-    },
-    {
-      "id": "woim-is-the-earth-guzzling-self-bisecting-sokoban-pick-me-up",
-      "titre": "Woim is the earth-guzzling, self-bisecting sokoban pick-me-up I needed after a week of games industry disasters",
-      "url": "https://www.rockpapershotgun.com/woim-is-the-earth-guzzling-self-bisecting-sokoban-pick-me-up-i-needed-after-a-week-of-games-industry-disasters",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 31.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/woim-is-the-earth-guzzling-self-bisecting-sokoban-pick-me-up-i-needed-after-a-week-of-games-industry-disasters",
-          "titre": "Woim is the earth-guzzling, self-bisecting sokoban pick-me-up I needed after a week of games industry disasters"
-        }
-      ]
-    },
-    {
-      "id": "bioware-s-end-is-a-tragically-familiar-tale-opinion",
-      "titre": "BioWare's end is a tragically familiar tale | Opinion",
-      "url": "https://www.gamesindustry.biz/biowares-end-is-a-tragically-familiar-tale-opinion",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 31.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/biowares-end-is-a-tragically-familiar-tale-opinion",
-          "titre": "BioWare's end is a tragically familiar tale | Opinion"
         }
       ]
     }
