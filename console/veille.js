@@ -1,20 +1,127 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "25/10/2026 à 04h30",
+  "collecte": "25/10/2026 à 11h14",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "forward-now-into-oblivion-s-inky-embrace-darkest-dungeon-ii",
+      "titre": "\"Forward Now, Into Oblivion's Inky Embrace\" - Darkest Dungeon II Now Has A Switch 2 Edition",
+      "url": "https://www.nintendolife.com/news/2026/10/forward-now-into-oblivions-inky-embrace-darkest-dungeon-ii-now-has-a-switch-2-edition",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 2.2,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/forward-now-into-oblivions-inky-embrace-darkest-dungeon-ii-now-has-a-switch-2-edition",
+          "titre": "\"Forward Now, Into Oblivion's Inky Embrace\" - Darkest Dungeon II Now Has A Switch 2 Edition"
+        }
+      ]
+    },
+    {
+      "id": "cyberpunk-edgerunners-season-2-is-more-than-a-retread-of-net",
+      "titre": "Cyberpunk: Edgerunners Season 2 is more than a retread of Netflix's beloved first season - it's a story that truly understands what it means to exist in Night City",
+      "url": "https://www.eurogamer.net/cyberpunk-edgerunners-season-2-major-theme",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/cyberpunk-edgerunners-season-2-major-theme",
+          "titre": "Cyberpunk: Edgerunners Season 2 is more than a retread of Netflix's beloved first season - it's a story that truly understands what it means to exist in Night City"
+        }
+      ]
+    },
+    {
+      "id": "the-sunday-papers",
+      "titre": "The Sunday Papers",
+      "url": "https://www.rockpapershotgun.com/the-sunday-papers-833",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-sunday-papers-833",
+          "titre": "The Sunday Papers"
+        }
+      ]
+    },
+    {
+      "id": "feature-box-art-brawl-duel-avenging-spirit-game-boy",
+      "titre": "Feature: Box Art Brawl - Duel: Avenging Spirit (Game Boy)",
+      "url": "https://www.nintendolife.com/features/box-art-brawl-duel-avenging-spirit-game-boy",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/box-art-brawl-duel-avenging-spirit-game-boy",
+          "titre": "Feature: Box Art Brawl - Duel: Avenging Spirit (Game Boy)"
+        }
+      ]
+    },
+    {
+      "id": "video-the-tomb-raider-series-celebrates-its-30th-anniversary",
+      "titre": "Video: The Tomb Raider Series Celebrates Its 30th Anniversary This Week",
+      "url": "https://www.nintendolife.com/news/2026/10/video-the-tomb-raider-series-celebrates-its-30th-anniversary-this-week",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 3.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/video-the-tomb-raider-series-celebrates-its-30th-anniversary-this-week",
+          "titre": "Video: The Tomb Raider Series Celebrates Its 30th Anniversary This Week"
+        }
+      ]
+    },
+    {
+      "id": "psa-call-of-duty-modern-warfare-4-switch-2-update-now-live-h",
+      "titre": "PSA: Call Of Duty: Modern Warfare 4 Switch 2 Update Now Live, Here Are The Details",
+      "url": "https://www.nintendolife.com/news/2026/10/psa-call-of-duty-modern-warfare-4-switch-2-update-now-live-here-are-the-details",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/psa-call-of-duty-modern-warfare-4-switch-2-update-now-live-here-are-the-details",
+          "titre": "PSA: Call Of Duty: Modern Warfare 4 Switch 2 Update Now Live, Here Are The Details"
+        }
+      ]
+    },
     {
       "id": "talking-point-what-are-you-playing-this-weekend-24th-october",
       "titre": "Talking Point: What Are You Playing This Weekend? (24th October)",
       "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-24th-october",
       "sources": [
         "Nintendo Life",
-        "Push Square",
         "Rock Paper Shotgun"
       ],
-      "reprises": 3,
-      "heures": 19.5,
-      "chaleur": 9,
+      "reprises": 2,
+      "heures": 26.2,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -25,89 +132,6 @@ const VEILLE = {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-405",
           "titre": "What are we all playing this weekend?"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-655",
-          "titre": "Talking Point: What Are You Playing This Weekend? - Issue 655"
-        }
-      ]
-    },
-    {
-      "id": "with-minecraft-and-diablo-shows-already-on-the-way-netflix-r",
-      "titre": "With Minecraft and Diablo shows already on the way, Netflix reportedly offered Xbox $500m for a bigger film and TV deal",
-      "url": "https://www.eurogamer.net/netflix-500m-xbox-film-tv-rights",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 33.9,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/netflix-500m-xbox-film-tv-rights",
-          "titre": "With Minecraft and Diablo shows already on the way, Netflix reportedly offered Xbox $500m for a bigger film and TV deal"
-        }
-      ]
-    },
-    {
-      "id": "as-devastating-xbox-reset-continues-dishonored-studio-arkane",
-      "titre": "As devastating Xbox \"reset\" continues, Dishonored studio Arkane Lyon reportedly only has until November to find a new buyer before it's closed",
-      "url": "https://www.eurogamer.net/xbox-layoffs-marvels-blade-arkane-lyon-closure",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 34.4,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-layoffs-marvels-blade-arkane-lyon-closure",
-          "titre": "As devastating Xbox \"reset\" continues, Dishonored studio Arkane Lyon reportedly only has until November to find a new buyer before it's closed"
-        }
-      ]
-    },
-    {
-      "id": "top-xbox-exec-promoted-in-brand-reset-leaves-after-3-months",
-      "titre": "Top Xbox exec promoted in brand 'reset' leaves after 3 months in role",
-      "url": "https://www.pcgamer.com/gaming-industry/top-xbox-exec-promoted-in-brand-reset-leaves-after-3-months-in-role/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 9.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/top-xbox-exec-promoted-in-brand-reset-leaves-after-3-months-in-role/",
-          "titre": "Top Xbox exec promoted in brand 'reset' leaves after 3 months in role"
-        }
-      ]
-    },
-    {
-      "id": "after-14-years-of-development-factorio-s-final-major-update",
-      "titre": "After 14 years of development, Factorio's final major update is out now",
-      "url": "https://www.pcgamer.com/games/survival-crafting/after-14-years-of-development-factorios-final-major-update-is-out-now/",
-      "sources": [
-        "PC Gamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 16.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/survival-crafting/after-14-years-of-development-factorios-final-major-update-is-out-now/",
-          "titre": "After 14 years of development, Factorio's final major update is out now"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/factorios-final-major-update-has-rolled-off-the-assembly-line-adding-the-things-we-wanted-to-do-for-20-but-didnt-have-time-for",
-          "titre": "Factorio's final major update has rolled off the assembly line, adding \"the things we wanted to do for 2.0 but didn't have time for\""
         }
       ]
     },
@@ -119,7 +143,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.0,
+      "heures": 35.7,
       "chaleur": 6,
       "liens": [
         {
@@ -130,56 +154,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "why-private-equity-acquisitions-like-the-one-that-just-claim",
-      "titre": "Why private equity acquisitions like the one that just claimed BioWare are so dreaded",
-      "url": "https://www.pcgamer.com/gaming-industry/why-private-equity-acquisitions-like-the-one-that-just-claimed-bioware-are-so-dreaded/",
+      "id": "top-xbox-exec-promoted-in-brand-reset-leaves-after-3-months",
+      "titre": "Top Xbox exec promoted in brand 'reset' leaves after 3 months in role",
+      "url": "https://www.pcgamer.com/gaming-industry/top-xbox-exec-promoted-in-brand-reset-leaves-after-3-months-in-role/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 29.7,
-      "chaleur": 6,
+      "heures": 16.3,
+      "chaleur": 5,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/why-private-equity-acquisitions-like-the-one-that-just-claimed-bioware-are-so-dreaded/",
-          "titre": "Why private equity acquisitions like the one that just claimed BioWare are so dreaded"
-        }
-      ]
-    },
-    {
-      "id": "mass-effect-crossover-items-have-seemingly-been-removed-from",
-      "titre": "Mass Effect crossover items have seemingly been removed from Battlefield 6 following EA's sudden closure of BioWare",
-      "url": "https://www.eurogamer.net/mass-effect-battlefield-6-crossover-bioware-closure",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 35.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/mass-effect-battlefield-6-crossover-bioware-closure",
-          "titre": "Mass Effect crossover items have seemingly been removed from Battlefield 6 following EA's sudden closure of BioWare"
-        }
-      ]
-    },
-    {
-      "id": "what-a-loss-for-all-of-us-boss-of-baldur-s-gate-3-maker-rea",
-      "titre": "'What a Loss for All of Us': Boss of Baldur's Gate 3 Maker Reacts to BioWare Closure",
-      "url": "https://www.pushsquare.com/news/2026/10/what-a-loss-for-all-of-us-boss-of-baldurs-gate-3-maker-reacts-to-bioware-closure",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 35.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/what-a-loss-for-all-of-us-boss-of-baldurs-gate-3-maker-reacts-to-bioware-closure",
-          "titre": "'What a Loss for All of Us': Boss of Baldur's Gate 3 Maker Reacts to BioWare Closure"
+          "url": "https://www.pcgamer.com/gaming-industry/top-xbox-exec-promoted-in-brand-reset-leaves-after-3-months-in-role/",
+          "titre": "Top Xbox exec promoted in brand 'reset' leaves after 3 months in role"
         }
       ]
     },
@@ -191,7 +179,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 19.3,
       "chaleur": 5,
       "liens": [
         {
@@ -209,31 +197,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 20.1,
       "chaleur": 5,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/life-sim/are-we-in-the-cozy-gaming-gold-rush-era-cozy-has-grown-over-250-percent-on-steam-and-200-percent-in-my-inbox-since-2024/",
           "titre": "Are we in the cozy gaming gold rush era? 'Cozy' has grown over 250% on Steam and 200% in my inbox since 2024"
-        }
-      ]
-    },
-    {
-      "id": "psa-call-of-duty-modern-warfare-4-switch-2-update-now-live",
-      "titre": "PSA: Call Of Duty: Modern Warfare 4 Switch 2 Update Now Live",
-      "url": "https://www.nintendolife.com/news/2026/10/psa-call-of-duty-modern-warfare-4-switch-2-update-now-live",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 13.5,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/psa-call-of-duty-modern-warfare-4-switch-2-update-now-live",
-          "titre": "PSA: Call Of Duty: Modern Warfare 4 Switch 2 Update Now Live"
         }
       ]
     },
@@ -245,7 +215,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 22.3,
       "chaleur": 5,
       "liens": [
         {
@@ -263,7 +233,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.5,
+      "heures": 27.2,
       "chaleur": 5,
       "liens": [
         {
@@ -281,49 +251,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.0,
+      "heures": 31.7,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/icymi-cult-of-the-lamb-summons-a-switch-2-version-includes-free-upgrade-path",
           "titre": "ICYMI: Cult Of The Lamb Summons A Switch 2 Version, Includes Free Upgrade Path"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-s-shigeru-miyamoto-says-even-if-gen-ai-were-to-even",
-      "titre": "Nintendo's Shigeru Miyamoto says even if gen-AI \"were to eventually handle everything, there will always be a role left\" for human designers",
-      "url": "https://www.eurogamer.net/nintendo-shigeru-miyamoto-gen-ai",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 32.3,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/nintendo-shigeru-miyamoto-gen-ai",
-          "titre": "Nintendo's Shigeru Miyamoto says even if gen-AI \"were to eventually handle everything, there will always be a role left\" for human designers"
-        }
-      ]
-    },
-    {
-      "id": "countdown-zelda-ocarina-of-time-dungeon-crawl-6-forget-the-h",
-      "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #6 - Forget The Hate, It Still Floats My Boat",
-      "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-6-forget-the-hate-it-still-floats-my-boat",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 35.5,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-6-forget-the-hate-it-still-floats-my-boat",
-          "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #6 - Forget The Hate, It Still Floats My Boat"
         }
       ]
     },
@@ -335,8 +269,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.6,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -353,8 +287,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.0,
-      "chaleur": 4,
+      "heures": 14.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -371,8 +305,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.5,
-      "chaleur": 4,
+      "heures": 16.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -389,8 +323,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
+      "heures": 17.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -407,8 +341,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 4,
+      "heures": 17.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -425,8 +359,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 4,
+      "heures": 17.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -443,8 +377,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 4,
+      "heures": 17.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -461,8 +395,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.0,
-      "chaleur": 4,
+      "heures": 17.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -479,8 +413,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.2,
-      "chaleur": 4,
+      "heures": 18.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -497,8 +431,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 18.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -515,8 +449,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 4,
+      "heures": 18.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -533,8 +467,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 4,
+      "heures": 18.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -551,7 +485,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 19.2,
       "chaleur": 3,
       "liens": [
         {
@@ -569,7 +503,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.7,
+      "heures": 19.5,
       "chaleur": 3,
       "liens": [
         {
@@ -587,7 +521,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 19.7,
       "chaleur": 3,
       "liens": [
         {
@@ -605,7 +539,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 20.2,
       "chaleur": 3,
       "liens": [
         {
@@ -623,7 +557,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 20.2,
       "chaleur": 3,
       "liens": [
         {
@@ -641,7 +575,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.0,
+      "heures": 20.7,
       "chaleur": 3,
       "liens": [
         {
@@ -659,7 +593,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.1,
+      "heures": 20.8,
       "chaleur": 3,
       "liens": [
         {
@@ -677,7 +611,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.5,
+      "heures": 21.2,
       "chaleur": 3,
       "liens": [
         {
@@ -695,7 +629,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.5,
+      "heures": 21.2,
       "chaleur": 3,
       "liens": [
         {
@@ -713,13 +647,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.0,
+      "heures": 21.7,
       "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/fallout-shelter-the-experiment-prime-video-release-date",
           "titre": "Prime Video's Fallout reality competition Fallout Shelter: The Experiment premieres in January"
+        }
+      ]
+    },
+    {
+      "id": "after-14-years-of-development-factorio-s-final-major-update",
+      "titre": "After 14 years of development, Factorio's final major update is out now",
+      "url": "https://www.pcgamer.com/games/survival-crafting/after-14-years-of-development-factorios-final-major-update-is-out-now/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 23.1,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/survival-crafting/after-14-years-of-development-factorios-final-major-update-is-out-now/",
+          "titre": "After 14 years of development, Factorio's final major update is out now"
         }
       ]
     },
@@ -731,7 +683,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.5,
+      "heures": 23.2,
       "chaleur": 3,
       "liens": [
         {
@@ -749,7 +701,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 24.1,
       "chaleur": 3,
       "liens": [
         {
@@ -767,7 +719,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 17.5,
+      "heures": 24.2,
       "chaleur": 3,
       "liens": [
         {
@@ -785,67 +737,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.5,
+      "heures": 28.2,
       "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/what-weve-been-playing-warframe-over-the-hill-switch-sports-resort",
           "titre": "What we've been playing - \"Shoving Moon Flesh into an alien grandma's mouth\""
-        }
-      ]
-    },
-    {
-      "id": "mass-effect-5-was-set-in-a-galactic-cold-war-new-leak-claims",
-      "titre": "Mass Effect 5 was set in a 'galactic Cold War,' new leak claims, and all 3 endings were wrapped into 1",
-      "url": "https://www.pcgamer.com/games/mass-effect/mass-effect-5-was-set-in-a-galactic-cold-war-new-leak-claims-and-all-3-endings-were-wrapped-into-1/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 30.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/mass-effect/mass-effect-5-was-set-in-a-galactic-cold-war-new-leak-claims-and-all-3-endings-were-wrapped-into-1/",
-          "titre": "Mass Effect 5 was set in a 'galactic Cold War,' new leak claims, and all 3 endings were wrapped into 1"
-        }
-      ]
-    },
-    {
-      "id": "gamemaker-s-gmrt-runtime-will-soon-be-free-for-all-developer",
-      "titre": "GameMaker's GMRT runtime will soon be free for all developers",
-      "url": "https://www.gamedeveloper.com/programming/gamemaker-s-gmrt-runtime-will-soon-be-free-for-all-commercial-devs",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 34.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/programming/gamemaker-s-gmrt-runtime-will-soon-be-free-for-all-commercial-devs",
-          "titre": "GameMaker's GMRT runtime will soon be free for all developers"
-        }
-      ]
-    },
-    {
-      "id": "future-no-thanks-dev-removes-ai-generated-voices-from-game-a",
-      "titre": "Future? No Thanks! dev removes AI-generated voices from game and offers refunds to players who feel \"betrayed\"",
-      "url": "https://www.rockpapershotgun.com/future-no-thanks-dev-removes-ai-generated-voices-from-game-and-offers-refunds-to-players-who-feel-betrayed",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 35.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/future-no-thanks-dev-removes-ai-generated-voices-from-game-and-offers-refunds-to-players-who-feel-betrayed",
-          "titre": "Future? No Thanks! dev removes AI-generated voices from game and offers refunds to players who feel \"betrayed\""
         }
       ]
     }
