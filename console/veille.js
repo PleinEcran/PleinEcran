@@ -1,8 +1,104 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "25/10/2026 à 11h14",
+  "collecte": "25/10/2026 à 16h03",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "an-officially-licensed-knightmare-game-based-on-the-british",
+      "titre": "An officially licensed Knightmare game, based on the British TV show, is coming next year",
+      "url": "https://www.eurogamer.net/knightmare-game-free-pc-original-cast",
+      "sources": [
+        "Eurogamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 1.5,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/knightmare-game-free-pc-original-cast",
+          "titre": "An officially licensed Knightmare game, based on the British TV show, is coming next year"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/a-free-officially-licensed-game-based-on-classic-uk-childrens-tv-show-knightmare-is-in-development/",
+          "titre": "A free, officially licensed game based on classic UK children’s TV show Knightmare is in development"
+        }
+      ]
+    },
+    {
+      "id": "this-is-the-bit-where-the-comet-hits-the-earth-and-the-dino",
+      "titre": "'This is the bit where the comet hits the earth and the dinosaurs die:' Tim Sweeney revisits scathing 26-year-old eulogy for beloved studio Looking Glass",
+      "url": "https://www.pcgamer.com/gaming-industry/this-is-the-bit-where-the-comet-hits-the-earth-and-the-dinosaurs-die-tim-sweeney-revisits-scathing-26-year-old-eulogy-for-beloved-studio-looking-glass/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/this-is-the-bit-where-the-comet-hits-the-earth-and-the-dinosaurs-die-tim-sweeney-revisits-scathing-26-year-old-eulogy-for-beloved-studio-looking-glass/",
+          "titre": "'This is the bit where the comet hits the earth and the dinosaurs die:' Tim Sweeney revisits scathing 26-year-old eulogy for beloved studio Looking Glass"
+        }
+      ]
+    },
+    {
+      "id": "this-third-person-mod-for-deus-ex-turns-the-classic-immersiv",
+      "titre": "This third-person mod for Deus Ex turns the classic immersive sim into Max Payne, introducing dual-wielding and shoot-dodging",
+      "url": "https://www.pcgamer.com/games/sim/this-third-person-mod-for-deus-ex-turns-the-classic-immersive-sim-into-max-payne-introducing-dual-wielding-and-shoot-dodging/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sim/this-third-person-mod-for-deus-ex-turns-the-classic-immersive-sim-into-max-payne-introducing-dual-wielding-and-shoot-dodging/",
+          "titre": "This third-person mod for Deus Ex turns the classic immersive sim into Max Payne, introducing dual-wielding and shoot-dodging"
+        }
+      ]
+    },
+    {
+      "id": "feature-ps5-answers-bleakest-month-with-a-22-upswing-in-sale",
+      "titre": "Feature: PS5 Answers 'Bleakest' Month with a 22% Upswing in Sales",
+      "url": "https://www.pushsquare.com/features/ps5-answers-bleakest-month-with-a-22percent-upswing-in-sales",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/ps5-answers-bleakest-month-with-a-22percent-upswing-in-sales",
+          "titre": "Feature: PS5 Answers 'Bleakest' Month with a 22% Upswing in Sales"
+        }
+      ]
+    },
+    {
+      "id": "civilization-7-s-game-changing-update-was-personally-challen",
+      "titre": "Civilization 7's game changing update was 'personally challenging' for its creative director, as being able to play as a single faction 'wasn't part of the original vision'",
+      "url": "https://www.pcgamer.com/games/strategy/civilization-7s-game-changing-update-was-personally-challenging-for-its-creative-director-as-being-able-to-play-as-a-single-civ-wasnt-part-of-the-original-vision/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/strategy/civilization-7s-game-changing-update-was-personally-challenging-for-its-creative-director-as-being-able-to-play-as-a-single-civ-wasnt-part-of-the-original-vision/",
+          "titre": "Civilization 7's game changing update was 'personally challenging' for its creative director, as being able to play as a single faction 'wasn't part of the original vision'"
+        }
+      ]
+    },
     {
       "id": "forward-now-into-oblivion-s-inky-embrace-darkest-dungeon-ii",
       "titre": "\"Forward Now, Into Oblivion's Inky Embrace\" - Darkest Dungeon II Now Has A Switch 2 Edition",
@@ -11,85 +107,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 8,
+      "heures": 7.1,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/forward-now-into-oblivions-inky-embrace-darkest-dungeon-ii-now-has-a-switch-2-edition",
           "titre": "\"Forward Now, Into Oblivion's Inky Embrace\" - Darkest Dungeon II Now Has A Switch 2 Edition"
-        }
-      ]
-    },
-    {
-      "id": "cyberpunk-edgerunners-season-2-is-more-than-a-retread-of-net",
-      "titre": "Cyberpunk: Edgerunners Season 2 is more than a retread of Netflix's beloved first season - it's a story that truly understands what it means to exist in Night City",
-      "url": "https://www.eurogamer.net/cyberpunk-edgerunners-season-2-major-theme",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 1.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/cyberpunk-edgerunners-season-2-major-theme",
-          "titre": "Cyberpunk: Edgerunners Season 2 is more than a retread of Netflix's beloved first season - it's a story that truly understands what it means to exist in Night City"
-        }
-      ]
-    },
-    {
-      "id": "the-sunday-papers",
-      "titre": "The Sunday Papers",
-      "url": "https://www.rockpapershotgun.com/the-sunday-papers-833",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 1.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-sunday-papers-833",
-          "titre": "The Sunday Papers"
-        }
-      ]
-    },
-    {
-      "id": "feature-box-art-brawl-duel-avenging-spirit-game-boy",
-      "titre": "Feature: Box Art Brawl - Duel: Avenging Spirit (Game Boy)",
-      "url": "https://www.nintendolife.com/features/box-art-brawl-duel-avenging-spirit-game-boy",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 1.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/box-art-brawl-duel-avenging-spirit-game-boy",
-          "titre": "Feature: Box Art Brawl - Duel: Avenging Spirit (Game Boy)"
-        }
-      ]
-    },
-    {
-      "id": "video-the-tomb-raider-series-celebrates-its-30th-anniversary",
-      "titre": "Video: The Tomb Raider Series Celebrates Its 30th Anniversary This Week",
-      "url": "https://www.nintendolife.com/news/2026/10/video-the-tomb-raider-series-celebrates-its-30th-anniversary-this-week",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/video-the-tomb-raider-series-celebrates-its-30th-anniversary-this-week",
-          "titre": "Video: The Tomb Raider Series Celebrates Its 30th Anniversary This Week"
         }
       ]
     },
@@ -101,7 +125,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 10.1,
       "chaleur": 6,
       "liens": [
         {
@@ -120,7 +144,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 26.2,
+      "heures": 31.1,
       "chaleur": 6,
       "liens": [
         {
@@ -136,24 +160,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-legend-of-zelda-ocarina-of-time-switch-2-esrb-rating-sum",
-      "titre": "The Legend Of Zelda: Ocarina Of Time Switch 2 ESRB Rating Summary Published",
-      "url": "https://www.nintendolife.com/news/2026/10/the-legend-of-zelda-ocarina-of-time-switch-2-esrb-rating-summary-published",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 35.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/the-legend-of-zelda-ocarina-of-time-switch-2-esrb-rating-summary-published",
-          "titre": "The Legend Of Zelda: Ocarina Of Time Switch 2 ESRB Rating Summary Published"
-        }
-      ]
-    },
-    {
       "id": "top-xbox-exec-promoted-in-brand-reset-leaves-after-3-months",
       "titre": "Top Xbox exec promoted in brand 'reset' leaves after 3 months in role",
       "url": "https://www.pcgamer.com/gaming-industry/top-xbox-exec-promoted-in-brand-reset-leaves-after-3-months-in-role/",
@@ -161,7 +167,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.3,
+      "heures": 21.1,
       "chaleur": 5,
       "liens": [
         {
@@ -179,7 +185,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 19.3,
+      "heures": 24.1,
       "chaleur": 5,
       "liens": [
         {
@@ -197,7 +203,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 20.1,
+      "heures": 24.9,
       "chaleur": 5,
       "liens": [
         {
@@ -215,7 +221,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 22.3,
+      "heures": 27.1,
       "chaleur": 5,
       "liens": [
         {
@@ -233,7 +239,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.2,
+      "heures": 32.1,
       "chaleur": 5,
       "liens": [
         {
@@ -244,20 +250,92 @@ const VEILLE = {
       ]
     },
     {
-      "id": "icymi-cult-of-the-lamb-summons-a-switch-2-version-includes-f",
-      "titre": "ICYMI: Cult Of The Lamb Summons A Switch 2 Version, Includes Free Upgrade Path",
-      "url": "https://www.nintendolife.com/news/2026/10/icymi-cult-of-the-lamb-summons-a-switch-2-version-includes-free-upgrade-path",
+      "id": "mass-effect-5-would-have-let-players-generate-alternate-time",
+      "titre": "Mass Effect 5 would have let players generate alternate timelines based on their choices in previous games, according to the series' technical director",
+      "url": "https://www.pcgamer.com/games/mass-effect/mass-effect-5-would-have-let-players-generate-alternate-timelines-based-on-their-choices-in-previous-games-according-to-the-series-technical-director/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/mass-effect/mass-effect-5-would-have-let-players-generate-alternate-timelines-based-on-their-choices-in-previous-games-according-to-the-series-technical-director/",
+          "titre": "Mass Effect 5 would have let players generate alternate timelines based on their choices in previous games, according to the series' technical director"
+        }
+      ]
+    },
+    {
+      "id": "cyberpunk-edgerunners-season-2-is-more-than-a-retread-of-net",
+      "titre": "Cyberpunk: Edgerunners Season 2 is more than a retread of Netflix's beloved first season - it's a story that truly understands what it means to exist in Night City",
+      "url": "https://www.eurogamer.net/cyberpunk-edgerunners-season-2-major-theme",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 6.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/cyberpunk-edgerunners-season-2-major-theme",
+          "titre": "Cyberpunk: Edgerunners Season 2 is more than a retread of Netflix's beloved first season - it's a story that truly understands what it means to exist in Night City"
+        }
+      ]
+    },
+    {
+      "id": "the-sunday-papers",
+      "titre": "The Sunday Papers",
+      "url": "https://www.rockpapershotgun.com/the-sunday-papers-833",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 6.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-sunday-papers-833",
+          "titre": "The Sunday Papers"
+        }
+      ]
+    },
+    {
+      "id": "feature-box-art-brawl-duel-avenging-spirit-game-boy",
+      "titre": "Feature: Box Art Brawl - Duel: Avenging Spirit (Game Boy)",
+      "url": "https://www.nintendolife.com/features/box-art-brawl-duel-avenging-spirit-game-boy",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 31.7,
-      "chaleur": 5,
+      "heures": 6.1,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/icymi-cult-of-the-lamb-summons-a-switch-2-version-includes-free-upgrade-path",
-          "titre": "ICYMI: Cult Of The Lamb Summons A Switch 2 Version, Includes Free Upgrade Path"
+          "url": "https://www.nintendolife.com/features/box-art-brawl-duel-avenging-spirit-game-boy",
+          "titre": "Feature: Box Art Brawl - Duel: Avenging Spirit (Game Boy)"
+        }
+      ]
+    },
+    {
+      "id": "video-the-tomb-raider-series-celebrates-its-30th-anniversary",
+      "titre": "Video: The Tomb Raider Series Celebrates Its 30th Anniversary This Week",
+      "url": "https://www.nintendolife.com/news/2026/10/video-the-tomb-raider-series-celebrates-its-30th-anniversary-this-week",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 8.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/video-the-tomb-raider-series-celebrates-its-30th-anniversary-this-week",
+          "titre": "Video: The Tomb Raider Series Celebrates Its 30th Anniversary This Week"
         }
       ]
     },
@@ -269,7 +347,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 18.2,
       "chaleur": 3,
       "liens": [
         {
@@ -287,7 +365,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.8,
+      "heures": 19.6,
       "chaleur": 3,
       "liens": [
         {
@@ -305,7 +383,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 16.3,
+      "heures": 21.1,
       "chaleur": 3,
       "liens": [
         {
@@ -323,7 +401,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.1,
+      "heures": 21.9,
       "chaleur": 3,
       "liens": [
         {
@@ -341,7 +419,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.1,
+      "heures": 21.9,
       "chaleur": 3,
       "liens": [
         {
@@ -359,31 +437,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.2,
+      "heures": 22.1,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/rpg/biowares-incredible-legacy-will-continue-as-long-as-there-are-rpgs/",
           "titre": "BioWare's incredible legacy will continue as long as there are RPGs"
-        }
-      ]
-    },
-    {
-      "id": "a-free-officially-licensed-game-based-on-classic-uk-children",
-      "titre": "A free, officially licensed game based on classic UK children’s TV show Knightmare is in development",
-      "url": "https://www.videogameschronicle.com/news/a-free-officially-licensed-game-based-on-classic-uk-childrens-tv-show-knightmare-is-in-development/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 17.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/a-free-officially-licensed-game-based-on-classic-uk-childrens-tv-show-knightmare-is-in-development/",
-          "titre": "A free, officially licensed game based on classic UK children’s TV show Knightmare is in development"
         }
       ]
     },
@@ -395,7 +455,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 17.7,
+      "heures": 22.6,
       "chaleur": 3,
       "liens": [
         {
@@ -413,7 +473,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 18.0,
+      "heures": 22.8,
       "chaleur": 3,
       "liens": [
         {
@@ -431,7 +491,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 18.2,
+      "heures": 23.0,
       "chaleur": 3,
       "liens": [
         {
@@ -449,7 +509,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.2,
+      "heures": 23.1,
       "chaleur": 3,
       "liens": [
         {
@@ -467,7 +527,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.2,
+      "heures": 23.1,
       "chaleur": 3,
       "liens": [
         {
@@ -485,7 +545,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.2,
+      "heures": 24.1,
       "chaleur": 3,
       "liens": [
         {
@@ -503,7 +563,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.5,
+      "heures": 24.3,
       "chaleur": 3,
       "liens": [
         {
@@ -521,7 +581,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.7,
+      "heures": 24.5,
       "chaleur": 3,
       "liens": [
         {
@@ -539,7 +599,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 20.2,
+      "heures": 25.1,
       "chaleur": 3,
       "liens": [
         {
@@ -557,7 +617,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 20.2,
+      "heures": 25.1,
       "chaleur": 3,
       "liens": [
         {
@@ -575,7 +635,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 20.7,
+      "heures": 25.6,
       "chaleur": 3,
       "liens": [
         {
@@ -593,7 +653,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 20.8,
+      "heures": 25.6,
       "chaleur": 3,
       "liens": [
         {
@@ -611,7 +671,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 21.2,
+      "heures": 26.1,
       "chaleur": 3,
       "liens": [
         {
@@ -629,7 +689,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 21.2,
+      "heures": 26.1,
       "chaleur": 3,
       "liens": [
         {
@@ -647,31 +707,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.7,
+      "heures": 26.5,
       "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/fallout-shelter-the-experiment-prime-video-release-date",
           "titre": "Prime Video's Fallout reality competition Fallout Shelter: The Experiment premieres in January"
-        }
-      ]
-    },
-    {
-      "id": "after-14-years-of-development-factorio-s-final-major-update",
-      "titre": "After 14 years of development, Factorio's final major update is out now",
-      "url": "https://www.pcgamer.com/games/survival-crafting/after-14-years-of-development-factorios-final-major-update-is-out-now/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 23.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/survival-crafting/after-14-years-of-development-factorios-final-major-update-is-out-now/",
-          "titre": "After 14 years of development, Factorio's final major update is out now"
         }
       ]
     },
@@ -683,31 +725,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.2,
+      "heures": 28.1,
       "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/features/15-years-ago-return-to-dream-land-ushered-in-kirbys-golden-era",
           "titre": "Feature: 15 Years Ago, 'Return To Dream Land' Ushered In Kirby's Golden Era"
-        }
-      ]
-    },
-    {
-      "id": "star-wars-galaxies-restoration-project-just-received-another",
-      "titre": "Star Wars Galaxies' Restoration project just received another massive update, including a huge visual upgrade and an overhaul to the Wookiees' home planet",
-      "url": "https://www.pcgamer.com/games/mmo/star-wars-galaxies-just-got-another-massive-update-thanks-to-its-community-restoration-project-including-a-huge-visual-upgrade-and-a-refurb-to-the-wookiees-home-planet/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 24.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/mmo/star-wars-galaxies-just-got-another-massive-update-thanks-to-its-community-restoration-project-including-a-huge-visual-upgrade-and-a-refurb-to-the-wookiees-home-planet/",
-          "titre": "Star Wars Galaxies' Restoration project just received another massive update, including a huge visual upgrade and an overhaul to the Wookiees' home planet"
         }
       ]
     },
@@ -719,7 +743,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 24.2,
+      "heures": 29.1,
       "chaleur": 3,
       "liens": [
         {
@@ -737,7 +761,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 28.2,
+      "heures": 33.1,
       "chaleur": 3,
       "liens": [
         {
