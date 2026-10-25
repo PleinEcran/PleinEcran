@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "25/10/2026 à 18h58",
+  "collecte": "25/10/2026 à 22h29",
   "seuil": 14,
   "sujets": [
     {
@@ -12,7 +12,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 0.1,
+      "heures": 3.6,
       "chaleur": 12,
       "liens": [
         {
@@ -28,24 +28,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-creator-of-our-running-rpg-of-the-year-weighs-in-on-biow",
-      "titre": "The creator of our running RPG of the year weighs in on BioWare's closure: 'They were fundamental to the genre'",
-      "url": "https://www.pcgamer.com/games/rpg/the-creator-of-our-running-rpg-of-the-year-weighs-in-on-biowares-closure-they-were-fundamental-to-the-genre/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 0.6,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/the-creator-of-our-running-rpg-of-the-year-weighs-in-on-biowares-closure-they-were-fundamental-to-the-genre/",
-          "titre": "The creator of our running RPG of the year weighs in on BioWare's closure: 'They were fundamental to the genre'"
-        }
-      ]
-    },
-    {
       "id": "shenmue-3-revival-postponed-as-ps5-re-release-is-delayed-to",
       "titre": "Shenmue 3 Revival Postponed, as PS5 Re-Release Is Delayed to Early 2027",
       "url": "https://www.pushsquare.com/news/2026/10/shenmue-3-revival-postponed-as-ps5-re-release-is-delayed-to-early-2027",
@@ -53,13 +35,31 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.5,
+      "heures": 4.0,
       "chaleur": 8,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/shenmue-3-revival-postponed-as-ps5-re-release-is-delayed-to-early-2027",
           "titre": "Shenmue 3 Revival Postponed, as PS5 Re-Release Is Delayed to Early 2027"
+        }
+      ]
+    },
+    {
+      "id": "the-creator-of-our-running-rpg-of-the-year-weighs-in-on-biow",
+      "titre": "The creator of our running RPG of the year weighs in on BioWare's closure: 'They were fundamental to the genre'",
+      "url": "https://www.pcgamer.com/games/rpg/the-creator-of-our-running-rpg-of-the-year-weighs-in-on-biowares-closure-they-were-fundamental-to-the-genre/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.1,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/the-creator-of-our-running-rpg-of-the-year-weighs-in-on-biowares-closure-they-were-fundamental-to-the-genre/",
+          "titre": "The creator of our running RPG of the year weighs in on BioWare's closure: 'They were fundamental to the genre'"
         }
       ]
     },
@@ -72,7 +72,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 4.4,
+      "heures": 8.0,
       "chaleur": 7,
       "liens": [
         {
@@ -88,164 +88,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "call-of-duty-movie-will-explore-the-cost-of-war-says-directo",
-      "titre": "Call of Duty movie will explore the \"cost of war\", says director",
-      "url": "https://www.eurogamer.net/call-of-duty-movie-cost-of-war",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 0.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/call-of-duty-movie-cost-of-war",
-          "titre": "Call of Duty movie will explore the \"cost of war\", says director"
-        }
-      ]
-    },
-    {
-      "id": "riot-resurrected-3-of-its-biggest-league-of-legends-pop-grou",
-      "titre": "Riot resurrected 3 of its biggest League of Legends pop groups, but only one emerged victorious",
-      "url": "https://www.pcgamer.com/games/moba/riot-resurrected-3-of-its-biggest-league-of-legends-pop-groups-but-only-one-emerged-victorious/",
+      "id": "commander-shepard-actors-jennifer-hale-mark-meer-mourn-biowa",
+      "titre": "Commander Shepard actors Jennifer Hale & Mark Meer mourn BioWare: 'It was in the hands of ownership that may not have understood what BioWare fully is''",
+      "url": "https://www.pcgamer.com/games/mass-effect/commander-shepard-actors-jennifer-hale-and-mark-meer-mourn-bioware-together-it-was-in-the-hands-of-ownership-that-may-not-have-understood-what-bioware-fully-is/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 1.7,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/moba/riot-resurrected-3-of-its-biggest-league-of-legends-pop-groups-but-only-one-emerged-victorious/",
-          "titre": "Riot resurrected 3 of its biggest League of Legends pop groups, but only one emerged victorious"
+          "url": "https://www.pcgamer.com/games/mass-effect/commander-shepard-actors-jennifer-hale-and-mark-meer-mourn-bioware-together-it-was-in-the-hands-of-ownership-that-may-not-have-understood-what-bioware-fully-is/",
+          "titre": "Commander Shepard actors Jennifer Hale & Mark Meer mourn BioWare: 'It was in the hands of ownership that may not have understood what BioWare fully is''"
         }
       ]
     },
     {
-      "id": "overwatch-devs-took-one-look-at-jetpack-cat-and-bastion-s-co",
-      "titre": "Overwatch devs took one look at Jetpack Cat and Bastion's combo and went 'oh, that's a little scary'",
-      "url": "https://www.pcgamer.com/games/fps/overwatch-devs-took-one-look-at-jetpack-cat-and-bastions-combo-and-went-oh-thats-a-little-scary/",
+      "id": "indies-and-non-sequels-have-exploded-in-the-last-year-and-it",
+      "titre": "Indies and non-sequels have exploded in the last year, and it's not all friendslop",
+      "url": "https://www.pcgamer.com/gaming-industry/indies-and-non-sequels-have-exploded-in-the-last-year-and-its-not-all-friendslop/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.0,
+      "heures": 3.2,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/overwatch-devs-took-one-look-at-jetpack-cat-and-bastions-combo-and-went-oh-thats-a-little-scary/",
-          "titre": "Overwatch devs took one look at Jetpack Cat and Bastion's combo and went 'oh, that's a little scary'"
-        }
-      ]
-    },
-    {
-      "id": "dark-souls-2-seamless-co-op-is-the-chillest-way-to-play-from",
-      "titre": "Dark Souls 2 Seamless Co-op is the chillest way to play FromSoft's most frustrating game",
-      "url": "https://www.pcgamer.com/games/dark-souls/dark-souls-2-seamless-co-op-is-the-chillest-way-to-play-fromsofts-most-frustrating-game/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/dark-souls/dark-souls-2-seamless-co-op-is-the-chillest-way-to-play-fromsofts-most-frustrating-game/",
-          "titre": "Dark Souls 2 Seamless Co-op is the chillest way to play FromSoft's most frustrating game"
-        }
-      ]
-    },
-    {
-      "id": "elden-ring-movie-has-a-budget-of-nearly-200-million",
-      "titre": "Elden Ring movie has a budget of nearly $200 million",
-      "url": "https://www.eurogamer.net/elden-ring-movie-a24-budget-200-million",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/elden-ring-movie-a24-budget-200-million",
-          "titre": "Elden Ring movie has a budget of nearly $200 million"
-        }
-      ]
-    },
-    {
-      "id": "ps5-s-war-against-jailbreaks-triggers-fresh-wave-of-criticis",
-      "titre": "PS5's War Against Jailbreaks Triggers Fresh Wave of Criticism",
-      "url": "https://www.pushsquare.com/news/2026/10/ps5s-war-against-jailbreaks-triggers-fresh-wave-of-criticism",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/ps5s-war-against-jailbreaks-triggers-fresh-wave-of-criticism",
-          "titre": "PS5's War Against Jailbreaks Triggers Fresh Wave of Criticism"
-        }
-      ]
-    },
-    {
-      "id": "feature-30-years-later-i-m-finally-learning-to-play-the-ocar",
-      "titre": "Feature: 30 Years Later, I'm Finally Learning To Play The Ocarina (And You Should Too)",
-      "url": "https://www.nintendolife.com/features/30-years-later-im-finally-learning-to-play-the-ocarina-and-you-should-too",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/30-years-later-im-finally-learning-to-play-the-ocarina-and-you-should-too",
-          "titre": "Feature: 30 Years Later, I'm Finally Learning To Play The Ocarina (And You Should Too)"
-        }
-      ]
-    },
-    {
-      "id": "jordan-thomas-director-of-bioshock-2-played-path-of-exile-fo",
-      "titre": "Jordan Thomas, director of BioShock 2, played Path of Exile for over 7,000 hours while working on co-op horror game The Blackout Club: 'I was essentially awake all the time'",
-      "url": "https://www.pcgamer.com/gaming-industry/jordan-thomas-director-of-bioshock-2-played-path-of-exile-for-over-7-000-hours-while-working-on-co-op-horror-game-the-blackout-club-i-was-essentially-awake-all-the-time/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/jordan-thomas-director-of-bioshock-2-played-path-of-exile-for-over-7-000-hours-while-working-on-co-op-horror-game-the-blackout-club-i-was-essentially-awake-all-the-time/",
-          "titre": "Jordan Thomas, director of BioShock 2, played Path of Exile for over 7,000 hours while working on co-op horror game The Blackout Club: 'I was essentially awake all the time'"
-        }
-      ]
-    },
-    {
-      "id": "this-is-the-bit-where-the-comet-hits-the-earth-and-the-dino",
-      "titre": "'This is the bit where the comet hits the earth and the dinosaurs die:' Tim Sweeney revisits scathing 26-year-old eulogy for beloved studio Looking Glass",
-      "url": "https://www.pcgamer.com/gaming-industry/this-is-the-bit-where-the-comet-hits-the-earth-and-the-dinosaurs-die-tim-sweeney-revisits-scathing-26-year-old-eulogy-for-beloved-studio-looking-glass/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/this-is-the-bit-where-the-comet-hits-the-earth-and-the-dinosaurs-die-tim-sweeney-revisits-scathing-26-year-old-eulogy-for-beloved-studio-looking-glass/",
-          "titre": "'This is the bit where the comet hits the earth and the dinosaurs die:' Tim Sweeney revisits scathing 26-year-old eulogy for beloved studio Looking Glass"
+          "url": "https://www.pcgamer.com/gaming-industry/indies-and-non-sequels-have-exploded-in-the-last-year-and-its-not-all-friendslop/",
+          "titre": "Indies and non-sequels have exploded in the last year, and it's not all friendslop"
         }
       ]
     },
@@ -257,37 +131,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 10.0,
-      "chaleur": 6,
+      "heures": 13.5,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/forward-now-into-oblivions-inky-embrace-darkest-dungeon-ii-now-has-a-switch-2-edition",
           "titre": "\"Forward Now, Into Oblivion's Inky Embrace\" - Darkest Dungeon II Now Has A Switch 2 Edition"
-        }
-      ]
-    },
-    {
-      "id": "talking-point-what-are-you-playing-this-weekend-24th-october",
-      "titre": "Talking Point: What Are You Playing This Weekend? (24th October)",
-      "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-24th-october",
-      "sources": [
-        "Nintendo Life",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 34.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-24th-october",
-          "titre": "Talking Point: What Are You Playing This Weekend? (24th October)"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-405",
-          "titre": "What are we all playing this weekend?"
         }
       ]
     },
@@ -299,7 +149,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.1,
+      "heures": 16.6,
       "chaleur": 5,
       "liens": [
         {
@@ -317,7 +167,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 24.0,
+      "heures": 27.5,
       "chaleur": 5,
       "liens": [
         {
@@ -335,7 +185,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 27.0,
+      "heures": 30.5,
       "chaleur": 5,
       "liens": [
         {
@@ -353,7 +203,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 30.0,
+      "heures": 33.5,
       "chaleur": 5,
       "liens": [
         {
@@ -364,20 +214,164 @@ const VEILLE = {
       ]
     },
     {
-      "id": "final-battle-nintendo-music-expands-its-library-with-the-ar",
-      "titre": "\"Final Battle\" - Nintendo Music Expands Its Library With The ARMS Soundtrack",
-      "url": "https://www.nintendolife.com/news/2026/10/final-battle-nintendo-music-expands-its-library-with-the-arms-soundtrack",
+      "id": "call-of-duty-movie-will-explore-the-cost-of-war-says-directo",
+      "titre": "Call of Duty movie will explore the \"cost of war\", says director",
+      "url": "https://www.eurogamer.net/call-of-duty-movie-cost-of-war",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/call-of-duty-movie-cost-of-war",
+          "titre": "Call of Duty movie will explore the \"cost of war\", says director"
+        }
+      ]
+    },
+    {
+      "id": "riot-resurrected-3-of-its-biggest-league-of-legends-pop-grou",
+      "titre": "Riot resurrected 3 of its biggest League of Legends pop groups, but only one emerged victorious",
+      "url": "https://www.pcgamer.com/games/moba/riot-resurrected-3-of-its-biggest-league-of-legends-pop-groups-but-only-one-emerged-victorious/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/moba/riot-resurrected-3-of-its-biggest-league-of-legends-pop-groups-but-only-one-emerged-victorious/",
+          "titre": "Riot resurrected 3 of its biggest League of Legends pop groups, but only one emerged victorious"
+        }
+      ]
+    },
+    {
+      "id": "overwatch-devs-took-one-look-at-jetpack-cat-and-bastion-s-co",
+      "titre": "Overwatch devs took one look at Jetpack Cat and Bastion's combo and went 'oh, that's a little scary'",
+      "url": "https://www.pcgamer.com/games/fps/overwatch-devs-took-one-look-at-jetpack-cat-and-bastions-combo-and-went-oh-thats-a-little-scary/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/overwatch-devs-took-one-look-at-jetpack-cat-and-bastions-combo-and-went-oh-thats-a-little-scary/",
+          "titre": "Overwatch devs took one look at Jetpack Cat and Bastion's combo and went 'oh, that's a little scary'"
+        }
+      ]
+    },
+    {
+      "id": "dark-souls-2-seamless-co-op-is-the-chillest-way-to-play-from",
+      "titre": "Dark Souls 2 Seamless Co-op is the chillest way to play FromSoft's most frustrating game",
+      "url": "https://www.pcgamer.com/games/dark-souls/dark-souls-2-seamless-co-op-is-the-chillest-way-to-play-fromsofts-most-frustrating-game/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/dark-souls/dark-souls-2-seamless-co-op-is-the-chillest-way-to-play-fromsofts-most-frustrating-game/",
+          "titre": "Dark Souls 2 Seamless Co-op is the chillest way to play FromSoft's most frustrating game"
+        }
+      ]
+    },
+    {
+      "id": "elden-ring-movie-has-a-budget-of-nearly-200-million",
+      "titre": "Elden Ring movie has a budget of nearly $200 million",
+      "url": "https://www.eurogamer.net/elden-ring-movie-a24-budget-200-million",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/elden-ring-movie-a24-budget-200-million",
+          "titre": "Elden Ring movie has a budget of nearly $200 million"
+        }
+      ]
+    },
+    {
+      "id": "ps5-s-war-against-jailbreaks-triggers-fresh-wave-of-criticis",
+      "titre": "PS5's War Against Jailbreaks Triggers Fresh Wave of Criticism",
+      "url": "https://www.pushsquare.com/news/2026/10/ps5s-war-against-jailbreaks-triggers-fresh-wave-of-criticism",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 6.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/ps5s-war-against-jailbreaks-triggers-fresh-wave-of-criticism",
+          "titre": "PS5's War Against Jailbreaks Triggers Fresh Wave of Criticism"
+        }
+      ]
+    },
+    {
+      "id": "feature-30-years-later-i-m-finally-learning-to-play-the-ocar",
+      "titre": "Feature: 30 Years Later, I'm Finally Learning To Play The Ocarina (And You Should Too)",
+      "url": "https://www.nintendolife.com/features/30-years-later-im-finally-learning-to-play-the-ocarina-and-you-should-too",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 35.0,
-      "chaleur": 5,
+      "heures": 6.5,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/final-battle-nintendo-music-expands-its-library-with-the-arms-soundtrack",
-          "titre": "\"Final Battle\" - Nintendo Music Expands Its Library With The ARMS Soundtrack"
+          "url": "https://www.nintendolife.com/features/30-years-later-im-finally-learning-to-play-the-ocarina-and-you-should-too",
+          "titre": "Feature: 30 Years Later, I'm Finally Learning To Play The Ocarina (And You Should Too)"
+        }
+      ]
+    },
+    {
+      "id": "jordan-thomas-director-of-bioshock-2-played-path-of-exile-fo",
+      "titre": "Jordan Thomas, director of BioShock 2, played Path of Exile for over 7,000 hours while working on co-op horror game The Blackout Club: 'I was essentially awake all the time'",
+      "url": "https://www.pcgamer.com/gaming-industry/jordan-thomas-director-of-bioshock-2-played-path-of-exile-for-over-7-000-hours-while-working-on-co-op-horror-game-the-blackout-club-i-was-essentially-awake-all-the-time/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/jordan-thomas-director-of-bioshock-2-played-path-of-exile-for-over-7-000-hours-while-working-on-co-op-horror-game-the-blackout-club-i-was-essentially-awake-all-the-time/",
+          "titre": "Jordan Thomas, director of BioShock 2, played Path of Exile for over 7,000 hours while working on co-op horror game The Blackout Club: 'I was essentially awake all the time'"
+        }
+      ]
+    },
+    {
+      "id": "this-is-the-bit-where-the-comet-hits-the-earth-and-the-dino",
+      "titre": "'This is the bit where the comet hits the earth and the dinosaurs die:' Tim Sweeney revisits scathing 26-year-old eulogy for beloved studio Looking Glass",
+      "url": "https://www.pcgamer.com/gaming-industry/this-is-the-bit-where-the-comet-hits-the-earth-and-the-dinosaurs-die-tim-sweeney-revisits-scathing-26-year-old-eulogy-for-beloved-studio-looking-glass/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 7.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/this-is-the-bit-where-the-comet-hits-the-earth-and-the-dinosaurs-die-tim-sweeney-revisits-scathing-26-year-old-eulogy-for-beloved-studio-looking-glass/",
+          "titre": "'This is the bit where the comet hits the earth and the dinosaurs die:' Tim Sweeney revisits scathing 26-year-old eulogy for beloved studio Looking Glass"
         }
       ]
     },
@@ -389,7 +383,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 7.8,
       "chaleur": 4,
       "liens": [
         {
@@ -407,7 +401,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 8.0,
       "chaleur": 4,
       "liens": [
         {
@@ -425,7 +419,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 9.1,
       "chaleur": 4,
       "liens": [
         {
@@ -443,7 +437,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.9,
+      "heures": 10.5,
       "chaleur": 4,
       "liens": [
         {
@@ -461,8 +455,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.0,
-      "chaleur": 4,
+      "heures": 12.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -479,8 +473,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.0,
-      "chaleur": 4,
+      "heures": 12.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -497,8 +491,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.0,
-      "chaleur": 4,
+      "heures": 12.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -515,8 +509,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.0,
-      "chaleur": 4,
+      "heures": 14.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -533,7 +527,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 21.1,
+      "heures": 24.6,
       "chaleur": 3,
       "liens": [
         {
@@ -551,7 +545,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 22.5,
+      "heures": 26.0,
       "chaleur": 3,
       "liens": [
         {
@@ -569,7 +563,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 24.0,
+      "heures": 27.5,
       "chaleur": 3,
       "liens": [
         {
@@ -587,7 +581,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 24.8,
+      "heures": 28.3,
       "chaleur": 3,
       "liens": [
         {
@@ -605,7 +599,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 24.8,
+      "heures": 28.3,
       "chaleur": 3,
       "liens": [
         {
@@ -623,7 +617,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 25.0,
+      "heures": 28.5,
       "chaleur": 3,
       "liens": [
         {
@@ -641,7 +635,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 25.5,
+      "heures": 29.0,
       "chaleur": 3,
       "liens": [
         {
@@ -659,7 +653,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 25.7,
+      "heures": 29.2,
       "chaleur": 3,
       "liens": [
         {
@@ -677,7 +671,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 25.9,
+      "heures": 29.4,
       "chaleur": 3,
       "liens": [
         {
@@ -695,49 +689,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 26.0,
+      "heures": 29.5,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/sonys-new-walkman-is-a-real-status-symbol-with-a-usd6000-price-point-to-match",
           "titre": "Sony's New Walkman Is a Real Status Symbol, with a $6,000 Price Point to Match"
-        }
-      ]
-    },
-    {
-      "id": "now-it-s-over-wow-forever-s-beta-has-left-me-with-just-one-f",
-      "titre": "Now it's over, WoW: Forever's beta has left me with just one fear—its endgame",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/now-its-over-wow-forevers-beta-has-left-me-with-just-one-fear-its-endgame/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 26.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/now-its-over-wow-forevers-beta-has-left-me-with-just-one-fear-its-endgame/",
-          "titre": "Now it's over, WoW: Forever's beta has left me with just one fear—its endgame"
-        }
-      ]
-    },
-    {
-      "id": "new-blood-ceo-confirms-it-the-worst-way-to-sell-immersive-si",
-      "titre": "New Blood CEO confirms it: the worst way to sell immersive sims like Gloomwood and Fallen Aces is to call them immersive sims",
-      "url": "https://www.pcgamer.com/games/sim/new-blood-ceo-confirms-it-the-worst-way-to-sell-immersive-sims-like-gloomwood-and-fallen-aces-is-to-call-them-immersive-sims/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 27.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/new-blood-ceo-confirms-it-the-worst-way-to-sell-immersive-sims-like-gloomwood-and-fallen-aces-is-to-call-them-immersive-sims/",
-          "titre": "New Blood CEO confirms it: the worst way to sell immersive sims like Gloomwood and Fallen Aces is to call them immersive sims"
         }
       ]
     },
@@ -749,7 +707,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 28.0,
+      "heures": 31.5,
       "chaleur": 3,
       "liens": [
         {
@@ -767,7 +725,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 28.5,
+      "heures": 32.0,
       "chaleur": 3,
       "liens": [
         {
@@ -785,7 +743,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 29.0,
+      "heures": 32.5,
       "chaleur": 3,
       "liens": [
         {
@@ -803,7 +761,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.5,
+      "heures": 33.0,
       "chaleur": 3,
       "liens": [
         {
@@ -821,7 +779,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 31.0,
+      "heures": 34.5,
       "chaleur": 3,
       "liens": [
         {
@@ -839,31 +797,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 32.0,
+      "heures": 35.5,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/guides/these-45plus-ps5-and-ps-plus-games-are-coming-out-next-week-26th-1st-november",
           "titre": "Guide: These 45+ PS5 and PS Plus Games Are Coming Out Next Week (26th-1st November)"
-        }
-      ]
-    },
-    {
-      "id": "what-we-ve-been-playing-shoving-moon-flesh-into-an-alien-gra",
-      "titre": "What we've been playing - \"Shoving Moon Flesh into an alien grandma's mouth\"",
-      "url": "https://www.eurogamer.net/what-weve-been-playing-warframe-over-the-hill-switch-sports-resort",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 36.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/what-weve-been-playing-warframe-over-the-hill-switch-sports-resort",
-          "titre": "What we've been playing - \"Shoving Moon Flesh into an alien grandma's mouth\""
         }
       ]
     }
