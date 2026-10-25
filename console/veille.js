@@ -1,8 +1,68 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "25/10/2026 à 16h03",
+  "collecte": "25/10/2026 à 18h58",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "187k-fans-call-for-ea-to-save-mass-effect",
+      "titre": "187K+ fans call for EA to \"Save Mass Effect\"",
+      "url": "https://www.eurogamer.net/save-mass-effect-petition",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 0.1,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/save-mass-effect-petition",
+          "titre": "187K+ fans call for EA to \"Save Mass Effect\""
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/mass-effect/save-mass-effect-petition-hits-over-180-000-signatures-within-days-of-biowares-closure/",
+          "titre": "'Save Mass Effect' petition hits over 180,000 signatures within days of BioWare's closure"
+        }
+      ]
+    },
+    {
+      "id": "the-creator-of-our-running-rpg-of-the-year-weighs-in-on-biow",
+      "titre": "The creator of our running RPG of the year weighs in on BioWare's closure: 'They were fundamental to the genre'",
+      "url": "https://www.pcgamer.com/games/rpg/the-creator-of-our-running-rpg-of-the-year-weighs-in-on-biowares-closure-they-were-fundamental-to-the-genre/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/the-creator-of-our-running-rpg-of-the-year-weighs-in-on-biowares-closure-they-were-fundamental-to-the-genre/",
+          "titre": "The creator of our running RPG of the year weighs in on BioWare's closure: 'They were fundamental to the genre'"
+        }
+      ]
+    },
+    {
+      "id": "shenmue-3-revival-postponed-as-ps5-re-release-is-delayed-to",
+      "titre": "Shenmue 3 Revival Postponed, as PS5 Re-Release Is Delayed to Early 2027",
+      "url": "https://www.pushsquare.com/news/2026/10/shenmue-3-revival-postponed-as-ps5-re-release-is-delayed-to-early-2027",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/shenmue-3-revival-postponed-as-ps5-re-release-is-delayed-to-early-2027",
+          "titre": "Shenmue 3 Revival Postponed, as PS5 Re-Release Is Delayed to Early 2027"
+        }
+      ]
+    },
     {
       "id": "an-officially-licensed-knightmare-game-based-on-the-british",
       "titre": "An officially licensed Knightmare game, based on the British TV show, is coming next year",
@@ -12,8 +72,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 1.5,
-      "chaleur": 9,
+      "heures": 4.4,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Eurogamer",
@@ -28,6 +88,150 @@ const VEILLE = {
       ]
     },
     {
+      "id": "call-of-duty-movie-will-explore-the-cost-of-war-says-directo",
+      "titre": "Call of Duty movie will explore the \"cost of war\", says director",
+      "url": "https://www.eurogamer.net/call-of-duty-movie-cost-of-war",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/call-of-duty-movie-cost-of-war",
+          "titre": "Call of Duty movie will explore the \"cost of war\", says director"
+        }
+      ]
+    },
+    {
+      "id": "riot-resurrected-3-of-its-biggest-league-of-legends-pop-grou",
+      "titre": "Riot resurrected 3 of its biggest League of Legends pop groups, but only one emerged victorious",
+      "url": "https://www.pcgamer.com/games/moba/riot-resurrected-3-of-its-biggest-league-of-legends-pop-groups-but-only-one-emerged-victorious/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/moba/riot-resurrected-3-of-its-biggest-league-of-legends-pop-groups-but-only-one-emerged-victorious/",
+          "titre": "Riot resurrected 3 of its biggest League of Legends pop groups, but only one emerged victorious"
+        }
+      ]
+    },
+    {
+      "id": "overwatch-devs-took-one-look-at-jetpack-cat-and-bastion-s-co",
+      "titre": "Overwatch devs took one look at Jetpack Cat and Bastion's combo and went 'oh, that's a little scary'",
+      "url": "https://www.pcgamer.com/games/fps/overwatch-devs-took-one-look-at-jetpack-cat-and-bastions-combo-and-went-oh-thats-a-little-scary/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/overwatch-devs-took-one-look-at-jetpack-cat-and-bastions-combo-and-went-oh-thats-a-little-scary/",
+          "titre": "Overwatch devs took one look at Jetpack Cat and Bastion's combo and went 'oh, that's a little scary'"
+        }
+      ]
+    },
+    {
+      "id": "dark-souls-2-seamless-co-op-is-the-chillest-way-to-play-from",
+      "titre": "Dark Souls 2 Seamless Co-op is the chillest way to play FromSoft's most frustrating game",
+      "url": "https://www.pcgamer.com/games/dark-souls/dark-souls-2-seamless-co-op-is-the-chillest-way-to-play-fromsofts-most-frustrating-game/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/dark-souls/dark-souls-2-seamless-co-op-is-the-chillest-way-to-play-fromsofts-most-frustrating-game/",
+          "titre": "Dark Souls 2 Seamless Co-op is the chillest way to play FromSoft's most frustrating game"
+        }
+      ]
+    },
+    {
+      "id": "elden-ring-movie-has-a-budget-of-nearly-200-million",
+      "titre": "Elden Ring movie has a budget of nearly $200 million",
+      "url": "https://www.eurogamer.net/elden-ring-movie-a24-budget-200-million",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 2.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/elden-ring-movie-a24-budget-200-million",
+          "titre": "Elden Ring movie has a budget of nearly $200 million"
+        }
+      ]
+    },
+    {
+      "id": "ps5-s-war-against-jailbreaks-triggers-fresh-wave-of-criticis",
+      "titre": "PS5's War Against Jailbreaks Triggers Fresh Wave of Criticism",
+      "url": "https://www.pushsquare.com/news/2026/10/ps5s-war-against-jailbreaks-triggers-fresh-wave-of-criticism",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 2.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/ps5s-war-against-jailbreaks-triggers-fresh-wave-of-criticism",
+          "titre": "PS5's War Against Jailbreaks Triggers Fresh Wave of Criticism"
+        }
+      ]
+    },
+    {
+      "id": "feature-30-years-later-i-m-finally-learning-to-play-the-ocar",
+      "titre": "Feature: 30 Years Later, I'm Finally Learning To Play The Ocarina (And You Should Too)",
+      "url": "https://www.nintendolife.com/features/30-years-later-im-finally-learning-to-play-the-ocarina-and-you-should-too",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 3.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/30-years-later-im-finally-learning-to-play-the-ocarina-and-you-should-too",
+          "titre": "Feature: 30 Years Later, I'm Finally Learning To Play The Ocarina (And You Should Too)"
+        }
+      ]
+    },
+    {
+      "id": "jordan-thomas-director-of-bioshock-2-played-path-of-exile-fo",
+      "titre": "Jordan Thomas, director of BioShock 2, played Path of Exile for over 7,000 hours while working on co-op horror game The Blackout Club: 'I was essentially awake all the time'",
+      "url": "https://www.pcgamer.com/gaming-industry/jordan-thomas-director-of-bioshock-2-played-path-of-exile-for-over-7-000-hours-while-working-on-co-op-horror-game-the-blackout-club-i-was-essentially-awake-all-the-time/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 3.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/jordan-thomas-director-of-bioshock-2-played-path-of-exile-for-over-7-000-hours-while-working-on-co-op-horror-game-the-blackout-club-i-was-essentially-awake-all-the-time/",
+          "titre": "Jordan Thomas, director of BioShock 2, played Path of Exile for over 7,000 hours while working on co-op horror game The Blackout Club: 'I was essentially awake all the time'"
+        }
+      ]
+    },
+    {
       "id": "this-is-the-bit-where-the-comet-hits-the-earth-and-the-dino",
       "titre": "'This is the bit where the comet hits the earth and the dinosaurs die:' Tim Sweeney revisits scathing 26-year-old eulogy for beloved studio Looking Glass",
       "url": "https://www.pcgamer.com/gaming-industry/this-is-the-bit-where-the-comet-hits-the-earth-and-the-dinosaurs-die-tim-sweeney-revisits-scathing-26-year-old-eulogy-for-beloved-studio-looking-glass/",
@@ -35,67 +239,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.6,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/gaming-industry/this-is-the-bit-where-the-comet-hits-the-earth-and-the-dinosaurs-die-tim-sweeney-revisits-scathing-26-year-old-eulogy-for-beloved-studio-looking-glass/",
           "titre": "'This is the bit where the comet hits the earth and the dinosaurs die:' Tim Sweeney revisits scathing 26-year-old eulogy for beloved studio Looking Glass"
-        }
-      ]
-    },
-    {
-      "id": "this-third-person-mod-for-deus-ex-turns-the-classic-immersiv",
-      "titre": "This third-person mod for Deus Ex turns the classic immersive sim into Max Payne, introducing dual-wielding and shoot-dodging",
-      "url": "https://www.pcgamer.com/games/sim/this-third-person-mod-for-deus-ex-turns-the-classic-immersive-sim-into-max-payne-introducing-dual-wielding-and-shoot-dodging/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/this-third-person-mod-for-deus-ex-turns-the-classic-immersive-sim-into-max-payne-introducing-dual-wielding-and-shoot-dodging/",
-          "titre": "This third-person mod for Deus Ex turns the classic immersive sim into Max Payne, introducing dual-wielding and shoot-dodging"
-        }
-      ]
-    },
-    {
-      "id": "feature-ps5-answers-bleakest-month-with-a-22-upswing-in-sale",
-      "titre": "Feature: PS5 Answers 'Bleakest' Month with a 22% Upswing in Sales",
-      "url": "https://www.pushsquare.com/features/ps5-answers-bleakest-month-with-a-22percent-upswing-in-sales",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 1.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/ps5-answers-bleakest-month-with-a-22percent-upswing-in-sales",
-          "titre": "Feature: PS5 Answers 'Bleakest' Month with a 22% Upswing in Sales"
-        }
-      ]
-    },
-    {
-      "id": "civilization-7-s-game-changing-update-was-personally-challen",
-      "titre": "Civilization 7's game changing update was 'personally challenging' for its creative director, as being able to play as a single faction 'wasn't part of the original vision'",
-      "url": "https://www.pcgamer.com/games/strategy/civilization-7s-game-changing-update-was-personally-challenging-for-its-creative-director-as-being-able-to-play-as-a-single-civ-wasnt-part-of-the-original-vision/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/strategy/civilization-7s-game-changing-update-was-personally-challenging-for-its-creative-director-as-being-able-to-play-as-a-single-civ-wasnt-part-of-the-original-vision/",
-          "titre": "Civilization 7's game changing update was 'personally challenging' for its creative director, as being able to play as a single faction 'wasn't part of the original vision'"
         }
       ]
     },
@@ -107,31 +257,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.1,
+      "heures": 10.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/forward-now-into-oblivions-inky-embrace-darkest-dungeon-ii-now-has-a-switch-2-edition",
           "titre": "\"Forward Now, Into Oblivion's Inky Embrace\" - Darkest Dungeon II Now Has A Switch 2 Edition"
-        }
-      ]
-    },
-    {
-      "id": "psa-call-of-duty-modern-warfare-4-switch-2-update-now-live-h",
-      "titre": "PSA: Call Of Duty: Modern Warfare 4 Switch 2 Update Now Live, Here Are The Details",
-      "url": "https://www.nintendolife.com/news/2026/10/psa-call-of-duty-modern-warfare-4-switch-2-update-now-live-here-are-the-details",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/psa-call-of-duty-modern-warfare-4-switch-2-update-now-live-here-are-the-details",
-          "titre": "PSA: Call Of Duty: Modern Warfare 4 Switch 2 Update Now Live, Here Are The Details"
         }
       ]
     },
@@ -144,7 +276,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 31.1,
+      "heures": 34.0,
       "chaleur": 6,
       "liens": [
         {
@@ -160,6 +292,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "psa-call-of-duty-modern-warfare-4-switch-2-update-now-live-h",
+      "titre": "PSA: Call Of Duty: Modern Warfare 4 Switch 2 Update Now Live, Here Are The Details",
+      "url": "https://www.nintendolife.com/news/2026/10/psa-call-of-duty-modern-warfare-4-switch-2-update-now-live-here-are-the-details",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 13.1,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/psa-call-of-duty-modern-warfare-4-switch-2-update-now-live-here-are-the-details",
+          "titre": "PSA: Call Of Duty: Modern Warfare 4 Switch 2 Update Now Live, Here Are The Details"
+        }
+      ]
+    },
+    {
       "id": "top-xbox-exec-promoted-in-brand-reset-leaves-after-3-months",
       "titre": "Top Xbox exec promoted in brand 'reset' leaves after 3 months in role",
       "url": "https://www.pcgamer.com/gaming-industry/top-xbox-exec-promoted-in-brand-reset-leaves-after-3-months-in-role/",
@@ -167,7 +317,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 21.1,
+      "heures": 24.0,
       "chaleur": 5,
       "liens": [
         {
@@ -185,31 +335,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 24.1,
+      "heures": 27.0,
       "chaleur": 5,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/ive-got-egg-on-my-face-because-steams-personal-calendar-feature-has-apparently-been-a-test-this-whole-time-and-is-only-now-actually-a-fully-fledged-component",
           "titre": "I've got egg on my face because Steam's Personal Calendar feature has apparently been a test this whole time and is only now actually a fully fledged component"
-        }
-      ]
-    },
-    {
-      "id": "are-we-in-the-cozy-gaming-gold-rush-era-cozy-has-grown-over",
-      "titre": "Are we in the cozy gaming gold rush era? 'Cozy' has grown over 250% on Steam and 200% in my inbox since 2024",
-      "url": "https://www.pcgamer.com/games/life-sim/are-we-in-the-cozy-gaming-gold-rush-era-cozy-has-grown-over-250-percent-on-steam-and-200-percent-in-my-inbox-since-2024/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 24.9,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/life-sim/are-we-in-the-cozy-gaming-gold-rush-era-cozy-has-grown-over-250-percent-on-steam-and-200-percent-in-my-inbox-since-2024/",
-          "titre": "Are we in the cozy gaming gold rush era? 'Cozy' has grown over 250% on Steam and 200% in my inbox since 2024"
         }
       ]
     },
@@ -221,7 +353,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 27.1,
+      "heures": 30.0,
       "chaleur": 5,
       "liens": [
         {
@@ -239,13 +371,67 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 32.1,
+      "heures": 35.0,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/final-battle-nintendo-music-expands-its-library-with-the-arms-soundtrack",
           "titre": "\"Final Battle\" - Nintendo Music Expands Its Library With The ARMS Soundtrack"
+        }
+      ]
+    },
+    {
+      "id": "this-third-person-mod-for-deus-ex-turns-the-classic-immersiv",
+      "titre": "This third-person mod for Deus Ex turns the classic immersive sim into Max Payne, introducing dual-wielding and shoot-dodging",
+      "url": "https://www.pcgamer.com/games/sim/this-third-person-mod-for-deus-ex-turns-the-classic-immersive-sim-into-max-payne-introducing-dual-wielding-and-shoot-dodging/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sim/this-third-person-mod-for-deus-ex-turns-the-classic-immersive-sim-into-max-payne-introducing-dual-wielding-and-shoot-dodging/",
+          "titre": "This third-person mod for Deus Ex turns the classic immersive sim into Max Payne, introducing dual-wielding and shoot-dodging"
+        }
+      ]
+    },
+    {
+      "id": "feature-ps5-answers-bleakest-month-with-a-22-upswing-in-sale",
+      "titre": "Feature: PS5 Answers 'Bleakest' Month with a 22% Upswing in Sales",
+      "url": "https://www.pushsquare.com/features/ps5-answers-bleakest-month-with-a-22percent-upswing-in-sales",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/ps5-answers-bleakest-month-with-a-22percent-upswing-in-sales",
+          "titre": "Feature: PS5 Answers 'Bleakest' Month with a 22% Upswing in Sales"
+        }
+      ]
+    },
+    {
+      "id": "civilization-7-s-game-changing-update-was-personally-challen",
+      "titre": "Civilization 7's game changing update was 'personally challenging' for its creative director, as being able to play as a single faction 'wasn't part of the original vision'",
+      "url": "https://www.pcgamer.com/games/strategy/civilization-7s-game-changing-update-was-personally-challenging-for-its-creative-director-as-being-able-to-play-as-a-single-civ-wasnt-part-of-the-original-vision/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/strategy/civilization-7s-game-changing-update-was-personally-challenging-for-its-creative-director-as-being-able-to-play-as-a-single-civ-wasnt-part-of-the-original-vision/",
+          "titre": "Civilization 7's game changing update was 'personally challenging' for its creative director, as being able to play as a single faction 'wasn't part of the original vision'"
         }
       ]
     },
@@ -257,7 +443,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.0,
+      "heures": 6.9,
       "chaleur": 4,
       "liens": [
         {
@@ -275,7 +461,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 9.0,
       "chaleur": 4,
       "liens": [
         {
@@ -293,7 +479,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 9.0,
       "chaleur": 4,
       "liens": [
         {
@@ -311,7 +497,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 9.0,
       "chaleur": 4,
       "liens": [
         {
@@ -329,7 +515,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.1,
+      "heures": 11.0,
       "chaleur": 4,
       "liens": [
         {
@@ -347,7 +533,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 18.2,
+      "heures": 21.1,
       "chaleur": 3,
       "liens": [
         {
@@ -365,7 +551,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 19.6,
+      "heures": 22.5,
       "chaleur": 3,
       "liens": [
         {
@@ -383,7 +569,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 21.1,
+      "heures": 24.0,
       "chaleur": 3,
       "liens": [
         {
@@ -401,7 +587,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 21.9,
+      "heures": 24.8,
       "chaleur": 3,
       "liens": [
         {
@@ -419,7 +605,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.9,
+      "heures": 24.8,
       "chaleur": 3,
       "liens": [
         {
@@ -437,7 +623,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 22.1,
+      "heures": 25.0,
       "chaleur": 3,
       "liens": [
         {
@@ -455,7 +641,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 22.6,
+      "heures": 25.5,
       "chaleur": 3,
       "liens": [
         {
@@ -473,7 +659,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 22.8,
+      "heures": 25.7,
       "chaleur": 3,
       "liens": [
         {
@@ -491,7 +677,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 23.0,
+      "heures": 25.9,
       "chaleur": 3,
       "liens": [
         {
@@ -509,7 +695,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 23.1,
+      "heures": 26.0,
       "chaleur": 3,
       "liens": [
         {
@@ -527,7 +713,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 23.1,
+      "heures": 26.0,
       "chaleur": 3,
       "liens": [
         {
@@ -545,49 +731,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 24.1,
+      "heures": 27.0,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/sim/new-blood-ceo-confirms-it-the-worst-way-to-sell-immersive-sims-like-gloomwood-and-fallen-aces-is-to-call-them-immersive-sims/",
           "titre": "New Blood CEO confirms it: the worst way to sell immersive sims like Gloomwood and Fallen Aces is to call them immersive sims"
-        }
-      ]
-    },
-    {
-      "id": "the-mouse-p-i-for-hire-from-mouse-p-i-for-hire-joins-the-mea",
-      "titre": "The mouse P.I. for hire from Mouse: P.I. For Hire joins the meat boy from Super Meat Boy 3D in gaming's latest indie crossover",
-      "url": "https://www.pcgamer.com/games/action/the-mouse-p-i-for-hire-from-mouse-p-i-for-hire-joins-the-meat-boy-from-super-meat-boy-3d-in-gamings-latest-indie-crossover/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 24.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/the-mouse-p-i-for-hire-from-mouse-p-i-for-hire-joins-the-meat-boy-from-super-meat-boy-3d-in-gamings-latest-indie-crossover/",
-          "titre": "The mouse P.I. for hire from Mouse: P.I. For Hire joins the meat boy from Super Meat Boy 3D in gaming's latest indie crossover"
-        }
-      ]
-    },
-    {
-      "id": "japan-actors-union-pushes-for-heavy-restrictions-on-ai-copyi",
-      "titre": "Japan Actors Union pushes for heavy restrictions on AI copying dead actors",
-      "url": "https://www.pcgamer.com/software/ai/japan-actors-union-pushes-for-heavy-restrictions-on-ai-copying-dead-actors/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 24.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/japan-actors-union-pushes-for-heavy-restrictions-on-ai-copying-dead-actors/",
-          "titre": "Japan Actors Union pushes for heavy restrictions on AI copying dead actors"
         }
       ]
     },
@@ -599,49 +749,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 25.1,
+      "heures": 28.0,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/features/star-wars-galactic-racer-is-the-blueprint-for-a-new-burnout-and-i-need-it-to-happen",
           "titre": "Feature: Star Wars: Galactic Racer Is the Blueprint for a New Burnout, and I Need It to Happen"
-        }
-      ]
-    },
-    {
-      "id": "the-best-feature-in-the-original-alan-wake-is-an-absence-the",
-      "titre": "The best feature in the original Alan Wake is an absence: the man has no reticle",
-      "url": "https://www.pcgamer.com/games/horror/the-best-feature-in-the-original-alan-wake-is-an-absence-the-man-has-no-reticle/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 25.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/the-best-feature-in-the-original-alan-wake-is-an-absence-the-man-has-no-reticle/",
-          "titre": "The best feature in the original Alan Wake is an absence: the man has no reticle"
-        }
-      ]
-    },
-    {
-      "id": "i-drank-from-the-chalice-of-blood-indie-dev-scrubs-his-game",
-      "titre": "'I drank from the chalice of blood': indie dev scrubs his game of AI-generated voice lines, having previously described the technology as 'anti-human and anti-art'",
-      "url": "https://www.pcgamer.com/gaming-industry/game-development/i-drank-from-the-chalice-of-blood-indie-dev-scrubs-his-game-of-ai-generated-voice-lines-having-previously-described-the-technology-as-anti-human-and-anti-art/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 25.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/game-development/i-drank-from-the-chalice-of-blood-indie-dev-scrubs-his-game-of-ai-generated-voice-lines-having-previously-described-the-technology-as-anti-human-and-anti-art/",
-          "titre": "'I drank from the chalice of blood': indie dev scrubs his game of AI-generated voice lines, having previously described the technology as 'anti-human and anti-art'"
         }
       ]
     },
@@ -653,7 +767,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 25.6,
+      "heures": 28.5,
       "chaleur": 3,
       "liens": [
         {
@@ -671,31 +785,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 26.1,
+      "heures": 29.0,
       "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/mass-effect-3-ending-discourse-ignored-the-rpgs-scale-ambition-and-exuberance-including-that-of-its-oddly-great-co-op",
           "titre": "Mass Effect 3 ending discourse ignored the RPG's scale, ambition, and exuberance, including that of its oddly great co-op"
-        }
-      ]
-    },
-    {
-      "id": "award-winning-sci-fi-author-nk-jemisin-joins-bioware-s-mourn",
-      "titre": "Award-winning sci-fi author NK Jemisin joins BioWare's mourners and scorns a broken industry for killing geese that 'laid the golden eggs'",
-      "url": "https://www.pcgamer.com/gaming-industry/award-winning-sci-fi-author-nk-jemisin-joins-biowares-mourners-and-scorns-a-broken-industry-for-killing-geese-that-laid-the-golden-eggs/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 26.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/award-winning-sci-fi-author-nk-jemisin-joins-biowares-mourners-and-scorns-a-broken-industry-for-killing-geese-that-laid-the-golden-eggs/",
-          "titre": "Award-winning sci-fi author NK Jemisin joins BioWare's mourners and scorns a broken industry for killing geese that 'laid the golden eggs'"
         }
       ]
     },
@@ -707,7 +803,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 26.5,
+      "heures": 29.5,
       "chaleur": 3,
       "liens": [
         {
@@ -725,7 +821,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 28.1,
+      "heures": 31.0,
       "chaleur": 3,
       "liens": [
         {
@@ -743,7 +839,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 29.1,
+      "heures": 32.0,
       "chaleur": 3,
       "liens": [
         {
@@ -761,7 +857,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 33.1,
+      "heures": 36.0,
       "chaleur": 3,
       "liens": [
         {
