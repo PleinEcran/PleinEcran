@@ -1,8 +1,140 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "26/10/2026 à 04h34",
+  "collecte": "26/10/2026 à 12h48",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "save-mass-effect-petition-cracks-200-000-signatures-as-fans",
+      "titre": "‘Save Mass Effect’ petition cracks 200,000 signatures as fans plead for the series to continue",
+      "url": "https://www.videogameschronicle.com/news/save-mass-effect-petition-cracks-200000-signatures-as-fans-plead-for-the-series-to-continue/",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 2.3,
+      "chaleur": 15,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/save-mass-effect-petition-cracks-200000-signatures-as-fans-plead-for-the-series-to-continue/",
+          "titre": "‘Save Mass Effect’ petition cracks 200,000 signatures as fans plead for the series to continue"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/save-mass-effect-petition",
+          "titre": "187K+ fans call for EA to \"Save Mass Effect\""
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/mass-effect/save-mass-effect-petition-hits-over-180-000-signatures-within-days-of-biowares-closure/",
+          "titre": "'Save Mass Effect' petition hits over 180,000 signatures within days of BioWare's closure"
+        }
+      ]
+    },
+    {
+      "id": "call-of-duty-modern-warfare-4-players-are-calling-for-a-pve",
+      "titre": "Call of Duty: Modern Warfare 4 players are calling for a PvE-only version of its DMZ mode - just like every extraction shooter before it",
+      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-pve-petition",
+      "sources": [
+        "Eurogamer",
+        "Nintendo Life"
+      ],
+      "reprises": 2,
+      "heures": 2.9,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-pve-petition",
+          "titre": "Call of Duty: Modern Warfare 4 players are calling for a PvE-only version of its DMZ mode - just like every extraction shooter before it"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/psa-call-of-duty-modern-warfare-4-switch-2-update-now-live-here-are-the-details",
+          "titre": "PSA: Call Of Duty: Modern Warfare 4 Switch 2 Update Now Live, Here Are The Details"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-has-scheduled-3ds-and-switch-maintenance-for-this-w",
+      "titre": "Nintendo Has Scheduled 3DS And Switch Maintenance For This Week",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-has-scheduled-3ds-and-switch-maintenance-for-this-week",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-has-scheduled-3ds-and-switch-maintenance-for-this-week",
+          "titre": "Nintendo Has Scheduled 3DS And Switch Maintenance For This Week"
+        }
+      ]
+    },
+    {
+      "id": "the-actor-rumoured-to-be-playing-lucia-in-gta-6-actively-ign",
+      "titre": "The actor rumoured to be playing Lucia in GTA 6 actively ignored questions about it during an introductory livestream",
+      "url": "https://www.videogameschronicle.com/news/the-actor-rumoured-to-be-playing-lucia-in-gta-6-actively-ignored-questions-about-it-during-an-introductory-livestream/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-actor-rumoured-to-be-playing-lucia-in-gta-6-actively-ignored-questions-about-it-during-an-introductory-livestream/",
+          "titre": "The actor rumoured to be playing Lucia in GTA 6 actively ignored questions about it during an introductory livestream"
+        }
+      ]
+    },
+    {
+      "id": "mass-effect-5-was-named-universe-partly-because-it-let-playe",
+      "titre": "Mass Effect 5 was named Universe partly because it let players generate alternate timelines based on their choices in previous entries, technical director says",
+      "url": "https://www.rockpapershotgun.com/mass-effect-5-was-named-universe-partly-because-it-let-players-generate-alternate-timelines-based-on-their-choices-in-previous-entries-technical-director-says",
+      "sources": [
+        "PC Gamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 1.8,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/mass-effect-5-was-named-universe-partly-because-it-let-players-generate-alternate-timelines-based-on-their-choices-in-previous-entries-technical-director-says",
+          "titre": "Mass Effect 5 was named Universe partly because it let players generate alternate timelines based on their choices in previous entries, technical director says"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/mass-effect/mass-effect-5-would-have-let-players-generate-alternate-timelines-based-on-their-choices-in-previous-games-according-to-the-series-technical-director/",
+          "titre": "Mass Effect 5 would have let players generate alternate timelines based on their choices in previous games, according to the series' technical director"
+        }
+      ]
+    },
+    {
+      "id": "canadian-political-party-leader-blames-bioware-s-closure-on",
+      "titre": "Canadian political party leader blames BioWare's closure on private equity, says government should help former employees buy it back",
+      "url": "https://www.eurogamer.net/canadian-politician-bioware-employees-buy-studio-federal-support",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 2.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/canadian-politician-bioware-employees-buy-studio-federal-support",
+          "titre": "Canadian political party leader blames BioWare's closure on private equity, says government should help former employees buy it back"
+        }
+      ]
+    },
     {
       "id": "steam-week-in-review-ai-disclosures-enter-the-discourse-agai",
       "titre": "Steam Week in Review: AI disclosures enter the discourse again, as Epic CEO calls them 'just as partisan as mandatory political essays'",
@@ -11,8 +143,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
-      "chaleur": 11,
+      "heures": 9.6,
+      "chaleur": 9,
       "liens": [
         {
           "source": "PC Gamer",
@@ -31,8 +163,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 4.6,
-      "chaleur": 10,
+      "heures": 12.8,
+      "chaleur": 9,
       "liens": [
         {
           "source": "VGC",
@@ -52,26 +184,308 @@ const VEILLE = {
       ]
     },
     {
-      "id": "187k-fans-call-for-ea-to-save-mass-effect",
-      "titre": "187K+ fans call for EA to \"Save Mass Effect\"",
-      "url": "https://www.eurogamer.net/save-mass-effect-petition",
+      "id": "shenmue-3-enhanced-edition-has-been-delayed-to-get-everythin",
+      "titre": "Shenmue 3: Enhanced Edition has been delayed to \"get everything right\"",
+      "url": "https://www.eurogamer.net/shenmue-3-enhanced-edition-delayed",
       "sources": [
-        "Eurogamer",
-        "PC Gamer"
+        "Eurogamer"
       ],
-      "reprises": 2,
-      "heures": 9.7,
-      "chaleur": 10,
+      "reprises": 1,
+      "heures": 0.7,
+      "chaleur": 8,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/save-mass-effect-petition",
-          "titre": "187K+ fans call for EA to \"Save Mass Effect\""
-        },
+          "url": "https://www.eurogamer.net/shenmue-3-enhanced-edition-delayed",
+          "titre": "Shenmue 3: Enhanced Edition has been delayed to \"get everything right\""
+        }
+      ]
+    },
+    {
+      "id": "korean-police-arrest-cyberhacking-gang-reportedly-led-by-sel",
+      "titre": "Korean police arrest cyberhacking gang reportedly led by self-taught hacker, who allegedly used AI to breach 60 firms and received a mere $210 in ransom",
+      "url": "https://www.pcgamer.com/hardware/korean-police-arrest-cyberhacking-gang-reportedly-led-by-self-taught-hacker-who-allegedly-used-ai-to-breach-60-firms-and-received-a-mere-usd210-in-ransom/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 8,
+      "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/mass-effect/save-mass-effect-petition-hits-over-180-000-signatures-within-days-of-biowares-closure/",
-          "titre": "'Save Mass Effect' petition hits over 180,000 signatures within days of BioWare's closure"
+          "url": "https://www.pcgamer.com/hardware/korean-police-arrest-cyberhacking-gang-reportedly-led-by-self-taught-hacker-who-allegedly-used-ai-to-breach-60-firms-and-received-a-mere-usd210-in-ransom/",
+          "titre": "Korean police arrest cyberhacking gang reportedly led by self-taught hacker, who allegedly used AI to breach 60 firms and received a mere $210 in ransom"
+        }
+      ]
+    },
+    {
+      "id": "uk-charts-switch-sports-resort-and-call-of-duty-are-fast-off",
+      "titre": "UK Charts: Switch Sports Resort And Call Of Duty Are Fast Off The Start Line",
+      "url": "https://www.nintendolife.com/news/2026/10/uk-charts-switch-sports-resort-and-call-of-duty-are-fast-off-the-start-line",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 2.3,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/uk-charts-switch-sports-resort-and-call-of-duty-are-fast-off-the-start-line",
+          "titre": "UK Charts: Switch Sports Resort And Call Of Duty Are Fast Off The Start Line"
+        }
+      ]
+    },
+    {
+      "id": "guide-these-46-ps5-and-ps-plus-games-are-coming-out-this-wee",
+      "titre": "Guide: These 46+ PS5 and PS Plus Games Are Coming Out This Week (26th-1st November)",
+      "url": "https://www.pushsquare.com/guides/these-46plus-ps5-and-ps-plus-games-are-coming-out-this-week-26th-1st-november",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/guides/these-46plus-ps5-and-ps-plus-games-are-coming-out-this-week-26th-1st-november",
+          "titre": "Guide: These 46+ PS5 and PS Plus Games Are Coming Out This Week (26th-1st November)"
+        }
+      ]
+    },
+    {
+      "id": "clean-a-whole-planet-with-a-toothbrush-in-moon-sweepers-the",
+      "titre": "Clean a whole planet with a toothbrush in Moon Sweepers, the PowerWash genre's latest crime against perfectionists",
+      "url": "https://www.rockpapershotgun.com/clean-a-whole-planet-with-a-toothbrush-in-moon-sweepers-the-powerwash-genres-latest-crime-against-perfectionists",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/clean-a-whole-planet-with-a-toothbrush-in-moon-sweepers-the-powerwash-genres-latest-crime-against-perfectionists",
+          "titre": "Clean a whole planet with a toothbrush in Moon Sweepers, the PowerWash genre's latest crime against perfectionists"
+        }
+      ]
+    },
+    {
+      "id": "konami-deliberately-kept-its-multiple-silent-hill-games-secr",
+      "titre": "Konami deliberately kept its multiple Silent Hill games secret from each studio, to avoid ideas crossing over",
+      "url": "https://www.videogameschronicle.com/news/konami-deliberately-kept-its-multiple-silent-hill-games-secret-from-each-studio-to-avoid-crossover/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/konami-deliberately-kept-its-multiple-silent-hill-games-secret-from-each-studio-to-avoid-crossover/",
+          "titre": "Konami deliberately kept its multiple Silent Hill games secret from each studio, to avoid ideas crossing over"
+        }
+      ]
+    },
+    {
+      "id": "despite-initial-player-concerns-capcom-feels-good-about-onim",
+      "titre": "Despite initial player concerns, Capcom feels good about Onimusha: Way of the Sword's difficulty, and says it has the data to prove it got it right",
+      "url": "https://www.eurogamer.net/onimusha-way-of-the-sword-enemy-difficulty-capcom",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/onimusha-way-of-the-sword-enemy-difficulty-capcom",
+          "titre": "Despite initial player concerns, Capcom feels good about Onimusha: Way of the Sword's difficulty, and says it has the data to prove it got it right"
+        }
+      ]
+    },
+    {
+      "id": "amazon-prime-turns-fallout-shelter-into-a-competition-tv-sho",
+      "titre": "Amazon Prime Turns Fallout Shelter into a 'Competition' TV Show",
+      "url": "https://www.pushsquare.com/news/2026/10/amazon-prime-turns-fallout-shelter-into-a-competition-tv-show",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/amazon-prime-turns-fallout-shelter-into-a-competition-tv-show",
+          "titre": "Amazon Prime Turns Fallout Shelter into a 'Competition' TV Show"
+        }
+      ]
+    },
+    {
+      "id": "leaked-video-shows-hundreds-possibly-thousands-of-brand-new",
+      "titre": "Leaked video shows hundreds, possibly thousands of brand-new RTX 5090s being dismantled for AI server usage in Chinese factory",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/leaked-video-shows-hundreds-possibly-thousands-of-brand-new-rtx-5090s-being-dismantled-for-ai-server-usage-in-chinese-factory/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/leaked-video-shows-hundreds-possibly-thousands-of-brand-new-rtx-5090s-being-dismantled-for-ai-server-usage-in-chinese-factory/",
+          "titre": "Leaked video shows hundreds, possibly thousands of brand-new RTX 5090s being dismantled for AI server usage in Chinese factory"
+        }
+      ]
+    },
+    {
+      "id": "this-week-in-pc-games-run-a-shady-cyberpunk-boutique-in-prob",
+      "titre": "This week in PC games: Run a shady cyberpunk boutique in Probably Stolen, autobattle Viking towns in Northgard Battlegrounds, and trash homophobic robots in Virtue and a Sledgehammer",
+      "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-run-a-shady-cyberpunk-boutique-in-probably-stolen-autobattle-viking-towns-in-northgard-battlegrounds-and-trash-homophobic-robots-in-virtue-and-a-sledgehammer",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-run-a-shady-cyberpunk-boutique-in-probably-stolen-autobattle-viking-towns-in-northgard-battlegrounds-and-trash-homophobic-robots-in-virtue-and-a-sledgehammer",
+          "titre": "This week in PC games: Run a shady cyberpunk boutique in Probably Stolen, autobattle Viking towns in Northgard Battlegrounds, and trash homophobic robots in Virtue and a Sledgehammer"
+        }
+      ]
+    },
+    {
+      "id": "ea-scrubbing-mass-effect-from-other-games-as-series-starts-t",
+      "titre": "EA Scrubbing Mass Effect from Other Games as Series Starts to Die Off",
+      "url": "https://www.pushsquare.com/news/2026/10/ea-scrubbing-mass-effect-from-other-games-as-series-starts-to-die-off",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/ea-scrubbing-mass-effect-from-other-games-as-series-starts-to-die-off",
+          "titre": "EA Scrubbing Mass Effect from Other Games as Series Starts to Die Off"
+        }
+      ]
+    },
+    {
+      "id": "32-year-old-ellipsoid-horror-game-ecstatica-gets-a-pc-re-rel",
+      "titre": "32-year-old \"ellipsoid\" horror game Ecstatica gets a PC re-release today, showing us an alternative timeline in which polygonal 3D never became dominant",
+      "url": "https://www.rockpapershotgun.com/32-year-old-ellipsoid-horror-game-ecstatica-gets-a-pc-re-release-today-showing-us-an-alternative-timeline-in-which-polygonal-3d-never-became-dominant",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/32-year-old-ellipsoid-horror-game-ecstatica-gets-a-pc-re-release-today-showing-us-an-alternative-timeline-in-which-polygonal-3d-never-became-dominant",
+          "titre": "32-year-old \"ellipsoid\" horror game Ecstatica gets a PC re-release today, showing us an alternative timeline in which polygonal 3D never became dominant"
+        }
+      ]
+    },
+    {
+      "id": "sonic-x-shadow-generations-speeds-past-3-million-sales-as-it",
+      "titre": "Sonic X Shadow Generations Speeds Past 3 Million Sales as It Turns Two Years Old",
+      "url": "https://www.pushsquare.com/news/2026/10/sonic-x-shadow-generations-speeds-past-3-million-sales-as-it-turns-two-years-old",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/sonic-x-shadow-generations-speeds-past-3-million-sales-as-it-turns-two-years-old",
+          "titre": "Sonic X Shadow Generations Speeds Past 3 Million Sales as It Turns Two Years Old"
+        }
+      ]
+    },
+    {
+      "id": "microsoft-extends-consultation-period-for-arkane-lyon-as-it",
+      "titre": "Microsoft extends consultation period for Arkane Lyon as it continues development on Marvel's Blade",
+      "url": "https://www.gamesindustry.biz/microsoft-extends-consultation-period-for-arkane-lyon-as-it-continues-development-on-marvels-blade",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/microsoft-extends-consultation-period-for-arkane-lyon-as-it-continues-development-on-marvels-blade",
+          "titre": "Microsoft extends consultation period for Arkane Lyon as it continues development on Marvel's Blade"
+        }
+      ]
+    },
+    {
+      "id": "feature-50-ps5-ps4-games-to-buy-in-ps-store-s-planet-of-the",
+      "titre": "Feature: 50+ PS5, PS4 Games to Buy in PS Store's Planet of the Deals Sale (North America/Europe)",
+      "url": "https://www.pushsquare.com/features/50plus-ps5-ps4-games-to-buy-in-ps-stores-planet-of-the-deals-sale-north-americaeurope",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 2.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/50plus-ps5-ps4-games-to-buy-in-ps-stores-planet-of-the-deals-sale-north-americaeurope",
+          "titre": "Feature: 50+ PS5, PS4 Games to Buy in PS Store's Planet of the Deals Sale (North America/Europe)"
+        }
+      ]
+    },
+    {
+      "id": "helldivers-3-isn-t-in-development-because-its-biggest-compet",
+      "titre": "Helldivers 3 isn’t in development because its biggest competitor would be Helldivers 2, Arrowhead CCO says",
+      "url": "https://www.videogameschronicle.com/news/helldivers-3-isnt-in-development-because-its-biggest-competitor-would-be-helldivers-2-arrowhead-cco-says/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 2.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/helldivers-3-isnt-in-development-because-its-biggest-competitor-would-be-helldivers-2-arrowhead-cco-says/",
+          "titre": "Helldivers 3 isn’t in development because its biggest competitor would be Helldivers 2, Arrowhead CCO says"
+        }
+      ]
+    },
+    {
+      "id": "microsoft-gives-dishonored-dev-more-time-to-find-a-buyer-nee",
+      "titre": "Microsoft Gives Dishonored Dev More Time to Find a Buyer, Needs a Partner to Finish Blade",
+      "url": "https://www.pushsquare.com/news/2026/10/microsoft-gives-dishonored-dev-more-time-to-find-a-buyer-needs-a-partner-to-finish-blade",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 3.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/microsoft-gives-dishonored-dev-more-time-to-find-a-buyer-needs-a-partner-to-finish-blade",
+          "titre": "Microsoft Gives Dishonored Dev More Time to Find a Buyer, Needs a Partner to Finish Blade"
         }
       ]
     },
@@ -83,8 +497,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 7,
+      "heures": 18.4,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
@@ -101,37 +515,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 6,
+      "heures": 18.3,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/shenmue-3-revival-postponed-as-ps5-re-release-is-delayed-to-early-2027",
           "titre": "Shenmue 3 Revival Postponed, as PS5 Re-Release Is Delayed to Early 2027"
-        }
-      ]
-    },
-    {
-      "id": "an-officially-licensed-knightmare-game-based-on-the-british",
-      "titre": "An officially licensed Knightmare game, based on the British TV show, is coming next year",
-      "url": "https://www.eurogamer.net/knightmare-game-free-pc-original-cast",
-      "sources": [
-        "Eurogamer",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 14.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/knightmare-game-free-pc-original-cast",
-          "titre": "An officially licensed Knightmare game, based on the British TV show, is coming next year"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/a-free-officially-licensed-game-based-on-classic-uk-childrens-tv-show-knightmare-is-in-development/",
-          "titre": "A free, officially licensed game based on classic UK children’s TV show Knightmare is in development"
         }
       ]
     },
@@ -143,7 +533,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.6,
+      "heures": 27.8,
       "chaleur": 5,
       "liens": [
         {
@@ -154,38 +544,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "psa-call-of-duty-modern-warfare-4-switch-2-update-now-live-h",
-      "titre": "PSA: Call Of Duty: Modern Warfare 4 Switch 2 Update Now Live, Here Are The Details",
-      "url": "https://www.nintendolife.com/news/2026/10/psa-call-of-duty-modern-warfare-4-switch-2-update-now-live-here-are-the-details",
+      "id": "shogun-2-complete-edition-was-not-a-creative-assembly-develo",
+      "titre": "Shogun 2 – Complete Edition was \"not a Creative Assembly developed game,\" says Total War VP after it was pulled amid generative AI concerns",
+      "url": "https://www.gamesindustry.biz/shogun-2-complete-edition-was-not-a-creative-assembly-developed-game-says-total-war-vp-after-it-was-pulled-amid-generative-ai-concerns",
       "sources": [
-        "Nintendo Life"
+        "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 22.7,
-      "chaleur": 5,
+      "heures": 4.1,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/psa-call-of-duty-modern-warfare-4-switch-2-update-now-live-here-are-the-details",
-          "titre": "PSA: Call Of Duty: Modern Warfare 4 Switch 2 Update Now Live, Here Are The Details"
-        }
-      ]
-    },
-    {
-      "id": "top-xbox-exec-promoted-in-brand-reset-leaves-after-3-months",
-      "titre": "Top Xbox exec promoted in brand 'reset' leaves after 3 months in role",
-      "url": "https://www.pcgamer.com/gaming-industry/top-xbox-exec-promoted-in-brand-reset-leaves-after-3-months-in-role/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 33.6,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/top-xbox-exec-promoted-in-brand-reset-leaves-after-3-months-in-role/",
-          "titre": "Top Xbox exec promoted in brand 'reset' leaves after 3 months in role"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/shogun-2-complete-edition-was-not-a-creative-assembly-developed-game-says-total-war-vp-after-it-was-pulled-amid-generative-ai-concerns",
+          "titre": "Shogun 2 – Complete Edition was \"not a Creative Assembly developed game,\" says Total War VP after it was pulled amid generative AI concerns"
         }
       ]
     },
@@ -197,8 +569,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.7,
-      "chaleur": 4,
+      "heures": 16.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -215,8 +587,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.3,
-      "chaleur": 4,
+      "heures": 17.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -233,8 +605,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 4,
+      "heures": 18.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -251,8 +623,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 4,
+      "heures": 18.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -269,8 +641,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 4,
+      "heures": 19.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -287,8 +659,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 4,
+      "heures": 19.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -305,8 +677,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.0,
-      "chaleur": 4,
+      "heures": 20.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -323,7 +695,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.1,
+      "heures": 20.3,
       "chaleur": 3,
       "liens": [
         {
@@ -341,7 +713,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 20.8,
       "chaleur": 3,
       "liens": [
         {
@@ -359,7 +731,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 20.8,
       "chaleur": 3,
       "liens": [
         {
@@ -377,7 +749,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.1,
+      "heures": 21.4,
       "chaleur": 3,
       "liens": [
         {
@@ -395,13 +767,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 22.1,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/sim/this-third-person-mod-for-deus-ex-turns-the-classic-immersive-sim-into-max-payne-introducing-dual-wielding-and-shoot-dodging/",
           "titre": "This third-person mod for Deus Ex turns the classic immersive sim into Max Payne, introducing dual-wielding and shoot-dodging"
+        }
+      ]
+    },
+    {
+      "id": "an-officially-licensed-knightmare-game-based-on-the-british",
+      "titre": "An officially licensed Knightmare game, based on the British TV show, is coming next year",
+      "url": "https://www.eurogamer.net/knightmare-game-free-pc-original-cast",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 22.3,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/knightmare-game-free-pc-original-cast",
+          "titre": "An officially licensed Knightmare game, based on the British TV show, is coming next year"
         }
       ]
     },
@@ -413,7 +803,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.1,
+      "heures": 22.3,
       "chaleur": 3,
       "liens": [
         {
@@ -431,31 +821,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.2,
+      "heures": 23.5,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/strategy/civilization-7s-game-changing-update-was-personally-challenging-for-its-creative-director-as-being-able-to-play-as-a-single-civ-wasnt-part-of-the-original-vision/",
           "titre": "Civilization 7's game changing update was 'personally challenging' for its creative director, as being able to play as a single faction 'wasn't part of the original vision'"
-        }
-      ]
-    },
-    {
-      "id": "mass-effect-5-would-have-let-players-generate-alternate-time",
-      "titre": "Mass Effect 5 would have let players generate alternate timelines based on their choices in previous games, according to the series' technical director",
-      "url": "https://www.pcgamer.com/games/mass-effect/mass-effect-5-would-have-let-players-generate-alternate-timelines-based-on-their-choices-in-previous-games-according-to-the-series-technical-director/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 16.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/mass-effect/mass-effect-5-would-have-let-players-generate-alternate-timelines-based-on-their-choices-in-previous-games-according-to-the-series-technical-director/",
-          "titre": "Mass Effect 5 would have let players generate alternate timelines based on their choices in previous games, according to the series' technical director"
         }
       ]
     },
@@ -467,7 +839,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 18.6,
+      "heures": 26.8,
       "chaleur": 3,
       "liens": [
         {
@@ -485,7 +857,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 18.6,
+      "heures": 26.8,
       "chaleur": 3,
       "liens": [
         {
@@ -503,7 +875,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.6,
+      "heures": 26.8,
       "chaleur": 3,
       "liens": [
         {
@@ -521,7 +893,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.6,
+      "heures": 28.8,
       "chaleur": 3,
       "liens": [
         {
@@ -530,169 +902,9 @@ const VEILLE = {
           "titre": "Video: The Tomb Raider Series Celebrates Its 30th Anniversary This Week"
         }
       ]
-    },
-    {
-      "id": "abelina-is-a-strange-platforming-romp-through-a-natural-afte",
-      "titre": "Abelina is a strange, platforming romp through a natural afterlife from a former League of Legends animator and the composer of Zach Cregger's Resident Evil",
-      "url": "https://www.rockpapershotgun.com/abelina-is-a-strange-platforming-romp-through-a-natural-afterlife-from-a-former-league-of-legends-animator-and-the-composer-of-zach-creggers-resident-evil",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 30.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/abelina-is-a-strange-platforming-romp-through-a-natural-afterlife-from-a-former-league-of-legends-animator-and-the-composer-of-zach-creggers-resident-evil",
-          "titre": "Abelina is a strange, platforming romp through a natural afterlife from a former League of Legends animator and the composer of Zach Cregger's Resident Evil"
-        }
-      ]
-    },
-    {
-      "id": "system-shock-and-deus-ex-they-were-rpgs-people-called-them",
-      "titre": "\"System Shock and Deus Ex, they were RPGs. People called them RPGs\": Gloomwood's publisher isn't too keen on using the term immersive sim despite it being one",
-      "url": "https://www.rockpapershotgun.com/system-shock-and-deus-ex-they-were-rpgs-people-called-them-rpgs-gloomwoods-publisher-isnt-too-keen-on-using-the-term-immersive-sim-despite-it-being-one",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 32.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/system-shock-and-deus-ex-they-were-rpgs-people-called-them-rpgs-gloomwoods-publisher-isnt-too-keen-on-using-the-term-immersive-sim-despite-it-being-one",
-          "titre": "\"System Shock and Deus Ex, they were RPGs. People called them RPGs\": Gloomwood's publisher isn't too keen on using the term immersive sim despite it being one"
-        }
-      ]
-    },
-    {
-      "id": "helena-cloud-district-is-a-megastructure-photography-game-la",
-      "titre": "HELENA : Cloud District is a megastructure photography game laser targeted at my interests, and it's out next week",
-      "url": "https://www.rockpapershotgun.com/helena-cloud-district-is-a-megastructure-photography-game-laser-targeted-at-my-interests-and-its-out-next-week",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 33.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/helena-cloud-district-is-a-megastructure-photography-game-laser-targeted-at-my-interests-and-its-out-next-week",
-          "titre": "HELENA : Cloud District is a megastructure photography game laser targeted at my interests, and it's out next week"
-        }
-      ]
-    },
-    {
-      "id": "penguin-colony-review-a-daringly-weird-horror-game-whose-atm",
-      "titre": "Penguin Colony review: A daringly weird horror game whose atmosphere and surprises overcome its rough edges",
-      "url": "https://www.pcgamer.com/games/horror/penguin-colony-review/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 34.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/penguin-colony-review/",
-          "titre": "Penguin Colony review: A daringly weird horror game whose atmosphere and surprises overcome its rough edges"
-        }
-      ]
-    },
-    {
-      "id": "stalker-2-s-next-update-has-already-leaked",
-      "titre": "Stalker 2's next update has already leaked",
-      "url": "https://www.eurogamer.net/stalker-2-update-2-1-zone-lookout-playstation-asia-leak",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 34.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/stalker-2-update-2-1-zone-lookout-playstation-asia-leak",
-          "titre": "Stalker 2's next update has already leaked"
-        }
-      ]
-    },
-    {
-      "id": "ps5-s-release-schedule-is-insane-next-week-and-it-s-just-add",
-      "titre": "PS5's Release Schedule Is Insane Next Week, and It's Just Added Another Must-Play",
-      "url": "https://www.pushsquare.com/news/2026/10/ps5s-release-schedule-is-insane-next-week-and-its-just-added-another-must-play",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 35.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/ps5s-release-schedule-is-insane-next-week-and-its-just-added-another-must-play",
-          "titre": "PS5's Release Schedule Is Insane Next Week, and It's Just Added Another Must-Play"
-        }
-      ]
-    },
-    {
-      "id": "fbi-investigating-theft-of-more-than-6000-psa-graded-trading",
-      "titre": "FBI investigating theft of more than 6000 PSA-graded trading cards, including almost 3000 Pokémon cards",
-      "url": "https://www.eurogamer.net/fbi-investigates-psa-graded-card-theft-pokemon",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 35.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/fbi-investigates-psa-graded-card-theft-pokemon",
-          "titre": "FBI investigating theft of more than 6000 PSA-graded trading cards, including almost 3000 Pokémon cards"
-        }
-      ]
-    },
-    {
-      "id": "paralives-first-major-update-slips-to-next-year-but-when-it",
-      "titre": "Paralives' first major update slips to next year, but when it comes you can expect some pretty meaty improvements for all of its main features",
-      "url": "https://www.rockpapershotgun.com/paralives-first-major-update-slips-to-next-year-but-when-it-comes-you-can-expect-some-pretty-meaty-improvements-for-all-of-its-main-features",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 35.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/paralives-first-major-update-slips-to-next-year-but-when-it-comes-you-can-expect-some-pretty-meaty-improvements-for-all-of-its-main-features",
-          "titre": "Paralives' first major update slips to next year, but when it comes you can expect some pretty meaty improvements for all of its main features"
-        }
-      ]
-    },
-    {
-      "id": "sony-s-new-walkman-is-a-real-status-symbol-with-a-6-000-pric",
-      "titre": "Sony's New Walkman Is a Real Status Symbol, with a $6,000 Price Point to Match",
-      "url": "https://www.pushsquare.com/news/2026/10/sonys-new-walkman-is-a-real-status-symbol-with-a-usd6000-price-point-to-match",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 35.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/sonys-new-walkman-is-a-real-status-symbol-with-a-usd6000-price-point-to-match",
-          "titre": "Sony's New Walkman Is a Real Status Symbol, with a $6,000 Price Point to Match"
-        }
-      ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "‘Save Mass Effect’ petition cracks 200,000 signatures as fans plead for the series to continue"
+  ]
 };
