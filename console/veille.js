@@ -1,8 +1,56 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "25/10/2026 à 22h29",
+  "collecte": "26/10/2026 à 04h34",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "steam-week-in-review-ai-disclosures-enter-the-discourse-agai",
+      "titre": "Steam Week in Review: AI disclosures enter the discourse again, as Epic CEO calls them 'just as partisan as mandatory political essays'",
+      "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-ai-disclosures-enter-the-discourse-again-as-epic-ceo-calls-them-just-as-partisan-as-mandatory-political-essays/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-ai-disclosures-enter-the-discourse-again-as-epic-ceo-calls-them-just-as-partisan-as-mandatory-political-essays/",
+          "titre": "Steam Week in Review: AI disclosures enter the discourse again, as Epic CEO calls them 'just as partisan as mandatory political essays'"
+        }
+      ]
+    },
+    {
+      "id": "phantom-blade-zero-review-a-damn-good-action-game-that-shoul",
+      "titre": "Phantom Blade Zero review: A damn good action game that shouldn’t be ignored",
+      "url": "https://www.videogameschronicle.com/review/phantom-blade-zero-review/",
+      "sources": [
+        "Eurogamer",
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 4.6,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/review/phantom-blade-zero-review/",
+          "titre": "Phantom Blade Zero review: A damn good action game that shouldn’t be ignored"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/phantom-blade-zero-review-1",
+          "titre": "Phantom Blade Zero review"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/reviews/ps5/phantom-blade-zero",
+          "titre": "Review: Phantom Blade Zero (PS5) - One of the Generation's Greatest Action Experiences"
+        }
+      ]
+    },
     {
       "id": "187k-fans-call-for-ea-to-save-mass-effect",
       "titre": "187K+ fans call for EA to \"Save Mass Effect\"",
@@ -12,8 +60,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 3.6,
-      "chaleur": 12,
+      "heures": 9.7,
+      "chaleur": 10,
       "liens": [
         {
           "source": "Eurogamer",
@@ -28,24 +76,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "shenmue-3-revival-postponed-as-ps5-re-release-is-delayed-to",
-      "titre": "Shenmue 3 Revival Postponed, as PS5 Re-Release Is Delayed to Early 2027",
-      "url": "https://www.pushsquare.com/news/2026/10/shenmue-3-revival-postponed-as-ps5-re-release-is-delayed-to-early-2027",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 4.0,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/shenmue-3-revival-postponed-as-ps5-re-release-is-delayed-to-early-2027",
-          "titre": "Shenmue 3 Revival Postponed, as PS5 Re-Release Is Delayed to Early 2027"
-        }
-      ]
-    },
-    {
       "id": "the-creator-of-our-running-rpg-of-the-year-weighs-in-on-biow",
       "titre": "The creator of our running RPG of the year weighs in on BioWare's closure: 'They were fundamental to the genre'",
       "url": "https://www.pcgamer.com/games/rpg/the-creator-of-our-running-rpg-of-the-year-weighs-in-on-biowares-closure-they-were-fundamental-to-the-genre/",
@@ -53,13 +83,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 10.2,
       "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/rpg/the-creator-of-our-running-rpg-of-the-year-weighs-in-on-biowares-closure-they-were-fundamental-to-the-genre/",
           "titre": "The creator of our running RPG of the year weighs in on BioWare's closure: 'They were fundamental to the genre'"
+        }
+      ]
+    },
+    {
+      "id": "shenmue-3-revival-postponed-as-ps5-re-release-is-delayed-to",
+      "titre": "Shenmue 3 Revival Postponed, as PS5 Re-Release Is Delayed to Early 2027",
+      "url": "https://www.pushsquare.com/news/2026/10/shenmue-3-revival-postponed-as-ps5-re-release-is-delayed-to-early-2027",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 10.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/shenmue-3-revival-postponed-as-ps5-re-release-is-delayed-to-early-2027",
+          "titre": "Shenmue 3 Revival Postponed, as PS5 Re-Release Is Delayed to Early 2027"
         }
       ]
     },
@@ -72,8 +120,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 8.0,
-      "chaleur": 7,
+      "heures": 14.0,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
@@ -88,42 +136,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "commander-shepard-actors-jennifer-hale-mark-meer-mourn-biowa",
-      "titre": "Commander Shepard actors Jennifer Hale & Mark Meer mourn BioWare: 'It was in the hands of ownership that may not have understood what BioWare fully is''",
-      "url": "https://www.pcgamer.com/games/mass-effect/commander-shepard-actors-jennifer-hale-and-mark-meer-mourn-bioware-together-it-was-in-the-hands-of-ownership-that-may-not-have-understood-what-bioware-fully-is/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/mass-effect/commander-shepard-actors-jennifer-hale-and-mark-meer-mourn-bioware-together-it-was-in-the-hands-of-ownership-that-may-not-have-understood-what-bioware-fully-is/",
-          "titre": "Commander Shepard actors Jennifer Hale & Mark Meer mourn BioWare: 'It was in the hands of ownership that may not have understood what BioWare fully is''"
-        }
-      ]
-    },
-    {
-      "id": "indies-and-non-sequels-have-exploded-in-the-last-year-and-it",
-      "titre": "Indies and non-sequels have exploded in the last year, and it's not all friendslop",
-      "url": "https://www.pcgamer.com/gaming-industry/indies-and-non-sequels-have-exploded-in-the-last-year-and-its-not-all-friendslop/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/indies-and-non-sequels-have-exploded-in-the-last-year-and-its-not-all-friendslop/",
-          "titre": "Indies and non-sequels have exploded in the last year, and it's not all friendslop"
-        }
-      ]
-    },
-    {
       "id": "forward-now-into-oblivion-s-inky-embrace-darkest-dungeon-ii",
       "titre": "\"Forward Now, Into Oblivion's Inky Embrace\" - Darkest Dungeon II Now Has A Switch 2 Edition",
       "url": "https://www.nintendolife.com/news/2026/10/forward-now-into-oblivions-inky-embrace-darkest-dungeon-ii-now-has-a-switch-2-edition",
@@ -131,7 +143,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 19.6,
       "chaleur": 5,
       "liens": [
         {
@@ -149,7 +161,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.6,
+      "heures": 22.7,
       "chaleur": 5,
       "liens": [
         {
@@ -167,7 +179,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 27.5,
+      "heures": 33.6,
       "chaleur": 5,
       "liens": [
         {
@@ -178,38 +190,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "i-ve-got-egg-on-my-face-because-steam-s-personal-calendar-fe",
-      "titre": "I've got egg on my face because Steam's Personal Calendar feature has apparently been a test this whole time and is only now actually a fully fledged component",
-      "url": "https://www.rockpapershotgun.com/ive-got-egg-on-my-face-because-steams-personal-calendar-feature-has-apparently-been-a-test-this-whole-time-and-is-only-now-actually-a-fully-fledged-component",
+      "id": "commander-shepard-actors-jennifer-hale-mark-meer-mourn-biowa",
+      "titre": "Commander Shepard actors Jennifer Hale & Mark Meer mourn BioWare: 'It was in the hands of ownership that may not have understood what BioWare fully is''",
+      "url": "https://www.pcgamer.com/games/mass-effect/commander-shepard-actors-jennifer-hale-and-mark-meer-mourn-bioware-together-it-was-in-the-hands-of-ownership-that-may-not-have-understood-what-bioware-fully-is/",
       "sources": [
-        "Rock Paper Shotgun"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 30.5,
-      "chaleur": 5,
+      "heures": 7.7,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/ive-got-egg-on-my-face-because-steams-personal-calendar-feature-has-apparently-been-a-test-this-whole-time-and-is-only-now-actually-a-fully-fledged-component",
-          "titre": "I've got egg on my face because Steam's Personal Calendar feature has apparently been a test this whole time and is only now actually a fully fledged component"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/mass-effect/commander-shepard-actors-jennifer-hale-and-mark-meer-mourn-bioware-together-it-was-in-the-hands-of-ownership-that-may-not-have-understood-what-bioware-fully-is/",
+          "titre": "Commander Shepard actors Jennifer Hale & Mark Meer mourn BioWare: 'It was in the hands of ownership that may not have understood what BioWare fully is''"
         }
       ]
     },
     {
-      "id": "xbox-s-first-chief-operating-officer-helen-chiang-leaves-mic",
-      "titre": "Xbox's first chief operating officer Helen Chiang leaves Microsoft just three months into the job",
-      "url": "https://www.eurogamer.net/xbox-coo-helen-chiang-leaves-microsoft",
+      "id": "indies-and-non-sequels-have-exploded-in-the-last-year-and-it",
+      "titre": "Indies and non-sequels have exploded in the last year, and it's not all friendslop",
+      "url": "https://www.pcgamer.com/gaming-industry/indies-and-non-sequels-have-exploded-in-the-last-year-and-its-not-all-friendslop/",
       "sources": [
-        "Eurogamer"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 33.5,
-      "chaleur": 5,
+      "heures": 9.3,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-coo-helen-chiang-leaves-microsoft",
-          "titre": "Xbox's first chief operating officer Helen Chiang leaves Microsoft just three months into the job"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/indies-and-non-sequels-have-exploded-in-the-last-year-and-its-not-all-friendslop/",
+          "titre": "Indies and non-sequels have exploded in the last year, and it's not all friendslop"
         }
       ]
     },
@@ -221,7 +233,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 10.4,
       "chaleur": 4,
       "liens": [
         {
@@ -239,7 +251,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 10.6,
       "chaleur": 4,
       "liens": [
         {
@@ -257,7 +269,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 11.6,
       "chaleur": 4,
       "liens": [
         {
@@ -275,7 +287,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 11.6,
       "chaleur": 4,
       "liens": [
         {
@@ -293,7 +305,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 12.0,
       "chaleur": 4,
       "liens": [
         {
@@ -311,8 +323,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.0,
-      "chaleur": 4,
+      "heures": 12.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -329,8 +341,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.5,
-      "chaleur": 4,
+      "heures": 12.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -347,8 +359,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.5,
-      "chaleur": 4,
+      "heures": 12.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -365,8 +377,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.1,
-      "chaleur": 4,
+      "heures": 13.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -383,8 +395,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.8,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -401,8 +413,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.0,
-      "chaleur": 4,
+      "heures": 14.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -419,8 +431,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.1,
-      "chaleur": 4,
+      "heures": 15.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -437,8 +449,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 4,
+      "heures": 16.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -455,7 +467,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 18.6,
       "chaleur": 3,
       "liens": [
         {
@@ -473,7 +485,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 18.6,
       "chaleur": 3,
       "liens": [
         {
@@ -491,7 +503,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 18.6,
       "chaleur": 3,
       "liens": [
         {
@@ -509,7 +521,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.5,
+      "heures": 20.6,
       "chaleur": 3,
       "liens": [
         {
@@ -527,7 +539,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 24.6,
+      "heures": 30.7,
       "chaleur": 3,
       "liens": [
         {
@@ -545,7 +557,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 26.0,
+      "heures": 32.1,
       "chaleur": 3,
       "liens": [
         {
@@ -563,7 +575,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 27.5,
+      "heures": 33.6,
       "chaleur": 3,
       "liens": [
         {
@@ -581,7 +593,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 28.3,
+      "heures": 34.4,
       "chaleur": 3,
       "liens": [
         {
@@ -599,31 +611,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 28.3,
+      "heures": 34.4,
       "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/stalker-2-update-2-1-zone-lookout-playstation-asia-leak",
           "titre": "Stalker 2's next update has already leaked"
-        }
-      ]
-    },
-    {
-      "id": "bioware-s-incredible-legacy-will-continue-as-long-as-there-a",
-      "titre": "BioWare's incredible legacy will continue as long as there are RPGs",
-      "url": "https://www.pcgamer.com/games/rpg/biowares-incredible-legacy-will-continue-as-long-as-there-are-rpgs/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 28.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/biowares-incredible-legacy-will-continue-as-long-as-there-are-rpgs/",
-          "titre": "BioWare's incredible legacy will continue as long as there are RPGs"
         }
       ]
     },
@@ -635,7 +629,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 29.0,
+      "heures": 35.1,
       "chaleur": 3,
       "liens": [
         {
@@ -653,7 +647,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.2,
+      "heures": 35.3,
       "chaleur": 3,
       "liens": [
         {
@@ -671,7 +665,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 29.4,
+      "heures": 35.5,
       "chaleur": 3,
       "liens": [
         {
@@ -689,121 +683,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 29.5,
+      "heures": 35.6,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/sonys-new-walkman-is-a-real-status-symbol-with-a-usd6000-price-point-to-match",
           "titre": "Sony's New Walkman Is a Real Status Symbol, with a $6,000 Price Point to Match"
-        }
-      ]
-    },
-    {
-      "id": "feature-star-wars-galactic-racer-is-the-blueprint-for-a-new",
-      "titre": "Feature: Star Wars: Galactic Racer Is the Blueprint for a New Burnout, and I Need It to Happen",
-      "url": "https://www.pushsquare.com/features/star-wars-galactic-racer-is-the-blueprint-for-a-new-burnout-and-i-need-it-to-happen",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 31.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/star-wars-galactic-racer-is-the-blueprint-for-a-new-burnout-and-i-need-it-to-happen",
-          "titre": "Feature: Star Wars: Galactic Racer Is the Blueprint for a New Burnout, and I Need It to Happen"
-        }
-      ]
-    },
-    {
-      "id": "mass-effect-universe-looked-incredible-says-creator-who-clai",
-      "titre": "Mass Effect Universe \"looked incredible\" says creator who claims he advised BioWare",
-      "url": "https://www.eurogamer.net/mass-effect-universe-details-dantics-claims",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 32.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/mass-effect-universe-details-dantics-claims",
-          "titre": "Mass Effect Universe \"looked incredible\" says creator who claims he advised BioWare"
-        }
-      ]
-    },
-    {
-      "id": "mass-effect-3-ending-discourse-ignored-the-rpg-s-scale-ambit",
-      "titre": "Mass Effect 3 ending discourse ignored the RPG's scale, ambition, and exuberance, including that of its oddly great co-op",
-      "url": "https://www.rockpapershotgun.com/mass-effect-3-ending-discourse-ignored-the-rpgs-scale-ambition-and-exuberance-including-that-of-its-oddly-great-co-op",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 32.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/mass-effect-3-ending-discourse-ignored-the-rpgs-scale-ambition-and-exuberance-including-that-of-its-oddly-great-co-op",
-          "titre": "Mass Effect 3 ending discourse ignored the RPG's scale, ambition, and exuberance, including that of its oddly great co-op"
-        }
-      ]
-    },
-    {
-      "id": "prime-video-s-fallout-reality-competition-fallout-shelter-th",
-      "titre": "Prime Video's Fallout reality competition Fallout Shelter: The Experiment premieres in January",
-      "url": "https://www.eurogamer.net/fallout-shelter-the-experiment-prime-video-release-date",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 33.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/fallout-shelter-the-experiment-prime-video-release-date",
-          "titre": "Prime Video's Fallout reality competition Fallout Shelter: The Experiment premieres in January"
-        }
-      ]
-    },
-    {
-      "id": "feature-15-years-ago-return-to-dream-land-ushered-in-kirby-s",
-      "titre": "Feature: 15 Years Ago, 'Return To Dream Land' Ushered In Kirby's Golden Era",
-      "url": "https://www.nintendolife.com/features/15-years-ago-return-to-dream-land-ushered-in-kirbys-golden-era",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 34.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/15-years-ago-return-to-dream-land-ushered-in-kirbys-golden-era",
-          "titre": "Feature: 15 Years Ago, 'Return To Dream Land' Ushered In Kirby's Golden Era"
-        }
-      ]
-    },
-    {
-      "id": "guide-these-45-ps5-and-ps-plus-games-are-coming-out-next-wee",
-      "titre": "Guide: These 45+ PS5 and PS Plus Games Are Coming Out Next Week (26th-1st November)",
-      "url": "https://www.pushsquare.com/guides/these-45plus-ps5-and-ps-plus-games-are-coming-out-next-week-26th-1st-november",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 35.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/guides/these-45plus-ps5-and-ps-plus-games-are-coming-out-next-week-26th-1st-november",
-          "titre": "Guide: These 45+ PS5 and PS Plus Games Are Coming Out Next Week (26th-1st November)"
         }
       ]
     }
