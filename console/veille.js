@@ -1,8 +1,50 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "28/10/2026 à 05h27",
+  "collecte": "28/10/2026 à 12h41",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "rockstar-games-employees-have-locked-in-a-union-vote-next-mo",
+      "titre": "Rockstar Games employees have locked in a union vote next month, and it'll take place over Grand Theft Auto 6's release window",
+      "url": "https://www.eurogamer.net/rockstar-union-vote-november",
+      "sources": [
+        "Eurogamer",
+        "Game Developer",
+        "PC Gamer",
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "reprises": 5,
+      "heures": 2.9,
+      "chaleur": 21,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/rockstar-union-vote-november",
+          "titre": "Rockstar Games employees have locked in a union vote next month, and it'll take place over Grand Theft Auto 6's release window"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-will-hold-union-vote-right-on-top-of-grand-theft-auto-6-release/",
+          "titre": "Rockstar will hold union vote right on top of Grand Theft Auto 6 release"
+        },
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/rockstar-workers-to-vote-on-unionization-ahead-of-grand-theft-auto-vi-release",
+          "titre": "Rockstar Games workers to vote on unionization right as Grand Theft Auto VI launches"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/uk-based-rockstar-devs-will-be-putting-their-union-recognition-to-a-vote-during-gta-6s-launch-next-month",
+          "titre": "UK-based Rockstar devs will be putting their union recognition to a vote during GTA 6's launch next month"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/nintendos-next-indie-world-showcase-will-take-place-this-week/",
+          "titre": "Nintendo’s next Indie World showcase will take place this week"
+        }
+      ]
+    },
     {
       "id": "warhorse-studios-hit-by-an-undetailed-cybersecurity-incident",
       "titre": "Warhorse Studios hit by an undetailed cybersecurity incident",
@@ -15,8 +57,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 5,
-      "heures": 10.2,
-      "chaleur": 16,
+      "heures": 17.4,
+      "chaleur": 15,
       "liens": [
         {
           "source": "Game Developer",
@@ -46,27 +88,87 @@ const VEILLE = {
       ]
     },
     {
-      "id": "call-of-duty-modern-warfare-4-update-adds-shipment-to-its-ma",
-      "titre": "Call Of Duty: Modern Warfare 4 Update Adds Shipment To Its Map Rotation",
-      "url": "https://www.nintendolife.com/news/2026/10/call-of-duty-modern-warfare-4-update-adds-shipment-to-its-map-rotation",
+      "id": "cod-modern-warfare-4-uses-real-news-footage-from-south-korea",
+      "titre": "COD Modern Warfare 4 uses real news footage from South Korean tragedy, is urged by families to remove it",
+      "url": "https://www.videogameschronicle.com/news/cod-modern-warfare-4-uses-real-news-footage-from-south-korean-tragedy-is-urged-by-families-to-remove-it/",
       "sources": [
-        "Eurogamer",
-        "Nintendo Life",
-        "PC Gamer"
+        "PC Gamer",
+        "VGC"
       ],
-      "reprises": 3,
-      "heures": 2.5,
-      "chaleur": 14,
+      "reprises": 2,
+      "heures": 1.6,
+      "chaleur": 9,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/call-of-duty-modern-warfare-4-update-adds-shipment-to-its-map-rotation",
-          "titre": "Call Of Duty: Modern Warfare 4 Update Adds Shipment To Its Map Rotation"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/cod-modern-warfare-4-uses-real-news-footage-from-south-korean-tragedy-is-urged-by-families-to-remove-it/",
+          "titre": "COD Modern Warfare 4 uses real news footage from South Korean tragedy, is urged by families to remove it"
         },
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-modern-warfare-4-review/",
           "titre": "Call of Duty: Modern Warfare 4 review"
+        }
+      ]
+    },
+    {
+      "id": "leaked-mass-effect-5-trailer-is-being-re-scored-by-one-of-th",
+      "titre": "Leaked Mass Effect 5 trailer is being \"re-scored\" by one of the original trilogy's composers, so folks can get a taste of his musical vision for the game",
+      "url": "https://www.rockpapershotgun.com/leaked-mass-effect-5-trailer-is-being-re-scored-by-one-of-the-original-trilogys-composers-so-folks-can-get-a-taste-of-his-musical-vision-for-the-game",
+      "sources": [
+        "PC Gamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 2.2,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/leaked-mass-effect-5-trailer-is-being-re-scored-by-one-of-the-original-trilogys-composers-so-folks-can-get-a-taste-of-his-musical-vision-for-the-game",
+          "titre": "Leaked Mass Effect 5 trailer is being \"re-scored\" by one of the original trilogy's composers, so folks can get a taste of his musical vision for the game"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/mass-effect/mass-effect-composer-sam-hulick-is-working-on-a-re-scored-version-of-the-leaked-mass-effect-5-trailer-for-n7-day/",
+          "titre": "Mass Effect composer Sam Hulick is working on a 're-scored' version of the leaked Mass Effect 5 trailer for N7 Day"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-is-a-massive-210gb-download-on-playstation-5",
+      "titre": "GTA 6 is a massive 210GB download on PlayStation 5",
+      "url": "https://www.eurogamer.net/gta-6-ps5-download-size",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 3.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-ps5-download-size",
+          "titre": "GTA 6 is a massive 210GB download on PlayStation 5"
+        }
+      ]
+    },
+    {
+      "id": "call-of-duty-modern-warfare-4-update-adds-shipment-to-its-ma",
+      "titre": "Call Of Duty: Modern Warfare 4 Update Adds Shipment To Its Map Rotation",
+      "url": "https://www.nintendolife.com/news/2026/10/call-of-duty-modern-warfare-4-update-adds-shipment-to-its-map-rotation",
+      "sources": [
+        "Eurogamer",
+        "Nintendo Life"
+      ],
+      "reprises": 2,
+      "heures": 9.7,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/call-of-duty-modern-warfare-4-update-adds-shipment-to-its-map-rotation",
+          "titre": "Call Of Duty: Modern Warfare 4 Update Adds Shipment To Its Map Rotation"
         },
         {
           "source": "Eurogamer",
@@ -82,12 +184,11 @@ const VEILLE = {
       "sources": [
         "Eurogamer",
         "Push Square",
-        "Rock Paper Shotgun",
-        "VGC"
+        "Rock Paper Shotgun"
       ],
-      "reprises": 4,
-      "heures": 11.5,
-      "chaleur": 13,
+      "reprises": 3,
+      "heures": 18.7,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -98,11 +199,6 @@ const VEILLE = {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/assassins-creed-black-flag-resynced-update-1-0-8-available-to-download-on-ps5-adds-new-game-plus",
           "titre": "Assassin's Creed Black Flag Resynced Update 1.0.8 Available to Download on PS5, Adds New Game Plus"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/assassins-creed-black-flag-resynced-gets-its-last-major-update-adding-new-game-and-other-new-features/",
-          "titre": "Assassin’s Creed Black Flag Resynced gets its last major update, adding New Game+ and other new features"
         },
         {
           "source": "Eurogamer",
@@ -117,12 +213,11 @@ const VEILLE = {
       "url": "https://www.eurogamer.net/nintendo-new-indie-world-showcase-october-28",
       "sources": [
         "Eurogamer",
-        "Nintendo Life",
-        "VGC"
+        "Nintendo Life"
       ],
-      "reprises": 3,
-      "heures": 15.3,
-      "chaleur": 12,
+      "reprises": 2,
+      "heures": 22.6,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Eurogamer",
@@ -131,115 +226,80 @@ const VEILLE = {
         },
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendo-indie-world-showcase-announced-for-tomorrow-28th-october-2026",
-          "titre": "Nintendo Indie World Showcase Announced For Tomorrow, 28th October 2026"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/nintendos-next-indie-world-showcase-will-take-place-this-week/",
-          "titre": "Nintendo’s next Indie World showcase will take place this week"
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-indie-world-showcase-announced-for-today-28th-october-2026",
+          "titre": "Nintendo Indie World Showcase Announced For Today, 28th October 2026"
         }
       ]
     },
     {
-      "id": "mass-effect-was-my-ultimate-white-whale-journey-composer-sh",
-      "titre": "\"Mass Effect was my ultimate white whale\": Journey composer shares 20 minutes of music created during talks to work on BioWare's recently cancelled RPG",
-      "url": "https://www.rockpapershotgun.com/mass-effect-was-my-ultimate-white-whale-journey-composer-shares-20-minutes-of-music-created-during-talks-to-work-on-biowares-recently-cancelled-rpg",
+      "id": "minecraft-has-been-updated-to-ver-26-60-on-switch-2-here-are",
+      "titre": "Minecraft Has Been Updated To Ver. 26.60 On Switch 2, Here Are The Full Patch Notes",
+      "url": "https://www.nintendolife.com/news/2026/10/minecraft-has-been-updated-to-ver-26-60-on-switch-2-here-are-the-full-patch-notes",
       "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun"
+        "Nintendo Life"
       ],
-      "reprises": 2,
-      "heures": 19.0,
-      "chaleur": 12,
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 8,
       "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/mass-effect-was-my-ultimate-white-whale-journey-composer-shares-20-minutes-of-music-created-during-talks-to-work-on-biowares-recently-cancelled-rpg",
-          "titre": "\"Mass Effect was my ultimate white whale\": Journey composer shares 20 minutes of music created during talks to work on BioWare's recently cancelled RPG"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/mass-effect-5-pitched-music-composer",
-          "titre": "Composer shares 20 minutes of music created for Mass Effect 5 following tragic closure of BioWare"
-        }
-      ]
-    },
-    {
-      "id": "here-s-the-phantom-blade-zero-release-time-for-your-region",
-      "titre": "Here's the Phantom Blade Zero release time for your region",
-      "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-release-date-launch-times/",
-      "sources": [
-        "Nintendo Life",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 3.5,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-release-date-launch-times/",
-          "titre": "Here's the Phantom Blade Zero release time for your region"
-        },
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/community-zeldas-almost-here-and-we-want-to-hear-your-ocarina-of-time-memories",
-          "titre": "Community: Zelda's Almost Here, And We Want To Hear Your Ocarina Of Time Memories"
+          "url": "https://www.nintendolife.com/news/2026/10/minecraft-has-been-updated-to-ver-26-60-on-switch-2-here-are-the-full-patch-notes",
+          "titre": "Minecraft Has Been Updated To Ver. 26.60 On Switch 2, Here Are The Full Patch Notes"
         }
       ]
     },
     {
-      "id": "sucker-punch-lays-off-24-to-align-with-current-market-next-p",
-      "titre": "Sucker Punch lays off 24 to align with 'current market', 'next project needs'",
-      "url": "https://www.gamedeveloper.com/business/sucker-punch-lays-off-24-to-align-with-current-market-next-project-needs",
+      "id": "review-goodboy-galaxy-switch-a-brilliant-gba-throwback-that",
+      "titre": "Review: Goodboy Galaxy (Switch) – A Brilliant GBA Throwback That Loves Taking Your Toys Away",
+      "url": "https://www.nintendolife.com/reviews/switch-eshop/goodboy-galaxy",
       "sources": [
-        "Eurogamer",
-        "Game Developer",
-        "GamesIndustry.biz"
+        "Nintendo Life"
       ],
-      "reprises": 3,
-      "heures": 15.3,
-      "chaleur": 11,
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 8,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/sucker-punch-lays-off-24-to-align-with-current-market-next-project-needs",
-          "titre": "Sucker Punch lays off 24 to align with 'current market', 'next project needs'"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/sucker-punch-productions-reportedly-lays-off-24-employees-following-launch-of-ghost-of-yotei-complete-edition",
-          "titre": "Sucker Punch Productions reportedly lays off 24 employees following launch of Ghost of Yōtei: Complete Edition"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/ghost-of-yotei-sucker-punch-lays-off-developers",
-          "titre": "Ghost of Yotei studio Sucker Punch reportedly lays off 26 developers \"after carefully observing the challenges in the market\""
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/switch-eshop/goodboy-galaxy",
+          "titre": "Review: Goodboy Galaxy (Switch) – A Brilliant GBA Throwback That Loves Taking Your Toys Away"
         }
       ]
     },
     {
-      "id": "xbox-staff-among-up-to-60-000-microsoft-employees-offered-vo",
-      "titre": "Xbox staff among up to 60,000 Microsoft employees offered voluntary exit",
-      "url": "https://www.gamesindustry.biz/xbox-staff-among-up-to-60000-microsoft-employees-offered-voluntary-exit",
+      "id": "nintendo-apparently-has-a-policy-to-prevent-game-key-cards-g",
+      "titre": "Nintendo Apparently Has A Policy To Prevent Game-Key Cards Getting A Full-Cart Reprint",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-apparently-has-a-policy-to-prevent-game-key-cards-getting-a-full-cart-reprint",
       "sources": [
-        "Eurogamer",
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 2.2,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-apparently-has-a-policy-to-prevent-game-key-cards-getting-a-full-cart-reprint",
+          "titre": "Nintendo Apparently Has A Policy To Prevent Game-Key Cards Getting A Full-Cart Reprint"
+        }
+      ]
+    },
+    {
+      "id": "first-xbox-coo-helen-chiang-leaves-company-after-three-month",
+      "titre": "First Xbox COO Helen Chiang leaves company after three months in the role",
+      "url": "https://www.gamesindustry.biz/first-xbox-coo-helen-chiang-leaves-company-after-three-months-in-the-role",
+      "sources": [
         "GamesIndustry.biz"
       ],
-      "reprises": 2,
-      "heures": 31.9,
-      "chaleur": 11,
+      "reprises": 1,
+      "heures": 2.4,
+      "chaleur": 8,
       "liens": [
         {
           "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/xbox-staff-among-up-to-60000-microsoft-employees-offered-voluntary-exit",
-          "titre": "Xbox staff among up to 60,000 Microsoft employees offered voluntary exit"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-ai-microsoft-voluntary-exit-offer-60000",
-          "titre": "Amid sweeping layoffs at Xbox and massive AI investments, Microsoft introduces a \"Voluntary Exit Offer\" to 60,000 workers"
+          "url": "https://www.gamesindustry.biz/first-xbox-coo-helen-chiang-leaves-company-after-three-months-in-the-role",
+          "titre": "First Xbox COO Helen Chiang leaves company after three months in the role"
         }
       ]
     },
@@ -251,31 +311,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.7,
-      "chaleur": 9,
+      "heures": 18.9,
+      "chaleur": 8,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/gta-6-ps5-file-size-has-been-reported-and-its-an-absolute-monster",
           "titre": "GTA 6 PS5 File Size Has Been Reported, and It's an Absolute Monster"
-        }
-      ]
-    },
-    {
-      "id": "psa-minecraft-switch-2-now-available-switch-physical-owners",
-      "titre": "PSA: Minecraft Switch 2 Now Available, Switch Physical Owners Get A Digital Discount",
-      "url": "https://www.nintendolife.com/news/2026/10/psa-minecraft-switch-2-now-available-switch-physical-owners-get-a-digital-discount",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 0.5,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/psa-minecraft-switch-2-now-available-switch-physical-owners-get-a-digital-discount",
-          "titre": "PSA: Minecraft Switch 2 Now Available, Switch Physical Owners Get A Digital Discount"
         }
       ]
     },
@@ -287,13 +329,37 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 21.7,
       "chaleur": 8,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/roblox-counter-strike-playstation-homepage-super-hot-simpsons-hit-and-run",
           "titre": "Roblox users have made a playable version of Counter-Strike and full, working PlayStation games that you can play right now"
+        }
+      ]
+    },
+    {
+      "id": "sucker-punch-lays-off-24-to-align-with-current-market-next-p",
+      "titre": "Sucker Punch lays off 24 to align with 'current market', 'next project needs'",
+      "url": "https://www.gamedeveloper.com/business/sucker-punch-lays-off-24-to-align-with-current-market-next-project-needs",
+      "sources": [
+        "Game Developer",
+        "GamesIndustry.biz"
+      ],
+      "reprises": 2,
+      "heures": 22.5,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/sucker-punch-lays-off-24-to-align-with-current-market-next-project-needs",
+          "titre": "Sucker Punch lays off 24 to align with 'current market', 'next project needs'"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/sucker-punch-productions-reportedly-lays-off-24-employees-following-launch-of-ghost-of-yotei-complete-edition",
+          "titre": "Sucker Punch Productions reportedly lays off 24 employees following launch of Ghost of Yōtei: Complete Edition"
         }
       ]
     },
@@ -306,7 +372,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 17.2,
+      "heures": 24.4,
       "chaleur": 8,
       "liens": [
         {
@@ -322,44 +388,308 @@ const VEILLE = {
       ]
     },
     {
-      "id": "timi-studio-group-s-pok-mon-unite-to-shut-down-on-march-23-2",
-      "titre": "TiMi Studio Group's Pokémon Unite to shut down on March 23, 2027",
-      "url": "https://www.gamesindustry.biz/timi-studio-groups-pokemon-unite-to-shut-down-on-march-23-2027",
+      "id": "we-basically-rewrote-the-entire-state-of-decay-game-undead",
+      "titre": "\"We basically rewrote the entire State of Decay game\": Undead Labs spent years trying to make State of Decay 3 into a full-blown zombie apocalypse MMO",
+      "url": "https://www.rockpapershotgun.com/we-basically-rewrote-the-entire-state-of-decay-game-undead-labs-spent-years-trying-to-make-state-of-decay-3-into-a-full-blown-zombie-apocalypse-mmo",
       "sources": [
-        "GamesIndustry.biz",
-        "Nintendo Life"
+        "Rock Paper Shotgun"
       ],
-      "reprises": 2,
-      "heures": 17.7,
-      "chaleur": 8,
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/timi-studio-groups-pokemon-unite-to-shut-down-on-march-23-2027",
-          "titre": "TiMi Studio Group's Pokémon Unite to shut down on March 23, 2027"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/pokemon-unite-ending-service-for-switch-in-march-2027",
-          "titre": "Pokémon Unite Ending Service For Switch In March 2027"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/we-basically-rewrote-the-entire-state-of-decay-game-undead-labs-spent-years-trying-to-make-state-of-decay-3-into-a-full-blown-zombie-apocalypse-mmo",
+          "titre": "\"We basically rewrote the entire State of Decay game\": Undead Labs spent years trying to make State of Decay 3 into a full-blown zombie apocalypse MMO"
         }
       ]
     },
     {
-      "id": "epic-games-ceo-calls-steam-s-ai-disclosure-policies-a-politi",
-      "titre": "Epic Games CEO calls Steam's AI disclosure policies \"a political act\"",
-      "url": "https://www.gamesindustry.biz/epic-games-ceo-calls-steams-ai-disclosure-policies-a-political-act",
+      "id": "will-the-resident-evil-series-be-over-in-the-next-10-years-o",
+      "titre": "Will the Resident Evil Series Be Over in the Next 10 Years? Of Course Not",
+      "url": "https://www.pushsquare.com/news/2026/10/will-the-resident-evil-series-be-over-in-the-next-10-years-of-course-not",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/will-the-resident-evil-series-be-over-in-the-next-10-years-of-course-not",
+          "titre": "Will the Resident Evil Series Be Over in the Next 10 Years? Of Course Not"
+        }
+      ]
+    },
+    {
+      "id": "cod-mw4-multiplayer-best-meta-han-86-build",
+      "titre": "COD MW4 Multiplayer: Best meta HAN 86 build",
+      "url": "https://www.videogameschronicle.com/guide/cod-mw4-multiplayer-best-meta-han-86-build/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/cod-mw4-multiplayer-best-meta-han-86-build/",
+          "titre": "COD MW4 Multiplayer: Best meta HAN 86 build"
+        }
+      ]
+    },
+    {
+      "id": "here-s-the-crimson-desert-charting-the-unknown-release-time",
+      "titre": "Here's the Crimson Desert: Charting the Unknown release time for your region",
+      "url": "https://www.pcgamer.com/games/rpg/crimson-desert-charting-the-unknown-dlc-release-date-launch-times/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/crimson-desert-charting-the-unknown-dlc-release-date-launch-times/",
+          "titre": "Here's the Crimson Desert: Charting the Unknown release time for your region"
+        }
+      ]
+    },
+    {
+      "id": "we-need-to-understand-what-the-need-is-here-arc-raiders-stu",
+      "titre": "\"We need to understand what the need is here\" - Arc Raiders studio still undecided about the future of PvE despite a seemingly successful test",
+      "url": "https://www.eurogamer.net/arc-raiders-pve-mode-embark-undecided",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/arc-raiders-pve-mode-embark-undecided",
+          "titre": "\"We need to understand what the need is here\" - Arc Raiders studio still undecided about the future of PvE despite a seemingly successful test"
+        }
+      ]
+    },
+    {
+      "id": "ff14-s-new-evolved-jobs-won-t-deal-a-huge-amount-more-damage",
+      "titre": "FF14's new Evolved jobs won't deal a 'huge amount' more damage than their Reborn counterparts, says Koji Fox",
+      "url": "https://www.pcgamer.com/games/mmo/ff14s-new-evolved-jobs-wont-deal-a-huge-amount-more-damage-than-their-reborn-counterparts-says-koji-fox/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/mmo/ff14s-new-evolved-jobs-wont-deal-a-huge-amount-more-damage-than-their-reborn-counterparts-says-koji-fox/",
+          "titre": "FF14's new Evolved jobs won't deal a 'huge amount' more damage than their Reborn counterparts, says Koji Fox"
+        }
+      ]
+    },
+    {
+      "id": "wardogs-leads-newzoo-s-september-pc-revenue-charts",
+      "titre": "Wardogs leads Newzoo's September PC revenue charts",
+      "url": "https://www.gamesindustry.biz/wardogs-leads-newzoos-september-pc-revenue-charts",
       "sources": [
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 33.6,
-      "chaleur": 8,
+      "heures": 0.8,
+      "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/epic-games-ceo-calls-steams-ai-disclosure-policies-a-political-act",
-          "titre": "Epic Games CEO calls Steam's AI disclosure policies \"a political act\""
+          "url": "https://www.gamesindustry.biz/wardogs-leads-newzoos-september-pc-revenue-charts",
+          "titre": "Wardogs leads Newzoo's September PC revenue charts"
+        }
+      ]
+    },
+    {
+      "id": "project-titan-s-end-immediately-instilled-a-culture-of-humil",
+      "titre": "Project Titan's end 'immediately instilled a culture of humility' in the Overwatch team which has helped them see the last decade through",
+      "url": "https://www.pcgamer.com/games/fps/project-titans-end-immediately-instilled-a-culture-of-humility-in-the-overwatch-team-which-has-helped-them-see-the-last-decade-through/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/project-titans-end-immediately-instilled-a-culture-of-humility-in-the-overwatch-team-which-has-helped-them-see-the-last-decade-through/",
+          "titre": "Project Titan's end 'immediately instilled a culture of humility' in the Overwatch team which has helped them see the last decade through"
+        }
+      ]
+    },
+    {
+      "id": "inside-buckshot-roulette-developer-mike-klubnika-s-terrifica",
+      "titre": "Inside Buckshot Roulette developer Mike Klubnika's terrifically nasty horror universe of post-Soviet malaise",
+      "url": "https://www.eurogamer.net/mike-klubnika-buckshot-roulette-machine-party-interview",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/mike-klubnika-buckshot-roulette-machine-party-interview",
+          "titre": "Inside Buckshot Roulette developer Mike Klubnika's terrifically nasty horror universe of post-Soviet malaise"
+        }
+      ]
+    },
+    {
+      "id": "creation-without-a-creator-pathologic-3-s-devs-have-refused",
+      "titre": "\"Creation without a creator\": Pathologic 3's devs have refused to patch an invisible apple tree, and for a blissful moment, I thought they were lying to poison Google's AI",
+      "url": "https://www.rockpapershotgun.com/creation-without-a-creator-pathologic-3s-devs-have-refused-to-patch-an-invisible-apple-tree-and-for-a-blissful-moment-i-thought-they-were-lying-to-poison-googles-ai",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/creation-without-a-creator-pathologic-3s-devs-have-refused-to-patch-an-invisible-apple-tree-and-for-a-blissful-moment-i-thought-they-were-lying-to-poison-googles-ai",
+          "titre": "\"Creation without a creator\": Pathologic 3's devs have refused to patch an invisible apple tree, and for a blissful moment, I thought they were lying to poison Google's AI"
+        }
+      ]
+    },
+    {
+      "id": "dead-by-daylight-studio-says-removed-characters-like-chucky",
+      "titre": "Dead by Daylight studio says removed characters like Chucky, Pinhead and Michael Myers have an ‘open invitation’ to return",
+      "url": "https://www.videogameschronicle.com/news/dead-by-daylight-studio-says-removed-characters-like-chucky-pinhead-and-michael-myers-have-an-open-invitation-to-return/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 2.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/dead-by-daylight-studio-says-removed-characters-like-chucky-pinhead-and-michael-myers-have-an-open-invitation-to-return/",
+          "titre": "Dead by Daylight studio says removed characters like Chucky, Pinhead and Michael Myers have an ‘open invitation’ to return"
+        }
+      ]
+    },
+    {
+      "id": "former-fall-guys-devs-are-bringing-their-co-op-platformer-fr",
+      "titre": "Former Fall Guys Devs Are Bringing Their Co-Op Platformer Frog Sqwad to PS5 Today",
+      "url": "https://www.pushsquare.com/news/2026/10/former-fall-guys-devs-are-bringing-their-co-op-platformer-frog-sqwad-to-ps5-today",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 2.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/former-fall-guys-devs-are-bringing-their-co-op-platformer-frog-sqwad-to-ps5-today",
+          "titre": "Former Fall Guys Devs Are Bringing Their Co-Op Platformer Frog Sqwad to PS5 Today"
+        }
+      ]
+    },
+    {
+      "id": "part-idle-game-part-automation-game-moon-sweepers-exploits-t",
+      "titre": "Part idle game, part automation game, Moon Sweepers exploits the sickness in me that adores both Satisfactory and Cookie Clicker",
+      "url": "https://www.rockpapershotgun.com/part-idle-game-part-automation-game-moon-sweepers-exploits-the-sickness-in-me-that-adores-both-satisfactory-and-cookie-clicker",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 3.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/part-idle-game-part-automation-game-moon-sweepers-exploits-the-sickness-in-me-that-adores-both-satisfactory-and-cookie-clicker",
+          "titre": "Part idle game, part automation game, Moon Sweepers exploits the sickness in me that adores both Satisfactory and Cookie Clicker"
+        }
+      ]
+    },
+    {
+      "id": "interior-night-studio-head-charu-desodt-appointed-chair-of-b",
+      "titre": "Interior Night studio head Charu Desodt appointed chair of BAFTA Games Committee",
+      "url": "https://www.gamesindustry.biz/interior-night-studio-head-charu-desodt-appointed-chair-of-bafta-games-committee",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 3.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/interior-night-studio-head-charu-desodt-appointed-chair-of-bafta-games-committee",
+          "titre": "Interior Night studio head Charu Desodt appointed chair of BAFTA Games Committee"
+        }
+      ]
+    },
+    {
+      "id": "gamescom-asia-touts-new-records-for-international-attendance",
+      "titre": "Gamescom Asia touts new records for international attendance and showfloor size",
+      "url": "https://www.gamesindustry.biz/gamescom-asia-touts-new-records-for-international-attendance-and-showfloor-size",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/gamescom-asia-touts-new-records-for-international-attendance-and-showfloor-size",
+          "titre": "Gamescom Asia touts new records for international attendance and showfloor size"
+        }
+      ]
+    },
+    {
+      "id": "psa-minecraft-switch-2-now-available-switch-physical-owners",
+      "titre": "PSA: Minecraft Switch 2 Now Available, Switch Physical Owners Get A Digital Discount",
+      "url": "https://www.nintendolife.com/news/2026/10/psa-minecraft-switch-2-now-available-switch-physical-owners-get-a-digital-discount",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 7.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/psa-minecraft-switch-2-now-available-switch-physical-owners-get-a-digital-discount",
+          "titre": "PSA: Minecraft Switch 2 Now Available, Switch Physical Owners Get A Digital Discount"
+        }
+      ]
+    },
+    {
+      "id": "cyberpunk-s-edgerunners-2-update-isn-t-in-the-best-state-on",
+      "titre": "Cyberpunk's Edgerunners 2 Update Isn't In The Best State On Switch 2 Right Now",
+      "url": "https://www.nintendolife.com/news/2026/10/cyberpunks-edgerunners-2-update-isnt-in-the-best-state-on-switch-2-right-now",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 11.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/cyberpunks-edgerunners-2-update-isnt-in-the-best-state-on-switch-2-right-now",
+          "titre": "Cyberpunk's Edgerunners 2 Update Isn't In The Best State On Switch 2 Right Now"
         }
       ]
     },
@@ -371,37 +701,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.5,
-      "chaleur": 7,
+      "heures": 12.7,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/guides/gta-6-release-times-and-preload-when-can-you-start-playing",
           "titre": "Guide: GTA 6 Release Times and Preload: When Can You Start Playing?"
-        }
-      ]
-    },
-    {
-      "id": "rockstar-will-hold-union-vote-right-on-top-of-grand-theft-au",
-      "titre": "Rockstar will hold union vote right on top of Grand Theft Auto 6 release",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-will-hold-union-vote-right-on-top-of-grand-theft-auto-6-release/",
-      "sources": [
-        "Game Developer",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 7.1,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-will-hold-union-vote-right-on-top-of-grand-theft-auto-6-release/",
-          "titre": "Rockstar will hold union vote right on top of Grand Theft Auto 6 release"
-        },
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/rockstar-workers-to-vote-on-unionization-ahead-of-grand-theft-auto-vi-release",
-          "titre": "Rockstar Games workers to vote on unionization right as Grand Theft Auto VI launches"
         }
       ]
     },
@@ -414,8 +720,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 7.6,
-      "chaleur": 7,
+      "heures": 14.8,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
@@ -438,8 +744,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 10.7,
-      "chaleur": 7,
+      "heures": 17.9,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Game Developer",
@@ -454,24 +760,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "uk-based-rockstar-devs-will-be-putting-their-union-recogniti",
-      "titre": "UK-based Rockstar devs will be putting their union recognition to a vote during GTA 6's launch next month",
-      "url": "https://www.rockpapershotgun.com/uk-based-rockstar-devs-will-be-putting-their-union-recognition-to-a-vote-during-gta-6s-launch-next-month",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/uk-based-rockstar-devs-will-be-putting-their-union-recognition-to-a-vote-during-gta-6s-launch-next-month",
-          "titre": "UK-based Rockstar devs will be putting their union recognition to a vote during GTA 6's launch next month"
-        }
-      ]
-    },
-    {
       "id": "a-leaked-trailer-for-transformers-reactivate-shows-off-the-o",
       "titre": "A leaked trailer for Transformers: Reactivate shows off the only lick of gameplay we'll likely ever see of the cancelled co-op action game",
       "url": "https://www.rockpapershotgun.com/a-leaked-trailer-for-transformers-reactivate-shows-off-the-only-lick-of-gameplay-well-likely-ever-see-of-the-cancelled-co-op-action-game",
@@ -479,8 +767,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 7,
+      "heures": 18.7,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -497,8 +785,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 7,
+      "heures": 19.2,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
@@ -516,8 +804,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 12.0,
-      "chaleur": 7,
+      "heures": 19.2,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -532,60 +820,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "xbox-reportedly-turned-down-a-500-million-deal-from-netflix",
-      "titre": "Xbox reportedly turned down a $500 million deal from Netflix to adapt its video game properties",
-      "url": "https://www.gamedeveloper.com/business/xbox-reportedly-turned-down-a-500-million-deal-from-netflix-for-adapting-gaming-properties",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 34.7,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/xbox-reportedly-turned-down-a-500-million-deal-from-netflix-for-adapting-gaming-properties",
-          "titre": "Xbox reportedly turned down a $500 million deal from Netflix to adapt its video game properties"
-        }
-      ]
-    },
-    {
-      "id": "cyberpunk-s-edgerunners-2-update-isn-t-in-the-best-state-on",
-      "titre": "Cyberpunk's Edgerunners 2 Update Isn't In The Best State On Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/10/cyberpunks-edgerunners-2-update-isnt-in-the-best-state-on-switch-2",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 4.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/cyberpunks-edgerunners-2-update-isnt-in-the-best-state-on-switch-2",
-          "titre": "Cyberpunk's Edgerunners 2 Update Isn't In The Best State On Switch 2"
-        }
-      ]
-    },
-    {
-      "id": "pocketpair-would-love-to-have-conversations-to-bring-palworl",
-      "titre": "Pocketpair would ‘love to have conversations’ to bring Palworld to Switch 2, CEO says",
-      "url": "https://www.videogameschronicle.com/news/pocketpair-would-love-to-have-conversations-to-bring-palworld-to-switch-2-ceo-says/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/pocketpair-would-love-to-have-conversations-to-bring-palworld-to-switch-2-ceo-says/",
-          "titre": "Pocketpair would ‘love to have conversations’ to bring Palworld to Switch 2, CEO says"
-        }
-      ]
-    },
-    {
       "id": "street-fighter-v-temporarily-delisted-and-online-functions-t",
       "titre": "Street Fighter V temporarily delisted and online functions turned off due to issues caused by last week's PHP security flaw",
       "url": "https://www.rockpapershotgun.com/street-fighter-v-temporarily-delisted-and-online-functions-turned-off-due-to-issues-caused-by-last-weeks-php-security-flaw",
@@ -594,7 +828,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 13.0,
+      "heures": 20.2,
       "chaleur": 6,
       "liens": [
         {
@@ -617,31 +851,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 20.7,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/features/poll-what-review-score-would-you-give-nintendo-switch-sports-resort",
           "titre": "Poll: What Review Score Would You Give Nintendo Switch Sports Resort?"
-        }
-      ]
-    },
-    {
-      "id": "edge-magazine-went-to-rockstar-to-see-gta-6-and-will-tell-yo",
-      "titre": "Edge magazine went to Rockstar to see GTA 6, and will tell you all about it in lavish detail this Thursday, October 29",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/edge-magazine-went-to-rockstar-to-see-gta-6-and-will-tell-you-all-about-in-lavish-detail-this-thursday-october-29/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 14.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/edge-magazine-went-to-rockstar-to-see-gta-6-and-will-tell-you-all-about-in-lavish-detail-this-thursday-october-29/",
-          "titre": "Edge magazine went to Rockstar to see GTA 6, and will tell you all about it in lavish detail this Thursday, October 29"
         }
       ]
     },
@@ -653,7 +869,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.5,
+      "heures": 23.7,
       "chaleur": 6,
       "liens": [
         {
@@ -664,86 +880,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "life-is-strange-makers-don-t-nod-face-layoffs-and-possible-i",
-      "titre": "Life is Strange makers Don't Nod face layoffs and possible insolvency, French workers union STJV state",
-      "url": "https://www.rockpapershotgun.com/life-is-strange-makers-dont-nod-face-layoffs-and-possible-insolvency-french-workers-union-stjv-state",
+      "id": "composer-shares-20-minutes-of-music-created-for-mass-effect",
+      "titre": "Composer shares 20 minutes of music created for Mass Effect 5 following tragic closure of BioWare",
+      "url": "https://www.eurogamer.net/mass-effect-5-pitched-music-composer",
       "sources": [
-        "Rock Paper Shotgun"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/life-is-strange-makers-dont-nod-face-layoffs-and-possible-insolvency-french-workers-union-stjv-state",
-          "titre": "Life is Strange makers Don't Nod face layoffs and possible insolvency, French workers union STJV state"
-        }
-      ]
-    },
-    {
-      "id": "boltgun-2-and-warhammer-survivors-devs-auroch-digital-say-th",
-      "titre": "Boltgun 2 and Warhammer Survivors devs Auroch Digital say they're laying off 25% of their staff in now-deleted posts",
-      "url": "https://www.rockpapershotgun.com/boltgun-2-and-warhammer-survivors-devs-auroch-digital-say-theyre-laying-of-25-of-their-staff-in-now-deleted-posts",
-      "sources": [
-        "GamesIndustry.biz",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 19.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/boltgun-2-and-warhammer-survivors-devs-auroch-digital-say-theyre-laying-of-25-of-their-staff-in-now-deleted-posts",
-          "titre": "Boltgun 2 and Warhammer Survivors devs Auroch Digital say they're laying off 25% of their staff in now-deleted posts"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/auroch-digital-lays-off-a-quarter-of-its-staff",
-          "titre": "Auroch Digital lays off a quarter of its staff"
-        }
-      ]
-    },
-    {
-      "id": "hori-unveils-brand-new-legend-of-zelda-switch-2-products",
-      "titre": "Hori Unveils Brand New Legend Of Zelda Switch 2 Products",
-      "url": "https://www.nintendolife.com/news/2026/10/hori-unveils-brand-new-legend-of-zelda-switch-2-products",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 24.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/hori-unveils-brand-new-legend-of-zelda-switch-2-products",
-          "titre": "Hori Unveils Brand New Legend Of Zelda Switch 2 Products"
-        }
-      ]
-    },
-    {
-      "id": "mass-effect-fans-ramp-up-efforts-to-save-bioware-s-rpg-serie",
-      "titre": "Mass Effect fans ramp up efforts to save BioWare's RPG series with a Times Square billboard and plans for more ads outside The Game Awards",
-      "url": "https://www.eurogamer.net/mass-effect-fans-save-rpg-times-square",
-      "sources": [
-        "Eurogamer",
-        "GamesIndustry.biz"
-      ],
-      "reprises": 2,
-      "heures": 33.3,
+      "heures": 26.7,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/mass-effect-fans-save-rpg-times-square",
-          "titre": "Mass Effect fans ramp up efforts to save BioWare's RPG series with a Times Square billboard and plans for more ads outside The Game Awards"
-        },
+          "url": "https://www.eurogamer.net/mass-effect-5-pitched-music-composer",
+          "titre": "Composer shares 20 minutes of music created for Mass Effect 5 following tragic closure of BioWare"
+        }
+      ]
+    },
+    {
+      "id": "pocketpair-would-love-to-have-conversations-to-bring-palworl",
+      "titre": "Pocketpair would ‘love to have conversations’ to bring Palworld to Switch 2, CEO says",
+      "url": "https://www.videogameschronicle.com/news/pocketpair-would-love-to-have-conversations-to-bring-palworld-to-switch-2-ceo-says/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 18.6,
+      "chaleur": 5,
+      "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/223000-people-sign-petition-to-save-mass-effect",
-          "titre": "223,000+ people sign petition to \"save Mass Effect\""
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/pocketpair-would-love-to-have-conversations-to-bring-palworld-to-switch-2-ceo-says/",
+          "titre": "Pocketpair would ‘love to have conversations’ to bring Palworld to Switch 2, CEO says"
+        }
+      ]
+    },
+    {
+      "id": "community-zelda-s-almost-here-and-we-want-to-hear-your-ocari",
+      "titre": "Community: Zelda's Almost Here, And We Want To Hear Your Ocarina Of Time Memories",
+      "url": "https://www.nintendolife.com/news/2026/10/community-zeldas-almost-here-and-we-want-to-hear-your-ocarina-of-time-memories",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 18.7,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/community-zeldas-almost-here-and-we-want-to-hear-your-ocarina-of-time-memories",
+          "titre": "Community: Zelda's Almost Here, And We Want To Hear Your Ocarina Of Time Memories"
         }
       ]
     },
@@ -755,7 +941,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 19.7,
       "chaleur": 5,
       "liens": [
         {
@@ -773,7 +959,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.5,
+      "heures": 21.7,
       "chaleur": 5,
       "liens": [
         {
@@ -784,74 +970,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "steam-frame-kernel-updated-with-external-cd-rom-drive-compat",
-      "titre": "Steam Frame kernel updated with external CD-ROM drive compatibility just one day after a user asked Valve for it",
-      "url": "https://www.rockpapershotgun.com/steam-frame-kernel-updated-with-external-cd-rom-drive-compatibility-just-one-day-after-a-user-asked-valve-for-it",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 18.4,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/steam-frame-kernel-updated-with-external-cd-rom-drive-compatibility-just-one-day-after-a-user-asked-valve-for-it",
-          "titre": "Steam Frame kernel updated with external CD-ROM drive compatibility just one day after a user asked Valve for it"
-        }
-      ]
-    },
-    {
-      "id": "review-shadow-of-the-tomb-raider-definitive-edition-switch-2",
-      "titre": "Review: Shadow Of The Tomb Raider: Definitive Edition (Switch 2) - The Weakest Survivor Entry, But Still A Good Time",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/shadow-of-the-tomb-raider-definitive-edition",
+      "id": "pok-mon-pokopia-and-fire-emblem-fortune-s-weave-shortlisted",
+      "titre": "Pokémon Pokopia And Fire Emblem: Fortune's Weave Shortlisted For 'Console Game Of The Year'",
+      "url": "https://www.nintendolife.com/news/2026/10/pokemon-pokopia-and-fire-emblem-fortunes-weave-shortlisted-for-console-game-of-the-year",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.5,
-      "chaleur": 5,
+      "heures": 5.7,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/shadow-of-the-tomb-raider-definitive-edition",
-          "titre": "Review: Shadow Of The Tomb Raider: Definitive Edition (Switch 2) - The Weakest Survivor Entry, But Still A Good Time"
-        }
-      ]
-    },
-    {
-      "id": "bloober-team-s-silent-hill-remake-is-set-for-a-2027-release",
-      "titre": "Bloober Team’s Silent Hill remake is set for a 2027 release with the first two actors named, report claims",
-      "url": "https://www.videogameschronicle.com/news/bloober-teams-silent-hill-remake-is-set-for-a-2027-release-with-the-first-two-actors-named-report-claims/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 18.5,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/bloober-teams-silent-hill-remake-is-set-for-a-2027-release-with-the-first-two-actors-named-report-claims/",
-          "titre": "Bloober Team’s Silent Hill remake is set for a 2027 release with the first two actors named, report claims"
-        }
-      ]
-    },
-    {
-      "id": "dragon-s-dogma-2-dark-arisen-title-update-4-1-now-live-on-sw",
-      "titre": "Dragon's Dogma 2: Dark Arisen Title Update 4.1 Now Live On Switch 2, Here Are The Full Patch Notes",
-      "url": "https://www.nintendolife.com/news/2026/10/dragons-dogma-2-dark-arisen-title-update-4-1-now-live-on-switch-2-here-are-the-full-patch-notes",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 26.0,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/dragons-dogma-2-dark-arisen-title-update-4-1-now-live-on-switch-2-here-are-the-full-patch-notes",
-          "titre": "Dragon's Dogma 2: Dark Arisen Title Update 4.1 Now Live On Switch 2, Here Are The Full Patch Notes"
+          "url": "https://www.nintendolife.com/news/2026/10/pokemon-pokopia-and-fire-emblem-fortunes-weave-shortlisted-for-console-game-of-the-year",
+          "titre": "Pokémon Pokopia And Fire Emblem: Fortune's Weave Shortlisted For 'Console Game Of The Year'"
         }
       ]
     },
@@ -863,8 +995,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.5,
-      "chaleur": 4,
+      "heures": 12.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -881,31 +1013,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.7,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/monarchs-at-play-is-a-4x-strategy-city-builder-about-chaining-hexagonal-tiles-that-only-takes-an-hour-out-of-your-day",
           "titre": "Monarchs at Play is a 4X strategy city-builder about chaining hexagonal tiles that only takes an hour out of your day"
-        }
-      ]
-    },
-    {
-      "id": "mass-effect-composer-sam-hulick-is-working-on-a-re-scored-ve",
-      "titre": "Mass Effect composer Sam Hulick is working on a 're-scored' version of the leaked Mass Effect 5 trailer for N7 Day",
-      "url": "https://www.pcgamer.com/games/mass-effect/mass-effect-composer-sam-hulick-is-working-on-a-re-scored-version-of-the-leaked-mass-effect-5-trailer-for-n7-day/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 8.3,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/mass-effect/mass-effect-composer-sam-hulick-is-working-on-a-re-scored-version-of-the-leaked-mass-effect-5-trailer-for-n7-day/",
-          "titre": "Mass Effect composer Sam Hulick is working on a 're-scored' version of the leaked Mass Effect 5 trailer for N7 Day"
         }
       ]
     },
@@ -917,8 +1031,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.5,
-      "chaleur": 4,
+      "heures": 15.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -935,8 +1049,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.5,
-      "chaleur": 4,
+      "heures": 16.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -953,8 +1067,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.7,
-      "chaleur": 4,
+      "heures": 16.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -971,8 +1085,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 4,
+      "heures": 18.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -989,8 +1103,8 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 4,
+      "heures": 18.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Game Developer",
@@ -1007,8 +1121,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.0,
-      "chaleur": 4,
+      "heures": 19.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1025,7 +1139,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 19.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1043,7 +1157,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 19.7,
       "chaleur": 3,
       "liens": [
         {
@@ -1061,31 +1175,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 20.1,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/software/ai/nvidia-and-amd-invest-billions-into-meta-as-companies-egg-each-other-on-to-bet-even-more-on-ai/",
           "titre": "Nvidia and AMD invest billions into Meta as companies egg each other on to bet even more on AI"
-        }
-      ]
-    },
-    {
-      "id": "cod-mw4-multiplayer-best-meta-weapons-for-season-1",
-      "titre": "COD MW4 Multiplayer: Best meta weapons for Season 1",
-      "url": "https://www.videogameschronicle.com/guide/cod-mw4-multiplayer-best-meta-weapons/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 12.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/cod-mw4-multiplayer-best-meta-weapons/",
-          "titre": "COD MW4 Multiplayer: Best meta weapons for Season 1"
         }
       ]
     },
@@ -1097,7 +1193,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.0,
+      "heures": 20.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1106,135 +1202,9 @@ const VEILLE = {
           "titre": "Vote for the scariest game of all time: Round 1"
         }
       ]
-    },
-    {
-      "id": "dungeons-dragons-world-of-warcraft-s-class-designer-crammed",
-      "titre": "Dungeons & Dragons: World of Warcraft's class designer 'crammed as much' of the MMO into it so that even veteran tabletop players can experience something new",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/dungeons-and-dragons-world-of-warcrafts-class-designer-crammed-as-much-of-the-mmo-into-it-so-that-even-veteran-tabletop-players-can-experience-something-new/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 13.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/dungeons-and-dragons-world-of-warcrafts-class-designer-crammed-as-much-of-the-mmo-into-it-so-that-even-veteran-tabletop-players-can-experience-something-new/",
-          "titre": "Dungeons & Dragons: World of Warcraft's class designer 'crammed as much' of the MMO into it so that even veteran tabletop players can experience something new"
-        }
-      ]
-    },
-    {
-      "id": "virtue-and-a-sledgehammer-review-a-haunting-sci-fi-drama-abo",
-      "titre": "Virtue and a Sledgehammer review – a haunting sci-fi drama about breaking walls, AI faces, and your heart",
-      "url": "https://www.rockpapershotgun.com/virtue-and-a-sledgehammer-review",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 13.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/virtue-and-a-sledgehammer-review",
-          "titre": "Virtue and a Sledgehammer review – a haunting sci-fi drama about breaking walls, AI faces, and your heart"
-        }
-      ]
-    },
-    {
-      "id": "every-piece-is-unified-dark-messiah-of-might-and-magic-retu",
-      "titre": "\"Every piece is unified\": Dark Messiah of Might and Magic returns with co-op, an Adventure mode, a level generator and New Game+ in the 64-bit Community Edition",
-      "url": "https://www.rockpapershotgun.com/every-piece-is-unified-dark-messiah-of-might-and-magic-returns-with-co-op-an-adventure-mode-a-level-generator-and-new-game-in-the-64-bit-community-edition",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 13.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/every-piece-is-unified-dark-messiah-of-might-and-magic-returns-with-co-op-an-adventure-mode-a-level-generator-and-new-game-in-the-64-bit-community-edition",
-          "titre": "\"Every piece is unified\": Dark Messiah of Might and Magic returns with co-op, an Adventure mode, a level generator and New Game+ in the 64-bit Community Edition"
-        }
-      ]
-    },
-    {
-      "id": "revisiting-ecstatica-the-pioneering-survival-horror-that-use",
-      "titre": "Revisiting Ecstatica - the pioneering survival horror that used its fancy ellipsoid graphics tech to fill its world with dongs",
-      "url": "https://www.eurogamer.net/ecstatica-now-playing",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 13.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/ecstatica-now-playing",
-          "titre": "Revisiting Ecstatica - the pioneering survival horror that used its fancy ellipsoid graphics tech to fill its world with dongs"
-        }
-      ]
-    },
-    {
-      "id": "mass-effect-cancellation-stings-even-more-when-you-realise-a",
-      "titre": "Mass Effect Cancellation Stings Even More When You Realise Austin Wintory Was Pitching the Soundtrack",
-      "url": "https://www.pushsquare.com/news/2026/10/mass-effect-cancellation-stings-even-more-when-you-realise-austin-wintory-was-pitching-the-soundtrack",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 14.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/mass-effect-cancellation-stings-even-more-when-you-realise-austin-wintory-was-pitching-the-soundtrack",
-          "titre": "Mass Effect Cancellation Stings Even More When You Realise Austin Wintory Was Pitching the Soundtrack"
-        }
-      ]
-    },
-    {
-      "id": "square-enix-vets-say-devs-of-the-future-will-need-to-master",
-      "titre": "Square Enix vets say devs of the future will need to 'master the use of AI', but the human touch will still be vital",
-      "url": "https://www.pcgamer.com/gaming-industry/game-development/square-enix-vets-say-devs-of-the-future-will-need-to-master-the-use-of-ai-but-the-human-touch-will-still-be-vital/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 14.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/game-development/square-enix-vets-say-devs-of-the-future-will-need-to-master-the-use-of-ai-but-the-human-touch-will-still-be-vital/",
-          "titre": "Square Enix vets say devs of the future will need to 'master the use of AI', but the human touch will still be vital"
-        }
-      ]
-    },
-    {
-      "id": "after-experimenting-with-a-pve-mode-arc-raiders-studio-embar",
-      "titre": "After experimenting with a PvE mode, Arc Raiders studio Embark says it’s figuring out whether to bring it back permanently",
-      "url": "https://www.videogameschronicle.com/news/after-experimenting-with-a-pve-mode-arc-raiders-studio-embark-says-its-figuring-out-whether-to-bring-it-back-permanently/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 14.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/after-experimenting-with-a-pve-mode-arc-raiders-studio-embark-says-its-figuring-out-whether-to-bring-it-back-permanently/",
-          "titre": "After experimenting with a PvE mode, Arc Raiders studio Embark says it’s figuring out whether to bring it back permanently"
-        }
-      ]
     }
   ],
   "alertes": [
-    "Call Of Duty: Modern Warfare 4 Update Adds Shipment To Its Map Rotation"
+    "Rockstar Games employees have locked in a union vote next month, and it'll take place over Grand Theft Auto 6's release window"
   ]
 };
