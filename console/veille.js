@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "27/10/2026 à 22h06",
+  "collecte": "28/10/2026 à 05h27",
   "seuil": 14,
   "sujets": [
     {
@@ -15,8 +15,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 5,
-      "heures": 2.9,
-      "chaleur": 18,
+      "heures": 10.2,
+      "chaleur": 16,
       "liens": [
         {
           "source": "Game Developer",
@@ -46,6 +46,36 @@ const VEILLE = {
       ]
     },
     {
+      "id": "call-of-duty-modern-warfare-4-update-adds-shipment-to-its-ma",
+      "titre": "Call Of Duty: Modern Warfare 4 Update Adds Shipment To Its Map Rotation",
+      "url": "https://www.nintendolife.com/news/2026/10/call-of-duty-modern-warfare-4-update-adds-shipment-to-its-map-rotation",
+      "sources": [
+        "Eurogamer",
+        "Nintendo Life",
+        "PC Gamer"
+      ],
+      "reprises": 3,
+      "heures": 2.5,
+      "chaleur": 14,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/call-of-duty-modern-warfare-4-update-adds-shipment-to-its-map-rotation",
+          "titre": "Call Of Duty: Modern Warfare 4 Update Adds Shipment To Its Map Rotation"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-modern-warfare-4-review/",
+          "titre": "Call of Duty: Modern Warfare 4 review"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-shipment-map-date",
+          "titre": "Fan favourite map Shipment arrives today in Modern Warfare 4, just four days after launch - a new record for Call of Duty"
+        }
+      ]
+    },
+    {
       "id": "assassin-s-creed-black-flag-resynced-is-wrapping-things-up-w",
       "titre": "Assassin's Creed Black Flag Resynced is wrapping things up with one last big update that adds in new game plus and a throwback to the original game",
       "url": "https://www.rockpapershotgun.com/assassins-creed-black-flag-resynced-is-wrapping-things-up-with-one-last-big-update-that-adds-in-new-game-plus-and-a-throwback-to-the-original-game",
@@ -56,7 +86,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 4.1,
+      "heures": 11.5,
       "chaleur": 13,
       "liens": [
         {
@@ -91,8 +121,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 8.0,
-      "chaleur": 13,
+      "heures": 15.3,
+      "chaleur": 12,
       "liens": [
         {
           "source": "Eurogamer",
@@ -120,8 +150,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 11.6,
-      "chaleur": 13,
+      "heures": 19.0,
+      "chaleur": 12,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -136,6 +166,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "here-s-the-phantom-blade-zero-release-time-for-your-region",
+      "titre": "Here's the Phantom Blade Zero release time for your region",
+      "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-release-date-launch-times/",
+      "sources": [
+        "Nintendo Life",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 3.5,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-release-date-launch-times/",
+          "titre": "Here's the Phantom Blade Zero release time for your region"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/community-zeldas-almost-here-and-we-want-to-hear-your-ocarina-of-time-memories",
+          "titre": "Community: Zelda's Almost Here, And We Want To Hear Your Ocarina Of Time Memories"
+        }
+      ]
+    },
+    {
       "id": "sucker-punch-lays-off-24-to-align-with-current-market-next-p",
       "titre": "Sucker Punch lays off 24 to align with 'current market', 'next project needs'",
       "url": "https://www.gamedeveloper.com/business/sucker-punch-lays-off-24-to-align-with-current-market-next-project-needs",
@@ -145,8 +199,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 3,
-      "heures": 7.9,
-      "chaleur": 12,
+      "heures": 15.3,
+      "chaleur": 11,
       "liens": [
         {
           "source": "Game Developer",
@@ -174,7 +228,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 24.5,
+      "heures": 31.9,
       "chaleur": 11,
       "liens": [
         {
@@ -190,72 +244,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "messages-in-certain-large-public-discord-servers-will-be-sea",
-      "titre": "Messages in certain large public Discord servers will be searchable on the web after December",
-      "url": "https://www.pcgamer.com/software/platforms/messages-in-certain-large-public-discord-servers-will-be-searchable-on-the-web-after-december/",
-      "sources": [
-        "PC Gamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 0.2,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/platforms/messages-in-certain-large-public-discord-servers-will-be-searchable-on-the-web-after-december/",
-          "titre": "Messages in certain large public Discord servers will be searchable on the web after December"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/discord-know-they-replaced-forums-so-theyre-making-your-messages-in-discoverable-servers-searchable-which-immediately-raises-one-question-what-about-ai",
-          "titre": "Discord know they replaced forums, so they're making your messages in discoverable servers searchable, which immediately raises one question: what about AI?"
-        }
-      ]
-    },
-    {
-      "id": "crossy-road-creator-matt-hall-named-atari-s-evp-of-mobile",
-      "titre": "Crossy Road creator Matt Hall named Atari's EVP of Mobile",
-      "url": "https://www.gamedeveloper.com/mobile/crossy-road-creator-matt-hall-named-atari-s-evp-of-mobile",
-      "sources": [
-        "Game Developer",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 3.4,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/mobile/crossy-road-creator-matt-hall-named-atari-s-evp-of-mobile",
-          "titre": "Crossy Road creator Matt Hall named Atari's EVP of Mobile"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/the-creator-of-crossy-road-is-now-ataris-executive-vice-president-of-mobile-games/",
-          "titre": "The creator of Crossy Road is now leading Atari’s mobile game division"
-        }
-      ]
-    },
-    {
-      "id": "uk-based-rockstar-devs-will-be-putting-their-union-recogniti",
-      "titre": "UK-based Rockstar devs will be putting their union recognition to a vote during GTA 6's launch next month",
-      "url": "https://www.rockpapershotgun.com/uk-based-rockstar-devs-will-be-putting-their-union-recognition-to-a-vote-during-gta-6s-launch-next-month",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/uk-based-rockstar-devs-will-be-putting-their-union-recognition-to-a-vote-during-gta-6s-launch-next-month",
-          "titre": "UK-based Rockstar devs will be putting their union recognition to a vote during GTA 6's launch next month"
-        }
-      ]
-    },
-    {
       "id": "gta-6-ps5-file-size-has-been-reported-and-it-s-an-absolute-m",
       "titre": "GTA 6 PS5 File Size Has Been Reported, and It's an Absolute Monster",
       "url": "https://www.pushsquare.com/news/2026/10/gta-6-ps5-file-size-has-been-reported-and-its-an-absolute-monster",
@@ -263,13 +251,31 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 11.7,
       "chaleur": 9,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/gta-6-ps5-file-size-has-been-reported-and-its-an-absolute-monster",
           "titre": "GTA 6 PS5 File Size Has Been Reported, and It's an Absolute Monster"
+        }
+      ]
+    },
+    {
+      "id": "psa-minecraft-switch-2-now-available-switch-physical-owners",
+      "titre": "PSA: Minecraft Switch 2 Now Available, Switch Physical Owners Get A Digital Discount",
+      "url": "https://www.nintendolife.com/news/2026/10/psa-minecraft-switch-2-now-available-switch-physical-owners-get-a-digital-discount",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/psa-minecraft-switch-2-now-available-switch-physical-owners-get-a-digital-discount",
+          "titre": "PSA: Minecraft Switch 2 Now Available, Switch Physical Owners Get A Digital Discount"
         }
       ]
     },
@@ -281,8 +287,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.1,
-      "chaleur": 9,
+      "heures": 14.4,
+      "chaleur": 8,
       "liens": [
         {
           "source": "Eurogamer",
@@ -300,8 +306,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 9.9,
-      "chaleur": 9,
+      "heures": 17.2,
+      "chaleur": 8,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -324,8 +330,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 10.4,
-      "chaleur": 9,
+      "heures": 17.7,
+      "chaleur": 8,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -340,24 +346,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "pocketpair-would-love-to-have-conversations-to-bring-palworl",
-      "titre": "Pocketpair would ‘love to have conversations’ to bring Palworld to Switch 2, CEO says",
-      "url": "https://www.videogameschronicle.com/news/pocketpair-would-love-to-have-conversations-to-bring-palworld-to-switch-2-ceo-says/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 4.0,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/pocketpair-would-love-to-have-conversations-to-bring-palworld-to-switch-2-ceo-says/",
-          "titre": "Pocketpair would ‘love to have conversations’ to bring Palworld to Switch 2, CEO says"
-        }
-      ]
-    },
-    {
       "id": "epic-games-ceo-calls-steam-s-ai-disclosure-policies-a-politi",
       "titre": "Epic Games CEO calls Steam's AI disclosure policies \"a political act\"",
       "url": "https://www.gamesindustry.biz/epic-games-ceo-calls-steams-ai-disclosure-policies-a-political-act",
@@ -365,7 +353,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 26.2,
+      "heures": 33.6,
       "chaleur": 8,
       "liens": [
         {
@@ -376,26 +364,110 @@ const VEILLE = {
       ]
     },
     {
-      "id": "xbox-s-first-ever-coo-is-out-after-just-three-months",
-      "titre": "Xbox's first-ever COO is out after just three months",
-      "url": "https://www.gamedeveloper.com/console/xbox-coo-helen-chiang-leaves-role-shortly-after-its-creation",
+      "id": "guide-gta-6-release-times-and-preload-when-can-you-start-pla",
+      "titre": "Guide: GTA 6 Release Times and Preload: When Can You Start Playing?",
+      "url": "https://www.pushsquare.com/guides/gta-6-release-times-and-preload-when-can-you-start-playing",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/guides/gta-6-release-times-and-preload-when-can-you-start-playing",
+          "titre": "Guide: GTA 6 Release Times and Preload: When Can You Start Playing?"
+        }
+      ]
+    },
+    {
+      "id": "rockstar-will-hold-union-vote-right-on-top-of-grand-theft-au",
+      "titre": "Rockstar will hold union vote right on top of Grand Theft Auto 6 release",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-will-hold-union-vote-right-on-top-of-grand-theft-auto-6-release/",
       "sources": [
         "Game Developer",
-        "GamesIndustry.biz"
+        "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 29.7,
-      "chaleur": 8,
+      "heures": 7.1,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-will-hold-union-vote-right-on-top-of-grand-theft-auto-6-release/",
+          "titre": "Rockstar will hold union vote right on top of Grand Theft Auto 6 release"
+        },
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/rockstar-workers-to-vote-on-unionization-ahead-of-grand-theft-auto-vi-release",
+          "titre": "Rockstar Games workers to vote on unionization right as Grand Theft Auto VI launches"
+        }
+      ]
+    },
+    {
+      "id": "messages-in-certain-large-public-discord-servers-will-be-sea",
+      "titre": "Messages in certain large public Discord servers will be searchable on the web after December",
+      "url": "https://www.pcgamer.com/software/platforms/messages-in-certain-large-public-discord-servers-will-be-searchable-on-the-web-after-december/",
+      "sources": [
+        "PC Gamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 7.6,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/platforms/messages-in-certain-large-public-discord-servers-will-be-searchable-on-the-web-after-december/",
+          "titre": "Messages in certain large public Discord servers will be searchable on the web after December"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/discord-know-they-replaced-forums-so-theyre-making-your-messages-in-discoverable-servers-searchable-which-immediately-raises-one-question-what-about-ai",
+          "titre": "Discord know they replaced forums, so they're making your messages in discoverable servers searchable, which immediately raises one question: what about AI?"
+        }
+      ]
+    },
+    {
+      "id": "crossy-road-creator-matt-hall-named-atari-s-evp-of-mobile",
+      "titre": "Crossy Road creator Matt Hall named Atari's EVP of Mobile",
+      "url": "https://www.gamedeveloper.com/mobile/crossy-road-creator-matt-hall-named-atari-s-evp-of-mobile",
+      "sources": [
+        "Game Developer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 10.7,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/console/xbox-coo-helen-chiang-leaves-role-shortly-after-its-creation",
-          "titre": "Xbox's first-ever COO is out after just three months"
+          "url": "https://www.gamedeveloper.com/mobile/crossy-road-creator-matt-hall-named-atari-s-evp-of-mobile",
+          "titre": "Crossy Road creator Matt Hall named Atari's EVP of Mobile"
         },
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/it-was-a-pretty-harrowing-three-months-undead-labs-head-philip-holt-on-what-happened-after-xbox-cut-the-studio-loose",
-          "titre": "\"It was a pretty harrowing three months\" – Undead Labs head Philip Holt on what happened after Xbox cut the studio loose"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-creator-of-crossy-road-is-now-ataris-executive-vice-president-of-mobile-games/",
+          "titre": "The creator of Crossy Road is now leading Atari’s mobile game division"
+        }
+      ]
+    },
+    {
+      "id": "uk-based-rockstar-devs-will-be-putting-their-union-recogniti",
+      "titre": "UK-based Rockstar devs will be putting their union recognition to a vote during GTA 6's launch next month",
+      "url": "https://www.rockpapershotgun.com/uk-based-rockstar-devs-will-be-putting-their-union-recognition-to-a-vote-during-gta-6s-launch-next-month",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 10.8,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/uk-based-rockstar-devs-will-be-putting-their-union-recognition-to-a-vote-during-gta-6s-launch-next-month",
+          "titre": "UK-based Rockstar devs will be putting their union recognition to a vote during GTA 6's launch next month"
         }
       ]
     },
@@ -407,7 +479,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 11.5,
       "chaleur": 7,
       "liens": [
         {
@@ -425,7 +497,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 11.9,
       "chaleur": 7,
       "liens": [
         {
@@ -444,7 +516,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 4.6,
+      "heures": 12.0,
       "chaleur": 7,
       "liens": [
         {
@@ -460,6 +532,60 @@ const VEILLE = {
       ]
     },
     {
+      "id": "xbox-reportedly-turned-down-a-500-million-deal-from-netflix",
+      "titre": "Xbox reportedly turned down a $500 million deal from Netflix to adapt its video game properties",
+      "url": "https://www.gamedeveloper.com/business/xbox-reportedly-turned-down-a-500-million-deal-from-netflix-for-adapting-gaming-properties",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 34.7,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/xbox-reportedly-turned-down-a-500-million-deal-from-netflix-for-adapting-gaming-properties",
+          "titre": "Xbox reportedly turned down a $500 million deal from Netflix to adapt its video game properties"
+        }
+      ]
+    },
+    {
+      "id": "cyberpunk-s-edgerunners-2-update-isn-t-in-the-best-state-on",
+      "titre": "Cyberpunk's Edgerunners 2 Update Isn't In The Best State On Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/10/cyberpunks-edgerunners-2-update-isnt-in-the-best-state-on-switch-2",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/cyberpunks-edgerunners-2-update-isnt-in-the-best-state-on-switch-2",
+          "titre": "Cyberpunk's Edgerunners 2 Update Isn't In The Best State On Switch 2"
+        }
+      ]
+    },
+    {
+      "id": "pocketpair-would-love-to-have-conversations-to-bring-palworl",
+      "titre": "Pocketpair would ‘love to have conversations’ to bring Palworld to Switch 2, CEO says",
+      "url": "https://www.videogameschronicle.com/news/pocketpair-would-love-to-have-conversations-to-bring-palworld-to-switch-2-ceo-says/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 11.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/pocketpair-would-love-to-have-conversations-to-bring-palworld-to-switch-2-ceo-says/",
+          "titre": "Pocketpair would ‘love to have conversations’ to bring Palworld to Switch 2, CEO says"
+        }
+      ]
+    },
+    {
       "id": "street-fighter-v-temporarily-delisted-and-online-functions-t",
       "titre": "Street Fighter V temporarily delisted and online functions turned off due to issues caused by last week's PHP security flaw",
       "url": "https://www.rockpapershotgun.com/street-fighter-v-temporarily-delisted-and-online-functions-turned-off-due-to-issues-caused-by-last-weeks-php-security-flaw",
@@ -468,8 +594,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 5.6,
-      "chaleur": 7,
+      "heures": 13.0,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -491,8 +617,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.1,
-      "chaleur": 7,
+      "heures": 13.5,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -509,8 +635,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.1,
-      "chaleur": 7,
+      "heures": 14.5,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
@@ -527,8 +653,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.1,
-      "chaleur": 7,
+      "heures": 16.5,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -545,301 +671,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.8,
-      "chaleur": 7,
+      "heures": 17.1,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/life-is-strange-makers-dont-nod-face-layoffs-and-possible-insolvency-french-workers-union-stjv-state",
           "titre": "Life is Strange makers Don't Nod face layoffs and possible insolvency, French workers union STJV state"
-        }
-      ]
-    },
-    {
-      "id": "xbox-reportedly-turned-down-a-500-million-deal-from-netflix",
-      "titre": "Xbox reportedly turned down a $500 million deal from Netflix to adapt its video game properties",
-      "url": "https://www.gamedeveloper.com/business/xbox-reportedly-turned-down-a-500-million-deal-from-netflix-for-adapting-gaming-properties",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 27.4,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/xbox-reportedly-turned-down-a-500-million-deal-from-netflix-for-adapting-gaming-properties",
-          "titre": "Xbox reportedly turned down a $500 million deal from Netflix to adapt its video game properties"
-        }
-      ]
-    },
-    {
-      "id": "netflix-reportedly-offered-500m-to-microsoft-to-license-xbox",
-      "titre": "Netflix reportedly offered $500m to Microsoft to license Xbox IP for seven years",
-      "url": "https://www.gamesindustry.biz/netflix-reportedly-offered-500m-to-microsoft-to-license-xbox-ip-for-seven-years",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 33.1,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/netflix-reportedly-offered-500m-to-microsoft-to-license-xbox-ip-for-seven-years",
-          "titre": "Netflix reportedly offered $500m to Microsoft to license Xbox IP for seven years"
-        }
-      ]
-    },
-    {
-      "id": "mass-effect-composer-sam-hulick-is-working-on-a-re-scored-ve",
-      "titre": "Mass Effect composer Sam Hulick is working on a 're-scored' version of the leaked Mass Effect 5 trailer for N7 Day",
-      "url": "https://www.pcgamer.com/games/mass-effect/mass-effect-composer-sam-hulick-is-working-on-a-re-scored-version-of-the-leaked-mass-effect-5-trailer-for-n7-day/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 0.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/mass-effect/mass-effect-composer-sam-hulick-is-working-on-a-re-scored-version-of-the-leaked-mass-effect-5-trailer-for-n7-day/",
-          "titre": "Mass Effect composer Sam Hulick is working on a 're-scored' version of the leaked Mass Effect 5 trailer for N7 Day"
-        }
-      ]
-    },
-    {
-      "id": "review-silver-pines-ps5-lynchian-metroidvania-is-a-cut-above",
-      "titre": "Review: Silver Pines (PS5) - Lynchian Metroidvania Is a Cut Above",
-      "url": "https://www.pushsquare.com/reviews/ps5/silver-pines",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 1.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/reviews/ps5/silver-pines",
-          "titre": "Review: Silver Pines (PS5) - Lynchian Metroidvania Is a Cut Above"
-        }
-      ]
-    },
-    {
-      "id": "capcom-s-classic-console-games-could-be-coming-to-ps5",
-      "titre": "Capcom's Classic Console Games Could Be Coming to PS5",
-      "url": "https://www.pushsquare.com/news/2026/10/capcoms-classic-console-games-could-be-coming-to-ps5",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/capcoms-classic-console-games-could-be-coming-to-ps5",
-          "titre": "Capcom's Classic Console Games Could Be Coming to PS5"
-        }
-      ]
-    },
-    {
-      "id": "former-halo-boss-is-now-in-charge-of-wizards-of-the-coast-an",
-      "titre": "Former Halo boss is now in charge of Wizards of the Coast and Hasbro Digital Games",
-      "url": "https://www.pcgamer.com/gaming-industry/former-halo-boss-is-now-in-charge-of-wizards-of-the-coast-and-hasbro-digital-games/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/former-halo-boss-is-now-in-charge-of-wizards-of-the-coast-and-hasbro-digital-games/",
-          "titre": "Former Halo boss is now in charge of Wizards of the Coast and Hasbro Digital Games"
-        }
-      ]
-    },
-    {
-      "id": "rockstar-games-workers-to-vote-on-unionization-right-as-gran",
-      "titre": "Rockstar Games workers to vote on unionization right as Grand Theft Auto VI launches",
-      "url": "https://www.gamedeveloper.com/business/rockstar-workers-to-vote-on-unionization-ahead-of-grand-theft-auto-vi-release",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/rockstar-workers-to-vote-on-unionization-ahead-of-grand-theft-auto-vi-release",
-          "titre": "Rockstar Games workers to vote on unionization right as Grand Theft Auto VI launches"
-        }
-      ]
-    },
-    {
-      "id": "call-of-duty-modern-warfare-4-review",
-      "titre": "Call of Duty: Modern Warfare 4 review",
-      "url": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-modern-warfare-4-review/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-modern-warfare-4-review/",
-          "titre": "Call of Duty: Modern Warfare 4 review"
-        }
-      ]
-    },
-    {
-      "id": "community-zelda-s-almost-here-and-we-want-to-hear-your-ocari",
-      "titre": "Community: Zelda's Almost Here, And We Want To Hear Your Ocarina Of Time Memories",
-      "url": "https://www.nintendolife.com/news/2026/10/community-zeldas-almost-here-and-we-want-to-hear-your-ocarina-of-time-memories",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 4.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/community-zeldas-almost-here-and-we-want-to-hear-your-ocarina-of-time-memories",
-          "titre": "Community: Zelda's Almost Here, And We Want To Hear Your Ocarina Of Time Memories"
-        }
-      ]
-    },
-    {
-      "id": "talking-point-nintendo-indie-world-predictions-what-do-you-h",
-      "titre": "Talking Point: Nintendo Indie World Predictions - What Do You Hope To See?",
-      "url": "https://www.nintendolife.com/features/talking-point-nintendo-indie-world-predictions-what-do-you-hope-to-see",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 5.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/talking-point-nintendo-indie-world-predictions-what-do-you-hope-to-see",
-          "titre": "Talking Point: Nintendo Indie World Predictions - What Do You Hope To See?"
-        }
-      ]
-    },
-    {
-      "id": "review-the-s-ance-of-blake-manor-switch-2-a-special-game-and",
-      "titre": "Review: The Séance Of Blake Manor (Switch 2) - A Special Game, And A Perfect Halloween Treat",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/the-seance-of-blake-manor",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 7.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/the-seance-of-blake-manor",
-          "titre": "Review: The Séance Of Blake Manor (Switch 2) - A Special Game, And A Perfect Halloween Treat"
-        }
-      ]
-    },
-    {
-      "id": "you-just-can-t-win-despite-ghost-of-y-tei-selling-millions-o",
-      "titre": "You just can't win—despite Ghost of Yōtei selling millions of copies, 24 people are reportedly being let go from Sucker Punch",
-      "url": "https://www.pcgamer.com/gaming-industry/you-just-cant-win-despite-ghost-of-yotei-selling-millions-of-copies-24-people-are-reportedly-being-let-go-from-sucker-punch/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 8.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/you-just-cant-win-despite-ghost-of-yotei-selling-millions-of-copies-24-people-are-reportedly-being-let-go-from-sucker-punch/",
-          "titre": "You just can't win—despite Ghost of Yōtei selling millions of copies, 24 people are reportedly being let go from Sucker Punch"
-        }
-      ]
-    },
-    {
-      "id": "fan-favourite-map-shipment-arrives-today-in-modern-warfare-4",
-      "titre": "Fan favourite map Shipment arrives today in Modern Warfare 4, just four days after launch - a new record for Call of Duty",
-      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-shipment-map-date",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-shipment-map-date",
-          "titre": "Fan favourite map Shipment arrives today in Modern Warfare 4, just four days after launch - a new record for Call of Duty"
-        }
-      ]
-    },
-    {
-      "id": "steam-frame-kernel-updated-with-external-cd-rom-drive-compat",
-      "titre": "Steam Frame kernel updated with external CD-ROM drive compatibility just one day after a user asked Valve for it",
-      "url": "https://www.rockpapershotgun.com/steam-frame-kernel-updated-with-external-cd-rom-drive-compatibility-just-one-day-after-a-user-asked-valve-for-it",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 11.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/steam-frame-kernel-updated-with-external-cd-rom-drive-compatibility-just-one-day-after-a-user-asked-valve-for-it",
-          "titre": "Steam Frame kernel updated with external CD-ROM drive compatibility just one day after a user asked Valve for it"
-        }
-      ]
-    },
-    {
-      "id": "review-shadow-of-the-tomb-raider-definitive-edition-switch-2",
-      "titre": "Review: Shadow Of The Tomb Raider: Definitive Edition (Switch 2) - The Weakest Survivor Entry, But Still A Good Time",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/shadow-of-the-tomb-raider-definitive-edition",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/shadow-of-the-tomb-raider-definitive-edition",
-          "titre": "Review: Shadow Of The Tomb Raider: Definitive Edition (Switch 2) - The Weakest Survivor Entry, But Still A Good Time"
-        }
-      ]
-    },
-    {
-      "id": "bloober-team-s-silent-hill-remake-is-set-for-a-2027-release",
-      "titre": "Bloober Team’s Silent Hill remake is set for a 2027 release with the first two actors named, report claims",
-      "url": "https://www.videogameschronicle.com/news/bloober-teams-silent-hill-remake-is-set-for-a-2027-release-with-the-first-two-actors-named-report-claims/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/bloober-teams-silent-hill-remake-is-set-for-a-2027-release-with-the-first-two-actors-named-report-claims/",
-          "titre": "Bloober Team’s Silent Hill remake is set for a 2027 release with the first two actors named, report claims"
         }
       ]
     },
@@ -852,7 +690,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 12.0,
+      "heures": 19.3,
       "chaleur": 6,
       "liens": [
         {
@@ -875,31 +713,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.6,
+      "heures": 24.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/hori-unveils-brand-new-legend-of-zelda-switch-2-products",
           "titre": "Hori Unveils Brand New Legend Of Zelda Switch 2 Products"
-        }
-      ]
-    },
-    {
-      "id": "zelda-ocarina-of-time-midnight-launches-announced-for-ninten",
-      "titre": "Zelda: Ocarina Of Time Midnight Launches Announced For Nintendo New York And San Francisco Stores",
-      "url": "https://www.nintendolife.com/news/2026/10/zelda-ocarina-of-time-midnight-launches-announced-for-nintendo-new-york-and-san-francisco-stores",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 21.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/zelda-ocarina-of-time-midnight-launches-announced-for-nintendo-new-york-and-san-francisco-stores",
-          "titre": "Zelda: Ocarina Of Time Midnight Launches Announced For Nintendo New York And San Francisco Stores"
         }
       ]
     },
@@ -912,7 +732,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 26.0,
+      "heures": 33.3,
       "chaleur": 6,
       "liens": [
         {
@@ -928,6 +748,96 @@ const VEILLE = {
       ]
     },
     {
+      "id": "talking-point-nintendo-indie-world-predictions-what-do-you-h",
+      "titre": "Talking Point: Nintendo Indie World Predictions - What Do You Hope To See?",
+      "url": "https://www.nintendolife.com/features/talking-point-nintendo-indie-world-predictions-what-do-you-hope-to-see",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 12.5,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/talking-point-nintendo-indie-world-predictions-what-do-you-hope-to-see",
+          "titre": "Talking Point: Nintendo Indie World Predictions - What Do You Hope To See?"
+        }
+      ]
+    },
+    {
+      "id": "review-the-s-ance-of-blake-manor-switch-2-a-special-game-and",
+      "titre": "Review: The Séance Of Blake Manor (Switch 2) - A Special Game, And A Perfect Halloween Treat",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/the-seance-of-blake-manor",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 14.5,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/the-seance-of-blake-manor",
+          "titre": "Review: The Séance Of Blake Manor (Switch 2) - A Special Game, And A Perfect Halloween Treat"
+        }
+      ]
+    },
+    {
+      "id": "steam-frame-kernel-updated-with-external-cd-rom-drive-compat",
+      "titre": "Steam Frame kernel updated with external CD-ROM drive compatibility just one day after a user asked Valve for it",
+      "url": "https://www.rockpapershotgun.com/steam-frame-kernel-updated-with-external-cd-rom-drive-compatibility-just-one-day-after-a-user-asked-valve-for-it",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 18.4,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/steam-frame-kernel-updated-with-external-cd-rom-drive-compatibility-just-one-day-after-a-user-asked-valve-for-it",
+          "titre": "Steam Frame kernel updated with external CD-ROM drive compatibility just one day after a user asked Valve for it"
+        }
+      ]
+    },
+    {
+      "id": "review-shadow-of-the-tomb-raider-definitive-edition-switch-2",
+      "titre": "Review: Shadow Of The Tomb Raider: Definitive Edition (Switch 2) - The Weakest Survivor Entry, But Still A Good Time",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/shadow-of-the-tomb-raider-definitive-edition",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 18.5,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/shadow-of-the-tomb-raider-definitive-edition",
+          "titre": "Review: Shadow Of The Tomb Raider: Definitive Edition (Switch 2) - The Weakest Survivor Entry, But Still A Good Time"
+        }
+      ]
+    },
+    {
+      "id": "bloober-team-s-silent-hill-remake-is-set-for-a-2027-release",
+      "titre": "Bloober Team’s Silent Hill remake is set for a 2027 release with the first two actors named, report claims",
+      "url": "https://www.videogameschronicle.com/news/bloober-teams-silent-hill-remake-is-set-for-a-2027-release-with-the-first-two-actors-named-report-claims/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 18.5,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/bloober-teams-silent-hill-remake-is-set-for-a-2027-release-with-the-first-two-actors-named-report-claims/",
+          "titre": "Bloober Team’s Silent Hill remake is set for a 2027 release with the first two actors named, report claims"
+        }
+      ]
+    },
+    {
       "id": "dragon-s-dogma-2-dark-arisen-title-update-4-1-now-live-on-sw",
       "titre": "Dragon's Dogma 2: Dark Arisen Title Update 4.1 Now Live On Switch 2, Here Are The Full Patch Notes",
       "url": "https://www.nintendolife.com/news/2026/10/dragons-dogma-2-dark-arisen-title-update-4-1-now-live-on-switch-2-here-are-the-full-patch-notes",
@@ -935,13 +845,121 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.6,
+      "heures": 26.0,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/dragons-dogma-2-dark-arisen-title-update-4-1-now-live-on-switch-2-here-are-the-full-patch-notes",
           "titre": "Dragon's Dogma 2: Dark Arisen Title Update 4.1 Now Live On Switch 2, Here Are The Full Patch Notes"
+        }
+      ]
+    },
+    {
+      "id": "multiple-capcom-console-classics-have-been-rated-in-korea",
+      "titre": "Multiple Capcom Console Classics Have Been Rated In Korea",
+      "url": "https://www.nintendolife.com/news/2026/10/multiple-capcom-console-classics-have-been-rated-in-korea",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/multiple-capcom-console-classics-have-been-rated-in-korea",
+          "titre": "Multiple Capcom Console Classics Have Been Rated In Korea"
+        }
+      ]
+    },
+    {
+      "id": "monarchs-at-play-is-a-4x-strategy-city-builder-about-chainin",
+      "titre": "Monarchs at Play is a 4X strategy city-builder about chaining hexagonal tiles that only takes an hour out of your day",
+      "url": "https://www.rockpapershotgun.com/monarchs-at-play-is-a-4x-strategy-city-builder-about-chaining-hexagonal-tiles-that-only-takes-an-hour-out-of-your-day",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 6.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/monarchs-at-play-is-a-4x-strategy-city-builder-about-chaining-hexagonal-tiles-that-only-takes-an-hour-out-of-your-day",
+          "titre": "Monarchs at Play is a 4X strategy city-builder about chaining hexagonal tiles that only takes an hour out of your day"
+        }
+      ]
+    },
+    {
+      "id": "mass-effect-composer-sam-hulick-is-working-on-a-re-scored-ve",
+      "titre": "Mass Effect composer Sam Hulick is working on a 're-scored' version of the leaked Mass Effect 5 trailer for N7 Day",
+      "url": "https://www.pcgamer.com/games/mass-effect/mass-effect-composer-sam-hulick-is-working-on-a-re-scored-version-of-the-leaked-mass-effect-5-trailer-for-n7-day/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 8.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/mass-effect/mass-effect-composer-sam-hulick-is-working-on-a-re-scored-version-of-the-leaked-mass-effect-5-trailer-for-n7-day/",
+          "titre": "Mass Effect composer Sam Hulick is working on a 're-scored' version of the leaked Mass Effect 5 trailer for N7 Day"
+        }
+      ]
+    },
+    {
+      "id": "review-silver-pines-ps5-lynchian-metroidvania-is-a-cut-above",
+      "titre": "Review: Silver Pines (PS5) - Lynchian Metroidvania Is a Cut Above",
+      "url": "https://www.pushsquare.com/reviews/ps5/silver-pines",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 8.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/reviews/ps5/silver-pines",
+          "titre": "Review: Silver Pines (PS5) - Lynchian Metroidvania Is a Cut Above"
+        }
+      ]
+    },
+    {
+      "id": "capcom-s-classic-console-games-could-be-coming-to-ps5",
+      "titre": "Capcom's Classic Console Games Could Be Coming to PS5",
+      "url": "https://www.pushsquare.com/news/2026/10/capcoms-classic-console-games-could-be-coming-to-ps5",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 9.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/capcoms-classic-console-games-could-be-coming-to-ps5",
+          "titre": "Capcom's Classic Console Games Could Be Coming to PS5"
+        }
+      ]
+    },
+    {
+      "id": "former-halo-boss-is-now-in-charge-of-wizards-of-the-coast-an",
+      "titre": "Former Halo boss is now in charge of Wizards of the Coast and Hasbro Digital Games",
+      "url": "https://www.pcgamer.com/gaming-industry/former-halo-boss-is-now-in-charge-of-wizards-of-the-coast-and-hasbro-digital-games/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 9.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/former-halo-boss-is-now-in-charge-of-wizards-of-the-coast-and-hasbro-digital-games/",
+          "titre": "Former Halo boss is now in charge of Wizards of the Coast and Hasbro Digital Games"
         }
       ]
     },
@@ -953,7 +971,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 11.5,
       "chaleur": 4,
       "liens": [
         {
@@ -971,7 +989,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 11.6,
       "chaleur": 4,
       "liens": [
         {
@@ -989,7 +1007,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 12.0,
       "chaleur": 4,
       "liens": [
         {
@@ -1007,8 +1025,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.9,
-      "chaleur": 4,
+      "heures": 12.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1025,8 +1043,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.1,
-      "chaleur": 4,
+      "heures": 12.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1043,8 +1061,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.5,
-      "chaleur": 4,
+      "heures": 12.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1061,8 +1079,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 5.6,
-      "chaleur": 4,
+      "heures": 12.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -1079,8 +1097,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.6,
-      "chaleur": 4,
+      "heures": 13.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1097,8 +1115,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.9,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1115,8 +1133,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.1,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1133,8 +1151,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.5,
-      "chaleur": 4,
+      "heures": 13.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1151,8 +1169,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.5,
-      "chaleur": 4,
+      "heures": 13.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -1169,8 +1187,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.6,
-      "chaleur": 4,
+      "heures": 14.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1187,8 +1205,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.9,
-      "chaleur": 4,
+      "heures": 14.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1205,8 +1223,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 7.2,
-      "chaleur": 4,
+      "heures": 14.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -1217,6 +1235,6 @@ const VEILLE = {
     }
   ],
   "alertes": [
-    "Warhorse Studios hit by an undetailed cybersecurity incident"
+    "Call Of Duty: Modern Warfare 4 Update Adds Shipment To Its Map Rotation"
   ]
 };
