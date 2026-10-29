@@ -1,59 +1,59 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "29/10/2026 à 12h50",
+  "collecte": "29/10/2026 à 19h32",
   "seuil": 14,
   "sujets": [
     {
-      "id": "call-of-duty-modern-warfare-4-intro-cinematic-is-not-intende",
-      "titre": "Call of Duty: Modern Warfare 4 intro cinematic is \"not intended to reference or trivialise\" real-world South Korean crowd crush, Activision say amid reported backlash",
-      "url": "https://www.rockpapershotgun.com/call-of-duty-modern-warfare-4-intro-cinematic-is-not-intended-to-reference-or-trivialise-real-world-south-korean-crowd-crush-activision-say-amid-reported-backlash",
+      "id": "the-duskbloods-switch-2-release-has-been-delayed-to-2027",
+      "titre": "The Duskbloods Switch 2 Release Has Been Delayed To 2027",
+      "url": "https://www.nintendolife.com/news/2026/10/the-duskbloods-switch-2-release-has-been-delayed-to-2027",
       "sources": [
         "Eurogamer",
-        "Rock Paper Shotgun",
+        "Nintendo Life",
         "VGC"
       ],
       "reprises": 3,
-      "heures": 0.3,
+      "heures": 4.8,
       "chaleur": 14,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/call-of-duty-modern-warfare-4-intro-cinematic-is-not-intended-to-reference-or-trivialise-real-world-south-korean-crowd-crush-activision-say-amid-reported-backlash",
-          "titre": "Call of Duty: Modern Warfare 4 intro cinematic is \"not intended to reference or trivialise\" real-world South Korean crowd crush, Activision say amid reported backlash"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/modern-warfare-4-south-korean-crowd-crush-footage",
-          "titre": "Modern Warfare 4 faces backlash after real footage of South Korean crowd crush tragedy was discovered in game's opening moments"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/the-duskbloods-switch-2-release-has-been-delayed-to-2027",
+          "titre": "The Duskbloods Switch 2 Release Has Been Delayed To 2027"
         },
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/cod-modern-warfare-4-uses-real-news-footage-from-south-korean-tragedy-is-urged-by-families-to-remove-it/",
-          "titre": "COD Modern Warfare 4 uses real news footage from South Korean tragedy, is urged by families to remove it"
+          "url": "https://www.videogameschronicle.com/news/fromsoftwares-switch-2-exclusive-the-duskbloods-has-been-delayed-to-2027/",
+          "titre": "FromSoftware’s Switch 2 exclusive The Duskbloods has been delayed to 2027"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/fromsofts-switch-2-exclusive-the-duskbloods-has-been-delayed-into-2027",
+          "titre": "FromSoft's Switch 2 exclusive, The Duskbloods, has been delayed into 2027"
         }
       ]
     },
     {
-      "id": "morale-has-been-terrible-at-ea-workers-claim-saying-that-ai",
-      "titre": "'Morale has been terrible' at EA, workers claim, saying that AI mandates and mismanagement have left the company 'a cold dead place that's slowly decaying as leadership pilfers every last cent'",
-      "url": "https://www.pcgamer.com/gaming-industry/morale-has-been-terrible-at-ea-workers-claim-saying-that-ai-mandates-and-mismanagement-have-left-the-company-a-cold-dead-place-thats-slowly-decaying-as-leadership-pilfers-every-last-cent/",
+      "id": "rumour-the-elder-scrolls-6-reveal-as-soon-as-next-month-name",
+      "titre": "Rumour: The Elder Scrolls 6 Reveal as Soon as Next Month, Named Sentinel",
+      "url": "https://www.pushsquare.com/news/2026/10/rumour-the-elder-scrolls-6-reveal-as-soon-as-next-month-named-sentinel",
       "sources": [
-        "Nintendo Life",
-        "PC Gamer"
+        "Push Square",
+        "VGC"
       ],
       "reprises": 2,
-      "heures": 1.1,
-      "chaleur": 12,
+      "heures": 2.8,
+      "chaleur": 13,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/morale-has-been-terrible-at-ea-workers-claim-saying-that-ai-mandates-and-mismanagement-have-left-the-company-a-cold-dead-place-thats-slowly-decaying-as-leadership-pilfers-every-last-cent/",
-          "titre": "'Morale has been terrible' at EA, workers claim, saying that AI mandates and mismanagement have left the company 'a cold dead place that's slowly decaying as leadership pilfers every last cent'"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/rumour-the-elder-scrolls-6-reveal-as-soon-as-next-month-named-sentinel",
+          "titre": "Rumour: The Elder Scrolls 6 Reveal as Soon as Next Month, Named Sentinel"
         },
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/morale-has-been-terrible-ea-workers-criticise-publishers-cost-cutting-after-latest-layoffs",
-          "titre": "\"Morale Has Been Terrible\" - EA Workers Criticise Publisher's Cost-Cutting After Latest Layoffs"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/xbox-is-reportedly-set-to-officially-name-the-elder-scrolls-6-sentinel-as-soon-as-next-month/",
+          "titre": "Xbox is reportedly set to officially name The Elder Scrolls 6: Sentinel as soon as next month"
         }
       ]
     },
@@ -66,8 +66,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 2.8,
-      "chaleur": 12,
+      "heures": 9.5,
+      "chaleur": 10,
       "liens": [
         {
           "source": "VGC",
@@ -82,50 +82,308 @@ const VEILLE = {
       ]
     },
     {
-      "id": "cronos-the-new-dawn-s-lazarus-dlc-launches-next-year-on-swit",
-      "titre": "Cronos: The New Dawn's 'Lazarus' DLC Launches Next Year On Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/10/cronos-the-new-dawns-lazarus-dlc-launches-next-year-on-switch-2",
+      "id": "donald-glover-is-heading-up-a-pubg-live-action-series-for-ne",
+      "titre": "Donald Glover is heading up a PUBG live action series for Netflix",
+      "url": "https://www.pcgamer.com/movies-tv/donald-glover-is-heading-up-a-pubg-live-action-series-for-netflix/",
       "sources": [
-        "Nintendo Life",
-        "Push Square"
+        "Game Developer",
+        "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 2.8,
-      "chaleur": 11,
+      "heures": 0.3,
+      "chaleur": 9,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/cronos-the-new-dawns-lazarus-dlc-launches-next-year-on-switch-2",
-          "titre": "Cronos: The New Dawn's 'Lazarus' DLC Launches Next Year On Switch 2"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/movies-tv/donald-glover-is-heading-up-a-pubg-live-action-series-for-netflix/",
+          "titre": "Donald Glover is heading up a PUBG live action series for Netflix"
         },
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/play-a-full-cronos-ps5-prequel-in-new-usd10-lazarus-dlc-out-3rd-december",
-          "titre": "Play a Full Cronos PS5 Prequel in New $10 Lazarus DLC, Out 3rd December"
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/netflix-adapts-krafton-pubg-to-be-written-and-led-by-donald-glover",
+          "titre": "Donald Glover to direct, star in Netflix adaptation of PUBG Battlegrounds"
         }
       ]
     },
     {
-      "id": "palworld-dev-open-to-switch-2-release-if-there-s-ever-an-opp",
-      "titre": "Palworld Dev Open To Switch 2 Release, If There's Ever An \"Opportunity\"",
-      "url": "https://www.nintendolife.com/news/2026/10/palworld-dev-open-to-switch-2-release-if-theres-ever-an-opportunity",
+      "id": "it-sounds-like-you-shouldn-t-expect-destiny-2-s-campaign-unv",
+      "titre": "It sounds like you shouldn't expect Destiny 2's campaign unvaulting to be ready until 2028, as Bungie tease their plans for the future of the series",
+      "url": "https://www.rockpapershotgun.com/it-sounds-like-you-shouldnt-expect-destiny-2s-campaign-unvaulting-to-be-ready-until-2028-as-bungie-tease-their-plans-for-the-future-of-the-series",
       "sources": [
-        "Eurogamer",
-        "Nintendo Life"
+        "PC Gamer",
+        "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 9.3,
-      "chaleur": 10,
+      "heures": 0.8,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/it-sounds-like-you-shouldnt-expect-destiny-2s-campaign-unvaulting-to-be-ready-until-2028-as-bungie-tease-their-plans-for-the-future-of-the-series",
+          "titre": "It sounds like you shouldn't expect Destiny 2's campaign unvaulting to be ready until 2028, as Bungie tease their plans for the future of the series"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/destiny-2-unvaulting-update-it-sure-sounds-like-the-original-destiny-is-finally-coming-to-pc/",
+          "titre": "Destiny 2 unvaulting update: It sure sounds like the original Destiny is finally coming to PC"
+        }
+      ]
+    },
+    {
+      "id": "guide-last-chance-to-grab-these-65-switch-1-2-games-in-ninte",
+      "titre": "Guide: Last Chance To Grab These 65 Switch 1 & 2 Games In Nintendo's 'Screaming Deals' Sale (North America)",
+      "url": "https://www.nintendolife.com/guides/last-chance-to-grab-these-65-switch-1-and-2-games-in-nintendos-screaming-deals-sale-north-america",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 2.5,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/palworld-dev-open-to-switch-2-release-if-theres-ever-an-opportunity",
-          "titre": "Palworld Dev Open To Switch 2 Release, If There's Ever An \"Opportunity\""
-        },
+          "url": "https://www.nintendolife.com/guides/last-chance-to-grab-these-65-switch-1-and-2-games-in-nintendos-screaming-deals-sale-north-america",
+          "titre": "Guide: Last Chance To Grab These 65 Switch 1 & 2 Games In Nintendo's 'Screaming Deals' Sale (North America)"
+        }
+      ]
+    },
+    {
+      "id": "don-t-worry-gta-6-s-cars-can-drive-for-ages-before-their-fue",
+      "titre": "Don't worry, GTA 6's cars can drive for ages before their fuel tanks need refilling, leaving me wondering why this motor management's been added at all",
+      "url": "https://www.rockpapershotgun.com/dont-worry-gta-6s-cars-can-drive-for-ages-before-their-fuel-tanks-need-refilling-leaving-me-wondering-why-this-motor-managements-been-added-at-all",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 3.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/dont-worry-gta-6s-cars-can-drive-for-ages-before-their-fuel-tanks-need-refilling-leaving-me-wondering-why-this-motor-managements-been-added-at-all",
+          "titre": "Don't worry, GTA 6's cars can drive for ages before their fuel tanks need refilling, leaving me wondering why this motor management's been added at all"
+        }
+      ]
+    },
+    {
+      "id": "call-of-duty-modern-warfare-4-review",
+      "titre": "Call of Duty Modern Warfare 4 review",
+      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-review",
+      "sources": [
+        "Eurogamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 5.5,
+      "chaleur": 9,
+      "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/palworld-switch-2-port-legal-battle-nintendo",
-          "titre": "Palworld studio still hopes to release the game on Switch 2 one day, despite being in a legal battle with Nintendo"
+          "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-review",
+          "titre": "Call of Duty Modern Warfare 4 review"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/call-of-duty-modern-warfare-4-intro-cinematic-is-not-intended-to-reference-or-trivialise-real-world-south-korean-crowd-crush-activision-say-amid-reported-backlash",
+          "titre": "Call of Duty: Modern Warfare 4 intro cinematic is \"not intended to reference or trivialise\" real-world South Korean crowd crush, Activision say amid reported backlash"
+        }
+      ]
+    },
+    {
+      "id": "it-hasn-t-made-any-difference-gears-of-war-ps5-cancellation",
+      "titre": "'It Hasn't Made Any Difference': Gears of War PS5 Cancellation Fails to Boost Xbox",
+      "url": "https://www.pushsquare.com/news/2026/10/it-hasnt-made-any-difference-gears-of-war-ps5-cancellation-fails-to-boost-xbox",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/it-hasnt-made-any-difference-gears-of-war-ps5-cancellation-fails-to-boost-xbox",
+          "titre": "'It Hasn't Made Any Difference': Gears of War PS5 Cancellation Fails to Boost Xbox"
+        }
+      ]
+    },
+    {
+      "id": "the-elder-scrolls-6-sentinel-will-be-an-elder-scrolls-game-a",
+      "titre": "The Elder Scrolls 6: Sentinel will be an Elder Scrolls game about the infinite mysteries of the Elder Scrolls, report with some plot hintage claims",
+      "url": "https://www.rockpapershotgun.com/the-elder-scrolls-6-sentinel-will-be-an-elder-scrolls-game-about-the-infinite-mysteries-of-the-elder-scrolls-report-with-some-plot-hintage-claims",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-elder-scrolls-6-sentinel-will-be-an-elder-scrolls-game-about-the-infinite-mysteries-of-the-elder-scrolls-report-with-some-plot-hintage-claims",
+          "titre": "The Elder Scrolls 6: Sentinel will be an Elder Scrolls game about the infinite mysteries of the Elder Scrolls, report with some plot hintage claims"
+        }
+      ]
+    },
+    {
+      "id": "celeste-and-towerfall-have-been-removed-from-the-xbox-store",
+      "titre": "Celeste and TowerFall have been removed from the Xbox store in a move to \"support the BDS boycott\" against Microsoft",
+      "url": "https://www.rockpapershotgun.com/celeste-and-towerfall-have-been-removed-from-the-xbox-store-in-a-move-to-support-the-bds-boycott-against-microsoft",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/celeste-and-towerfall-have-been-removed-from-the-xbox-store-in-a-move-to-support-the-bds-boycott-against-microsoft",
+          "titre": "Celeste and TowerFall have been removed from the Xbox store in a move to \"support the BDS boycott\" against Microsoft"
+        }
+      ]
+    },
+    {
+      "id": "xbox-ceo-says-console-demand-is-outstripping-supply-but-sale",
+      "titre": "Xbox CEO says console demand is outstripping supply—but sales continue to drop",
+      "url": "https://www.gamedeveloper.com/console/xbox-ceo-says-console-demand-is-outstripping-supply-as-sales-continue-to-drop",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 2.0,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/console/xbox-ceo-says-console-demand-is-outstripping-supply-as-sales-continue-to-drop",
+          "titre": "Xbox CEO says console demand is outstripping supply—but sales continue to drop"
+        }
+      ]
+    },
+    {
+      "id": "nvidia-ceo-reportedly-targeted-by-chinese-spy-previously-und",
+      "titre": "Nvidia CEO reportedly targeted by Chinese spy previously under suspicion for AI chip smuggling",
+      "url": "https://www.pcgamer.com/software/ai/nvidia-ceo-reportedly-targeted-by-chinese-spy-previously-under-suspicion-for-ai-chip-smuggling/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.0,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/nvidia-ceo-reportedly-targeted-by-chinese-spy-previously-under-suspicion-for-ai-chip-smuggling/",
+          "titre": "Nvidia CEO reportedly targeted by Chinese spy previously under suspicion for AI chip smuggling"
+        }
+      ]
+    },
+    {
+      "id": "japanese-charts-nintendo-switch-sports-resort-and-final-fant",
+      "titre": "Japanese Charts: Nintendo Switch Sports Resort And Final Fantasy Resonance Go Head-To-Head",
+      "url": "https://www.nintendolife.com/news/2026/10/japanese-charts-nintendo-switch-sports-resort-and-final-fantasy-resonance-go-head-to-head",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 4.0,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/japanese-charts-nintendo-switch-sports-resort-and-final-fantasy-resonance-go-head-to-head",
+          "titre": "Japanese Charts: Nintendo Switch Sports Resort And Final Fantasy Resonance Go Head-To-Head"
+        }
+      ]
+    },
+    {
+      "id": "i-m-calling-it-gta-6-is-officially-an-immersive-sim-based-on",
+      "titre": "I'm calling it: GTA 6 is officially an immersive sim, based on what you can do with NPCs",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/im-calling-it-gta-6-is-officially-an-immersive-sim-based-on-what-you-can-do-with-npcs/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.2,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/im-calling-it-gta-6-is-officially-an-immersive-sim-based-on-what-you-can-do-with-npcs/",
+          "titre": "I'm calling it: GTA 6 is officially an immersive sim, based on what you can do with NPCs"
+        }
+      ]
+    },
+    {
+      "id": "a-cold-dead-place-that-s-slowly-decaying-ea-employees-revea",
+      "titre": "\"A cold dead place that's slowly decaying\" - EA employees reveal a culture of secrecy and terrible morale following layoffs",
+      "url": "https://www.eurogamer.net/inside-ea-layoffs-report-bioware-morale-secrecy",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/inside-ea-layoffs-report-bioware-morale-secrecy",
+          "titre": "\"A cold dead place that's slowly decaying\" - EA employees reveal a culture of secrecy and terrible morale following layoffs"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-uk-is-selling-a-switch-2-bundle-including-mario-kar",
+      "titre": "Nintendo UK is selling a Switch 2 bundle including Mario Kart World, a camera and a MicroSD card for £134 off",
+      "url": "https://www.videogameschronicle.com/news/nintendo-uk-is-selling-a-switch-2-bundle-including-mario-kart-world-a-camera-and-a-microsd-card-for-134-off/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 6.2,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/nintendo-uk-is-selling-a-switch-2-bundle-including-mario-kart-world-a-camera-and-a-microsd-card-for-134-off/",
+          "titre": "Nintendo UK is selling a Switch 2 bundle including Mario Kart World, a camera and a MicroSD card for £134 off"
+        }
+      ]
+    },
+    {
+      "id": "with-a-cracking-new-tactical-feature-and-dedicated-ui-strike",
+      "titre": "With a cracking new tactical feature and dedicated UI \"strike team\", Football Manager 27 is a huge step back towards FM's best form",
+      "url": "https://www.eurogamer.net/football-manager-27-preview-interview-tactical-effectiveness-ui-strike-team",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 6.2,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/football-manager-27-preview-interview-tactical-effectiveness-ui-strike-team",
+          "titre": "With a cracking new tactical feature and dedicated UI \"strike team\", Football Manager 27 is a huge step back towards FM's best form"
+        }
+      ]
+    },
+    {
+      "id": "feature-song-of-time-every-zelda-ocarina-of-time-release-fro",
+      "titre": "Feature: Song Of Time - Every Zelda: Ocarina Of Time Release, From N64 To Switch 2",
+      "url": "https://www.nintendolife.com/features/song-of-time-every-zelda-ocarina-of-time-release-from-n64-to-switch-2",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 6.5,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/song-of-time-every-zelda-ocarina-of-time-release-from-n64-to-switch-2",
+          "titre": "Feature: Song Of Time - Every Zelda: Ocarina Of Time Release, From N64 To Switch 2"
         }
       ]
     },
@@ -137,8 +395,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.3,
-      "chaleur": 9,
+      "heures": 7.0,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -155,37 +413,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.3,
-      "chaleur": 9,
+      "heures": 7.0,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/gta-inspired-ps5-open-world-goes-full-tycoon-in-upcoming-update",
           "titre": "GTA-Inspired PS5 Open World Goes Full Tycoon in Upcoming Update"
-        }
-      ]
-    },
-    {
-      "id": "phantom-blade-zero-dev-says-don-t-get-the-latest-nvidia-driv",
-      "titre": "Phantom Blade Zero dev says don't get the latest Nvidia drivers",
-      "url": "https://www.pcgamer.com/hardware/phantom-blade-zero-dev-says-dont-get-the-latest-nvidia-drivers/",
-      "sources": [
-        "PC Gamer",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 1.2,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/phantom-blade-zero-dev-says-dont-get-the-latest-nvidia-drivers/",
-          "titre": "Phantom Blade Zero dev says don't get the latest Nvidia drivers"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/how-difficult-is-phantom-blade-zero",
-          "titre": "Feature: How Difficult Is Phantom Blade Zero?"
         }
       ]
     },
@@ -197,8 +431,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.6,
-      "chaleur": 9,
+      "heures": 8.3,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -215,8 +449,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 9,
+      "heures": 10.0,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Push Square",
@@ -226,50 +460,290 @@ const VEILLE = {
       ]
     },
     {
-      "id": "here-are-our-ps-plus-monthly-games-for-november-2026",
-      "titre": "Here are our PS Plus monthly games for November 2026",
-      "url": "https://www.eurogamer.net/playstation-plus-monthly-games-november-2026",
+      "id": "assassin-s-creed-valhalla-gets-new-game-patch-more-than-thre",
+      "titre": "Assassin's Creed Valhalla Gets New Game+ Patch, More Than Three Years After Its 'Final' Update",
+      "url": "https://www.pushsquare.com/news/2026/10/assassins-creed-valhalla-gets-new-gameplus-patch-more-than-three-years-after-its-final-update",
       "sources": [
-        "Eurogamer",
-        "Push Square",
-        "VGC"
+        "Push Square"
       ],
-      "reprises": 3,
-      "heures": 20.4,
-      "chaleur": 9,
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/playstation-plus-monthly-games-november-2026",
-          "titre": "Here are our PS Plus monthly games for November 2026"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/novembers-three-free-ps-plus-essential-monthly-games-include-dead-island-2-and-tomb-raider-4-6-remastered/",
-          "titre": "November’s three ‘free’ PS Plus Essential monthly games include Dead Island 2 and Tomb Raider 4-6 Remastered"
-        },
-        {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/ps-plus-essential-games-for-november-2026-announced",
-          "titre": "PS Plus Essential Games for November 2026 Announced"
+          "url": "https://www.pushsquare.com/news/2026/10/assassins-creed-valhalla-gets-new-gameplus-patch-more-than-three-years-after-its-final-update",
+          "titre": "Assassin's Creed Valhalla Gets New Game+ Patch, More Than Three Years After Its 'Final' Update"
         }
       ]
     },
     {
-      "id": "it-s-so-much-easier-to-steal-this-than-to-rob-a-bank-100-00",
-      "titre": "'It’s so much easier to steal this than to rob a bank': $100,000,000+ worth of AI data center freight reportedly stolen since June",
-      "url": "https://www.pcgamer.com/software/ai/its-so-much-easier-to-steal-this-than-to-rob-a-bank-usd100-000-000-worth-of-ai-data-center-freight-reportedly-stolen-since-june/",
+      "id": "pre-order-football-manager-27-for-20-off-on-fanatical-with-o",
+      "titre": "Pre-order Football Manager 27 for 20% off on Fanatical with our code",
+      "url": "https://www.videogameschronicle.com/news/pre-order-football-manager-27-for-20-off-with-fanatical-and-vgc/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/pre-order-football-manager-27-for-20-off-with-fanatical-and-vgc/",
+          "titre": "Pre-order Football Manager 27 for 20% off on Fanatical with our code"
+        }
+      ]
+    },
+    {
+      "id": "virtua-fighter-s-cocky-kid-lionel-rafale-returns-in-crossroa",
+      "titre": "Virtua Fighter's 'Cocky Kid' Lionel Rafale Returns in Crossroads on PS5",
+      "url": "https://www.pushsquare.com/news/2026/10/virtua-fighters-cocky-kid-lionel-rafale-returns-in-crossroads-on-ps5",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/virtua-fighters-cocky-kid-lionel-rafale-returns-in-crossroads-on-ps5",
+          "titre": "Virtua Fighter's 'Cocky Kid' Lionel Rafale Returns in Crossroads on PS5"
+        }
+      ]
+    },
+    {
+      "id": "in-2023-an-anonymous-modder-released-one-of-the-best-horror",
+      "titre": "In 2023, an anonymous modder released one of the best horror games of the decade, and they still haven't broken character",
+      "url": "https://www.pcgamer.com/games/horror/in-2023-an-anonymous-modder-released-one-of-the-best-horror-games-of-the-decade-and-they-still-havent-broken-character/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.0,
-      "chaleur": 8,
+      "heures": 2.0,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/its-so-much-easier-to-steal-this-than-to-rob-a-bank-usd100-000-000-worth-of-ai-data-center-freight-reportedly-stolen-since-june/",
-          "titre": "'It’s so much easier to steal this than to rob a bank': $100,000,000+ worth of AI data center freight reportedly stolen since June"
+          "url": "https://www.pcgamer.com/games/horror/in-2023-an-anonymous-modder-released-one-of-the-best-horror-games-of-the-decade-and-they-still-havent-broken-character/",
+          "titre": "In 2023, an anonymous modder released one of the best horror games of the decade, and they still haven't broken character"
+        }
+      ]
+    },
+    {
+      "id": "we-feel-very-good-about-our-trajectory-here-says-google-as",
+      "titre": "'We feel very good about our trajectory here' says Google as its stock tanks by $500 billion",
+      "url": "https://www.pcgamer.com/software/ai/we-feel-very-good-about-our-trajectory-here-says-google-as-its-stock-tanks-by-usd500-billion/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/we-feel-very-good-about-our-trajectory-here-says-google-as-its-stock-tanks-by-usd500-billion/",
+          "titre": "'We feel very good about our trajectory here' says Google as its stock tanks by $500 billion"
+        }
+      ]
+    },
+    {
+      "id": "queen-s-domain-is-a-brilliant-king-s-field-alike-rpg-that-fo",
+      "titre": "Queen's Domain is a brilliant King's Field-alike RPG that forces you to walk so you can learn to fly",
+      "url": "https://www.rockpapershotgun.com/queens-domain-is-a-brilliant-kings-field-alike-rpg-that-forces-you-to-walk-so-you-can-learn-to-fly",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 2.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/queens-domain-is-a-brilliant-kings-field-alike-rpg-that-forces-you-to-walk-so-you-can-learn-to-fly",
+          "titre": "Queen's Domain is a brilliant King's Field-alike RPG that forces you to walk so you can learn to fly"
+        }
+      ]
+    },
+    {
+      "id": "aaa-publishers-are-abusing-early-access-denis-dyack-says-an",
+      "titre": "'AAA publishers are abusing early access,' Denis Dyack says, and that's making things harder for everyone else",
+      "url": "https://www.pcgamer.com/gaming-industry/game-development/aaa-publishers-are-abusing-early-access-denis-dyack-says-and-thats-making-things-harder-for-everyone-else/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/game-development/aaa-publishers-are-abusing-early-access-denis-dyack-says-and-thats-making-things-harder-for-everyone-else/",
+          "titre": "'AAA publishers are abusing early access,' Denis Dyack says, and that's making things harder for everyone else"
+        }
+      ]
+    },
+    {
+      "id": "it-s-amnesia-vs-amnesia-in-the-scariest-game-semifinals-vote",
+      "titre": "It's Amnesia vs Amnesia in the 'scariest game' semifinals—vote now!",
+      "url": "https://www.pcgamer.com/games/horror/its-amnesia-vs-amnesia-in-the-scariest-game-semifinals-vote-now/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 3.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/its-amnesia-vs-amnesia-in-the-scariest-game-semifinals-vote-now/",
+          "titre": "It's Amnesia vs Amnesia in the 'scariest game' semifinals—vote now!"
+        }
+      ]
+    },
+    {
+      "id": "dataminer-uncovers-that-spiny-a-character-seemingly-with-no",
+      "titre": "Dataminer uncovers that Spiny - a character seemingly with no way to operate a car - was meant to be playable in Mario Kart World",
+      "url": "https://www.eurogamer.net/mario-kart-world-dataminer-spiny",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 3.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/mario-kart-world-dataminer-spiny",
+          "titre": "Dataminer uncovers that Spiny - a character seemingly with no way to operate a car - was meant to be playable in Mario Kart World"
+        }
+      ]
+    },
+    {
+      "id": "pok-mon-cards-and-toys-are-officially-returning-to-mcdonald",
+      "titre": "Pokémon Cards And Toys Are Officially Returning To McDonald's Happy Meals Soon",
+      "url": "https://www.nintendolife.com/news/2026/10/pokemon-cards-and-toys-are-officially-returning-to-mcdonalds-happy-meals-soon",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 3.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/pokemon-cards-and-toys-are-officially-returning-to-mcdonalds-happy-meals-soon",
+          "titre": "Pokémon Cards And Toys Are Officially Returning To McDonald's Happy Meals Soon"
+        }
+      ]
+    },
+    {
+      "id": "atmosfar-is-a-giddy-aerial-exploration-game-after-the-heart",
+      "titre": "Atmosfar is a giddy aerial exploration game after the heart of No Man's Sky, but I'm already trying to escape it",
+      "url": "https://www.rockpapershotgun.com/atmosfar-is-a-giddy-aerial-exploration-game-after-the-heart-of-no-mans-sky-but-im-already-trying-to-escape-it",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 3.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/atmosfar-is-a-giddy-aerial-exploration-game-after-the-heart-of-no-mans-sky-but-im-already-trying-to-escape-it",
+          "titre": "Atmosfar is a giddy aerial exploration game after the heart of No Man's Sky, but I'm already trying to escape it"
+        }
+      ]
+    },
+    {
+      "id": "youtuber-buys-and-turns-32-gb-of-laptop-ddr5-into-desktop-ra",
+      "titre": "YouTuber buys and turns 32 GB of laptop DDR5 into desktop RAM for just $175",
+      "url": "https://www.pcgamer.com/hardware/memory/youtuber-buys-and-turns-32-gb-of-laptop-ddr5-into-desktop-ram-for-just-usd175/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 3.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/memory/youtuber-buys-and-turns-32-gb-of-laptop-ddr5-into-desktop-ram-for-just-usd175/",
+          "titre": "YouTuber buys and turns 32 GB of laptop DDR5 into desktop RAM for just $175"
+        }
+      ]
+    },
+    {
+      "id": "guide-phantom-blade-zero-best-weapons-and-where-to-find-them",
+      "titre": "Guide: Phantom Blade Zero: Best Weapons and Where to Find Them",
+      "url": "https://www.pushsquare.com/guides/phantom-blade-zero-best-weapons-and-where-to-find-them",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 3.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/guides/phantom-blade-zero-best-weapons-and-where-to-find-them",
+          "titre": "Guide: Phantom Blade Zero: Best Weapons and Where to Find Them"
+        }
+      ]
+    },
+    {
+      "id": "mouthwashing-is-finally-on-consoles-and-xbox-game-pass-and-i",
+      "titre": "Mouthwashing is finally on consoles and Xbox Game Pass, and it's a Halloween must for horror fans",
+      "url": "https://www.eurogamer.net/mouthwashing-game-pass-ps5-ps4-switch-xbox-now-playing",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/mouthwashing-game-pass-ps5-ps4-switch-xbox-now-playing",
+          "titre": "Mouthwashing is finally on consoles and Xbox Game Pass, and it's a Halloween must for horror fans"
+        }
+      ]
+    },
+    {
+      "id": "konami-records-strong-profit-having-made-excellent-games-aga",
+      "titre": "Konami Records Strong Profit Having Made Excellent Games Again",
+      "url": "https://www.pushsquare.com/news/2026/10/konami-records-strong-profit-having-made-excellent-games-again",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 6.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/konami-records-strong-profit-having-made-excellent-games-again",
+          "titre": "Konami Records Strong Profit Having Made Excellent Games Again"
+        }
+      ]
+    },
+    {
+      "id": "world-of-warcraft-forever-controller-support-is-the-first-st",
+      "titre": "World of Warcraft Forever controller support is the first step to playing ‘anywhere’, as Blizzard prepares for Xbox Helix",
+      "url": "https://www.videogameschronicle.com/news/world-of-warcraft-forever-controller-support-is-the-first-step-to-playing-anywhere-as-blizzard-prepares-for-xbox-helix/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 6.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/world-of-warcraft-forever-controller-support-is-the-first-step-to-playing-anywhere-as-blizzard-prepares-for-xbox-helix/",
+          "titre": "World of Warcraft Forever controller support is the first step to playing ‘anywhere’, as Blizzard prepares for Xbox Helix"
         }
       ]
     },
@@ -281,8 +755,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.5,
-      "chaleur": 8,
+      "heures": 8.2,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
@@ -299,13 +773,31 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 2.0,
-      "chaleur": 8,
+      "heures": 8.7,
+      "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/xbox-first-party-content-partially-offsets-2-drop-in-q1-revenue-hardware-decreases-14",
           "titre": "Xbox first-party content partially offsets 2% drop in Q1 revenue, hardware decreases 14%"
+        }
+      ]
+    },
+    {
+      "id": "cronos-the-new-dawn-s-lazarus-dlc-launches-next-year-on-swit",
+      "titre": "Cronos: The New Dawn's 'Lazarus' DLC Launches Next Year On Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/10/cronos-the-new-dawns-lazarus-dlc-launches-next-year-on-switch-2",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 9.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/cronos-the-new-dawns-lazarus-dlc-launches-next-year-on-switch-2",
+          "titre": "Cronos: The New Dawn's 'Lazarus' DLC Launches Next Year On Switch 2"
         }
       ]
     },
@@ -317,199 +809,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 8,
+      "heures": 10.1,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/phantom-blade-zero-steam-launch-1-million-sales",
           "titre": "More Chinese success as Phantom Blade Zero enjoys a big launch and becomes one of Steam's most played games"
-        }
-      ]
-    },
-    {
-      "id": "nearly-a-decade-in-the-making-magical-life-sim-witchbrook-fi",
-      "titre": "Nearly a Decade in the Making, Magical Life Sim Witchbrook Finally Has a PS5 Release Date",
-      "url": "https://www.pushsquare.com/news/2026/10/nearly-a-decade-in-the-making-magical-life-sim-witchbrook-finally-has-a-ps5-release-date",
-      "sources": [
-        "Nintendo Life",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 19.8,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/nearly-a-decade-in-the-making-magical-life-sim-witchbrook-finally-has-a-ps5-release-date",
-          "titre": "Nearly a Decade in the Making, Magical Life Sim Witchbrook Finally Has a PS5 Release Date"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/wonderful-wizard-rpg-witchbrook-finally-has-a-switch-release-date",
-          "titre": "Wonderful Wizard RPG 'Witchbrook' Finally Has A Switch Release Date"
-        }
-      ]
-    },
-    {
-      "id": "walmart-cancels-zelda-switch-2-pre-orders-a-day-before-relea",
-      "titre": "Walmart Cancels Zelda Switch 2 Pre-Orders A Day Before Release",
-      "url": "https://www.nintendolife.com/news/2026/10/walmart-cancels-zelda-switch-2-pre-orders-a-day-before-release",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/walmart-cancels-zelda-switch-2-pre-orders-a-day-before-release",
-          "titre": "Walmart Cancels Zelda Switch 2 Pre-Orders A Day Before Release"
-        }
-      ]
-    },
-    {
-      "id": "world-of-warcraft-players-angry-after-blizzard-seems-to-cont",
-      "titre": "World of Warcraft players angry after Blizzard seems to contradict housing cosmetics policy with Halloween additions",
-      "url": "https://www.eurogamer.net/world-of-warcraft-halloween-housing-cosmetics-controversy-kul-tiran",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 0.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/world-of-warcraft-halloween-housing-cosmetics-controversy-kul-tiran",
-          "titre": "World of Warcraft players angry after Blizzard seems to contradict housing cosmetics policy with Halloween additions"
-        }
-      ]
-    },
-    {
-      "id": "silent-hill-townfall-keeps-changing-difficulty-patch-1-6-add",
-      "titre": "Silent Hill: Townfall Keeps Changing Difficulty, Patch 1.6 Adds Hard Mode",
-      "url": "https://www.pushsquare.com/news/2026/10/silent-hill-townfall-keeps-changing-difficulty-patch-1-6-adds-hard-mode",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 1.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/silent-hill-townfall-keeps-changing-difficulty-patch-1-6-adds-hard-mode",
-          "titre": "Silent Hill: Townfall Keeps Changing Difficulty, Patch 1.6 Adds Hard Mode"
-        }
-      ]
-    },
-    {
-      "id": "cod-modern-warfare-4-s-controversial-possum-ability-nerfed-t",
-      "titre": "COD Modern Warfare 4's controversial Possum ability nerfed to stop it being used \"as a combat mechanic instead of a survival mechanic\"",
-      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-possum-nerf",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 1.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-possum-nerf",
-          "titre": "COD Modern Warfare 4's controversial Possum ability nerfed to stop it being used \"as a combat mechanic instead of a survival mechanic\""
-        }
-      ]
-    },
-    {
-      "id": "metroid-prime-trilogy-engineer-explains-why-he-thinks-the-mo",
-      "titre": "Metroid Prime Trilogy engineer explains why he thinks the motorcycle sections in Metroid Prime 4 were ‘just a waste’",
-      "url": "https://www.videogameschronicle.com/news/metroid-prime-trilogy-engineer-explains-why-he-thinks-the-motorcycle-sections-in-metroid-prime-4-were-just-a-waste/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 1.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/metroid-prime-trilogy-engineer-explains-why-he-thinks-the-motorcycle-sections-in-metroid-prime-4-were-just-a-waste/",
-          "titre": "Metroid Prime Trilogy engineer explains why he thinks the motorcycle sections in Metroid Prime 4 were ‘just a waste’"
-        }
-      ]
-    },
-    {
-      "id": "pok-mon-legends-z-a-s-latest-mystery-gift-distribution-is-no",
-      "titre": "Pokémon Legends: Z-A's Latest Mystery Gift Distribution Is Now Live",
-      "url": "https://www.nintendolife.com/news/2026/10/pokemon-legends-z-as-latest-mystery-gift-distribution-is-now-live",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/pokemon-legends-z-as-latest-mystery-gift-distribution-is-now-live",
-          "titre": "Pokémon Legends: Z-A's Latest Mystery Gift Distribution Is Now Live"
-        }
-      ]
-    },
-    {
-      "id": "for-the-second-time-this-year-galax-says-it-s-not-closing-do",
-      "titre": "For the second time this year, Galax says it's not closing down: Palit-owned graphics card brand 'continues to operate as usual'",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/for-the-second-time-this-year-galax-says-its-not-closing-down-palit-owned-graphics-card-brand-continues-to-operate-as-usual/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/for-the-second-time-this-year-galax-says-its-not-closing-down-palit-owned-graphics-card-brand-continues-to-operate-as-usual/",
-          "titre": "For the second time this year, Galax says it's not closing down: Palit-owned graphics card brand 'continues to operate as usual'"
-        }
-      ]
-    },
-    {
-      "id": "the-five-golden-rules-of-external-development",
-      "titre": "The five golden rules of external development",
-      "url": "https://www.gamesindustry.biz/the-five-golden-rules-of-external-development",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/the-five-golden-rules-of-external-development",
-          "titre": "The five golden rules of external development"
-        }
-      ]
-    },
-    {
-      "id": "taito-milestones-5-announced-for-switch-here-are-the-games-i",
-      "titre": "Taito Milestones 5 Announced For Switch, Here Are The Games Included",
-      "url": "https://www.nintendolife.com/news/2026/10/taito-milestones-5-announced-for-switch-here-are-the-games-included",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/taito-milestones-5-announced-for-switch-here-are-the-games-included",
-          "titre": "Taito Milestones 5 Announced For Switch, Here Are The Games Included"
         }
       ]
     },
@@ -522,7 +828,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 2,
-      "heures": 16.7,
+      "heures": 23.4,
       "chaleur": 6,
       "liens": [
         {
@@ -545,31 +851,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.8,
+      "heures": 25.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/features/4-things-you-need-to-know-about-cities-skylines-expanded-edition-on-nintendo-switch-2",
           "titre": "Feature: 4 Things You Need To Know About Cities: Skylines - Expanded Edition On Nintendo Switch 2"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-s-original-soundtrack-is-going-to-be-incredible-if-thi",
-      "titre": "GTA 6's Original Soundtrack Is Going to Be Incredible, if This Leaked Song Is Anything to Go By",
-      "url": "https://www.pushsquare.com/news/2026/10/gta-6s-original-soundtrack-is-going-to-be-incredible-if-this-leaked-song-is-anything-to-go-by",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 18.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/gta-6s-original-soundtrack-is-going-to-be-incredible-if-this-leaked-song-is-anything-to-go-by",
-          "titre": "GTA 6's Original Soundtrack Is Going to Be Incredible, if This Leaked Song Is Anything to Go By"
         }
       ]
     },
@@ -581,7 +869,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.1,
+      "heures": 25.8,
       "chaleur": 6,
       "liens": [
         {
@@ -592,116 +880,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "mass-effect-composer-wants-to-rescore-leaked-internal-me-uni",
-      "titre": "Mass Effect composer wants to rescore leaked internal ME Universe trailer to \"properly represent my musical vision\"",
-      "url": "https://www.eurogamer.net/mass-effect-universe-trailer-rescore-composer-n7-day",
-      "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 22.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/mass-effect-universe-trailer-rescore-composer-n7-day",
-          "titre": "Mass Effect composer wants to rescore leaked internal ME Universe trailer to \"properly represent my musical vision\""
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/leaked-mass-effect-5-trailer-is-being-re-scored-by-one-of-the-original-trilogys-composers-so-folks-can-get-a-taste-of-his-musical-vision-for-the-game",
-          "titre": "Leaked Mass Effect 5 trailer is being \"re-scored\" by one of the original trilogy's composers, so folks can get a taste of his musical vision for the game"
-        }
-      ]
-    },
-    {
-      "id": "guide-nintendo-indie-world-showcase-october-2026-every-annou",
-      "titre": "Guide: Nintendo Indie World Showcase October 2026: Every Announcement, Game Reveal & Trailer",
-      "url": "https://www.nintendolife.com/guides/nintendo-indie-world-showcase-october-2026-every-announcement-game-reveal-and-trailer",
+      "id": "palworld-dev-open-to-switch-2-release-if-there-s-ever-an-opp",
+      "titre": "Palworld Dev Open To Switch 2 Release, If There's Ever An \"Opportunity\"",
+      "url": "https://www.nintendolife.com/news/2026/10/palworld-dev-open-to-switch-2-release-if-theres-ever-an-opportunity",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.8,
+      "heures": 16.0,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/guides/nintendo-indie-world-showcase-october-2026-every-announcement-game-reveal-and-trailer",
-          "titre": "Guide: Nintendo Indie World Showcase October 2026: Every Announcement, Game Reveal & Trailer"
+          "url": "https://www.nintendolife.com/news/2026/10/palworld-dev-open-to-switch-2-release-if-theres-ever-an-opportunity",
+          "titre": "Palworld Dev Open To Switch 2 Release, If There's Ever An \"Opportunity\""
         }
       ]
     },
     {
-      "id": "capcom-s-golden-streak-continues-as-onimusha-and-pragmata-se",
-      "titre": "Capcom's golden streak continues as Onimusha and Pragmata sell well, but Monster Hunter Wilds conspicuously absent from financial report",
-      "url": "https://www.eurogamer.net/capcom-financial-report-onimusha-sales-pragmata-monster-hunter-wilds",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 21.3,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/capcom-financial-report-onimusha-sales-pragmata-monster-hunter-wilds",
-          "titre": "Capcom's golden streak continues as Onimusha and Pragmata sell well, but Monster Hunter Wilds conspicuously absent from financial report"
-        }
-      ]
-    },
-    {
-      "id": "valve-addresses-steam-s-ai-game-cloning-problem-by-suggestin",
-      "titre": "Valve addresses Steam's AI game cloning problem - by suggesting developers make their games less copyable",
-      "url": "https://www.eurogamer.net/steam-ai-clone-game-problem-valve-response",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 22.1,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/steam-ai-clone-game-problem-valve-response",
-          "titre": "Valve addresses Steam's AI game cloning problem - by suggesting developers make their games less copyable"
-        }
-      ]
-    },
-    {
-      "id": "here-s-all-23-games-shown-during-nintendo-s-latest-indie-wor",
-      "titre": "Here’s all 23 games shown during Nintendo’s latest Indie World presentation",
-      "url": "https://www.videogameschronicle.com/news/heres-all-23-games-shown-during-nintendos-latest-indie-world-presentation/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 22.2,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/heres-all-23-games-shown-during-nintendos-latest-indie-world-presentation/",
-          "titre": "Here’s all 23 games shown during Nintendo’s latest Indie World presentation"
-        }
-      ]
-    },
-    {
-      "id": "review-mouthwashing-switch-a-disgustingly-beautiful-port-tha",
-      "titre": "Review: Mouthwashing (Switch) - A Disgustingly Beautiful Port That Brings You Even Closer To The Horror",
-      "url": "https://www.nintendolife.com/reviews/switch-eshop/mouthwashing",
+      "id": "taito-milestones-5-announced-for-switch-here-are-the-games-i",
+      "titre": "Taito Milestones 5 Announced For Switch, Here Are The Games Included",
+      "url": "https://www.nintendolife.com/news/2026/10/taito-milestones-5-announced-for-switch-here-are-the-games-included",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.8,
+      "heures": 17.0,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/switch-eshop/mouthwashing",
-          "titre": "Review: Mouthwashing (Switch) - A Disgustingly Beautiful Port That Brings You Even Closer To The Horror"
+          "url": "https://www.nintendolife.com/news/2026/10/taito-milestones-5-announced-for-switch-here-are-the-games-included",
+          "titre": "Taito Milestones 5 Announced For Switch, Here Are The Games Included"
         }
       ]
     },
@@ -713,49 +923,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 23.3,
+      "heures": 30.0,
       "chaleur": 5,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/taking-several-years-with-several-thousand-people-its-almost-impossible-playstation-creator-ken-kutaragi-on-the-current-state-of-gaming",
           "titre": "\"Taking several years with several thousand people… It's almost impossible\" – PlayStation creator Ken Kutaragi on the current state of gaming"
-        }
-      ]
-    },
-    {
-      "id": "valve-has-a-significant-number-working-on-steam-s-visibility",
-      "titre": "Valve has ‘a significant number’ working on Steam’s visibility dilemma but says it won’t gatekeep games made with AI",
-      "url": "https://www.videogameschronicle.com/news/valve-has-a-significant-number-working-on-steams-visibility-dilemma-but-says-it-wont-gatekeep-games-made-with-ai/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 23.9,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/valve-has-a-significant-number-working-on-steams-visibility-dilemma-but-says-it-wont-gatekeep-games-made-with-ai/",
-          "titre": "Valve has ‘a significant number’ working on Steam’s visibility dilemma but says it won’t gatekeep games made with AI"
-        }
-      ]
-    },
-    {
-      "id": "review-goodboy-galaxy-switch-a-brilliant-gba-throwback-that",
-      "titre": "Review: Goodboy Galaxy (Switch) – A Brilliant GBA Throwback That Loves Taking Your Toys Away",
-      "url": "https://www.nintendolife.com/reviews/switch-eshop/goodboy-galaxy",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 25.8,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/switch-eshop/goodboy-galaxy",
-          "titre": "Review: Goodboy Galaxy (Switch) – A Brilliant GBA Throwback That Loves Taking Your Toys Away"
         }
       ]
     },
@@ -767,7 +941,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 26.6,
+      "heures": 33.3,
       "chaleur": 5,
       "liens": [
         {
@@ -785,7 +959,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 28.6,
+      "heures": 35.3,
       "chaleur": 5,
       "liens": [
         {
@@ -796,367 +970,169 @@ const VEILLE = {
       ]
     },
     {
-      "id": "no-man-s-sky-unveils-forsaken-update-7-10-here-are-the-full",
-      "titre": "No Man's Sky Unveils Forsaken (Update 7.10), Here Are The Full Patch Notes",
-      "url": "https://www.nintendolife.com/news/2026/10/no-mans-sky-unveils-forsaken-update-7-10-here-are-the-full-patch-notes",
+      "id": "ps5-still-outselling-ps4-in-usa-despite-much-higher-price-an",
+      "titre": "PS5 Still Outselling PS4 in USA Despite Much Higher Price and Fewer Exclusives",
+      "url": "https://www.pushsquare.com/news/2026/10/ps5-still-outselling-ps4-in-usa-despite-much-higher-price-and-fewer-exclusives",
       "sources": [
-        "Nintendo Life"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.3,
+      "heures": 4.0,
       "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/no-mans-sky-unveils-forsaken-update-7-10-here-are-the-full-patch-notes",
-          "titre": "No Man's Sky Unveils Forsaken (Update 7.10), Here Are The Full Patch Notes"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/ps5-still-outselling-ps4-in-usa-despite-much-higher-price-and-fewer-exclusives",
+          "titre": "PS5 Still Outselling PS4 in USA Despite Much Higher Price and Fewer Exclusives"
         }
       ]
     },
     {
-      "id": "i-ve-spent-over-50-hours-in-phantom-blade-zero-here-are-my-t",
-      "titre": "I've spent over 50 hours in Phantom Blade Zero—here are my top 20 tips to conquer the Wulin",
-      "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-tips/",
+      "id": "where-to-find-the-hokubo-region-treasure-hunt-in-forza-horiz",
+      "titre": "Where to find the Hokubo region Treasure Hunt in Forza Horizon 6",
+      "url": "https://www.pcgamer.com/games/racing/forza-horizon-6-treasure-hunt-hokubo-region-location/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.8,
+      "heures": 4.2,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-tips/",
-          "titre": "I've spent over 50 hours in Phantom Blade Zero—here are my top 20 tips to conquer the Wulin"
+          "url": "https://www.pcgamer.com/games/racing/forza-horizon-6-treasure-hunt-hokubo-region-location/",
+          "titre": "Where to find the Hokubo region Treasure Hunt in Forza Horizon 6"
         }
       ]
     },
     {
-      "id": "where-to-find-the-mandate-encampment-outer-gate-key-in-phant",
-      "titre": "Where to find the Mandate Encampment Outer Gate Key in Phantom Blade Zero",
-      "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-mandate-encampment-key-location/",
+      "id": "ea-s-sale-to-saudi-led-consortium-was-final-nail-in-the-coff",
+      "titre": "EA's sale to Saudi-led consortium was \"final nail in the coffin\" for BioWare, says studio co-founder",
+      "url": "https://www.eurogamer.net/bioware-co-founder-greg-zeschuk-closure-interview",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/bioware-co-founder-greg-zeschuk-closure-interview",
+          "titre": "EA's sale to Saudi-led consortium was \"final nail in the coffin\" for BioWare, says studio co-founder"
+        }
+      ]
+    },
+    {
+      "id": "havn-hs-360-review",
+      "titre": "Havn HS 360 review",
+      "url": "https://www.pcgamer.com/hardware/pc-cases/havn-hs-360-review/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.8,
+      "heures": 4.5,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-mandate-encampment-key-location/",
-          "titre": "Where to find the Mandate Encampment Outer Gate Key in Phantom Blade Zero"
+          "url": "https://www.pcgamer.com/hardware/pc-cases/havn-hs-360-review/",
+          "titre": "Havn HS 360 review"
         }
       ]
     },
     {
-      "id": "this-classic-ps1-star-wars-game-just-got-a-neat-ps5-enhancem",
-      "titre": "This Classic PS1 Star Wars Game Just Got a Neat PS5 Enhancement",
-      "url": "https://www.pushsquare.com/news/2026/10/this-classic-ps1-star-wars-game-just-got-a-neat-ps5-enhancement",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 12.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/this-classic-ps1-star-wars-game-just-got-a-neat-ps5-enhancement",
-          "titre": "This Classic PS1 Star Wars Game Just Got a Neat PS5 Enhancement"
-        }
-      ]
-    },
-    {
-      "id": "solo-leveling-arise-overdrive-brings-the-hit-webtoon-to-ps5",
-      "titre": "Solo Leveling: Arise Overdrive Brings the Hit Webtoon to PS5 Next Week",
-      "url": "https://www.pushsquare.com/news/2026/10/solo-leveling-arise-overdrive-brings-the-hit-webtoon-to-ps5-next-week",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 16.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/solo-leveling-arise-overdrive-brings-the-hit-webtoon-to-ps5-next-week",
-          "titre": "Solo Leveling: Arise Overdrive Brings the Hit Webtoon to PS5 Next Week"
-        }
-      ]
-    },
-    {
-      "id": "alien-isolation-2-s-ps5-release-window-may-have-been-narrowe",
-      "titre": "Alien Isolation 2's PS5 Release Window May Have Been Narrowed",
-      "url": "https://www.pushsquare.com/news/2026/10/alien-isolation-2s-ps5-release-window-may-have-been-narrowed",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 16.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/alien-isolation-2s-ps5-release-window-may-have-been-narrowed",
-          "titre": "Alien Isolation 2's PS5 Release Window May Have Been Narrowed"
-        }
-      ]
-    },
-    {
-      "id": "golf-has-never-been-more-chaotic-than-in-this-viral-multipla",
-      "titre": "Golf Has Never Been More Chaotic Than in This Viral Multiplayer Hit, Coming to PS5 in 2027",
-      "url": "https://www.pushsquare.com/news/2026/10/golf-has-never-been-more-chaotic-than-in-this-viral-multiplayer-hit-coming-to-ps5-in-2027",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 17.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/golf-has-never-been-more-chaotic-than-in-this-viral-multiplayer-hit-coming-to-ps5-in-2027",
-          "titre": "Golf Has Never Been More Chaotic Than in This Viral Multiplayer Hit, Coming to PS5 in 2027"
-        }
-      ]
-    },
-    {
-      "id": "alien-isolation-2-devs-commit-to-a-physical-edition-staying",
-      "titre": "Alien: Isolation 2 devs commit to a physical edition: \"Staying true to the analogue nature of Alien is one of our pillars\"",
-      "url": "https://www.eurogamer.net/alien-isolation-2-commit-physical-edition",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 17.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/alien-isolation-2-commit-physical-edition",
-          "titre": "Alien: Isolation 2 devs commit to a physical edition: \"Staying true to the analogue nature of Alien is one of our pillars\""
-        }
-      ]
-    },
-    {
-      "id": "pressengine-announces-the-pre-show-an-in-person-london-showc",
-      "titre": "PressEngine announces The Pre-Show, an in-person London showcase for upcoming games",
-      "url": "https://www.gamesindustry.biz/pressengine-announces-the-pre-show-an-in-person-london-showcase-for-upcoming-games",
+      "id": "newly-merged-skydance-mandates-staff-return-to-office-five-d",
+      "titre": "Newly merged Skydance mandates staff return to office five days a week, offers Voluntary Buyout Program",
+      "url": "https://www.gamesindustry.biz/newly-merged-skydance-mandates-staff-return-to-office-five-days-a-week-offers-voluntary-buyout-program",
       "sources": [
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 17.6,
-      "chaleur": 3,
+      "heures": 5.1,
+      "chaleur": 4,
       "liens": [
         {
           "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/pressengine-announces-the-pre-show-an-in-person-london-showcase-for-upcoming-games",
-          "titre": "PressEngine announces The Pre-Show, an in-person London showcase for upcoming games"
+          "url": "https://www.gamesindustry.biz/newly-merged-skydance-mandates-staff-return-to-office-five-days-a-week-offers-voluntary-buyout-program",
+          "titre": "Newly merged Skydance mandates staff return to office five days a week, offers Voluntary Buyout Program"
         }
       ]
     },
     {
-      "id": "ps5-s-most-addictive-game-since-balatro-is-right-around-the",
-      "titre": "PS5's Most Addictive Game Since Balatro Is Right Around the Corner",
-      "url": "https://www.pushsquare.com/news/2026/10/ps5s-most-addictive-game-since-balatro-is-right-around-the-corner",
+      "id": "after-a-month-of-voting-pc-gamer-readers-have-picked-the-bes",
+      "titre": "After a month of voting, PC Gamer readers have picked the best RTS unit of all time",
+      "url": "https://www.pcgamer.com/games/rts/after-a-month-of-voting-pc-gamer-readers-have-picked-the-best-rts-unit-of-all-time/",
       "sources": [
-        "Push Square"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.8,
-      "chaleur": 3,
+      "heures": 5.3,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/ps5s-most-addictive-game-since-balatro-is-right-around-the-corner",
-          "titre": "PS5's Most Addictive Game Since Balatro Is Right Around the Corner"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rts/after-a-month-of-voting-pc-gamer-readers-have-picked-the-best-rts-unit-of-all-time/",
+          "titre": "After a month of voting, PC Gamer readers have picked the best RTS unit of all time"
         }
       ]
     },
     {
-      "id": "as-mass-effect-expires-exodus-reveals-40-minutes-of-gameplay",
-      "titre": "As Mass Effect Expires, Exodus Reveals 40 Minutes of Gameplay with the Protagonist's New Face",
-      "url": "https://www.pushsquare.com/news/2026/10/as-mass-effect-expires-exodus-reveals-40-minutes-of-gameplay-with-the-protagonists-new-face",
+      "id": "world-of-warcraft-forever-s-shiny-lighting-and-water-changes",
+      "titre": "World of Warcraft: Forever's shiny lighting and water changes will be coming to retail: 'I don't know when, but I know they're talking about doing it'",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-shiny-lighting-and-water-changes-will-be-coming-to-retail-i-dont-know-when-but-i-know-theyre-talking-about-doing-it/",
       "sources": [
-        "Push Square"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.6,
-      "chaleur": 3,
+      "heures": 5.4,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/as-mass-effect-expires-exodus-reveals-40-minutes-of-gameplay-with-the-protagonists-new-face",
-          "titre": "As Mass Effect Expires, Exodus Reveals 40 Minutes of Gameplay with the Protagonist's New Face"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-shiny-lighting-and-water-changes-will-be-coming-to-retail-i-dont-know-when-but-i-know-theyre-talking-about-doing-it/",
+          "titre": "World of Warcraft: Forever's shiny lighting and water changes will be coming to retail: 'I don't know when, but I know they're talking about doing it'"
         }
       ]
     },
     {
-      "id": "hearth-and-hamlet-publisher-runic-forge-rebrands-as-pythia-g",
-      "titre": "Hearth and Hamlet publisher Runic Forge rebrands as Pythia Games",
-      "url": "https://www.gamesindustry.biz/hearth-and-hamlet-publisher-runic-forge-rebrands-as-pythia-games",
+      "id": "60-million-ai-rack-cluster-listed-on-ebay-with-1-4-petabyte",
+      "titre": "$60 million AI rack cluster listed on eBay, with 1.4 petabytes of memory and almost 10,000 Nvidia AI GPUs",
+      "url": "https://www.pcgamer.com/software/ai/usd60-million-ai-rack-cluster-listed-on-ebay-with-1-4-petabytes-of-memory-and-almost-10-000-nvidia-ai-gpus/",
       "sources": [
-        "GamesIndustry.biz"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.9,
-      "chaleur": 3,
+      "heures": 5.5,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/hearth-and-hamlet-publisher-runic-forge-rebrands-as-pythia-games",
-          "titre": "Hearth and Hamlet publisher Runic Forge rebrands as Pythia Games"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/usd60-million-ai-rack-cluster-listed-on-ebay-with-1-4-petabytes-of-memory-and-almost-10-000-nvidia-ai-gpus/",
+          "titre": "$60 million AI rack cluster listed on eBay, with 1.4 petabytes of memory and almost 10,000 Nvidia AI GPUs"
         }
       ]
     },
     {
-      "id": "cyberpunk-2-might-include-multiplayer-after-cd-projekt-red-s",
-      "titre": "Cyberpunk 2 might include multiplayer after CD Projekt Red scrapped the feature in Cyberpunk 2077",
-      "url": "https://www.eurogamer.net/cyberpunk-2077-multiplayer-quests-cd-projekt-red",
+      "id": "the-official-grand-theft-auto-6-musical-score-by-justice-is",
+      "titre": "The official Grand Theft Auto 6 musical score by Justice is released in December, CD and vinyl pre-orders available now",
+      "url": "https://www.videogameschronicle.com/news/the-official-grand-theft-auto-6-musical-score-by-justice-is-released-in-december-cd-and-vinyl-pre-orders-available-now/",
       "sources": [
-        "Eurogamer"
+        "VGC"
       ],
       "reprises": 1,
-      "heures": 18.9,
-      "chaleur": 3,
+      "heures": 5.8,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/cyberpunk-2077-multiplayer-quests-cd-projekt-red",
-          "titre": "Cyberpunk 2 might include multiplayer after CD Projekt Red scrapped the feature in Cyberpunk 2077"
-        }
-      ]
-    },
-    {
-      "id": "review-call-of-duty-modern-warfare-4-ps5-same-old-multiplaye",
-      "titre": "Review: Call of Duty: Modern Warfare 4 (PS5) - Same Old Multiplayer Drags Down Stellar Package",
-      "url": "https://www.pushsquare.com/reviews/ps5/call-of-duty-modern-warfare-4",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 19.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/reviews/ps5/call-of-duty-modern-warfare-4",
-          "titre": "Review: Call of Duty: Modern Warfare 4 (PS5) - Same Old Multiplayer Drags Down Stellar Package"
-        }
-      ]
-    },
-    {
-      "id": "cyberpunk-trading-sim-probably-stolen-is-about-running-a-kio",
-      "titre": "Cyberpunk trading sim Probably Stolen is about running a kiosk in a space station full of gangs, megacorps, and secret rogue cyborgs",
-      "url": "https://www.rockpapershotgun.com/cyberpunk-trading-sim-probably-stolen-is-about-running-a-kiosk-in-a-space-station-full-of-gangs-megacorps-and-secret-rogue-cyborgs",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 19.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/cyberpunk-trading-sim-probably-stolen-is-about-running-a-kiosk-in-a-space-station-full-of-gangs-megacorps-and-secret-rogue-cyborgs",
-          "titre": "Cyberpunk trading sim Probably Stolen is about running a kiosk in a space station full of gangs, megacorps, and secret rogue cyborgs"
-        }
-      ]
-    },
-    {
-      "id": "this-company-has-been-driven-into-a-wall-for-years-life-is",
-      "titre": "\"This company has been driven into a wall for years\" - Life is Strange studio Don't Nod faces unrest while teetering on insolvency",
-      "url": "https://www.eurogamer.net/dont-nod-insolvency-life-is-strange-aphelion",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 19.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/dont-nod-insolvency-life-is-strange-aphelion",
-          "titre": "\"This company has been driven into a wall for years\" - Life is Strange studio Don't Nod faces unrest while teetering on insolvency"
-        }
-      ]
-    },
-    {
-      "id": "company-of-heroes-3-s-operation-torch-dlc-ships-off-to-north",
-      "titre": "Company of Heroes 3's Operation Torch DLC ships off to North Africa in November, for new missions based around the Allied landings",
-      "url": "https://www.rockpapershotgun.com/company-of-heroes-3s-operation-torch-dlc-ships-off-to-north-africa-in-november-for-new-missions-based-around-the-allied-landings",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 19.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/company-of-heroes-3s-operation-torch-dlc-ships-off-to-north-africa-in-november-for-new-missions-based-around-the-allied-landings",
-          "titre": "Company of Heroes 3's Operation Torch DLC ships off to North Africa in November, for new missions based around the Allied landings"
-        }
-      ]
-    },
-    {
-      "id": "we-are-more-concerned-about-the-risks-of-moving-too-slowly",
-      "titre": "\"We are more concerned about the risks of moving too slowly\": Epic get more specific about genAI use in Unreal Engine and Fortnite development",
-      "url": "https://www.rockpapershotgun.com/we-are-more-concerned-about-the-risks-of-moving-too-slowly-epic-get-more-specific-about-genai-use-in-unreal-engine-and-fortnite-development",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 20.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/we-are-more-concerned-about-the-risks-of-moving-too-slowly-epic-get-more-specific-about-genai-use-in-unreal-engine-and-fortnite-development",
-          "titre": "\"We are more concerned about the risks of moving too slowly\": Epic get more specific about genAI use in Unreal Engine and Fortnite development"
-        }
-      ]
-    },
-    {
-      "id": "roblox-confirms-no-adult-content-used-in-ai-training-after-s",
-      "titre": "Roblox confirms no adult content used in AI training after scraping Open3DLab data",
-      "url": "https://www.gamedeveloper.com/business/roblox-confirms-no-adult-content-used-in-ai-training-after-scraping-open3dlab-data",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 21.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/roblox-confirms-no-adult-content-used-in-ai-training-after-scraping-open3dlab-data",
-          "titre": "Roblox confirms no adult content used in AI training after scraping Open3DLab data"
-        }
-      ]
-    },
-    {
-      "id": "subnautica-2-dev-thinks-early-access-teams-should-worry-less",
-      "titre": "Subnautica 2 dev thinks early access teams should worry less about adding features that are \"very ugly, incomplete, or prototype\"",
-      "url": "https://www.rockpapershotgun.com/subnautica-2-dev-thinks-early-access-teams-should-worry-less-about-adding-features-that-are-very-ugly-incomplete-or-prototype",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 21.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/subnautica-2-dev-thinks-early-access-teams-should-worry-less-about-adding-features-that-are-very-ugly-incomplete-or-prototype",
-          "titre": "Subnautica 2 dev thinks early access teams should worry less about adding features that are \"very ugly, incomplete, or prototype\""
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-official-grand-theft-auto-6-musical-score-by-justice-is-released-in-december-cd-and-vinyl-pre-orders-available-now/",
+          "titre": "The official Grand Theft Auto 6 musical score by Justice is released in December, CD and vinyl pre-orders available now"
         }
       ]
     }
   ],
   "alertes": [
-    "Call of Duty: Modern Warfare 4 intro cinematic is \"not intended to reference or trivialise\" real-world South Korean crowd crush, Activision say amid reported backlash"
+    "The Duskbloods Switch 2 Release Has Been Delayed To 2027"
   ]
 };
