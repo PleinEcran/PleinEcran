@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "29/10/2026 à 19h32",
+  "collecte": "29/10/2026 à 23h54",
   "seuil": 14,
   "sujets": [
     {
@@ -13,7 +13,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 4.8,
+      "heures": 9.2,
       "chaleur": 14,
       "liens": [
         {
@@ -34,6 +34,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "phantom-blade-zero-kicks-off-its-launch-with-a-day-one-patch",
+      "titre": "Phantom Blade Zero kicks off its launch with a day one patch that offers improvements to ray tracing and some bug fixes to boot",
+      "url": "https://www.rockpapershotgun.com/phantom-blade-zero-kicks-off-its-launch-with-a-day-one-patch-that-offers-improvements-to-ray-tracing-and-some-bug-fixes-to-boot",
+      "sources": [
+        "Eurogamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 2.4,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/phantom-blade-zero-kicks-off-its-launch-with-a-day-one-patch-that-offers-improvements-to-ray-tracing-and-some-bug-fixes-to-boot",
+          "titre": "Phantom Blade Zero kicks off its launch with a day one patch that offers improvements to ray tracing and some bug fixes to boot"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/phantom-blade-zero-steam-launch-1-million-sales",
+          "titre": "More Chinese success as Phantom Blade Zero enjoys a big launch and becomes one of Steam's most played games"
+        }
+      ]
+    },
+    {
       "id": "rumour-the-elder-scrolls-6-reveal-as-soon-as-next-month-name",
       "titre": "Rumour: The Elder Scrolls 6 Reveal as Soon as Next Month, Named Sentinel",
       "url": "https://www.pushsquare.com/news/2026/10/rumour-the-elder-scrolls-6-reveal-as-soon-as-next-month-named-sentinel",
@@ -42,8 +66,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 2.8,
-      "chaleur": 13,
+      "heures": 7.2,
+      "chaleur": 11,
       "liens": [
         {
           "source": "Push Square",
@@ -58,6 +82,84 @@ const VEILLE = {
       ]
     },
     {
+      "id": "destiny-2-content-unvaulting-won-t-take-place-until-2028",
+      "titre": "Destiny 2 Content Unvaulting Won't Take Place Until 2028",
+      "url": "https://www.pushsquare.com/news/2026/10/destiny-2-content-unvaulting-wont-take-place-until-2028",
+      "sources": [
+        "PC Gamer",
+        "Push Square",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 3,
+      "heures": 4.4,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/destiny-2-content-unvaulting-wont-take-place-until-2028",
+          "titre": "Destiny 2 Content Unvaulting Won't Take Place Until 2028"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/it-sounds-like-you-shouldnt-expect-destiny-2s-campaign-unvaulting-to-be-ready-until-2028-as-bungie-tease-their-plans-for-the-future-of-the-series",
+          "titre": "It sounds like you shouldn't expect Destiny 2's campaign unvaulting to be ready until 2028, as Bungie tease their plans for the future of the series"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/destiny-2-unvaulting-update-it-sure-sounds-like-the-original-destiny-is-finally-coming-to-pc/",
+          "titre": "Destiny 2 unvaulting update: It sure sounds like the original Destiny is finally coming to PC"
+        }
+      ]
+    },
+    {
+      "id": "crimson-desert-s-huge-dlc-charting-the-unknown-out-now-on-ps",
+      "titre": "Crimson Desert's Huge DLC, Charting the Unknown, Out Now on PS5",
+      "url": "https://www.pushsquare.com/news/2026/10/crimson-deserts-huge-dlc-charting-the-unknown-out-now-on-ps5",
+      "sources": [
+        "PC Gamer",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 1.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/crimson-deserts-huge-dlc-charting-the-unknown-out-now-on-ps5",
+          "titre": "Crimson Desert's Huge DLC, Charting the Unknown, Out Now on PS5"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/crimson-desert-how-to-start-charting-the-unknown-dlc/",
+          "titre": "How to start the Charting the Unknown DLC in Crimson Desert"
+        }
+      ]
+    },
+    {
+      "id": "call-of-duty-modern-warfare-4-intro-cinematic-is-not-intende",
+      "titre": "Call of Duty: Modern Warfare 4 intro cinematic is \"not intended to reference or trivialise\" real-world South Korean crowd crush, Activision say amid reported backlash",
+      "url": "https://www.rockpapershotgun.com/call-of-duty-modern-warfare-4-intro-cinematic-is-not-intended-to-reference-or-trivialise-real-world-south-korean-crowd-crush-activision-say-amid-reported-backlash",
+      "sources": [
+        "Eurogamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 11.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/call-of-duty-modern-warfare-4-intro-cinematic-is-not-intended-to-reference-or-trivialise-real-world-south-korean-crowd-crush-activision-say-amid-reported-backlash",
+          "titre": "Call of Duty: Modern Warfare 4 intro cinematic is \"not intended to reference or trivialise\" real-world South Korean crowd crush, Activision say amid reported backlash"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/modern-warfare-4-south-korean-crowd-crush-footage",
+          "titre": "Modern Warfare 4 faces backlash after real footage of South Korean crowd crush tragedy was discovered in game's opening moments"
+        }
+      ]
+    },
+    {
       "id": "the-latest-episode-of-south-park-features-exclusive-gta-6-fo",
       "titre": "The latest episode of South Park features exclusive GTA 6 footage where a man is hit in the head with dog poo",
       "url": "https://www.videogameschronicle.com/news/the-latest-episode-of-south-park-features-exclusive-gta-6-footage-where-a-man-is-hit-in-the-head-with-dog-poo/",
@@ -66,8 +168,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 9.5,
-      "chaleur": 10,
+      "heures": 13.9,
+      "chaleur": 9,
       "liens": [
         {
           "source": "VGC",
@@ -82,6 +184,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "modern-warfare-4-s-newest-map-is-actually-older-than-the-gen",
+      "titre": "Modern Warfare 4's newest map is actually older than the Gen Z & Alpha teens who will play it",
+      "url": "https://www.pcgamer.com/games/call-of-duty/modern-warfare-4s-newest-map-is-actually-older-than-the-gen-z-and-alpha-teens-who-will-play-it/",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 4.3,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/call-of-duty/modern-warfare-4s-newest-map-is-actually-older-than-the-gen-z-and-alpha-teens-who-will-play-it/",
+          "titre": "Modern Warfare 4's newest map is actually older than the Gen Z & Alpha teens who will play it"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-review",
+          "titre": "Call of Duty Modern Warfare 4 review"
+        }
+      ]
+    },
+    {
       "id": "donald-glover-is-heading-up-a-pubg-live-action-series-for-ne",
       "titre": "Donald Glover is heading up a PUBG live action series for Netflix",
       "url": "https://www.pcgamer.com/movies-tv/donald-glover-is-heading-up-a-pubg-live-action-series-for-netflix/",
@@ -90,8 +216,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 0.3,
-      "chaleur": 9,
+      "heures": 4.7,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
@@ -106,30 +232,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "it-sounds-like-you-shouldn-t-expect-destiny-2-s-campaign-unv",
-      "titre": "It sounds like you shouldn't expect Destiny 2's campaign unvaulting to be ready until 2028, as Bungie tease their plans for the future of the series",
-      "url": "https://www.rockpapershotgun.com/it-sounds-like-you-shouldnt-expect-destiny-2s-campaign-unvaulting-to-be-ready-until-2028-as-bungie-tease-their-plans-for-the-future-of-the-series",
-      "sources": [
-        "PC Gamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 0.8,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/it-sounds-like-you-shouldnt-expect-destiny-2s-campaign-unvaulting-to-be-ready-until-2028-as-bungie-tease-their-plans-for-the-future-of-the-series",
-          "titre": "It sounds like you shouldn't expect Destiny 2's campaign unvaulting to be ready until 2028, as Bungie tease their plans for the future of the series"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/destiny-2-unvaulting-update-it-sure-sounds-like-the-original-destiny-is-finally-coming-to-pc/",
-          "titre": "Destiny 2 unvaulting update: It sure sounds like the original Destiny is finally coming to PC"
-        }
-      ]
-    },
-    {
       "id": "guide-last-chance-to-grab-these-65-switch-1-2-games-in-ninte",
       "titre": "Guide: Last Chance To Grab These 65 Switch 1 & 2 Games In Nintendo's 'Screaming Deals' Sale (North America)",
       "url": "https://www.nintendolife.com/guides/last-chance-to-grab-these-65-switch-1-and-2-games-in-nintendos-screaming-deals-sale-north-america",
@@ -137,8 +239,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 9,
+      "heures": 6.9,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -155,127 +257,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 9,
+      "heures": 7.7,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/dont-worry-gta-6s-cars-can-drive-for-ages-before-their-fuel-tanks-need-refilling-leaving-me-wondering-why-this-motor-managements-been-added-at-all",
           "titre": "Don't worry, GTA 6's cars can drive for ages before their fuel tanks need refilling, leaving me wondering why this motor management's been added at all"
-        }
-      ]
-    },
-    {
-      "id": "call-of-duty-modern-warfare-4-review",
-      "titre": "Call of Duty Modern Warfare 4 review",
-      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-review",
-      "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 5.5,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-review",
-          "titre": "Call of Duty Modern Warfare 4 review"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/call-of-duty-modern-warfare-4-intro-cinematic-is-not-intended-to-reference-or-trivialise-real-world-south-korean-crowd-crush-activision-say-amid-reported-backlash",
-          "titre": "Call of Duty: Modern Warfare 4 intro cinematic is \"not intended to reference or trivialise\" real-world South Korean crowd crush, Activision say amid reported backlash"
-        }
-      ]
-    },
-    {
-      "id": "it-hasn-t-made-any-difference-gears-of-war-ps5-cancellation",
-      "titre": "'It Hasn't Made Any Difference': Gears of War PS5 Cancellation Fails to Boost Xbox",
-      "url": "https://www.pushsquare.com/news/2026/10/it-hasnt-made-any-difference-gears-of-war-ps5-cancellation-fails-to-boost-xbox",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 0.5,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/it-hasnt-made-any-difference-gears-of-war-ps5-cancellation-fails-to-boost-xbox",
-          "titre": "'It Hasn't Made Any Difference': Gears of War PS5 Cancellation Fails to Boost Xbox"
-        }
-      ]
-    },
-    {
-      "id": "the-elder-scrolls-6-sentinel-will-be-an-elder-scrolls-game-a",
-      "titre": "The Elder Scrolls 6: Sentinel will be an Elder Scrolls game about the infinite mysteries of the Elder Scrolls, report with some plot hintage claims",
-      "url": "https://www.rockpapershotgun.com/the-elder-scrolls-6-sentinel-will-be-an-elder-scrolls-game-about-the-infinite-mysteries-of-the-elder-scrolls-report-with-some-plot-hintage-claims",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 1.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-elder-scrolls-6-sentinel-will-be-an-elder-scrolls-game-about-the-infinite-mysteries-of-the-elder-scrolls-report-with-some-plot-hintage-claims",
-          "titre": "The Elder Scrolls 6: Sentinel will be an Elder Scrolls game about the infinite mysteries of the Elder Scrolls, report with some plot hintage claims"
-        }
-      ]
-    },
-    {
-      "id": "celeste-and-towerfall-have-been-removed-from-the-xbox-store",
-      "titre": "Celeste and TowerFall have been removed from the Xbox store in a move to \"support the BDS boycott\" against Microsoft",
-      "url": "https://www.rockpapershotgun.com/celeste-and-towerfall-have-been-removed-from-the-xbox-store-in-a-move-to-support-the-bds-boycott-against-microsoft",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 1.7,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/celeste-and-towerfall-have-been-removed-from-the-xbox-store-in-a-move-to-support-the-bds-boycott-against-microsoft",
-          "titre": "Celeste and TowerFall have been removed from the Xbox store in a move to \"support the BDS boycott\" against Microsoft"
-        }
-      ]
-    },
-    {
-      "id": "xbox-ceo-says-console-demand-is-outstripping-supply-but-sale",
-      "titre": "Xbox CEO says console demand is outstripping supply—but sales continue to drop",
-      "url": "https://www.gamedeveloper.com/console/xbox-ceo-says-console-demand-is-outstripping-supply-as-sales-continue-to-drop",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 2.0,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/console/xbox-ceo-says-console-demand-is-outstripping-supply-as-sales-continue-to-drop",
-          "titre": "Xbox CEO says console demand is outstripping supply—but sales continue to drop"
-        }
-      ]
-    },
-    {
-      "id": "nvidia-ceo-reportedly-targeted-by-chinese-spy-previously-und",
-      "titre": "Nvidia CEO reportedly targeted by Chinese spy previously under suspicion for AI chip smuggling",
-      "url": "https://www.pcgamer.com/software/ai/nvidia-ceo-reportedly-targeted-by-chinese-spy-previously-under-suspicion-for-ai-chip-smuggling/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.0,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/nvidia-ceo-reportedly-targeted-by-chinese-spy-previously-under-suspicion-for-ai-chip-smuggling/",
-          "titre": "Nvidia CEO reportedly targeted by Chinese spy previously under suspicion for AI chip smuggling"
         }
       ]
     },
@@ -287,7 +275,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.0,
+      "heures": 8.4,
       "chaleur": 7,
       "liens": [
         {
@@ -305,7 +293,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 8.5,
       "chaleur": 7,
       "liens": [
         {
@@ -323,7 +311,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 9.8,
       "chaleur": 7,
       "liens": [
         {
@@ -341,7 +329,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 10.5,
       "chaleur": 7,
       "liens": [
         {
@@ -359,7 +347,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 10.6,
       "chaleur": 7,
       "liens": [
         {
@@ -377,7 +365,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 10.9,
       "chaleur": 7,
       "liens": [
         {
@@ -395,7 +383,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.0,
+      "heures": 11.4,
       "chaleur": 7,
       "liens": [
         {
@@ -413,7 +401,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.0,
+      "heures": 11.4,
       "chaleur": 7,
       "liens": [
         {
@@ -424,272 +412,200 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-6-has-a-smell-reaction-system-which-immediately-joins-re",
-      "titre": "GTA 6 has a smell reaction system, which immediately joins Red Dead Redemption 2's dynamically shrinking horse balls on Rockstar's list of immersive symbols of excess",
-      "url": "https://www.rockpapershotgun.com/gta-6-has-a-smell-reaction-system-which-immediately-joins-red-dead-redemption-2s-dynamically-shrinking-horse-balls-on-rockstars-list-of-immersive-symbols-of-excess",
+      "id": "mouthwashing-is-getting-a-feature-film-adaptation-from-sony",
+      "titre": "Mouthwashing is getting a feature film adaptation from Sony and I need all of you to be normal about it whenever it comes out",
+      "url": "https://www.rockpapershotgun.com/mouthwashing-is-getting-a-feature-film-adaptation-from-sony-and-i-need-all-of-you-to-be-normal-about-it-whenever-it-comes-out",
       "sources": [
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.3,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/gta-6-has-a-smell-reaction-system-which-immediately-joins-red-dead-redemption-2s-dynamically-shrinking-horse-balls-on-rockstars-list-of-immersive-symbols-of-excess",
-          "titre": "GTA 6 has a smell reaction system, which immediately joins Red Dead Redemption 2's dynamically shrinking horse balls on Rockstar's list of immersive symbols of excess"
-        }
-      ]
-    },
-    {
-      "id": "new-gta-6-gameplay-screenshots-details-revealed-as-ps5-launc",
-      "titre": "New GTA 6 Gameplay, Screenshots, Details Revealed as PS5 Launch Nears",
-      "url": "https://www.pushsquare.com/news/2026/10/new-gta-6-gameplay-screenshots-details-revealed-as-ps5-launch-nears",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 10.0,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/new-gta-6-gameplay-screenshots-details-revealed-as-ps5-launch-nears",
-          "titre": "New GTA 6 Gameplay, Screenshots, Details Revealed as PS5 Launch Nears"
-        }
-      ]
-    },
-    {
-      "id": "assassin-s-creed-valhalla-gets-new-game-patch-more-than-thre",
-      "titre": "Assassin's Creed Valhalla Gets New Game+ Patch, More Than Three Years After Its 'Final' Update",
-      "url": "https://www.pushsquare.com/news/2026/10/assassins-creed-valhalla-gets-new-gameplus-patch-more-than-three-years-after-its-final-update",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 1.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/assassins-creed-valhalla-gets-new-gameplus-patch-more-than-three-years-after-its-final-update",
-          "titre": "Assassin's Creed Valhalla Gets New Game+ Patch, More Than Three Years After Its 'Final' Update"
-        }
-      ]
-    },
-    {
-      "id": "pre-order-football-manager-27-for-20-off-on-fanatical-with-o",
-      "titre": "Pre-order Football Manager 27 for 20% off on Fanatical with our code",
-      "url": "https://www.videogameschronicle.com/news/pre-order-football-manager-27-for-20-off-with-fanatical-and-vgc/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 1.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/pre-order-football-manager-27-for-20-off-with-fanatical-and-vgc/",
-          "titre": "Pre-order Football Manager 27 for 20% off on Fanatical with our code"
-        }
-      ]
-    },
-    {
-      "id": "virtua-fighter-s-cocky-kid-lionel-rafale-returns-in-crossroa",
-      "titre": "Virtua Fighter's 'Cocky Kid' Lionel Rafale Returns in Crossroads on PS5",
-      "url": "https://www.pushsquare.com/news/2026/10/virtua-fighters-cocky-kid-lionel-rafale-returns-in-crossroads-on-ps5",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 1.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/virtua-fighters-cocky-kid-lionel-rafale-returns-in-crossroads-on-ps5",
-          "titre": "Virtua Fighter's 'Cocky Kid' Lionel Rafale Returns in Crossroads on PS5"
-        }
-      ]
-    },
-    {
-      "id": "in-2023-an-anonymous-modder-released-one-of-the-best-horror",
-      "titre": "In 2023, an anonymous modder released one of the best horror games of the decade, and they still haven't broken character",
-      "url": "https://www.pcgamer.com/games/horror/in-2023-an-anonymous-modder-released-one-of-the-best-horror-games-of-the-decade-and-they-still-havent-broken-character/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/in-2023-an-anonymous-modder-released-one-of-the-best-horror-games-of-the-decade-and-they-still-havent-broken-character/",
-          "titre": "In 2023, an anonymous modder released one of the best horror games of the decade, and they still haven't broken character"
-        }
-      ]
-    },
-    {
-      "id": "we-feel-very-good-about-our-trajectory-here-says-google-as",
-      "titre": "'We feel very good about our trajectory here' says Google as its stock tanks by $500 billion",
-      "url": "https://www.pcgamer.com/software/ai/we-feel-very-good-about-our-trajectory-here-says-google-as-its-stock-tanks-by-usd500-billion/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/we-feel-very-good-about-our-trajectory-here-says-google-as-its-stock-tanks-by-usd500-billion/",
-          "titre": "'We feel very good about our trajectory here' says Google as its stock tanks by $500 billion"
-        }
-      ]
-    },
-    {
-      "id": "queen-s-domain-is-a-brilliant-king-s-field-alike-rpg-that-fo",
-      "titre": "Queen's Domain is a brilliant King's Field-alike RPG that forces you to walk so you can learn to fly",
-      "url": "https://www.rockpapershotgun.com/queens-domain-is-a-brilliant-kings-field-alike-rpg-that-forces-you-to-walk-so-you-can-learn-to-fly",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
+      "heures": 1.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/queens-domain-is-a-brilliant-kings-field-alike-rpg-that-forces-you-to-walk-so-you-can-learn-to-fly",
-          "titre": "Queen's Domain is a brilliant King's Field-alike RPG that forces you to walk so you can learn to fly"
+          "url": "https://www.rockpapershotgun.com/mouthwashing-is-getting-a-feature-film-adaptation-from-sony-and-i-need-all-of-you-to-be-normal-about-it-whenever-it-comes-out",
+          "titre": "Mouthwashing is getting a feature film adaptation from Sony and I need all of you to be normal about it whenever it comes out"
         }
       ]
     },
     {
-      "id": "aaa-publishers-are-abusing-early-access-denis-dyack-says-an",
-      "titre": "'AAA publishers are abusing early access,' Denis Dyack says, and that's making things harder for everyone else",
-      "url": "https://www.pcgamer.com/gaming-industry/game-development/aaa-publishers-are-abusing-early-access-denis-dyack-says-and-thats-making-things-harder-for-everyone-else/",
+      "id": "none-of-these-people-have-ever-made-a-game-bioware-co-found",
+      "titre": "'None of these people have ever made a game,' BioWare co-founder Greg Zeschuk says of game industry executives: 'They just don't know how it works'",
+      "url": "https://www.pcgamer.com/gaming-industry/none-of-these-people-have-ever-made-a-game-bioware-co-founder-greg-zeschuk-says-of-game-industry-executives-they-just-dont-know-how-it-works/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.8,
+      "heures": 2.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/game-development/aaa-publishers-are-abusing-early-access-denis-dyack-says-and-thats-making-things-harder-for-everyone-else/",
-          "titre": "'AAA publishers are abusing early access,' Denis Dyack says, and that's making things harder for everyone else"
+          "url": "https://www.pcgamer.com/gaming-industry/none-of-these-people-have-ever-made-a-game-bioware-co-founder-greg-zeschuk-says-of-game-industry-executives-they-just-dont-know-how-it-works/",
+          "titre": "'None of these people have ever made a game,' BioWare co-founder Greg Zeschuk says of game industry executives: 'They just don't know how it works'"
         }
       ]
     },
     {
-      "id": "it-s-amnesia-vs-amnesia-in-the-scariest-game-semifinals-vote",
-      "titre": "It's Amnesia vs Amnesia in the 'scariest game' semifinals—vote now!",
-      "url": "https://www.pcgamer.com/games/horror/its-amnesia-vs-amnesia-in-the-scariest-game-semifinals-vote-now/",
+      "id": "patrick-stewart-star-trek-and-shakespeare-legend-has-died",
+      "titre": "Patrick Stewart, Star Trek and Shakespeare legend, has died",
+      "url": "https://www.pcgamer.com/movies-tv/patrick-stewart-star-trek-and-shakespeare-legend-has-died/",
       "sources": [
         "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/its-amnesia-vs-amnesia-in-the-scariest-game-semifinals-vote-now/",
-          "titre": "It's Amnesia vs Amnesia in the 'scariest game' semifinals—vote now!"
-        }
-      ]
-    },
-    {
-      "id": "dataminer-uncovers-that-spiny-a-character-seemingly-with-no",
-      "titre": "Dataminer uncovers that Spiny - a character seemingly with no way to operate a car - was meant to be playable in Mario Kart World",
-      "url": "https://www.eurogamer.net/mario-kart-world-dataminer-spiny",
-      "sources": [
-        "Eurogamer"
       ],
       "reprises": 1,
       "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/mario-kart-world-dataminer-spiny",
-          "titre": "Dataminer uncovers that Spiny - a character seemingly with no way to operate a car - was meant to be playable in Mario Kart World"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/movies-tv/patrick-stewart-star-trek-and-shakespeare-legend-has-died/",
+          "titre": "Patrick Stewart, Star Trek and Shakespeare legend, has died"
         }
       ]
     },
     {
-      "id": "pok-mon-cards-and-toys-are-officially-returning-to-mcdonald",
-      "titre": "Pokémon Cards And Toys Are Officially Returning To McDonald's Happy Meals Soon",
-      "url": "https://www.nintendolife.com/news/2026/10/pokemon-cards-and-toys-are-officially-returning-to-mcdonalds-happy-meals-soon",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/pokemon-cards-and-toys-are-officially-returning-to-mcdonalds-happy-meals-soon",
-          "titre": "Pokémon Cards And Toys Are Officially Returning To McDonald's Happy Meals Soon"
-        }
-      ]
-    },
-    {
-      "id": "atmosfar-is-a-giddy-aerial-exploration-game-after-the-heart",
-      "titre": "Atmosfar is a giddy aerial exploration game after the heart of No Man's Sky, but I'm already trying to escape it",
-      "url": "https://www.rockpapershotgun.com/atmosfar-is-a-giddy-aerial-exploration-game-after-the-heart-of-no-mans-sky-but-im-already-trying-to-escape-it",
+      "id": "we-didn-t-want-the-brooding-hero-out-for-revenge-how-quiet",
+      "titre": "\"We didn't want the brooding hero out for revenge\": How quiet lulls and a bird-sketching lead make Control Resonant a more introspective kind of action game",
+      "url": "https://www.rockpapershotgun.com/we-didnt-want-the-brooding-hero-out-for-revenge-how-quiet-lulls-and-a-bird-sketching-lead-make-control-resonant-a-more-introspective-kind-of-action-game",
       "sources": [
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 3.5,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/atmosfar-is-a-giddy-aerial-exploration-game-after-the-heart-of-no-mans-sky-but-im-already-trying-to-escape-it",
-          "titre": "Atmosfar is a giddy aerial exploration game after the heart of No Man's Sky, but I'm already trying to escape it"
+          "url": "https://www.rockpapershotgun.com/we-didnt-want-the-brooding-hero-out-for-revenge-how-quiet-lulls-and-a-bird-sketching-lead-make-control-resonant-a-more-introspective-kind-of-action-game",
+          "titre": "\"We didn't want the brooding hero out for revenge\": How quiet lulls and a bird-sketching lead make Control Resonant a more introspective kind of action game"
         }
       ]
     },
     {
-      "id": "youtuber-buys-and-turns-32-gb-of-laptop-ddr5-into-desktop-ra",
-      "titre": "YouTuber buys and turns 32 GB of laptop DDR5 into desktop RAM for just $175",
-      "url": "https://www.pcgamer.com/hardware/memory/youtuber-buys-and-turns-32-gb-of-laptop-ddr5-into-desktop-ram-for-just-usd175/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/memory/youtuber-buys-and-turns-32-gb-of-laptop-ddr5-into-desktop-ram-for-just-usd175/",
-          "titre": "YouTuber buys and turns 32 GB of laptop DDR5 into desktop RAM for just $175"
-        }
-      ]
-    },
-    {
-      "id": "guide-phantom-blade-zero-best-weapons-and-where-to-find-them",
-      "titre": "Guide: Phantom Blade Zero: Best Weapons and Where to Find Them",
-      "url": "https://www.pushsquare.com/guides/phantom-blade-zero-best-weapons-and-where-to-find-them",
+      "id": "no-new-assassin-s-creed-remakes-in-the-works-at-ubisoft",
+      "titre": "No New Assassin's Creed Remakes in the Works at Ubisoft",
+      "url": "https://www.pushsquare.com/news/2026/10/no-new-assassins-creed-remakes-in-the-works-at-ubisoft",
       "sources": [
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 3.8,
+      "heures": 3.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/guides/phantom-blade-zero-best-weapons-and-where-to-find-them",
-          "titre": "Guide: Phantom Blade Zero: Best Weapons and Where to Find Them"
+          "url": "https://www.pushsquare.com/news/2026/10/no-new-assassins-creed-remakes-in-the-works-at-ubisoft",
+          "titre": "No New Assassin's Creed Remakes in the Works at Ubisoft"
+        }
+      ]
+    },
+    {
+      "id": "after-the-rough-start-that-was-last-year-s-entry-football-ma",
+      "titre": "After the rough start that was last year's entry, Football Manager 27 is looking to bring you in with a few free days of play before the game's even out",
+      "url": "https://www.rockpapershotgun.com/after-the-rough-start-that-was-last-years-entry-football-manager-27-is-looking-to-bring-you-in-with-a-few-free-days-of-play-before-the-games-even-out",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 4.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/after-the-rough-start-that-was-last-years-entry-football-manager-27-is-looking-to-bring-you-in-with-a-few-free-days-of-play-before-the-games-even-out",
+          "titre": "After the rough start that was last year's entry, Football Manager 27 is looking to bring you in with a few free days of play before the game's even out"
+        }
+      ]
+    },
+    {
+      "id": "it-hasn-t-made-any-difference-gears-of-war-ps5-cancellation",
+      "titre": "'It Hasn't Made Any Difference': Gears of War PS5 Cancellation Fails to Boost Xbox",
+      "url": "https://www.pushsquare.com/news/2026/10/it-hasnt-made-any-difference-gears-of-war-ps5-cancellation-fails-to-boost-xbox",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/it-hasnt-made-any-difference-gears-of-war-ps5-cancellation-fails-to-boost-xbox",
+          "titre": "'It Hasn't Made Any Difference': Gears of War PS5 Cancellation Fails to Boost Xbox"
+        }
+      ]
+    },
+    {
+      "id": "the-elder-scrolls-6-sentinel-will-be-an-elder-scrolls-game-a",
+      "titre": "The Elder Scrolls 6: Sentinel will be an Elder Scrolls game about the infinite mysteries of the Elder Scrolls, report with some plot hintage claims",
+      "url": "https://www.rockpapershotgun.com/the-elder-scrolls-6-sentinel-will-be-an-elder-scrolls-game-about-the-infinite-mysteries-of-the-elder-scrolls-report-with-some-plot-hintage-claims",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-elder-scrolls-6-sentinel-will-be-an-elder-scrolls-game-about-the-infinite-mysteries-of-the-elder-scrolls-report-with-some-plot-hintage-claims",
+          "titre": "The Elder Scrolls 6: Sentinel will be an Elder Scrolls game about the infinite mysteries of the Elder Scrolls, report with some plot hintage claims"
+        }
+      ]
+    },
+    {
+      "id": "celeste-and-towerfall-have-been-removed-from-the-xbox-store",
+      "titre": "Celeste and TowerFall have been removed from the Xbox store in a move to \"support the BDS boycott\" against Microsoft",
+      "url": "https://www.rockpapershotgun.com/celeste-and-towerfall-have-been-removed-from-the-xbox-store-in-a-move-to-support-the-bds-boycott-against-microsoft",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 6.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/celeste-and-towerfall-have-been-removed-from-the-xbox-store-in-a-move-to-support-the-bds-boycott-against-microsoft",
+          "titre": "Celeste and TowerFall have been removed from the Xbox store in a move to \"support the BDS boycott\" against Microsoft"
+        }
+      ]
+    },
+    {
+      "id": "xbox-ceo-says-console-demand-is-outstripping-supply-but-sale",
+      "titre": "Xbox CEO says console demand is outstripping supply—but sales continue to drop",
+      "url": "https://www.gamedeveloper.com/console/xbox-ceo-says-console-demand-is-outstripping-supply-as-sales-continue-to-drop",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 6.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/console/xbox-ceo-says-console-demand-is-outstripping-supply-as-sales-continue-to-drop",
+          "titre": "Xbox CEO says console demand is outstripping supply—but sales continue to drop"
+        }
+      ]
+    },
+    {
+      "id": "nvidia-ceo-reportedly-targeted-by-chinese-spy-previously-und",
+      "titre": "Nvidia CEO reportedly targeted by Chinese spy previously under suspicion for AI chip smuggling",
+      "url": "https://www.pcgamer.com/software/ai/nvidia-ceo-reportedly-targeted-by-chinese-spy-previously-under-suspicion-for-ai-chip-smuggling/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/nvidia-ceo-reportedly-targeted-by-chinese-spy-previously-under-suspicion-for-ai-chip-smuggling/",
+          "titre": "Nvidia CEO reportedly targeted by Chinese spy previously under suspicion for AI chip smuggling"
         }
       ]
     },
@@ -701,7 +617,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 10.2,
       "chaleur": 6,
       "liens": [
         {
@@ -719,7 +635,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 10.4,
       "chaleur": 6,
       "liens": [
         {
@@ -737,7 +653,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 10.8,
       "chaleur": 6,
       "liens": [
         {
@@ -748,74 +664,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "xbox-leader-asha-sharma-says-there-s-more-demand-than-consol",
-      "titre": "Xbox leader Asha Sharma says there's \"more demand than consoles available\" as Xbox hardware sales dip by 14%",
-      "url": "https://www.eurogamer.net/xbox-financials-sales-asha-sharma-microsoft",
+      "id": "gta-6-has-a-smell-reaction-system-which-immediately-joins-re",
+      "titre": "GTA 6 has a smell reaction system, which immediately joins Red Dead Redemption 2's dynamically shrinking horse balls on Rockstar's list of immersive symbols of excess",
+      "url": "https://www.rockpapershotgun.com/gta-6-has-a-smell-reaction-system-which-immediately-joins-red-dead-redemption-2s-dynamically-shrinking-horse-balls-on-rockstars-list-of-immersive-symbols-of-excess",
       "sources": [
-        "Eurogamer"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.2,
+      "heures": 12.7,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-financials-sales-asha-sharma-microsoft",
-          "titre": "Xbox leader Asha Sharma says there's \"more demand than consoles available\" as Xbox hardware sales dip by 14%"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/gta-6-has-a-smell-reaction-system-which-immediately-joins-red-dead-redemption-2s-dynamically-shrinking-horse-balls-on-rockstars-list-of-immersive-symbols-of-excess",
+          "titre": "GTA 6 has a smell reaction system, which immediately joins Red Dead Redemption 2's dynamically shrinking horse balls on Rockstar's list of immersive symbols of excess"
         }
       ]
     },
     {
-      "id": "xbox-first-party-content-partially-offsets-2-drop-in-q1-reve",
-      "titre": "Xbox first-party content partially offsets 2% drop in Q1 revenue, hardware decreases 14%",
-      "url": "https://www.gamesindustry.biz/xbox-first-party-content-partially-offsets-2-drop-in-q1-revenue-hardware-decreases-14",
+      "id": "new-gta-6-gameplay-screenshots-details-revealed-as-ps5-launc",
+      "titre": "New GTA 6 Gameplay, Screenshots, Details Revealed as PS5 Launch Nears",
+      "url": "https://www.pushsquare.com/news/2026/10/new-gta-6-gameplay-screenshots-details-revealed-as-ps5-launch-nears",
       "sources": [
-        "GamesIndustry.biz"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.7,
+      "heures": 14.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/xbox-first-party-content-partially-offsets-2-drop-in-q1-revenue-hardware-decreases-14",
-          "titre": "Xbox first-party content partially offsets 2% drop in Q1 revenue, hardware decreases 14%"
-        }
-      ]
-    },
-    {
-      "id": "cronos-the-new-dawn-s-lazarus-dlc-launches-next-year-on-swit",
-      "titre": "Cronos: The New Dawn's 'Lazarus' DLC Launches Next Year On Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/10/cronos-the-new-dawns-lazarus-dlc-launches-next-year-on-switch-2",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 9.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/cronos-the-new-dawns-lazarus-dlc-launches-next-year-on-switch-2",
-          "titre": "Cronos: The New Dawn's 'Lazarus' DLC Launches Next Year On Switch 2"
-        }
-      ]
-    },
-    {
-      "id": "more-chinese-success-as-phantom-blade-zero-enjoys-a-big-laun",
-      "titre": "More Chinese success as Phantom Blade Zero enjoys a big launch and becomes one of Steam's most played games",
-      "url": "https://www.eurogamer.net/phantom-blade-zero-steam-launch-1-million-sales",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/phantom-blade-zero-steam-launch-1-million-sales",
-          "titre": "More Chinese success as Phantom Blade Zero enjoys a big launch and becomes one of Steam's most played games"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/new-gta-6-gameplay-screenshots-details-revealed-as-ps5-launch-nears",
+          "titre": "New GTA 6 Gameplay, Screenshots, Details Revealed as PS5 Launch Nears"
         }
       ]
     },
@@ -828,7 +708,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 2,
-      "heures": 23.4,
+      "heures": 27.8,
       "chaleur": 6,
       "liens": [
         {
@@ -851,7 +731,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.5,
+      "heures": 29.9,
       "chaleur": 6,
       "liens": [
         {
@@ -869,13 +749,67 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.8,
+      "heures": 30.2,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/rumour-samsungs-new-chip-process-kicks-off-nintendo-switch-2-lite-speculation",
           "titre": "Rumour: Samsung's New Chip Process Kicks Off 'Nintendo Switch 2 Lite' Speculation"
+        }
+      ]
+    },
+    {
+      "id": "xbox-leader-asha-sharma-says-there-s-more-demand-than-consol",
+      "titre": "Xbox leader Asha Sharma says there's \"more demand than consoles available\" as Xbox hardware sales dip by 14%",
+      "url": "https://www.eurogamer.net/xbox-financials-sales-asha-sharma-microsoft",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 12.5,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-financials-sales-asha-sharma-microsoft",
+          "titre": "Xbox leader Asha Sharma says there's \"more demand than consoles available\" as Xbox hardware sales dip by 14%"
+        }
+      ]
+    },
+    {
+      "id": "xbox-first-party-content-partially-offsets-2-drop-in-q1-reve",
+      "titre": "Xbox first-party content partially offsets 2% drop in Q1 revenue, hardware decreases 14%",
+      "url": "https://www.gamesindustry.biz/xbox-first-party-content-partially-offsets-2-drop-in-q1-revenue-hardware-decreases-14",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 13.0,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/xbox-first-party-content-partially-offsets-2-drop-in-q1-revenue-hardware-decreases-14",
+          "titre": "Xbox first-party content partially offsets 2% drop in Q1 revenue, hardware decreases 14%"
+        }
+      ]
+    },
+    {
+      "id": "cronos-the-new-dawn-s-lazarus-dlc-launches-next-year-on-swit",
+      "titre": "Cronos: The New Dawn's 'Lazarus' DLC Launches Next Year On Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/10/cronos-the-new-dawns-lazarus-dlc-launches-next-year-on-switch-2",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 13.9,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/cronos-the-new-dawns-lazarus-dlc-launches-next-year-on-switch-2",
+          "titre": "Cronos: The New Dawn's 'Lazarus' DLC Launches Next Year On Switch 2"
         }
       ]
     },
@@ -887,7 +821,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.0,
+      "heures": 20.4,
       "chaleur": 5,
       "liens": [
         {
@@ -905,7 +839,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.0,
+      "heures": 21.4,
       "chaleur": 5,
       "liens": [
         {
@@ -923,7 +857,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 30.0,
+      "heures": 34.4,
       "chaleur": 5,
       "liens": [
         {
@@ -934,38 +868,218 @@ const VEILLE = {
       ]
     },
     {
-      "id": "first-xbox-coo-helen-chiang-leaves-company-after-three-month",
-      "titre": "First Xbox COO Helen Chiang leaves company after three months in the role",
-      "url": "https://www.gamesindustry.biz/first-xbox-coo-helen-chiang-leaves-company-after-three-months-in-the-role",
+      "id": "pre-order-football-manager-27-for-20-off-on-fanatical-with-o",
+      "titre": "Pre-order Football Manager 27 for 20% off on Fanatical with our code",
+      "url": "https://www.videogameschronicle.com/news/pre-order-football-manager-27-for-20-off-with-fanatical-and-vgc/",
       "sources": [
-        "GamesIndustry.biz"
+        "VGC"
       ],
       "reprises": 1,
-      "heures": 33.3,
-      "chaleur": 5,
+      "heures": 5.7,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/first-xbox-coo-helen-chiang-leaves-company-after-three-months-in-the-role",
-          "titre": "First Xbox COO Helen Chiang leaves company after three months in the role"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/pre-order-football-manager-27-for-20-off-with-fanatical-and-vgc/",
+          "titre": "Pre-order Football Manager 27 for 20% off on Fanatical with our code"
         }
       ]
     },
     {
-      "id": "gamescom-asia-touts-new-records-for-international-attendance",
-      "titre": "Gamescom Asia touts new records for international attendance and showfloor size",
-      "url": "https://www.gamesindustry.biz/gamescom-asia-touts-new-records-for-international-attendance-and-showfloor-size",
+      "id": "virtua-fighter-s-cocky-kid-lionel-rafale-returns-in-crossroa",
+      "titre": "Virtua Fighter's 'Cocky Kid' Lionel Rafale Returns in Crossroads on PS5",
+      "url": "https://www.pushsquare.com/news/2026/10/virtua-fighters-cocky-kid-lionel-rafale-returns-in-crossroads-on-ps5",
       "sources": [
-        "GamesIndustry.biz"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 35.3,
-      "chaleur": 5,
+      "heures": 5.9,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/gamescom-asia-touts-new-records-for-international-attendance-and-showfloor-size",
-          "titre": "Gamescom Asia touts new records for international attendance and showfloor size"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/virtua-fighters-cocky-kid-lionel-rafale-returns-in-crossroads-on-ps5",
+          "titre": "Virtua Fighter's 'Cocky Kid' Lionel Rafale Returns in Crossroads on PS5"
+        }
+      ]
+    },
+    {
+      "id": "in-2023-an-anonymous-modder-released-one-of-the-best-horror",
+      "titre": "In 2023, an anonymous modder released one of the best horror games of the decade, and they still haven't broken character",
+      "url": "https://www.pcgamer.com/games/horror/in-2023-an-anonymous-modder-released-one-of-the-best-horror-games-of-the-decade-and-they-still-havent-broken-character/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/in-2023-an-anonymous-modder-released-one-of-the-best-horror-games-of-the-decade-and-they-still-havent-broken-character/",
+          "titre": "In 2023, an anonymous modder released one of the best horror games of the decade, and they still haven't broken character"
+        }
+      ]
+    },
+    {
+      "id": "we-feel-very-good-about-our-trajectory-here-says-google-as",
+      "titre": "'We feel very good about our trajectory here' says Google as its stock tanks by $500 billion",
+      "url": "https://www.pcgamer.com/software/ai/we-feel-very-good-about-our-trajectory-here-says-google-as-its-stock-tanks-by-usd500-billion/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/we-feel-very-good-about-our-trajectory-here-says-google-as-its-stock-tanks-by-usd500-billion/",
+          "titre": "'We feel very good about our trajectory here' says Google as its stock tanks by $500 billion"
+        }
+      ]
+    },
+    {
+      "id": "queen-s-domain-is-a-brilliant-king-s-field-alike-rpg-that-fo",
+      "titre": "Queen's Domain is a brilliant King's Field-alike RPG that forces you to walk so you can learn to fly",
+      "url": "https://www.rockpapershotgun.com/queens-domain-is-a-brilliant-kings-field-alike-rpg-that-forces-you-to-walk-so-you-can-learn-to-fly",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 6.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/queens-domain-is-a-brilliant-kings-field-alike-rpg-that-forces-you-to-walk-so-you-can-learn-to-fly",
+          "titre": "Queen's Domain is a brilliant King's Field-alike RPG that forces you to walk so you can learn to fly"
+        }
+      ]
+    },
+    {
+      "id": "aaa-publishers-are-abusing-early-access-denis-dyack-says-an",
+      "titre": "'AAA publishers are abusing early access,' Denis Dyack says, and that's making things harder for everyone else",
+      "url": "https://www.pcgamer.com/gaming-industry/game-development/aaa-publishers-are-abusing-early-access-denis-dyack-says-and-thats-making-things-harder-for-everyone-else/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 7.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/game-development/aaa-publishers-are-abusing-early-access-denis-dyack-says-and-thats-making-things-harder-for-everyone-else/",
+          "titre": "'AAA publishers are abusing early access,' Denis Dyack says, and that's making things harder for everyone else"
+        }
+      ]
+    },
+    {
+      "id": "it-s-amnesia-vs-amnesia-in-the-scariest-game-semifinals-vote",
+      "titre": "It's Amnesia vs Amnesia in the 'scariest game' semifinals—vote now!",
+      "url": "https://www.pcgamer.com/games/horror/its-amnesia-vs-amnesia-in-the-scariest-game-semifinals-vote-now/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 7.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/its-amnesia-vs-amnesia-in-the-scariest-game-semifinals-vote-now/",
+          "titre": "It's Amnesia vs Amnesia in the 'scariest game' semifinals—vote now!"
+        }
+      ]
+    },
+    {
+      "id": "dataminer-uncovers-that-spiny-a-character-seemingly-with-no",
+      "titre": "Dataminer uncovers that Spiny - a character seemingly with no way to operate a car - was meant to be playable in Mario Kart World",
+      "url": "https://www.eurogamer.net/mario-kart-world-dataminer-spiny",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 7.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/mario-kart-world-dataminer-spiny",
+          "titre": "Dataminer uncovers that Spiny - a character seemingly with no way to operate a car - was meant to be playable in Mario Kart World"
+        }
+      ]
+    },
+    {
+      "id": "pok-mon-cards-and-toys-are-officially-returning-to-mcdonald",
+      "titre": "Pokémon Cards And Toys Are Officially Returning To McDonald's Happy Meals Soon",
+      "url": "https://www.nintendolife.com/news/2026/10/pokemon-cards-and-toys-are-officially-returning-to-mcdonalds-happy-meals-soon",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 7.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/pokemon-cards-and-toys-are-officially-returning-to-mcdonalds-happy-meals-soon",
+          "titre": "Pokémon Cards And Toys Are Officially Returning To McDonald's Happy Meals Soon"
+        }
+      ]
+    },
+    {
+      "id": "atmosfar-is-a-giddy-aerial-exploration-game-after-the-heart",
+      "titre": "Atmosfar is a giddy aerial exploration game after the heart of No Man's Sky, but I'm already trying to escape it",
+      "url": "https://www.rockpapershotgun.com/atmosfar-is-a-giddy-aerial-exploration-game-after-the-heart-of-no-mans-sky-but-im-already-trying-to-escape-it",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 7.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/atmosfar-is-a-giddy-aerial-exploration-game-after-the-heart-of-no-mans-sky-but-im-already-trying-to-escape-it",
+          "titre": "Atmosfar is a giddy aerial exploration game after the heart of No Man's Sky, but I'm already trying to escape it"
+        }
+      ]
+    },
+    {
+      "id": "youtuber-buys-and-turns-32-gb-of-laptop-ddr5-into-desktop-ra",
+      "titre": "YouTuber buys and turns 32 GB of laptop DDR5 into desktop RAM for just $175",
+      "url": "https://www.pcgamer.com/hardware/memory/youtuber-buys-and-turns-32-gb-of-laptop-ddr5-into-desktop-ram-for-just-usd175/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 8.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/memory/youtuber-buys-and-turns-32-gb-of-laptop-ddr5-into-desktop-ram-for-just-usd175/",
+          "titre": "YouTuber buys and turns 32 GB of laptop DDR5 into desktop RAM for just $175"
+        }
+      ]
+    },
+    {
+      "id": "guide-phantom-blade-zero-best-weapons-and-where-to-find-them",
+      "titre": "Guide: Phantom Blade Zero: Best Weapons and Where to Find Them",
+      "url": "https://www.pushsquare.com/guides/phantom-blade-zero-best-weapons-and-where-to-find-them",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 8.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/guides/phantom-blade-zero-best-weapons-and-where-to-find-them",
+          "titre": "Guide: Phantom Blade Zero: Best Weapons and Where to Find Them"
         }
       ]
     },
@@ -977,7 +1091,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.0,
+      "heures": 8.4,
       "chaleur": 4,
       "liens": [
         {
@@ -995,7 +1109,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 8.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1013,7 +1127,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 8.8,
       "chaleur": 4,
       "liens": [
         {
@@ -1031,7 +1145,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 8.9,
       "chaleur": 4,
       "liens": [
         {
@@ -1040,99 +1154,7 @@ const VEILLE = {
           "titre": "Havn HS 360 review"
         }
       ]
-    },
-    {
-      "id": "newly-merged-skydance-mandates-staff-return-to-office-five-d",
-      "titre": "Newly merged Skydance mandates staff return to office five days a week, offers Voluntary Buyout Program",
-      "url": "https://www.gamesindustry.biz/newly-merged-skydance-mandates-staff-return-to-office-five-days-a-week-offers-voluntary-buyout-program",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 5.1,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/newly-merged-skydance-mandates-staff-return-to-office-five-days-a-week-offers-voluntary-buyout-program",
-          "titre": "Newly merged Skydance mandates staff return to office five days a week, offers Voluntary Buyout Program"
-        }
-      ]
-    },
-    {
-      "id": "after-a-month-of-voting-pc-gamer-readers-have-picked-the-bes",
-      "titre": "After a month of voting, PC Gamer readers have picked the best RTS unit of all time",
-      "url": "https://www.pcgamer.com/games/rts/after-a-month-of-voting-pc-gamer-readers-have-picked-the-best-rts-unit-of-all-time/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 5.3,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rts/after-a-month-of-voting-pc-gamer-readers-have-picked-the-best-rts-unit-of-all-time/",
-          "titre": "After a month of voting, PC Gamer readers have picked the best RTS unit of all time"
-        }
-      ]
-    },
-    {
-      "id": "world-of-warcraft-forever-s-shiny-lighting-and-water-changes",
-      "titre": "World of Warcraft: Forever's shiny lighting and water changes will be coming to retail: 'I don't know when, but I know they're talking about doing it'",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-shiny-lighting-and-water-changes-will-be-coming-to-retail-i-dont-know-when-but-i-know-theyre-talking-about-doing-it/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 5.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-shiny-lighting-and-water-changes-will-be-coming-to-retail-i-dont-know-when-but-i-know-theyre-talking-about-doing-it/",
-          "titre": "World of Warcraft: Forever's shiny lighting and water changes will be coming to retail: 'I don't know when, but I know they're talking about doing it'"
-        }
-      ]
-    },
-    {
-      "id": "60-million-ai-rack-cluster-listed-on-ebay-with-1-4-petabyte",
-      "titre": "$60 million AI rack cluster listed on eBay, with 1.4 petabytes of memory and almost 10,000 Nvidia AI GPUs",
-      "url": "https://www.pcgamer.com/software/ai/usd60-million-ai-rack-cluster-listed-on-ebay-with-1-4-petabytes-of-memory-and-almost-10-000-nvidia-ai-gpus/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 5.5,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/usd60-million-ai-rack-cluster-listed-on-ebay-with-1-4-petabytes-of-memory-and-almost-10-000-nvidia-ai-gpus/",
-          "titre": "$60 million AI rack cluster listed on eBay, with 1.4 petabytes of memory and almost 10,000 Nvidia AI GPUs"
-        }
-      ]
-    },
-    {
-      "id": "the-official-grand-theft-auto-6-musical-score-by-justice-is",
-      "titre": "The official Grand Theft Auto 6 musical score by Justice is released in December, CD and vinyl pre-orders available now",
-      "url": "https://www.videogameschronicle.com/news/the-official-grand-theft-auto-6-musical-score-by-justice-is-released-in-december-cd-and-vinyl-pre-orders-available-now/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 5.8,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/the-official-grand-theft-auto-6-musical-score-by-justice-is-released-in-december-cd-and-vinyl-pre-orders-available-now/",
-          "titre": "The official Grand Theft Auto 6 musical score by Justice is released in December, CD and vinyl pre-orders available now"
-        }
-      ]
     }
   ],
-  "alertes": [
-    "The Duskbloods Switch 2 Release Has Been Delayed To 2027"
-  ]
+  "alertes": []
 };
