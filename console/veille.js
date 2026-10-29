@@ -1,8 +1,32 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "28/10/2026 à 23h58",
+  "collecte": "29/10/2026 à 05h36",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "palworld-dev-open-to-switch-2-release-if-there-s-ever-an-opp",
+      "titre": "Palworld Dev Open To Switch 2 Release, If There's Ever An \"Opportunity\"",
+      "url": "https://www.nintendolife.com/news/2026/10/palworld-dev-open-to-switch-2-release-if-theres-ever-an-opportunity",
+      "sources": [
+        "Eurogamer",
+        "Nintendo Life"
+      ],
+      "reprises": 2,
+      "heures": 2.1,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/palworld-dev-open-to-switch-2-release-if-theres-ever-an-opportunity",
+          "titre": "Palworld Dev Open To Switch 2 Release, If There's Ever An \"Opportunity\""
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/palworld-switch-2-port-legal-battle-nintendo",
+          "titre": "Palworld studio still hopes to release the game on Switch 2 one day, despite being in a legal battle with Nintendo"
+        }
+      ]
+    },
     {
       "id": "rockstar-games-employees-have-locked-in-a-union-vote-next-mo",
       "titre": "Rockstar Games employees have locked in a union vote next month, and it'll take place over Grand Theft Auto 6's release window",
@@ -13,7 +37,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 14.1,
+      "heures": 19.8,
       "chaleur": 12,
       "liens": [
         {
@@ -34,6 +58,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "all-quickhand-s-request-treasure-locations-in-phantom-blade",
+      "titre": "All Quickhand's Request treasure locations in Phantom Blade Zero",
+      "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-quickhand-request-treasure-locations-relics/",
+      "sources": [
+        "PC Gamer",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 3.6,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-quickhand-request-treasure-locations-relics/",
+          "titre": "All Quickhand's Request treasure locations in Phantom Blade Zero"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/how-difficult-is-phantom-blade-zero",
+          "titre": "Feature: How Difficult Is Phantom Blade Zero?"
+        }
+      ]
+    },
+    {
       "id": "here-are-our-ps-plus-monthly-games-for-november-2026",
       "titre": "Here are our PS Plus monthly games for November 2026",
       "url": "https://www.eurogamer.net/playstation-plus-monthly-games-november-2026",
@@ -43,8 +91,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 7.5,
-      "chaleur": 10,
+      "heures": 13.1,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Eurogamer",
@@ -64,50 +112,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "epic-games-further-doubles-down-on-gen-ai-tools-for-fortnite",
-      "titre": "Epic Games further doubles down on gen-AI tools for Fortnite, Unreal Engine 6 and more: \"Our engineers are no longer writing the bulk of the code\"",
-      "url": "https://www.eurogamer.net/epic-genai-fortnite-unreal-engine-6-no-longer-writing-code",
+      "id": "taito-milestones-5-announced-for-switch-here-are-the-games-i",
+      "titre": "Taito Milestones 5 Announced For Switch, Here Are The Games Included",
+      "url": "https://www.nintendolife.com/news/2026/10/taito-milestones-5-announced-for-switch-here-are-the-games-included",
       "sources": [
-        "Eurogamer",
-        "Game Developer"
+        "Nintendo Life"
       ],
-      "reprises": 2,
-      "heures": 3.8,
-      "chaleur": 9,
+      "reprises": 1,
+      "heures": 3.1,
+      "chaleur": 8,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/epic-genai-fortnite-unreal-engine-6-no-longer-writing-code",
-          "titre": "Epic Games further doubles down on gen-AI tools for Fortnite, Unreal Engine 6 and more: \"Our engineers are no longer writing the bulk of the code\""
-        },
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/programming/unreal-engine-will-be-developed-with-ai-code-confirms-epic",
-          "titre": "Epic VP says AI code tools have stomped out decade-old 'non-deterministic cooking bugs' in Unreal Engine"
-        }
-      ]
-    },
-    {
-      "id": "valve-admits-steam-has-an-ai-slop-and-cloning-problem-but-sa",
-      "titre": "Valve admits Steam has an AI slop and cloning problem, but says 'we don't want to be gatekeepers telling developers which tools they should or shouldn't use'",
-      "url": "https://www.pcgamer.com/software/ai/valve-admits-steam-has-an-ai-slop-and-cloning-problem-but-says-we-dont-want-to-be-gatekeepers-telling-developers-which-tools-they-should-or-shouldnt-use/",
-      "sources": [
-        "Eurogamer",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 6.4,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/valve-admits-steam-has-an-ai-slop-and-cloning-problem-but-says-we-dont-want-to-be-gatekeepers-telling-developers-which-tools-they-should-or-shouldnt-use/",
-          "titre": "Valve admits Steam has an AI slop and cloning problem, but says 'we don't want to be gatekeepers telling developers which tools they should or shouldn't use'"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/steam-ai-clone-game-problem-valve-response",
-          "titre": "Valve addresses Steam's AI game cloning problem - by suggesting developers make their games less copyable"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/taito-milestones-5-announced-for-switch-here-are-the-games-included",
+          "titre": "Taito Milestones 5 Announced For Switch, Here Are The Games Included"
         }
       ]
     },
@@ -120,8 +138,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 7.0,
-      "chaleur": 9,
+      "heures": 12.6,
+      "chaleur": 8,
       "liens": [
         {
           "source": "Push Square",
@@ -136,26 +154,44 @@ const VEILLE = {
       ]
     },
     {
-      "id": "feature-how-difficult-is-phantom-blade-zero",
-      "titre": "Feature: How Difficult Is Phantom Blade Zero?",
-      "url": "https://www.pushsquare.com/features/how-difficult-is-phantom-blade-zero",
+      "id": "walmart-cancels-zelda-switch-2-pre-orders-a-day-before-relea",
+      "titre": "Walmart Cancels Zelda Switch 2 Pre-Orders A Day Before Release",
+      "url": "https://www.nintendolife.com/news/2026/10/walmart-cancels-zelda-switch-2-pre-orders-a-day-before-release",
       "sources": [
-        "Push Square",
-        "Rock Paper Shotgun"
+        "Nintendo Life"
       ],
-      "reprises": 2,
-      "heures": 5.5,
+      "reprises": 1,
+      "heures": 4.1,
       "chaleur": 7,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/how-difficult-is-phantom-blade-zero",
-          "titre": "Feature: How Difficult Is Phantom Blade Zero?"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/walmart-cancels-zelda-switch-2-pre-orders-a-day-before-release",
+          "titre": "Walmart Cancels Zelda Switch 2 Pre-Orders A Day Before Release"
+        }
+      ]
+    },
+    {
+      "id": "epic-games-further-doubles-down-on-gen-ai-tools-for-fortnite",
+      "titre": "Epic Games further doubles down on gen-AI tools for Fortnite, Unreal Engine 6 and more: \"Our engineers are no longer writing the bulk of the code\"",
+      "url": "https://www.eurogamer.net/epic-genai-fortnite-unreal-engine-6-no-longer-writing-code",
+      "sources": [
+        "Eurogamer",
+        "Game Developer"
+      ],
+      "reprises": 2,
+      "heures": 9.5,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/epic-genai-fortnite-unreal-engine-6-no-longer-writing-code",
+          "titre": "Epic Games further doubles down on gen-AI tools for Fortnite, Unreal Engine 6 and more: \"Our engineers are no longer writing the bulk of the code\""
         },
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/demanding-300gb-to-install-despite-its-actual-size-of-145gb-phantom-blade-zero-makes-me-question-what-a-gigabyte-is-worth",
-          "titre": "Demanding 300GB to install despite its actual size of 145GB, Phantom Blade Zero makes me question what a gigabyte is worth"
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/programming/unreal-engine-will-be-developed-with-ai-code-confirms-epic",
+          "titre": "Epic VP says AI code tools have stomped out decade-old 'non-deterministic cooking bugs' in Unreal Engine"
         }
       ]
     },
@@ -167,7 +203,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 11.6,
       "chaleur": 7,
       "liens": [
         {
@@ -185,7 +221,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 11.6,
       "chaleur": 7,
       "liens": [
         {
@@ -203,13 +239,67 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 11.9,
       "chaleur": 7,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/rumour-samsungs-new-chip-process-kicks-off-nintendo-switch-2-lite-speculation",
           "titre": "Rumour: Samsung's New Chip Process Kicks Off 'Nintendo Switch 2 Lite' Speculation"
+        }
+      ]
+    },
+    {
+      "id": "i-ve-spent-over-50-hours-in-phantom-blade-zero-here-are-my-t",
+      "titre": "I've spent over 50 hours in Phantom Blade Zero—here are my top 20 tips to conquer the Wulin",
+      "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-tips/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 3.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-tips/",
+          "titre": "I've spent over 50 hours in Phantom Blade Zero—here are my top 20 tips to conquer the Wulin"
+        }
+      ]
+    },
+    {
+      "id": "where-to-find-the-mandate-encampment-outer-gate-key-in-phant",
+      "titre": "Where to find the Mandate Encampment Outer Gate Key in Phantom Blade Zero",
+      "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-mandate-encampment-key-location/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 3.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-mandate-encampment-key-location/",
+          "titre": "Where to find the Mandate Encampment Outer Gate Key in Phantom Blade Zero"
+        }
+      ]
+    },
+    {
+      "id": "phantom-blade-zero-s-best-weapon-might-just-be-the-first-one",
+      "titre": "Phantom Blade Zero's best weapon might just be the first one you get",
+      "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-best-weapon-jagged-steel/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 3.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-best-weapon-jagged-steel/",
+          "titre": "Phantom Blade Zero's best weapon might just be the first one you get"
         }
       ]
     },
@@ -222,8 +312,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 6.5,
-      "chaleur": 7,
+      "heures": 12.1,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
@@ -238,48 +328,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "arc-raiders-executive-producer-was-a-bit-skeptical-about-add",
-      "titre": "Arc Raiders' executive producer was 'a bit skeptical' about adding PvE, but after the successful test the team needs to decide 'what we want to do going forward'",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-executive-producer-was-a-bit-skeptical-about-adding-pve-but-after-the-successful-test-the-team-needs-to-decide-what-we-want-to-do-going-forward/",
-      "sources": [
-        "Eurogamer",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 6.8,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-executive-producer-was-a-bit-skeptical-about-adding-pve-but-after-the-successful-test-the-team-needs-to-decide-what-we-want-to-do-going-forward/",
-          "titre": "Arc Raiders' executive producer was 'a bit skeptical' about adding PvE, but after the successful test the team needs to decide 'what we want to do going forward'"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/arc-raiders-pve-mode-embark-undecided",
-          "titre": "\"We need to understand what the need is here\" - Arc Raiders studio still undecided about the future of PvE despite a seemingly successful test"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-s-ps5-install-size-is-so-big-you-could-store-3500-copi",
-      "titre": "GTA 6's PS5 install size is so big you could store 3500 copies of Balatro inside",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-ps5-install-size-is-so-big-you-could-store-3500-copies-of-balatro-inside/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 8.1,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-ps5-install-size-is-so-big-you-could-store-3500-copies-of-balatro-inside/",
-          "titre": "GTA 6's PS5 install size is so big you could store 3500 copies of Balatro inside"
-        }
-      ]
-    },
-    {
       "id": "mass-effect-composer-wants-to-rescore-leaked-internal-me-uni",
       "titre": "Mass Effect composer wants to rescore leaked internal ME Universe trailer to \"properly represent my musical vision\"",
       "url": "https://www.eurogamer.net/mass-effect-universe-trailer-rescore-composer-n7-day",
@@ -288,8 +336,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 9.3,
-      "chaleur": 7,
+      "heures": 14.9,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
@@ -304,24 +352,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "palworld-studio-still-hopes-to-release-the-game-on-switch-2",
-      "titre": "Palworld studio still hopes to release the game on Switch 2 one day, despite being in a legal battle with Nintendo",
-      "url": "https://www.eurogamer.net/palworld-switch-2-port-legal-battle-nintendo",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 9.9,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/palworld-switch-2-port-legal-battle-nintendo",
-          "titre": "Palworld studio still hopes to release the game on Switch 2 one day, despite being in a legal battle with Nintendo"
-        }
-      ]
-    },
-    {
       "id": "morale-has-been-terrible-ea-workers-criticise-publisher-s-c",
       "titre": "\"Morale Has Been Terrible\" - EA Workers Criticise Publisher's Cost-Cutting After Latest Layoffs",
       "url": "https://www.nintendolife.com/news/2026/10/morale-has-been-terrible-ea-workers-criticise-publishers-cost-cutting-after-latest-layoffs",
@@ -329,8 +359,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.0,
-      "chaleur": 7,
+      "heures": 16.6,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -340,128 +370,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "this-classic-ps1-star-wars-game-just-got-a-neat-ps5-enhancem",
-      "titre": "This Classic PS1 Star Wars Game Just Got a Neat PS5 Enhancement",
-      "url": "https://www.pushsquare.com/news/2026/10/this-classic-ps1-star-wars-game-just-got-a-neat-ps5-enhancement",
+      "id": "a-leaked-trailer-for-transformers-reactivate-shows-off-the-o",
+      "titre": "A leaked trailer for Transformers: Reactivate shows off the only lick of gameplay we'll likely ever see of the cancelled co-op action game",
+      "url": "https://www.rockpapershotgun.com/a-leaked-trailer-for-transformers-reactivate-shows-off-the-only-lick-of-gameplay-well-likely-ever-see-of-the-cancelled-co-op-action-game",
       "sources": [
-        "Push Square"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.0,
+      "heures": 35.6,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/this-classic-ps1-star-wars-game-just-got-a-neat-ps5-enhancement",
-          "titre": "This Classic PS1 Star Wars Game Just Got a Neat PS5 Enhancement"
-        }
-      ]
-    },
-    {
-      "id": "can-you-name-the-horror-games-these-deeply-unpleasant-bathro",
-      "titre": "Can you name the horror games these deeply unpleasant bathrooms are from?",
-      "url": "https://www.pcgamer.com/games/horror/can-you-name-the-horror-game-these-deeply-unpleasant-bathrooms-are-from/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/can-you-name-the-horror-game-these-deeply-unpleasant-bathrooms-are-from/",
-          "titre": "Can you name the horror games these deeply unpleasant bathrooms are from?"
-        }
-      ]
-    },
-    {
-      "id": "epic-games-chief-tim-sweeney-claims-valve-has-held-gaming-ba",
-      "titre": "Epic Games chief Tim Sweeney claims 'Valve has held gaming back for years'",
-      "url": "https://www.pcgamer.com/software/platforms/epic-games-chief-tim-sweeney-claims-valve-has-held-gaming-back-for-years/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/platforms/epic-games-chief-tim-sweeney-claims-valve-has-held-gaming-back-for-years/",
-          "titre": "Epic Games chief Tim Sweeney claims 'Valve has held gaming back for years'"
-        }
-      ]
-    },
-    {
-      "id": "solo-leveling-arise-overdrive-brings-the-hit-webtoon-to-ps5",
-      "titre": "Solo Leveling: Arise Overdrive Brings the Hit Webtoon to PS5 Next Week",
-      "url": "https://www.pushsquare.com/news/2026/10/solo-leveling-arise-overdrive-brings-the-hit-webtoon-to-ps5-next-week",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/solo-leveling-arise-overdrive-brings-the-hit-webtoon-to-ps5-next-week",
-          "titre": "Solo Leveling: Arise Overdrive Brings the Hit Webtoon to PS5 Next Week"
-        }
-      ]
-    },
-    {
-      "id": "wow-forever-s-update-schedule-will-be-a-little-more-laid-bac",
-      "titre": "WoW: Forever's update schedule will be 'a little more laid back' than the main MMO",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-update-schedule-will-be-a-little-more-laid-back-than-the-main-mmo/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-update-schedule-will-be-a-little-more-laid-back-than-the-main-mmo/",
-          "titre": "WoW: Forever's update schedule will be 'a little more laid back' than the main MMO"
-        }
-      ]
-    },
-    {
-      "id": "alien-isolation-2-s-ps5-release-window-may-have-been-narrowe",
-      "titre": "Alien Isolation 2's PS5 Release Window May Have Been Narrowed",
-      "url": "https://www.pushsquare.com/news/2026/10/alien-isolation-2s-ps5-release-window-may-have-been-narrowed",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 4.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/alien-isolation-2s-ps5-release-window-may-have-been-narrowed",
-          "titre": "Alien Isolation 2's PS5 Release Window May Have Been Narrowed"
-        }
-      ]
-    },
-    {
-      "id": "witchbrook-is-delayed-again-now-set-for-release-in-2027",
-      "titre": "Witchbrook is delayed again, now set for release in 2027",
-      "url": "https://www.pcgamer.com/games/rpg/witchbrook-is-delayed-again-now-set-for-release-in-2027/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 5.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/witchbrook-is-delayed-again-now-set-for-release-in-2027/",
-          "titre": "Witchbrook is delayed again, now set for release in 2027"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/a-leaked-trailer-for-transformers-reactivate-shows-off-the-only-lick-of-gameplay-well-likely-ever-see-of-the-cancelled-co-op-action-game",
+          "titre": "A leaked trailer for Transformers: Reactivate shows off the only lick of gameplay we'll likely ever see of the cancelled co-op action game"
         }
       ]
     },
@@ -473,8 +395,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.0,
-      "chaleur": 6,
+      "heures": 13.6,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -491,13 +413,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.4,
-      "chaleur": 6,
+      "heures": 14.1,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/capcom-financial-report-onimusha-sales-pragmata-monster-hunter-wilds",
           "titre": "Capcom's golden streak continues as Onimusha and Pragmata sell well, but Monster Hunter Wilds conspicuously absent from financial report"
+        }
+      ]
+    },
+    {
+      "id": "valve-addresses-steam-s-ai-game-cloning-problem-by-suggestin",
+      "titre": "Valve addresses Steam's AI game cloning problem - by suggesting developers make their games less copyable",
+      "url": "https://www.eurogamer.net/steam-ai-clone-game-problem-valve-response",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 14.9,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/steam-ai-clone-game-problem-valve-response",
+          "titre": "Valve addresses Steam's AI game cloning problem - by suggesting developers make their games less copyable"
         }
       ]
     },
@@ -509,8 +449,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 9.4,
-      "chaleur": 6,
+      "heures": 15.0,
+      "chaleur": 5,
       "liens": [
         {
           "source": "VGC",
@@ -527,8 +467,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 10.0,
-      "chaleur": 6,
+      "heures": 15.6,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -545,8 +485,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 6,
+      "heures": 16.1,
+      "chaleur": 5,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -563,55 +503,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 11.0,
-      "chaleur": 6,
+      "heures": 16.6,
+      "chaleur": 5,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/valve-has-a-significant-number-working-on-steams-visibility-dilemma-but-says-it-wont-gatekeep-games-made-with-ai/",
           "titre": "Valve has ‘a significant number’ working on Steam’s visibility dilemma but says it won’t gatekeep games made with AI"
-        }
-      ]
-    },
-    {
-      "id": "warhorse-studios-hit-by-an-undetailed-cybersecurity-incident",
-      "titre": "Warhorse Studios hit by an undetailed cybersecurity incident",
-      "url": "https://www.gamedeveloper.com/programming/warhorse-studios-hit-by-an-undetailed-cybersecurity-incident",
-      "sources": [
-        "Game Developer",
-        "GamesIndustry.biz"
-      ],
-      "reprises": 2,
-      "heures": 28.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/programming/warhorse-studios-hit-by-an-undetailed-cybersecurity-incident",
-          "titre": "Warhorse Studios hit by an undetailed cybersecurity incident"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/warhorse-studios-hit-by-cyberattack-company-systems-and-data-affected",
-          "titre": "Warhorse Studios hit by cyberattack, company systems and data affected"
-        }
-      ]
-    },
-    {
-      "id": "a-leaked-trailer-for-transformers-reactivate-shows-off-the-o",
-      "titre": "A leaked trailer for Transformers: Reactivate shows off the only lick of gameplay we'll likely ever see of the cancelled co-op action game",
-      "url": "https://www.rockpapershotgun.com/a-leaked-trailer-for-transformers-reactivate-shows-off-the-only-lick-of-gameplay-well-likely-ever-see-of-the-cancelled-co-op-action-game",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 30.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/a-leaked-trailer-for-transformers-reactivate-shows-off-the-only-lick-of-gameplay-well-likely-ever-see-of-the-cancelled-co-op-action-game",
-          "titre": "A leaked trailer for Transformers: Reactivate shows off the only lick of gameplay we'll likely ever see of the cancelled co-op action game"
         }
       ]
     },
@@ -623,7 +521,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.2,
+      "heures": 17.9,
       "chaleur": 5,
       "liens": [
         {
@@ -641,7 +539,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.0,
+      "heures": 18.6,
       "chaleur": 5,
       "liens": [
         {
@@ -659,7 +557,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 19.1,
       "chaleur": 5,
       "liens": [
         {
@@ -677,7 +575,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 13.7,
+      "heures": 19.3,
       "chaleur": 5,
       "liens": [
         {
@@ -695,7 +593,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 15.7,
+      "heures": 21.3,
       "chaleur": 5,
       "liens": [
         {
@@ -713,31 +611,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.1,
+      "heures": 24.7,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/psa-minecraft-switch-2-now-available-switch-physical-owners-get-a-digital-discount",
           "titre": "PSA: Minecraft Switch 2 Now Available, Switch Physical Owners Get A Digital Discount"
-        }
-      ]
-    },
-    {
-      "id": "cyberpunk-s-edgerunners-2-update-isn-t-in-the-best-state-on",
-      "titre": "Cyberpunk's Edgerunners 2 Update Isn't In The Best State On Switch 2 Right Now",
-      "url": "https://www.nintendolife.com/news/2026/10/cyberpunks-edgerunners-2-update-isnt-in-the-best-state-on-switch-2-right-now",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 23.0,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/cyberpunks-edgerunners-2-update-isnt-in-the-best-state-on-switch-2-right-now",
-          "titre": "Cyberpunk's Edgerunners 2 Update Isn't In The Best State On Switch 2 Right Now"
         }
       ]
     },
@@ -749,7 +629,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 29.9,
+      "heures": 35.5,
       "chaleur": 5,
       "liens": [
         {
@@ -760,20 +640,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "community-zelda-s-almost-here-and-we-want-to-hear-your-ocari",
-      "titre": "Community: Zelda's Almost Here, And We Want To Hear Your Ocarina Of Time Memories",
-      "url": "https://www.nintendolife.com/news/2026/10/community-zeldas-almost-here-and-we-want-to-hear-your-ocarina-of-time-memories",
+      "id": "this-classic-ps1-star-wars-game-just-got-a-neat-ps5-enhancem",
+      "titre": "This Classic PS1 Star Wars Game Just Got a Neat PS5 Enhancement",
+      "url": "https://www.pushsquare.com/news/2026/10/this-classic-ps1-star-wars-game-just-got-a-neat-ps5-enhancement",
       "sources": [
-        "Nintendo Life"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 30.0,
-      "chaleur": 5,
+      "heures": 5.6,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/community-zeldas-almost-here-and-we-want-to-hear-your-ocarina-of-time-memories",
-          "titre": "Community: Zelda's Almost Here, And We Want To Hear Your Ocarina Of Time Memories"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/this-classic-ps1-star-wars-game-just-got-a-neat-ps5-enhancement",
+          "titre": "This Classic PS1 Star Wars Game Just Got a Neat PS5 Enhancement"
+        }
+      ]
+    },
+    {
+      "id": "solo-leveling-arise-overdrive-brings-the-hit-webtoon-to-ps5",
+      "titre": "Solo Leveling: Arise Overdrive Brings the Hit Webtoon to PS5 Next Week",
+      "url": "https://www.pushsquare.com/news/2026/10/solo-leveling-arise-overdrive-brings-the-hit-webtoon-to-ps5-next-week",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 9.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/solo-leveling-arise-overdrive-brings-the-hit-webtoon-to-ps5-next-week",
+          "titre": "Solo Leveling: Arise Overdrive Brings the Hit Webtoon to PS5 Next Week"
+        }
+      ]
+    },
+    {
+      "id": "alien-isolation-2-s-ps5-release-window-may-have-been-narrowe",
+      "titre": "Alien Isolation 2's PS5 Release Window May Have Been Narrowed",
+      "url": "https://www.pushsquare.com/news/2026/10/alien-isolation-2s-ps5-release-window-may-have-been-narrowed",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 9.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/alien-isolation-2s-ps5-release-window-may-have-been-narrowed",
+          "titre": "Alien Isolation 2's PS5 Release Window May Have Been Narrowed"
         }
       ]
     },
@@ -785,7 +701,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 10.1,
       "chaleur": 4,
       "liens": [
         {
@@ -803,7 +719,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
@@ -821,7 +737,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 10.4,
       "chaleur": 4,
       "liens": [
         {
@@ -839,7 +755,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 10.6,
       "chaleur": 4,
       "liens": [
         {
@@ -857,7 +773,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -875,7 +791,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 11.7,
       "chaleur": 4,
       "liens": [
         {
@@ -893,31 +809,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 11.7,
       "chaleur": 4,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/cyberpunk-2077-multiplayer-quests-cd-projekt-red",
           "titre": "Cyberpunk 2 might include multiplayer after CD Projekt Red scrapped the feature in Cyberpunk 2077"
-        }
-      ]
-    },
-    {
-      "id": "one-of-the-best-quests-in-baldur-s-gate-3-is-also-its-scarie",
-      "titre": "One of the best quests in Baldur's Gate 3 is also its scariest, and it doesn't have anything to do with ghosts or vampires",
-      "url": "https://www.pcgamer.com/games/baldurs-gate/one-of-the-best-quests-in-baldurs-gate-3-is-also-its-scariest-and-it-doesnt-have-anything-to-do-with-ghosts-or-vampires/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 6.3,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/baldurs-gate/one-of-the-best-quests-in-baldurs-gate-3-is-also-its-scariest-and-it-doesnt-have-anything-to-do-with-ghosts-or-vampires/",
-          "titre": "One of the best quests in Baldur's Gate 3 is also its scariest, and it doesn't have anything to do with ghosts or vampires"
         }
       ]
     },
@@ -929,31 +827,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.5,
-      "chaleur": 4,
+      "heures": 12.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/cyberpunk-trading-sim-probably-stolen-is-about-running-a-kiosk-in-a-space-station-full-of-gangs-megacorps-and-secret-rogue-cyborgs",
           "titre": "Cyberpunk trading sim Probably Stolen is about running a kiosk in a space station full of gangs, megacorps, and secret rogue cyborgs"
-        }
-      ]
-    },
-    {
-      "id": "backrooms-director-kane-parsons-is-currently-working-on-3-dr",
-      "titre": "Backrooms director Kane Parsons is currently working on '3 dream projects' while wearing a Valve hoodie—suspicious",
-      "url": "https://www.pcgamer.com/movies-tv/backrooms-director-kane-parsons-is-currently-working-on-3-dream-projects-while-wearing-a-valve-hoodie-suspicious/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 6.5,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/movies-tv/backrooms-director-kane-parsons-is-currently-working-on-3-dream-projects-while-wearing-a-valve-hoodie-suspicious/",
-          "titre": "Backrooms director Kane Parsons is currently working on '3 dream projects' while wearing a Valve hoodie—suspicious"
         }
       ]
     },
@@ -965,31 +845,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.8,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/dont-nod-insolvency-life-is-strange-aphelion",
           "titre": "\"This company has been driven into a wall for years\" - Life is Strange studio Don't Nod faces unrest while teetering on insolvency"
-        }
-      ]
-    },
-    {
-      "id": "if-you-love-horror-but-hate-actually-being-scared-i-ve-got-t",
-      "titre": "If you love horror but hate actually being scared, I've got the perfect Halloween game for you",
-      "url": "https://www.pcgamer.com/games/puzzle/if-you-love-horror-but-hate-actually-being-scared-ive-got-the-perfect-halloween-game-for-you/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 6.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/puzzle/if-you-love-horror-but-hate-actually-being-scared-ive-got-the-perfect-halloween-game-for-you/",
-          "titre": "If you love horror but hate actually being scared, I've got the perfect Halloween game for you"
         }
       ]
     },
@@ -1001,8 +863,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.0,
-      "chaleur": 4,
+      "heures": 12.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1019,8 +881,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.1,
-      "chaleur": 4,
+      "heures": 12.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1037,31 +899,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.5,
-      "chaleur": 4,
+      "heures": 13.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/play-a-full-cronos-ps5-prequel-in-new-usd10-lazarus-dlc-out-3rd-december",
           "titre": "Play a Full Cronos PS5 Prequel in New $10 Lazarus DLC, Out 3rd December"
-        }
-      ]
-    },
-    {
-      "id": "vote-now-8-games-remain-in-our-scariest-games-bracket",
-      "titre": "Vote now: 8 games remain in our scariest games bracket",
-      "url": "https://www.pcgamer.com/games/horror/vote-now-8-games-remain-in-our-scariest-games-bracket/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 7.5,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/vote-now-8-games-remain-in-our-scariest-games-bracket/",
-          "titre": "Vote now: 8 games remain in our scariest games bracket"
         }
       ]
     },
@@ -1073,8 +917,8 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 8.2,
-      "chaleur": 4,
+      "heures": 13.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Game Developer",
@@ -1091,31 +935,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.3,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/subnautica-2-dev-thinks-early-access-teams-should-worry-less-about-adding-features-that-are-very-ugly-incomplete-or-prototype",
           "titre": "Subnautica 2 dev thinks early access teams should worry less about adding features that are \"very ugly, incomplete, or prototype\""
-        }
-      ]
-    },
-    {
-      "id": "world-of-warcraft-was-meant-to-have-viable-levelling-gear-fr",
-      "titre": "World of Warcraft was meant to have viable levelling gear from professions way back in 2004, but the designers on raids and dungeons 'cheated a little bit'",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-was-meant-to-have-viable-levelling-gear-from-professions-way-back-in-2004-but-the-designers-on-raids-and-dungeons-cheated-a-little-bit/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 8.5,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-was-meant-to-have-viable-levelling-gear-from-professions-way-back-in-2004-but-the-designers-on-raids-and-dungeons-cheated-a-little-bit/",
-          "titre": "World of Warcraft was meant to have viable levelling gear from professions way back in 2004, but the designers on raids and dungeons 'cheated a little bit'"
         }
       ]
     },
@@ -1127,8 +953,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 8.7,
-      "chaleur": 4,
+      "heures": 14.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -1145,13 +971,175 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 9.0,
-      "chaleur": 4,
+      "heures": 14.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/sony-announces-new-prism-collection-of-transparent-ps5-dualsense-controllers-and-console-covers/",
           "titre": "Sony announces new Prism Collection of transparent PS5 DualSense controllers and console covers"
+        }
+      ]
+    },
+    {
+      "id": "ps5-revives-retro-transparent-hardware-with-3-new-gorgeous-a",
+      "titre": "PS5 Revives Retro Transparent Hardware with 3 New Gorgeous Accessory Colours",
+      "url": "https://www.pushsquare.com/news/2026/10/ps5-revives-retro-transparent-hardware-with-3-new-gorgeous-accessory-colours",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 14.6,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/ps5-revives-retro-transparent-hardware-with-3-new-gorgeous-accessory-colours",
+          "titre": "PS5 Revives Retro Transparent Hardware with 3 New Gorgeous Accessory Colours"
+        }
+      ]
+    },
+    {
+      "id": "how-to-run-an-indie-game-studio-part-5-better-meetings",
+      "titre": "How to run an indie game studio: Part 5, Better meetings",
+      "url": "https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-5-better-meetings",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 14.6,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-5-better-meetings",
+          "titre": "How to run an indie game studio: Part 5, Better meetings"
+        }
+      ]
+    },
+    {
+      "id": "valve-weighs-in-on-next-fest-ai-cloning-phenomenon",
+      "titre": "Valve weighs in on Next Fest AI cloning phenomenon",
+      "url": "https://www.gamedeveloper.com/pc/valve-addresses-steam-ai-cloning-problem",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 14.9,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/pc/valve-addresses-steam-ai-cloning-problem",
+          "titre": "Valve weighs in on Next Fest AI cloning phenomenon"
+        }
+      ]
+    },
+    {
+      "id": "wwe-2k26-s-final-ringside-pass-launches-today-adding-four-mo",
+      "titre": "WWE 2K26’s final Ringside Pass launches today, adding four more wrestlers including Earthquake and Typhoon",
+      "url": "https://www.videogameschronicle.com/news/wwe-2k26s-final-ringside-pass-launches-today-adding-four-more-wrestlers-including-earthquake-and-typhoon/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 15.6,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/wwe-2k26s-final-ringside-pass-launches-today-adding-four-more-wrestlers-including-earthquake-and-typhoon/",
+          "titre": "WWE 2K26’s final Ringside Pass launches today, adding four more wrestlers including Earthquake and Typhoon"
+        }
+      ]
+    },
+    {
+      "id": "as-no-man-s-sky-arrives-on-mobile-hello-games-celebrates-wit",
+      "titre": "As No Man's Sky arrives on mobile, Hello Games celebrates with a spooky update for all that includes delivery missions and \"seamless\" interstellar travel",
+      "url": "https://www.eurogamer.net/no-mans-sky-forsaken-update-release-ipad-iphone",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 15.6,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/no-mans-sky-forsaken-update-release-ipad-iphone",
+          "titre": "As No Man's Sky arrives on mobile, Hello Games celebrates with a spooky update for all that includes delivery missions and \"seamless\" interstellar travel"
+        }
+      ]
+    },
+    {
+      "id": "no-man-s-sky-adds-creepy-new-items-big-quality-of-life-chang",
+      "titre": "No Man's Sky Adds Creepy New Items, Big Quality-of-Life Changes in Latest Major Update",
+      "url": "https://www.pushsquare.com/news/2026/10/no-mans-sky-adds-creepy-new-items-big-quality-of-life-changes-in-latest-major-update",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 15.6,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/no-mans-sky-adds-creepy-new-items-big-quality-of-life-changes-in-latest-major-update",
+          "titre": "No Man's Sky Adds Creepy New Items, Big Quality-of-Life Changes in Latest Major Update"
+        }
+      ]
+    },
+    {
+      "id": "dawn-of-war-4-may-be-the-most-generous-rts-i-ve-played",
+      "titre": "Dawn of War 4 may be the most generous RTS I've played",
+      "url": "https://www.eurogamer.net/dawn-of-war-4-preview-most-generous-rts",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 15.7,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/dawn-of-war-4-preview-most-generous-rts",
+          "titre": "Dawn of War 4 may be the most generous RTS I've played"
+        }
+      ]
+    },
+    {
+      "id": "hot-wax-sets-fire-to-the-tetris-playbook-with-slow-burn-puzz",
+      "titre": "Hot Wax sets fire to the Tetris playbook with slow-burn puzzle mechanics and a dollop of eldritch menace",
+      "url": "https://www.rockpapershotgun.com/hot-wax-sets-fire-to-the-tetris-playbook-with-slow-burn-puzzle-mechanics-and-a-dollop-of-eldritch-menace",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 16.1,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/hot-wax-sets-fire-to-the-tetris-playbook-with-slow-burn-puzzle-mechanics-and-a-dollop-of-eldritch-menace",
+          "titre": "Hot Wax sets fire to the Tetris playbook with slow-burn puzzle mechanics and a dollop of eldritch menace"
+        }
+      ]
+    },
+    {
+      "id": "ps5-exclusive-astro-bot-outfit-revealed-for-rayman-remake",
+      "titre": "PS5 Exclusive Astro Bot Outfit Revealed for Rayman Remake",
+      "url": "https://www.pushsquare.com/news/2026/10/ps5-exclusive-astro-bot-outfit-revealed-for-rayman-remake",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 16.1,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/ps5-exclusive-astro-bot-outfit-revealed-for-rayman-remake",
+          "titre": "PS5 Exclusive Astro Bot Outfit Revealed for Rayman Remake"
         }
       ]
     }
