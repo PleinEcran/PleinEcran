@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "30/10/2026 à 19h13",
+  "collecte": "30/10/2026 à 23h38",
   "seuil": 14,
   "sujets": [
     {
@@ -16,8 +16,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 6,
-      "heures": 2.5,
-      "chaleur": 26,
+      "heures": 6.9,
+      "chaleur": 24,
       "liens": [
         {
           "source": "PC Gamer",
@@ -62,7 +62,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 6.9,
+      "heures": 11.3,
       "chaleur": 13,
       "liens": [
         {
@@ -88,66 +88,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "star-trek-online-players-are-holding-public-vigils-to-mourn",
-      "titre": "Star Trek Online players are holding public vigils to mourn Patrick Stewart",
-      "url": "https://www.pcgamer.com/games/mmo/star-trek-online-players-are-holding-public-vigils-to-mourn-patrick-stewart/",
-      "sources": [
-        "Eurogamer",
-        "Nintendo Life",
-        "PC Gamer"
-      ],
-      "reprises": 3,
-      "heures": 0.3,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/mmo/star-trek-online-players-are-holding-public-vigils-to-mourn-patrick-stewart/",
-          "titre": "Star Trek Online players are holding public vigils to mourn Patrick Stewart"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/patrick-stewart-dies-oblivion-uriel-septim-castlevania",
-          "titre": "Games industry honours beloved actor Sir Patrick Stewart, as the legendary Star Trek and X-Men actor passes away"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/patrick-stewart-the-legendary-star-trek-and-x-men-actor-has-passed-away",
-          "titre": "Patrick Stewart, The Legendary Star Trek And X-Men Actor, Has Passed Away"
-        }
-      ]
-    },
-    {
-      "id": "maddy-makes-games-removes-celeste-and-towerfall-from-xbox-in",
-      "titre": "Maddy Makes Games removes Celeste and TowerFall from Xbox in support of pro-Palestinian BDS boycott",
-      "url": "https://www.gamesindustry.biz/maddy-makes-games-removes-celeste-and-towerfall-from-xbox-in-support-of-pro-palestinian-bds-boycott",
-      "sources": [
-        "Eurogamer",
-        "GamesIndustry.biz",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 3,
-      "heures": 7.1,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/maddy-makes-games-removes-celeste-and-towerfall-from-xbox-in-support-of-pro-palestinian-bds-boycott",
-          "titre": "Maddy Makes Games removes Celeste and TowerFall from Xbox in support of pro-Palestinian BDS boycott"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/towerfall-celeste-xbox-boycott-delisted",
-          "titre": "Celeste and TowerFall dev explains why both games were suddenly delisted from Xbox"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/celeste-and-towerfall-have-been-removed-from-the-xbox-store-in-a-move-to-support-the-bds-boycott-against-microsoft",
-          "titre": "Celeste and TowerFall have been removed from the Xbox store in a move to \"support the BDS boycott\" against Microsoft"
-        }
-      ]
-    },
-    {
       "id": "bethesda-reportedly-revealing-the-elder-scrolls-6-next-month",
       "titre": "Bethesda reportedly revealing The Elder Scrolls 6 next month, and we may know what its subtitle is going to be",
       "url": "https://www.eurogamer.net/elder-scrolls-6-reportedly-revealed-november",
@@ -157,8 +97,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 3,
-      "heures": 8.3,
-      "chaleur": 12,
+      "heures": 12.8,
+      "chaleur": 11,
       "liens": [
         {
           "source": "Eurogamer",
@@ -178,6 +118,60 @@ const VEILLE = {
       ]
     },
     {
+      "id": "star-trek-online-players-are-holding-public-vigils-to-mourn",
+      "titre": "Star Trek Online players are holding public vigils to mourn Patrick Stewart",
+      "url": "https://www.pcgamer.com/games/mmo/star-trek-online-players-are-holding-public-vigils-to-mourn-patrick-stewart/",
+      "sources": [
+        "Eurogamer",
+        "Nintendo Life",
+        "PC Gamer"
+      ],
+      "reprises": 3,
+      "heures": 4.8,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/mmo/star-trek-online-players-are-holding-public-vigils-to-mourn-patrick-stewart/",
+          "titre": "Star Trek Online players are holding public vigils to mourn Patrick Stewart"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/patrick-stewart-dies-oblivion-uriel-septim-castlevania",
+          "titre": "Games industry honours beloved actor Sir Patrick Stewart, as the legendary Star Trek and X-Men actor passes away"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/patrick-stewart-the-legendary-star-trek-and-x-men-actor-has-passed-away",
+          "titre": "Patrick Stewart, The Legendary Star Trek And X-Men Actor, Has Passed Away"
+        }
+      ]
+    },
+    {
+      "id": "the-duskbloods-switch-2-release-has-been-delayed-to-2027",
+      "titre": "The Duskbloods Switch 2 Release Has Been Delayed To 2027",
+      "url": "https://www.nintendolife.com/news/2026/10/the-duskbloods-switch-2-release-has-been-delayed-to-2027",
+      "sources": [
+        "Eurogamer",
+        "Nintendo Life"
+      ],
+      "reprises": 2,
+      "heures": 32.9,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/the-duskbloods-switch-2-release-has-been-delayed-to-2027",
+          "titre": "The Duskbloods Switch 2 Release Has Been Delayed To 2027"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/fromsofts-switch-2-exclusive-the-duskbloods-has-been-delayed-into-2027",
+          "titre": "FromSoft's Switch 2 exclusive, The Duskbloods, has been delayed into 2027"
+        }
+      ]
+    },
+    {
       "id": "fanatical-s-mystery-chest-bundle-offers-up-to-25-mystery-ste",
       "titre": "Fanatical’s Mystery Chest Bundle offers up to 25 mystery Steam keys for $17.49, with a chance to get Phantom Blade Zero",
       "url": "https://www.videogameschronicle.com/news/fanaticals-mystery-chest-bundle-offers-up-to-25-mystery-steam-keys-for-17-49-with-a-chance-to-get-phantom-blade-zero/",
@@ -186,8 +180,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 0.5,
-      "chaleur": 11,
+      "heures": 4.9,
+      "chaleur": 9,
       "liens": [
         {
           "source": "VGC",
@@ -210,8 +204,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 0.7,
-      "chaleur": 11,
+      "heures": 5.1,
+      "chaleur": 9,
       "liens": [
         {
           "source": "PC Gamer",
@@ -226,26 +220,44 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-duskbloods-switch-2-release-has-been-delayed-to-2027",
-      "titre": "The Duskbloods Switch 2 Release Has Been Delayed To 2027",
-      "url": "https://www.nintendolife.com/news/2026/10/the-duskbloods-switch-2-release-has-been-delayed-to-2027",
+      "id": "maddy-makes-games-removes-celeste-and-towerfall-from-xbox-in",
+      "titre": "Maddy Makes Games removes Celeste and TowerFall from Xbox in support of pro-Palestinian BDS boycott",
+      "url": "https://www.gamesindustry.biz/maddy-makes-games-removes-celeste-and-towerfall-from-xbox-in-support-of-pro-palestinian-bds-boycott",
       "sources": [
         "Eurogamer",
-        "Nintendo Life"
+        "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 28.5,
-      "chaleur": 10,
+      "heures": 11.5,
+      "chaleur": 9,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/the-duskbloods-switch-2-release-has-been-delayed-to-2027",
-          "titre": "The Duskbloods Switch 2 Release Has Been Delayed To 2027"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/maddy-makes-games-removes-celeste-and-towerfall-from-xbox-in-support-of-pro-palestinian-bds-boycott",
+          "titre": "Maddy Makes Games removes Celeste and TowerFall from Xbox in support of pro-Palestinian BDS boycott"
         },
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/fromsofts-switch-2-exclusive-the-duskbloods-has-been-delayed-into-2027",
-          "titre": "FromSoft's Switch 2 exclusive, The Duskbloods, has been delayed into 2027"
+          "url": "https://www.eurogamer.net/towerfall-celeste-xbox-boycott-delisted",
+          "titre": "Celeste and TowerFall dev explains why both games were suddenly delisted from Xbox"
+        }
+      ]
+    },
+    {
+      "id": "new-games-in-2027-fable-final-fantasy-7-and-maybe-gta-6-on-p",
+      "titre": "New games in 2027: Fable, Final Fantasy 7, and (maybe) GTA 6 on PC",
+      "url": "https://www.pcgamer.com/games/new-pc-games-2027/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/new-pc-games-2027/",
+          "titre": "New games in 2027: Fable, Final Fantasy 7, and (maybe) GTA 6 on PC"
         }
       ]
     },
@@ -257,8 +269,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.2,
-      "chaleur": 9,
+      "heures": 5.6,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -276,8 +288,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 1.5,
-      "chaleur": 9,
+      "heures": 5.9,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
@@ -300,8 +312,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 2.9,
-      "chaleur": 9,
+      "heures": 7.3,
+      "chaleur": 7,
       "liens": [
         {
           "source": "VGC",
@@ -323,49 +335,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 9,
+      "heures": 8.2,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-souped-up-red-dead-redemption-2-style-morality-system-will-scale-from-professional-to-irredeemable-so-players-can-decide-what-kind-of-criminal-they-want-to-be/",
           "titre": "GTA 6's souped-up Red Dead Redemption 2-style morality system will scale from 'Professional' to 'Irredeemable' so players can decide what kind of criminal they want to be"
-        }
-      ]
-    },
-    {
-      "id": "digital-foundry-delivers-its-tech-verdict-on-call-of-duty-mo",
-      "titre": "Digital Foundry Delivers Its Tech Verdict On Call Of Duty: Modern Warfare 4 On Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/10/digital-foundry-delivers-its-tech-verdict-on-call-of-duty-modern-warfare-4-on-switch-2",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 0.5,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/digital-foundry-delivers-its-tech-verdict-on-call-of-duty-modern-warfare-4-on-switch-2",
-          "titre": "Digital Foundry Delivers Its Tech Verdict On Call Of Duty: Modern Warfare 4 On Switch 2"
-        }
-      ]
-    },
-    {
-      "id": "wooshy-wuxia-actioner-phantom-blade-zero-is-sharp-enough-on",
-      "titre": "Wooshy wuxia actioner Phantom Blade Zero is sharp enough on the Steam Machine, if blunted on the Steam Deck",
-      "url": "https://www.rockpapershotgun.com/phantom-blade-zero-steam-machine-steam-deck",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 1.5,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/phantom-blade-zero-steam-machine-steam-deck",
-          "titre": "Wooshy wuxia actioner Phantom Blade Zero is sharp enough on the Steam Machine, if blunted on the Steam Deck"
         }
       ]
     },
@@ -377,7 +353,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 8.6,
       "chaleur": 7,
       "liens": [
         {
@@ -395,7 +371,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 8.7,
       "chaleur": 7,
       "liens": [
         {
@@ -414,7 +390,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 6.6,
+      "heures": 11.1,
       "chaleur": 7,
       "liens": [
         {
@@ -438,7 +414,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 7.2,
+      "heures": 11.6,
       "chaleur": 7,
       "liens": [
         {
@@ -454,254 +430,110 @@ const VEILLE = {
       ]
     },
     {
-      "id": "blizzard-hints-at-console-ports-for-world-of-warcraft-foreve",
-      "titre": "Blizzard hints at console ports for World of Warcraft: Forever - \"Play it wherever you want and, at some point, on whatever you want\"",
-      "url": "https://www.eurogamer.net/blizzard-console-port-hints-world-of-warcraft-forever",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 0.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/blizzard-console-port-hints-world-of-warcraft-forever",
-          "titre": "Blizzard hints at console ports for World of Warcraft: Forever - \"Play it wherever you want and, at some point, on whatever you want\""
-        }
-      ]
-    },
-    {
-      "id": "update-anthropic-orders-ai-tool-claude-to-stop-remaking-vide",
-      "titre": "Update: Anthropic orders AI tool Claude to stop remaking video games",
-      "url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 0.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
-          "titre": "Update: Anthropic orders AI tool Claude to stop remaking video games"
-        }
-      ]
-    },
-    {
-      "id": "roblox-growth-slumps-but-the-company-is-betting-big-on-ai-to",
-      "titre": "Roblox growth slumps, but the company is betting big on AI to compensate",
-      "url": "https://www.gamedeveloper.com/business/roblox-growth-slumps-but-the-company-is-betting-big-on-ai-to-compensate",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 0.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/roblox-growth-slumps-but-the-company-is-betting-big-on-ai-to-compensate",
-          "titre": "Roblox growth slumps, but the company is betting big on AI to compensate"
-        }
-      ]
-    },
-    {
-      "id": "dark-souls-2-and-dark-souls-3-s-online-servers-are-temporari",
-      "titre": "Dark Souls 2 and Dark Souls 3's online servers are temporarily going dark, FromSoftware announces",
-      "url": "https://www.eurogamer.net/dark-souls-servers-temporarily-shutting-down-fromsoftware",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 1.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/dark-souls-servers-temporarily-shutting-down-fromsoftware",
-          "titre": "Dark Souls 2 and Dark Souls 3's online servers are temporarily going dark, FromSoftware announces"
-        }
-      ]
-    },
-    {
-      "id": "this-brutal-fallout-4-horror-mod-turns-the-commonwealth-into",
-      "titre": "This brutal Fallout 4 horror mod turns the Commonwealth into Silent Hill",
-      "url": "https://www.pcgamer.com/games/fallout/this-brutal-fallout-4-horror-mod-turns-the-commonwealth-into-silent-hill/",
+      "id": "ai-powered-game-development-is-leading-to-an-explosion-of-co",
+      "titre": "AI-powered game development is 'leading to an explosion of content,' Roblox says, as it brags about 70,000 games published on its platform in the last 5 months alone",
+      "url": "https://www.pcgamer.com/software/ai/ai-powered-game-development-is-leading-to-an-explosion-of-content-roblox-says-as-it-brags-about-70-000-games-published-on-its-platform-in-the-last-5-months-alone/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.6,
+      "heures": 3.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fallout/this-brutal-fallout-4-horror-mod-turns-the-commonwealth-into-silent-hill/",
-          "titre": "This brutal Fallout 4 horror mod turns the Commonwealth into Silent Hill"
+          "url": "https://www.pcgamer.com/software/ai/ai-powered-game-development-is-leading-to-an-explosion-of-content-roblox-says-as-it-brags-about-70-000-games-published-on-its-platform-in-the-last-5-months-alone/",
+          "titre": "AI-powered game development is 'leading to an explosion of content,' Roblox says, as it brags about 70,000 games published on its platform in the last 5 months alone"
         }
       ]
     },
     {
-      "id": "pok-mon-and-fender-are-teaming-up-a-rocking-guitar-collabora",
-      "titre": "Pokémon And Fender Are Teaming Up A Rocking Guitar Collaboration",
-      "url": "https://www.nintendolife.com/news/2026/10/pokemon-and-fender-are-teaming-up-a-rocking-guitar-collaboration",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 1.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/pokemon-and-fender-are-teaming-up-a-rocking-guitar-collaboration",
-          "titre": "Pokémon And Fender Are Teaming Up A Rocking Guitar Collaboration"
-        }
-      ]
-    },
-    {
-      "id": "we-act-as-if-halloween-is-ours-the-best-way-to-spend-spooky",
-      "titre": "'We act as if Halloween is ours': The best way to spend spooky season is within The Outlast Trials' Sinyala Facility",
-      "url": "https://www.pcgamer.com/games/horror/we-act-as-if-halloween-is-ours-the-best-way-to-spend-spooky-season-is-within-the-outlast-trials-sinyala-facility/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/we-act-as-if-halloween-is-ours-the-best-way-to-spend-spooky-season-is-within-the-outlast-trials-sinyala-facility/",
-          "titre": "'We act as if Halloween is ours': The best way to spend spooky season is within The Outlast Trials' Sinyala Facility"
-        }
-      ]
-    },
-    {
-      "id": "edifier-g5-max-wireless-gaming-headset-review",
-      "titre": "Edifier G5 Max wireless gaming headset review",
-      "url": "https://www.pcgamer.com/hardware/gaming-headsets/edifier-g5-max-review/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-headsets/edifier-g5-max-review/",
-          "titre": "Edifier G5 Max wireless gaming headset review"
-        }
-      ]
-    },
-    {
-      "id": "sam-altman-argues-that-it-s-bad-you-want-dram-in-your-comput",
-      "titre": "Sam Altman argues that it's bad you want DRAM in your computer and not a data center, actually",
-      "url": "https://www.pcgamer.com/software/ai/sam-altman-argues-that-its-bad-you-want-dram-in-your-computer-and-not-a-data-center-actually/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/sam-altman-argues-that-its-bad-you-want-dram-in-your-computer-and-not-a-data-center-actually/",
-          "titre": "Sam Altman argues that it's bad you want DRAM in your computer and not a data center, actually"
-        }
-      ]
-    },
-    {
-      "id": "new-call-of-duty-to-remove-appalling-footage-of-real-life-tr",
-      "titre": "New Call of Duty to Remove 'Appalling' Footage of Real-Life Tragedy",
-      "url": "https://www.pushsquare.com/news/2026/10/new-call-of-duty-to-remove-appalling-footage-of-real-life-tragedy",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/new-call-of-duty-to-remove-appalling-footage-of-real-life-tragedy",
-          "titre": "New Call of Duty to Remove 'Appalling' Footage of Real-Life Tragedy"
-        }
-      ]
-    },
-    {
-      "id": "john-romero-s-canceled-game-finds-a-new-publisher-amidst-an",
-      "titre": "John Romero's canceled game finds a new publisher amidst an overall scope change",
-      "url": "https://www.gamedeveloper.com/business/john-romero-canceled-game-finds-a-new-publisher-amidst-an-overall-scope-change",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/john-romero-canceled-game-finds-a-new-publisher-amidst-an-overall-scope-change",
-          "titre": "John Romero's canceled game finds a new publisher amidst an overall scope change"
-        }
-      ]
-    },
-    {
-      "id": "splendid-junji-ito-inspired-rpg-world-of-horror-is-now-20-mo",
-      "titre": "Splendid Junji Ito-inspired RPG World of Horror is now 20% more horrible, thanks to a free PC update with extra gods, locations, and wounds",
-      "url": "https://www.rockpapershotgun.com/splendid-junji-ito-inspired-rpg-world-of-horror-is-now-20-more-horrible-thanks-to-a-free-pc-update-with-extra-gods-locations-and-wounds",
+      "id": "warframe-s-fantasy-pilled-sister-soulframe-finally-goes-open",
+      "titre": "Warframe's fantasy-pilled sister Soulframe finally goes open to all this November, though Digital Extremes are \"nervous\" about certain changes",
+      "url": "https://www.rockpapershotgun.com/warframes-fantasy-pilled-sister-soulframe-finally-goes-open-to-all-this-november-though-digital-extremes-are-nervous-about-certain-changes",
       "sources": [
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 3.7,
+      "heures": 3.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/splendid-junji-ito-inspired-rpg-world-of-horror-is-now-20-more-horrible-thanks-to-a-free-pc-update-with-extra-gods-locations-and-wounds",
-          "titre": "Splendid Junji Ito-inspired RPG World of Horror is now 20% more horrible, thanks to a free PC update with extra gods, locations, and wounds"
+          "url": "https://www.rockpapershotgun.com/warframes-fantasy-pilled-sister-soulframe-finally-goes-open-to-all-this-november-though-digital-extremes-are-nervous-about-certain-changes",
+          "titre": "Warframe's fantasy-pilled sister Soulframe finally goes open to all this November, though Digital Extremes are \"nervous\" about certain changes"
         }
       ]
     },
     {
-      "id": "screw-grand-theft-auto-6-s-supercars-i-m-here-for-leonida-s",
-      "titre": "Screw Grand Theft Auto 6's supercars, I'm here for Leonida's robust public transportation system",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/screw-grand-theft-auto-6s-supercars-im-here-for-leonidas-robust-public-transportation-system/",
+      "id": "soulframe-opens-up-for-everyone-next-week-as-the-warframe-de",
+      "titre": "Soulframe opens up for everyone next week as the Warframe devs prepare the fantasy action RPG for one of its 'biggest, most violent' updates ever next month",
+      "url": "https://www.pcgamer.com/games/rpg/soulframe-opens-up-for-everyone-today-as-the-warframe-devs-prepare-the-fantasy-action-rpg-for-one-of-its-biggest-most-violent-updates-ever-next-month/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 3.9,
+      "heures": 3.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/screw-grand-theft-auto-6s-supercars-im-here-for-leonidas-robust-public-transportation-system/",
-          "titre": "Screw Grand Theft Auto 6's supercars, I'm here for Leonida's robust public transportation system"
+          "url": "https://www.pcgamer.com/games/rpg/soulframe-opens-up-for-everyone-today-as-the-warframe-devs-prepare-the-fantasy-action-rpg-for-one-of-its-biggest-most-violent-updates-ever-next-month/",
+          "titre": "Soulframe opens up for everyone next week as the Warframe devs prepare the fantasy action RPG for one of its 'biggest, most violent' updates ever next month"
         }
       ]
     },
     {
-      "id": "8-bit-horror-tenebris-somnia-mixes-weird-live-action-horror",
-      "titre": "8-bit horror Tenebris Somnia mixes weird live-action horror with a retro 2D adventure to impressive and unsettling effect",
-      "url": "https://www.eurogamer.net/tenebris-somnia-horror-game-fmv-live-action-faith",
+      "id": "goty-hopeful-mina-the-hollower-bought-the-studio-financial-s",
+      "titre": "GOTY hopeful Mina the Hollower bought the studio financial stability \"for now,\" while the Shovel Knight devs work on a new 3D game",
+      "url": "https://www.eurogamer.net/shovel-knight-3d-mina-financial-stability",
       "sources": [
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.0,
+      "heures": 3.7,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/tenebris-somnia-horror-game-fmv-live-action-faith",
-          "titre": "8-bit horror Tenebris Somnia mixes weird live-action horror with a retro 2D adventure to impressive and unsettling effect"
+          "url": "https://www.eurogamer.net/shovel-knight-3d-mina-financial-stability",
+          "titre": "GOTY hopeful Mina the Hollower bought the studio financial stability \"for now,\" while the Shovel Knight devs work on a new 3D game"
+        }
+      ]
+    },
+    {
+      "id": "digital-foundry-delivers-its-tech-verdict-on-call-of-duty-mo",
+      "titre": "Digital Foundry Delivers Its Tech Verdict On Call Of Duty: Modern Warfare 4 On Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/10/digital-foundry-delivers-its-tech-verdict-on-call-of-duty-modern-warfare-4-on-switch-2",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/digital-foundry-delivers-its-tech-verdict-on-call-of-duty-modern-warfare-4-on-switch-2",
+          "titre": "Digital Foundry Delivers Its Tech Verdict On Call Of Duty: Modern Warfare 4 On Switch 2"
+        }
+      ]
+    },
+    {
+      "id": "wooshy-wuxia-actioner-phantom-blade-zero-is-sharp-enough-on",
+      "titre": "Wooshy wuxia actioner Phantom Blade Zero is sharp enough on the Steam Machine, if blunted on the Steam Deck",
+      "url": "https://www.rockpapershotgun.com/phantom-blade-zero-steam-machine-steam-deck",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/phantom-blade-zero-steam-machine-steam-deck",
+          "titre": "Wooshy wuxia actioner Phantom Blade Zero is sharp enough on the Steam Machine, if blunted on the Steam Deck"
         }
       ]
     },
@@ -713,7 +545,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 8.8,
       "chaleur": 6,
       "liens": [
         {
@@ -731,7 +563,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 9.9,
       "chaleur": 6,
       "liens": [
         {
@@ -749,7 +581,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.3,
+      "heures": 20.7,
       "chaleur": 6,
       "liens": [
         {
@@ -768,7 +600,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 23.7,
+      "heures": 28.1,
       "chaleur": 6,
       "liens": [
         {
@@ -791,31 +623,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.7,
+      "heures": 32.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/japanese-charts-nintendo-switch-sports-resort-and-final-fantasy-resonance-go-head-to-head",
           "titre": "Japanese Charts: Nintendo Switch Sports Resort And Final Fantasy Resonance Go Head-To-Head"
-        }
-      ]
-    },
-    {
-      "id": "a-cold-dead-place-that-s-slowly-decaying-ea-employees-revea",
-      "titre": "\"A cold dead place that's slowly decaying\" - EA employees reveal a culture of secrecy and terrible morale following layoffs",
-      "url": "https://www.eurogamer.net/inside-ea-layoffs-report-bioware-morale-secrecy",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 29.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/inside-ea-layoffs-report-bioware-morale-secrecy",
-          "titre": "\"A cold dead place that's slowly decaying\" - EA employees reveal a culture of secrecy and terrible morale following layoffs"
         }
       ]
     },
@@ -827,7 +641,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 24.2,
+      "heures": 28.6,
       "chaleur": 5,
       "liens": [
         {
@@ -845,7 +659,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 25.1,
+      "heures": 29.5,
       "chaleur": 5,
       "liens": [
         {
@@ -863,7 +677,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 25.6,
+      "heures": 30.1,
       "chaleur": 5,
       "liens": [
         {
@@ -874,20 +688,254 @@ const VEILLE = {
       ]
     },
     {
-      "id": "xbox-first-party-content-partially-offsets-2-drop-in-q1-reve",
-      "titre": "Xbox first-party content partially offsets 2% drop in Q1 revenue, hardware decreases 14%",
-      "url": "https://www.gamesindustry.biz/xbox-first-party-content-partially-offsets-2-drop-in-q1-revenue-hardware-decreases-14",
+      "id": "blizzard-hints-at-console-ports-for-world-of-warcraft-foreve",
+      "titre": "Blizzard hints at console ports for World of Warcraft: Forever - \"Play it wherever you want and, at some point, on whatever you want\"",
+      "url": "https://www.eurogamer.net/blizzard-console-port-hints-world-of-warcraft-forever",
       "sources": [
-        "GamesIndustry.biz"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 32.3,
-      "chaleur": 5,
+      "heures": 4.5,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/xbox-first-party-content-partially-offsets-2-drop-in-q1-revenue-hardware-decreases-14",
-          "titre": "Xbox first-party content partially offsets 2% drop in Q1 revenue, hardware decreases 14%"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/blizzard-console-port-hints-world-of-warcraft-forever",
+          "titre": "Blizzard hints at console ports for World of Warcraft: Forever - \"Play it wherever you want and, at some point, on whatever you want\""
+        }
+      ]
+    },
+    {
+      "id": "anthropic-orders-ai-tool-claude-to-stop-remaking-video-games",
+      "titre": "Anthropic orders AI tool Claude to stop remaking video games",
+      "url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 4.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
+          "titre": "Anthropic orders AI tool Claude to stop remaking video games"
+        }
+      ]
+    },
+    {
+      "id": "roblox-growth-slumps-but-the-company-is-betting-big-on-ai-to",
+      "titre": "Roblox growth slumps, but the company is betting big on AI to compensate",
+      "url": "https://www.gamedeveloper.com/business/roblox-growth-slumps-but-the-company-is-betting-big-on-ai-to-compensate",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 5.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/roblox-growth-slumps-but-the-company-is-betting-big-on-ai-to-compensate",
+          "titre": "Roblox growth slumps, but the company is betting big on AI to compensate"
+        }
+      ]
+    },
+    {
+      "id": "dark-souls-2-and-dark-souls-3-s-online-servers-are-temporari",
+      "titre": "Dark Souls 2 and Dark Souls 3's online servers are temporarily going dark, FromSoftware announces",
+      "url": "https://www.eurogamer.net/dark-souls-servers-temporarily-shutting-down-fromsoftware",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/dark-souls-servers-temporarily-shutting-down-fromsoftware",
+          "titre": "Dark Souls 2 and Dark Souls 3's online servers are temporarily going dark, FromSoftware announces"
+        }
+      ]
+    },
+    {
+      "id": "this-brutal-fallout-4-horror-mod-turns-the-commonwealth-into",
+      "titre": "This brutal Fallout 4 horror mod turns the Commonwealth into Silent Hill",
+      "url": "https://www.pcgamer.com/games/fallout/this-brutal-fallout-4-horror-mod-turns-the-commonwealth-into-silent-hill/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fallout/this-brutal-fallout-4-horror-mod-turns-the-commonwealth-into-silent-hill/",
+          "titre": "This brutal Fallout 4 horror mod turns the Commonwealth into Silent Hill"
+        }
+      ]
+    },
+    {
+      "id": "pok-mon-and-fender-are-teaming-up-a-rocking-guitar-collabora",
+      "titre": "Pokémon And Fender Are Teaming Up A Rocking Guitar Collaboration",
+      "url": "https://www.nintendolife.com/news/2026/10/pokemon-and-fender-are-teaming-up-a-rocking-guitar-collaboration",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 6.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/pokemon-and-fender-are-teaming-up-a-rocking-guitar-collaboration",
+          "titre": "Pokémon And Fender Are Teaming Up A Rocking Guitar Collaboration"
+        }
+      ]
+    },
+    {
+      "id": "we-act-as-if-halloween-is-ours-the-best-way-to-spend-spooky",
+      "titre": "'We act as if Halloween is ours': The best way to spend spooky season is within The Outlast Trials' Sinyala Facility",
+      "url": "https://www.pcgamer.com/games/horror/we-act-as-if-halloween-is-ours-the-best-way-to-spend-spooky-season-is-within-the-outlast-trials-sinyala-facility/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/we-act-as-if-halloween-is-ours-the-best-way-to-spend-spooky-season-is-within-the-outlast-trials-sinyala-facility/",
+          "titre": "'We act as if Halloween is ours': The best way to spend spooky season is within The Outlast Trials' Sinyala Facility"
+        }
+      ]
+    },
+    {
+      "id": "edifier-g5-max-wireless-gaming-headset-review",
+      "titre": "Edifier G5 Max wireless gaming headset review",
+      "url": "https://www.pcgamer.com/hardware/gaming-headsets/edifier-g5-max-review/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-headsets/edifier-g5-max-review/",
+          "titre": "Edifier G5 Max wireless gaming headset review"
+        }
+      ]
+    },
+    {
+      "id": "sam-altman-argues-that-it-s-bad-you-want-dram-in-your-comput",
+      "titre": "Sam Altman argues that it's bad you want DRAM in your computer and not a data center, actually",
+      "url": "https://www.pcgamer.com/software/ai/sam-altman-argues-that-its-bad-you-want-dram-in-your-computer-and-not-a-data-center-actually/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/sam-altman-argues-that-its-bad-you-want-dram-in-your-computer-and-not-a-data-center-actually/",
+          "titre": "Sam Altman argues that it's bad you want DRAM in your computer and not a data center, actually"
+        }
+      ]
+    },
+    {
+      "id": "new-call-of-duty-to-remove-appalling-footage-of-real-life-tr",
+      "titre": "New Call of Duty to Remove 'Appalling' Footage of Real-Life Tragedy",
+      "url": "https://www.pushsquare.com/news/2026/10/new-call-of-duty-to-remove-appalling-footage-of-real-life-tragedy",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 7.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/new-call-of-duty-to-remove-appalling-footage-of-real-life-tragedy",
+          "titre": "New Call of Duty to Remove 'Appalling' Footage of Real-Life Tragedy"
+        }
+      ]
+    },
+    {
+      "id": "john-romero-s-canceled-game-finds-a-new-publisher-amidst-an",
+      "titre": "John Romero's canceled game finds a new publisher amidst an overall scope change",
+      "url": "https://www.gamedeveloper.com/business/john-romero-canceled-game-finds-a-new-publisher-amidst-an-overall-scope-change",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 8.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/john-romero-canceled-game-finds-a-new-publisher-amidst-an-overall-scope-change",
+          "titre": "John Romero's canceled game finds a new publisher amidst an overall scope change"
+        }
+      ]
+    },
+    {
+      "id": "splendid-junji-ito-inspired-rpg-world-of-horror-is-now-20-mo",
+      "titre": "Splendid Junji Ito-inspired RPG World of Horror is now 20% more horrible, thanks to a free PC update with extra gods, locations, and wounds",
+      "url": "https://www.rockpapershotgun.com/splendid-junji-ito-inspired-rpg-world-of-horror-is-now-20-more-horrible-thanks-to-a-free-pc-update-with-extra-gods-locations-and-wounds",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 8.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/splendid-junji-ito-inspired-rpg-world-of-horror-is-now-20-more-horrible-thanks-to-a-free-pc-update-with-extra-gods-locations-and-wounds",
+          "titre": "Splendid Junji Ito-inspired RPG World of Horror is now 20% more horrible, thanks to a free PC update with extra gods, locations, and wounds"
+        }
+      ]
+    },
+    {
+      "id": "screw-grand-theft-auto-6-s-supercars-i-m-here-for-leonida-s",
+      "titre": "Screw Grand Theft Auto 6's supercars, I'm here for Leonida's robust public transportation system",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/screw-grand-theft-auto-6s-supercars-im-here-for-leonidas-robust-public-transportation-system/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 8.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/screw-grand-theft-auto-6s-supercars-im-here-for-leonidas-robust-public-transportation-system/",
+          "titre": "Screw Grand Theft Auto 6's supercars, I'm here for Leonida's robust public transportation system"
+        }
+      ]
+    },
+    {
+      "id": "8-bit-horror-tenebris-somnia-mixes-weird-live-action-horror",
+      "titre": "8-bit horror Tenebris Somnia mixes weird live-action horror with a retro 2D adventure to impressive and unsettling effect",
+      "url": "https://www.eurogamer.net/tenebris-somnia-horror-game-fmv-live-action-faith",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 8.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/tenebris-somnia-horror-game-fmv-live-action-faith",
+          "titre": "8-bit horror Tenebris Somnia mixes weird live-action horror with a retro 2D adventure to impressive and unsettling effect"
         }
       ]
     },
@@ -899,7 +947,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 8.6,
       "chaleur": 4,
       "liens": [
         {
@@ -917,7 +965,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 9.0,
       "chaleur": 4,
       "liens": [
         {
@@ -935,31 +983,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/director-leaves-forza-playground-games-merge-microsoft",
           "titre": "Forza director, who'd been with Turn 10 for 27 years leaves Microsoft, following studios merger with Playground Games"
-        }
-      ]
-    },
-    {
-      "id": "intel-giving-us-a-reason-to-be-excited-for-nova-lake-we-ve-h",
-      "titre": "Intel giving us a reason to be excited for Nova Lake: 'We've had a bit of a hole in our portfolio for high-end desktop, Nova Lake filled in that gap'",
-      "url": "https://www.pcgamer.com/hardware/processors/intel-giving-us-a-reason-to-be-excited-for-nova-lake-weve-had-a-bit-of-a-hole-in-our-portfolio-for-high-end-desktop-nova-lake-filled-in-that-gap/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 5.0,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/processors/intel-giving-us-a-reason-to-be-excited-for-nova-lake-weve-had-a-bit-of-a-hole-in-our-portfolio-for-high-end-desktop-nova-lake-filled-in-that-gap/",
-          "titre": "Intel giving us a reason to be excited for Nova Lake: 'We've had a bit of a hole in our portfolio for high-end desktop, Nova Lake filled in that gap'"
         }
       ]
     },
@@ -971,7 +1001,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.2,
+      "heures": 9.6,
       "chaleur": 4,
       "liens": [
         {
@@ -989,7 +1019,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 5.2,
+      "heures": 9.7,
       "chaleur": 4,
       "liens": [
         {
@@ -1007,7 +1037,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 9.7,
       "chaleur": 4,
       "liens": [
         {
@@ -1025,7 +1055,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 10.1,
       "chaleur": 4,
       "liens": [
         {
@@ -1043,7 +1073,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 10.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1061,31 +1091,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 10.7,
       "chaleur": 4,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/helldivers-2-boss-can-absolutely-see-making-a-game-parody-of-generative-ai-but-it-would-need-to-be-quirky-rather-than-doom-laden",
           "titre": "Helldivers 2 boss can \"absolutely see\" making a game parody of generative AI, but it would need to be \"quirky\" rather than \"doom-laden\""
-        }
-      ]
-    },
-    {
-      "id": "intel-shifts-panther-lake-capacity-to-data-center-chips-whil",
-      "titre": "Intel shifts Panther Lake capacity to data center chips while the memory crisis wreaks havoc on PC market; still sold out of budget Wildcat Lake chips",
-      "url": "https://www.pcgamer.com/hardware/processors/intel-shifts-panther-lake-capacity-to-data-center-chips-while-the-memory-crisis-wreaks-havoc-on-pc-market-still-sold-out-of-budget-wildcat-lake-chips/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 6.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/processors/intel-shifts-panther-lake-capacity-to-data-center-chips-while-the-memory-crisis-wreaks-havoc-on-pc-market-still-sold-out-of-budget-wildcat-lake-chips/",
-          "titre": "Intel shifts Panther Lake capacity to data center chips while the memory crisis wreaks havoc on PC market; still sold out of budget Wildcat Lake chips"
         }
       ]
     },
@@ -1097,31 +1109,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.7,
+      "heures": 11.1,
       "chaleur": 4,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/the-wolf-among-us-remastered-hit-with-ps5-upgrade-pricing-issues",
           "titre": "The Wolf Among Us Remastered Hit with PS5 Upgrade Pricing Issues"
-        }
-      ]
-    },
-    {
-      "id": "kane-parsons-believes-his-interpretation-of-the-backrooms-is",
-      "titre": "Kane Parsons believes his interpretation of the backrooms is 'minor cultural shorthand' for the abstract space—just look at South Park's recent episode",
-      "url": "https://www.pcgamer.com/movies-tv/kane-parsons-believes-his-interpretation-of-the-backrooms-is-minor-cultural-shorthand-for-the-abstract-space-just-look-at-south-parks-recent-episode/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 7.1,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/movies-tv/kane-parsons-believes-his-interpretation-of-the-backrooms-is-minor-cultural-shorthand-for-the-abstract-space-just-look-at-south-parks-recent-episode/",
-          "titre": "Kane Parsons believes his interpretation of the backrooms is 'minor cultural shorthand' for the abstract space—just look at South Park's recent episode"
         }
       ]
     },
@@ -1133,7 +1127,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 7.2,
+      "heures": 11.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1151,8 +1145,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.2,
-      "chaleur": 4,
+      "heures": 12.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1169,8 +1163,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 8.5,
-      "chaleur": 4,
+      "heures": 12.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -1187,8 +1181,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.7,
-      "chaleur": 4,
+      "heures": 13.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1205,8 +1199,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.2,
-      "chaleur": 4,
+      "heures": 13.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1216,7 +1210,5 @@ const VEILLE = {
       ]
     }
   ],
-  "alertes": [
-    "EA reportedly canned BioWare and Mass Effect 5 to make a new Star Wars: Battlefront instead"
-  ]
+  "alertes": []
 };
