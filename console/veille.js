@@ -1,8 +1,38 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "29/10/2026 à 23h54",
+  "collecte": "30/10/2026 à 05h35",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "bethesda-is-reportedly-ready-to-reveal-the-official-title-of",
+      "titre": "Bethesda Is Reportedly Ready To Reveal The Official Title Of The Elder Scrolls VI",
+      "url": "https://www.nintendolife.com/news/2026/10/bethesda-is-reportedly-ready-to-reveal-the-official-title-of-the-elder-scrolls-vi",
+      "sources": [
+        "Nintendo Life",
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 1.0,
+      "chaleur": 16,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/bethesda-is-reportedly-ready-to-reveal-the-official-title-of-the-elder-scrolls-vi",
+          "titre": "Bethesda Is Reportedly Ready To Reveal The Official Title Of The Elder Scrolls VI"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/rumour-the-elder-scrolls-6-reveal-as-soon-as-next-month-named-sentinel",
+          "titre": "Rumour: The Elder Scrolls 6 Reveal as Soon as Next Month, Named Sentinel"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/xbox-is-reportedly-set-to-officially-name-the-elder-scrolls-6-sentinel-as-soon-as-next-month/",
+          "titre": "Xbox is reportedly set to officially name The Elder Scrolls 6: Sentinel as soon as next month"
+        }
+      ]
+    },
     {
       "id": "the-duskbloods-switch-2-release-has-been-delayed-to-2027",
       "titre": "The Duskbloods Switch 2 Release Has Been Delayed To 2027",
@@ -13,8 +43,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 9.2,
-      "chaleur": 14,
+      "heures": 14.8,
+      "chaleur": 13,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -34,54 +64,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "phantom-blade-zero-kicks-off-its-launch-with-a-day-one-patch",
-      "titre": "Phantom Blade Zero kicks off its launch with a day one patch that offers improvements to ray tracing and some bug fixes to boot",
-      "url": "https://www.rockpapershotgun.com/phantom-blade-zero-kicks-off-its-launch-with-a-day-one-patch-that-offers-improvements-to-ray-tracing-and-some-bug-fixes-to-boot",
-      "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 2.4,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/phantom-blade-zero-kicks-off-its-launch-with-a-day-one-patch-that-offers-improvements-to-ray-tracing-and-some-bug-fixes-to-boot",
-          "titre": "Phantom Blade Zero kicks off its launch with a day one patch that offers improvements to ray tracing and some bug fixes to boot"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/phantom-blade-zero-steam-launch-1-million-sales",
-          "titre": "More Chinese success as Phantom Blade Zero enjoys a big launch and becomes one of Steam's most played games"
-        }
-      ]
-    },
-    {
-      "id": "rumour-the-elder-scrolls-6-reveal-as-soon-as-next-month-name",
-      "titre": "Rumour: The Elder Scrolls 6 Reveal as Soon as Next Month, Named Sentinel",
-      "url": "https://www.pushsquare.com/news/2026/10/rumour-the-elder-scrolls-6-reveal-as-soon-as-next-month-named-sentinel",
-      "sources": [
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 7.2,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/rumour-the-elder-scrolls-6-reveal-as-soon-as-next-month-named-sentinel",
-          "titre": "Rumour: The Elder Scrolls 6 Reveal as Soon as Next Month, Named Sentinel"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/xbox-is-reportedly-set-to-officially-name-the-elder-scrolls-6-sentinel-as-soon-as-next-month/",
-          "titre": "Xbox is reportedly set to officially name The Elder Scrolls 6: Sentinel as soon as next month"
-        }
-      ]
-    },
-    {
       "id": "destiny-2-content-unvaulting-won-t-take-place-until-2028",
       "titre": "Destiny 2 Content Unvaulting Won't Take Place Until 2028",
       "url": "https://www.pushsquare.com/news/2026/10/destiny-2-content-unvaulting-wont-take-place-until-2028",
@@ -91,7 +73,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 4.4,
+      "heures": 10.1,
       "chaleur": 10,
       "liens": [
         {
@@ -112,50 +94,44 @@ const VEILLE = {
       ]
     },
     {
-      "id": "crimson-desert-s-huge-dlc-charting-the-unknown-out-now-on-ps",
-      "titre": "Crimson Desert's Huge DLC, Charting the Unknown, Out Now on PS5",
-      "url": "https://www.pushsquare.com/news/2026/10/crimson-deserts-huge-dlc-charting-the-unknown-out-now-on-ps5",
+      "id": "poll-so-have-you-got-the-zelda-40th-anniversary-switch-2",
+      "titre": "Poll: So, Have You Got The Zelda 40th Anniversary Switch 2?",
+      "url": "https://www.nintendolife.com/news/2026/10/poll-so-have-you-got-the-zelda-40th-anniversary-switch-2",
       "sources": [
-        "PC Gamer",
-        "Push Square"
+        "Nintendo Life"
       ],
-      "reprises": 2,
-      "heures": 1.9,
+      "reprises": 1,
+      "heures": 2.7,
       "chaleur": 9,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/crimson-deserts-huge-dlc-charting-the-unknown-out-now-on-ps5",
-          "titre": "Crimson Desert's Huge DLC, Charting the Unknown, Out Now on PS5"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/crimson-desert-how-to-start-charting-the-unknown-dlc/",
-          "titre": "How to start the Charting the Unknown DLC in Crimson Desert"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/poll-so-have-you-got-the-zelda-40th-anniversary-switch-2",
+          "titre": "Poll: So, Have You Got The Zelda 40th Anniversary Switch 2?"
         }
       ]
     },
     {
-      "id": "call-of-duty-modern-warfare-4-intro-cinematic-is-not-intende",
-      "titre": "Call of Duty: Modern Warfare 4 intro cinematic is \"not intended to reference or trivialise\" real-world South Korean crowd crush, Activision say amid reported backlash",
-      "url": "https://www.rockpapershotgun.com/call-of-duty-modern-warfare-4-intro-cinematic-is-not-intended-to-reference-or-trivialise-real-world-south-korean-crowd-crush-activision-say-amid-reported-backlash",
+      "id": "phantom-blade-zero-kicks-off-its-launch-with-a-day-one-patch",
+      "titre": "Phantom Blade Zero kicks off its launch with a day one patch that offers improvements to ray tracing and some bug fixes to boot",
+      "url": "https://www.rockpapershotgun.com/phantom-blade-zero-kicks-off-its-launch-with-a-day-one-patch-that-offers-improvements-to-ray-tracing-and-some-bug-fixes-to-boot",
       "sources": [
         "Eurogamer",
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 11.3,
+      "heures": 8.1,
       "chaleur": 9,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/call-of-duty-modern-warfare-4-intro-cinematic-is-not-intended-to-reference-or-trivialise-real-world-south-korean-crowd-crush-activision-say-amid-reported-backlash",
-          "titre": "Call of Duty: Modern Warfare 4 intro cinematic is \"not intended to reference or trivialise\" real-world South Korean crowd crush, Activision say amid reported backlash"
+          "url": "https://www.rockpapershotgun.com/phantom-blade-zero-kicks-off-its-launch-with-a-day-one-patch-that-offers-improvements-to-ray-tracing-and-some-bug-fixes-to-boot",
+          "titre": "Phantom Blade Zero kicks off its launch with a day one patch that offers improvements to ray tracing and some bug fixes to boot"
         },
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/modern-warfare-4-south-korean-crowd-crush-footage",
-          "titre": "Modern Warfare 4 faces backlash after real footage of South Korean crowd crush tragedy was discovered in game's opening moments"
+          "url": "https://www.eurogamer.net/phantom-blade-zero-steam-launch-1-million-sales",
+          "titre": "More Chinese success as Phantom Blade Zero enjoys a big launch and becomes one of Steam's most played games"
         }
       ]
     },
@@ -168,7 +144,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 13.9,
+      "heures": 19.6,
       "chaleur": 9,
       "liens": [
         {
@@ -184,6 +160,78 @@ const VEILLE = {
       ]
     },
     {
+      "id": "call-of-duty-modern-warfare-4-intro-cinematic-is-not-intende",
+      "titre": "Call of Duty: Modern Warfare 4 intro cinematic is \"not intended to reference or trivialise\" real-world South Korean crowd crush, Activision say amid reported backlash",
+      "url": "https://www.rockpapershotgun.com/call-of-duty-modern-warfare-4-intro-cinematic-is-not-intended-to-reference-or-trivialise-real-world-south-korean-crowd-crush-activision-say-amid-reported-backlash",
+      "sources": [
+        "Eurogamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 17.0,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/call-of-duty-modern-warfare-4-intro-cinematic-is-not-intended-to-reference-or-trivialise-real-world-south-korean-crowd-crush-activision-say-amid-reported-backlash",
+          "titre": "Call of Duty: Modern Warfare 4 intro cinematic is \"not intended to reference or trivialise\" real-world South Korean crowd crush, Activision say amid reported backlash"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/modern-warfare-4-south-korean-crowd-crush-footage",
+          "titre": "Modern Warfare 4 faces backlash after real footage of South Korean crowd crush tragedy was discovered in game's opening moments"
+        }
+      ]
+    },
+    {
+      "id": "patrick-stewart-the-legendary-star-trek-and-x-men-actor-has",
+      "titre": "Patrick Stewart, The Legendary Star Trek And X-Men Actor, Has Passed Away",
+      "url": "https://www.nintendolife.com/news/2026/10/patrick-stewart-the-legendary-star-trek-and-x-men-actor-has-passed-away",
+      "sources": [
+        "Nintendo Life",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 4.1,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/patrick-stewart-the-legendary-star-trek-and-x-men-actor-has-passed-away",
+          "titre": "Patrick Stewart, The Legendary Star Trek And X-Men Actor, Has Passed Away"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/movies-tv/patrick-stewart-star-trek-and-shakespeare-legend-has-died/",
+          "titre": "Patrick Stewart, Star Trek and Shakespeare legend, has died"
+        }
+      ]
+    },
+    {
+      "id": "crimson-desert-s-huge-dlc-charting-the-unknown-out-now-on-ps",
+      "titre": "Crimson Desert's Huge DLC, Charting the Unknown, Out Now on PS5",
+      "url": "https://www.pushsquare.com/news/2026/10/crimson-deserts-huge-dlc-charting-the-unknown-out-now-on-ps5",
+      "sources": [
+        "PC Gamer",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 7.6,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/crimson-deserts-huge-dlc-charting-the-unknown-out-now-on-ps5",
+          "titre": "Crimson Desert's Huge DLC, Charting the Unknown, Out Now on PS5"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/crimson-desert-how-to-start-charting-the-unknown-dlc/",
+          "titre": "How to start the Charting the Unknown DLC in Crimson Desert"
+        }
+      ]
+    },
+    {
       "id": "modern-warfare-4-s-newest-map-is-actually-older-than-the-gen",
       "titre": "Modern Warfare 4's newest map is actually older than the Gen Z & Alpha teens who will play it",
       "url": "https://www.pcgamer.com/games/call-of-duty/modern-warfare-4s-newest-map-is-actually-older-than-the-gen-z-and-alpha-teens-who-will-play-it/",
@@ -192,7 +240,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 4.3,
+      "heures": 10.0,
       "chaleur": 7,
       "liens": [
         {
@@ -216,7 +264,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 4.7,
+      "heures": 10.4,
       "chaleur": 7,
       "liens": [
         {
@@ -232,290 +280,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "guide-last-chance-to-grab-these-65-switch-1-2-games-in-ninte",
-      "titre": "Guide: Last Chance To Grab These 65 Switch 1 & 2 Games In Nintendo's 'Screaming Deals' Sale (North America)",
-      "url": "https://www.nintendolife.com/guides/last-chance-to-grab-these-65-switch-1-and-2-games-in-nintendos-screaming-deals-sale-north-america",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 6.9,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/guides/last-chance-to-grab-these-65-switch-1-and-2-games-in-nintendos-screaming-deals-sale-north-america",
-          "titre": "Guide: Last Chance To Grab These 65 Switch 1 & 2 Games In Nintendo's 'Screaming Deals' Sale (North America)"
-        }
-      ]
-    },
-    {
-      "id": "don-t-worry-gta-6-s-cars-can-drive-for-ages-before-their-fue",
-      "titre": "Don't worry, GTA 6's cars can drive for ages before their fuel tanks need refilling, leaving me wondering why this motor management's been added at all",
-      "url": "https://www.rockpapershotgun.com/dont-worry-gta-6s-cars-can-drive-for-ages-before-their-fuel-tanks-need-refilling-leaving-me-wondering-why-this-motor-managements-been-added-at-all",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 7.7,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/dont-worry-gta-6s-cars-can-drive-for-ages-before-their-fuel-tanks-need-refilling-leaving-me-wondering-why-this-motor-managements-been-added-at-all",
-          "titre": "Don't worry, GTA 6's cars can drive for ages before their fuel tanks need refilling, leaving me wondering why this motor management's been added at all"
-        }
-      ]
-    },
-    {
-      "id": "japanese-charts-nintendo-switch-sports-resort-and-final-fant",
-      "titre": "Japanese Charts: Nintendo Switch Sports Resort And Final Fantasy Resonance Go Head-To-Head",
-      "url": "https://www.nintendolife.com/news/2026/10/japanese-charts-nintendo-switch-sports-resort-and-final-fantasy-resonance-go-head-to-head",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 8.4,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/japanese-charts-nintendo-switch-sports-resort-and-final-fantasy-resonance-go-head-to-head",
-          "titre": "Japanese Charts: Nintendo Switch Sports Resort And Final Fantasy Resonance Go Head-To-Head"
-        }
-      ]
-    },
-    {
-      "id": "i-m-calling-it-gta-6-is-officially-an-immersive-sim-based-on",
-      "titre": "I'm calling it: GTA 6 is officially an immersive sim, based on what you can do with NPCs",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/im-calling-it-gta-6-is-officially-an-immersive-sim-based-on-what-you-can-do-with-npcs/",
+      "id": "reddit-will-switch-to-a-logged-in-only-experience",
+      "titre": "Reddit will switch to a 'logged-in only experience'",
+      "url": "https://www.pcgamer.com/software/ai/reddit-will-switch-to-a-logged-in-only-experience/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.5,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/im-calling-it-gta-6-is-officially-an-immersive-sim-based-on-what-you-can-do-with-npcs/",
-          "titre": "I'm calling it: GTA 6 is officially an immersive sim, based on what you can do with NPCs"
-        }
-      ]
-    },
-    {
-      "id": "a-cold-dead-place-that-s-slowly-decaying-ea-employees-revea",
-      "titre": "\"A cold dead place that's slowly decaying\" - EA employees reveal a culture of secrecy and terrible morale following layoffs",
-      "url": "https://www.eurogamer.net/inside-ea-layoffs-report-bioware-morale-secrecy",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 9.8,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/inside-ea-layoffs-report-bioware-morale-secrecy",
-          "titre": "\"A cold dead place that's slowly decaying\" - EA employees reveal a culture of secrecy and terrible morale following layoffs"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-uk-is-selling-a-switch-2-bundle-including-mario-kar",
-      "titre": "Nintendo UK is selling a Switch 2 bundle including Mario Kart World, a camera and a MicroSD card for £134 off",
-      "url": "https://www.videogameschronicle.com/news/nintendo-uk-is-selling-a-switch-2-bundle-including-mario-kart-world-a-camera-and-a-microsd-card-for-134-off/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/nintendo-uk-is-selling-a-switch-2-bundle-including-mario-kart-world-a-camera-and-a-microsd-card-for-134-off/",
-          "titre": "Nintendo UK is selling a Switch 2 bundle including Mario Kart World, a camera and a MicroSD card for £134 off"
-        }
-      ]
-    },
-    {
-      "id": "with-a-cracking-new-tactical-feature-and-dedicated-ui-strike",
-      "titre": "With a cracking new tactical feature and dedicated UI \"strike team\", Football Manager 27 is a huge step back towards FM's best form",
-      "url": "https://www.eurogamer.net/football-manager-27-preview-interview-tactical-effectiveness-ui-strike-team",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/football-manager-27-preview-interview-tactical-effectiveness-ui-strike-team",
-          "titre": "With a cracking new tactical feature and dedicated UI \"strike team\", Football Manager 27 is a huge step back towards FM's best form"
-        }
-      ]
-    },
-    {
-      "id": "feature-song-of-time-every-zelda-ocarina-of-time-release-fro",
-      "titre": "Feature: Song Of Time - Every Zelda: Ocarina Of Time Release, From N64 To Switch 2",
-      "url": "https://www.nintendolife.com/features/song-of-time-every-zelda-ocarina-of-time-release-from-n64-to-switch-2",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/song-of-time-every-zelda-ocarina-of-time-release-from-n64-to-switch-2",
-          "titre": "Feature: Song Of Time - Every Zelda: Ocarina Of Time Release, From N64 To Switch 2"
-        }
-      ]
-    },
-    {
-      "id": "gallery-here-s-a-closer-look-at-the-zelda-40th-anniversary-s",
-      "titre": "Gallery: Here's A Closer Look At The Zelda 40th Anniversary Special Edition Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/10/gallery-heres-a-closer-look-at-the-zelda-40th-anniversary-special-edition-switch-2",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/gallery-heres-a-closer-look-at-the-zelda-40th-anniversary-special-edition-switch-2",
-          "titre": "Gallery: Here's A Closer Look At The Zelda 40th Anniversary Special Edition Switch 2"
-        }
-      ]
-    },
-    {
-      "id": "gta-inspired-ps5-open-world-goes-full-tycoon-in-upcoming-upd",
-      "titre": "GTA-Inspired PS5 Open World Goes Full Tycoon in Upcoming Update",
-      "url": "https://www.pushsquare.com/news/2026/10/gta-inspired-ps5-open-world-goes-full-tycoon-in-upcoming-update",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/gta-inspired-ps5-open-world-goes-full-tycoon-in-upcoming-update",
-          "titre": "GTA-Inspired PS5 Open World Goes Full Tycoon in Upcoming Update"
-        }
-      ]
-    },
-    {
-      "id": "mouthwashing-is-getting-a-feature-film-adaptation-from-sony",
-      "titre": "Mouthwashing is getting a feature film adaptation from Sony and I need all of you to be normal about it whenever it comes out",
-      "url": "https://www.rockpapershotgun.com/mouthwashing-is-getting-a-feature-film-adaptation-from-sony-and-i-need-all-of-you-to-be-normal-about-it-whenever-it-comes-out",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 1.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/mouthwashing-is-getting-a-feature-film-adaptation-from-sony-and-i-need-all-of-you-to-be-normal-about-it-whenever-it-comes-out",
-          "titre": "Mouthwashing is getting a feature film adaptation from Sony and I need all of you to be normal about it whenever it comes out"
-        }
-      ]
-    },
-    {
-      "id": "none-of-these-people-have-ever-made-a-game-bioware-co-found",
-      "titre": "'None of these people have ever made a game,' BioWare co-founder Greg Zeschuk says of game industry executives: 'They just don't know how it works'",
-      "url": "https://www.pcgamer.com/gaming-industry/none-of-these-people-have-ever-made-a-game-bioware-co-founder-greg-zeschuk-says-of-game-industry-executives-they-just-dont-know-how-it-works/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.1,
+      "heures": 5.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/none-of-these-people-have-ever-made-a-game-bioware-co-founder-greg-zeschuk-says-of-game-industry-executives-they-just-dont-know-how-it-works/",
-          "titre": "'None of these people have ever made a game,' BioWare co-founder Greg Zeschuk says of game industry executives: 'They just don't know how it works'"
-        }
-      ]
-    },
-    {
-      "id": "patrick-stewart-star-trek-and-shakespeare-legend-has-died",
-      "titre": "Patrick Stewart, Star Trek and Shakespeare legend, has died",
-      "url": "https://www.pcgamer.com/movies-tv/patrick-stewart-star-trek-and-shakespeare-legend-has-died/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/movies-tv/patrick-stewart-star-trek-and-shakespeare-legend-has-died/",
-          "titre": "Patrick Stewart, Star Trek and Shakespeare legend, has died"
-        }
-      ]
-    },
-    {
-      "id": "we-didn-t-want-the-brooding-hero-out-for-revenge-how-quiet",
-      "titre": "\"We didn't want the brooding hero out for revenge\": How quiet lulls and a bird-sketching lead make Control Resonant a more introspective kind of action game",
-      "url": "https://www.rockpapershotgun.com/we-didnt-want-the-brooding-hero-out-for-revenge-how-quiet-lulls-and-a-bird-sketching-lead-make-control-resonant-a-more-introspective-kind-of-action-game",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/we-didnt-want-the-brooding-hero-out-for-revenge-how-quiet-lulls-and-a-bird-sketching-lead-make-control-resonant-a-more-introspective-kind-of-action-game",
-          "titre": "\"We didn't want the brooding hero out for revenge\": How quiet lulls and a bird-sketching lead make Control Resonant a more introspective kind of action game"
-        }
-      ]
-    },
-    {
-      "id": "no-new-assassin-s-creed-remakes-in-the-works-at-ubisoft",
-      "titre": "No New Assassin's Creed Remakes in the Works at Ubisoft",
-      "url": "https://www.pushsquare.com/news/2026/10/no-new-assassins-creed-remakes-in-the-works-at-ubisoft",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/no-new-assassins-creed-remakes-in-the-works-at-ubisoft",
-          "titre": "No New Assassin's Creed Remakes in the Works at Ubisoft"
-        }
-      ]
-    },
-    {
-      "id": "after-the-rough-start-that-was-last-year-s-entry-football-ma",
-      "titre": "After the rough start that was last year's entry, Football Manager 27 is looking to bring you in with a few free days of play before the game's even out",
-      "url": "https://www.rockpapershotgun.com/after-the-rough-start-that-was-last-years-entry-football-manager-27-is-looking-to-bring-you-in-with-a-few-free-days-of-play-before-the-games-even-out",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 4.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/after-the-rough-start-that-was-last-years-entry-football-manager-27-is-looking-to-bring-you-in-with-a-few-free-days-of-play-before-the-games-even-out",
-          "titre": "After the rough start that was last year's entry, Football Manager 27 is looking to bring you in with a few free days of play before the game's even out"
+          "url": "https://www.pcgamer.com/software/ai/reddit-will-switch-to-a-logged-in-only-experience/",
+          "titre": "Reddit will switch to a 'logged-in only experience'"
         }
       ]
     },
@@ -527,7 +305,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 10.6,
       "chaleur": 6,
       "liens": [
         {
@@ -545,7 +323,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 11.4,
       "chaleur": 6,
       "liens": [
         {
@@ -563,7 +341,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 11.8,
       "chaleur": 6,
       "liens": [
         {
@@ -574,92 +352,164 @@ const VEILLE = {
       ]
     },
     {
-      "id": "xbox-ceo-says-console-demand-is-outstripping-supply-but-sale",
-      "titre": "Xbox CEO says console demand is outstripping supply—but sales continue to drop",
-      "url": "https://www.gamedeveloper.com/console/xbox-ceo-says-console-demand-is-outstripping-supply-as-sales-continue-to-drop",
+      "id": "guide-last-chance-to-grab-these-65-switch-1-2-games-in-ninte",
+      "titre": "Guide: Last Chance To Grab These 65 Switch 1 & 2 Games In Nintendo's 'Screaming Deals' Sale (North America)",
+      "url": "https://www.nintendolife.com/guides/last-chance-to-grab-these-65-switch-1-and-2-games-in-nintendos-screaming-deals-sale-north-america",
       "sources": [
-        "Game Developer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 12.6,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/console/xbox-ceo-says-console-demand-is-outstripping-supply-as-sales-continue-to-drop",
-          "titre": "Xbox CEO says console demand is outstripping supply—but sales continue to drop"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/guides/last-chance-to-grab-these-65-switch-1-and-2-games-in-nintendos-screaming-deals-sale-north-america",
+          "titre": "Guide: Last Chance To Grab These 65 Switch 1 & 2 Games In Nintendo's 'Screaming Deals' Sale (North America)"
         }
       ]
     },
     {
-      "id": "nvidia-ceo-reportedly-targeted-by-chinese-spy-previously-und",
-      "titre": "Nvidia CEO reportedly targeted by Chinese spy previously under suspicion for AI chip smuggling",
-      "url": "https://www.pcgamer.com/software/ai/nvidia-ceo-reportedly-targeted-by-chinese-spy-previously-under-suspicion-for-ai-chip-smuggling/",
+      "id": "don-t-worry-gta-6-s-cars-can-drive-for-ages-before-their-fue",
+      "titre": "Don't worry, GTA 6's cars can drive for ages before their fuel tanks need refilling, leaving me wondering why this motor management's been added at all",
+      "url": "https://www.rockpapershotgun.com/dont-worry-gta-6s-cars-can-drive-for-ages-before-their-fuel-tanks-need-refilling-leaving-me-wondering-why-this-motor-managements-been-added-at-all",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 13.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/dont-worry-gta-6s-cars-can-drive-for-ages-before-their-fuel-tanks-need-refilling-leaving-me-wondering-why-this-motor-managements-been-added-at-all",
+          "titre": "Don't worry, GTA 6's cars can drive for ages before their fuel tanks need refilling, leaving me wondering why this motor management's been added at all"
+        }
+      ]
+    },
+    {
+      "id": "japanese-charts-nintendo-switch-sports-resort-and-final-fant",
+      "titre": "Japanese Charts: Nintendo Switch Sports Resort And Final Fantasy Resonance Go Head-To-Head",
+      "url": "https://www.nintendolife.com/news/2026/10/japanese-charts-nintendo-switch-sports-resort-and-final-fantasy-resonance-go-head-to-head",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 14.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/japanese-charts-nintendo-switch-sports-resort-and-final-fantasy-resonance-go-head-to-head",
+          "titre": "Japanese Charts: Nintendo Switch Sports Resort And Final Fantasy Resonance Go Head-To-Head"
+        }
+      ]
+    },
+    {
+      "id": "i-m-calling-it-gta-6-is-officially-an-immersive-sim-based-on",
+      "titre": "I'm calling it: GTA 6 is officially an immersive sim, based on what you can do with NPCs",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/im-calling-it-gta-6-is-officially-an-immersive-sim-based-on-what-you-can-do-with-npcs/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.4,
+      "heures": 14.2,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/nvidia-ceo-reportedly-targeted-by-chinese-spy-previously-under-suspicion-for-ai-chip-smuggling/",
-          "titre": "Nvidia CEO reportedly targeted by Chinese spy previously under suspicion for AI chip smuggling"
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/im-calling-it-gta-6-is-officially-an-immersive-sim-based-on-what-you-can-do-with-npcs/",
+          "titre": "I'm calling it: GTA 6 is officially an immersive sim, based on what you can do with NPCs"
         }
       ]
     },
     {
-      "id": "mouthwashing-is-finally-on-consoles-and-xbox-game-pass-and-i",
-      "titre": "Mouthwashing is finally on consoles and Xbox Game Pass, and it's a Halloween must for horror fans",
-      "url": "https://www.eurogamer.net/mouthwashing-game-pass-ps5-ps4-switch-xbox-now-playing",
+      "id": "a-cold-dead-place-that-s-slowly-decaying-ea-employees-revea",
+      "titre": "\"A cold dead place that's slowly decaying\" - EA employees reveal a culture of secrecy and terrible morale following layoffs",
+      "url": "https://www.eurogamer.net/inside-ea-layoffs-report-bioware-morale-secrecy",
       "sources": [
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.2,
+      "heures": 15.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/mouthwashing-game-pass-ps5-ps4-switch-xbox-now-playing",
-          "titre": "Mouthwashing is finally on consoles and Xbox Game Pass, and it's a Halloween must for horror fans"
+          "url": "https://www.eurogamer.net/inside-ea-layoffs-report-bioware-morale-secrecy",
+          "titre": "\"A cold dead place that's slowly decaying\" - EA employees reveal a culture of secrecy and terrible morale following layoffs"
         }
       ]
     },
     {
-      "id": "konami-records-strong-profit-having-made-excellent-games-aga",
-      "titre": "Konami Records Strong Profit Having Made Excellent Games Again",
-      "url": "https://www.pushsquare.com/news/2026/10/konami-records-strong-profit-having-made-excellent-games-again",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/konami-records-strong-profit-having-made-excellent-games-again",
-          "titre": "Konami Records Strong Profit Having Made Excellent Games Again"
-        }
-      ]
-    },
-    {
-      "id": "world-of-warcraft-forever-controller-support-is-the-first-st",
-      "titre": "World of Warcraft Forever controller support is the first step to playing ‘anywhere’, as Blizzard prepares for Xbox Helix",
-      "url": "https://www.videogameschronicle.com/news/world-of-warcraft-forever-controller-support-is-the-first-step-to-playing-anywhere-as-blizzard-prepares-for-xbox-helix/",
+      "id": "nintendo-uk-is-selling-a-switch-2-bundle-including-mario-kar",
+      "titre": "Nintendo UK is selling a Switch 2 bundle including Mario Kart World, a camera and a MicroSD card for £134 off",
+      "url": "https://www.videogameschronicle.com/news/nintendo-uk-is-selling-a-switch-2-bundle-including-mario-kart-world-a-camera-and-a-microsd-card-for-134-off/",
       "sources": [
         "VGC"
       ],
       "reprises": 1,
-      "heures": 10.8,
+      "heures": 16.2,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/world-of-warcraft-forever-controller-support-is-the-first-step-to-playing-anywhere-as-blizzard-prepares-for-xbox-helix/",
-          "titre": "World of Warcraft Forever controller support is the first step to playing ‘anywhere’, as Blizzard prepares for Xbox Helix"
+          "url": "https://www.videogameschronicle.com/news/nintendo-uk-is-selling-a-switch-2-bundle-including-mario-kart-world-a-camera-and-a-microsd-card-for-134-off/",
+          "titre": "Nintendo UK is selling a Switch 2 bundle including Mario Kart World, a camera and a MicroSD card for £134 off"
+        }
+      ]
+    },
+    {
+      "id": "with-a-cracking-new-tactical-feature-and-dedicated-ui-strike",
+      "titre": "With a cracking new tactical feature and dedicated UI \"strike team\", Football Manager 27 is a huge step back towards FM's best form",
+      "url": "https://www.eurogamer.net/football-manager-27-preview-interview-tactical-effectiveness-ui-strike-team",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 16.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/football-manager-27-preview-interview-tactical-effectiveness-ui-strike-team",
+          "titre": "With a cracking new tactical feature and dedicated UI \"strike team\", Football Manager 27 is a huge step back towards FM's best form"
+        }
+      ]
+    },
+    {
+      "id": "feature-song-of-time-every-zelda-ocarina-of-time-release-fro",
+      "titre": "Feature: Song Of Time - Every Zelda: Ocarina Of Time Release, From N64 To Switch 2",
+      "url": "https://www.nintendolife.com/features/song-of-time-every-zelda-ocarina-of-time-release-from-n64-to-switch-2",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 16.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/song-of-time-every-zelda-ocarina-of-time-release-from-n64-to-switch-2",
+          "titre": "Feature: Song Of Time - Every Zelda: Ocarina Of Time Release, From N64 To Switch 2"
+        }
+      ]
+    },
+    {
+      "id": "gta-inspired-ps5-open-world-goes-full-tycoon-in-upcoming-upd",
+      "titre": "GTA-Inspired PS5 Open World Goes Full Tycoon in Upcoming Update",
+      "url": "https://www.pushsquare.com/news/2026/10/gta-inspired-ps5-open-world-goes-full-tycoon-in-upcoming-update",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 17.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/gta-inspired-ps5-open-world-goes-full-tycoon-in-upcoming-update",
+          "titre": "GTA-Inspired PS5 Open World Goes Full Tycoon in Upcoming Update"
         }
       ]
     },
@@ -671,7 +521,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.7,
+      "heures": 18.4,
       "chaleur": 6,
       "liens": [
         {
@@ -689,7 +539,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 20.1,
       "chaleur": 6,
       "liens": [
         {
@@ -700,62 +550,92 @@ const VEILLE = {
       ]
     },
     {
-      "id": "epic-games-further-doubles-down-on-gen-ai-tools-for-fortnite",
-      "titre": "Epic Games further doubles down on gen-AI tools for Fortnite, Unreal Engine 6 and more: \"Our engineers are no longer writing the bulk of the code\"",
-      "url": "https://www.eurogamer.net/epic-genai-fortnite-unreal-engine-6-no-longer-writing-code",
+      "id": "xbox-ceo-says-console-demand-is-outstripping-supply-but-sale",
+      "titre": "Xbox CEO says console demand is outstripping supply—but sales continue to drop",
+      "url": "https://www.gamedeveloper.com/console/xbox-ceo-says-console-demand-is-outstripping-supply-as-sales-continue-to-drop",
       "sources": [
-        "Eurogamer",
         "Game Developer"
       ],
-      "reprises": 2,
-      "heures": 27.8,
-      "chaleur": 6,
+      "reprises": 1,
+      "heures": 12.0,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/console/xbox-ceo-says-console-demand-is-outstripping-supply-as-sales-continue-to-drop",
+          "titre": "Xbox CEO says console demand is outstripping supply—but sales continue to drop"
+        }
+      ]
+    },
+    {
+      "id": "nvidia-ceo-reportedly-targeted-by-chinese-spy-previously-und",
+      "titre": "Nvidia CEO reportedly targeted by Chinese spy previously under suspicion for AI chip smuggling",
+      "url": "https://www.pcgamer.com/software/ai/nvidia-ceo-reportedly-targeted-by-chinese-spy-previously-under-suspicion-for-ai-chip-smuggling/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 12.1,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/nvidia-ceo-reportedly-targeted-by-chinese-spy-previously-under-suspicion-for-ai-chip-smuggling/",
+          "titre": "Nvidia CEO reportedly targeted by Chinese spy previously under suspicion for AI chip smuggling"
+        }
+      ]
+    },
+    {
+      "id": "mouthwashing-is-finally-on-consoles-and-xbox-game-pass-and-i",
+      "titre": "Mouthwashing is finally on consoles and Xbox Game Pass, and it's a Halloween must for horror fans",
+      "url": "https://www.eurogamer.net/mouthwashing-game-pass-ps5-ps4-switch-xbox-now-playing",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 15.9,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/epic-genai-fortnite-unreal-engine-6-no-longer-writing-code",
-          "titre": "Epic Games further doubles down on gen-AI tools for Fortnite, Unreal Engine 6 and more: \"Our engineers are no longer writing the bulk of the code\""
-        },
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/programming/unreal-engine-will-be-developed-with-ai-code-confirms-epic",
-          "titre": "Epic VP says AI code tools have stomped out decade-old 'non-deterministic cooking bugs' in Unreal Engine"
+          "url": "https://www.eurogamer.net/mouthwashing-game-pass-ps5-ps4-switch-xbox-now-playing",
+          "titre": "Mouthwashing is finally on consoles and Xbox Game Pass, and it's a Halloween must for horror fans"
         }
       ]
     },
     {
-      "id": "feature-4-things-you-need-to-know-about-cities-skylines-expa",
-      "titre": "Feature: 4 Things You Need To Know About Cities: Skylines - Expanded Edition On Nintendo Switch 2",
-      "url": "https://www.nintendolife.com/features/4-things-you-need-to-know-about-cities-skylines-expanded-edition-on-nintendo-switch-2",
+      "id": "konami-records-strong-profit-having-made-excellent-games-aga",
+      "titre": "Konami Records Strong Profit Having Made Excellent Games Again",
+      "url": "https://www.pushsquare.com/news/2026/10/konami-records-strong-profit-having-made-excellent-games-again",
       "sources": [
-        "Nintendo Life"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 29.9,
-      "chaleur": 6,
+      "heures": 16.1,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/4-things-you-need-to-know-about-cities-skylines-expanded-edition-on-nintendo-switch-2",
-          "titre": "Feature: 4 Things You Need To Know About Cities: Skylines - Expanded Edition On Nintendo Switch 2"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/konami-records-strong-profit-having-made-excellent-games-again",
+          "titre": "Konami Records Strong Profit Having Made Excellent Games Again"
         }
       ]
     },
     {
-      "id": "rumour-samsung-s-new-chip-process-kicks-off-nintendo-switch",
-      "titre": "Rumour: Samsung's New Chip Process Kicks Off 'Nintendo Switch 2 Lite' Speculation",
-      "url": "https://www.nintendolife.com/news/2026/10/rumour-samsungs-new-chip-process-kicks-off-nintendo-switch-2-lite-speculation",
+      "id": "world-of-warcraft-forever-controller-support-is-the-first-st",
+      "titre": "World of Warcraft Forever controller support is the first step to playing ‘anywhere’, as Blizzard prepares for Xbox Helix",
+      "url": "https://www.videogameschronicle.com/news/world-of-warcraft-forever-controller-support-is-the-first-step-to-playing-anywhere-as-blizzard-prepares-for-xbox-helix/",
       "sources": [
-        "Nintendo Life"
+        "VGC"
       ],
       "reprises": 1,
-      "heures": 30.2,
-      "chaleur": 6,
+      "heures": 16.5,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/rumour-samsungs-new-chip-process-kicks-off-nintendo-switch-2-lite-speculation",
-          "titre": "Rumour: Samsung's New Chip Process Kicks Off 'Nintendo Switch 2 Lite' Speculation"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/world-of-warcraft-forever-controller-support-is-the-first-step-to-playing-anywhere-as-blizzard-prepares-for-xbox-helix/",
+          "titre": "World of Warcraft Forever controller support is the first step to playing ‘anywhere’, as Blizzard prepares for Xbox Helix"
         }
       ]
     },
@@ -767,7 +647,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 18.2,
       "chaleur": 5,
       "liens": [
         {
@@ -785,7 +665,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 13.0,
+      "heures": 18.7,
       "chaleur": 5,
       "liens": [
         {
@@ -803,7 +683,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 19.6,
       "chaleur": 5,
       "liens": [
         {
@@ -821,7 +701,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.4,
+      "heures": 26.1,
       "chaleur": 5,
       "liens": [
         {
@@ -839,7 +719,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.4,
+      "heures": 27.1,
       "chaleur": 5,
       "liens": [
         {
@@ -850,20 +730,92 @@ const VEILLE = {
       ]
     },
     {
-      "id": "taking-several-years-with-several-thousand-people-it-s-almo",
-      "titre": "\"Taking several years with several thousand people… It's almost impossible\" – PlayStation creator Ken Kutaragi on the current state of gaming",
-      "url": "https://www.gamesindustry.biz/taking-several-years-with-several-thousand-people-its-almost-impossible-playstation-creator-ken-kutaragi-on-the-current-state-of-gaming",
+      "id": "mouthwashing-is-getting-a-feature-film-adaptation-from-sony",
+      "titre": "Mouthwashing is getting a feature film adaptation from Sony and I need all of you to be normal about it whenever it comes out",
+      "url": "https://www.rockpapershotgun.com/mouthwashing-is-getting-a-feature-film-adaptation-from-sony-and-i-need-all-of-you-to-be-normal-about-it-whenever-it-comes-out",
       "sources": [
-        "GamesIndustry.biz"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 34.4,
-      "chaleur": 5,
+      "heures": 6.7,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/taking-several-years-with-several-thousand-people-its-almost-impossible-playstation-creator-ken-kutaragi-on-the-current-state-of-gaming",
-          "titre": "\"Taking several years with several thousand people… It's almost impossible\" – PlayStation creator Ken Kutaragi on the current state of gaming"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/mouthwashing-is-getting-a-feature-film-adaptation-from-sony-and-i-need-all-of-you-to-be-normal-about-it-whenever-it-comes-out",
+          "titre": "Mouthwashing is getting a feature film adaptation from Sony and I need all of you to be normal about it whenever it comes out"
+        }
+      ]
+    },
+    {
+      "id": "none-of-these-people-have-ever-made-a-game-bioware-co-found",
+      "titre": "'None of these people have ever made a game,' BioWare co-founder Greg Zeschuk says of game industry executives: 'They just don't know how it works'",
+      "url": "https://www.pcgamer.com/gaming-industry/none-of-these-people-have-ever-made-a-game-bioware-co-founder-greg-zeschuk-says-of-game-industry-executives-they-just-dont-know-how-it-works/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 7.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/none-of-these-people-have-ever-made-a-game-bioware-co-founder-greg-zeschuk-says-of-game-industry-executives-they-just-dont-know-how-it-works/",
+          "titre": "'None of these people have ever made a game,' BioWare co-founder Greg Zeschuk says of game industry executives: 'They just don't know how it works'"
+        }
+      ]
+    },
+    {
+      "id": "we-didn-t-want-the-brooding-hero-out-for-revenge-how-quiet",
+      "titre": "\"We didn't want the brooding hero out for revenge\": How quiet lulls and a bird-sketching lead make Control Resonant a more introspective kind of action game",
+      "url": "https://www.rockpapershotgun.com/we-didnt-want-the-brooding-hero-out-for-revenge-how-quiet-lulls-and-a-bird-sketching-lead-make-control-resonant-a-more-introspective-kind-of-action-game",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 9.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/we-didnt-want-the-brooding-hero-out-for-revenge-how-quiet-lulls-and-a-bird-sketching-lead-make-control-resonant-a-more-introspective-kind-of-action-game",
+          "titre": "\"We didn't want the brooding hero out for revenge\": How quiet lulls and a bird-sketching lead make Control Resonant a more introspective kind of action game"
+        }
+      ]
+    },
+    {
+      "id": "no-new-assassin-s-creed-remakes-in-the-works-at-ubisoft",
+      "titre": "No New Assassin's Creed Remakes in the Works at Ubisoft",
+      "url": "https://www.pushsquare.com/news/2026/10/no-new-assassins-creed-remakes-in-the-works-at-ubisoft",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 9.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/no-new-assassins-creed-remakes-in-the-works-at-ubisoft",
+          "titre": "No New Assassin's Creed Remakes in the Works at Ubisoft"
+        }
+      ]
+    },
+    {
+      "id": "after-the-rough-start-that-was-last-year-s-entry-football-ma",
+      "titre": "After the rough start that was last year's entry, Football Manager 27 is looking to bring you in with a few free days of play before the game's even out",
+      "url": "https://www.rockpapershotgun.com/after-the-rough-start-that-was-last-years-entry-football-manager-27-is-looking-to-bring-you-in-with-a-few-free-days-of-play-before-the-games-even-out",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 9.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/after-the-rough-start-that-was-last-years-entry-football-manager-27-is-looking-to-bring-you-in-with-a-few-free-days-of-play-before-the-games-even-out",
+          "titre": "After the rough start that was last year's entry, Football Manager 27 is looking to bring you in with a few free days of play before the game's even out"
         }
       ]
     },
@@ -875,7 +827,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -893,7 +845,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 11.6,
       "chaleur": 4,
       "liens": [
         {
@@ -911,8 +863,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.4,
-      "chaleur": 4,
+      "heures": 12.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -929,8 +881,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.7,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -947,8 +899,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.7,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -965,8 +917,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.1,
-      "chaleur": 4,
+      "heures": 12.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -983,8 +935,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.4,
-      "chaleur": 4,
+      "heures": 13.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1001,8 +953,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.6,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -1019,8 +971,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.7,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -1037,8 +989,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.9,
-      "chaleur": 4,
+      "heures": 13.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1055,8 +1007,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.0,
-      "chaleur": 4,
+      "heures": 13.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1073,8 +1025,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.2,
-      "chaleur": 4,
+      "heures": 13.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1091,8 +1043,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.4,
-      "chaleur": 4,
+      "heures": 14.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1109,8 +1061,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.6,
-      "chaleur": 4,
+      "heures": 14.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1127,8 +1079,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.8,
-      "chaleur": 4,
+      "heures": 14.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -1138,23 +1090,79 @@ const VEILLE = {
       ]
     },
     {
-      "id": "havn-hs-360-review",
-      "titre": "Havn HS 360 review",
-      "url": "https://www.pcgamer.com/hardware/pc-cases/havn-hs-360-review/",
+      "id": "newly-merged-skydance-mandates-staff-return-to-office-five-d",
+      "titre": "Newly merged Skydance mandates staff return to office five days a week, offers Voluntary Buyout Program",
+      "url": "https://www.gamesindustry.biz/newly-merged-skydance-mandates-staff-return-to-office-five-days-a-week-offers-voluntary-buyout-program",
       "sources": [
-        "PC Gamer"
+        "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 8.9,
-      "chaleur": 4,
+      "heures": 15.1,
+      "chaleur": 3,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/pc-cases/havn-hs-360-review/",
-          "titre": "Havn HS 360 review"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/newly-merged-skydance-mandates-staff-return-to-office-five-days-a-week-offers-voluntary-buyout-program",
+          "titre": "Newly merged Skydance mandates staff return to office five days a week, offers Voluntary Buyout Program"
+        }
+      ]
+    },
+    {
+      "id": "the-official-grand-theft-auto-6-musical-score-by-justice-is",
+      "titre": "The official Grand Theft Auto 6 musical score by Justice is released in December, CD and vinyl pre-orders available now",
+      "url": "https://www.videogameschronicle.com/news/the-official-grand-theft-auto-6-musical-score-by-justice-is-released-in-december-cd-and-vinyl-pre-orders-available-now/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 15.9,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-official-grand-theft-auto-6-musical-score-by-justice-is-released-in-december-cd-and-vinyl-pre-orders-available-now/",
+          "titre": "The official Grand Theft Auto 6 musical score by Justice is released in December, CD and vinyl pre-orders available now"
+        }
+      ]
+    },
+    {
+      "id": "we-are-very-eager-to-learn-from-the-real-veterans-how-tence",
+      "titre": "\"We are very eager to learn from the real veterans\" – How Tencent's TiMi Studio Group collaborated with Capcom on Monster Hunter Outlanders",
+      "url": "https://www.gamesindustry.biz/we-are-very-eager-to-learn-from-the-real-veterans-how-tencents-timi-studio-group-collaborated-with-capcom-on-monster-hunter-outlanders",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 16.1,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/we-are-very-eager-to-learn-from-the-real-veterans-how-tencents-timi-studio-group-collaborated-with-capcom-on-monster-hunter-outlanders",
+          "titre": "\"We are very eager to learn from the real veterans\" – How Tencent's TiMi Studio Group collaborated with Capcom on Monster Hunter Outlanders"
+        }
+      ]
+    },
+    {
+      "id": "can-the-sidewinder-game-pad-microsoft-s-first-game-controlle",
+      "titre": "Can the SideWinder Game Pad, Microsoft's first game controller, work on modern PCs? I bought three of them to find out",
+      "url": "https://www.rockpapershotgun.com/can-the-sidewinder-game-pad-microsofts-first-game-controller-work-on-modern-pcs-i-bought-three-of-them-to-find-out",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 16.4,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/can-the-sidewinder-game-pad-microsofts-first-game-controller-work-on-modern-pcs-i-bought-three-of-them-to-find-out",
+          "titre": "Can the SideWinder Game Pad, Microsoft's first game controller, work on modern PCs? I bought three of them to find out"
         }
       ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "Bethesda Is Reportedly Ready To Reveal The Official Title Of The Elder Scrolls VI"
+  ]
 };
