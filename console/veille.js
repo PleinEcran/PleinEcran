@@ -1,21 +1,27 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "30/10/2026 à 05h35",
+  "collecte": "30/10/2026 à 12h42",
   "seuil": 14,
   "sujets": [
     {
-      "id": "bethesda-is-reportedly-ready-to-reveal-the-official-title-of",
-      "titre": "Bethesda Is Reportedly Ready To Reveal The Official Title Of The Elder Scrolls VI",
-      "url": "https://www.nintendolife.com/news/2026/10/bethesda-is-reportedly-ready-to-reveal-the-official-title-of-the-elder-scrolls-vi",
+      "id": "bethesda-reportedly-revealing-the-elder-scrolls-6-next-month",
+      "titre": "Bethesda reportedly revealing The Elder Scrolls 6 next month, and we may know what its subtitle is going to be",
+      "url": "https://www.eurogamer.net/elder-scrolls-6-reportedly-revealed-november",
       "sources": [
+        "Eurogamer",
         "Nintendo Life",
         "Push Square",
         "VGC"
       ],
-      "reprises": 3,
-      "heures": 1.0,
-      "chaleur": 16,
+      "reprises": 4,
+      "heures": 1.8,
+      "chaleur": 19,
       "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/elder-scrolls-6-reportedly-revealed-november",
+          "titre": "Bethesda reportedly revealing The Elder Scrolls 6 next month, and we may know what its subtitle is going to be"
+        },
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/bethesda-is-reportedly-ready-to-reveal-the-official-title-of-the-elder-scrolls-vi",
@@ -34,6 +40,72 @@ const VEILLE = {
       ]
     },
     {
+      "id": "ubisoft-says-no-more-assassin-s-creed-remakes-are-planned-as",
+      "titre": "Ubisoft says no more Assassin’s Creed remakes are planned, as it gives updates on Invictus and Hexe",
+      "url": "https://www.videogameschronicle.com/news/ubisoft-says-no-more-assassins-creed-remakes-are-planned-as-it-gives-updates-on-invictus-and-hexe/",
+      "sources": [
+        "Eurogamer",
+        "Push Square",
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "reprises": 4,
+      "heures": 0.4,
+      "chaleur": 15,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/ubisoft-says-no-more-assassins-creed-remakes-are-planned-as-it-gives-updates-on-invictus-and-hexe/",
+          "titre": "Ubisoft says no more Assassin’s Creed remakes are planned, as it gives updates on Invictus and Hexe"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/no-new-assassins-creed-games-in-development-ubisoft",
+          "titre": "There are currently \"no other Assassin's Creed remakes actively in development\", says Ubisoft"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/there-are-no-more-assassins-creed-remakes-in-development-because-ubisoft-are-focused-on-hexe-invictus-and-projects-you-havent-heard-about-yet",
+          "titre": "There are no more Assassin's Creed remakes in development, because Ubisoft are focused on Hexe, Invictus and \"projects you haven't heard about yet\""
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/no-new-assassins-creed-remakes-in-the-works-at-ubisoft",
+          "titre": "No New Assassin's Creed Remakes in the Works at Ubisoft"
+        }
+      ]
+    },
+    {
+      "id": "maddy-makes-games-removes-celeste-and-towerfall-from-xbox-in",
+      "titre": "Maddy Makes Games removes Celeste and TowerFall from Xbox in support of pro-Palestinian BDS boycott",
+      "url": "https://www.gamesindustry.biz/maddy-makes-games-removes-celeste-and-towerfall-from-xbox-in-support-of-pro-palestinian-bds-boycott",
+      "sources": [
+        "Eurogamer",
+        "GamesIndustry.biz",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 3,
+      "heures": 0.5,
+      "chaleur": 14,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/maddy-makes-games-removes-celeste-and-towerfall-from-xbox-in-support-of-pro-palestinian-bds-boycott",
+          "titre": "Maddy Makes Games removes Celeste and TowerFall from Xbox in support of pro-Palestinian BDS boycott"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/towerfall-celeste-xbox-boycott-delisted",
+          "titre": "Celeste and TowerFall dev explains why both games were suddenly delisted from Xbox"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/celeste-and-towerfall-have-been-removed-from-the-xbox-store-in-a-move-to-support-the-bds-boycott-against-microsoft",
+          "titre": "Celeste and TowerFall have been removed from the Xbox store in a move to \"support the BDS boycott\" against Microsoft"
+        }
+      ]
+    },
+    {
       "id": "the-duskbloods-switch-2-release-has-been-delayed-to-2027",
       "titre": "The Duskbloods Switch 2 Release Has Been Delayed To 2027",
       "url": "https://www.nintendolife.com/news/2026/10/the-duskbloods-switch-2-release-has-been-delayed-to-2027",
@@ -43,7 +115,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 14.8,
+      "heures": 22.0,
       "chaleur": 13,
       "liens": [
         {
@@ -64,6 +136,126 @@ const VEILLE = {
       ]
     },
     {
+      "id": "games-industry-honours-beloved-actor-sir-patrick-stewart-as",
+      "titre": "Games industry honours beloved actor Sir Patrick Stewart, as the legendary Star Trek and X-Men actor passes away",
+      "url": "https://www.eurogamer.net/patrick-stewart-dies-oblivion-uriel-septim-castlevania",
+      "sources": [
+        "Eurogamer",
+        "Nintendo Life",
+        "PC Gamer"
+      ],
+      "reprises": 3,
+      "heures": 1.1,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/patrick-stewart-dies-oblivion-uriel-septim-castlevania",
+          "titre": "Games industry honours beloved actor Sir Patrick Stewart, as the legendary Star Trek and X-Men actor passes away"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/patrick-stewart-the-legendary-star-trek-and-x-men-actor-has-passed-away",
+          "titre": "Patrick Stewart, The Legendary Star Trek And X-Men Actor, Has Passed Away"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/movies-tv/patrick-stewart-star-trek-and-shakespeare-legend-has-died/",
+          "titre": "Patrick Stewart, Star Trek and Shakespeare legend, has died"
+        }
+      ]
+    },
+    {
+      "id": "monster-hunter-outlanders-codes-all-codes-to-redeem-at-launc",
+      "titre": "Monster Hunter Outlanders codes: All codes to redeem at launch",
+      "url": "https://www.videogameschronicle.com/guide/monster-hunter-outlanders-codes-all-codes-to-redeem-at-launch/",
+      "sources": [
+        "GamesIndustry.biz",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 0.1,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/monster-hunter-outlanders-codes-all-codes-to-redeem-at-launch/",
+          "titre": "Monster Hunter Outlanders codes: All codes to redeem at launch"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/we-are-very-eager-to-learn-from-the-real-veterans-how-tencents-timi-studio-group-collaborated-with-capcom-on-monster-hunter-outlanders",
+          "titre": "\"We are very eager to learn from the real veterans\" – How Tencent's TiMi Studio Group collaborated with Capcom on Monster Hunter Outlanders"
+        }
+      ]
+    },
+    {
+      "id": "sony-has-snapped-up-the-film-rights-for-mouthwashing",
+      "titre": "Sony has snapped up the film rights for Mouthwashing",
+      "url": "https://www.eurogamer.net/mouthwashing-movie-rights-sony-director",
+      "sources": [
+        "Eurogamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 0.7,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/mouthwashing-movie-rights-sony-director",
+          "titre": "Sony has snapped up the film rights for Mouthwashing"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/mouthwashing-is-getting-a-feature-film-adaptation-from-sony-and-i-need-all-of-you-to-be-normal-about-it-whenever-it-comes-out",
+          "titre": "Mouthwashing is getting a feature film adaptation from Sony and I need all of you to be normal about it whenever it comes out"
+        }
+      ]
+    },
+    {
+      "id": "you-can-relationship-max-in-gta-6-as-walking-along-the-beach",
+      "titre": "You can relationship-max in GTA 6 as walking along the beach or working out at the gym together increases your couple rating on a four point scale",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/you-can-relationship-max-in-gta-6-as-walking-along-the-beach-or-working-out-at-the-gym-together-increases-your-couple-rating-on-a-four-point-scale/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.2,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/you-can-relationship-max-in-gta-6-as-walking-along-the-beach-or-working-out-at-the-gym-together-increases-your-couple-rating-on-a-four-point-scale/",
+          "titre": "You can relationship-max in GTA 6 as walking along the beach or working out at the gym together increases your couple rating on a four point scale"
+        }
+      ]
+    },
+    {
+      "id": "aaa-publishers-abusing-early-access-are-setting-unrealistic",
+      "titre": "AAA publishers ‘abusing’ Early Access are setting unrealistic expectations, say Deadhaus Sonata leads",
+      "url": "https://www.videogameschronicle.com/news/aaa-publishers-abusing-early-access-are-setting-unrealistic-expectations-say-deadhaus-sonata-leads/",
+      "sources": [
+        "PC Gamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 2.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/aaa-publishers-abusing-early-access-are-setting-unrealistic-expectations-say-deadhaus-sonata-leads/",
+          "titre": "AAA publishers ‘abusing’ Early Access are setting unrealistic expectations, say Deadhaus Sonata leads"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/game-development/aaa-publishers-are-abusing-early-access-denis-dyack-says-and-thats-making-things-harder-for-everyone-else/",
+          "titre": "'AAA publishers are abusing early access,' Denis Dyack says, and that's making things harder for everyone else"
+        }
+      ]
+    },
+    {
       "id": "destiny-2-content-unvaulting-won-t-take-place-until-2028",
       "titre": "Destiny 2 Content Unvaulting Won't Take Place Until 2028",
       "url": "https://www.pushsquare.com/news/2026/10/destiny-2-content-unvaulting-wont-take-place-until-2028",
@@ -73,8 +265,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 10.1,
-      "chaleur": 10,
+      "heures": 17.2,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Push Square",
@@ -94,6 +286,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "compromised-laptop-could-be-to-blame-for-record-6-3-billion",
+      "titre": "Compromised laptop could be to blame for record $6.3 billion cryptocurrency heist: Binance rushes to freeze stolen assets as experts blame North Korean group",
+      "url": "https://www.pcgamer.com/software/security/compromised-laptop-could-be-to-blame-for-record-usd6-3-billion-cryptocurrency-heist-binance-rushes-to-freeze-stolen-assets-as-experts-blame-north-korean-group/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/security/compromised-laptop-could-be-to-blame-for-record-usd6-3-billion-cryptocurrency-heist-binance-rushes-to-freeze-stolen-assets-as-experts-blame-north-korean-group/",
+          "titre": "Compromised laptop could be to blame for record $6.3 billion cryptocurrency heist: Binance rushes to freeze stolen assets as experts blame North Korean group"
+        }
+      ]
+    },
+    {
       "id": "poll-so-have-you-got-the-zelda-40th-anniversary-switch-2",
       "titre": "Poll: So, Have You Got The Zelda 40th Anniversary Switch 2?",
       "url": "https://www.nintendolife.com/news/2026/10/poll-so-have-you-got-the-zelda-40th-anniversary-switch-2",
@@ -101,8 +311,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 9,
+      "heures": 9.8,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -112,98 +322,164 @@ const VEILLE = {
       ]
     },
     {
-      "id": "phantom-blade-zero-kicks-off-its-launch-with-a-day-one-patch",
-      "titre": "Phantom Blade Zero kicks off its launch with a day one patch that offers improvements to ray tracing and some bug fixes to boot",
-      "url": "https://www.rockpapershotgun.com/phantom-blade-zero-kicks-off-its-launch-with-a-day-one-patch-that-offers-improvements-to-ray-tracing-and-some-bug-fixes-to-boot",
+      "id": "the-wolf-among-us-remastered-hit-with-ps5-upgrade-pricing-is",
+      "titre": "The Wolf Among Us Remastered Hit with PS5 Upgrade Pricing Issues",
+      "url": "https://www.pushsquare.com/news/2026/10/the-wolf-among-us-remastered-hit-with-ps5-upgrade-pricing-issues",
       "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun"
+        "Push Square"
       ],
-      "reprises": 2,
-      "heures": 8.1,
-      "chaleur": 9,
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/phantom-blade-zero-kicks-off-its-launch-with-a-day-one-patch-that-offers-improvements-to-ray-tracing-and-some-bug-fixes-to-boot",
-          "titre": "Phantom Blade Zero kicks off its launch with a day one patch that offers improvements to ray tracing and some bug fixes to boot"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/phantom-blade-zero-steam-launch-1-million-sales",
-          "titre": "More Chinese success as Phantom Blade Zero enjoys a big launch and becomes one of Steam's most played games"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/the-wolf-among-us-remastered-hit-with-ps5-upgrade-pricing-issues",
+          "titre": "The Wolf Among Us Remastered Hit with PS5 Upgrade Pricing Issues"
         }
       ]
     },
     {
-      "id": "the-latest-episode-of-south-park-features-exclusive-gta-6-fo",
-      "titre": "The latest episode of South Park features exclusive GTA 6 footage where a man is hit in the head with dog poo",
-      "url": "https://www.videogameschronicle.com/news/the-latest-episode-of-south-park-features-exclusive-gta-6-footage-where-a-man-is-hit-in-the-head-with-dog-poo/",
+      "id": "kane-parsons-believes-his-interpretation-of-the-backrooms-is",
+      "titre": "Kane Parsons believes his interpretation of the backrooms is 'minor cultural shorthand' for the abstract space—just look at South Park's recent episode",
+      "url": "https://www.pcgamer.com/movies-tv/kane-parsons-believes-his-interpretation-of-the-backrooms-is-minor-cultural-shorthand-for-the-abstract-space-just-look-at-south-parks-recent-episode/",
       "sources": [
-        "Eurogamer",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 19.6,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/the-latest-episode-of-south-park-features-exclusive-gta-6-footage-where-a-man-is-hit-in-the-head-with-dog-poo/",
-          "titre": "The latest episode of South Park features exclusive GTA 6 footage where a man is hit in the head with dog poo"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/dog-poo-anti-social-behaviour-and-jason-our-latest-look-at-gta-6-gameplay-comes-from-the-latest-episode-of-south-park",
-          "titre": "Dog poo, anti-social behaviour, and Jason: Our latest look at GTA 6 gameplay comes from an episode of South Park"
-        }
-      ]
-    },
-    {
-      "id": "call-of-duty-modern-warfare-4-intro-cinematic-is-not-intende",
-      "titre": "Call of Duty: Modern Warfare 4 intro cinematic is \"not intended to reference or trivialise\" real-world South Korean crowd crush, Activision say amid reported backlash",
-      "url": "https://www.rockpapershotgun.com/call-of-duty-modern-warfare-4-intro-cinematic-is-not-intended-to-reference-or-trivialise-real-world-south-korean-crowd-crush-activision-say-amid-reported-backlash",
-      "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 17.0,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/call-of-duty-modern-warfare-4-intro-cinematic-is-not-intended-to-reference-or-trivialise-real-world-south-korean-crowd-crush-activision-say-amid-reported-backlash",
-          "titre": "Call of Duty: Modern Warfare 4 intro cinematic is \"not intended to reference or trivialise\" real-world South Korean crowd crush, Activision say amid reported backlash"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/modern-warfare-4-south-korean-crowd-crush-footage",
-          "titre": "Modern Warfare 4 faces backlash after real footage of South Korean crowd crush tragedy was discovered in game's opening moments"
-        }
-      ]
-    },
-    {
-      "id": "patrick-stewart-the-legendary-star-trek-and-x-men-actor-has",
-      "titre": "Patrick Stewart, The Legendary Star Trek And X-Men Actor, Has Passed Away",
-      "url": "https://www.nintendolife.com/news/2026/10/patrick-stewart-the-legendary-star-trek-and-x-men-actor-has-passed-away",
-      "sources": [
-        "Nintendo Life",
         "PC Gamer"
       ],
-      "reprises": 2,
-      "heures": 4.1,
-      "chaleur": 7,
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/patrick-stewart-the-legendary-star-trek-and-x-men-actor-has-passed-away",
-          "titre": "Patrick Stewart, The Legendary Star Trek And X-Men Actor, Has Passed Away"
-        },
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/movies-tv/kane-parsons-believes-his-interpretation-of-the-backrooms-is-minor-cultural-shorthand-for-the-abstract-space-just-look-at-south-parks-recent-episode/",
+          "titre": "Kane Parsons believes his interpretation of the backrooms is 'minor cultural shorthand' for the abstract space—just look at South Park's recent episode"
+        }
+      ]
+    },
+    {
+      "id": "oce-players-are-stuck-in-perpetual-night-on-wow-forever-but",
+      "titre": "OCE players are stuck in perpetual night on WoW: Forever, but its devs are considering a fix",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/oce-players-are-stuck-in-perpetual-night-on-wow-forever-but-its-devs-are-considering-a-fix/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/movies-tv/patrick-stewart-star-trek-and-shakespeare-legend-has-died/",
-          "titre": "Patrick Stewart, Star Trek and Shakespeare legend, has died"
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/oce-players-are-stuck-in-perpetual-night-on-wow-forever-but-its-devs-are-considering-a-fix/",
+          "titre": "OCE players are stuck in perpetual night on WoW: Forever, but its devs are considering a fix"
+        }
+      ]
+    },
+    {
+      "id": "gaming-storefronts-are-facing-a-slop-grenade-problem-opinion",
+      "titre": "Gaming storefronts are facing a Slop Grenade problem | Opinion",
+      "url": "https://www.gamesindustry.biz/gaming-storefronts-are-facing-a-slop-grenade-problem-opinion",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 0.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/gaming-storefronts-are-facing-a-slop-grenade-problem-opinion",
+          "titre": "Gaming storefronts are facing a Slop Grenade problem | Opinion"
+        }
+      ]
+    },
+    {
+      "id": "quirky-rpg-resonance-of-fate-is-back-with-an-enhanced-remast",
+      "titre": "Quirky RPG Resonance of Fate Is Back with an 'Enhanced Remaster' for PS5",
+      "url": "https://www.pushsquare.com/news/2026/10/quirky-rpg-resonance-of-fate-is-back-with-an-enhanced-remaster-for-ps5",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/quirky-rpg-resonance-of-fate-is-back-with-an-enhanced-remaster-for-ps5",
+          "titre": "Quirky RPG Resonance of Fate Is Back with an 'Enhanced Remaster' for PS5"
+        }
+      ]
+    },
+    {
+      "id": "roblox-q3-results-beat-expectations-despite-bookings-falling",
+      "titre": "Roblox Q3 results beat expectations despite bookings falling 12% to $1.7bn",
+      "url": "https://www.gamesindustry.biz/roblox-q3-results-beat-expectations-despite-bookings-falling-12-to-17bn",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 2.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/roblox-q3-results-beat-expectations-despite-bookings-falling-12-to-17bn",
+          "titre": "Roblox Q3 results beat expectations despite bookings falling 12% to $1.7bn"
+        }
+      ]
+    },
+    {
+      "id": "baldur-s-gate-3-custom-campaign-mod-channels-world-of-warcra",
+      "titre": "Baldur's Gate 3 custom campaign mod channels World of Warcraft with an adventure about undead former slaves fighting to reclaim a kingdom",
+      "url": "https://www.rockpapershotgun.com/baldurs-gate-3-custom-campaign-mod-channels-world-of-warcraft-with-an-adventure-about-undead-former-slaves-fighting-to-reclaim-a-kingdom",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 2.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/baldurs-gate-3-custom-campaign-mod-channels-world-of-warcraft-with-an-adventure-about-undead-former-slaves-fighting-to-reclaim-a-kingdom",
+          "titre": "Baldur's Gate 3 custom campaign mod channels World of Warcraft with an adventure about undead former slaves fighting to reclaim a kingdom"
+        }
+      ]
+    },
+    {
+      "id": "death-stranding-isolations-anime-tv-series-gets-first-traile",
+      "titre": "Death Stranding Isolations Anime TV Series Gets First Trailer, Out in 2027",
+      "url": "https://www.pushsquare.com/news/2026/10/death-stranding-isolations-anime-tv-series-gets-first-trailer-out-in-2027",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 2.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/death-stranding-isolations-anime-tv-series-gets-first-trailer-out-in-2027",
+          "titre": "Death Stranding Isolations Anime TV Series Gets First Trailer, Out in 2027"
+        }
+      ]
+    },
+    {
+      "id": "why-asking-what-s-the-budget-for-your-game-doesn-t-make-sens",
+      "titre": "Why asking \"what's the budget for your game?\" doesn't make sense in 2026 | Opinion",
+      "url": "https://www.gamesindustry.biz/why-asking-whats-the-budget-for-your-game-doesnt-make-sense-in-2026-opinion",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 3.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/why-asking-whats-the-budget-for-your-game-doesnt-make-sense-in-2026-opinion",
+          "titre": "Why asking \"what's the budget for your game?\" doesn't make sense in 2026 | Opinion"
         }
       ]
     },
@@ -216,8 +492,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 7.6,
-      "chaleur": 7,
+      "heures": 14.7,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
@@ -240,8 +516,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 10.0,
-      "chaleur": 7,
+      "heures": 17.1,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
@@ -264,8 +540,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 10.4,
-      "chaleur": 7,
+      "heures": 17.5,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
@@ -280,78 +556,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "reddit-will-switch-to-a-logged-in-only-experience",
-      "titre": "Reddit will switch to a 'logged-in only experience'",
-      "url": "https://www.pcgamer.com/software/ai/reddit-will-switch-to-a-logged-in-only-experience/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 5.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/reddit-will-switch-to-a-logged-in-only-experience/",
-          "titre": "Reddit will switch to a 'logged-in only experience'"
-        }
-      ]
-    },
-    {
-      "id": "it-hasn-t-made-any-difference-gears-of-war-ps5-cancellation",
-      "titre": "'It Hasn't Made Any Difference': Gears of War PS5 Cancellation Fails to Boost Xbox",
-      "url": "https://www.pushsquare.com/news/2026/10/it-hasnt-made-any-difference-gears-of-war-ps5-cancellation-fails-to-boost-xbox",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/it-hasnt-made-any-difference-gears-of-war-ps5-cancellation-fails-to-boost-xbox",
-          "titre": "'It Hasn't Made Any Difference': Gears of War PS5 Cancellation Fails to Boost Xbox"
-        }
-      ]
-    },
-    {
-      "id": "the-elder-scrolls-6-sentinel-will-be-an-elder-scrolls-game-a",
-      "titre": "The Elder Scrolls 6: Sentinel will be an Elder Scrolls game about the infinite mysteries of the Elder Scrolls, report with some plot hintage claims",
-      "url": "https://www.rockpapershotgun.com/the-elder-scrolls-6-sentinel-will-be-an-elder-scrolls-game-about-the-infinite-mysteries-of-the-elder-scrolls-report-with-some-plot-hintage-claims",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-elder-scrolls-6-sentinel-will-be-an-elder-scrolls-game-about-the-infinite-mysteries-of-the-elder-scrolls-report-with-some-plot-hintage-claims",
-          "titre": "The Elder Scrolls 6: Sentinel will be an Elder Scrolls game about the infinite mysteries of the Elder Scrolls, report with some plot hintage claims"
-        }
-      ]
-    },
-    {
-      "id": "celeste-and-towerfall-have-been-removed-from-the-xbox-store",
-      "titre": "Celeste and TowerFall have been removed from the Xbox store in a move to \"support the BDS boycott\" against Microsoft",
-      "url": "https://www.rockpapershotgun.com/celeste-and-towerfall-have-been-removed-from-the-xbox-store-in-a-move-to-support-the-bds-boycott-against-microsoft",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/celeste-and-towerfall-have-been-removed-from-the-xbox-store-in-a-move-to-support-the-bds-boycott-against-microsoft",
-          "titre": "Celeste and TowerFall have been removed from the Xbox store in a move to \"support the BDS boycott\" against Microsoft"
-        }
-      ]
-    },
-    {
       "id": "guide-last-chance-to-grab-these-65-switch-1-2-games-in-ninte",
       "titre": "Guide: Last Chance To Grab These 65 Switch 1 & 2 Games In Nintendo's 'Screaming Deals' Sale (North America)",
       "url": "https://www.nintendolife.com/guides/last-chance-to-grab-these-65-switch-1-and-2-games-in-nintendos-screaming-deals-sale-north-america",
@@ -359,7 +563,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 19.7,
       "chaleur": 6,
       "liens": [
         {
@@ -377,7 +581,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 20.5,
       "chaleur": 6,
       "liens": [
         {
@@ -395,31 +599,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.1,
+      "heures": 21.2,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/japanese-charts-nintendo-switch-sports-resort-and-final-fantasy-resonance-go-head-to-head",
           "titre": "Japanese Charts: Nintendo Switch Sports Resort And Final Fantasy Resonance Go Head-To-Head"
-        }
-      ]
-    },
-    {
-      "id": "i-m-calling-it-gta-6-is-officially-an-immersive-sim-based-on",
-      "titre": "I'm calling it: GTA 6 is officially an immersive sim, based on what you can do with NPCs",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/im-calling-it-gta-6-is-officially-an-immersive-sim-based-on-what-you-can-do-with-npcs/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 14.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/im-calling-it-gta-6-is-officially-an-immersive-sim-based-on-what-you-can-do-with-npcs/",
-          "titre": "I'm calling it: GTA 6 is officially an immersive sim, based on what you can do with NPCs"
         }
       ]
     },
@@ -431,7 +617,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 22.6,
       "chaleur": 6,
       "liens": [
         {
@@ -449,7 +635,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 16.2,
+      "heures": 23.4,
       "chaleur": 6,
       "liens": [
         {
@@ -467,7 +653,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.2,
+      "heures": 23.4,
       "chaleur": 6,
       "liens": [
         {
@@ -485,7 +671,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.6,
+      "heures": 23.7,
       "chaleur": 6,
       "liens": [
         {
@@ -503,7 +689,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 17.1,
+      "heures": 24.2,
       "chaleur": 6,
       "liens": [
         {
@@ -521,7 +707,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 18.4,
+      "heures": 25.5,
       "chaleur": 6,
       "liens": [
         {
@@ -532,20 +718,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "new-gta-6-gameplay-screenshots-details-revealed-as-ps5-launc",
-      "titre": "New GTA 6 Gameplay, Screenshots, Details Revealed as PS5 Launch Nears",
-      "url": "https://www.pushsquare.com/news/2026/10/new-gta-6-gameplay-screenshots-details-revealed-as-ps5-launch-nears",
+      "id": "reddit-will-switch-to-a-logged-in-only-experience",
+      "titre": "Reddit will switch to a 'logged-in only experience'",
+      "url": "https://www.pcgamer.com/software/ai/reddit-will-switch-to-a-logged-in-only-experience/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 12.7,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/reddit-will-switch-to-a-logged-in-only-experience/",
+          "titre": "Reddit will switch to a 'logged-in only experience'"
+        }
+      ]
+    },
+    {
+      "id": "it-hasn-t-made-any-difference-gears-of-war-ps5-cancellation",
+      "titre": "'It Hasn't Made Any Difference': Gears of War PS5 Cancellation Fails to Boost Xbox",
+      "url": "https://www.pushsquare.com/news/2026/10/it-hasnt-made-any-difference-gears-of-war-ps5-cancellation-fails-to-boost-xbox",
       "sources": [
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 20.1,
-      "chaleur": 6,
+      "heures": 17.7,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/new-gta-6-gameplay-screenshots-details-revealed-as-ps5-launch-nears",
-          "titre": "New GTA 6 Gameplay, Screenshots, Details Revealed as PS5 Launch Nears"
+          "url": "https://www.pushsquare.com/news/2026/10/it-hasnt-made-any-difference-gears-of-war-ps5-cancellation-fails-to-boost-xbox",
+          "titre": "'It Hasn't Made Any Difference': Gears of War PS5 Cancellation Fails to Boost Xbox"
+        }
+      ]
+    },
+    {
+      "id": "the-elder-scrolls-6-sentinel-will-be-an-elder-scrolls-game-a",
+      "titre": "The Elder Scrolls 6: Sentinel will be an Elder Scrolls game about the infinite mysteries of the Elder Scrolls, report with some plot hintage claims",
+      "url": "https://www.rockpapershotgun.com/the-elder-scrolls-6-sentinel-will-be-an-elder-scrolls-game-about-the-infinite-mysteries-of-the-elder-scrolls-report-with-some-plot-hintage-claims",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 18.6,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-elder-scrolls-6-sentinel-will-be-an-elder-scrolls-game-about-the-infinite-mysteries-of-the-elder-scrolls-report-with-some-plot-hintage-claims",
+          "titre": "The Elder Scrolls 6: Sentinel will be an Elder Scrolls game about the infinite mysteries of the Elder Scrolls, report with some plot hintage claims"
         }
       ]
     },
@@ -557,7 +779,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 12.0,
+      "heures": 19.1,
       "chaleur": 5,
       "liens": [
         {
@@ -575,7 +797,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.1,
+      "heures": 19.2,
       "chaleur": 5,
       "liens": [
         {
@@ -593,7 +815,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.9,
+      "heures": 23.0,
       "chaleur": 5,
       "liens": [
         {
@@ -611,7 +833,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.1,
+      "heures": 23.2,
       "chaleur": 5,
       "liens": [
         {
@@ -629,13 +851,31 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 16.5,
+      "heures": 23.6,
       "chaleur": 5,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/world-of-warcraft-forever-controller-support-is-the-first-step-to-playing-anywhere-as-blizzard-prepares-for-xbox-helix/",
           "titre": "World of Warcraft Forever controller support is the first step to playing ‘anywhere’, as Blizzard prepares for Xbox Helix"
+        }
+      ]
+    },
+    {
+      "id": "call-of-duty-modern-warfare-4-intro-cinematic-is-not-intende",
+      "titre": "Call of Duty: Modern Warfare 4 intro cinematic is \"not intended to reference or trivialise\" real-world South Korean crowd crush, Activision say amid reported backlash",
+      "url": "https://www.rockpapershotgun.com/call-of-duty-modern-warfare-4-intro-cinematic-is-not-intended-to-reference-or-trivialise-real-world-south-korean-crowd-crush-activision-say-amid-reported-backlash",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 24.1,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/call-of-duty-modern-warfare-4-intro-cinematic-is-not-intended-to-reference-or-trivialise-real-world-south-korean-crowd-crush-activision-say-amid-reported-backlash",
+          "titre": "Call of Duty: Modern Warfare 4 intro cinematic is \"not intended to reference or trivialise\" real-world South Korean crowd crush, Activision say amid reported backlash"
         }
       ]
     },
@@ -647,7 +887,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 18.2,
+      "heures": 25.3,
       "chaleur": 5,
       "liens": [
         {
@@ -665,7 +905,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 18.7,
+      "heures": 25.8,
       "chaleur": 5,
       "liens": [
         {
@@ -683,7 +923,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.6,
+      "heures": 26.7,
       "chaleur": 5,
       "liens": [
         {
@@ -701,7 +941,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 26.1,
+      "heures": 33.2,
       "chaleur": 5,
       "liens": [
         {
@@ -712,38 +952,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "taito-milestones-5-announced-for-switch-here-are-the-games-i",
-      "titre": "Taito Milestones 5 Announced For Switch, Here Are The Games Included",
-      "url": "https://www.nintendolife.com/news/2026/10/taito-milestones-5-announced-for-switch-here-are-the-games-included",
+      "id": "harvest-moon-echoes-of-teradea-reveals-its-roadmap-for-2027",
+      "titre": "Harvest Moon: ﻿Echoes of Teradea Reveals Its Roadmap For 2027, Includes Nine DLC Packs & 30th Anniversary Celebration",
+      "url": "https://www.nintendolife.com/news/2026/10/harvest-moon-echoes-of-teradea-reveals-its-roadmap-for-2027-includes-nine-dlc-packs-and-30th-anniversary-celebration",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.1,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/taito-milestones-5-announced-for-switch-here-are-the-games-included",
-          "titre": "Taito Milestones 5 Announced For Switch, Here Are The Games Included"
-        }
-      ]
-    },
-    {
-      "id": "mouthwashing-is-getting-a-feature-film-adaptation-from-sony",
-      "titre": "Mouthwashing is getting a feature film adaptation from Sony and I need all of you to be normal about it whenever it comes out",
-      "url": "https://www.rockpapershotgun.com/mouthwashing-is-getting-a-feature-film-adaptation-from-sony-and-i-need-all-of-you-to-be-normal-about-it-whenever-it-comes-out",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 6.7,
+      "heures": 6.8,
       "chaleur": 4,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/mouthwashing-is-getting-a-feature-film-adaptation-from-sony-and-i-need-all-of-you-to-be-normal-about-it-whenever-it-comes-out",
-          "titre": "Mouthwashing is getting a feature film adaptation from Sony and I need all of you to be normal about it whenever it comes out"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/harvest-moon-echoes-of-teradea-reveals-its-roadmap-for-2027-includes-nine-dlc-packs-and-30th-anniversary-celebration",
+          "titre": "Harvest Moon: ﻿Echoes of Teradea Reveals Its Roadmap For 2027, Includes Nine DLC Packs & 30th Anniversary Celebration"
         }
       ]
     },
@@ -755,13 +977,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.8,
-      "chaleur": 4,
+      "heures": 14.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/gaming-industry/none-of-these-people-have-ever-made-a-game-bioware-co-founder-greg-zeschuk-says-of-game-industry-executives-they-just-dont-know-how-it-works/",
           "titre": "'None of these people have ever made a game,' BioWare co-founder Greg Zeschuk says of game industry executives: 'They just don't know how it works'"
+        }
+      ]
+    },
+    {
+      "id": "phantom-blade-zero-kicks-off-its-launch-with-a-day-one-patch",
+      "titre": "Phantom Blade Zero kicks off its launch with a day one patch that offers improvements to ray tracing and some bug fixes to boot",
+      "url": "https://www.rockpapershotgun.com/phantom-blade-zero-kicks-off-its-launch-with-a-day-one-patch-that-offers-improvements-to-ray-tracing-and-some-bug-fixes-to-boot",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 15.3,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/phantom-blade-zero-kicks-off-its-launch-with-a-day-one-patch-that-offers-improvements-to-ray-tracing-and-some-bug-fixes-to-boot",
+          "titre": "Phantom Blade Zero kicks off its launch with a day one patch that offers improvements to ray tracing and some bug fixes to boot"
         }
       ]
     },
@@ -773,31 +1013,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.1,
-      "chaleur": 4,
+      "heures": 16.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/we-didnt-want-the-brooding-hero-out-for-revenge-how-quiet-lulls-and-a-bird-sketching-lead-make-control-resonant-a-more-introspective-kind-of-action-game",
           "titre": "\"We didn't want the brooding hero out for revenge\": How quiet lulls and a bird-sketching lead make Control Resonant a more introspective kind of action game"
-        }
-      ]
-    },
-    {
-      "id": "no-new-assassin-s-creed-remakes-in-the-works-at-ubisoft",
-      "titre": "No New Assassin's Creed Remakes in the Works at Ubisoft",
-      "url": "https://www.pushsquare.com/news/2026/10/no-new-assassins-creed-remakes-in-the-works-at-ubisoft",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 9.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/no-new-assassins-creed-remakes-in-the-works-at-ubisoft",
-          "titre": "No New Assassin's Creed Remakes in the Works at Ubisoft"
         }
       ]
     },
@@ -809,13 +1031,31 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.7,
-      "chaleur": 4,
+      "heures": 16.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/after-the-rough-start-that-was-last-years-entry-football-manager-27-is-looking-to-bring-you-in-with-a-few-free-days-of-play-before-the-games-even-out",
           "titre": "After the rough start that was last year's entry, Football Manager 27 is looking to bring you in with a few free days of play before the game's even out"
+        }
+      ]
+    },
+    {
+      "id": "assassin-s-creed-valhalla-gets-new-game-patch-more-than-thre",
+      "titre": "Assassin's Creed Valhalla Gets New Game+ Patch, More Than Three Years After Its 'Final' Update",
+      "url": "https://www.pushsquare.com/news/2026/10/assassins-creed-valhalla-gets-new-gameplus-patch-more-than-three-years-after-its-final-update",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 18.5,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/assassins-creed-valhalla-gets-new-gameplus-patch-more-than-three-years-after-its-final-update",
+          "titre": "Assassin's Creed Valhalla Gets New Game+ Patch, More Than Three Years After Its 'Final' Update"
         }
       ]
     },
@@ -827,8 +1067,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 18.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -845,8 +1085,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 4,
+      "heures": 18.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -863,7 +1103,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.1,
+      "heures": 19.2,
       "chaleur": 3,
       "liens": [
         {
@@ -881,7 +1121,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 19.5,
       "chaleur": 3,
       "liens": [
         {
@@ -899,49 +1139,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 19.6,
       "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/queens-domain-is-a-brilliant-kings-field-alike-rpg-that-forces-you-to-walk-so-you-can-learn-to-fly",
           "titre": "Queen's Domain is a brilliant King's Field-alike RPG that forces you to walk so you can learn to fly"
-        }
-      ]
-    },
-    {
-      "id": "aaa-publishers-are-abusing-early-access-denis-dyack-says-an",
-      "titre": "'AAA publishers are abusing early access,' Denis Dyack says, and that's making things harder for everyone else",
-      "url": "https://www.pcgamer.com/gaming-industry/game-development/aaa-publishers-are-abusing-early-access-denis-dyack-says-and-thats-making-things-harder-for-everyone-else/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 12.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/game-development/aaa-publishers-are-abusing-early-access-denis-dyack-says-and-thats-making-things-harder-for-everyone-else/",
-          "titre": "'AAA publishers are abusing early access,' Denis Dyack says, and that's making things harder for everyone else"
-        }
-      ]
-    },
-    {
-      "id": "it-s-amnesia-vs-amnesia-in-the-scariest-game-semifinals-vote",
-      "titre": "It's Amnesia vs Amnesia in the 'scariest game' semifinals—vote now!",
-      "url": "https://www.pcgamer.com/games/horror/its-amnesia-vs-amnesia-in-the-scariest-game-semifinals-vote-now/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 13.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/its-amnesia-vs-amnesia-in-the-scariest-game-semifinals-vote-now/",
-          "titre": "It's Amnesia vs Amnesia in the 'scariest game' semifinals—vote now!"
         }
       ]
     },
@@ -953,7 +1157,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 20.4,
       "chaleur": 3,
       "liens": [
         {
@@ -971,7 +1175,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 20.5,
       "chaleur": 3,
       "liens": [
         {
@@ -989,7 +1193,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 20.7,
       "chaleur": 3,
       "liens": [
         {
@@ -998,171 +1202,11 @@ const VEILLE = {
           "titre": "Atmosfar is a giddy aerial exploration game after the heart of No Man's Sky, but I'm already trying to escape it"
         }
       ]
-    },
-    {
-      "id": "youtuber-buys-and-turns-32-gb-of-laptop-ddr5-into-desktop-ra",
-      "titre": "YouTuber buys and turns 32 GB of laptop DDR5 into desktop RAM for just $175",
-      "url": "https://www.pcgamer.com/hardware/memory/youtuber-buys-and-turns-32-gb-of-laptop-ddr5-into-desktop-ram-for-just-usd175/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 13.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/memory/youtuber-buys-and-turns-32-gb-of-laptop-ddr5-into-desktop-ram-for-just-usd175/",
-          "titre": "YouTuber buys and turns 32 GB of laptop DDR5 into desktop RAM for just $175"
-        }
-      ]
-    },
-    {
-      "id": "guide-phantom-blade-zero-best-weapons-and-where-to-find-them",
-      "titre": "Guide: Phantom Blade Zero: Best Weapons and Where to Find Them",
-      "url": "https://www.pushsquare.com/guides/phantom-blade-zero-best-weapons-and-where-to-find-them",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 13.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/guides/phantom-blade-zero-best-weapons-and-where-to-find-them",
-          "titre": "Guide: Phantom Blade Zero: Best Weapons and Where to Find Them"
-        }
-      ]
-    },
-    {
-      "id": "ps5-still-outselling-ps4-in-usa-despite-much-higher-price-an",
-      "titre": "PS5 Still Outselling PS4 in USA Despite Much Higher Price and Fewer Exclusives",
-      "url": "https://www.pushsquare.com/news/2026/10/ps5-still-outselling-ps4-in-usa-despite-much-higher-price-and-fewer-exclusives",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 14.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/ps5-still-outselling-ps4-in-usa-despite-much-higher-price-and-fewer-exclusives",
-          "titre": "PS5 Still Outselling PS4 in USA Despite Much Higher Price and Fewer Exclusives"
-        }
-      ]
-    },
-    {
-      "id": "where-to-find-the-hokubo-region-treasure-hunt-in-forza-horiz",
-      "titre": "Where to find the Hokubo region Treasure Hunt in Forza Horizon 6",
-      "url": "https://www.pcgamer.com/games/racing/forza-horizon-6-treasure-hunt-hokubo-region-location/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 14.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/racing/forza-horizon-6-treasure-hunt-hokubo-region-location/",
-          "titre": "Where to find the Hokubo region Treasure Hunt in Forza Horizon 6"
-        }
-      ]
-    },
-    {
-      "id": "ea-s-sale-to-saudi-led-consortium-was-final-nail-in-the-coff",
-      "titre": "EA's sale to Saudi-led consortium was \"final nail in the coffin\" for BioWare, says studio co-founder",
-      "url": "https://www.eurogamer.net/bioware-co-founder-greg-zeschuk-closure-interview",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 14.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/bioware-co-founder-greg-zeschuk-closure-interview",
-          "titre": "EA's sale to Saudi-led consortium was \"final nail in the coffin\" for BioWare, says studio co-founder"
-        }
-      ]
-    },
-    {
-      "id": "newly-merged-skydance-mandates-staff-return-to-office-five-d",
-      "titre": "Newly merged Skydance mandates staff return to office five days a week, offers Voluntary Buyout Program",
-      "url": "https://www.gamesindustry.biz/newly-merged-skydance-mandates-staff-return-to-office-five-days-a-week-offers-voluntary-buyout-program",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 15.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/newly-merged-skydance-mandates-staff-return-to-office-five-days-a-week-offers-voluntary-buyout-program",
-          "titre": "Newly merged Skydance mandates staff return to office five days a week, offers Voluntary Buyout Program"
-        }
-      ]
-    },
-    {
-      "id": "the-official-grand-theft-auto-6-musical-score-by-justice-is",
-      "titre": "The official Grand Theft Auto 6 musical score by Justice is released in December, CD and vinyl pre-orders available now",
-      "url": "https://www.videogameschronicle.com/news/the-official-grand-theft-auto-6-musical-score-by-justice-is-released-in-december-cd-and-vinyl-pre-orders-available-now/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 15.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/the-official-grand-theft-auto-6-musical-score-by-justice-is-released-in-december-cd-and-vinyl-pre-orders-available-now/",
-          "titre": "The official Grand Theft Auto 6 musical score by Justice is released in December, CD and vinyl pre-orders available now"
-        }
-      ]
-    },
-    {
-      "id": "we-are-very-eager-to-learn-from-the-real-veterans-how-tence",
-      "titre": "\"We are very eager to learn from the real veterans\" – How Tencent's TiMi Studio Group collaborated with Capcom on Monster Hunter Outlanders",
-      "url": "https://www.gamesindustry.biz/we-are-very-eager-to-learn-from-the-real-veterans-how-tencents-timi-studio-group-collaborated-with-capcom-on-monster-hunter-outlanders",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 16.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/we-are-very-eager-to-learn-from-the-real-veterans-how-tencents-timi-studio-group-collaborated-with-capcom-on-monster-hunter-outlanders",
-          "titre": "\"We are very eager to learn from the real veterans\" – How Tencent's TiMi Studio Group collaborated with Capcom on Monster Hunter Outlanders"
-        }
-      ]
-    },
-    {
-      "id": "can-the-sidewinder-game-pad-microsoft-s-first-game-controlle",
-      "titre": "Can the SideWinder Game Pad, Microsoft's first game controller, work on modern PCs? I bought three of them to find out",
-      "url": "https://www.rockpapershotgun.com/can-the-sidewinder-game-pad-microsofts-first-game-controller-work-on-modern-pcs-i-bought-three-of-them-to-find-out",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 16.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/can-the-sidewinder-game-pad-microsofts-first-game-controller-work-on-modern-pcs-i-bought-three-of-them-to-find-out",
-          "titre": "Can the SideWinder Game Pad, Microsoft's first game controller, work on modern PCs? I bought three of them to find out"
-        }
-      ]
     }
   ],
   "alertes": [
-    "Bethesda Is Reportedly Ready To Reveal The Official Title Of The Elder Scrolls VI"
+    "Bethesda reportedly revealing The Elder Scrolls 6 next month, and we may know what its subtitle is going to be",
+    "Ubisoft says no more Assassin’s Creed remakes are planned, as it gives updates on Invictus and Hexe",
+    "Maddy Makes Games removes Celeste and TowerFall from Xbox in support of pro-Palestinian BDS boycott"
   ]
 };
