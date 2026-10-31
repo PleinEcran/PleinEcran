@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "30/10/2026 à 23h38",
+  "collecte": "31/10/2026 à 05h24",
   "seuil": 14,
   "sujets": [
     {
@@ -16,8 +16,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 6,
-      "heures": 6.9,
-      "chaleur": 24,
+      "heures": 12.7,
+      "chaleur": 23,
       "liens": [
         {
           "source": "PC Gamer",
@@ -52,6 +52,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "final-fantasy-xiv-online-s-sixth-expansion-evercold-launches",
+      "titre": "Final Fantasy XIV Online's Sixth Expansion 'Evercold' Launches February 2027",
+      "url": "https://www.nintendolife.com/news/2026/10/final-fantasy-xiv-onlines-sixth-expansion-evercold-launches-february-2027",
+      "sources": [
+        "Nintendo Life",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 1.5,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/final-fantasy-xiv-onlines-sixth-expansion-evercold-launches-february-2027",
+          "titre": "Final Fantasy XIV Online's Sixth Expansion 'Evercold' Launches February 2027"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/new-pc-games-2027/",
+          "titre": "New games in 2027: Fable, Final Fantasy 7, and (maybe) GTA 6 on PC"
+        }
+      ]
+    },
+    {
       "id": "ubisoft-says-no-more-assassin-s-creed-remakes-are-planned-as",
       "titre": "Ubisoft says no more Assassin’s Creed remakes are planned, as it gives updates on Invictus and Hexe",
       "url": "https://www.videogameschronicle.com/news/ubisoft-says-no-more-assassins-creed-remakes-are-planned-as-it-gives-updates-on-invictus-and-hexe/",
@@ -62,8 +86,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 11.3,
-      "chaleur": 13,
+      "heures": 17.1,
+      "chaleur": 12,
       "liens": [
         {
           "source": "VGC",
@@ -88,36 +112,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "bethesda-reportedly-revealing-the-elder-scrolls-6-next-month",
-      "titre": "Bethesda reportedly revealing The Elder Scrolls 6 next month, and we may know what its subtitle is going to be",
-      "url": "https://www.eurogamer.net/elder-scrolls-6-reportedly-revealed-november",
-      "sources": [
-        "Eurogamer",
-        "Nintendo Life",
-        "Push Square"
-      ],
-      "reprises": 3,
-      "heures": 12.8,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/elder-scrolls-6-reportedly-revealed-november",
-          "titre": "Bethesda reportedly revealing The Elder Scrolls 6 next month, and we may know what its subtitle is going to be"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/bethesda-is-reportedly-ready-to-reveal-the-official-title-of-the-elder-scrolls-vi",
-          "titre": "Bethesda Is Reportedly Ready To Reveal The Official Title Of The Elder Scrolls VI"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/rumour-the-elder-scrolls-6-reveal-as-soon-as-next-month-named-sentinel",
-          "titre": "Rumour: The Elder Scrolls 6 Reveal as Soon as Next Month, Named Sentinel"
-        }
-      ]
-    },
-    {
       "id": "star-trek-online-players-are-holding-public-vigils-to-mourn",
       "titre": "Star Trek Online players are holding public vigils to mourn Patrick Stewart",
       "url": "https://www.pcgamer.com/games/mmo/star-trek-online-players-are-holding-public-vigils-to-mourn-patrick-stewart/",
@@ -127,7 +121,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 3,
-      "heures": 4.8,
+      "heures": 10.5,
       "chaleur": 10,
       "liens": [
         {
@@ -148,30 +142,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-duskbloods-switch-2-release-has-been-delayed-to-2027",
-      "titre": "The Duskbloods Switch 2 Release Has Been Delayed To 2027",
-      "url": "https://www.nintendolife.com/news/2026/10/the-duskbloods-switch-2-release-has-been-delayed-to-2027",
-      "sources": [
-        "Eurogamer",
-        "Nintendo Life"
-      ],
-      "reprises": 2,
-      "heures": 32.9,
-      "chaleur": 10,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/the-duskbloods-switch-2-release-has-been-delayed-to-2027",
-          "titre": "The Duskbloods Switch 2 Release Has Been Delayed To 2027"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/fromsofts-switch-2-exclusive-the-duskbloods-has-been-delayed-into-2027",
-          "titre": "FromSoft's Switch 2 exclusive, The Duskbloods, has been delayed into 2027"
-        }
-      ]
-    },
-    {
       "id": "fanatical-s-mystery-chest-bundle-offers-up-to-25-mystery-ste",
       "titre": "Fanatical’s Mystery Chest Bundle offers up to 25 mystery Steam keys for $17.49, with a chance to get Phantom Blade Zero",
       "url": "https://www.videogameschronicle.com/news/fanaticals-mystery-chest-bundle-offers-up-to-25-mystery-steam-keys-for-17-49-with-a-chance-to-get-phantom-blade-zero/",
@@ -180,7 +150,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 4.9,
+      "heures": 10.7,
       "chaleur": 9,
       "liens": [
         {
@@ -204,7 +174,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 5.1,
+      "heures": 10.9,
       "chaleur": 9,
       "liens": [
         {
@@ -228,8 +198,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 11.5,
-      "chaleur": 9,
+      "heures": 17.2,
+      "chaleur": 8,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -244,20 +214,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "new-games-in-2027-fable-final-fantasy-7-and-maybe-gta-6-on-p",
-      "titre": "New games in 2027: Fable, Final Fantasy 7, and (maybe) GTA 6 on PC",
-      "url": "https://www.pcgamer.com/games/new-pc-games-2027/",
+      "id": "bethesda-reportedly-revealing-the-elder-scrolls-6-next-month",
+      "titre": "Bethesda reportedly revealing The Elder Scrolls 6 next month, and we may know what its subtitle is going to be",
+      "url": "https://www.eurogamer.net/elder-scrolls-6-reportedly-revealed-november",
       "sources": [
-        "PC Gamer"
+        "Eurogamer",
+        "Nintendo Life"
       ],
-      "reprises": 1,
-      "heures": 4.5,
-      "chaleur": 7,
+      "reprises": 2,
+      "heures": 18.5,
+      "chaleur": 8,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/new-pc-games-2027/",
-          "titre": "New games in 2027: Fable, Final Fantasy 7, and (maybe) GTA 6 on PC"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/elder-scrolls-6-reportedly-revealed-november",
+          "titre": "Bethesda reportedly revealing The Elder Scrolls 6 next month, and we may know what its subtitle is going to be"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/bethesda-is-reportedly-ready-to-reveal-the-official-title-of-the-elder-scrolls-vi",
+          "titre": "Bethesda Is Reportedly Ready To Reveal The Official Title Of The Elder Scrolls VI"
         }
       ]
     },
@@ -269,7 +245,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 11.4,
       "chaleur": 7,
       "liens": [
         {
@@ -288,7 +264,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 5.9,
+      "heures": 11.7,
       "chaleur": 7,
       "liens": [
         {
@@ -304,6 +280,60 @@ const VEILLE = {
       ]
     },
     {
+      "id": "video-11-exciting-new-games-coming-to-switch-1-2-in-november",
+      "titre": "Video: 11 Exciting New Games Coming To Switch 1 & 2 In November 2026",
+      "url": "https://www.nintendolife.com/news/2026/10/video-11-exciting-new-games-coming-to-switch-1-and-2-in-november-2026",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/video-11-exciting-new-games-coming-to-switch-1-and-2-in-november-2026",
+          "titre": "Video: 11 Exciting New Games Coming To Switch 1 & 2 In November 2026"
+        }
+      ]
+    },
+    {
+      "id": "digital-foundry-delivers-its-tech-verdict-on-call-of-duty-mo",
+      "titre": "Digital Foundry Delivers Its Tech Verdict On Call Of Duty: Modern Warfare 4 On Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/10/digital-foundry-delivers-its-tech-verdict-on-call-of-duty-modern-warfare-4-on-switch-2",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 10.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/digital-foundry-delivers-its-tech-verdict-on-call-of-duty-modern-warfare-4-on-switch-2",
+          "titre": "Digital Foundry Delivers Its Tech Verdict On Call Of Duty: Modern Warfare 4 On Switch 2"
+        }
+      ]
+    },
+    {
+      "id": "wooshy-wuxia-actioner-phantom-blade-zero-is-sharp-enough-on",
+      "titre": "Wooshy wuxia actioner Phantom Blade Zero is sharp enough on the Steam Machine, if blunted on the Steam Deck",
+      "url": "https://www.rockpapershotgun.com/phantom-blade-zero-steam-machine-steam-deck",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 11.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/phantom-blade-zero-steam-machine-steam-deck",
+          "titre": "Wooshy wuxia actioner Phantom Blade Zero is sharp enough on the Steam Machine, if blunted on the Steam Deck"
+        }
+      ]
+    },
+    {
       "id": "activision-apologizes-and-says-it-will-remove-south-korean-c",
       "titre": "Activision apologizes and says it will remove South Korean crush footage from Modern Warfare 4 after victims’ families speak out",
       "url": "https://www.videogameschronicle.com/news/activision-apologizes-and-says-it-will-remove-south-korean-crush-footage-from-modern-warfare-4-after-victims-families-speak-out/",
@@ -312,8 +342,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 7.3,
-      "chaleur": 7,
+      "heures": 13.1,
+      "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
@@ -335,8 +365,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.2,
-      "chaleur": 7,
+      "heures": 14.0,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
@@ -353,8 +383,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.6,
-      "chaleur": 7,
+      "heures": 14.4,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -371,37 +401,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.7,
-      "chaleur": 7,
+      "heures": 14.4,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/crimson-desert-free-demo-xbox-playstation",
           "titre": "Crimson Desert Enhanced Edition gets a surprise demo on PlayStation and Xbox, lets you play for 5 hours and carry over your save data"
-        }
-      ]
-    },
-    {
-      "id": "monster-hunter-outlanders-codes-all-codes-to-redeem-at-launc",
-      "titre": "Monster Hunter Outlanders codes: All codes to redeem at launch",
-      "url": "https://www.videogameschronicle.com/guide/monster-hunter-outlanders-codes-all-codes-to-redeem-at-launch/",
-      "sources": [
-        "GamesIndustry.biz",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 11.1,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/monster-hunter-outlanders-codes-all-codes-to-redeem-at-launch/",
-          "titre": "Monster Hunter Outlanders codes: All codes to redeem at launch"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/we-are-very-eager-to-learn-from-the-real-veterans-how-tencents-timi-studio-group-collaborated-with-capcom-on-monster-hunter-outlanders",
-          "titre": "\"We are very eager to learn from the real veterans\" – How Tencent's TiMi Studio Group collaborated with Capcom on Monster Hunter Outlanders"
         }
       ]
     },
@@ -414,8 +420,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 11.6,
-      "chaleur": 7,
+      "heures": 17.4,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
@@ -430,150 +436,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "ai-powered-game-development-is-leading-to-an-explosion-of-co",
-      "titre": "AI-powered game development is 'leading to an explosion of content,' Roblox says, as it brags about 70,000 games published on its platform in the last 5 months alone",
-      "url": "https://www.pcgamer.com/software/ai/ai-powered-game-development-is-leading-to-an-explosion-of-content-roblox-says-as-it-brags-about-70-000-games-published-on-its-platform-in-the-last-5-months-alone/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/ai-powered-game-development-is-leading-to-an-explosion-of-content-roblox-says-as-it-brags-about-70-000-games-published-on-its-platform-in-the-last-5-months-alone/",
-          "titre": "AI-powered game development is 'leading to an explosion of content,' Roblox says, as it brags about 70,000 games published on its platform in the last 5 months alone"
-        }
-      ]
-    },
-    {
-      "id": "warframe-s-fantasy-pilled-sister-soulframe-finally-goes-open",
-      "titre": "Warframe's fantasy-pilled sister Soulframe finally goes open to all this November, though Digital Extremes are \"nervous\" about certain changes",
-      "url": "https://www.rockpapershotgun.com/warframes-fantasy-pilled-sister-soulframe-finally-goes-open-to-all-this-november-though-digital-extremes-are-nervous-about-certain-changes",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/warframes-fantasy-pilled-sister-soulframe-finally-goes-open-to-all-this-november-though-digital-extremes-are-nervous-about-certain-changes",
-          "titre": "Warframe's fantasy-pilled sister Soulframe finally goes open to all this November, though Digital Extremes are \"nervous\" about certain changes"
-        }
-      ]
-    },
-    {
-      "id": "soulframe-opens-up-for-everyone-next-week-as-the-warframe-de",
-      "titre": "Soulframe opens up for everyone next week as the Warframe devs prepare the fantasy action RPG for one of its 'biggest, most violent' updates ever next month",
-      "url": "https://www.pcgamer.com/games/rpg/soulframe-opens-up-for-everyone-today-as-the-warframe-devs-prepare-the-fantasy-action-rpg-for-one-of-its-biggest-most-violent-updates-ever-next-month/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/soulframe-opens-up-for-everyone-today-as-the-warframe-devs-prepare-the-fantasy-action-rpg-for-one-of-its-biggest-most-violent-updates-ever-next-month/",
-          "titre": "Soulframe opens up for everyone next week as the Warframe devs prepare the fantasy action RPG for one of its 'biggest, most violent' updates ever next month"
-        }
-      ]
-    },
-    {
-      "id": "goty-hopeful-mina-the-hollower-bought-the-studio-financial-s",
-      "titre": "GOTY hopeful Mina the Hollower bought the studio financial stability \"for now,\" while the Shovel Knight devs work on a new 3D game",
-      "url": "https://www.eurogamer.net/shovel-knight-3d-mina-financial-stability",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/shovel-knight-3d-mina-financial-stability",
-          "titre": "GOTY hopeful Mina the Hollower bought the studio financial stability \"for now,\" while the Shovel Knight devs work on a new 3D game"
-        }
-      ]
-    },
-    {
-      "id": "digital-foundry-delivers-its-tech-verdict-on-call-of-duty-mo",
-      "titre": "Digital Foundry Delivers Its Tech Verdict On Call Of Duty: Modern Warfare 4 On Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/10/digital-foundry-delivers-its-tech-verdict-on-call-of-duty-modern-warfare-4-on-switch-2",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 4.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/digital-foundry-delivers-its-tech-verdict-on-call-of-duty-modern-warfare-4-on-switch-2",
-          "titre": "Digital Foundry Delivers Its Tech Verdict On Call Of Duty: Modern Warfare 4 On Switch 2"
-        }
-      ]
-    },
-    {
-      "id": "wooshy-wuxia-actioner-phantom-blade-zero-is-sharp-enough-on",
-      "titre": "Wooshy wuxia actioner Phantom Blade Zero is sharp enough on the Steam Machine, if blunted on the Steam Deck",
-      "url": "https://www.rockpapershotgun.com/phantom-blade-zero-steam-machine-steam-deck",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 5.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/phantom-blade-zero-steam-machine-steam-deck",
-          "titre": "Wooshy wuxia actioner Phantom Blade Zero is sharp enough on the Steam Machine, if blunted on the Steam Deck"
-        }
-      ]
-    },
-    {
-      "id": "podcast-we-pitch-xbox-s-800-million-netflix-empire",
-      "titre": "Podcast: We pitch Xbox’s $800 Million Netflix empire",
-      "url": "https://www.videogameschronicle.com/blog/podcast/podcast-we-pitch-xboxs-800-million-netflix-empire/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 8.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/blog/podcast/podcast-we-pitch-xboxs-800-million-netflix-empire/",
-          "titre": "Podcast: We pitch Xbox’s $800 Million Netflix empire"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-cancels-kirby-air-riders-halloween-event-following",
-      "titre": "Nintendo Cancels Kirby Air Riders Halloween Event Following Performance Woes",
-      "url": "https://www.nintendolife.com/news/2026/10/nintendo-cancels-kirby-air-riders-halloween-event-following-performance-woes",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 9.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendo-cancels-kirby-air-riders-halloween-event-following-performance-woes",
-          "titre": "Nintendo Cancels Kirby Air Riders Halloween Event Following Performance Woes"
-        }
-      ]
-    },
-    {
       "id": "poll-so-have-you-got-the-zelda-40th-anniversary-switch-2",
       "titre": "Poll: So, Have You Got The Zelda 40th Anniversary Switch 2?",
       "url": "https://www.nintendolife.com/news/2026/10/poll-so-have-you-got-the-zelda-40th-anniversary-switch-2",
@@ -581,7 +443,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.7,
+      "heures": 26.5,
       "chaleur": 6,
       "liens": [
         {
@@ -600,7 +462,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 28.1,
+      "heures": 33.9,
       "chaleur": 6,
       "liens": [
         {
@@ -616,20 +478,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "japanese-charts-nintendo-switch-sports-resort-and-final-fant",
-      "titre": "Japanese Charts: Nintendo Switch Sports Resort And Final Fantasy Resonance Go Head-To-Head",
-      "url": "https://www.nintendolife.com/news/2026/10/japanese-charts-nintendo-switch-sports-resort-and-final-fantasy-resonance-go-head-to-head",
+      "id": "podcast-we-pitch-xbox-s-800-million-netflix-empire",
+      "titre": "Podcast: We pitch Xbox’s $800 Million Netflix empire",
+      "url": "https://www.videogameschronicle.com/blog/podcast/podcast-we-pitch-xboxs-800-million-netflix-empire/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 14.6,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/blog/podcast/podcast-we-pitch-xboxs-800-million-netflix-empire/",
+          "titre": "Podcast: We pitch Xbox’s $800 Million Netflix empire"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-cancels-kirby-air-riders-halloween-event-following",
+      "titre": "Nintendo Cancels Kirby Air Riders Halloween Event Following Performance Woes",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-cancels-kirby-air-riders-halloween-event-following-performance-woes",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 32.1,
-      "chaleur": 6,
+      "heures": 15.7,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/japanese-charts-nintendo-switch-sports-resort-and-final-fantasy-resonance-go-head-to-head",
-          "titre": "Japanese Charts: Nintendo Switch Sports Resort And Final Fantasy Resonance Go Head-To-Head"
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-cancels-kirby-air-riders-halloween-event-following-performance-woes",
+          "titre": "Nintendo Cancels Kirby Air Riders Halloween Event Following Performance Woes"
         }
       ]
     },
@@ -641,7 +521,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 28.6,
+      "heures": 34.4,
       "chaleur": 5,
       "liens": [
         {
@@ -659,7 +539,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 29.5,
+      "heures": 35.3,
       "chaleur": 5,
       "liens": [
         {
@@ -677,13 +557,121 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 30.1,
+      "heures": 35.8,
       "chaleur": 5,
       "liens": [
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/console/xbox-ceo-says-console-demand-is-outstripping-supply-as-sales-continue-to-drop",
           "titre": "Xbox CEO says console demand is outstripping supply—but sales continue to drop"
+        }
+      ]
+    },
+    {
+      "id": "ps5-dynamic-pricing-concerns-revived-by-new-sony-job-listing",
+      "titre": "PS5 Dynamic Pricing Concerns Revived by New Sony Job Listing",
+      "url": "https://www.pushsquare.com/news/2026/10/ps5-dynamic-pricing-concerns-revived-by-new-sony-job-listing",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/ps5-dynamic-pricing-concerns-revived-by-new-sony-job-listing",
+          "titre": "PS5 Dynamic Pricing Concerns Revived by New Sony Job Listing"
+        }
+      ]
+    },
+    {
+      "id": "talking-point-what-are-you-playing-this-weekend-issue-656",
+      "titre": "Talking Point: What Are You Playing This Weekend? - Issue 656",
+      "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-656",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-656",
+          "titre": "Talking Point: What Are You Playing This Weekend? - Issue 656"
+        }
+      ]
+    },
+    {
+      "id": "ai-powered-game-development-is-leading-to-an-explosion-of-co",
+      "titre": "AI-powered game development is 'leading to an explosion of content,' Roblox says, as it brags about 70,000 games published on its platform in the last 5 months alone",
+      "url": "https://www.pcgamer.com/software/ai/ai-powered-game-development-is-leading-to-an-explosion-of-content-roblox-says-as-it-brags-about-70-000-games-published-on-its-platform-in-the-last-5-months-alone/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 8.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/ai-powered-game-development-is-leading-to-an-explosion-of-content-roblox-says-as-it-brags-about-70-000-games-published-on-its-platform-in-the-last-5-months-alone/",
+          "titre": "AI-powered game development is 'leading to an explosion of content,' Roblox says, as it brags about 70,000 games published on its platform in the last 5 months alone"
+        }
+      ]
+    },
+    {
+      "id": "warframe-s-fantasy-pilled-sister-soulframe-finally-goes-open",
+      "titre": "Warframe's fantasy-pilled sister Soulframe finally goes open to all this November, though Digital Extremes are \"nervous\" about certain changes",
+      "url": "https://www.rockpapershotgun.com/warframes-fantasy-pilled-sister-soulframe-finally-goes-open-to-all-this-november-though-digital-extremes-are-nervous-about-certain-changes",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 8.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/warframes-fantasy-pilled-sister-soulframe-finally-goes-open-to-all-this-november-though-digital-extremes-are-nervous-about-certain-changes",
+          "titre": "Warframe's fantasy-pilled sister Soulframe finally goes open to all this November, though Digital Extremes are \"nervous\" about certain changes"
+        }
+      ]
+    },
+    {
+      "id": "soulframe-opens-up-for-everyone-next-week-as-the-warframe-de",
+      "titre": "Soulframe opens up for everyone next week as the Warframe devs prepare the fantasy action RPG for one of its 'biggest, most violent' updates ever next month",
+      "url": "https://www.pcgamer.com/games/rpg/soulframe-opens-up-for-everyone-today-as-the-warframe-devs-prepare-the-fantasy-action-rpg-for-one-of-its-biggest-most-violent-updates-ever-next-month/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 8.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/soulframe-opens-up-for-everyone-today-as-the-warframe-devs-prepare-the-fantasy-action-rpg-for-one-of-its-biggest-most-violent-updates-ever-next-month/",
+          "titre": "Soulframe opens up for everyone next week as the Warframe devs prepare the fantasy action RPG for one of its 'biggest, most violent' updates ever next month"
+        }
+      ]
+    },
+    {
+      "id": "goty-hopeful-mina-the-hollower-bought-the-studio-financial-s",
+      "titre": "GOTY hopeful Mina the Hollower bought the studio financial stability \"for now,\" while the Shovel Knight devs work on a new 3D game",
+      "url": "https://www.eurogamer.net/shovel-knight-3d-mina-financial-stability",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 9.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/shovel-knight-3d-mina-financial-stability",
+          "titre": "GOTY hopeful Mina the Hollower bought the studio financial stability \"for now,\" while the Shovel Knight devs work on a new 3D game"
         }
       ]
     },
@@ -695,7 +683,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
@@ -713,7 +701,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 10.5,
       "chaleur": 4,
       "liens": [
         {
@@ -731,7 +719,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 10.9,
       "chaleur": 4,
       "liens": [
         {
@@ -749,7 +737,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 11.7,
       "chaleur": 4,
       "liens": [
         {
@@ -767,7 +755,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 11.8,
       "chaleur": 4,
       "liens": [
         {
@@ -785,7 +773,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -803,8 +791,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.3,
-      "chaleur": 4,
+      "heures": 12.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -821,8 +809,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.5,
-      "chaleur": 4,
+      "heures": 12.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -839,8 +827,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.9,
-      "chaleur": 4,
+      "heures": 12.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -857,8 +845,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.6,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -875,8 +863,8 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 8.1,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Game Developer",
@@ -893,8 +881,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.1,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -911,8 +899,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.3,
-      "chaleur": 4,
+      "heures": 14.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -929,8 +917,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.4,
-      "chaleur": 4,
+      "heures": 14.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -947,8 +935,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.6,
-      "chaleur": 4,
+      "heures": 14.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -965,8 +953,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 9.0,
-      "chaleur": 4,
+      "heures": 14.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -983,8 +971,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.4,
-      "chaleur": 4,
+      "heures": 15.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -1001,8 +989,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.6,
-      "chaleur": 4,
+      "heures": 15.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1019,8 +1007,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 9.7,
-      "chaleur": 4,
+      "heures": 15.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -1037,8 +1025,8 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 9.7,
-      "chaleur": 4,
+      "heures": 15.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Game Developer",
@@ -1055,8 +1043,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 4,
+      "heures": 15.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1073,8 +1061,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 4,
+      "heures": 16.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1091,13 +1079,31 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.7,
-      "chaleur": 4,
+      "heures": 16.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/helldivers-2-boss-can-absolutely-see-making-a-game-parody-of-generative-ai-but-it-would-need-to-be-quirky-rather-than-doom-laden",
           "titre": "Helldivers 2 boss can \"absolutely see\" making a game parody of generative AI, but it would need to be \"quirky\" rather than \"doom-laden\""
+        }
+      ]
+    },
+    {
+      "id": "monster-hunter-outlanders-codes-all-codes-to-redeem-at-launc",
+      "titre": "Monster Hunter Outlanders codes: All codes to redeem at launch",
+      "url": "https://www.videogameschronicle.com/guide/monster-hunter-outlanders-codes-all-codes-to-redeem-at-launch/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 16.8,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/monster-hunter-outlanders-codes-all-codes-to-redeem-at-launch/",
+          "titre": "Monster Hunter Outlanders codes: All codes to redeem at launch"
         }
       ]
     },
@@ -1109,8 +1115,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 4,
+      "heures": 16.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1127,8 +1133,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 4,
+      "heures": 17.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -1145,7 +1151,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 18.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1163,7 +1169,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 18.7,
       "chaleur": 3,
       "liens": [
         {
@@ -1181,31 +1187,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.1,
+      "heures": 18.8,
       "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/baldurs-gate-3-custom-campaign-mod-channels-world-of-warcraft-with-an-adventure-about-undead-former-slaves-fighting-to-reclaim-a-kingdom",
           "titre": "Baldur's Gate 3 custom campaign mod channels World of Warcraft with an adventure about undead former slaves fighting to reclaim a kingdom"
-        }
-      ]
-    },
-    {
-      "id": "death-stranding-isolations-anime-tv-series-gets-first-traile",
-      "titre": "Death Stranding Isolations Anime TV Series Gets First Trailer, Out in 2027",
-      "url": "https://www.pushsquare.com/news/2026/10/death-stranding-isolations-anime-tv-series-gets-first-trailer-out-in-2027",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 13.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/death-stranding-isolations-anime-tv-series-gets-first-trailer-out-in-2027",
-          "titre": "Death Stranding Isolations Anime TV Series Gets First Trailer, Out in 2027"
         }
       ]
     }
