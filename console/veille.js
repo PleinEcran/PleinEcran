@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "31/10/2026 à 18h27",
+  "collecte": "31/10/2026 à 23h18",
   "seuil": 14,
   "sujets": [
     {
@@ -15,7 +15,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 5,
-      "heures": 26.5,
+      "heures": 31.3,
       "chaleur": 20,
       "liens": [
         {
@@ -56,8 +56,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 2.5,
-      "chaleur": 17,
+      "heures": 7.3,
+      "chaleur": 15,
       "liens": [
         {
           "source": "Eurogamer",
@@ -82,18 +82,23 @@ const VEILLE = {
       ]
     },
     {
-      "id": "final-fantasy-14-reveals-evercold-s-second-new-job-and-febru",
-      "titre": "Final Fantasy 14 reveals Evercold’s second new job and February release date, with pre-orders opening next week",
-      "url": "https://www.eurogamer.net/final-fantasy-14-evercold-zephyr-job-release-date",
+      "id": "final-fantasy-14-evercold-delayed-to-february-preorders-star",
+      "titre": "Final Fantasy 14: Evercold delayed to February, preorders start next week",
+      "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-evercold-delayed-to-february-preorders-start-next-week/",
       "sources": [
         "Eurogamer",
         "Nintendo Life",
         "PC Gamer"
       ],
       "reprises": 3,
-      "heures": 3.8,
-      "chaleur": 15,
+      "heures": 4.3,
+      "chaleur": 12,
       "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-evercold-delayed-to-february-preorders-start-next-week/",
+          "titre": "Final Fantasy 14: Evercold delayed to February, preorders start next week"
+        },
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/final-fantasy-14-evercold-zephyr-job-release-date",
@@ -103,11 +108,78 @@ const VEILLE = {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/final-fantasy-xiv-onlines-sixth-expansion-evercold-launches-february-2027",
           "titre": "Final Fantasy XIV Online's Sixth Expansion 'Evercold' Launches February 2027"
-        },
+        }
+      ]
+    },
+    {
+      "id": "elder-scrolls-skyblivion-mod-faces-lawsuit-from-former-volun",
+      "titre": "Elder Scrolls Skyblivion mod faces lawsuit from former volunteer, project lead urges 'Please don't turn this into any kind of witch hunt'",
+      "url": "https://www.pcgamer.com/games/the-elder-scrolls/elder-scrolls-skyblivion-mod-faces-lawsuit-from-former-volunteer-project-lead-urges-please-dont-turn-this-into-any-kind-of-witch-hunt/",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 2.8,
+      "chaleur": 11,
+      "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/new-pc-games-2027/",
-          "titre": "New games in 2027: Fable, Final Fantasy 7, and (maybe) GTA 6 on PC"
+          "url": "https://www.pcgamer.com/games/the-elder-scrolls/elder-scrolls-skyblivion-mod-faces-lawsuit-from-former-volunteer-project-lead-urges-please-dont-turn-this-into-any-kind-of-witch-hunt/",
+          "titre": "Elder Scrolls Skyblivion mod faces lawsuit from former volunteer, project lead urges 'Please don't turn this into any kind of witch hunt'"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/skyblivion-former-volunteer-legal-threats",
+          "titre": "A former volunteer is threatening legal action against fan-made game project Skyblivion"
+        }
+      ]
+    },
+    {
+      "id": "fromsoftware-temporarily-shuts-down-dark-souls-2-and-3-multi",
+      "titre": "FromSoftware temporarily shuts down Dark Souls 2 and 3 multiplayer over 'server issue'",
+      "url": "https://www.pcgamer.com/games/dark-souls/fromsoftware-temporarily-shuts-down-dark-souls-2-and-3-multiplayer-over-server-issue/",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 1.6,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/dark-souls/fromsoftware-temporarily-shuts-down-dark-souls-2-and-3-multiplayer-over-server-issue/",
+          "titre": "FromSoftware temporarily shuts down Dark Souls 2 and 3 multiplayer over 'server issue'"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/dark-souls-servers-temporarily-shutting-down-fromsoftware",
+          "titre": "Dark Souls 2 and Dark Souls 3's online servers are temporarily going dark, FromSoftware announces"
+        }
+      ]
+    },
+    {
+      "id": "celeste-and-towerfall-have-delisted-from-xbox-s-digital-stor",
+      "titre": "Celeste and TowerFall have delisted from Xbox's digital storefronts to support BDS boycott",
+      "url": "https://www.pcgamer.com/games/action/celeste-and-towerfall-have-delisted-from-xboxs-digital-storefronts-to-support-bds-boycott/",
+      "sources": [
+        "GamesIndustry.biz",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 4.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/celeste-and-towerfall-have-delisted-from-xboxs-digital-storefronts-to-support-bds-boycott/",
+          "titre": "Celeste and TowerFall have delisted from Xbox's digital storefronts to support BDS boycott"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/maddy-makes-games-removes-celeste-and-towerfall-from-xbox-in-support-of-pro-palestinian-bds-boycott",
+          "titre": "Maddy Makes Games removes Celeste and TowerFall from Xbox in support of pro-Palestinian BDS boycott"
         }
       ]
     },
@@ -120,8 +192,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 0.5,
-      "chaleur": 11,
+      "heures": 5.3,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Push Square",
@@ -145,8 +217,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 8.5,
-      "chaleur": 10,
+      "heures": 13.3,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -174,8 +246,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 0.8,
-      "chaleur": 9,
+      "heures": 5.6,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
@@ -197,13 +269,49 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 9,
+      "heures": 7.9,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/playable-archive-paranormal-activity-threshold-the-mortuary-assistant-interview",
           "titre": "The Mortuary Assistant dev on laying his cancelled Paranormal Activity game to rest, resurrecting it as a Halloween freebie, and a potential return to his biggest game"
+        }
+      ]
+    },
+    {
+      "id": "rumour-days-gone-dev-to-announce-and-launch-new-ps5-game-in",
+      "titre": "Rumour: Days Gone Dev to Announce and Launch New PS5 Game in 2027",
+      "url": "https://www.pushsquare.com/news/2026/10/rumour-days-gone-dev-to-announce-and-launch-new-ps5-game-in-2027",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/rumour-days-gone-dev-to-announce-and-launch-new-ps5-game-in-2027",
+          "titre": "Rumour: Days Gone Dev to Announce and Launch New PS5 Game in 2027"
+        }
+      ]
+    },
+    {
+      "id": "fanfiction-library-of-alexandria-ao3-down-for-up-to-a-month",
+      "titre": "Fanfiction Library of Alexandria AO3 down for up to a month following hack",
+      "url": "https://www.pcgamer.com/gaming-industry/fanfiction-library-of-alexandria-ao3-down-for-up-to-a-month-following-hack/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/fanfiction-library-of-alexandria-ao3-down-for-up-to-a-month-following-hack/",
+          "titre": "Fanfiction Library of Alexandria AO3 down for up to a month following hack"
         }
       ]
     },
@@ -215,8 +323,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 8,
+      "heures": 7.1,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
@@ -233,8 +341,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 8,
+      "heures": 7.3,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -251,193 +359,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 8,
+      "heures": 7.9,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/gaming-industry/anthropic-updates-claude-to-steer-it-away-from-letting-users-clone-games-following-weeks-of-steam-being-inundated-with-ai-slop/",
           "titre": "Anthropic updates Claude to 'steer it away' from letting users clone games following weeks of Steam being inundated with AI slop"
-        }
-      ]
-    },
-    {
-      "id": "i-m-100-here-for-a-more-grounded-realistic-gta-6-one-i-belie",
-      "titre": "I'm 100% here for a more grounded, realistic GTA 6, one I believe won't come at the expense of its usual haphazard chaos",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/im-100-percent-here-for-a-more-grounded-realistic-gta-6-one-i-believe-wont-come-at-the-expense-of-its-usual-haphazard-chaos/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 5.5,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/im-100-percent-here-for-a-more-grounded-realistic-gta-6-one-i-believe-wont-come-at-the-expense-of-its-usual-haphazard-chaos/",
-          "titre": "I'm 100% here for a more grounded, realistic GTA 6, one I believe won't come at the expense of its usual haphazard chaos"
-        }
-      ]
-    },
-    {
-      "id": "pubg-live-action-series-in-the-works-at-netflix-with-donald",
-      "titre": "PUBG live-action series in the works at Netflix, with Donald Glover set to direct and star",
-      "url": "https://www.eurogamer.net/pubg-live-action-netflix-series-donald-glover",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 0.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/pubg-live-action-netflix-series-donald-glover",
-          "titre": "PUBG live-action series in the works at Netflix, with Donald Glover set to direct and star"
-        }
-      ]
-    },
-    {
-      "id": "the-top-10-scariest-rpgs-i-ve-ever-played-and-one-i-m-too-af",
-      "titre": "The top 10 scariest RPGs I've ever played⁠—and one I'm too afraid to try",
-      "url": "https://www.pcgamer.com/games/rpg/the-top-10-scariest-rpgs-ive-ever-played-and-one-im-too-afraid-to-try/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/the-top-10-scariest-rpgs-ive-ever-played-and-one-im-too-afraid-to-try/",
-          "titre": "The top 10 scariest RPGs I've ever played⁠—and one I'm too afraid to try"
-        }
-      ]
-    },
-    {
-      "id": "the-votes-are-in-and-pc-gamer-readers-have-picked-the-scarie",
-      "titre": "The votes are in, and PC Gamer readers have picked the scariest game on PC",
-      "url": "https://www.pcgamer.com/games/horror/the-votes-are-in-and-pc-gamer-readers-have-picked-the-scariest-game-on-pc/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/the-votes-are-in-and-pc-gamer-readers-have-picked-the-scariest-game-on-pc/",
-          "titre": "The votes are in, and PC Gamer readers have picked the scariest game on PC"
-        }
-      ]
-    },
-    {
-      "id": "are-we-going-too-far-with-this-one-of-the-worst-scenes-in-o",
-      "titre": "'Are we going too far with this?': One of the worst scenes in Outlast had its devs debating whether to add it to the game or not",
-      "url": "https://www.pcgamer.com/games/horror/are-we-going-too-far-with-this-one-of-the-worst-scenes-in-outlast-had-its-devs-debating-whether-to-add-it-to-the-game-or-not/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/are-we-going-too-far-with-this-one-of-the-worst-scenes-in-outlast-had-its-devs-debating-whether-to-add-it-to-the-game-or-not/",
-          "titre": "'Are we going too far with this?': One of the worst scenes in Outlast had its devs debating whether to add it to the game or not"
-        }
-      ]
-    },
-    {
-      "id": "i-spoke-to-one-of-the-world-s-only-gaming-political-scientis",
-      "titre": "I spoke to one of the world's only gaming political scientists and he taught me how to avoid getting murdered in Arc Raiders",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/i-spoke-to-one-of-the-worlds-only-gaming-political-scientists-and-he-taught-me-how-to-avoid-getting-murdered-in-arc-raiders/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/i-spoke-to-one-of-the-worlds-only-gaming-political-scientists-and-he-taught-me-how-to-avoid-getting-murdered-in-arc-raiders/",
-          "titre": "I spoke to one of the world's only gaming political scientists and he taught me how to avoid getting murdered in Arc Raiders"
-        }
-      ]
-    },
-    {
-      "id": "dune-awakening-is-getting-a-free-dlc-that-adds-a-whole-new-m",
-      "titre": "Dune: Awakening is getting a free DLC that adds a whole new map and swaps out sand for snow",
-      "url": "https://www.pcgamer.com/games/mmo/dune-awakening-is-getting-a-free-dlc-that-adds-a-whole-new-map-and-swaps-out-sand-for-snow/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/mmo/dune-awakening-is-getting-a-free-dlc-that-adds-a-whole-new-map-and-swaps-out-sand-for-snow/",
-          "titre": "Dune: Awakening is getting a free DLC that adds a whole new map and swaps out sand for snow"
-        }
-      ]
-    },
-    {
-      "id": "how-fast-do-you-type-and-has-playing-mmos-improved-your-typi",
-      "titre": "How fast do you type, and has playing MMOs improved your typing in any way?",
-      "url": "https://www.pcgamer.com/games/mmo/how-fast-do-you-type-and-has-playing-mmos-improved-your-typing-in-any-way/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/mmo/how-fast-do-you-type-and-has-playing-mmos-improved-your-typing-in-any-way/",
-          "titre": "How fast do you type, and has playing MMOs improved your typing in any way?"
-        }
-      ]
-    },
-    {
-      "id": "meet-marvel-tokon-s-newest-fighting-soul-in-full-phoenix-cyc",
-      "titre": "Meet Marvel Tokon's Newest Fighting Soul in Full Phoenix Cyclops Character Guide",
-      "url": "https://www.pushsquare.com/news/2026/10/meet-marvel-tokons-newest-fighting-soul-in-full-phoenix-cyclops-character-guide",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/meet-marvel-tokons-newest-fighting-soul-in-full-phoenix-cyclops-character-guide",
-          "titre": "Meet Marvel Tokon's Newest Fighting Soul in Full Phoenix Cyclops Character Guide"
-        }
-      ]
-    },
-    {
-      "id": "ps5-adds-another-free-open-world-game-to-your-rotation-with",
-      "titre": "PS5 Adds Another Free Open World Game to Your Rotation with Surprise Silver Palace Release Date",
-      "url": "https://www.pushsquare.com/news/2026/10/ps5-adds-another-free-open-world-game-to-your-rotation-with-surprise-silver-palace-release-date",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 4.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/ps5-adds-another-free-open-world-game-to-your-rotation-with-surprise-silver-palace-release-date",
-          "titre": "PS5 Adds Another Free Open World Game to Your Rotation with Surprise Silver Palace Release Date"
         }
       ]
     },
@@ -449,7 +377,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 9.1,
       "chaleur": 6,
       "liens": [
         {
@@ -467,7 +395,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.7,
+      "heures": 30.6,
       "chaleur": 6,
       "liens": [
         {
@@ -485,7 +413,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.5,
+      "heures": 32.3,
       "chaleur": 6,
       "liens": [
         {
@@ -503,37 +431,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 27.5,
+      "heures": 32.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/crimson-desert-free-demo-xbox-playstation",
           "titre": "Crimson Desert Enhanced Edition gets a surprise demo on PlayStation and Xbox, lets you play for 5 hours and carry over your save data"
-        }
-      ]
-    },
-    {
-      "id": "ubisoft-says-no-more-assassin-s-creed-remakes-are-planned-as",
-      "titre": "Ubisoft says no more Assassin’s Creed remakes are planned, as it gives updates on Invictus and Hexe",
-      "url": "https://www.videogameschronicle.com/news/ubisoft-says-no-more-assassins-creed-remakes-are-planned-as-it-gives-updates-on-invictus-and-hexe/",
-      "sources": [
-        "Rock Paper Shotgun",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 30.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/ubisoft-says-no-more-assassins-creed-remakes-are-planned-as-it-gives-updates-on-invictus-and-hexe/",
-          "titre": "Ubisoft says no more Assassin’s Creed remakes are planned, as it gives updates on Invictus and Hexe"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/there-are-no-more-assassins-creed-remakes-in-development-because-ubisoft-are-focused-on-hexe-invictus-and-projects-you-havent-heard-about-yet",
-          "titre": "There are no more Assassin's Creed remakes in development, because Ubisoft are focused on Hexe, Invictus and \"projects you haven't heard about yet\""
         }
       ]
     },
@@ -545,7 +449,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 23.8,
+      "heures": 28.6,
       "chaleur": 5,
       "liens": [
         {
@@ -563,7 +467,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 24.7,
+      "heures": 29.5,
       "chaleur": 5,
       "liens": [
         {
@@ -581,7 +485,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 27.6,
+      "heures": 32.5,
       "chaleur": 5,
       "liens": [
         {
@@ -599,7 +503,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 28.7,
+      "heures": 33.6,
       "chaleur": 5,
       "liens": [
         {
@@ -617,7 +521,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 28.8,
+      "heures": 33.6,
       "chaleur": 5,
       "liens": [
         {
@@ -628,20 +532,164 @@ const VEILLE = {
       ]
     },
     {
-      "id": "maddy-makes-games-removes-celeste-and-towerfall-from-xbox-in",
-      "titre": "Maddy Makes Games removes Celeste and TowerFall from Xbox in support of pro-Palestinian BDS boycott",
-      "url": "https://www.gamesindustry.biz/maddy-makes-games-removes-celeste-and-towerfall-from-xbox-in-support-of-pro-palestinian-bds-boycott",
+      "id": "pubg-live-action-series-in-the-works-at-netflix-with-donald",
+      "titre": "PUBG live-action series in the works at Netflix, with Donald Glover set to direct and star",
+      "url": "https://www.eurogamer.net/pubg-live-action-netflix-series-donald-glover",
       "sources": [
-        "GamesIndustry.biz"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 30.3,
-      "chaleur": 5,
+      "heures": 5.7,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/maddy-makes-games-removes-celeste-and-towerfall-from-xbox-in-support-of-pro-palestinian-bds-boycott",
-          "titre": "Maddy Makes Games removes Celeste and TowerFall from Xbox in support of pro-Palestinian BDS boycott"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/pubg-live-action-netflix-series-donald-glover",
+          "titre": "PUBG live-action series in the works at Netflix, with Donald Glover set to direct and star"
+        }
+      ]
+    },
+    {
+      "id": "the-top-10-scariest-rpgs-i-ve-ever-played-and-one-i-m-too-af",
+      "titre": "The top 10 scariest RPGs I've ever played⁠—and one I'm too afraid to try",
+      "url": "https://www.pcgamer.com/games/rpg/the-top-10-scariest-rpgs-ive-ever-played-and-one-im-too-afraid-to-try/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/the-top-10-scariest-rpgs-ive-ever-played-and-one-im-too-afraid-to-try/",
+          "titre": "The top 10 scariest RPGs I've ever played⁠—and one I'm too afraid to try"
+        }
+      ]
+    },
+    {
+      "id": "the-votes-are-in-and-pc-gamer-readers-have-picked-the-scarie",
+      "titre": "The votes are in, and PC Gamer readers have picked the scariest game on PC",
+      "url": "https://www.pcgamer.com/games/horror/the-votes-are-in-and-pc-gamer-readers-have-picked-the-scariest-game-on-pc/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/the-votes-are-in-and-pc-gamer-readers-have-picked-the-scariest-game-on-pc/",
+          "titre": "The votes are in, and PC Gamer readers have picked the scariest game on PC"
+        }
+      ]
+    },
+    {
+      "id": "are-we-going-too-far-with-this-one-of-the-worst-scenes-in-o",
+      "titre": "'Are we going too far with this?': One of the worst scenes in Outlast had its devs debating whether to add it to the game or not",
+      "url": "https://www.pcgamer.com/games/horror/are-we-going-too-far-with-this-one-of-the-worst-scenes-in-outlast-had-its-devs-debating-whether-to-add-it-to-the-game-or-not/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/are-we-going-too-far-with-this-one-of-the-worst-scenes-in-outlast-had-its-devs-debating-whether-to-add-it-to-the-game-or-not/",
+          "titre": "'Are we going too far with this?': One of the worst scenes in Outlast had its devs debating whether to add it to the game or not"
+        }
+      ]
+    },
+    {
+      "id": "i-spoke-to-one-of-the-world-s-only-gaming-political-scientis",
+      "titre": "I spoke to one of the world's only gaming political scientists and he taught me how to avoid getting murdered in Arc Raiders",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/i-spoke-to-one-of-the-worlds-only-gaming-political-scientists-and-he-taught-me-how-to-avoid-getting-murdered-in-arc-raiders/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/i-spoke-to-one-of-the-worlds-only-gaming-political-scientists-and-he-taught-me-how-to-avoid-getting-murdered-in-arc-raiders/",
+          "titre": "I spoke to one of the world's only gaming political scientists and he taught me how to avoid getting murdered in Arc Raiders"
+        }
+      ]
+    },
+    {
+      "id": "dune-awakening-is-getting-a-free-dlc-that-adds-a-whole-new-m",
+      "titre": "Dune: Awakening is getting a free DLC that adds a whole new map and swaps out sand for snow",
+      "url": "https://www.pcgamer.com/games/mmo/dune-awakening-is-getting-a-free-dlc-that-adds-a-whole-new-map-and-swaps-out-sand-for-snow/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 7.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/mmo/dune-awakening-is-getting-a-free-dlc-that-adds-a-whole-new-map-and-swaps-out-sand-for-snow/",
+          "titre": "Dune: Awakening is getting a free DLC that adds a whole new map and swaps out sand for snow"
+        }
+      ]
+    },
+    {
+      "id": "how-fast-do-you-type-and-has-playing-mmos-improved-your-typi",
+      "titre": "How fast do you type, and has playing MMOs improved your typing in any way?",
+      "url": "https://www.pcgamer.com/games/mmo/how-fast-do-you-type-and-has-playing-mmos-improved-your-typing-in-any-way/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 7.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/mmo/how-fast-do-you-type-and-has-playing-mmos-improved-your-typing-in-any-way/",
+          "titre": "How fast do you type, and has playing MMOs improved your typing in any way?"
+        }
+      ]
+    },
+    {
+      "id": "meet-marvel-tokon-s-newest-fighting-soul-in-full-phoenix-cyc",
+      "titre": "Meet Marvel Tokon's Newest Fighting Soul in Full Phoenix Cyclops Character Guide",
+      "url": "https://www.pushsquare.com/news/2026/10/meet-marvel-tokons-newest-fighting-soul-in-full-phoenix-cyclops-character-guide",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 8.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/meet-marvel-tokons-newest-fighting-soul-in-full-phoenix-cyclops-character-guide",
+          "titre": "Meet Marvel Tokon's Newest Fighting Soul in Full Phoenix Cyclops Character Guide"
+        }
+      ]
+    },
+    {
+      "id": "ps5-adds-another-free-open-world-game-to-your-rotation-with",
+      "titre": "PS5 Adds Another Free Open World Game to Your Rotation with Surprise Silver Palace Release Date",
+      "url": "https://www.pushsquare.com/news/2026/10/ps5-adds-another-free-open-world-game-to-your-rotation-with-surprise-silver-palace-release-date",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 8.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/ps5-adds-another-free-open-world-game-to-your-rotation-with-surprise-silver-palace-release-date",
+          "titre": "PS5 Adds Another Free Open World Game to Your Rotation with Surprise Silver Palace Release Date"
         }
       ]
     },
@@ -653,7 +701,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 9.1,
       "chaleur": 4,
       "liens": [
         {
@@ -671,31 +719,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/silent-hill-townfall-hard-mode-update",
           "titre": "Silent Hill: Townfall adds new Hard difficulty in latest update"
-        }
-      ]
-    },
-    {
-      "id": "a-former-volunteer-is-threatening-legal-action-against-fan-m",
-      "titre": "A former volunteer is threatening legal action against fan-made game project Skyblivion",
-      "url": "https://www.eurogamer.net/skyblivion-former-volunteer-legal-threats",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 5.1,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/skyblivion-former-volunteer-legal-threats",
-          "titre": "A former volunteer is threatening legal action against fan-made game project Skyblivion"
         }
       ]
     },
@@ -707,7 +737,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 10.8,
       "chaleur": 4,
       "liens": [
         {
@@ -725,7 +755,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -743,7 +773,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -761,8 +791,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.5,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -779,8 +809,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 4,
+      "heures": 15.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -797,31 +827,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 17.5,
+      "heures": 22.3,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/ps5-dynamic-pricing-concerns-revived-by-new-sony-job-listing",
           "titre": "PS5 Dynamic Pricing Concerns Revived by New Sony Job Listing"
-        }
-      ]
-    },
-    {
-      "id": "ai-powered-game-development-is-leading-to-an-explosion-of-co",
-      "titre": "AI-powered game development is 'leading to an explosion of content,' Roblox says, as it brags about 70,000 games published on its platform in the last 5 months alone",
-      "url": "https://www.pcgamer.com/software/ai/ai-powered-game-development-is-leading-to-an-explosion-of-content-roblox-says-as-it-brags-about-70-000-games-published-on-its-platform-in-the-last-5-months-alone/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 21.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/ai-powered-game-development-is-leading-to-an-explosion-of-content-roblox-says-as-it-brags-about-70-000-games-published-on-its-platform-in-the-last-5-months-alone/",
-          "titre": "AI-powered game development is 'leading to an explosion of content,' Roblox says, as it brags about 70,000 games published on its platform in the last 5 months alone"
         }
       ]
     },
@@ -833,31 +845,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 22.0,
+      "heures": 26.8,
       "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/warframes-fantasy-pilled-sister-soulframe-finally-goes-open-to-all-this-november-though-digital-extremes-are-nervous-about-certain-changes",
           "titre": "Warframe's fantasy-pilled sister Soulframe finally goes open to all this November, though Digital Extremes are \"nervous\" about certain changes"
-        }
-      ]
-    },
-    {
-      "id": "soulframe-opens-up-for-everyone-next-week-as-the-warframe-de",
-      "titre": "Soulframe opens up for everyone next week as the Warframe devs prepare the fantasy action RPG for one of its 'biggest, most violent' updates ever next month",
-      "url": "https://www.pcgamer.com/games/rpg/soulframe-opens-up-for-everyone-today-as-the-warframe-devs-prepare-the-fantasy-action-rpg-for-one-of-its-biggest-most-violent-updates-ever-next-month/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 22.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/soulframe-opens-up-for-everyone-today-as-the-warframe-devs-prepare-the-fantasy-action-rpg-for-one-of-its-biggest-most-violent-updates-ever-next-month/",
-          "titre": "Soulframe opens up for everyone next week as the Warframe devs prepare the fantasy action RPG for one of its 'biggest, most violent' updates ever next month"
         }
       ]
     },
@@ -869,7 +863,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 22.5,
+      "heures": 27.4,
       "chaleur": 3,
       "liens": [
         {
@@ -887,31 +881,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 23.4,
+      "heures": 28.2,
       "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/blizzard-console-port-hints-world-of-warcraft-forever",
           "titre": "Blizzard hints at console ports for World of Warcraft: Forever - \"Play it wherever you want and, at some point, on whatever you want\""
-        }
-      ]
-    },
-    {
-      "id": "star-trek-online-players-are-holding-public-vigils-to-mourn",
-      "titre": "Star Trek Online players are holding public vigils to mourn Patrick Stewart",
-      "url": "https://www.pcgamer.com/games/mmo/star-trek-online-players-are-holding-public-vigils-to-mourn-patrick-stewart/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 23.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/mmo/star-trek-online-players-are-holding-public-vigils-to-mourn-patrick-stewart/",
-          "titre": "Star Trek Online players are holding public vigils to mourn Patrick Stewart"
         }
       ]
     },
@@ -923,7 +899,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 23.6,
+      "heures": 28.4,
       "chaleur": 3,
       "liens": [
         {
@@ -941,31 +917,13 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 24.0,
+      "heures": 28.8,
       "chaleur": 3,
       "liens": [
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/business/roblox-growth-slumps-but-the-company-is-betting-big-on-ai-to-compensate",
           "titre": "Roblox growth slumps, but the company is betting big on AI to compensate"
-        }
-      ]
-    },
-    {
-      "id": "dark-souls-2-and-dark-souls-3-s-online-servers-are-temporari",
-      "titre": "Dark Souls 2 and Dark Souls 3's online servers are temporarily going dark, FromSoftware announces",
-      "url": "https://www.eurogamer.net/dark-souls-servers-temporarily-shutting-down-fromsoftware",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 24.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/dark-souls-servers-temporarily-shutting-down-fromsoftware",
-          "titre": "Dark Souls 2 and Dark Souls 3's online servers are temporarily going dark, FromSoftware announces"
         }
       ]
     },
@@ -977,7 +935,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.0,
+      "heures": 29.8,
       "chaleur": 3,
       "liens": [
         {
@@ -995,7 +953,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 25.5,
+      "heures": 30.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1013,7 +971,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 26.9,
+      "heures": 31.7,
       "chaleur": 3,
       "liens": [
         {
@@ -1031,7 +989,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 27.0,
+      "heures": 31.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1049,7 +1007,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 27.2,
+      "heures": 32.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1067,7 +1025,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 27.5,
+      "heures": 32.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1085,7 +1043,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 27.8,
+      "heures": 32.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1103,7 +1061,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 28.2,
+      "heures": 33.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1121,7 +1079,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 28.5,
+      "heures": 33.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1139,7 +1097,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 28.5,
+      "heures": 33.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1157,7 +1115,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 28.5,
+      "heures": 33.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1166,11 +1124,61 @@ const VEILLE = {
           "titre": "GDC Side Quest - An anti-cheat primer with Lucia Suarez"
         }
       ]
+    },
+    {
+      "id": "rockstar-developer-union-could-end-up-over-1-600-workers-str",
+      "titre": "Rockstar developer union could end up over 1,600 workers strong and encompass nearly all UK staff below senior management, IWGB claim",
+      "url": "https://www.rockpapershotgun.com/rockstar-developer-union-could-end-up-over-1600-workers-strong-and-encompass-nearly-all-uk-staff-below-senior-management-iwgb-claim",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 33.8,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/rockstar-developer-union-could-end-up-over-1600-workers-strong-and-encompass-nearly-all-uk-staff-below-senior-management-iwgb-claim",
+          "titre": "Rockstar developer union could end up over 1,600 workers strong and encompass nearly all UK staff below senior management, IWGB claim"
+        }
+      ]
+    },
+    {
+      "id": "the-scale-of-crimson-desert-just-got-even-more-absurd-after",
+      "titre": "The Scale of Crimson Desert Just Got Even More Absurd After New PS5 DLC",
+      "url": "https://www.pushsquare.com/news/2026/10/the-scale-of-crimson-desert-just-got-even-more-absurd-after-new-ps5-dlc",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 34.1,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/10/the-scale-of-crimson-desert-just-got-even-more-absurd-after-new-ps5-dlc",
+          "titre": "The Scale of Crimson Desert Just Got Even More Absurd After New PS5 DLC"
+        }
+      ]
+    },
+    {
+      "id": "helldivers-2-boss-can-absolutely-see-making-a-game-parody-of",
+      "titre": "Helldivers 2 boss can \"absolutely see\" making a game parody of generative AI, but it would need to be \"quirky\" rather than \"doom-laden\"",
+      "url": "https://www.rockpapershotgun.com/helldivers-2-boss-can-absolutely-see-making-a-game-parody-of-generative-ai-but-it-would-need-to-be-quirky-rather-than-doom-laden",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 34.3,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/helldivers-2-boss-can-absolutely-see-making-a-game-parody-of-generative-ai-but-it-would-need-to-be-quirky-rather-than-doom-laden",
+          "titre": "Helldivers 2 boss can \"absolutely see\" making a game parody of generative AI, but it would need to be \"quirky\" rather than \"doom-laden\""
+        }
+      ]
     }
   ],
-  "alertes": [
-    "EA execs choosing Star Wars Battlefront 3 over Mass Effect 5 was the main factor in BioWare's demise, according to report",
-    "Activision to remove Itaewon crowd crush footage from Call of Duty: Modern Warfare 4 and apologises to victims' families",
-    "Final Fantasy 14 reveals Evercold’s second new job and February release date, with pre-orders opening next week"
-  ]
+  "alertes": []
 };
