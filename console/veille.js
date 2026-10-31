@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "31/10/2026 à 05h24",
+  "collecte": "31/10/2026 à 12h13",
   "seuil": 14,
   "sujets": [
     {
@@ -16,7 +16,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 6,
-      "heures": 12.7,
+      "heures": 19.5,
       "chaleur": 23,
       "liens": [
         {
@@ -52,6 +52,60 @@ const VEILLE = {
       ]
     },
     {
+      "id": "talking-point-what-are-you-playing-this-weekend-31st-october",
+      "titre": "Talking Point: What Are You Playing This Weekend? (31st October)",
+      "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-31st-october",
+      "sources": [
+        "Nintendo Life",
+        "Push Square",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 3,
+      "heures": 2.2,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-31st-october",
+          "titre": "Talking Point: What Are You Playing This Weekend? (31st October)"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-406",
+          "titre": "What are we all playing this weekend?"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-656",
+          "titre": "Talking Point: What Are You Playing This Weekend? - Issue 656"
+        }
+      ]
+    },
+    {
+      "id": "guide-these-28-ps5-and-ps-plus-games-are-coming-out-next-wee",
+      "titre": "Guide: These 28+ PS5 and PS Plus Games Are Coming Out Next Week (2nd-8th November)",
+      "url": "https://www.pushsquare.com/guides/these-28plus-ps5-and-ps-plus-games-are-coming-out-next-week-2nd-8th-november",
+      "sources": [
+        "Nintendo Life",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 0.2,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/guides/these-28plus-ps5-and-ps-plus-games-are-coming-out-next-week-2nd-8th-november",
+          "titre": "Guide: These 28+ PS5 and PS Plus Games Are Coming Out Next Week (2nd-8th November)"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/video-11-exciting-new-games-coming-to-switch-1-and-2-in-november-2026",
+          "titre": "Video: 11 Exciting New Games Coming To Switch 1 & 2 In November 2026"
+        }
+      ]
+    },
+    {
       "id": "final-fantasy-xiv-online-s-sixth-expansion-evercold-launches",
       "titre": "Final Fantasy XIV Online's Sixth Expansion 'Evercold' Launches February 2027",
       "url": "https://www.nintendolife.com/news/2026/10/final-fantasy-xiv-onlines-sixth-expansion-evercold-launches-february-2027",
@@ -60,8 +114,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 1.5,
-      "chaleur": 12,
+      "heures": 8.3,
+      "chaleur": 10,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -76,42 +130,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "ubisoft-says-no-more-assassin-s-creed-remakes-are-planned-as",
-      "titre": "Ubisoft says no more Assassin’s Creed remakes are planned, as it gives updates on Invictus and Hexe",
-      "url": "https://www.videogameschronicle.com/news/ubisoft-says-no-more-assassins-creed-remakes-are-planned-as-it-gives-updates-on-invictus-and-hexe/",
-      "sources": [
-        "Eurogamer",
-        "Push Square",
-        "Rock Paper Shotgun",
-        "VGC"
-      ],
-      "reprises": 4,
-      "heures": 17.1,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/ubisoft-says-no-more-assassins-creed-remakes-are-planned-as-it-gives-updates-on-invictus-and-hexe/",
-          "titre": "Ubisoft says no more Assassin’s Creed remakes are planned, as it gives updates on Invictus and Hexe"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/no-new-assassins-creed-games-in-development-ubisoft",
-          "titre": "There are currently \"no other Assassin's Creed remakes actively in development\", says Ubisoft"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/there-are-no-more-assassins-creed-remakes-in-development-because-ubisoft-are-focused-on-hexe-invictus-and-projects-you-havent-heard-about-yet",
-          "titre": "There are no more Assassin's Creed remakes in development, because Ubisoft are focused on Hexe, Invictus and \"projects you haven't heard about yet\""
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/no-new-assassins-creed-remakes-in-the-works-at-ubisoft",
-          "titre": "No New Assassin's Creed Remakes in the Works at Ubisoft"
-        }
-      ]
-    },
-    {
       "id": "star-trek-online-players-are-holding-public-vigils-to-mourn",
       "titre": "Star Trek Online players are holding public vigils to mourn Patrick Stewart",
       "url": "https://www.pcgamer.com/games/mmo/star-trek-online-players-are-holding-public-vigils-to-mourn-patrick-stewart/",
@@ -121,8 +139,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 3,
-      "heures": 10.5,
-      "chaleur": 10,
+      "heures": 17.3,
+      "chaleur": 9,
       "liens": [
         {
           "source": "PC Gamer",
@@ -142,6 +160,36 @@ const VEILLE = {
       ]
     },
     {
+      "id": "ubisoft-says-no-more-assassin-s-creed-remakes-are-planned-as",
+      "titre": "Ubisoft says no more Assassin’s Creed remakes are planned, as it gives updates on Invictus and Hexe",
+      "url": "https://www.videogameschronicle.com/news/ubisoft-says-no-more-assassins-creed-remakes-are-planned-as-it-gives-updates-on-invictus-and-hexe/",
+      "sources": [
+        "Eurogamer",
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 23.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/ubisoft-says-no-more-assassins-creed-remakes-are-planned-as-it-gives-updates-on-invictus-and-hexe/",
+          "titre": "Ubisoft says no more Assassin’s Creed remakes are planned, as it gives updates on Invictus and Hexe"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/no-new-assassins-creed-games-in-development-ubisoft",
+          "titre": "There are currently \"no other Assassin's Creed remakes actively in development\", says Ubisoft"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/there-are-no-more-assassins-creed-remakes-in-development-because-ubisoft-are-focused-on-hexe-invictus-and-projects-you-havent-heard-about-yet",
+          "titre": "There are no more Assassin's Creed remakes in development, because Ubisoft are focused on Hexe, Invictus and \"projects you haven't heard about yet\""
+        }
+      ]
+    },
+    {
       "id": "fanatical-s-mystery-chest-bundle-offers-up-to-25-mystery-ste",
       "titre": "Fanatical’s Mystery Chest Bundle offers up to 25 mystery Steam keys for $17.49, with a chance to get Phantom Blade Zero",
       "url": "https://www.videogameschronicle.com/news/fanaticals-mystery-chest-bundle-offers-up-to-25-mystery-steam-keys-for-17-49-with-a-chance-to-get-phantom-blade-zero/",
@@ -150,8 +198,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 10.7,
-      "chaleur": 9,
+      "heures": 17.5,
+      "chaleur": 8,
       "liens": [
         {
           "source": "VGC",
@@ -174,8 +222,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 10.9,
-      "chaleur": 9,
+      "heures": 17.7,
+      "chaleur": 8,
       "liens": [
         {
           "source": "PC Gamer",
@@ -198,7 +246,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 17.2,
+      "heures": 24.0,
       "chaleur": 8,
       "liens": [
         {
@@ -222,7 +270,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 18.5,
+      "heures": 25.3,
       "chaleur": 8,
       "liens": [
         {
@@ -238,20 +286,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "guide-best-nintendo-switch-1-2-horror-games",
-      "titre": "Guide: Best Nintendo Switch 1 & 2 Horror Games",
-      "url": "https://www.nintendolife.com/guides/best-nintendo-switch-1-and-2-horror-games",
+      "id": "video-nintendo-highlights-eight-new-things-in-zelda-ocarina",
+      "titre": "Video: Nintendo Highlights Eight New Things In Zelda: Ocarina Of Time (Switch 2)",
+      "url": "https://www.nintendolife.com/news/2026/10/video-nintendo-highlights-eight-new-things-in-zelda-ocarina-of-time-switch-2",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.4,
+      "heures": 4.2,
       "chaleur": 7,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/guides/best-nintendo-switch-1-and-2-horror-games",
-          "titre": "Guide: Best Nintendo Switch 1 & 2 Horror Games"
+          "url": "https://www.nintendolife.com/news/2026/10/video-nintendo-highlights-eight-new-things-in-zelda-ocarina-of-time-switch-2",
+          "titre": "Video: Nintendo Highlights Eight New Things In Zelda: Ocarina Of Time (Switch 2)"
+        }
+      ]
+    },
+    {
+      "id": "horror-steeped-card-game-forbidden-solitaire-shows-how-a-str",
+      "titre": "Horror-steeped card game Forbidden Solitaire shows how a strong theme can elevate even decade-old mechanics",
+      "url": "https://www.rockpapershotgun.com/horror-steeped-card-game-forbidden-solitaire-shows-how-a-strong-theme-can-elevate-even-decade-old-mechanics",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/horror-steeped-card-game-forbidden-solitaire-shows-how-a-strong-theme-can-elevate-even-decade-old-mechanics",
+          "titre": "Horror-steeped card game Forbidden Solitaire shows how a strong theme can elevate even decade-old mechanics"
+        }
+      ]
+    },
+    {
+      "id": "silver-pines-is-a-great-survival-horror-throwback-with-an-un",
+      "titre": "Silver Pines is a great survival horror throwback with an unexpected Metroidvania twist, but it makes me glad the genre's moved on",
+      "url": "https://www.eurogamer.net/silver-pines-now-playing",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 2.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/silver-pines-now-playing",
+          "titre": "Silver Pines is a great survival horror throwback with an unexpected Metroidvania twist, but it makes me glad the genre's moved on"
         }
       ]
     },
@@ -264,8 +348,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 11.7,
-      "chaleur": 7,
+      "heures": 18.5,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
@@ -280,56 +364,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "video-11-exciting-new-games-coming-to-switch-1-2-in-november",
-      "titre": "Video: 11 Exciting New Games Coming To Switch 1 & 2 In November 2026",
-      "url": "https://www.nintendolife.com/news/2026/10/video-11-exciting-new-games-coming-to-switch-1-and-2-in-november-2026",
+      "id": "nintendo-showcases-every-switch-1-2-indie-world-game-in-new",
+      "titre": "Nintendo Showcases Every Switch 1 & 2 Indie World Game In New Infographic",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-showcases-every-switch-1-and-2-indie-world-game-in-new-infographic",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 19.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/video-11-exciting-new-games-coming-to-switch-1-and-2-in-november-2026",
-          "titre": "Video: 11 Exciting New Games Coming To Switch 1 & 2 In November 2026"
-        }
-      ]
-    },
-    {
-      "id": "digital-foundry-delivers-its-tech-verdict-on-call-of-duty-mo",
-      "titre": "Digital Foundry Delivers Its Tech Verdict On Call Of Duty: Modern Warfare 4 On Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/10/digital-foundry-delivers-its-tech-verdict-on-call-of-duty-modern-warfare-4-on-switch-2",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 10.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/digital-foundry-delivers-its-tech-verdict-on-call-of-duty-modern-warfare-4-on-switch-2",
-          "titre": "Digital Foundry Delivers Its Tech Verdict On Call Of Duty: Modern Warfare 4 On Switch 2"
-        }
-      ]
-    },
-    {
-      "id": "wooshy-wuxia-actioner-phantom-blade-zero-is-sharp-enough-on",
-      "titre": "Wooshy wuxia actioner Phantom Blade Zero is sharp enough on the Steam Machine, if blunted on the Steam Deck",
-      "url": "https://www.rockpapershotgun.com/phantom-blade-zero-steam-machine-steam-deck",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 11.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/phantom-blade-zero-steam-machine-steam-deck",
-          "titre": "Wooshy wuxia actioner Phantom Blade Zero is sharp enough on the Steam Machine, if blunted on the Steam Deck"
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-showcases-every-switch-1-and-2-indie-world-game-in-new-infographic",
+          "titre": "Nintendo Showcases Every Switch 1 & 2 Indie World Game In New Infographic"
         }
       ]
     },
@@ -342,7 +390,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 13.1,
+      "heures": 19.9,
       "chaleur": 6,
       "liens": [
         {
@@ -365,31 +413,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.0,
+      "heures": 20.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-souped-up-red-dead-redemption-2-style-morality-system-will-scale-from-professional-to-irredeemable-so-players-can-decide-what-kind-of-criminal-they-want-to-be/",
           "titre": "GTA 6's souped-up Red Dead Redemption 2-style morality system will scale from 'Professional' to 'Irredeemable' so players can decide what kind of criminal they want to be"
-        }
-      ]
-    },
-    {
-      "id": "guide-last-chance-to-grab-these-61-switch-1-2-games-in-ninte",
-      "titre": "Guide: Last Chance To Grab These 61 Switch 1 & 2 Games In Nintendo's 'Halloween Sale' (Europe)",
-      "url": "https://www.nintendolife.com/guides/last-chance-to-grab-these-61-switch-1-and-2-games-in-nintendos-halloween-sale-europe",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 14.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/guides/last-chance-to-grab-these-61-switch-1-and-2-games-in-nintendos-halloween-sale-europe",
-          "titre": "Guide: Last Chance To Grab These 61 Switch 1 & 2 Games In Nintendo's 'Halloween Sale' (Europe)"
         }
       ]
     },
@@ -401,37 +431,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 21.2,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/crimson-desert-free-demo-xbox-playstation",
           "titre": "Crimson Desert Enhanced Edition gets a surprise demo on PlayStation and Xbox, lets you play for 5 hours and carry over your save data"
-        }
-      ]
-    },
-    {
-      "id": "sony-has-snapped-up-the-film-rights-for-mouthwashing",
-      "titre": "Sony has snapped up the film rights for Mouthwashing",
-      "url": "https://www.eurogamer.net/mouthwashing-movie-rights-sony-director",
-      "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 17.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/mouthwashing-movie-rights-sony-director",
-          "titre": "Sony has snapped up the film rights for Mouthwashing"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/mouthwashing-is-getting-a-feature-film-adaptation-from-sony-and-i-need-all-of-you-to-be-normal-about-it-whenever-it-comes-out",
-          "titre": "Mouthwashing is getting a feature film adaptation from Sony and I need all of you to be normal about it whenever it comes out"
         }
       ]
     },
@@ -443,7 +449,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 26.5,
+      "heures": 33.3,
       "chaleur": 6,
       "liens": [
         {
@@ -454,26 +460,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "destiny-2-content-unvaulting-won-t-take-place-until-2028",
-      "titre": "Destiny 2 Content Unvaulting Won't Take Place Until 2028",
-      "url": "https://www.pushsquare.com/news/2026/10/destiny-2-content-unvaulting-wont-take-place-until-2028",
+      "id": "digital-foundry-delivers-its-tech-verdict-on-call-of-duty-mo",
+      "titre": "Digital Foundry Delivers Its Tech Verdict On Call Of Duty: Modern Warfare 4 On Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/10/digital-foundry-delivers-its-tech-verdict-on-call-of-duty-modern-warfare-4-on-switch-2",
       "sources": [
-        "Push Square",
-        "Rock Paper Shotgun"
+        "Nintendo Life"
       ],
-      "reprises": 2,
-      "heures": 33.9,
-      "chaleur": 6,
+      "reprises": 1,
+      "heures": 17.5,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/destiny-2-content-unvaulting-wont-take-place-until-2028",
-          "titre": "Destiny 2 Content Unvaulting Won't Take Place Until 2028"
-        },
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/digital-foundry-delivers-its-tech-verdict-on-call-of-duty-modern-warfare-4-on-switch-2",
+          "titre": "Digital Foundry Delivers Its Tech Verdict On Call Of Duty: Modern Warfare 4 On Switch 2"
+        }
+      ]
+    },
+    {
+      "id": "wooshy-wuxia-actioner-phantom-blade-zero-is-sharp-enough-on",
+      "titre": "Wooshy wuxia actioner Phantom Blade Zero is sharp enough on the Steam Machine, if blunted on the Steam Deck",
+      "url": "https://www.rockpapershotgun.com/phantom-blade-zero-steam-machine-steam-deck",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 18.5,
+      "chaleur": 5,
+      "liens": [
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/it-sounds-like-you-shouldnt-expect-destiny-2s-campaign-unvaulting-to-be-ready-until-2028-as-bungie-tease-their-plans-for-the-future-of-the-series",
-          "titre": "It sounds like you shouldn't expect Destiny 2's campaign unvaulting to be ready until 2028, as Bungie tease their plans for the future of the series"
+          "url": "https://www.rockpapershotgun.com/phantom-blade-zero-steam-machine-steam-deck",
+          "titre": "Wooshy wuxia actioner Phantom Blade Zero is sharp enough on the Steam Machine, if blunted on the Steam Deck"
         }
       ]
     },
@@ -485,7 +503,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 14.6,
+      "heures": 21.4,
       "chaleur": 5,
       "liens": [
         {
@@ -503,7 +521,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.7,
+      "heures": 22.5,
       "chaleur": 5,
       "liens": [
         {
@@ -514,56 +532,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "it-hasn-t-made-any-difference-gears-of-war-ps5-cancellation",
-      "titre": "'It Hasn't Made Any Difference': Gears of War PS5 Cancellation Fails to Boost Xbox",
-      "url": "https://www.pushsquare.com/news/2026/10/it-hasnt-made-any-difference-gears-of-war-ps5-cancellation-fails-to-boost-xbox",
+      "id": "what-we-ve-been-playing-i-ve-been-intrigued-by-horrible-imag",
+      "titre": "What we've been playing - \"I've been intrigued by horrible images of live-action sequences for weeks\"",
+      "url": "https://www.eurogamer.net/what-weve-been-playing-tenebris-somnia-moonlight-peaks-amnesia",
       "sources": [
-        "Push Square"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 34.4,
-      "chaleur": 5,
+      "heures": 4.2,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/it-hasnt-made-any-difference-gears-of-war-ps5-cancellation-fails-to-boost-xbox",
-          "titre": "'It Hasn't Made Any Difference': Gears of War PS5 Cancellation Fails to Boost Xbox"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/what-weve-been-playing-tenebris-somnia-moonlight-peaks-amnesia",
+          "titre": "What we've been playing - \"I've been intrigued by horrible images of live-action sequences for weeks\""
         }
       ]
     },
     {
-      "id": "the-elder-scrolls-6-sentinel-will-be-an-elder-scrolls-game-a",
-      "titre": "The Elder Scrolls 6: Sentinel will be an Elder Scrolls game about the infinite mysteries of the Elder Scrolls, report with some plot hintage claims",
-      "url": "https://www.rockpapershotgun.com/the-elder-scrolls-6-sentinel-will-be-an-elder-scrolls-game-about-the-infinite-mysteries-of-the-elder-scrolls-report-with-some-plot-hintage-claims",
+      "id": "it-s-absolutely-still-in-progress-yacht-club-shares-an-upda",
+      "titre": "\"It's Absolutely Still In Progress\" - Yacht Club Shares An Update About Mina The Hollower's Physical Release",
+      "url": "https://www.nintendolife.com/news/2026/10/its-absolutely-still-in-progress-yacht-club-shares-an-update-about-mina-the-hollowers-physical-release",
       "sources": [
-        "Rock Paper Shotgun"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 35.3,
-      "chaleur": 5,
+      "heures": 6.3,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-elder-scrolls-6-sentinel-will-be-an-elder-scrolls-game-about-the-infinite-mysteries-of-the-elder-scrolls-report-with-some-plot-hintage-claims",
-          "titre": "The Elder Scrolls 6: Sentinel will be an Elder Scrolls game about the infinite mysteries of the Elder Scrolls, report with some plot hintage claims"
-        }
-      ]
-    },
-    {
-      "id": "xbox-ceo-says-console-demand-is-outstripping-supply-but-sale",
-      "titre": "Xbox CEO says console demand is outstripping supply—but sales continue to drop",
-      "url": "https://www.gamedeveloper.com/console/xbox-ceo-says-console-demand-is-outstripping-supply-as-sales-continue-to-drop",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 35.8,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/console/xbox-ceo-says-console-demand-is-outstripping-supply-as-sales-continue-to-drop",
-          "titre": "Xbox CEO says console demand is outstripping supply—but sales continue to drop"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/its-absolutely-still-in-progress-yacht-club-shares-an-update-about-mina-the-hollowers-physical-release",
+          "titre": "\"It's Absolutely Still In Progress\" - Yacht Club Shares An Update About Mina The Hollower's Physical Release"
         }
       ]
     },
@@ -575,31 +575,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 11.2,
       "chaleur": 4,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/ps5-dynamic-pricing-concerns-revived-by-new-sony-job-listing",
           "titre": "PS5 Dynamic Pricing Concerns Revived by New Sony Job Listing"
-        }
-      ]
-    },
-    {
-      "id": "talking-point-what-are-you-playing-this-weekend-issue-656",
-      "titre": "Talking Point: What Are You Playing This Weekend? - Issue 656",
-      "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-656",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 5.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-656",
-          "titre": "Talking Point: What Are You Playing This Weekend? - Issue 656"
         }
       ]
     },
@@ -611,8 +593,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.7,
-      "chaleur": 4,
+      "heures": 15.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -629,8 +611,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.9,
-      "chaleur": 4,
+      "heures": 15.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -647,8 +629,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.9,
-      "chaleur": 4,
+      "heures": 15.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -665,8 +647,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.5,
-      "chaleur": 4,
+      "heures": 16.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -683,8 +665,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
+      "heures": 17.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -701,8 +683,8 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 4,
+      "heures": 17.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Game Developer",
@@ -719,8 +701,8 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 4,
+      "heures": 17.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Game Developer",
@@ -737,8 +719,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.7,
-      "chaleur": 4,
+      "heures": 18.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -755,8 +737,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 4,
+      "heures": 18.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -773,8 +755,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 4,
+      "heures": 18.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -791,7 +773,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.1,
+      "heures": 18.9,
       "chaleur": 3,
       "liens": [
         {
@@ -809,7 +791,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.3,
+      "heures": 19.1,
       "chaleur": 3,
       "liens": [
         {
@@ -827,7 +809,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.7,
+      "heures": 19.5,
       "chaleur": 3,
       "liens": [
         {
@@ -845,7 +827,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 20.2,
       "chaleur": 3,
       "liens": [
         {
@@ -863,7 +845,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 20.7,
       "chaleur": 3,
       "liens": [
         {
@@ -881,7 +863,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 20.7,
       "chaleur": 3,
       "liens": [
         {
@@ -899,7 +881,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.0,
+      "heures": 20.8,
       "chaleur": 3,
       "liens": [
         {
@@ -917,7 +899,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.1,
+      "heures": 21.0,
       "chaleur": 3,
       "liens": [
         {
@@ -935,7 +917,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 21.2,
       "chaleur": 3,
       "liens": [
         {
@@ -953,7 +935,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 14.8,
+      "heures": 21.6,
       "chaleur": 3,
       "liens": [
         {
@@ -971,7 +953,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.1,
+      "heures": 21.9,
       "chaleur": 3,
       "liens": [
         {
@@ -989,7 +971,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 22.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1007,7 +989,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 22.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1025,7 +1007,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 22.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1043,7 +1025,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.9,
+      "heures": 22.7,
       "chaleur": 3,
       "liens": [
         {
@@ -1061,7 +1043,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.2,
+      "heures": 23.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1079,7 +1061,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 23.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1097,7 +1079,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 16.8,
+      "heures": 23.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1115,13 +1097,31 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 16.9,
+      "heures": 23.7,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/the-wolf-among-us-remastered-hit-with-ps5-upgrade-pricing-issues",
           "titre": "The Wolf Among Us Remastered Hit with PS5 Upgrade Pricing Issues"
+        }
+      ]
+    },
+    {
+      "id": "sony-has-snapped-up-the-film-rights-for-mouthwashing",
+      "titre": "Sony has snapped up the film rights for Mouthwashing",
+      "url": "https://www.eurogamer.net/mouthwashing-movie-rights-sony-director",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 24.2,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/mouthwashing-movie-rights-sony-director",
+          "titre": "Sony has snapped up the film rights for Mouthwashing"
         }
       ]
     },
@@ -1133,7 +1133,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 24.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1151,7 +1151,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.4,
+      "heures": 25.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1169,7 +1169,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 18.7,
+      "heures": 25.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1187,7 +1187,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 18.8,
+      "heures": 25.7,
       "chaleur": 3,
       "liens": [
         {
