@@ -1,86 +1,8 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "31/10/2026 à 23h18",
+  "collecte": "01/11/2026 à 05h51",
   "seuil": 14,
   "sujets": [
-    {
-      "id": "ea-execs-choosing-star-wars-battlefront-3-over-mass-effect-5",
-      "titre": "EA execs choosing Star Wars Battlefront 3 over Mass Effect 5 was the main factor in BioWare's demise, according to report",
-      "url": "https://www.rockpapershotgun.com/ea-execs-choosing-star-wars-battlefront-3-over-mass-effect-5-was-the-main-factor-in-biowares-demise-according-to-report",
-      "sources": [
-        "Eurogamer",
-        "Game Developer",
-        "Push Square",
-        "Rock Paper Shotgun",
-        "VGC"
-      ],
-      "reprises": 5,
-      "heures": 31.3,
-      "chaleur": 20,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/ea-execs-choosing-star-wars-battlefront-3-over-mass-effect-5-was-the-main-factor-in-biowares-demise-according-to-report",
-          "titre": "EA execs choosing Star Wars Battlefront 3 over Mass Effect 5 was the main factor in BioWare's demise, according to report"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/new-mass-effect-cancelled-so-ea-can-focus-on-star-wars-battlefront-3",
-          "titre": "New Mass Effect Cancelled So EA Can Focus on Star Wars Battlefront 3"
-        },
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/report-ea-shut-down-bioware-in-favor-of-star-wars-battlefront-sequel-after-previously-decrying-licensed-games",
-          "titre": "Report: EA shut down BioWare in favor of Star Wars: Battlefront sequel after previously decrying licensed games"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/ea-closed-bioware-because-star-wars-battlefront-3",
-          "titre": "EA reportedly closed BioWare because it was forced to choose between Mass Effect 5 and Star Wars Battlefront 3"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/ea-chose-to-shut-down-bioware-so-it-could-make-star-wars-battlefront-3-instead-its-claimed/",
-          "titre": "EA chose to shut down BioWare so it could make Star Wars Battlefront 3 instead, it’s claimed"
-        }
-      ]
-    },
-    {
-      "id": "activision-to-remove-itaewon-crowd-crush-footage-from-call-o",
-      "titre": "Activision to remove Itaewon crowd crush footage from Call of Duty: Modern Warfare 4 and apologises to victims' families",
-      "url": "https://www.eurogamer.net/modern-warfare-4-itaewon-footage-removed-activision-apology",
-      "sources": [
-        "Eurogamer",
-        "Nintendo Life",
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 4,
-      "heures": 7.3,
-      "chaleur": 15,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/modern-warfare-4-itaewon-footage-removed-activision-apology",
-          "titre": "Activision to remove Itaewon crowd crush footage from Call of Duty: Modern Warfare 4 and apologises to victims' families"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/digital-foundry-delivers-its-tech-verdict-on-call-of-duty-modern-warfare-4-on-switch-2",
-          "titre": "Digital Foundry Delivers Its Tech Verdict On Call Of Duty: Modern Warfare 4 On Switch 2"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/activision-apologizes-and-says-it-will-remove-south-korean-crush-footage-from-modern-warfare-4-after-victims-families-speak-out/",
-          "titre": "Activision apologizes and says it will remove South Korean crush footage from Modern Warfare 4 after victims’ families speak out"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/new-call-of-duty-to-remove-appalling-footage-of-real-life-tragedy",
-          "titre": "New Call of Duty to Remove 'Appalling' Footage of Real-Life Tragedy"
-        }
-      ]
-    },
     {
       "id": "final-fantasy-14-evercold-delayed-to-february-preorders-star",
       "titre": "Final Fantasy 14: Evercold delayed to February, preorders start next week",
@@ -91,7 +13,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 3,
-      "heures": 4.3,
+      "heures": 10.9,
       "chaleur": 12,
       "liens": [
         {
@@ -120,8 +42,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 2.8,
-      "chaleur": 11,
+      "heures": 9.4,
+      "chaleur": 9,
       "liens": [
         {
           "source": "PC Gamer",
@@ -136,54 +58,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "fromsoftware-temporarily-shuts-down-dark-souls-2-and-3-multi",
-      "titre": "FromSoftware temporarily shuts down Dark Souls 2 and 3 multiplayer over 'server issue'",
-      "url": "https://www.pcgamer.com/games/dark-souls/fromsoftware-temporarily-shuts-down-dark-souls-2-and-3-multiplayer-over-server-issue/",
-      "sources": [
-        "Eurogamer",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 1.6,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/dark-souls/fromsoftware-temporarily-shuts-down-dark-souls-2-and-3-multiplayer-over-server-issue/",
-          "titre": "FromSoftware temporarily shuts down Dark Souls 2 and 3 multiplayer over 'server issue'"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/dark-souls-servers-temporarily-shutting-down-fromsoftware",
-          "titre": "Dark Souls 2 and Dark Souls 3's online servers are temporarily going dark, FromSoftware announces"
-        }
-      ]
-    },
-    {
-      "id": "celeste-and-towerfall-have-delisted-from-xbox-s-digital-stor",
-      "titre": "Celeste and TowerFall have delisted from Xbox's digital storefronts to support BDS boycott",
-      "url": "https://www.pcgamer.com/games/action/celeste-and-towerfall-have-delisted-from-xboxs-digital-storefronts-to-support-bds-boycott/",
-      "sources": [
-        "GamesIndustry.biz",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 4.3,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/celeste-and-towerfall-have-delisted-from-xboxs-digital-storefronts-to-support-bds-boycott/",
-          "titre": "Celeste and TowerFall have delisted from Xbox's digital storefronts to support BDS boycott"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/maddy-makes-games-removes-celeste-and-towerfall-from-xbox-in-support-of-pro-palestinian-bds-boycott",
-          "titre": "Maddy Makes Games removes Celeste and TowerFall from Xbox in support of pro-Palestinian BDS boycott"
-        }
-      ]
-    },
-    {
       "id": "poll-are-you-happy-with-your-ps-plus-essential-games-for-nov",
       "titre": "Poll: Are You Happy with Your PS Plus Essential Games for November 2026?",
       "url": "https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-essential-games-for-november-2026",
@@ -192,7 +66,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 5.3,
+      "heures": 11.9,
       "chaleur": 9,
       "liens": [
         {
@@ -217,7 +91,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 13.3,
+      "heures": 19.9,
       "chaleur": 9,
       "liens": [
         {
@@ -238,6 +112,66 @@ const VEILLE = {
       ]
     },
     {
+      "id": "forza-co-creator-dan-greenawalt-is-reportedly-leaving-micros",
+      "titre": "Forza co-creator Dan Greenawalt is reportedly leaving Microsoft",
+      "url": "https://www.pcgamer.com/games/racing/forza-co-creator-dan-greenawalt-is-reportedly-leaving-microsoft/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/racing/forza-co-creator-dan-greenawalt-is-reportedly-leaving-microsoft/",
+          "titre": "Forza co-creator Dan Greenawalt is reportedly leaving Microsoft"
+        }
+      ]
+    },
+    {
+      "id": "activision-to-remove-itaewon-crowd-crush-footage-from-call-o",
+      "titre": "Activision to remove Itaewon crowd crush footage from Call of Duty: Modern Warfare 4 and apologises to victims' families",
+      "url": "https://www.eurogamer.net/modern-warfare-4-itaewon-footage-removed-activision-apology",
+      "sources": [
+        "Eurogamer",
+        "Nintendo Life"
+      ],
+      "reprises": 2,
+      "heures": 13.9,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/modern-warfare-4-itaewon-footage-removed-activision-apology",
+          "titre": "Activision to remove Itaewon crowd crush footage from Call of Duty: Modern Warfare 4 and apologises to victims' families"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/10/digital-foundry-delivers-its-tech-verdict-on-call-of-duty-modern-warfare-4-on-switch-2",
+          "titre": "Digital Foundry Delivers Its Tech Verdict On Call Of Duty: Modern Warfare 4 On Switch 2"
+        }
+      ]
+    },
+    {
+      "id": "celeste-and-towerfall-have-delisted-from-xbox-s-digital-stor",
+      "titre": "Celeste and TowerFall have delisted from Xbox's digital storefronts to support BDS boycott",
+      "url": "https://www.pcgamer.com/games/action/celeste-and-towerfall-have-delisted-from-xboxs-digital-storefronts-to-support-bds-boycott/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 10.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/celeste-and-towerfall-have-delisted-from-xboxs-digital-storefronts-to-support-bds-boycott/",
+          "titre": "Celeste and TowerFall have delisted from Xbox's digital storefronts to support BDS boycott"
+        }
+      ]
+    },
+    {
       "id": "yacht-club-confirms-mina-the-hollower-was-the-shot-in-the-ar",
       "titre": "Yacht Club confirms Mina the Hollower was the shot in the arm it needed stay alive—'for now'",
       "url": "https://www.pcgamer.com/games/adventure/yacht-club-confirms-mina-the-hollower-was-the-shot-in-the-arm-it-needed-stay-alive-for-now/",
@@ -246,8 +180,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 5.6,
-      "chaleur": 7,
+      "heures": 12.2,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
@@ -269,49 +203,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.9,
-      "chaleur": 7,
+      "heures": 14.4,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/playable-archive-paranormal-activity-threshold-the-mortuary-assistant-interview",
           "titre": "The Mortuary Assistant dev on laying his cancelled Paranormal Activity game to rest, resurrecting it as a Halloween freebie, and a potential return to his biggest game"
-        }
-      ]
-    },
-    {
-      "id": "rumour-days-gone-dev-to-announce-and-launch-new-ps5-game-in",
-      "titre": "Rumour: Days Gone Dev to Announce and Launch New PS5 Game in 2027",
-      "url": "https://www.pushsquare.com/news/2026/10/rumour-days-gone-dev-to-announce-and-launch-new-ps5-game-in-2027",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 0.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/rumour-days-gone-dev-to-announce-and-launch-new-ps5-game-in-2027",
-          "titre": "Rumour: Days Gone Dev to Announce and Launch New PS5 Game in 2027"
-        }
-      ]
-    },
-    {
-      "id": "fanfiction-library-of-alexandria-ao3-down-for-up-to-a-month",
-      "titre": "Fanfiction Library of Alexandria AO3 down for up to a month following hack",
-      "url": "https://www.pcgamer.com/gaming-industry/fanfiction-library-of-alexandria-ao3-down-for-up-to-a-month-following-hack/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/fanfiction-library-of-alexandria-ao3-down-for-up-to-a-month-following-hack/",
-          "titre": "Fanfiction Library of Alexandria AO3 down for up to a month following hack"
         }
       ]
     },
@@ -323,8 +221,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.1,
-      "chaleur": 6,
+      "heures": 13.7,
+      "chaleur": 5,
       "liens": [
         {
           "source": "PC Gamer",
@@ -341,31 +239,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.3,
-      "chaleur": 6,
+      "heures": 13.9,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-7-grave-expectations",
           "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #7 - Grave Expectations"
-        }
-      ]
-    },
-    {
-      "id": "anthropic-updates-claude-to-steer-it-away-from-letting-users",
-      "titre": "Anthropic updates Claude to 'steer it away' from letting users clone games following weeks of Steam being inundated with AI slop",
-      "url": "https://www.pcgamer.com/gaming-industry/anthropic-updates-claude-to-steer-it-away-from-letting-users-clone-games-following-weeks-of-steam-being-inundated-with-ai-slop/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 7.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/anthropic-updates-claude-to-steer-it-away-from-letting-users-clone-games-following-weeks-of-steam-being-inundated-with-ai-slop/",
-          "titre": "Anthropic updates Claude to 'steer it away' from letting users clone games following weeks of Steam being inundated with AI slop"
         }
       ]
     },
@@ -377,67 +257,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.1,
-      "chaleur": 6,
+      "heures": 15.6,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/nintendo-drops-surprise-pikmin-day-direct",
           "titre": "Nintendo Drops Surprise 'Pikmin Day' Direct"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-showcases-every-switch-1-2-indie-world-game-in-new",
-      "titre": "Nintendo Showcases Every Switch 1 & 2 Indie World Game In New Infographic",
-      "url": "https://www.nintendolife.com/news/2026/10/nintendo-showcases-every-switch-1-and-2-indie-world-game-in-new-infographic",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 30.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendo-showcases-every-switch-1-and-2-indie-world-game-in-new-infographic",
-          "titre": "Nintendo Showcases Every Switch 1 & 2 Indie World Game In New Infographic"
-        }
-      ]
-    },
-    {
-      "id": "guide-last-chance-to-grab-these-61-switch-1-2-games-in-ninte",
-      "titre": "Guide: Last Chance To Grab These 61 Switch 1 & 2 Games In Nintendo's 'Halloween Sale' (Europe)",
-      "url": "https://www.nintendolife.com/guides/last-chance-to-grab-these-61-switch-1-and-2-games-in-nintendos-halloween-sale-europe",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 32.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/guides/last-chance-to-grab-these-61-switch-1-and-2-games-in-nintendos-halloween-sale-europe",
-          "titre": "Guide: Last Chance To Grab These 61 Switch 1 & 2 Games In Nintendo's 'Halloween Sale' (Europe)"
-        }
-      ]
-    },
-    {
-      "id": "crimson-desert-enhanced-edition-gets-a-surprise-demo-on-play",
-      "titre": "Crimson Desert Enhanced Edition gets a surprise demo on PlayStation and Xbox, lets you play for 5 hours and carry over your save data",
-      "url": "https://www.eurogamer.net/crimson-desert-free-demo-xbox-playstation",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 32.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/crimson-desert-free-demo-xbox-playstation",
-          "titre": "Crimson Desert Enhanced Edition gets a surprise demo on PlayStation and Xbox, lets you play for 5 hours and carry over your save data"
         }
       ]
     },
@@ -449,7 +275,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 28.6,
+      "heures": 35.1,
       "chaleur": 5,
       "liens": [
         {
@@ -460,74 +286,92 @@ const VEILLE = {
       ]
     },
     {
-      "id": "wooshy-wuxia-actioner-phantom-blade-zero-is-sharp-enough-on",
-      "titre": "Wooshy wuxia actioner Phantom Blade Zero is sharp enough on the Steam Machine, if blunted on the Steam Deck",
-      "url": "https://www.rockpapershotgun.com/phantom-blade-zero-steam-machine-steam-deck",
+      "id": "after-almost-a-decade-of-work-alien-isolation-mod-tools-hit",
+      "titre": "After almost a decade of work, Alien: Isolation mod tools hit 1.0 with support for 'full custom maps, missions, modes, characters, weapons, animations, sounds, models, textures, and more'",
+      "url": "https://www.pcgamer.com/games/horror/after-almost-a-decade-of-work-alien-isolation-mod-tools-hit-1-0-with-support-for-full-custom-maps-missions-modes-characters-weapons-animations-sounds-models-textures-and-more/",
       "sources": [
-        "Rock Paper Shotgun"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 29.5,
-      "chaleur": 5,
+      "heures": 4.3,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/phantom-blade-zero-steam-machine-steam-deck",
-          "titre": "Wooshy wuxia actioner Phantom Blade Zero is sharp enough on the Steam Machine, if blunted on the Steam Deck"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/after-almost-a-decade-of-work-alien-isolation-mod-tools-hit-1-0-with-support-for-full-custom-maps-missions-modes-characters-weapons-animations-sounds-models-textures-and-more/",
+          "titre": "After almost a decade of work, Alien: Isolation mod tools hit 1.0 with support for 'full custom maps, missions, modes, characters, weapons, animations, sounds, models, textures, and more'"
         }
       ]
     },
     {
-      "id": "podcast-we-pitch-xbox-s-800-million-netflix-empire",
-      "titre": "Podcast: We pitch Xbox’s $800 Million Netflix empire",
-      "url": "https://www.videogameschronicle.com/blog/podcast/podcast-we-pitch-xboxs-800-million-netflix-empire/",
+      "id": "rumour-alleged-persona-1-remake-gameplay-leaks-online",
+      "titre": "Rumour: Alleged Persona 1 Remake Gameplay Leaks Online",
+      "url": "https://www.pushsquare.com/news/2026/11/rumour-alleged-persona-1-remake-gameplay-leaks-online",
       "sources": [
-        "VGC"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 32.5,
-      "chaleur": 5,
+      "heures": 4.9,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/blog/podcast/podcast-we-pitch-xboxs-800-million-netflix-empire/",
-          "titre": "Podcast: We pitch Xbox’s $800 Million Netflix empire"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/rumour-alleged-persona-1-remake-gameplay-leaks-online",
+          "titre": "Rumour: Alleged Persona 1 Remake Gameplay Leaks Online"
         }
       ]
     },
     {
-      "id": "nintendo-cancels-kirby-air-riders-halloween-event-following",
-      "titre": "Nintendo Cancels Kirby Air Riders Halloween Event Following Performance Woes",
-      "url": "https://www.nintendolife.com/news/2026/10/nintendo-cancels-kirby-air-riders-halloween-event-following-performance-woes",
+      "id": "rumour-days-gone-dev-to-announce-and-launch-new-ps5-game-in",
+      "titre": "Rumour: Days Gone Dev to Announce and Launch New PS5 Game in 2027",
+      "url": "https://www.pushsquare.com/news/2026/11/rumour-days-gone-dev-to-announce-and-launch-new-ps5-game-in-2027",
       "sources": [
-        "Nintendo Life"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 33.6,
-      "chaleur": 5,
+      "heures": 5.9,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendo-cancels-kirby-air-riders-halloween-event-following-performance-woes",
-          "titre": "Nintendo Cancels Kirby Air Riders Halloween Event Following Performance Woes"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/rumour-days-gone-dev-to-announce-and-launch-new-ps5-game-in-2027",
+          "titre": "Rumour: Days Gone Dev to Announce and Launch New PS5 Game in 2027"
         }
       ]
     },
     {
-      "id": "john-romero-confirms-his-axed-xbox-game-has-a-new-publisher",
-      "titre": "John Romero confirms his axed Xbox game has a new publisher and he’s rehired some staff",
-      "url": "https://www.videogameschronicle.com/news/john-romero-confirms-his-axed-xbox-game-has-a-new-publisher-and-hes-rehired-some-staff/",
+      "id": "fromsoftware-temporarily-shuts-down-dark-souls-2-and-3-multi",
+      "titre": "FromSoftware temporarily shuts down Dark Souls 2 and 3 multiplayer over 'server issue'",
+      "url": "https://www.pcgamer.com/games/dark-souls/fromsoftware-temporarily-shuts-down-dark-souls-2-and-3-multiplayer-over-server-issue/",
       "sources": [
-        "VGC"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 33.6,
-      "chaleur": 5,
+      "heures": 8.2,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/john-romero-confirms-his-axed-xbox-game-has-a-new-publisher-and-hes-rehired-some-staff/",
-          "titre": "John Romero confirms his axed Xbox game has a new publisher and he’s rehired some staff"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/dark-souls/fromsoftware-temporarily-shuts-down-dark-souls-2-and-3-multiplayer-over-server-issue/",
+          "titre": "FromSoftware temporarily shuts down Dark Souls 2 and 3 multiplayer over 'server issue'"
+        }
+      ]
+    },
+    {
+      "id": "fanfiction-library-of-alexandria-ao3-down-for-up-to-a-month",
+      "titre": "Fanfiction Library of Alexandria AO3 down for up to a month following hack",
+      "url": "https://www.pcgamer.com/gaming-industry/fanfiction-library-of-alexandria-ao3-down-for-up-to-a-month-following-hack/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 8.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/fanfiction-library-of-alexandria-ao3-down-for-up-to-a-month-following-hack/",
+          "titre": "Fanfiction Library of Alexandria AO3 down for up to a month following hack"
         }
       ]
     },
@@ -539,8 +383,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.7,
-      "chaleur": 4,
+      "heures": 12.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -557,8 +401,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.9,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -575,8 +419,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.9,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -593,8 +437,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.3,
-      "chaleur": 4,
+      "heures": 12.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -611,8 +455,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.3,
-      "chaleur": 4,
+      "heures": 12.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -629,8 +473,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.0,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -647,8 +491,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.3,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -665,8 +509,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.1,
-      "chaleur": 4,
+      "heures": 14.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -683,31 +527,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.8,
-      "chaleur": 4,
+      "heures": 15.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/10/ps5-adds-another-free-open-world-game-to-your-rotation-with-surprise-silver-palace-release-date",
           "titre": "PS5 Adds Another Free Open World Game to Your Rotation with Surprise Silver Palace Release Date"
-        }
-      ]
-    },
-    {
-      "id": "red-barrels-co-founder-is-just-as-confused-as-we-are-as-to-w",
-      "titre": "Red Barrels' co-founder is just as confused as we are as to why no one's tried to replicate Outlast's success: 'Honestly, I don't know'",
-      "url": "https://www.pcgamer.com/games/horror/red-barrels-co-founder-is-just-as-confused-as-we-are-as-to-why-no-ones-tried-to-replicate-outlasts-success-honestly-i-dont-know/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 9.1,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/horror/red-barrels-co-founder-is-just-as-confused-as-we-are-as-to-why-no-ones-tried-to-replicate-outlasts-success-honestly-i-dont-know/",
-          "titre": "Red Barrels' co-founder is just as confused as we are as to why no one's tried to replicate Outlast's success: 'Honestly, I don't know'"
         }
       ]
     },
@@ -719,8 +545,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.4,
-      "chaleur": 4,
+      "heures": 16.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -737,8 +563,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 4,
+      "heures": 17.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -755,8 +581,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 17.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -773,8 +599,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 17.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -791,7 +617,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 19.9,
       "chaleur": 3,
       "liens": [
         {
@@ -809,7 +635,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.3,
+      "heures": 21.9,
       "chaleur": 3,
       "liens": [
         {
@@ -827,7 +653,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 22.3,
+      "heures": 28.9,
       "chaleur": 3,
       "liens": [
         {
@@ -845,7 +671,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 26.8,
+      "heures": 33.4,
       "chaleur": 3,
       "liens": [
         {
@@ -863,7 +689,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 27.4,
+      "heures": 33.9,
       "chaleur": 3,
       "liens": [
         {
@@ -881,7 +707,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 28.2,
+      "heures": 34.7,
       "chaleur": 3,
       "liens": [
         {
@@ -899,7 +725,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 28.4,
+      "heures": 35.0,
       "chaleur": 3,
       "liens": [
         {
@@ -917,265 +743,13 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 28.8,
+      "heures": 35.4,
       "chaleur": 3,
       "liens": [
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/business/roblox-growth-slumps-but-the-company-is-betting-big-on-ai-to-compensate",
           "titre": "Roblox growth slumps, but the company is betting big on AI to compensate"
-        }
-      ]
-    },
-    {
-      "id": "pok-mon-and-fender-are-teaming-up-a-rocking-guitar-collabora",
-      "titre": "Pokémon And Fender Are Teaming Up A Rocking Guitar Collaboration",
-      "url": "https://www.nintendolife.com/news/2026/10/pokemon-and-fender-are-teaming-up-a-rocking-guitar-collaboration",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 29.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/pokemon-and-fender-are-teaming-up-a-rocking-guitar-collaboration",
-          "titre": "Pokémon And Fender Are Teaming Up A Rocking Guitar Collaboration"
-        }
-      ]
-    },
-    {
-      "id": "inspired-by-classic-fromsoftware-queen-s-domain-looks-a-fasc",
-      "titre": "Inspired by Classic FromSoftware, Queen's Domain Looks a Fascinating PS5 Adventure",
-      "url": "https://www.pushsquare.com/news/2026/10/inspired-by-classic-fromsoftware-queens-domain-looks-a-fascinating-ps5-adventure",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 30.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/inspired-by-classic-fromsoftware-queens-domain-looks-a-fascinating-ps5-adventure",
-          "titre": "Inspired by Classic FromSoftware, Queen's Domain Looks a Fascinating PS5 Adventure"
-        }
-      ]
-    },
-    {
-      "id": "john-romero-s-canceled-game-finds-a-new-publisher-amidst-an",
-      "titre": "John Romero's canceled game finds a new publisher amidst an overall scope change",
-      "url": "https://www.gamedeveloper.com/business/john-romero-canceled-game-finds-a-new-publisher-amidst-an-overall-scope-change",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 31.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/john-romero-canceled-game-finds-a-new-publisher-amidst-an-overall-scope-change",
-          "titre": "John Romero's canceled game finds a new publisher amidst an overall scope change"
-        }
-      ]
-    },
-    {
-      "id": "splendid-junji-ito-inspired-rpg-world-of-horror-is-now-20-mo",
-      "titre": "Splendid Junji Ito-inspired RPG World of Horror is now 20% more horrible, thanks to a free PC update with extra gods, locations, and wounds",
-      "url": "https://www.rockpapershotgun.com/splendid-junji-ito-inspired-rpg-world-of-horror-is-now-20-more-horrible-thanks-to-a-free-pc-update-with-extra-gods-locations-and-wounds",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 31.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/splendid-junji-ito-inspired-rpg-world-of-horror-is-now-20-more-horrible-thanks-to-a-free-pc-update-with-extra-gods-locations-and-wounds",
-          "titre": "Splendid Junji Ito-inspired RPG World of Horror is now 20% more horrible, thanks to a free PC update with extra gods, locations, and wounds"
-        }
-      ]
-    },
-    {
-      "id": "8-bit-horror-tenebris-somnia-mixes-weird-live-action-horror",
-      "titre": "8-bit horror Tenebris Somnia mixes weird live-action horror with a retro 2D adventure to impressive and unsettling effect",
-      "url": "https://www.eurogamer.net/tenebris-somnia-horror-game-fmv-live-action-faith",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 32.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/tenebris-somnia-horror-game-fmv-live-action-faith",
-          "titre": "8-bit horror Tenebris Somnia mixes weird live-action horror with a retro 2D adventure to impressive and unsettling effect"
-        }
-      ]
-    },
-    {
-      "id": "this-new-ps5-visual-novel-is-absolutely-bursting-with-style",
-      "titre": "This New PS5 Visual Novel Is Absolutely Bursting with Style",
-      "url": "https://www.pushsquare.com/news/2026/10/this-new-ps5-visual-novel-is-absolutely-bursting-with-style",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 32.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/this-new-ps5-visual-novel-is-absolutely-bursting-with-style",
-          "titre": "This New PS5 Visual Novel Is Absolutely Bursting with Style"
-        }
-      ]
-    },
-    {
-      "id": "studio-atelico-launches-atelico-ai-engine-into-early-access",
-      "titre": "Studio Atelico launches Atelico AI Engine into Early Access",
-      "url": "https://www.gamesindustry.biz/studio-atelico-launches-atelico-ai-engine-into-early-access",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 32.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/studio-atelico-launches-atelico-ai-engine-into-early-access",
-          "titre": "Studio Atelico launches Atelico AI Engine into Early Access"
-        }
-      ]
-    },
-    {
-      "id": "forza-director-who-d-been-with-turn-10-for-27-years-leaves-m",
-      "titre": "Forza director, who'd been with Turn 10 for 27 years leaves Microsoft, following studios merger with Playground Games",
-      "url": "https://www.eurogamer.net/director-leaves-forza-playground-games-merge-microsoft",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 33.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/director-leaves-forza-playground-games-merge-microsoft",
-          "titre": "Forza director, who'd been with Turn 10 for 27 years leaves Microsoft, following studios merger with Playground Games"
-        }
-      ]
-    },
-    {
-      "id": "all-the-rps-supporter-rewards-for-october-2026-hangout-game",
-      "titre": "All the RPS Supporter rewards for October 2026: Hangout game angst, muddy RPGs, and one utterly useless butler",
-      "url": "https://www.rockpapershotgun.com/all-the-rps-supporter-rewards-for-october-2026-hangout-game-angst-muddy-rpgs-and-one-utterly-useless-butler",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 33.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/all-the-rps-supporter-rewards-for-october-2026-hangout-game-angst-muddy-rpgs-and-one-utterly-useless-butler",
-          "titre": "All the RPS Supporter rewards for October 2026: Hangout game angst, muddy RPGs, and one utterly useless butler"
-        }
-      ]
-    },
-    {
-      "id": "cod-mw4-multiplayer-halloween-event-possession-playlist-mils",
-      "titre": "COD MW4 Multiplayer: Halloween event, Possession playlist, milsim explained",
-      "url": "https://www.videogameschronicle.com/guide/cod-mw4-multiplayer-halloween-event-possession-playlist-milsim-explained/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 33.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/cod-mw4-multiplayer-halloween-event-possession-playlist-milsim-explained/",
-          "titre": "COD MW4 Multiplayer: Halloween event, Possession playlist, milsim explained"
-        }
-      ]
-    },
-    {
-      "id": "gdc-side-quest-an-anti-cheat-primer-with-lucia-suarez",
-      "titre": "GDC Side Quest - An anti-cheat primer with Lucia Suarez",
-      "url": "https://www.gamedeveloper.com/programming/gdc-side-quest-an-anti-cheat-primer-with-lucia-suarez",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 33.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/programming/gdc-side-quest-an-anti-cheat-primer-with-lucia-suarez",
-          "titre": "GDC Side Quest - An anti-cheat primer with Lucia Suarez"
-        }
-      ]
-    },
-    {
-      "id": "rockstar-developer-union-could-end-up-over-1-600-workers-str",
-      "titre": "Rockstar developer union could end up over 1,600 workers strong and encompass nearly all UK staff below senior management, IWGB claim",
-      "url": "https://www.rockpapershotgun.com/rockstar-developer-union-could-end-up-over-1600-workers-strong-and-encompass-nearly-all-uk-staff-below-senior-management-iwgb-claim",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 33.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/rockstar-developer-union-could-end-up-over-1600-workers-strong-and-encompass-nearly-all-uk-staff-below-senior-management-iwgb-claim",
-          "titre": "Rockstar developer union could end up over 1,600 workers strong and encompass nearly all UK staff below senior management, IWGB claim"
-        }
-      ]
-    },
-    {
-      "id": "the-scale-of-crimson-desert-just-got-even-more-absurd-after",
-      "titre": "The Scale of Crimson Desert Just Got Even More Absurd After New PS5 DLC",
-      "url": "https://www.pushsquare.com/news/2026/10/the-scale-of-crimson-desert-just-got-even-more-absurd-after-new-ps5-dlc",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 34.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/the-scale-of-crimson-desert-just-got-even-more-absurd-after-new-ps5-dlc",
-          "titre": "The Scale of Crimson Desert Just Got Even More Absurd After New PS5 DLC"
-        }
-      ]
-    },
-    {
-      "id": "helldivers-2-boss-can-absolutely-see-making-a-game-parody-of",
-      "titre": "Helldivers 2 boss can \"absolutely see\" making a game parody of generative AI, but it would need to be \"quirky\" rather than \"doom-laden\"",
-      "url": "https://www.rockpapershotgun.com/helldivers-2-boss-can-absolutely-see-making-a-game-parody-of-generative-ai-but-it-would-need-to-be-quirky-rather-than-doom-laden",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 34.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/helldivers-2-boss-can-absolutely-see-making-a-game-parody-of-generative-ai-but-it-would-need-to-be-quirky-rather-than-doom-laden",
-          "titre": "Helldivers 2 boss can \"absolutely see\" making a game parody of generative AI, but it would need to be \"quirky\" rather than \"doom-laden\""
         }
       ]
     }
