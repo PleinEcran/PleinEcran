@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "01/11/2026 à 18h52",
+  "collecte": "01/11/2026 à 23h30",
   "seuil": 14,
   "sujets": [
     {
@@ -13,8 +13,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 1.6,
-      "chaleur": 12,
+      "heures": 6.2,
+      "chaleur": 10,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -42,8 +42,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 1.9,
-      "chaleur": 12,
+      "heures": 6.5,
+      "chaleur": 10,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -58,6 +58,54 @@ const VEILLE = {
       ]
     },
     {
+      "id": "dune-awakening-s-seasonally-appropriate-blood-and-ice-expans",
+      "titre": "Dune: Awakening's seasonally appropriate Blood and Ice expansion gets a December release date, and in a plus for preservation, an offline mode this month",
+      "url": "https://www.rockpapershotgun.com/dune-awakenings-seasonally-appropriate-blood-and-ice-expansion-gets-a-december-release-date-and-in-a-plus-for-preservation-an-offline-mode-this-month",
+      "sources": [
+        "Eurogamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 1.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/dune-awakenings-seasonally-appropriate-blood-and-ice-expansion-gets-a-december-release-date-and-in-a-plus-for-preservation-an-offline-mode-this-month",
+          "titre": "Dune: Awakening's seasonally appropriate Blood and Ice expansion gets a December release date, and in a plus for preservation, an offline mode this month"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/dune-awakening-blood-and-ice-free-expansion",
+          "titre": "Dune: Awakening's free Blood and Ice expansion swaps sand for snow on 1st December"
+        }
+      ]
+    },
+    {
+      "id": "elder-scrolls-skyblivion-mod-faces-lawsuit-from-former-volun",
+      "titre": "Elder Scrolls Skyblivion mod faces lawsuit from former volunteer, project lead urges 'Please don't turn this into any kind of witch hunt'",
+      "url": "https://www.pcgamer.com/games/the-elder-scrolls/elder-scrolls-skyblivion-mod-faces-lawsuit-from-former-volunteer-project-lead-urges-please-dont-turn-this-into-any-kind-of-witch-hunt/",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 27.0,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-elder-scrolls/elder-scrolls-skyblivion-mod-faces-lawsuit-from-former-volunteer-project-lead-urges-please-dont-turn-this-into-any-kind-of-witch-hunt/",
+          "titre": "Elder Scrolls Skyblivion mod faces lawsuit from former volunteer, project lead urges 'Please don't turn this into any kind of witch hunt'"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/skyblivion-former-volunteer-legal-threats",
+          "titre": "A former volunteer is threatening legal action against fan-made game project Skyblivion"
+        }
+      ]
+    },
+    {
       "id": "final-fantasy-14-evercold-sets-itself-a-release-date-at-the",
       "titre": "Final Fantasy 14: Evercold sets itself a release date at the tail end of winter, alongside offering a look at its second, avian-inclined new job",
       "url": "https://www.rockpapershotgun.com/final-fantasy-14-evercold-sets-itself-a-release-date-at-the-tail-end-of-winter-alongside-offering-a-look-at-its-second-avian-inclined-new-job",
@@ -66,8 +114,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 0.7,
-      "chaleur": 9,
+      "heures": 5.4,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -89,13 +137,67 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 9,
+      "heures": 6.8,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/sim/chronicles-medieval-developer-faces-imminent-closure-after-losing-funding-what-makes-it-hurt-is-how-close-we-are-early-access-is-in-reach/",
           "titre": "Chronicles: Medieval developer faces imminent closure after losing funding: 'What makes it hurt is how close we are. Early access is in reach'"
+        }
+      ]
+    },
+    {
+      "id": "guide-upcoming-nintendo-switch-2-games-accessories-for-novem",
+      "titre": "Guide: Upcoming Nintendo Switch 2 Games & Accessories For November & December 2026",
+      "url": "https://www.nintendolife.com/guides/upcoming-nintendo-switch-2-games-and-accessories-for-november-and-december-2026",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 9.5,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/guides/upcoming-nintendo-switch-2-games-and-accessories-for-november-and-december-2026",
+          "titre": "Guide: Upcoming Nintendo Switch 2 Games & Accessories For November & December 2026"
+        }
+      ]
+    },
+    {
+      "id": "fortnite-s-pirate-shop-unlocks-the-entire-item-shop-for-free",
+      "titre": "Fortnite's Pirate Shop Unlocks the Entire Item Shop for Free",
+      "url": "https://www.pushsquare.com/news/2026/11/fortnites-pirate-shop-unlocks-the-entire-item-shop-for-free",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/fortnites-pirate-shop-unlocks-the-entire-item-shop-for-free",
+          "titre": "Fortnite's Pirate Shop Unlocks the Entire Item Shop for Free"
+        }
+      ]
+    },
+    {
+      "id": "gag-order-is-a-co-op-scp-ish-horror-shooter-about-surviving",
+      "titre": "Gag Order is a co-op, SCP-ish horror shooter about surviving as best you can against some nasty, tentacle covered cephalopod creatures",
+      "url": "https://www.rockpapershotgun.com/gag-order-is-a-co-op-scp-ish-horror-shooter-about-surviving-as-best-you-can-against-some-nasty-tentacle-covered-cephalopod-creatures",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/gag-order-is-a-co-op-scp-ish-horror-shooter-about-surviving-as-best-you-can-against-some-nasty-tentacle-covered-cephalopod-creatures",
+          "titre": "Gag Order is a co-op, SCP-ish horror shooter about surviving as best you can against some nasty, tentacle covered cephalopod creatures"
         }
       ]
     },
@@ -107,8 +209,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
-      "chaleur": 8,
+      "heures": 6.0,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
@@ -125,199 +227,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 8,
+      "heures": 7.1,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/gaming-industry/game-development/its-not-just-steam-new-game-pages-created-per-day-on-itch-io-has-doubled-in-the-last-two-months-with-ai-slop-the-likely-culprit/",
           "titre": "It's not just Steam: New game pages created per day on Itch.io have doubled in the last two months, with AI slop the likely culprit"
-        }
-      ]
-    },
-    {
-      "id": "elder-scrolls-skyblivion-mod-faces-lawsuit-from-former-volun",
-      "titre": "Elder Scrolls Skyblivion mod faces lawsuit from former volunteer, project lead urges 'Please don't turn this into any kind of witch hunt'",
-      "url": "https://www.pcgamer.com/games/the-elder-scrolls/elder-scrolls-skyblivion-mod-faces-lawsuit-from-former-volunteer-project-lead-urges-please-dont-turn-this-into-any-kind-of-witch-hunt/",
-      "sources": [
-        "Eurogamer",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 22.4,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-elder-scrolls/elder-scrolls-skyblivion-mod-faces-lawsuit-from-former-volunteer-project-lead-urges-please-dont-turn-this-into-any-kind-of-witch-hunt/",
-          "titre": "Elder Scrolls Skyblivion mod faces lawsuit from former volunteer, project lead urges 'Please don't turn this into any kind of witch hunt'"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/skyblivion-former-volunteer-legal-threats",
-          "titre": "A former volunteer is threatening legal action against fan-made game project Skyblivion"
-        }
-      ]
-    },
-    {
-      "id": "guide-upcoming-nintendo-switch-2-games-accessories-for-novem",
-      "titre": "Guide: Upcoming Nintendo Switch 2 Games & Accessories For November & December 2026",
-      "url": "https://www.nintendolife.com/guides/upcoming-nintendo-switch-2-games-and-accessories-for-november-and-december-2026",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 4.9,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/guides/upcoming-nintendo-switch-2-games-and-accessories-for-november-and-december-2026",
-          "titre": "Guide: Upcoming Nintendo Switch 2 Games & Accessories For November & December 2026"
-        }
-      ]
-    },
-    {
-      "id": "jagex-partnered-with-a-runescape-inspired-idle-game-to-turn",
-      "titre": "Jagex partnered with a RuneScape-inspired idle game to turn the sequel into an official spinoff",
-      "url": "https://www.pcgamer.com/games/rpg/jagex-partnered-with-a-runescape-inspired-idle-game-to-turn-the-sequel-into-an-official-spinoff/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 0.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/jagex-partnered-with-a-runescape-inspired-idle-game-to-turn-the-sequel-into-an-official-spinoff/",
-          "titre": "Jagex partnered with a RuneScape-inspired idle game to turn the sequel into an official spinoff"
-        }
-      ]
-    },
-    {
-      "id": "at-dead-of-night-sequel-the-great-hugo-is-coming-very-soon",
-      "titre": "At Dead of Night sequel The Great Hugo is coming \"(very) soon\"",
-      "url": "https://www.eurogamer.net/at-dead-of-night-2-the-great-hugo-sequel-announced",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 0.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/at-dead-of-night-2-the-great-hugo-sequel-announced",
-          "titre": "At Dead of Night sequel The Great Hugo is coming \"(very) soon\""
-        }
-      ]
-    },
-    {
-      "id": "grand-theft-auto-6-teased-a-handful-of-its-upcoming-radio-st",
-      "titre": "Grand Theft Auto 6 teased a handful of its upcoming radio stations and its music curation is as strong as ever",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-teased-a-handful-of-its-upcoming-radio-stations-and-its-music-curation-is-as-strong-as-ever/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 0.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-teased-a-handful-of-its-upcoming-radio-stations-and-its-music-curation-is-as-strong-as-ever/",
-          "titre": "Grand Theft Auto 6 teased a handful of its upcoming radio stations and its music curation is as strong as ever"
-        }
-      ]
-    },
-    {
-      "id": "gog-wants-to-bring-back-physical-games-but-it-s-a-very-very",
-      "titre": "GOG wants to bring back physical games, but it's 'a very, very complicated thing'",
-      "url": "https://www.pcgamer.com/games/gog-wants-to-bring-back-physical-games-but-its-a-very-very-complicated-thing/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/gog-wants-to-bring-back-physical-games-but-its-a-very-very-complicated-thing/",
-          "titre": "GOG wants to bring back physical games, but it's 'a very, very complicated thing'"
-        }
-      ]
-    },
-    {
-      "id": "valve-s-long-lost-prototype-portal-prequel-appears-online-af",
-      "titre": "Valve's long-lost prototype Portal prequel appears online after nearly 20 years",
-      "url": "https://www.pcgamer.com/games/fps/valves-long-lost-prototype-portal-prequel-appears-online-after-nearly-20-years/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/valves-long-lost-prototype-portal-prequel-appears-online-after-nearly-20-years/",
-          "titre": "Valve's long-lost prototype Portal prequel appears online after nearly 20 years"
-        }
-      ]
-    },
-    {
-      "id": "composer-and-designer-lena-raine-explains-how-pigstep-altere",
-      "titre": "Composer and designer Lena Raine explains how Pigstep altered Minecraft's approach to music: 'The prompt I keep hearing is \"Oh, Pigstep was such a banger that they want more bangers\"'",
-      "url": "https://www.pcgamer.com/games/composer-and-designer-lena-raine-explains-how-pigstep-altered-minecrafts-approach-to-music-the-prompt-i-keep-hearing-is-oh-pigstep-was-such-a-banger-that-they-want-more-bangers/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/composer-and-designer-lena-raine-explains-how-pigstep-altered-minecrafts-approach-to-music-the-prompt-i-keep-hearing-is-oh-pigstep-was-such-a-banger-that-they-want-more-bangers/",
-          "titre": "Composer and designer Lena Raine explains how Pigstep altered Minecraft's approach to music: 'The prompt I keep hearing is \"Oh, Pigstep was such a banger that they want more bangers\"'"
-        }
-      ]
-    },
-    {
-      "id": "an-absolute-behemoth-wildly-ambitious-fps-selaco-is-getting",
-      "titre": "'An absolute behemoth': Wildly ambitious FPS Selaco is getting a massive update that doubles its size and adds 'a heavy machinegun that fires literal explosions'",
-      "url": "https://www.pcgamer.com/games/fps/an-absolute-behemoth-wildly-ambitious-fps-selaco-is-getting-a-massive-update-that-doubles-its-size-and-adds-a-heavy-machinegun-that-fires-literal-explosions/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/an-absolute-behemoth-wildly-ambitious-fps-selaco-is-getting-a-massive-update-that-doubles-its-size-and-adds-a-heavy-machinegun-that-fires-literal-explosions/",
-          "titre": "'An absolute behemoth': Wildly ambitious FPS Selaco is getting a massive update that doubles its size and adds 'a heavy machinegun that fires literal explosions'"
-        }
-      ]
-    },
-    {
-      "id": "i-m-glad-that-wow-forever-ll-have-a-slower-lo-fi-update-sche",
-      "titre": "I'm glad that WoW: Forever'll have a slower, lo-fi update schedule, because I'm not playing this thing to be in a rush",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/im-glad-that-wow-foreverll-have-a-slower-lo-fi-update-schedule-because-im-not-playing-this-thing-to-be-in-a-rush/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/im-glad-that-wow-foreverll-have-a-slower-lo-fi-update-schedule-because-im-not-playing-this-thing-to-be-in-a-rush/",
-          "titre": "I'm glad that WoW: Forever'll have a slower, lo-fi update schedule, because I'm not playing this thing to be in a rush"
         }
       ]
     },
@@ -329,7 +245,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 10.5,
       "chaleur": 6,
       "liens": [
         {
@@ -347,7 +263,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 10.5,
       "chaleur": 6,
       "liens": [
         {
@@ -365,37 +281,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 27.4,
+      "heures": 32.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/playable-archive-paranormal-activity-threshold-the-mortuary-assistant-interview",
           "titre": "The Mortuary Assistant dev on laying his cancelled Paranormal Activity game to rest, resurrecting it as a Halloween freebie, and a potential return to his biggest game"
-        }
-      ]
-    },
-    {
-      "id": "talking-point-what-are-you-playing-this-weekend-31st-october",
-      "titre": "Talking Point: What Are You Playing This Weekend? (31st October)",
-      "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-31st-october",
-      "sources": [
-        "Nintendo Life",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 32.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-31st-october",
-          "titre": "Talking Point: What Are You Playing This Weekend? (31st October)"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-406",
-          "titre": "What are we all playing this weekend?"
         }
       ]
     },
@@ -407,7 +299,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.8,
+      "heures": 19.4,
       "chaleur": 5,
       "liens": [
         {
@@ -425,7 +317,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 23.9,
+      "heures": 28.5,
       "chaleur": 5,
       "liens": [
         {
@@ -443,7 +335,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 26.9,
+      "heures": 31.5,
       "chaleur": 5,
       "liens": [
         {
@@ -461,13 +353,175 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 28.6,
+      "heures": 33.3,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/10/nintendo-drops-surprise-pikmin-day-direct",
           "titre": "Nintendo Drops Surprise 'Pikmin Day' Direct"
+        }
+      ]
+    },
+    {
+      "id": "what-remains-of-canned-portal-prequel-white-whale-f-stop-is",
+      "titre": "What remains of canned Portal prequel white whale F-Stop is now fully playable thanks to modders and some big leaks",
+      "url": "https://www.rockpapershotgun.com/what-remains-of-canned-portal-prequel-white-whale-f-stop-is-now-fully-playable-thanks-to-modders-and-some-big-leaks",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/what-remains-of-canned-portal-prequel-white-whale-f-stop-is-now-fully-playable-thanks-to-modders-and-some-big-leaks",
+          "titre": "What remains of canned Portal prequel white whale F-Stop is now fully playable thanks to modders and some big leaks"
+        }
+      ]
+    },
+    {
+      "id": "jagex-partnered-with-a-runescape-inspired-idle-game-to-turn",
+      "titre": "Jagex partnered with a RuneScape-inspired idle game to turn the sequel into an official spinoff",
+      "url": "https://www.pcgamer.com/games/rpg/jagex-partnered-with-a-runescape-inspired-idle-game-to-turn-the-sequel-into-an-official-spinoff/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/jagex-partnered-with-a-runescape-inspired-idle-game-to-turn-the-sequel-into-an-official-spinoff/",
+          "titre": "Jagex partnered with a RuneScape-inspired idle game to turn the sequel into an official spinoff"
+        }
+      ]
+    },
+    {
+      "id": "at-dead-of-night-sequel-the-great-hugo-is-coming-very-soon",
+      "titre": "At Dead of Night sequel The Great Hugo is coming \"(very) soon\"",
+      "url": "https://www.eurogamer.net/at-dead-of-night-2-the-great-hugo-sequel-announced",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/at-dead-of-night-2-the-great-hugo-sequel-announced",
+          "titre": "At Dead of Night sequel The Great Hugo is coming \"(very) soon\""
+        }
+      ]
+    },
+    {
+      "id": "grand-theft-auto-6-teased-a-handful-of-its-upcoming-radio-st",
+      "titre": "Grand Theft Auto 6 teased a handful of its upcoming radio stations and its music curation is as strong as ever",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-teased-a-handful-of-its-upcoming-radio-stations-and-its-music-curation-is-as-strong-as-ever/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-teased-a-handful-of-its-upcoming-radio-stations-and-its-music-curation-is-as-strong-as-ever/",
+          "titre": "Grand Theft Auto 6 teased a handful of its upcoming radio stations and its music curation is as strong as ever"
+        }
+      ]
+    },
+    {
+      "id": "gog-wants-to-bring-back-physical-games-but-it-s-a-very-very",
+      "titre": "GOG wants to bring back physical games, but it's 'a very, very complicated thing'",
+      "url": "https://www.pcgamer.com/games/gog-wants-to-bring-back-physical-games-but-its-a-very-very-complicated-thing/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/gog-wants-to-bring-back-physical-games-but-its-a-very-very-complicated-thing/",
+          "titre": "GOG wants to bring back physical games, but it's 'a very, very complicated thing'"
+        }
+      ]
+    },
+    {
+      "id": "valve-s-long-lost-prototype-portal-prequel-appears-online-af",
+      "titre": "Valve's long-lost prototype Portal prequel appears online after nearly 20 years",
+      "url": "https://www.pcgamer.com/games/fps/valves-long-lost-prototype-portal-prequel-appears-online-after-nearly-20-years/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/valves-long-lost-prototype-portal-prequel-appears-online-after-nearly-20-years/",
+          "titre": "Valve's long-lost prototype Portal prequel appears online after nearly 20 years"
+        }
+      ]
+    },
+    {
+      "id": "composer-and-designer-lena-raine-explains-how-pigstep-altere",
+      "titre": "Composer and designer Lena Raine explains how Pigstep altered Minecraft's approach to music: 'The prompt I keep hearing is \"Oh, Pigstep was such a banger that they want more bangers\"'",
+      "url": "https://www.pcgamer.com/games/composer-and-designer-lena-raine-explains-how-pigstep-altered-minecrafts-approach-to-music-the-prompt-i-keep-hearing-is-oh-pigstep-was-such-a-banger-that-they-want-more-bangers/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/composer-and-designer-lena-raine-explains-how-pigstep-altered-minecrafts-approach-to-music-the-prompt-i-keep-hearing-is-oh-pigstep-was-such-a-banger-that-they-want-more-bangers/",
+          "titre": "Composer and designer Lena Raine explains how Pigstep altered Minecraft's approach to music: 'The prompt I keep hearing is \"Oh, Pigstep was such a banger that they want more bangers\"'"
+        }
+      ]
+    },
+    {
+      "id": "an-absolute-behemoth-wildly-ambitious-fps-selaco-is-getting",
+      "titre": "'An absolute behemoth': Wildly ambitious FPS Selaco is getting a massive update that doubles its size and adds 'a heavy machinegun that fires literal explosions'",
+      "url": "https://www.pcgamer.com/games/fps/an-absolute-behemoth-wildly-ambitious-fps-selaco-is-getting-a-massive-update-that-doubles-its-size-and-adds-a-heavy-machinegun-that-fires-literal-explosions/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/an-absolute-behemoth-wildly-ambitious-fps-selaco-is-getting-a-massive-update-that-doubles-its-size-and-adds-a-heavy-machinegun-that-fires-literal-explosions/",
+          "titre": "'An absolute behemoth': Wildly ambitious FPS Selaco is getting a massive update that doubles its size and adds 'a heavy machinegun that fires literal explosions'"
+        }
+      ]
+    },
+    {
+      "id": "i-m-glad-that-wow-forever-ll-have-a-slower-lo-fi-update-sche",
+      "titre": "I'm glad that WoW: Forever'll have a slower, lo-fi update schedule, because I'm not playing this thing to be in a rush",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/im-glad-that-wow-foreverll-have-a-slower-lo-fi-update-schedule-because-im-not-playing-this-thing-to-be-in-a-rush/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 7.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/im-glad-that-wow-foreverll-have-a-slower-lo-fi-update-schedule-because-im-not-playing-this-thing-to-be-in-a-rush/",
+          "titre": "I'm glad that WoW: Forever'll have a slower, lo-fi update schedule, because I'm not playing this thing to be in a rush"
         }
       ]
     },
@@ -479,31 +533,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 9.5,
       "chaleur": 4,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/features/hardware-review-scuf-omega-ps5-controller-no-frills-pro-controller-doesnt-do-much-to-impress",
           "titre": "Hardware Review: SCUF Omega PS5 Controller - No-Frills Pro Controller Doesn't Do Much to Impress"
-        }
-      ]
-    },
-    {
-      "id": "dune-awakening-s-free-blood-and-ice-expansion-swaps-sand-for",
-      "titre": "Dune: Awakening's free Blood and Ice expansion swaps sand for snow on 1st December",
-      "url": "https://www.eurogamer.net/dune-awakening-blood-and-ice-free-expansion",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 5.1,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/dune-awakening-blood-and-ice-free-expansion",
-          "titre": "Dune: Awakening's free Blood and Ice expansion swaps sand for snow on 1st December"
         }
       ]
     },
@@ -515,7 +551,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 10.0,
       "chaleur": 4,
       "liens": [
         {
@@ -533,8 +569,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.9,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -551,8 +587,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.9,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -569,8 +605,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 4,
+      "heures": 15.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -587,7 +623,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.1,
+      "heures": 17.8,
       "chaleur": 3,
       "liens": [
         {
@@ -605,7 +641,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 22.0,
       "chaleur": 3,
       "liens": [
         {
@@ -623,7 +659,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.9,
+      "heures": 23.5,
       "chaleur": 3,
       "liens": [
         {
@@ -641,7 +677,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 21.2,
+      "heures": 25.8,
       "chaleur": 3,
       "liens": [
         {
@@ -659,7 +695,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 21.7,
+      "heures": 26.3,
       "chaleur": 3,
       "liens": [
         {
@@ -677,7 +713,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 24.9,
+      "heures": 29.5,
       "chaleur": 3,
       "liens": [
         {
@@ -695,7 +731,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 25.3,
+      "heures": 29.9,
       "chaleur": 3,
       "liens": [
         {
@@ -713,7 +749,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 26.9,
+      "heures": 31.5,
       "chaleur": 3,
       "liens": [
         {
@@ -731,7 +767,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 27.6,
+      "heures": 32.3,
       "chaleur": 3,
       "liens": [
         {
@@ -749,7 +785,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 28.4,
+      "heures": 33.0,
       "chaleur": 3,
       "liens": [
         {
@@ -767,7 +803,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.0,
+      "heures": 33.6,
       "chaleur": 3,
       "liens": [
         {
@@ -785,7 +821,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 30.4,
+      "heures": 35.0,
       "chaleur": 3,
       "liens": [
         {
@@ -803,7 +839,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 30.9,
+      "heures": 35.5,
       "chaleur": 3,
       "liens": [
         {
@@ -821,49 +857,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 30.9,
+      "heures": 35.5,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/guides/these-28plus-ps5-and-ps-plus-games-are-coming-out-next-week-2nd-8th-november",
           "titre": "Guide: These 28+ PS5 and PS Plus Games Are Coming Out Next Week (2nd-8th November)"
-        }
-      ]
-    },
-    {
-      "id": "silver-pines-is-a-great-survival-horror-throwback-with-an-un",
-      "titre": "Silver Pines is a great survival horror throwback with an unexpected Metroidvania twist, but it makes me glad the genre's moved on",
-      "url": "https://www.eurogamer.net/silver-pines-now-playing",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 32.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/silver-pines-now-playing",
-          "titre": "Silver Pines is a great survival horror throwback with an unexpected Metroidvania twist, but it makes me glad the genre's moved on"
-        }
-      ]
-    },
-    {
-      "id": "what-we-ve-been-playing-i-ve-been-intrigued-by-horrible-imag",
-      "titre": "What we've been playing - \"I've been intrigued by horrible images of live-action sequences for weeks\"",
-      "url": "https://www.eurogamer.net/what-weve-been-playing-tenebris-somnia-moonlight-peaks-amnesia",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 34.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/what-weve-been-playing-tenebris-somnia-moonlight-peaks-amnesia",
-          "titre": "What we've been playing - \"I've been intrigued by horrible images of live-action sequences for weeks\""
         }
       ]
     }
