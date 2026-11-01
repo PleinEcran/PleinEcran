@@ -1,8 +1,32 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "01/11/2026 à 05h51",
+  "collecte": "01/11/2026 à 13h11",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "pikmin-4-nintendo-switch-2-edition-launches-12th-november-an",
+      "titre": "Pikmin 4 Nintendo Switch 2 Edition launches 12th November and a demo is out tomorrow",
+      "url": "https://www.eurogamer.net/pikmin-4-switch-2-edition-release-date-demo",
+      "sources": [
+        "Eurogamer",
+        "Nintendo Life"
+      ],
+      "reprises": 2,
+      "heures": 3.1,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/pikmin-4-switch-2-edition-release-date-demo",
+          "titre": "Pikmin 4 Nintendo Switch 2 Edition launches 12th November and a demo is out tomorrow"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/watch-nintendo-treehouse-play-pikmin-4-nintendo-switch-2-edition-plus-dandori-academy",
+          "titre": "Watch: Nintendo Treehouse Play Pikmin 4 - Nintendo Switch 2 Edition + Dandori Academy"
+        }
+      ]
+    },
     {
       "id": "final-fantasy-14-evercold-delayed-to-february-preorders-star",
       "titre": "Final Fantasy 14: Evercold delayed to February, preorders start next week",
@@ -13,8 +37,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 3,
-      "heures": 10.9,
-      "chaleur": 12,
+      "heures": 18.2,
+      "chaleur": 11,
       "liens": [
         {
           "source": "PC Gamer",
@@ -34,6 +58,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "feature-nintendo-life-eshop-selects-october-2026",
+      "titre": "Feature: Nintendo Life eShop Selects (October 2026)",
+      "url": "https://www.nintendolife.com/features/nintendo-life-eshop-selects-october-2026",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/nintendo-life-eshop-selects-october-2026",
+          "titre": "Feature: Nintendo Life eShop Selects (October 2026)"
+        }
+      ]
+    },
+    {
+      "id": "hoyoverse-s-animal-crossing-rival-skips-ps5-for-switch-2",
+      "titre": "HoYoverse's Animal Crossing Rival Skips PS5 for Switch 2",
+      "url": "https://www.pushsquare.com/news/2026/11/hoyoverses-animal-crossing-rival-skips-ps5-for-switch-2",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/hoyoverses-animal-crossing-rival-skips-ps5-for-switch-2",
+          "titre": "HoYoverse's Animal Crossing Rival Skips PS5 for Switch 2"
+        }
+      ]
+    },
+    {
       "id": "elder-scrolls-skyblivion-mod-faces-lawsuit-from-former-volun",
       "titre": "Elder Scrolls Skyblivion mod faces lawsuit from former volunteer, project lead urges 'Please don't turn this into any kind of witch hunt'",
       "url": "https://www.pcgamer.com/games/the-elder-scrolls/elder-scrolls-skyblivion-mod-faces-lawsuit-from-former-volunteer-project-lead-urges-please-dont-turn-this-into-any-kind-of-witch-hunt/",
@@ -42,8 +102,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 9.4,
-      "chaleur": 9,
+      "heures": 16.7,
+      "chaleur": 8,
       "liens": [
         {
           "source": "PC Gamer",
@@ -58,56 +118,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "poll-are-you-happy-with-your-ps-plus-essential-games-for-nov",
-      "titre": "Poll: Are You Happy with Your PS Plus Essential Games for November 2026?",
-      "url": "https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-essential-games-for-november-2026",
+      "id": "the-sunday-papers",
+      "titre": "The Sunday Papers",
+      "url": "https://www.rockpapershotgun.com/the-sunday-papers-834",
       "sources": [
-        "Nintendo Life",
-        "Push Square"
+        "Rock Paper Shotgun"
       ],
-      "reprises": 2,
-      "heures": 11.9,
-      "chaleur": 9,
+      "reprises": 1,
+      "heures": 3.2,
+      "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-essential-games-for-november-2026",
-          "titre": "Poll: Are You Happy with Your PS Plus Essential Games for November 2026?"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/video-11-exciting-new-games-coming-to-switch-1-and-2-in-november-2026",
-          "titre": "Video: 11 Exciting New Games Coming To Switch 1 & 2 In November 2026"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-sunday-papers-834",
+          "titre": "The Sunday Papers"
         }
       ]
     },
     {
-      "id": "talking-point-what-are-you-playing-this-weekend-31st-october",
-      "titre": "Talking Point: What Are You Playing This Weekend? (31st October)",
-      "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-31st-october",
+      "id": "feature-box-art-brawl-duel-revenge-of-the-gator",
+      "titre": "Feature: Box Art Brawl - Duel: Revenge Of The 'Gator",
+      "url": "https://www.nintendolife.com/features/box-art-brawl-duel-revenge-of-the-gator",
       "sources": [
-        "Nintendo Life",
-        "Push Square",
-        "Rock Paper Shotgun"
+        "Nintendo Life"
       ],
-      "reprises": 3,
-      "heures": 19.9,
-      "chaleur": 9,
+      "reprises": 1,
+      "heures": 3.2,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-31st-october",
-          "titre": "Talking Point: What Are You Playing This Weekend? (31st October)"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-406",
-          "titre": "What are we all playing this weekend?"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-656",
-          "titre": "Talking Point: What Are You Playing This Weekend? - Issue 656"
+          "url": "https://www.nintendolife.com/features/box-art-brawl-duel-revenge-of-the-gator",
+          "titre": "Feature: Box Art Brawl - Duel: Revenge Of The 'Gator"
         }
       ]
     },
@@ -119,55 +161,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.8,
-      "chaleur": 8,
+      "heures": 9.1,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/racing/forza-co-creator-dan-greenawalt-is-reportedly-leaving-microsoft/",
           "titre": "Forza co-creator Dan Greenawalt is reportedly leaving Microsoft"
-        }
-      ]
-    },
-    {
-      "id": "activision-to-remove-itaewon-crowd-crush-footage-from-call-o",
-      "titre": "Activision to remove Itaewon crowd crush footage from Call of Duty: Modern Warfare 4 and apologises to victims' families",
-      "url": "https://www.eurogamer.net/modern-warfare-4-itaewon-footage-removed-activision-apology",
-      "sources": [
-        "Eurogamer",
-        "Nintendo Life"
-      ],
-      "reprises": 2,
-      "heures": 13.9,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/modern-warfare-4-itaewon-footage-removed-activision-apology",
-          "titre": "Activision to remove Itaewon crowd crush footage from Call of Duty: Modern Warfare 4 and apologises to victims' families"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/digital-foundry-delivers-its-tech-verdict-on-call-of-duty-modern-warfare-4-on-switch-2",
-          "titre": "Digital Foundry Delivers Its Tech Verdict On Call Of Duty: Modern Warfare 4 On Switch 2"
-        }
-      ]
-    },
-    {
-      "id": "celeste-and-towerfall-have-delisted-from-xbox-s-digital-stor",
-      "titre": "Celeste and TowerFall have delisted from Xbox's digital storefronts to support BDS boycott",
-      "url": "https://www.pcgamer.com/games/action/celeste-and-towerfall-have-delisted-from-xboxs-digital-storefronts-to-support-bds-boycott/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/celeste-and-towerfall-have-delisted-from-xboxs-digital-storefronts-to-support-bds-boycott/",
-          "titre": "Celeste and TowerFall have delisted from Xbox's digital storefronts to support BDS boycott"
         }
       ]
     },
@@ -180,7 +180,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 12.2,
+      "heures": 19.5,
       "chaleur": 6,
       "liens": [
         {
@@ -203,13 +203,55 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 21.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/playable-archive-paranormal-activity-threshold-the-mortuary-assistant-interview",
           "titre": "The Mortuary Assistant dev on laying his cancelled Paranormal Activity game to rest, resurrecting it as a Halloween freebie, and a potential return to his biggest game"
+        }
+      ]
+    },
+    {
+      "id": "talking-point-what-are-you-playing-this-weekend-31st-october",
+      "titre": "Talking Point: What Are You Playing This Weekend? (31st October)",
+      "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-31st-october",
+      "sources": [
+        "Nintendo Life",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 27.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-31st-october",
+          "titre": "Talking Point: What Are You Playing This Weekend? (31st October)"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-406",
+          "titre": "What are we all playing this weekend?"
+        }
+      ]
+    },
+    {
+      "id": "celeste-and-towerfall-have-delisted-from-xbox-s-digital-stor",
+      "titre": "Celeste and TowerFall have delisted from Xbox's digital storefronts to support BDS boycott",
+      "url": "https://www.pcgamer.com/games/action/celeste-and-towerfall-have-delisted-from-xboxs-digital-storefronts-to-support-bds-boycott/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 18.2,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/celeste-and-towerfall-have-delisted-from-xboxs-digital-storefronts-to-support-bds-boycott/",
+          "titre": "Celeste and TowerFall have delisted from Xbox's digital storefronts to support BDS boycott"
         }
       ]
     },
@@ -221,7 +263,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.7,
+      "heures": 21.0,
       "chaleur": 5,
       "liens": [
         {
@@ -239,7 +281,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 21.2,
       "chaleur": 5,
       "liens": [
         {
@@ -257,7 +299,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 22.9,
       "chaleur": 5,
       "liens": [
         {
@@ -268,20 +310,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "fanatical-s-mystery-chest-bundle-offers-up-to-25-mystery-ste",
-      "titre": "Fanatical’s Mystery Chest Bundle offers up to 25 mystery Steam keys for $17.49, with a chance to get Phantom Blade Zero",
-      "url": "https://www.videogameschronicle.com/news/fanaticals-mystery-chest-bundle-offers-up-to-25-mystery-steam-keys-for-17-49-with-a-chance-to-get-phantom-blade-zero/",
+      "id": "capcom-officially-reveals-fourth-mega-man-dual-override-robo",
+      "titre": "Capcom Officially Reveals Fourth Mega Man: Dual Override Robot Master",
+      "url": "https://www.nintendolife.com/news/2026/11/capcom-officially-reveals-fourth-mega-man-dual-override-robot-master",
       "sources": [
-        "VGC"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 35.1,
-      "chaleur": 5,
+      "heures": 5.2,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/fanaticals-mystery-chest-bundle-offers-up-to-25-mystery-steam-keys-for-17-49-with-a-chance-to-get-phantom-blade-zero/",
-          "titre": "Fanatical’s Mystery Chest Bundle offers up to 25 mystery Steam keys for $17.49, with a chance to get Phantom Blade Zero"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/capcom-officially-reveals-fourth-mega-man-dual-override-robot-master",
+          "titre": "Capcom Officially Reveals Fourth Mega Man: Dual Override Robot Master"
+        }
+      ]
+    },
+    {
+      "id": "round-up-pikmin-day-2026-updates-demo-and-new-animated-short",
+      "titre": "Round Up: Pikmin Day 2026 - Updates, Demo And New Animated Shorts",
+      "url": "https://www.nintendolife.com/news/2026/11/round-up-pikmin-day-2026-updates-demo-and-new-animated-shorts",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 7.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/round-up-pikmin-day-2026-updates-demo-and-new-animated-shorts",
+          "titre": "Round Up: Pikmin Day 2026 - Updates, Demo And New Animated Shorts"
         }
       ]
     },
@@ -293,7 +353,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 11.7,
       "chaleur": 4,
       "liens": [
         {
@@ -311,8 +371,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.9,
-      "chaleur": 4,
+      "heures": 12.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -329,8 +389,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.9,
-      "chaleur": 4,
+      "heures": 13.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -347,8 +407,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.2,
-      "chaleur": 4,
+      "heures": 15.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -365,13 +425,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.7,
-      "chaleur": 4,
+      "heures": 16.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/gaming-industry/fanfiction-library-of-alexandria-ao3-down-for-up-to-a-month-following-hack/",
           "titre": "Fanfiction Library of Alexandria AO3 down for up to a month following hack"
+        }
+      ]
+    },
+    {
+      "id": "poll-are-you-happy-with-your-ps-plus-essential-games-for-nov",
+      "titre": "Poll: Are You Happy with Your PS Plus Essential Games for November 2026?",
+      "url": "https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-essential-games-for-november-2026",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 19.2,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-essential-games-for-november-2026",
+          "titre": "Poll: Are You Happy with Your PS Plus Essential Games for November 2026?"
         }
       ]
     },
@@ -383,7 +461,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.3,
+      "heures": 19.6,
       "chaleur": 3,
       "liens": [
         {
@@ -401,7 +479,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 19.7,
       "chaleur": 3,
       "liens": [
         {
@@ -419,7 +497,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 19.8,
       "chaleur": 3,
       "liens": [
         {
@@ -437,7 +515,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 20.2,
       "chaleur": 3,
       "liens": [
         {
@@ -455,7 +533,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 20.2,
       "chaleur": 3,
       "liens": [
         {
@@ -473,7 +551,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 20.8,
       "chaleur": 3,
       "liens": [
         {
@@ -491,13 +569,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 21.2,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/mmo/how-fast-do-you-type-and-has-playing-mmos-improved-your-typing-in-any-way/",
           "titre": "How fast do you type, and has playing MMOs improved your typing in any way?"
+        }
+      ]
+    },
+    {
+      "id": "activision-to-remove-itaewon-crowd-crush-footage-from-call-o",
+      "titre": "Activision to remove Itaewon crowd crush footage from Call of Duty: Modern Warfare 4 and apologises to victims' families",
+      "url": "https://www.eurogamer.net/modern-warfare-4-itaewon-footage-removed-activision-apology",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 21.2,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/modern-warfare-4-itaewon-footage-removed-activision-apology",
+          "titre": "Activision to remove Itaewon crowd crush footage from Call of Duty: Modern Warfare 4 and apologises to victims' families"
         }
       ]
     },
@@ -509,7 +605,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.6,
+      "heures": 21.9,
       "chaleur": 3,
       "liens": [
         {
@@ -527,7 +623,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 22.7,
       "chaleur": 3,
       "liens": [
         {
@@ -545,7 +641,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.0,
+      "heures": 23.3,
       "chaleur": 3,
       "liens": [
         {
@@ -563,7 +659,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 17.3,
+      "heures": 24.7,
       "chaleur": 3,
       "liens": [
         {
@@ -581,7 +677,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 17.9,
+      "heures": 25.2,
       "chaleur": 3,
       "liens": [
         {
@@ -599,7 +695,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 17.9,
+      "heures": 25.2,
       "chaleur": 3,
       "liens": [
         {
@@ -617,7 +713,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.9,
+      "heures": 27.2,
       "chaleur": 3,
       "liens": [
         {
@@ -635,121 +731,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.9,
+      "heures": 29.2,
       "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/what-weve-been-playing-tenebris-somnia-moonlight-peaks-amnesia",
           "titre": "What we've been playing - \"I've been intrigued by horrible images of live-action sequences for weeks\""
-        }
-      ]
-    },
-    {
-      "id": "ps5-dynamic-pricing-concerns-revived-by-new-sony-job-listing",
-      "titre": "PS5 Dynamic Pricing Concerns Revived by New Sony Job Listing",
-      "url": "https://www.pushsquare.com/news/2026/10/ps5-dynamic-pricing-concerns-revived-by-new-sony-job-listing",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 28.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/ps5-dynamic-pricing-concerns-revived-by-new-sony-job-listing",
-          "titre": "PS5 Dynamic Pricing Concerns Revived by New Sony Job Listing"
-        }
-      ]
-    },
-    {
-      "id": "warframe-s-fantasy-pilled-sister-soulframe-finally-goes-open",
-      "titre": "Warframe's fantasy-pilled sister Soulframe finally goes open to all this November, though Digital Extremes are \"nervous\" about certain changes",
-      "url": "https://www.rockpapershotgun.com/warframes-fantasy-pilled-sister-soulframe-finally-goes-open-to-all-this-november-though-digital-extremes-are-nervous-about-certain-changes",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 33.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/warframes-fantasy-pilled-sister-soulframe-finally-goes-open-to-all-this-november-though-digital-extremes-are-nervous-about-certain-changes",
-          "titre": "Warframe's fantasy-pilled sister Soulframe finally goes open to all this November, though Digital Extremes are \"nervous\" about certain changes"
-        }
-      ]
-    },
-    {
-      "id": "goty-hopeful-mina-the-hollower-bought-the-studio-financial-s",
-      "titre": "GOTY hopeful Mina the Hollower bought the studio financial stability \"for now,\" while the Shovel Knight devs work on a new 3D game",
-      "url": "https://www.eurogamer.net/shovel-knight-3d-mina-financial-stability",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 33.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/shovel-knight-3d-mina-financial-stability",
-          "titre": "GOTY hopeful Mina the Hollower bought the studio financial stability \"for now,\" while the Shovel Knight devs work on a new 3D game"
-        }
-      ]
-    },
-    {
-      "id": "blizzard-hints-at-console-ports-for-world-of-warcraft-foreve",
-      "titre": "Blizzard hints at console ports for World of Warcraft: Forever - \"Play it wherever you want and, at some point, on whatever you want\"",
-      "url": "https://www.eurogamer.net/blizzard-console-port-hints-world-of-warcraft-forever",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 34.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/blizzard-console-port-hints-world-of-warcraft-forever",
-          "titre": "Blizzard hints at console ports for World of Warcraft: Forever - \"Play it wherever you want and, at some point, on whatever you want\""
-        }
-      ]
-    },
-    {
-      "id": "anthropic-orders-ai-tool-claude-to-stop-remaking-video-games",
-      "titre": "Anthropic orders AI tool Claude to stop remaking video games",
-      "url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 35.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
-          "titre": "Anthropic orders AI tool Claude to stop remaking video games"
-        }
-      ]
-    },
-    {
-      "id": "roblox-growth-slumps-but-the-company-is-betting-big-on-ai-to",
-      "titre": "Roblox growth slumps, but the company is betting big on AI to compensate",
-      "url": "https://www.gamedeveloper.com/business/roblox-growth-slumps-but-the-company-is-betting-big-on-ai-to-compensate",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 35.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/roblox-growth-slumps-but-the-company-is-betting-big-on-ai-to-compensate",
-          "titre": "Roblox growth slumps, but the company is betting big on AI to compensate"
         }
       ]
     }
