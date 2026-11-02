@@ -1,21 +1,27 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "01/11/2026 à 23h30",
+  "collecte": "02/11/2026 à 05h51",
   "seuil": 14,
   "sujets": [
     {
-      "id": "it-looks-like-footage-of-a-persona-1-remake-has-leaked-and-i",
-      "titre": "It looks like footage of a Persona 1 remake has leaked, and if it's legit I really hope you don't hate the colour purple",
-      "url": "https://www.rockpapershotgun.com/it-looks-like-footage-of-a-persona-1-remake-has-leaked-and-if-its-legit-i-really-hope-you-dont-hate-the-colour-purple",
+      "id": "footage-of-what-sure-looks-like-a-persona-1-remake-has-leake",
+      "titre": "Footage of what sure looks like a Persona 1 remake has leaked",
+      "url": "https://www.pcgamer.com/games/rpg/footage-of-what-sure-looks-like-a-persona-1-remake-has-leaked/",
       "sources": [
         "Eurogamer",
+        "PC Gamer",
         "Push Square",
         "Rock Paper Shotgun"
       ],
-      "reprises": 3,
-      "heures": 6.2,
-      "chaleur": 10,
+      "reprises": 4,
+      "heures": 3.7,
+      "chaleur": 15,
       "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/footage-of-what-sure-looks-like-a-persona-1-remake-has-leaked/",
+          "titre": "Footage of what sure looks like a Persona 1 remake has leaked"
+        },
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/it-looks-like-footage-of-a-persona-1-remake-has-leaked-and-if-its-legit-i-really-hope-you-dont-hate-the-colour-purple",
@@ -42,8 +48,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 6.5,
-      "chaleur": 10,
+      "heures": 12.9,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -58,6 +64,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "the-heroquest-board-game-is-coming-to-steam-with-a-quest-edi",
+      "titre": "The HeroQuest board game is coming to Steam with a quest editor and multiplayer",
+      "url": "https://www.pcgamer.com/games/board-games/the-heroquest-board-game-is-coming-to-steam-with-a-quest-editor-and-multiplayer/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/board-games/the-heroquest-board-game-is-coming-to-steam-with-a-quest-editor-and-multiplayer/",
+          "titre": "The HeroQuest board game is coming to Steam with a quest editor and multiplayer"
+        }
+      ]
+    },
+    {
+      "id": "hoyoverse-announces-cosy-galactic-life-sim-petit-planet-for",
+      "titre": "HoYoverse Announces Cosy Galactic Life Sim 'Petit Planet' For Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/11/hoyoverse-announces-cosy-galactic-life-sim-petit-planet-for-switch-2",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 2.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/hoyoverse-announces-cosy-galactic-life-sim-petit-planet-for-switch-2",
+          "titre": "HoYoverse Announces Cosy Galactic Life Sim 'Petit Planet' For Switch 2"
+        }
+      ]
+    },
+    {
       "id": "dune-awakening-s-seasonally-appropriate-blood-and-ice-expans",
       "titre": "Dune: Awakening's seasonally appropriate Blood and Ice expansion gets a December release date, and in a plus for preservation, an offline mode this month",
       "url": "https://www.rockpapershotgun.com/dune-awakenings-seasonally-appropriate-blood-and-ice-expansion-gets-a-december-release-date-and-in-a-plus-for-preservation-an-offline-mode-this-month",
@@ -66,8 +108,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 1.9,
-      "chaleur": 9,
+      "heures": 8.3,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -82,54 +124,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "elder-scrolls-skyblivion-mod-faces-lawsuit-from-former-volun",
-      "titre": "Elder Scrolls Skyblivion mod faces lawsuit from former volunteer, project lead urges 'Please don't turn this into any kind of witch hunt'",
-      "url": "https://www.pcgamer.com/games/the-elder-scrolls/elder-scrolls-skyblivion-mod-faces-lawsuit-from-former-volunteer-project-lead-urges-please-dont-turn-this-into-any-kind-of-witch-hunt/",
-      "sources": [
-        "Eurogamer",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 27.0,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-elder-scrolls/elder-scrolls-skyblivion-mod-faces-lawsuit-from-former-volunteer-project-lead-urges-please-dont-turn-this-into-any-kind-of-witch-hunt/",
-          "titre": "Elder Scrolls Skyblivion mod faces lawsuit from former volunteer, project lead urges 'Please don't turn this into any kind of witch hunt'"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/skyblivion-former-volunteer-legal-threats",
-          "titre": "A former volunteer is threatening legal action against fan-made game project Skyblivion"
-        }
-      ]
-    },
-    {
-      "id": "final-fantasy-14-evercold-sets-itself-a-release-date-at-the",
-      "titre": "Final Fantasy 14: Evercold sets itself a release date at the tail end of winter, alongside offering a look at its second, avian-inclined new job",
-      "url": "https://www.rockpapershotgun.com/final-fantasy-14-evercold-sets-itself-a-release-date-at-the-tail-end-of-winter-alongside-offering-a-look-at-its-second-avian-inclined-new-job",
-      "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 5.4,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/final-fantasy-14-evercold-sets-itself-a-release-date-at-the-tail-end-of-winter-alongside-offering-a-look-at-its-second-avian-inclined-new-job",
-          "titre": "Final Fantasy 14: Evercold sets itself a release date at the tail end of winter, alongside offering a look at its second, avian-inclined new job"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/final-fantasy-14-evercold-zephyr-job-release-date",
-          "titre": "Final Fantasy 14 reveals Evercold’s second new job and February release date, with pre-orders opening next week"
-        }
-      ]
-    },
-    {
       "id": "chronicles-medieval-developer-faces-imminent-closure-after-l",
       "titre": "Chronicles: Medieval developer faces imminent closure after losing funding: 'What makes it hurt is how close we are. Early access is in reach'",
       "url": "https://www.pcgamer.com/games/sim/chronicles-medieval-developer-faces-imminent-closure-after-losing-funding-what-makes-it-hurt-is-how-close-we-are-early-access-is-in-reach/",
@@ -137,8 +131,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.8,
-      "chaleur": 7,
+      "heures": 13.2,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
@@ -155,49 +149,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.5,
-      "chaleur": 7,
+      "heures": 15.9,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/guides/upcoming-nintendo-switch-2-games-and-accessories-for-november-and-december-2026",
           "titre": "Guide: Upcoming Nintendo Switch 2 Games & Accessories For November & December 2026"
-        }
-      ]
-    },
-    {
-      "id": "fortnite-s-pirate-shop-unlocks-the-entire-item-shop-for-free",
-      "titre": "Fortnite's Pirate Shop Unlocks the Entire Item Shop for Free",
-      "url": "https://www.pushsquare.com/news/2026/11/fortnites-pirate-shop-unlocks-the-entire-item-shop-for-free",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 0.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/fortnites-pirate-shop-unlocks-the-entire-item-shop-for-free",
-          "titre": "Fortnite's Pirate Shop Unlocks the Entire Item Shop for Free"
-        }
-      ]
-    },
-    {
-      "id": "gag-order-is-a-co-op-scp-ish-horror-shooter-about-surviving",
-      "titre": "Gag Order is a co-op, SCP-ish horror shooter about surviving as best you can against some nasty, tentacle covered cephalopod creatures",
-      "url": "https://www.rockpapershotgun.com/gag-order-is-a-co-op-scp-ish-horror-shooter-about-surviving-as-best-you-can-against-some-nasty-tentacle-covered-cephalopod-creatures",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 0.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/gag-order-is-a-co-op-scp-ish-horror-shooter-about-surviving-as-best-you-can-against-some-nasty-tentacle-covered-cephalopod-creatures",
-          "titre": "Gag Order is a co-op, SCP-ish horror shooter about surviving as best you can against some nasty, tentacle covered cephalopod creatures"
         }
       ]
     },
@@ -209,8 +167,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.0,
-      "chaleur": 6,
+      "heures": 12.4,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
@@ -227,8 +185,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.1,
-      "chaleur": 6,
+      "heures": 13.4,
+      "chaleur": 5,
       "liens": [
         {
           "source": "PC Gamer",
@@ -245,8 +203,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 6,
+      "heures": 16.9,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -263,31 +221,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 6,
+      "heures": 16.9,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/11/hoyoverses-animal-crossing-rival-skips-ps5-for-switch-2",
           "titre": "HoYoverse's Animal Crossing Rival Skips PS5 for Switch 2"
-        }
-      ]
-    },
-    {
-      "id": "the-mortuary-assistant-dev-on-laying-his-cancelled-paranorma",
-      "titre": "The Mortuary Assistant dev on laying his cancelled Paranormal Activity game to rest, resurrecting it as a Halloween freebie, and a potential return to his biggest game",
-      "url": "https://www.eurogamer.net/playable-archive-paranormal-activity-threshold-the-mortuary-assistant-interview",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 32.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/playable-archive-paranormal-activity-threshold-the-mortuary-assistant-interview",
-          "titre": "The Mortuary Assistant dev on laying his cancelled Paranormal Activity game to rest, resurrecting it as a Halloween freebie, and a potential return to his biggest game"
         }
       ]
     },
@@ -299,7 +239,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 25.8,
       "chaleur": 5,
       "liens": [
         {
@@ -310,56 +250,74 @@ const VEILLE = {
       ]
     },
     {
-      "id": "celeste-and-towerfall-have-delisted-from-xbox-s-digital-stor",
-      "titre": "Celeste and TowerFall have delisted from Xbox's digital storefronts to support BDS boycott",
-      "url": "https://www.pcgamer.com/games/action/celeste-and-towerfall-have-delisted-from-xboxs-digital-storefronts-to-support-bds-boycott/",
+      "id": "obsidian-s-josh-sawyer-on-rpg-cities-compared-to-a-dungeon-g",
+      "titre": "Obsidian's Josh Sawyer on RPG cities: 'Compared to a dungeon, generally speaking, a town is 4x the expense per square foot'",
+      "url": "https://www.pcgamer.com/games/rpg/obsidians-josh-sawyer-on-rpg-cities-compared-to-a-dungeon-generally-speaking-a-town-is-4x-the-expense-per-square-foot/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 28.5,
-      "chaleur": 5,
+      "heures": 4.2,
+      "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/celeste-and-towerfall-have-delisted-from-xboxs-digital-storefronts-to-support-bds-boycott/",
-          "titre": "Celeste and TowerFall have delisted from Xbox's digital storefronts to support BDS boycott"
+          "url": "https://www.pcgamer.com/games/rpg/obsidians-josh-sawyer-on-rpg-cities-compared-to-a-dungeon-generally-speaking-a-town-is-4x-the-expense-per-square-foot/",
+          "titre": "Obsidian's Josh Sawyer on RPG cities: 'Compared to a dungeon, generally speaking, a town is 4x the expense per square foot'"
         }
       ]
     },
     {
-      "id": "countdown-zelda-ocarina-of-time-dungeon-crawl-7-grave-expect",
-      "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #7 - Grave Expectations",
-      "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-7-grave-expectations",
+      "id": "here-s-one-bit-of-good-news-for-mass-effect-modders-are-brin",
+      "titre": "Here's one bit of good news for Mass Effect: modders are bringing the multiplayer mode to Mass Effect Legendary Edition",
+      "url": "https://www.pcgamer.com/games/mass-effect/heres-one-bit-of-good-news-for-mass-effect-modders-are-bringing-the-multiplayer-mode-to-mass-effect-legendary-edition/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 31.5,
-      "chaleur": 5,
+      "heures": 4.5,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-7-grave-expectations",
-          "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #7 - Grave Expectations"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/mass-effect/heres-one-bit-of-good-news-for-mass-effect-modders-are-bringing-the-multiplayer-mode-to-mass-effect-legendary-edition/",
+          "titre": "Here's one bit of good news for Mass Effect: modders are bringing the multiplayer mode to Mass Effect Legendary Edition"
         }
       ]
     },
     {
-      "id": "nintendo-drops-surprise-pikmin-day-direct",
-      "titre": "Nintendo Drops Surprise 'Pikmin Day' Direct",
-      "url": "https://www.nintendolife.com/news/2026/10/nintendo-drops-surprise-pikmin-day-direct",
+      "id": "fortnite-s-pirate-shop-unlocks-the-entire-item-shop-for-free",
+      "titre": "Fortnite's Pirate Shop Unlocks the Entire Item Shop for Free",
+      "url": "https://www.pushsquare.com/news/2026/11/fortnites-pirate-shop-unlocks-the-entire-item-shop-for-free",
       "sources": [
-        "Nintendo Life"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 33.3,
-      "chaleur": 5,
+      "heures": 5.9,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendo-drops-surprise-pikmin-day-direct",
-          "titre": "Nintendo Drops Surprise 'Pikmin Day' Direct"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/fortnites-pirate-shop-unlocks-the-entire-item-shop-for-free",
+          "titre": "Fortnite's Pirate Shop Unlocks the Entire Item Shop for Free"
+        }
+      ]
+    },
+    {
+      "id": "gag-order-is-a-co-op-scp-ish-horror-shooter-about-surviving",
+      "titre": "Gag Order is a co-op, SCP-ish horror shooter about surviving as best you can against some nasty, tentacle covered cephalopod creatures",
+      "url": "https://www.rockpapershotgun.com/gag-order-is-a-co-op-scp-ish-horror-shooter-about-surviving-as-best-you-can-against-some-nasty-tentacle-covered-cephalopod-creatures",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 6.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/gag-order-is-a-co-op-scp-ish-horror-shooter-about-surviving-as-best-you-can-against-some-nasty-tentacle-covered-cephalopod-creatures",
+          "titre": "Gag Order is a co-op, SCP-ish horror shooter about surviving as best you can against some nasty, tentacle covered cephalopod creatures"
         }
       ]
     },
@@ -371,7 +329,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 10.7,
       "chaleur": 4,
       "liens": [
         {
@@ -389,7 +347,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 11.2,
       "chaleur": 4,
       "liens": [
         {
@@ -407,13 +365,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.2,
+      "heures": 11.6,
       "chaleur": 4,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/at-dead-of-night-2-the-great-hugo-sequel-announced",
           "titre": "At Dead of Night sequel The Great Hugo is coming \"(very) soon\""
+        }
+      ]
+    },
+    {
+      "id": "final-fantasy-14-evercold-sets-itself-a-release-date-at-the",
+      "titre": "Final Fantasy 14: Evercold sets itself a release date at the tail end of winter, alongside offering a look at its second, avian-inclined new job",
+      "url": "https://www.rockpapershotgun.com/final-fantasy-14-evercold-sets-itself-a-release-date-at-the-tail-end-of-winter-alongside-offering-a-look-at-its-second-avian-inclined-new-job",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 11.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/final-fantasy-14-evercold-sets-itself-a-release-date-at-the-tail-end-of-winter-alongside-offering-a-look-at-its-second-avian-inclined-new-job",
+          "titre": "Final Fantasy 14: Evercold sets itself a release date at the tail end of winter, alongside offering a look at its second, avian-inclined new job"
         }
       ]
     },
@@ -425,7 +401,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -443,8 +419,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.8,
-      "chaleur": 4,
+      "heures": 12.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -461,8 +437,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.8,
-      "chaleur": 4,
+      "heures": 12.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -479,8 +455,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.5,
-      "chaleur": 4,
+      "heures": 12.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -497,8 +473,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.7,
-      "chaleur": 4,
+      "heures": 13.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -515,8 +491,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.5,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -533,8 +509,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.5,
-      "chaleur": 4,
+      "heures": 15.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -551,8 +527,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.0,
-      "chaleur": 4,
+      "heures": 16.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -569,7 +545,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 19.9,
       "chaleur": 3,
       "liens": [
         {
@@ -587,7 +563,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 19.9,
       "chaleur": 3,
       "liens": [
         {
@@ -605,7 +581,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 21.9,
       "chaleur": 3,
       "liens": [
         {
@@ -623,7 +599,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.8,
+      "heures": 24.1,
       "chaleur": 3,
       "liens": [
         {
@@ -641,7 +617,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 22.0,
+      "heures": 28.3,
       "chaleur": 3,
       "liens": [
         {
@@ -659,49 +635,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 23.5,
+      "heures": 29.9,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/11/rumour-days-gone-dev-to-announce-and-launch-new-ps5-game-in-2027",
           "titre": "Rumour: Days Gone Dev to Announce and Launch New PS5 Game in 2027"
-        }
-      ]
-    },
-    {
-      "id": "fromsoftware-temporarily-shuts-down-dark-souls-2-and-3-multi",
-      "titre": "FromSoftware temporarily shuts down Dark Souls 2 and 3 multiplayer over 'server issue'",
-      "url": "https://www.pcgamer.com/games/dark-souls/fromsoftware-temporarily-shuts-down-dark-souls-2-and-3-multiplayer-over-server-issue/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 25.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/dark-souls/fromsoftware-temporarily-shuts-down-dark-souls-2-and-3-multiplayer-over-server-issue/",
-          "titre": "FromSoftware temporarily shuts down Dark Souls 2 and 3 multiplayer over 'server issue'"
-        }
-      ]
-    },
-    {
-      "id": "fanfiction-library-of-alexandria-ao3-down-for-up-to-a-month",
-      "titre": "Fanfiction Library of Alexandria AO3 down for up to a month following hack",
-      "url": "https://www.pcgamer.com/gaming-industry/fanfiction-library-of-alexandria-ao3-down-for-up-to-a-month-following-hack/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 26.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/fanfiction-library-of-alexandria-ao3-down-for-up-to-a-month-following-hack/",
-          "titre": "Fanfiction Library of Alexandria AO3 down for up to a month following hack"
         }
       ]
     },
@@ -713,7 +653,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 29.5,
+      "heures": 35.9,
       "chaleur": 3,
       "liens": [
         {
@@ -722,151 +662,9 @@ const VEILLE = {
           "titre": "Poll: Are You Happy with Your PS Plus Essential Games for November 2026?"
         }
       ]
-    },
-    {
-      "id": "pubg-live-action-series-in-the-works-at-netflix-with-donald",
-      "titre": "PUBG live-action series in the works at Netflix, with Donald Glover set to direct and star",
-      "url": "https://www.eurogamer.net/pubg-live-action-netflix-series-donald-glover",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 29.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/pubg-live-action-netflix-series-donald-glover",
-          "titre": "PUBG live-action series in the works at Netflix, with Donald Glover set to direct and star"
-        }
-      ]
-    },
-    {
-      "id": "activision-to-remove-itaewon-crowd-crush-footage-from-call-o",
-      "titre": "Activision to remove Itaewon crowd crush footage from Call of Duty: Modern Warfare 4 and apologises to victims' families",
-      "url": "https://www.eurogamer.net/modern-warfare-4-itaewon-footage-removed-activision-apology",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 31.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/modern-warfare-4-itaewon-footage-removed-activision-apology",
-          "titre": "Activision to remove Itaewon crowd crush footage from Call of Duty: Modern Warfare 4 and apologises to victims' families"
-        }
-      ]
-    },
-    {
-      "id": "meet-marvel-tokon-s-newest-fighting-soul-in-full-phoenix-cyc",
-      "titre": "Meet Marvel Tokon's Newest Fighting Soul in Full Phoenix Cyclops Character Guide",
-      "url": "https://www.pushsquare.com/news/2026/10/meet-marvel-tokons-newest-fighting-soul-in-full-phoenix-cyclops-character-guide",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 32.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/meet-marvel-tokons-newest-fighting-soul-in-full-phoenix-cyclops-character-guide",
-          "titre": "Meet Marvel Tokon's Newest Fighting Soul in Full Phoenix Cyclops Character Guide"
-        }
-      ]
-    },
-    {
-      "id": "ps5-adds-another-free-open-world-game-to-your-rotation-with",
-      "titre": "PS5 Adds Another Free Open World Game to Your Rotation with Surprise Silver Palace Release Date",
-      "url": "https://www.pushsquare.com/news/2026/10/ps5-adds-another-free-open-world-game-to-your-rotation-with-surprise-silver-palace-release-date",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 33.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/10/ps5-adds-another-free-open-world-game-to-your-rotation-with-surprise-silver-palace-release-date",
-          "titre": "PS5 Adds Another Free Open World Game to Your Rotation with Surprise Silver Palace Release Date"
-        }
-      ]
-    },
-    {
-      "id": "silent-hill-townfall-adds-new-hard-difficulty-in-latest-upda",
-      "titre": "Silent Hill: Townfall adds new Hard difficulty in latest update",
-      "url": "https://www.eurogamer.net/silent-hill-townfall-hard-mode-update",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 33.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/silent-hill-townfall-hard-mode-update",
-          "titre": "Silent Hill: Townfall adds new Hard difficulty in latest update"
-        }
-      ]
-    },
-    {
-      "id": "the-arduview-is-the-world-s-first-fully-transparent-handheld",
-      "titre": "The Arduview is the world’s first fully transparent handheld, including the screen",
-      "url": "https://www.videogameschronicle.com/news/the-arduview-is-the-worlds-first-fully-transparent-handheld-including-the-screen/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 35.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/the-arduview-is-the-worlds-first-fully-transparent-handheld-including-the-screen/",
-          "titre": "The Arduview is the world’s first fully transparent handheld, including the screen"
-        }
-      ]
-    },
-    {
-      "id": "horror-steeped-card-game-forbidden-solitaire-shows-how-a-str",
-      "titre": "Horror-steeped card game Forbidden Solitaire shows how a strong theme can elevate even decade-old mechanics",
-      "url": "https://www.rockpapershotgun.com/horror-steeped-card-game-forbidden-solitaire-shows-how-a-strong-theme-can-elevate-even-decade-old-mechanics",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 35.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/horror-steeped-card-game-forbidden-solitaire-shows-how-a-strong-theme-can-elevate-even-decade-old-mechanics",
-          "titre": "Horror-steeped card game Forbidden Solitaire shows how a strong theme can elevate even decade-old mechanics"
-        }
-      ]
-    },
-    {
-      "id": "guide-these-28-ps5-and-ps-plus-games-are-coming-out-next-wee",
-      "titre": "Guide: These 28+ PS5 and PS Plus Games Are Coming Out Next Week (2nd-8th November)",
-      "url": "https://www.pushsquare.com/guides/these-28plus-ps5-and-ps-plus-games-are-coming-out-next-week-2nd-8th-november",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 35.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/guides/these-28plus-ps5-and-ps-plus-games-are-coming-out-next-week-2nd-8th-november",
-          "titre": "Guide: These 28+ PS5 and PS Plus Games Are Coming Out Next Week (2nd-8th November)"
-        }
-      ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "Footage of what sure looks like a Persona 1 remake has leaked"
+  ]
 };
