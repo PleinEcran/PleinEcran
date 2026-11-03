@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "02/11/2026 à 23h26",
+  "collecte": "03/11/2026 à 06h35",
   "seuil": 14,
   "sujets": [
     {
@@ -15,8 +15,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 5,
-      "heures": 2.9,
-      "chaleur": 18,
+      "heures": 10.1,
+      "chaleur": 16,
       "liens": [
         {
           "source": "Eurogamer",
@@ -56,8 +56,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 5.4,
-      "chaleur": 16,
+      "heures": 12.6,
+      "chaleur": 15,
       "liens": [
         {
           "source": "Eurogamer",
@@ -82,32 +82,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "a-trailer-for-a-remake-of-the-original-persona-appears-to-ha",
-      "titre": "A trailer for a remake of the original Persona appears to have leaked",
-      "url": "https://www.videogameschronicle.com/news/a-trailer-for-a-remake-of-the-original-persona-appears-to-have-leaked/",
+      "id": "after-cancelling-zelda-switch-2-pre-orders-walmart-is-now-su",
+      "titre": "After Cancelling Zelda Switch 2 Pre-Orders, Walmart Is Now Supposedly Sending Out $519 Gift Cards",
+      "url": "https://www.nintendolife.com/news/2026/11/after-cancelling-zelda-switch-2-pre-orders-walmart-is-now-supposedly-sending-out-usd519-gift-cards",
       "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun",
-        "VGC"
+        "Nintendo Life"
       ],
-      "reprises": 3,
-      "heures": 11.5,
-      "chaleur": 10,
+      "reprises": 1,
+      "heures": 3.1,
+      "chaleur": 9,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/a-trailer-for-a-remake-of-the-original-persona-appears-to-have-leaked/",
-          "titre": "A trailer for a remake of the original Persona appears to have leaked"
-        },
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/after-cancelling-zelda-switch-2-pre-orders-walmart-is-now-supposedly-sending-out-usd519-gift-cards",
+          "titre": "After Cancelling Zelda Switch 2 Pre-Orders, Walmart Is Now Supposedly Sending Out $519 Gift Cards"
+        }
+      ]
+    },
+    {
+      "id": "round-up-the-reviews-are-in-for-stellar-blade-s-switch-2-por",
+      "titre": "Round Up: The Reviews Are In For Stellar Blade's Switch 2 Port",
+      "url": "https://www.nintendolife.com/news/2026/11/round-up-the-reviews-are-in-for-stellar-blades-switch-2-port",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 8,
+      "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/it-looks-like-footage-of-a-persona-1-remake-has-leaked-and-if-its-legit-i-really-hope-you-dont-hate-the-colour-purple",
-          "titre": "It looks like footage of a Persona 1 remake has leaked, and if it's legit I really hope you don't hate the colour purple"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/persona-1-remake-be-your-true-mind-leak",
-          "titre": "Footage of a Persona 1 remake has seemingly leaked online"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/round-up-the-reviews-are-in-for-stellar-blades-switch-2-port",
+          "titre": "Round Up: The Reviews Are In For Stellar Blade's Switch 2 Port"
         }
       ]
     },
@@ -120,8 +126,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 7.4,
-      "chaleur": 9,
+      "heures": 14.6,
+      "chaleur": 8,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -136,20 +142,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "review-stellar-blade-complete-edition-switch-2-perfectly-pla",
-      "titre": "Review: Stellar Blade: Complete Edition (Switch 2) - Perfectly Playable, Despite Drawbacks",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/stellar-blade-complete-edition",
+      "id": "phantom-blade-zero-is-an-instant-hit-with-4-million-sales-on",
+      "titre": "Phantom Blade Zero Is an Instant Hit with 4 Million Sales on PS5, PC",
+      "url": "https://www.pushsquare.com/news/2026/11/phantom-blade-zero-is-an-instant-hit-with-4-million-sales-on-ps5-pc",
       "sources": [
-        "Nintendo Life"
+        "Eurogamer",
+        "Push Square"
       ],
-      "reprises": 1,
-      "heures": 1.4,
+      "reprises": 2,
+      "heures": 20.1,
       "chaleur": 8,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/stellar-blade-complete-edition",
-          "titre": "Review: Stellar Blade: Complete Edition (Switch 2) - Perfectly Playable, Despite Drawbacks"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/phantom-blade-zero-is-an-instant-hit-with-4-million-sales-on-ps5-pc",
+          "titre": "Phantom Blade Zero Is an Instant Hit with 4 Million Sales on PS5, PC"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/phantom-blade-zero-4-million-copies-steam-biggest-launch",
+          "titre": "Phantom Blade Zero is Steam's biggest launch of the year so far, selling over 4 million copies in three days"
         }
       ]
     },
@@ -161,8 +173,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 1.7,
-      "chaleur": 8,
+      "heures": 8.8,
+      "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -179,37 +191,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 8,
+      "heures": 10.0,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/gaming-industry/xbox-coo-who-left-after-just-3-months-shoots-down-claims-she-was-fired-for-a-policy-violation-says-her-story-is-about-core-values/",
           "titre": "Xbox COO who left after just 3 months shoots down claims she was 'fired for a policy violation,' says her story is about 'core values'"
-        }
-      ]
-    },
-    {
-      "id": "phantom-blade-zero-is-an-instant-hit-with-4-million-sales-on",
-      "titre": "Phantom Blade Zero Is an Instant Hit with 4 Million Sales on PS5, PC",
-      "url": "https://www.pushsquare.com/news/2026/11/phantom-blade-zero-is-an-instant-hit-with-4-million-sales-on-ps5-pc",
-      "sources": [
-        "Eurogamer",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 12.9,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/phantom-blade-zero-is-an-instant-hit-with-4-million-sales-on-ps5-pc",
-          "titre": "Phantom Blade Zero Is an Instant Hit with 4 Million Sales on PS5, PC"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/phantom-blade-zero-4-million-copies-steam-biggest-launch",
-          "titre": "Phantom Blade Zero is Steam's biggest launch of the year so far, selling over 4 million copies in three days"
         }
       ]
     },
@@ -221,8 +209,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.4,
-      "chaleur": 7,
+      "heures": 12.6,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
@@ -240,8 +228,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 5.6,
-      "chaleur": 7,
+      "heures": 12.8,
+      "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -264,8 +252,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 7.4,
-      "chaleur": 7,
+      "heures": 14.6,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
@@ -287,8 +275,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.7,
-      "chaleur": 7,
+      "heures": 17.8,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
@@ -305,103 +293,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 7,
+      "heures": 18.7,
+      "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/among-us-vr-co-developer-schell-games-announces-second-round-of-layoffs-this-year",
           "titre": "Among Us VR co-developer Schell Games announces second round of layoffs this year"
-        }
-      ]
-    },
-    {
-      "id": "sony-wants-you-to-trade-in-your-ps5-for-400-if-you-re-not-us",
-      "titre": "Sony Wants You to Trade In Your PS5 for $400 if You're Not Using It",
-      "url": "https://www.pushsquare.com/news/2026/11/sony-wants-you-to-trade-in-your-ps5-for-usd400-if-youre-not-using-it",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 0.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/sony-wants-you-to-trade-in-your-ps5-for-usd400-if-youre-not-using-it",
-          "titre": "Sony Wants You to Trade In Your PS5 for $400 if You're Not Using It"
-        }
-      ]
-    },
-    {
-      "id": "queen-s-domain-might-be-the-best-game-like-metroid-prime-sin",
-      "titre": "Queen's Domain might be the best game like Metroid Prime since Metroid Prime",
-      "url": "https://www.pcgamer.com/games/rpg/queens-domain-might-be-the-best-game-like-metroid-prime-since-metroid-prime/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 0.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/queens-domain-might-be-the-best-game-like-metroid-prime-since-metroid-prime/",
-          "titre": "Queen's Domain might be the best game like Metroid Prime since Metroid Prime"
-        }
-      ]
-    },
-    {
-      "id": "enshrouded-1-0-review",
-      "titre": "Enshrouded 1.0 review",
-      "url": "https://www.pcgamer.com/games/survival-crafting/enshrouded-1-0-review/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/survival-crafting/enshrouded-1-0-review/",
-          "titre": "Enshrouded 1.0 review"
-        }
-      ]
-    },
-    {
-      "id": "ci-games-secures-32-million-loan-to-finish-and-self-publish",
-      "titre": "CI Games secures $32 million loan to finish and self-publish Lords of the Fallen 2",
-      "url": "https://www.gamesindustry.biz/ci-games-secures-32-million-loan-to-finish-and-self-publish-lords-of-the-fallen-2",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 2.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/ci-games-secures-32-million-loan-to-finish-and-self-publish-lords-of-the-fallen-2",
-          "titre": "CI Games secures $32 million loan to finish and self-publish Lords of the Fallen 2"
-        }
-      ]
-    },
-    {
-      "id": "astragon-closes-independent-arts-successor-studio-astragon-d",
-      "titre": "Astragon closes Independent Arts successor studio Astragon Development",
-      "url": "https://www.gamesindustry.biz/astragon-closes-independent-arts-successor-studio-astragon-development",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/astragon-closes-independent-arts-successor-studio-astragon-development",
-          "titre": "Astragon closes Independent Arts successor studio Astragon Development"
         }
       ]
     },
@@ -413,8 +311,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.5,
-      "chaleur": 6,
+      "heures": 12.7,
+      "chaleur": 5,
       "liens": [
         {
           "source": "PC Gamer",
@@ -431,8 +329,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.4,
-      "chaleur": 6,
+      "heures": 13.6,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -449,8 +347,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.4,
-      "chaleur": 6,
+      "heures": 16.6,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -467,8 +365,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.0,
-      "chaleur": 6,
+      "heures": 17.2,
+      "chaleur": 5,
       "liens": [
         {
           "source": "PC Gamer",
@@ -485,55 +383,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.2,
-      "chaleur": 6,
+      "heures": 18.4,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/id-software-doing-great-losing-half-the-studio",
           "titre": "\"We're doing great,\" says id Software boss, despite losing \"about half of our studio\" amid devastating Xbox cuts"
-        }
-      ]
-    },
-    {
-      "id": "dune-awakening-s-seasonally-appropriate-blood-and-ice-expans",
-      "titre": "Dune: Awakening's seasonally appropriate Blood and Ice expansion gets a December release date, and in a plus for preservation, an offline mode this month",
-      "url": "https://www.rockpapershotgun.com/dune-awakenings-seasonally-appropriate-blood-and-ice-expansion-gets-a-december-release-date-and-in-a-plus-for-preservation-an-offline-mode-this-month",
-      "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 25.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/dune-awakenings-seasonally-appropriate-blood-and-ice-expansion-gets-a-december-release-date-and-in-a-plus-for-preservation-an-offline-mode-this-month",
-          "titre": "Dune: Awakening's seasonally appropriate Blood and Ice expansion gets a December release date, and in a plus for preservation, an offline mode this month"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/dune-awakening-blood-and-ice-free-expansion",
-          "titre": "Dune: Awakening's free Blood and Ice expansion swaps sand for snow on 1st December"
-        }
-      ]
-    },
-    {
-      "id": "guide-upcoming-nintendo-switch-2-games-accessories-for-novem",
-      "titre": "Guide: Upcoming Nintendo Switch 2 Games & Accessories For November & December 2026",
-      "url": "https://www.nintendolife.com/guides/upcoming-nintendo-switch-2-games-and-accessories-for-november-and-december-2026",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 33.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/guides/upcoming-nintendo-switch-2-games-and-accessories-for-november-and-december-2026",
-          "titre": "Guide: Upcoming Nintendo Switch 2 Games & Accessories For November & December 2026"
         }
       ]
     },
@@ -545,7 +401,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 19.6,
       "chaleur": 5,
       "liens": [
         {
@@ -563,7 +419,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.2,
+      "heures": 20.3,
       "chaleur": 5,
       "liens": [
         {
@@ -581,7 +437,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 20.8,
       "chaleur": 5,
       "liens": [
         {
@@ -599,7 +455,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.2,
+      "heures": 26.4,
       "chaleur": 5,
       "liens": [
         {
@@ -610,56 +466,128 @@ const VEILLE = {
       ]
     },
     {
-      "id": "hoyoverse-announces-cosy-galactic-life-sim-petit-planet-for",
-      "titre": "HoYoverse Announces Cosy Galactic Life Sim 'Petit Planet' For Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/11/hoyoverse-announces-cosy-galactic-life-sim-petit-planet-for-switch-2",
+      "id": "square-enix-s-harvest-sale-includes-huge-discounts-on-final",
+      "titre": "Square Enix's 'Harvest Sale' Includes Huge Discounts On Final Fantasy VII Remake Intergrade And Rebirth",
+      "url": "https://www.nintendolife.com/news/2026/11/square-enixs-harvest-sale-includes-huge-discounts-on-final-fantasy-vii-remake-intergrade-and-rebirth",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.9,
-      "chaleur": 5,
+      "heures": 4.8,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/hoyoverse-announces-cosy-galactic-life-sim-petit-planet-for-switch-2",
-          "titre": "HoYoverse Announces Cosy Galactic Life Sim 'Petit Planet' For Switch 2"
+          "url": "https://www.nintendolife.com/news/2026/11/square-enixs-harvest-sale-includes-huge-discounts-on-final-fantasy-vii-remake-intergrade-and-rebirth",
+          "titre": "Square Enix's 'Harvest Sale' Includes Huge Discounts On Final Fantasy VII Remake Intergrade And Rebirth"
         }
       ]
     },
     {
-      "id": "modern-warfare-4-on-switch-2-has-much-worse-input-lag-than-p",
-      "titre": "Modern Warfare 4 on Switch 2 has much worse input lag than PS5",
-      "url": "https://www.eurogamer.net/modern-warfare-4-switch-2-input-lag-digital-foundry",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 30.0,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/modern-warfare-4-switch-2-input-lag-digital-foundry",
-          "titre": "Modern Warfare 4 on Switch 2 has much worse input lag than PS5"
-        }
-      ]
-    },
-    {
-      "id": "feature-nintendo-life-eshop-selects-october-2026",
-      "titre": "Feature: Nintendo Life eShop Selects (October 2026)",
-      "url": "https://www.nintendolife.com/features/nintendo-life-eshop-selects-october-2026",
+      "id": "sonic-racing-crossworlds-year-two-2-0-0-patch-notes-preview",
+      "titre": "Sonic Racing: CrossWorlds - Year Two 2.0.0 Patch Notes Preview - New Additions, Changes & Improvements",
+      "url": "https://www.nintendolife.com/news/2026/11/sonic-racing-crossworlds-year-two-2-0-0-patch-notes-preview-new-additions-changes-and-improvements",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 34.4,
-      "chaleur": 5,
+      "heures": 5.8,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/nintendo-life-eshop-selects-october-2026",
-          "titre": "Feature: Nintendo Life eShop Selects (October 2026)"
+          "url": "https://www.nintendolife.com/news/2026/11/sonic-racing-crossworlds-year-two-2-0-0-patch-notes-preview-new-additions-changes-and-improvements",
+          "titre": "Sonic Racing: CrossWorlds - Year Two 2.0.0 Patch Notes Preview - New Additions, Changes & Improvements"
+        }
+      ]
+    },
+    {
+      "id": "sony-wants-you-to-trade-in-your-ps5-for-400-if-you-re-not-us",
+      "titre": "Sony Wants You to Trade In Your PS5 for $400 if You're Not Using It",
+      "url": "https://www.pushsquare.com/news/2026/11/sony-wants-you-to-trade-in-your-ps5-for-usd400-if-youre-not-using-it",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 6.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/sony-wants-you-to-trade-in-your-ps5-for-usd400-if-youre-not-using-it",
+          "titre": "Sony Wants You to Trade In Your PS5 for $400 if You're Not Using It"
+        }
+      ]
+    },
+    {
+      "id": "queen-s-domain-might-be-the-best-game-like-metroid-prime-sin",
+      "titre": "Queen's Domain might be the best game like Metroid Prime since Metroid Prime",
+      "url": "https://www.pcgamer.com/games/rpg/queens-domain-might-be-the-best-game-like-metroid-prime-since-metroid-prime/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 7.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/queens-domain-might-be-the-best-game-like-metroid-prime-since-metroid-prime/",
+          "titre": "Queen's Domain might be the best game like Metroid Prime since Metroid Prime"
+        }
+      ]
+    },
+    {
+      "id": "enshrouded-1-0-review",
+      "titre": "Enshrouded 1.0 review",
+      "url": "https://www.pcgamer.com/games/survival-crafting/enshrouded-1-0-review/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 8.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/survival-crafting/enshrouded-1-0-review/",
+          "titre": "Enshrouded 1.0 review"
+        }
+      ]
+    },
+    {
+      "id": "ci-games-secures-32-million-loan-to-finish-and-self-publish",
+      "titre": "CI Games secures $32 million loan to finish and self-publish Lords of the Fallen 2",
+      "url": "https://www.gamesindustry.biz/ci-games-secures-32-million-loan-to-finish-and-self-publish-lords-of-the-fallen-2",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 9.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/ci-games-secures-32-million-loan-to-finish-and-self-publish-lords-of-the-fallen-2",
+          "titre": "CI Games secures $32 million loan to finish and self-publish Lords of the Fallen 2"
+        }
+      ]
+    },
+    {
+      "id": "astragon-closes-independent-arts-successor-studio-astragon-d",
+      "titre": "Astragon closes Independent Arts successor studio Astragon Development",
+      "url": "https://www.gamesindustry.biz/astragon-closes-independent-arts-successor-studio-astragon-development",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 11.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/astragon-closes-independent-arts-successor-studio-astragon-development",
+          "titre": "Astragon closes Independent Arts successor studio Astragon Development"
         }
       ]
     },
@@ -671,7 +599,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -689,7 +617,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 11.6,
       "chaleur": 4,
       "liens": [
         {
@@ -707,7 +635,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -725,8 +653,8 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 4.9,
-      "chaleur": 4,
+      "heures": 12.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Game Developer",
@@ -743,8 +671,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.6,
-      "chaleur": 4,
+      "heures": 12.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -761,8 +689,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.6,
-      "chaleur": 4,
+      "heures": 12.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -779,8 +707,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.9,
-      "chaleur": 4,
+      "heures": 13.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -797,8 +725,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.0,
-      "chaleur": 4,
+      "heures": 13.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -815,8 +743,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.5,
-      "chaleur": 4,
+      "heures": 13.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -833,8 +761,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.6,
-      "chaleur": 4,
+      "heures": 13.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -851,8 +779,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.7,
-      "chaleur": 4,
+      "heures": 13.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -869,8 +797,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.1,
-      "chaleur": 4,
+      "heures": 14.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -887,8 +815,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 7.5,
-      "chaleur": 4,
+      "heures": 14.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -905,8 +833,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.7,
-      "chaleur": 4,
+      "heures": 14.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -923,8 +851,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.1,
-      "chaleur": 4,
+      "heures": 15.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -941,8 +869,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 8.9,
-      "chaleur": 4,
+      "heures": 16.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -959,8 +887,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.9,
-      "chaleur": 4,
+      "heures": 16.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -977,8 +905,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.9,
-      "chaleur": 4,
+      "heures": 16.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -995,8 +923,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.2,
-      "chaleur": 4,
+      "heures": 16.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1013,8 +941,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.4,
-      "chaleur": 4,
+      "heures": 16.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1031,8 +959,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.8,
-      "chaleur": 4,
+      "heures": 17.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1049,8 +977,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.8,
-      "chaleur": 4,
+      "heures": 17.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1067,8 +995,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.9,
-      "chaleur": 4,
+      "heures": 17.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1085,8 +1013,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.9,
-      "chaleur": 4,
+      "heures": 17.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1103,8 +1031,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 9.9,
-      "chaleur": 4,
+      "heures": 17.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -1121,8 +1049,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 4,
+      "heures": 18.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1139,8 +1067,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 4,
+      "heures": 18.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -1157,8 +1085,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 4,
+      "heures": 18.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1166,10 +1094,61 @@ const VEILLE = {
           "titre": "Housemarque Issues Saros PS5 Patch for Bug Fixes, Update Out Now"
         }
       ]
+    },
+    {
+      "id": "guide-these-28-ps5-and-ps-plus-games-are-coming-out-this-wee",
+      "titre": "Guide: These 28+ PS5 and PS Plus Games Are Coming Out This Week (2nd-8th November)",
+      "url": "https://www.pushsquare.com/guides/these-28plus-ps5-and-ps-plus-games-are-coming-out-this-week-2nd-8th-november",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 18.3,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/guides/these-28plus-ps5-and-ps-plus-games-are-coming-out-this-week-2nd-8th-november",
+          "titre": "Guide: These 28+ PS5 and PS Plus Games Are Coming Out This Week (2nd-8th November)"
+        }
+      ]
+    },
+    {
+      "id": "soon-playable-on-ps5-nubby-s-number-factory-is-the-strangest",
+      "titre": "Soon Playable on PS5, Nubby's Number Factory Is the Strangest Roguelike You'll See Today",
+      "url": "https://www.pushsquare.com/news/2026/11/soon-playable-on-ps5-nubbys-number-factory-is-the-strangest-roguelike-youll-see-today",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 18.6,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/soon-playable-on-ps5-nubbys-number-factory-is-the-strangest-roguelike-youll-see-today",
+          "titre": "Soon Playable on PS5, Nubby's Number Factory Is the Strangest Roguelike You'll See Today"
+        }
+      ]
+    },
+    {
+      "id": "a-trailer-for-a-remake-of-the-original-persona-appears-to-ha",
+      "titre": "A trailer for a remake of the original Persona appears to have leaked",
+      "url": "https://www.videogameschronicle.com/news/a-trailer-for-a-remake-of-the-original-persona-appears-to-have-leaked/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 18.6,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/a-trailer-for-a-remake-of-the-original-persona-appears-to-have-leaked/",
+          "titre": "A trailer for a remake of the original Persona appears to have leaked"
+        }
+      ]
     }
   ],
-  "alertes": [
-    "Yakuza creator's new studio and its debut game Gang of Dragon are no more after losing funding from NetEase",
-    "Nintendo tried adding fast travel to The Legend of Zelda: Ocarina of Time remake, before devs realised \"we were missing out on the moments of discovery\""
-  ]
+  "alertes": []
 };
