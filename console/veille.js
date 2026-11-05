@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "04/11/2026 à 21h48",
+  "collecte": "05/11/2026 à 02h17",
   "seuil": 14,
   "sujets": [
     {
@@ -14,8 +14,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 1.0,
-      "chaleur": 17,
+      "heures": 5.4,
+      "chaleur": 15,
       "liens": [
         {
           "source": "PC Gamer",
@@ -49,8 +49,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 3,
-      "heures": 1.3,
-      "chaleur": 16,
+      "heures": 5.7,
+      "chaleur": 14,
       "liens": [
         {
           "source": "Eurogamer",
@@ -70,6 +70,60 @@ const VEILLE = {
       ]
     },
     {
+      "id": "god-of-war-laufey-delayed-three-months-to-may-2027-as-sony-s",
+      "titre": "God of War Laufey delayed three months to May 2027, as Sony Santa Monica escapes a packed February",
+      "url": "https://www.eurogamer.net/god-of-war-laufey-delayed-may-three-months",
+      "sources": [
+        "Eurogamer",
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 8.8,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/god-of-war-laufey-delayed-may-three-months",
+          "titre": "God of War Laufey delayed three months to May 2027, as Sony Santa Monica escapes a packed February"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/ps5-exclusive-god-of-war-laufey-has-officially-been-delayed-by-three-months",
+          "titre": "PS5 Exclusive God of War Laufey Has Officially Been Delayed by Three Months"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/god-of-war-laufey-has-officially-been-delayed/",
+          "titre": "God of War Laufey has officially been delayed"
+        }
+      ]
+    },
+    {
+      "id": "the-elder-scrolls-6-is-reportedly-more-than-two-years-away-a",
+      "titre": "The Elder Scrolls 6 is reportedly more than two years away, and some fans are not coping well",
+      "url": "https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-6-is-reportedly-more-than-two-years-away-and-some-fans-are-not-coping-well/",
+      "sources": [
+        "Nintendo Life",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 2.0,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-6-is-reportedly-more-than-two-years-away-and-some-fans-are-not-coping-well/",
+          "titre": "The Elder Scrolls 6 is reportedly more than two years away, and some fans are not coping well"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/the-elder-scrolls-6-sentinel-is-reportedly-still-more-than-two-years-away",
+          "titre": "The Elder Scrolls 6: Sentinel Is Reportedly Still \"More Than Two Years Away\""
+        }
+      ]
+    },
+    {
       "id": "countdown-zelda-ocarina-of-time-dungeon-crawl-9-the-grand-fi",
       "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #9 - The Grand Finale",
       "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-9-the-grand-finale",
@@ -78,8 +132,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 0.8,
-      "chaleur": 12,
+      "heures": 5.3,
+      "chaleur": 10,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -103,8 +157,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 2.5,
-      "chaleur": 12,
+      "heures": 6.9,
+      "chaleur": 10,
       "liens": [
         {
           "source": "PC Gamer",
@@ -124,60 +178,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "god-of-war-laufey-delayed-three-months-to-may-2027-as-sony-s",
-      "titre": "God of War Laufey delayed three months to May 2027, as Sony Santa Monica escapes a packed February",
-      "url": "https://www.eurogamer.net/god-of-war-laufey-delayed-may-three-months",
-      "sources": [
-        "Eurogamer",
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 3,
-      "heures": 4.3,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/god-of-war-laufey-delayed-may-three-months",
-          "titre": "God of War Laufey delayed three months to May 2027, as Sony Santa Monica escapes a packed February"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/ps5-exclusive-god-of-war-laufey-has-officially-been-delayed-by-three-months",
-          "titre": "PS5 Exclusive God of War Laufey Has Officially Been Delayed by Three Months"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/god-of-war-laufey-has-officially-been-delayed/",
-          "titre": "God of War Laufey has officially been delayed"
-        }
-      ]
-    },
-    {
-      "id": "playstation-s-black-friday-sale-includes-hundreds-of-ps5-gam",
-      "titre": "PlayStation’s Black Friday sale includes hundreds of PS5 games",
-      "url": "https://www.videogameschronicle.com/news/playstations-black-friday-sale-includes-hundreds-of-ps5-games/",
-      "sources": [
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 1.5,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/playstations-black-friday-sale-includes-hundreds-of-ps5-games/",
-          "titre": "PlayStation’s Black Friday sale includes hundreds of PS5 games"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/ps5-dynamic-pricing-impacts-new-ps-store-black-friday-offers-roughly-usd5-variations-in-prices",
-          "titre": "PS5 Dynamic Pricing Impacts New PS Store Black Friday Offers, Roughly $5 Variations in Prices"
-        }
-      ]
-    },
-    {
       "id": "nexus-mods-takes-the-valve-approach-to-ai-generated-content",
       "titre": "Nexus Mods takes the Valve approach to AI-generated content: No outright bans but mandatory disclosures",
       "url": "https://www.pcgamer.com/games/nexus-mods-takes-the-valve-approach-to-ai-generated-content-no-outright-bans-but-mandatory-disclosures/",
@@ -186,7 +186,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 4.6,
+      "heures": 9.1,
       "chaleur": 10,
       "liens": [
         {
@@ -202,6 +202,66 @@ const VEILLE = {
       ]
     },
     {
+      "id": "nintendo-celebrates-zelda-s-40th-anniversary-with-an-exclusi",
+      "titre": "Nintendo Celebrates Zelda's 40th Anniversary With An Exclusive Pin Set (US)",
+      "url": "https://www.nintendolife.com/news/2026/11/nintendo-celebrates-zeldas-40th-anniversary-with-an-exclusive-pin-set-us",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/nintendo-celebrates-zeldas-40th-anniversary-with-an-exclusive-pin-set-us",
+          "titre": "Nintendo Celebrates Zelda's 40th Anniversary With An Exclusive Pin Set (US)"
+        }
+      ]
+    },
+    {
+      "id": "no-gta-6-november-here-s-what-you-can-play-on-pc-instead",
+      "titre": "No GTA 6 November: Here's what you can play on PC instead",
+      "url": "https://www.pcgamer.com/games/november-games-2026/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.7,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/november-games-2026/",
+          "titre": "No GTA 6 November: Here's what you can play on PC instead"
+        }
+      ]
+    },
+    {
+      "id": "playstation-s-black-friday-sale-includes-hundreds-of-ps5-gam",
+      "titre": "PlayStation’s Black Friday sale includes hundreds of PS5 games",
+      "url": "https://www.videogameschronicle.com/news/playstations-black-friday-sale-includes-hundreds-of-ps5-games/",
+      "sources": [
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 5.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/playstations-black-friday-sale-includes-hundreds-of-ps5-games/",
+          "titre": "PlayStation’s Black Friday sale includes hundreds of PS5 games"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/ps5-dynamic-pricing-impacts-new-ps-store-black-friday-offers-roughly-usd5-variations-in-prices",
+          "titre": "PS5 Dynamic Pricing Impacts New PS Store Black Friday Offers, Roughly $5 Variations in Prices"
+        }
+      ]
+    },
+    {
       "id": "accessible-games-initiative-tags-adopted-by-nintendo-xbox-ub",
       "titre": "Accessible Games Initiative tags adopted by Nintendo, Xbox, Ubisoft and EA, making it easier to find accessibility features",
       "url": "https://www.videogameschronicle.com/news/accessible-games-initiative-tags-adopted-by-nintendo-xbox-ubisoft-and-ea-making-it-easier-to-find-accessibility-features/",
@@ -210,8 +270,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 7.9,
-      "chaleur": 10,
+      "heures": 12.3,
+      "chaleur": 9,
       "liens": [
         {
           "source": "VGC",
@@ -234,8 +294,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 1.0,
-      "chaleur": 9,
+      "heures": 5.5,
+      "chaleur": 7,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -257,55 +317,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 9,
+      "heures": 8.3,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/i-am-back-modding-gta-5-and-being-chased-by-a-billion-furious-armed-cougars/",
           "titre": "I am back modding GTA 5 and being chased by a billion furious, armed cougars"
-        }
-      ]
-    },
-    {
-      "id": "eight-years-ago-the-idea-of-the-elder-scrolls-6-sentinel-had",
-      "titre": "Eight years ago the idea of The Elder Scrolls 6: Sentinel had me captivated, but can Bethesda recapture the magic?",
-      "url": "https://www.eurogamer.net/elder-scrolls-6-sentinel-bethesda-recapture-the-magic",
-      "sources": [
-        "Eurogamer",
-        "Nintendo Life"
-      ],
-      "reprises": 2,
-      "heures": 6.8,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/elder-scrolls-6-sentinel-bethesda-recapture-the-magic",
-          "titre": "Eight years ago the idea of The Elder Scrolls 6: Sentinel had me captivated, but can Bethesda recapture the magic?"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/the-elder-scrolls-6-sentinel-is-reportedly-still-more-than-two-years-away",
-          "titre": "The Elder Scrolls 6: Sentinel Is Reportedly Still \"More Than Two Years Away\""
-        }
-      ]
-    },
-    {
-      "id": "gallery-i-spent-40-on-japanese-chocolate-and-all-i-got-was-t",
-      "titre": "Gallery: I Spent £40 On Japanese Chocolate And All I Got Was This Zelda Merch",
-      "url": "https://www.nintendolife.com/features/gallery-i-spent-p40-on-japanese-chocolate-and-all-i-got-was-this-zelda-merch",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/gallery-i-spent-p40-on-japanese-chocolate-and-all-i-got-was-this-zelda-merch",
-          "titre": "Gallery: I Spent £40 On Japanese Chocolate And All I Got Was This Zelda Merch"
         }
       ]
     },
@@ -317,7 +335,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 9.3,
       "chaleur": 7,
       "liens": [
         {
@@ -335,7 +353,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 9.8,
       "chaleur": 7,
       "liens": [
         {
@@ -354,7 +372,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 5.6,
+      "heures": 10.0,
       "chaleur": 7,
       "liens": [
         {
@@ -377,13 +395,121 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 10.8,
       "chaleur": 7,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/11/kirby-air-riders-cancelled-halloween-event-gets-a-returning-replacement",
           "titre": "Kirby Air Riders' Cancelled Halloween Event Gets A Returning Replacement"
+        }
+      ]
+    },
+    {
+      "id": "steam-s-review-queue-is-clogged-up-by-ai-slop-salacious-fir",
+      "titre": "\"Steam's review queue is clogged up by AI slop\": Salacious Fire Emblem-ish Food Devils gets a delay because its devs think Valve is inundated with genAI games",
+      "url": "https://www.rockpapershotgun.com/steams-review-queue-is-clogged-up-by-ai-slop-salacious-fire-emblem-ish-food-devils-gets-a-delay-because-its-devs-think-valve-is-inundated-with-genai-games",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 28.6,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/steams-review-queue-is-clogged-up-by-ai-slop-salacious-fire-emblem-ish-food-devils-gets-a-delay-because-its-devs-think-valve-is-inundated-with-genai-games",
+          "titre": "\"Steam's review queue is clogged up by AI slop\": Salacious Fire Emblem-ish Food Devils gets a delay because its devs think Valve is inundated with genAI games"
+        }
+      ]
+    },
+    {
+      "id": "critical-role-s-upcoming-series-with-hololive-gave-matt-merc",
+      "titre": "Critical Role's upcoming series with Hololive gave Matt Mercer 'a deeper understanding and appreciation' for vtubers",
+      "url": "https://www.pcgamer.com/games/board-games/critical-roles-upcoming-series-with-hololive-gave-matt-mercer-a-deeper-understanding-and-appreciation-for-vtubers/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/board-games/critical-roles-upcoming-series-with-hololive-gave-matt-mercer-a-deeper-understanding-and-appreciation-for-vtubers/",
+          "titre": "Critical Role's upcoming series with Hololive gave Matt Mercer 'a deeper understanding and appreciation' for vtubers"
+        }
+      ]
+    },
+    {
+      "id": "pikmin-4-has-been-updated-to-version-2-0-0-here-are-the-full",
+      "titre": "Pikmin 4 Has Been Updated To Version 2.0.0, Here Are The Full Patch Notes",
+      "url": "https://www.nintendolife.com/news/2026/11/pikmin-4-has-been-updated-to-version-2-0-0-here-are-the-full-patch-notes",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/pikmin-4-has-been-updated-to-version-2-0-0-here-are-the-full-patch-notes",
+          "titre": "Pikmin 4 Has Been Updated To Version 2.0.0, Here Are The Full Patch Notes"
+        }
+      ]
+    },
+    {
+      "id": "bethesda-will-sell-you-elder-scrolls-6-sentinel-t-shirts-and",
+      "titre": "Bethesda Will Sell You Elder Scrolls 6: Sentinel T-Shirts and Hoodies, Even Though It Hasn't Shown the Game",
+      "url": "https://www.pushsquare.com/news/2026/11/bethesda-will-sell-you-elder-scrolls-6-sentinel-t-shirts-and-hoodies-even-though-it-hasnt-shown-the-game",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 2.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/bethesda-will-sell-you-elder-scrolls-6-sentinel-t-shirts-and-hoodies-even-though-it-hasnt-shown-the-game",
+          "titre": "Bethesda Will Sell You Elder Scrolls 6: Sentinel T-Shirts and Hoodies, Even Though It Hasn't Shown the Game"
+        }
+      ]
+    },
+    {
+      "id": "gallery-i-spent-40-on-japanese-chocolate-and-all-i-got-was-t",
+      "titre": "Gallery: I Spent £40 On Japanese Chocolate And All I Got Was This Zelda Merch",
+      "url": "https://www.nintendolife.com/features/gallery-i-spent-p40-on-japanese-chocolate-and-all-i-got-was-this-zelda-merch",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 8.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/gallery-i-spent-p40-on-japanese-chocolate-and-all-i-got-was-this-zelda-merch",
+          "titre": "Gallery: I Spent £40 On Japanese Chocolate And All I Got Was This Zelda Merch"
+        }
+      ]
+    },
+    {
+      "id": "valve-warns-of-slower-steam-approvals-possibly-due-to-ai-gam",
+      "titre": "Valve warns of slower Steam approvals, possibly due to AI game surge",
+      "url": "https://www.gamedeveloper.com/business/valve-warns-of-slower-steam-approval-process-due-to-flood-of-new-games",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 9.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/valve-warns-of-slower-steam-approval-process-due-to-flood-of-new-games",
+          "titre": "Valve warns of slower Steam approvals, possibly due to AI game surge"
         }
       ]
     },
@@ -395,8 +521,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.2,
-      "chaleur": 7,
+      "heures": 12.7,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
@@ -413,157 +539,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 7,
+      "heures": 16.2,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/dragons-dogma-2-dungeon-meshi-collaboration-out-now",
           "titre": "Dragon's Dogma 2 gets a timed collaboration with beloved anime and manga series Delicious in Dungeon, and it's out right now on PC, PlayStation and Xbox"
-        }
-      ]
-    },
-    {
-      "id": "steam-s-review-queue-is-clogged-up-by-ai-slop-salacious-fir",
-      "titre": "\"Steam's review queue is clogged up by AI slop\": Salacious Fire Emblem-ish Food Devils gets a delay because its devs think Valve is inundated with genAI games",
-      "url": "https://www.rockpapershotgun.com/steams-review-queue-is-clogged-up-by-ai-slop-salacious-fire-emblem-ish-food-devils-gets-a-delay-because-its-devs-think-valve-is-inundated-with-genai-games",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 24.1,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/steams-review-queue-is-clogged-up-by-ai-slop-salacious-fire-emblem-ish-food-devils-gets-a-delay-because-its-devs-think-valve-is-inundated-with-genai-games",
-          "titre": "\"Steam's review queue is clogged up by AI slop\": Salacious Fire Emblem-ish Food Devils gets a delay because its devs think Valve is inundated with genAI games"
-        }
-      ]
-    },
-    {
-      "id": "canadian-bioware-fans-are-calling-on-the-government-to-fund",
-      "titre": "Canadian BioWare fans are calling on the government to fund the studio",
-      "url": "https://www.videogameschronicle.com/news/canadian-bioware-fans-are-calling-on-the-government-to-fund-the-studio/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 0.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/canadian-bioware-fans-are-calling-on-the-government-to-fund-the-studio/",
-          "titre": "Canadian BioWare fans are calling on the government to fund the studio"
-        }
-      ]
-    },
-    {
-      "id": "data-centers-were-some-of-the-biggest-losers-in-last-night-s",
-      "titre": "Data centers were some of the biggest losers in last night's US midterm elections",
-      "url": "https://www.pcgamer.com/gaming-industry/data-centers-were-some-of-the-biggest-losers-in-last-nights-us-midterm-elections/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 0.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/data-centers-were-some-of-the-biggest-losers-in-last-nights-us-midterm-elections/",
-          "titre": "Data centers were some of the biggest losers in last night's US midterm elections"
-        }
-      ]
-    },
-    {
-      "id": "mass-effect-merch-drops-continue-for-n7-day-as-fans-fight-to",
-      "titre": "Mass Effect merch drops continue for N7 Day as fans fight to save the series",
-      "url": "https://www.videogameschronicle.com/news/mass-effect-merch-drops-continue-for-n7-day-as-fans-fight-to-save-the-series/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/mass-effect-merch-drops-continue-for-n7-day-as-fans-fight-to-save-the-series/",
-          "titre": "Mass Effect merch drops continue for N7 Day as fans fight to save the series"
-        }
-      ]
-    },
-    {
-      "id": "poll-is-phantom-blade-zero-too-hard",
-      "titre": "Poll: Is Phantom Blade Zero Too Hard?",
-      "url": "https://www.pushsquare.com/features/poll-is-phantom-blade-zero-too-hard",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/poll-is-phantom-blade-zero-too-hard",
-          "titre": "Poll: Is Phantom Blade Zero Too Hard?"
-        }
-      ]
-    },
-    {
-      "id": "analysis-one-in-three-acquired-game-studios-has-been-shut-do",
-      "titre": "Analysis: one in three acquired game studios has been shut down since 2000",
-      "url": "https://www.gamesindustry.biz/analysis-one-in-three-acquired-game-studios-has-been-shut-down-since-2000",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/analysis-one-in-three-acquired-game-studios-has-been-shut-down-since-2000",
-          "titre": "Analysis: one in three acquired game studios has been shut down since 2000"
-        }
-      ]
-    },
-    {
-      "id": "a-tired-parent-mode-the-witcher-3-dev-explains-the-point-of",
-      "titre": "'A Tired Parent Mode': The Witcher 3 Dev Explains the Point of Remaster's Accessibility Options",
-      "url": "https://www.pushsquare.com/news/2026/11/a-tired-parent-mode-the-witcher-3-dev-explains-the-point-of-remasters-accessibility-options",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/a-tired-parent-mode-the-witcher-3-dev-explains-the-point-of-remasters-accessibility-options",
-          "titre": "'A Tired Parent Mode': The Witcher 3 Dev Explains the Point of Remaster's Accessibility Options"
-        }
-      ]
-    },
-    {
-      "id": "valve-warns-of-slower-steam-approvals-possibly-due-to-ai-gam",
-      "titre": "Valve warns of slower Steam approvals, possibly due to AI game surge",
-      "url": "https://www.gamedeveloper.com/business/valve-warns-of-slower-steam-approval-process-due-to-flood-of-new-games",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 5.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/valve-warns-of-slower-steam-approval-process-due-to-flood-of-new-games",
-          "titre": "Valve warns of slower Steam approvals, possibly due to AI game surge"
         }
       ]
     },
@@ -575,8 +557,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.3,
-      "chaleur": 6,
+      "heures": 12.8,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -593,8 +575,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.6,
-      "chaleur": 6,
+      "heures": 14.0,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -611,31 +593,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 17.0,
       "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/arkane-studios-ubisoft-interested-buyers",
           "titre": "Ubisoft and at least two other companies are interested in buying Arkane, according to new report"
-        }
-      ]
-    },
-    {
-      "id": "valve-admits-it-s-running-behind-on-approving-steam-games-be",
-      "titre": "Valve admits it's 'running behind' on approving Steam games because it has to keep re-reviewing them, which surely has nothing to do with AI",
-      "url": "https://www.pcgamer.com/gaming-industry/valve-admits-its-running-behind-on-approving-steam-games-because-it-has-to-keep-re-reviewing-them-which-surely-has-nothing-to-do-with-ai/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 22.0,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/valve-admits-its-running-behind-on-approving-steam-games-because-it-has-to-keep-re-reviewing-them-which-surely-has-nothing-to-do-with-ai/",
-          "titre": "Valve admits it's 'running behind' on approving Steam games because it has to keep re-reviewing them, which surely has nothing to do with AI"
         }
       ]
     },
@@ -647,7 +611,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 23.0,
+      "heures": 27.4,
       "chaleur": 5,
       "liens": [
         {
@@ -665,7 +629,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 27.3,
+      "heures": 31.8,
       "chaleur": 5,
       "liens": [
         {
@@ -683,13 +647,121 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 29.3,
+      "heures": 33.7,
       "chaleur": 5,
       "liens": [
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/business/south-of-midnight-director-was-always-worried-about-rome-burning-at-xbox",
           "titre": "South of Midnight director was 'always worried' about 'Rome burning' at Xbox"
+        }
+      ]
+    },
+    {
+      "id": "canadian-bioware-fans-are-calling-on-the-government-to-fund",
+      "titre": "Canadian BioWare fans are calling on the government to fund the studio",
+      "url": "https://www.videogameschronicle.com/news/canadian-bioware-fans-are-calling-on-the-government-to-fund-the-studio/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/canadian-bioware-fans-are-calling-on-the-government-to-fund-the-studio/",
+          "titre": "Canadian BioWare fans are calling on the government to fund the studio"
+        }
+      ]
+    },
+    {
+      "id": "data-centers-were-some-of-the-biggest-losers-in-last-night-s",
+      "titre": "Data centers were some of the biggest losers in last night's US midterm elections",
+      "url": "https://www.pcgamer.com/gaming-industry/data-centers-were-some-of-the-biggest-losers-in-last-nights-us-midterm-elections/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/data-centers-were-some-of-the-biggest-losers-in-last-nights-us-midterm-elections/",
+          "titre": "Data centers were some of the biggest losers in last night's US midterm elections"
+        }
+      ]
+    },
+    {
+      "id": "mass-effect-merch-drops-continue-for-n7-day-as-fans-fight-to",
+      "titre": "Mass Effect merch drops continue for N7 Day as fans fight to save the series",
+      "url": "https://www.videogameschronicle.com/news/mass-effect-merch-drops-continue-for-n7-day-as-fans-fight-to-save-the-series/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 7.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/mass-effect-merch-drops-continue-for-n7-day-as-fans-fight-to-save-the-series/",
+          "titre": "Mass Effect merch drops continue for N7 Day as fans fight to save the series"
+        }
+      ]
+    },
+    {
+      "id": "poll-is-phantom-blade-zero-too-hard",
+      "titre": "Poll: Is Phantom Blade Zero Too Hard?",
+      "url": "https://www.pushsquare.com/features/poll-is-phantom-blade-zero-too-hard",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 7.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/poll-is-phantom-blade-zero-too-hard",
+          "titre": "Poll: Is Phantom Blade Zero Too Hard?"
+        }
+      ]
+    },
+    {
+      "id": "analysis-one-in-three-acquired-game-studios-has-been-shut-do",
+      "titre": "Analysis: one in three acquired game studios has been shut down since 2000",
+      "url": "https://www.gamesindustry.biz/analysis-one-in-three-acquired-game-studios-has-been-shut-down-since-2000",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 7.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/analysis-one-in-three-acquired-game-studios-has-been-shut-down-since-2000",
+          "titre": "Analysis: one in three acquired game studios has been shut down since 2000"
+        }
+      ]
+    },
+    {
+      "id": "a-tired-parent-mode-the-witcher-3-dev-explains-the-point-of",
+      "titre": "'A Tired Parent Mode': The Witcher 3 Dev Explains the Point of Remaster's Accessibility Options",
+      "url": "https://www.pushsquare.com/news/2026/11/a-tired-parent-mode-the-witcher-3-dev-explains-the-point-of-remasters-accessibility-options",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 8.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/a-tired-parent-mode-the-witcher-3-dev-explains-the-point-of-remasters-accessibility-options",
+          "titre": "'A Tired Parent Mode': The Witcher 3 Dev Explains the Point of Remaster's Accessibility Options"
         }
       ]
     },
@@ -701,7 +773,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 8.8,
       "chaleur": 4,
       "liens": [
         {
@@ -719,7 +791,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 8.8,
       "chaleur": 4,
       "liens": [
         {
@@ -737,7 +809,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 8.8,
       "chaleur": 4,
       "liens": [
         {
@@ -755,7 +827,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 9.2,
       "chaleur": 4,
       "liens": [
         {
@@ -773,7 +845,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -791,7 +863,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -809,7 +881,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.2,
+      "heures": 9.6,
       "chaleur": 4,
       "liens": [
         {
@@ -827,7 +899,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 10.0,
       "chaleur": 4,
       "liens": [
         {
@@ -845,7 +917,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
@@ -863,7 +935,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
@@ -881,7 +953,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.9,
+      "heures": 10.4,
       "chaleur": 4,
       "liens": [
         {
@@ -899,7 +971,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 10.4,
       "chaleur": 4,
       "liens": [
         {
@@ -917,13 +989,31 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 10.8,
       "chaleur": 4,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/11/stellar-blades-eve-and-friends-infiltrate-overwatch-in-all-new-crossover",
           "titre": "Stellar Blade's Eve and Friends Infiltrate Overwatch in All-New Crossover"
+        }
+      ]
+    },
+    {
+      "id": "eight-years-ago-the-idea-of-the-elder-scrolls-6-sentinel-had",
+      "titre": "Eight years ago the idea of The Elder Scrolls 6: Sentinel had me captivated, but can Bethesda recapture the magic?",
+      "url": "https://www.eurogamer.net/elder-scrolls-6-sentinel-bethesda-recapture-the-magic",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 11.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/elder-scrolls-6-sentinel-bethesda-recapture-the-magic",
+          "titre": "Eight years ago the idea of The Elder Scrolls 6: Sentinel had me captivated, but can Bethesda recapture the magic?"
         }
       ]
     },
@@ -935,8 +1025,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.6,
-      "chaleur": 4,
+      "heures": 12.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -953,8 +1043,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.8,
-      "chaleur": 4,
+      "heures": 12.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -971,8 +1061,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 8.3,
-      "chaleur": 4,
+      "heures": 12.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -989,8 +1079,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.6,
-      "chaleur": 4,
+      "heures": 13.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1007,8 +1097,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.1,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1025,8 +1115,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.1,
-      "chaleur": 4,
+      "heures": 13.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1043,8 +1133,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.1,
-      "chaleur": 4,
+      "heures": 13.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1061,8 +1151,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.6,
-      "chaleur": 4,
+      "heures": 14.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1079,8 +1169,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.7,
-      "chaleur": 4,
+      "heures": 14.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1088,100 +1178,7 @@ const VEILLE = {
           "titre": "The Elder Scrolls 6: Sentinel already has a Nexus Mods page, so now all we have to do is wait"
         }
       ]
-    },
-    {
-      "id": "wow-forever-s-massive-pre-launch-balance-patch-breaks-from-t",
-      "titre": "WoW: Forever's massive pre-launch balance patch breaks from the chains Classic power, increasing 'the health of higher level creatures to compensate'",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-massive-pre-launch-balance-patch-breaks-from-the-chains-classic-power-increasing-the-health-of-higher-level-creatures-to-compensate/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-massive-pre-launch-balance-patch-breaks-from-the-chains-classic-power-increasing-the-health-of-higher-level-creatures-to-compensate/",
-          "titre": "WoW: Forever's massive pre-launch balance patch breaks from the chains Classic power, increasing 'the health of higher level creatures to compensate'"
-        }
-      ]
-    },
-    {
-      "id": "dodgy-download-and-spoofed-job-ad-led-to-6-3-billion-binance",
-      "titre": "Dodgy download and spoofed job ad led to $6.3 billion Binance hack: attacker offered fake software and fake job to infiltrate company wallets and steal billions",
-      "url": "https://www.pcgamer.com/software/security/dodgy-download-and-spoofed-job-ad-led-to-usd6-3-billion-binance-hack-attacker-offered-fake-software-and-fake-job-to-infiltrate-company-wallets-and-steal-billions/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/security/dodgy-download-and-spoofed-job-ad-led-to-usd6-3-billion-binance-hack-attacker-offered-fake-software-and-fake-job-to-infiltrate-company-wallets-and-steal-billions/",
-          "titre": "Dodgy download and spoofed job ad led to $6.3 billion Binance hack: attacker offered fake software and fake job to infiltrate company wallets and steal billions"
-        }
-      ]
-    },
-    {
-      "id": "smash-hit-cyberpunk-storekeeper-probably-stolen-was-original",
-      "titre": "Smash hit cyberpunk storekeeper Probably Stolen was originally a different, non-cyberpunk game that seemed destined to sink without trace",
-      "url": "https://www.rockpapershotgun.com/smash-hit-cyberpunk-storekeeper-probably-stolen-was-originally-a-different-non-cyberpunk-game-that-seemed-destined-to-sink-without-trace",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/smash-hit-cyberpunk-storekeeper-probably-stolen-was-originally-a-different-non-cyberpunk-game-that-seemed-destined-to-sink-without-trace",
-          "titre": "Smash hit cyberpunk storekeeper Probably Stolen was originally a different, non-cyberpunk game that seemed destined to sink without trace"
-        }
-      ]
-    },
-    {
-      "id": "advertising-standards-authority-bans-mobile-ads-from-king-sc",
-      "titre": "Advertising Standards Authority bans mobile ads from King, Scopely, and others for misrepresenting gameplay",
-      "url": "https://www.gamesindustry.biz/advertising-standards-authority-bans-mobile-ads-from-king-scopely-and-others-for-misrepresenting-gameplay",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/advertising-standards-authority-bans-mobile-ads-from-king-scopely-and-others-for-misrepresenting-gameplay",
-          "titre": "Advertising Standards Authority bans mobile ads from King, Scopely, and others for misrepresenting gameplay"
-        }
-      ]
-    },
-    {
-      "id": "an-outright-ban-will-not-eliminate-ai-from-the-modding-proc",
-      "titre": "\"An outright ban will not eliminate AI from the modding process,\" Nexus Mods say as they rule out barring generated creations from their site",
-      "url": "https://www.rockpapershotgun.com/nexus-mods-rule-out-barring-ai-generated-creations-from-their-site",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 11.2,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/nexus-mods-rule-out-barring-ai-generated-creations-from-their-site",
-          "titre": "\"An outright ban will not eliminate AI from the modding process,\" Nexus Mods say as they rule out barring generated creations from their site"
-        }
-      ]
     }
   ],
-  "alertes": [
-    "French game union accuses Microsoft of 'sabotaging' Blade and then using the fallout to justify closing Arkane",
-    "Arkane union says closing the studio \"would probably be more expensive\" for Xbox than simply finishing Marvel's Blade"
-  ]
+  "alertes": []
 };
