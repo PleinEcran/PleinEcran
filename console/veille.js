@@ -1,41 +1,65 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "05/11/2026 à 02h17",
+  "collecte": "05/11/2026 à 12h11",
   "seuil": 14,
   "sujets": [
     {
-      "id": "french-game-union-accuses-microsoft-of-sabotaging-blade-and",
-      "titre": "French game union accuses Microsoft of 'sabotaging' Blade and then using the fallout to justify closing Arkane",
-      "url": "https://www.pcgamer.com/gaming-industry/french-game-union-accuses-microsoft-of-sabotaging-blade-and-then-using-the-fallout-to-justify-closing-arkane/",
+      "id": "nintendo-game-sales-surge-thanks-to-tomodachi-life-living-th",
+      "titre": "Nintendo game sales surge thanks to Tomodachi Life: Living the Dream, but Switch 2 hardware suffers big decline",
+      "url": "https://www.eurogamer.net/nintendo-switch-2-hardware-decline-software-boom",
       "sources": [
-        "GamesIndustry.biz",
-        "PC Gamer",
-        "Rock Paper Shotgun",
+        "Eurogamer",
+        "Nintendo Life",
         "VGC"
       ],
-      "reprises": 4,
-      "heures": 5.4,
+      "reprises": 3,
+      "heures": 0.2,
       "chaleur": 15,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/french-game-union-accuses-microsoft-of-sabotaging-blade-and-then-using-the-fallout-to-justify-closing-arkane/",
-          "titre": "French game union accuses Microsoft of 'sabotaging' Blade and then using the fallout to justify closing Arkane"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/arkane-union-accuses-microsoft-of-sabotaging-marvels-blade-with-19-month-hiring-freeze",
-          "titre": "Arkane union accuses Microsoft of \"sabotaging\" Marvel's Blade with 19-month hiring freeze"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/nintendo-switch-2-hardware-decline-software-boom",
+          "titre": "Nintendo game sales surge thanks to Tomodachi Life: Living the Dream, but Switch 2 hardware suffers big decline"
         },
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/arkane-union-says-xbox-is-sabotaging-blade-development/",
-          "titre": "Arkane union says Xbox is ‘sabotaging’ Blade development"
+          "url": "https://www.videogameschronicle.com/news/nintendo-switch-2-sales-have-dropped-37-but-its-still-comfortably-beating-the-original-console/",
+          "titre": "Nintendo Switch 2 sales have dropped 37%, but it’s still comfortably beating the original console"
         },
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/arkane-is-profitable-say-marvels-blade-developers-in-fiery-new-statement-just-not-profitable-enough-for-microsoft",
-          "titre": "\"Arkane is profitable,\" say Marvel's Blade developers in fiery new statement, \"just not profitable enough for Microsoft\""
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/switch-2-surpasses-26-million-units-sold-hardware-sales-down-by-37-4percent",
+          "titre": "Switch 2 Surpasses 26 Million Units Sold, Hardware Sales Down By 37.4%"
+        }
+      ]
+    },
+    {
+      "id": "zelda-ocarina-of-time-all-empty-bottle-locations",
+      "titre": "Zelda Ocarina of Time: All Empty Bottle locations",
+      "url": "https://www.videogameschronicle.com/guide/zelda-ocarina-of-time-empty-bottle-locations/",
+      "sources": [
+        "Eurogamer",
+        "Nintendo Life",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 1.4,
+      "chaleur": 15,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/zelda-ocarina-of-time-empty-bottle-locations/",
+          "titre": "Zelda Ocarina of Time: All Empty Bottle locations"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/reminder-zelda-ocarina-of-time-playable-ocarina-available-now-on-the-nintendo-store",
+          "titre": "Reminder: Zelda: Ocarina Of Time - Playable Ocarina Available Now On The Nintendo Store"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/the-legend-of-zelda-ocarina-of-time-remake-review",
+          "titre": "The Legend of Zelda: Ocarina of Time (2026) review"
         }
       ]
     },
@@ -49,8 +73,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 3,
-      "heures": 5.7,
-      "chaleur": 14,
+      "heures": 15.6,
+      "chaleur": 13,
       "liens": [
         {
           "source": "Eurogamer",
@@ -70,110 +94,200 @@ const VEILLE = {
       ]
     },
     {
-      "id": "god-of-war-laufey-delayed-three-months-to-may-2027-as-sony-s",
-      "titre": "God of War Laufey delayed three months to May 2027, as Sony Santa Monica escapes a packed February",
-      "url": "https://www.eurogamer.net/god-of-war-laufey-delayed-may-three-months",
+      "id": "bioware-s-closure-represents-an-immense-loss-to-and-possibl",
+      "titre": "\"BioWare's closure represents an immense loss to and possibly a targeted attack on Canada's cultural legacy\" argues petition calling on Canadian government to step in",
+      "url": "https://www.rockpapershotgun.com/biowares-closure-represents-an-immense-loss-to-and-possibly-a-targeted-attack-on-canadas-cultural-legacy-argues-petition-calling-on-canadian-government-to-step-in",
       "sources": [
-        "Eurogamer",
-        "Push Square",
+        "Rock Paper Shotgun",
         "VGC"
       ],
-      "reprises": 3,
-      "heures": 8.8,
+      "reprises": 2,
+      "heures": 1.3,
       "chaleur": 12,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/god-of-war-laufey-delayed-may-three-months",
-          "titre": "God of War Laufey delayed three months to May 2027, as Sony Santa Monica escapes a packed February"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/ps5-exclusive-god-of-war-laufey-has-officially-been-delayed-by-three-months",
-          "titre": "PS5 Exclusive God of War Laufey Has Officially Been Delayed by Three Months"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/biowares-closure-represents-an-immense-loss-to-and-possibly-a-targeted-attack-on-canadas-cultural-legacy-argues-petition-calling-on-canadian-government-to-step-in",
+          "titre": "\"BioWare's closure represents an immense loss to and possibly a targeted attack on Canada's cultural legacy\" argues petition calling on Canadian government to step in"
         },
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/god-of-war-laufey-has-officially-been-delayed/",
-          "titre": "God of War Laufey has officially been delayed"
+          "url": "https://www.videogameschronicle.com/news/canadian-bioware-fans-are-calling-on-the-government-to-fund-the-studio/",
+          "titre": "Canadian BioWare fans are calling on the government to fund the studio"
         }
       ]
     },
     {
-      "id": "the-elder-scrolls-6-is-reportedly-more-than-two-years-away-a",
-      "titre": "The Elder Scrolls 6 is reportedly more than two years away, and some fans are not coping well",
-      "url": "https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-6-is-reportedly-more-than-two-years-away-and-some-fans-are-not-coping-well/",
+      "id": "zelda-ocarina-of-time-full-biggoron-s-sword-trade-sequence-q",
+      "titre": "Zelda Ocarina of Time: Full Biggoron’s Sword trade sequence quest explained",
+      "url": "https://www.videogameschronicle.com/guide/zelda-oot-biggorons-sword-trade-sequence-quest/",
       "sources": [
         "Nintendo Life",
-        "PC Gamer"
+        "VGC"
       ],
       "reprises": 2,
-      "heures": 2.0,
+      "heures": 1.7,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/zelda-oot-biggorons-sword-trade-sequence-quest/",
+          "titre": "Zelda Ocarina of Time: Full Biggoron’s Sword trade sequence quest explained"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-walkthrough-switch-2-remake",
+          "titre": "Guide: Zelda: Ocarina Of Time Walkthrough (Switch 2 Remake): Guide To The Main Quest, Side Quests & Collectables"
+        }
+      ]
+    },
+    {
+      "id": "despite-hardware-worries-and-rising-costs-sony-says-playstat",
+      "titre": "Despite hardware worries and rising costs, Sony says PlayStation 6 development is on track and \"progressing as scheduled\"",
+      "url": "https://www.eurogamer.net/playstation-6-sony-financials-2026-hardware",
+      "sources": [
+        "Eurogamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 2.5,
       "chaleur": 11,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-6-is-reportedly-more-than-two-years-away-and-some-fans-are-not-coping-well/",
-          "titre": "The Elder Scrolls 6 is reportedly more than two years away, and some fans are not coping well"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/the-elder-scrolls-6-sentinel-is-reportedly-still-more-than-two-years-away",
-          "titre": "The Elder Scrolls 6: Sentinel Is Reportedly Still \"More Than Two Years Away\""
-        }
-      ]
-    },
-    {
-      "id": "countdown-zelda-ocarina-of-time-dungeon-crawl-9-the-grand-fi",
-      "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #9 - The Grand Finale",
-      "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-9-the-grand-finale",
-      "sources": [
-        "Eurogamer",
-        "Nintendo Life"
-      ],
-      "reprises": 2,
-      "heures": 5.3,
-      "chaleur": 10,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-9-the-grand-finale",
-          "titre": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #9 - The Grand Finale"
-        },
-        {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/nintendo-cast-navi-actor-zelda-ocarina-of-time",
-          "titre": "The Legend of Zelda: Ocarina of Time's Navi actor reprises her role after 28 years, but it was a total accident due to Nintendo's blind auditions"
-        }
-      ]
-    },
-    {
-      "id": "former-halo-composer-marty-o-donnell-loses-election-then-get",
-      "titre": "Former Halo composer Marty O'Donnell loses election, then gets absolutely bodied by his opponent: 'The fight is finished'",
-      "url": "https://www.pcgamer.com/games/former-halo-composer-marty-odonnell-loses-election-then-gets-absolutely-bodied-by-his-opponent-the-fight-is-finished/",
-      "sources": [
-        "Eurogamer",
-        "PC Gamer",
-        "VGC"
-      ],
-      "reprises": 3,
-      "heures": 6.9,
-      "chaleur": 10,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/former-halo-composer-marty-odonnell-loses-election-then-gets-absolutely-bodied-by-his-opponent-the-fight-is-finished/",
-          "titre": "Former Halo composer Marty O'Donnell loses election, then gets absolutely bodied by his opponent: 'The fight is finished'"
+          "url": "https://www.eurogamer.net/playstation-6-sony-financials-2026-hardware",
+          "titre": "Despite hardware worries and rising costs, Sony says PlayStation 6 development is on track and \"progressing as scheduled\""
         },
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/halo-composer-marty-odonnell-loses-race-in-us-midterms/",
-          "titre": "Halo composer Marty O’Donnell loses race in US midterms"
-        },
+          "url": "https://www.videogameschronicle.com/news/sony-says-playstation-6-development-is-progressing-as-scheduled-as-ps5-sales-hit-97-9m/",
+          "titre": "Sony says PlayStation 6 development is ‘progressing as scheduled’, as PS5 sales hit 97.9m"
+        }
+      ]
+    },
+    {
+      "id": "valve-explains-why-it-s-running-behind-on-steam-game-approva",
+      "titre": "Valve explains why it's running behind on Steam game approvals, asks developers to perform basic release checks to prevent re-reviews",
+      "url": "https://www.eurogamer.net/steam-games-approvals-delayed-valve-response",
+      "sources": [
+        "Eurogamer",
+        "Game Developer"
+      ],
+      "reprises": 2,
+      "heures": 2.8,
+      "chaleur": 11,
+      "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/halo-destiny-composer-martin-o-donnell-projected-lose-us-congress-race",
-          "titre": "Halo and Destiny composer Marty O'Donnell loses his race for a seat in the US House of Representatives"
+          "url": "https://www.eurogamer.net/steam-games-approvals-delayed-valve-response",
+          "titre": "Valve explains why it's running behind on Steam game approvals, asks developers to perform basic release checks to prevent re-reviews"
+        },
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/valve-warns-of-slower-steam-approval-process-due-to-flood-of-new-games",
+          "titre": "Valve warns of slower Steam approvals, possibly due to AI game surge"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-s-inventory-levels-at-a-record-high-as-ram-crisis-c",
+      "titre": "Nintendo's Inventory Levels At A Record High As RAM Crisis Continues",
+      "url": "https://www.nintendolife.com/news/2026/11/nintendos-inventory-levels-at-a-record-high-as-ram-crisis-continues",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/nintendos-inventory-levels-at-a-record-high-as-ram-crisis-continues",
+          "titre": "Nintendo's Inventory Levels At A Record High As RAM Crisis Continues"
+        }
+      ]
+    },
+    {
+      "id": "playstation-sees-record-high-player-numbers-and-increased-re",
+      "titre": "PlayStation sees record high player numbers and increased revenue for Q2 2026, and a lot of that success is down to Marvel's Wolverine",
+      "url": "https://www.eurogamer.net/sony-playstation-fy-2026-wolverine-sales",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/sony-playstation-fy-2026-wolverine-sales",
+          "titre": "PlayStation sees record high player numbers and increased revenue for Q2 2026, and a lot of that success is down to Marvel's Wolverine"
+        }
+      ]
+    },
+    {
+      "id": "switch-2-sales-dropped-37-this-summer-mostly-before-the-pric",
+      "titre": "Switch 2 sales dropped 37% this summer, mostly before the price hike hit; Nintendo now expects sales to slump 16.9% in console's second year",
+      "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/switch-2-sales-dropped-37-percent-this-summer-mostly-before-the-price-hike-hit-nintendo-now-expects-sales-to-slump-16-9-percent-in-consoles-second-year/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/switch-2-sales-dropped-37-percent-this-summer-mostly-before-the-price-hike-hit-nintendo-now-expects-sales-to-slump-16-9-percent-in-consoles-second-year/",
+          "titre": "Switch 2 sales dropped 37% this summer, mostly before the price hike hit; Nintendo now expects sales to slump 16.9% in console's second year"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-reconfirms-release-windows-for-upcoming-switch-2-ga",
+      "titre": "Nintendo Reconfirms Release Windows For Upcoming Switch 2 Games",
+      "url": "https://www.nintendolife.com/news/2026/11/nintendo-reconfirms-release-windows-for-upcoming-switch-2-games",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 3.2,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/nintendo-reconfirms-release-windows-for-upcoming-switch-2-games",
+          "titre": "Nintendo Reconfirms Release Windows For Upcoming Switch 2 Games"
+        }
+      ]
+    },
+    {
+      "id": "french-game-union-accuses-microsoft-of-sabotaging-blade-and",
+      "titre": "French game union accuses Microsoft of 'sabotaging' Blade and then using the fallout to justify closing Arkane",
+      "url": "https://www.pcgamer.com/gaming-industry/french-game-union-accuses-microsoft-of-sabotaging-blade-and-then-using-the-fallout-to-justify-closing-arkane/",
+      "sources": [
+        "GamesIndustry.biz",
+        "PC Gamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 3,
+      "heures": 15.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/french-game-union-accuses-microsoft-of-sabotaging-blade-and-then-using-the-fallout-to-justify-closing-arkane/",
+          "titre": "French game union accuses Microsoft of 'sabotaging' Blade and then using the fallout to justify closing Arkane"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/arkane-union-accuses-microsoft-of-sabotaging-marvels-blade-with-19-month-hiring-freeze",
+          "titre": "Arkane union accuses Microsoft of \"sabotaging\" Marvel's Blade with 19-month hiring freeze"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/arkane-is-profitable-say-marvels-blade-developers-in-fiery-new-statement-just-not-profitable-enough-for-microsoft",
+          "titre": "\"Arkane is profitable,\" say Marvel's Blade developers in fiery new statement, \"just not profitable enough for Microsoft\""
         }
       ]
     },
@@ -186,8 +300,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 9.1,
-      "chaleur": 10,
+      "heures": 19.0,
+      "chaleur": 9,
       "liens": [
         {
           "source": "PC Gamer",
@@ -202,38 +316,74 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nintendo-celebrates-zelda-s-40th-anniversary-with-an-exclusi",
-      "titre": "Nintendo Celebrates Zelda's 40th Anniversary With An Exclusive Pin Set (US)",
-      "url": "https://www.nintendolife.com/news/2026/11/nintendo-celebrates-zeldas-40th-anniversary-with-an-exclusive-pin-set-us",
+      "id": "playstation-raises-full-year-forecast-after-revenue-growth-i",
+      "titre": "PlayStation raises full-year forecast after revenue growth in network services and first-party software",
+      "url": "https://www.gamesindustry.biz/playstation-raises-full-year-forecast-after-revenue-growth-in-network-services-and-first-party-software",
       "sources": [
-        "Nintendo Life"
+        "GamesIndustry.biz"
       ],
       "reprises": 1,
       "heures": 0.3,
-      "chaleur": 9,
+      "chaleur": 8,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/nintendo-celebrates-zeldas-40th-anniversary-with-an-exclusive-pin-set-us",
-          "titre": "Nintendo Celebrates Zelda's 40th Anniversary With An Exclusive Pin Set (US)"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/playstation-raises-full-year-forecast-after-revenue-growth-in-network-services-and-first-party-software",
+          "titre": "PlayStation raises full-year forecast after revenue growth in network services and first-party software"
         }
       ]
     },
     {
-      "id": "no-gta-6-november-here-s-what-you-can-play-on-pc-instead",
-      "titre": "No GTA 6 November: Here's what you can play on PC instead",
-      "url": "https://www.pcgamer.com/games/november-games-2026/",
+      "id": "nintendo-h1-operating-profit-rises-49-1-supported-by-new-tit",
+      "titre": "Nintendo H1 operating profit rises 49.1% supported by new titles including Splatoon Raiders",
+      "url": "https://www.gamesindustry.biz/nintendo-h1-operating-profit-rises-491-supported-by-new-titles-including-splatoon-raiders",
       "sources": [
-        "PC Gamer"
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 2.2,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/nintendo-h1-operating-profit-rises-491-supported-by-new-titles-including-splatoon-raiders",
+          "titre": "Nintendo H1 operating profit rises 49.1% supported by new titles including Splatoon Raiders"
+        }
+      ]
+    },
+    {
+      "id": "here-are-the-best-selling-switch-1-2-games-as-of-september-2",
+      "titre": "Here Are The Best-Selling Switch 1 & 2 Games As Of September 2026",
+      "url": "https://www.nintendolife.com/news/2026/11/here-are-the-best-selling-switch-1-and-2-games-as-of-september-2026",
+      "sources": [
+        "Nintendo Life"
       ],
       "reprises": 1,
       "heures": 2.7,
-      "chaleur": 9,
+      "chaleur": 8,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/november-games-2026/",
-          "titre": "No GTA 6 November: Here's what you can play on PC instead"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/here-are-the-best-selling-switch-1-and-2-games-as-of-september-2026",
+          "titre": "Here Are The Best-Selling Switch 1 & 2 Games As Of September 2026"
+        }
+      ]
+    },
+    {
+      "id": "no-disc-no-buy-and-ps5-blackout-protests-fail-to-impact-play",
+      "titre": "No Disc, No Buy and PS5 Blackout Protests Fail to Impact PlayStation",
+      "url": "https://www.pushsquare.com/news/2026/11/no-disc-no-buy-and-ps5-blackout-protests-fail-to-impact-playstation",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 3.2,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/no-disc-no-buy-and-ps5-blackout-protests-fail-to-impact-playstation",
+          "titre": "No Disc, No Buy and PS5 Blackout Protests Fail to Impact PlayStation"
         }
       ]
     },
@@ -246,8 +396,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 5.9,
-      "chaleur": 9,
+      "heures": 15.8,
+      "chaleur": 8,
       "liens": [
         {
           "source": "VGC",
@@ -262,26 +412,242 @@ const VEILLE = {
       ]
     },
     {
-      "id": "accessible-games-initiative-tags-adopted-by-nintendo-xbox-ub",
-      "titre": "Accessible Games Initiative tags adopted by Nintendo, Xbox, Ubisoft and EA, making it easier to find accessibility features",
-      "url": "https://www.videogameschronicle.com/news/accessible-games-initiative-tags-adopted-by-nintendo-xbox-ubisoft-and-ea-making-it-easier-to-find-accessibility-features/",
+      "id": "god-of-war-laufey-delayed-three-months-to-may-2027-as-sony-s",
+      "titre": "God of War Laufey delayed three months to May 2027, as Sony Santa Monica escapes a packed February",
+      "url": "https://www.eurogamer.net/god-of-war-laufey-delayed-may-three-months",
       "sources": [
-        "Nintendo Life",
-        "VGC"
+        "Eurogamer",
+        "Push Square"
       ],
       "reprises": 2,
-      "heures": 12.3,
-      "chaleur": 9,
+      "heures": 18.6,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/god-of-war-laufey-delayed-may-three-months",
+          "titre": "God of War Laufey delayed three months to May 2027, as Sony Santa Monica escapes a packed February"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/ps5-exclusive-god-of-war-laufey-has-officially-been-delayed-by-three-months",
+          "titre": "PS5 Exclusive God of War Laufey Has Officially Been Delayed by Three Months"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-celebrates-zelda-s-40th-anniversary-with-an-exclusi",
+      "titre": "Nintendo Celebrates Zelda's 40th Anniversary With An Exclusive Pin Set (US)",
+      "url": "https://www.nintendolife.com/news/2026/11/nintendo-celebrates-zeldas-40th-anniversary-with-an-exclusive-pin-set-us",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 10.2,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/nintendo-celebrates-zeldas-40th-anniversary-with-an-exclusive-pin-set-us",
+          "titre": "Nintendo Celebrates Zelda's 40th Anniversary With An Exclusive Pin Set (US)"
+        }
+      ]
+    },
+    {
+      "id": "ps6-development-on-track-sony-making-solid-progress-towards",
+      "titre": "PS6 Development on Track, Sony Making 'Solid Progress' Towards Next-Gen",
+      "url": "https://www.pushsquare.com/news/2026/11/ps6-development-on-track-sony-making-solid-progress-towards-next-gen",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/ps6-development-on-track-sony-making-solid-progress-towards-next-gen",
+          "titre": "PS6 Development on Track, Sony Making 'Solid Progress' Towards Next-Gen"
+        }
+      ]
+    },
+    {
+      "id": "how-to-complete-the-great-outdoors-in-wow-forever",
+      "titre": "How to complete The Great Outdoors in WoW: Forever",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/forever-the-great-outdoors-sit-campfire/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/forever-the-great-outdoors-sit-campfire/",
+          "titre": "How to complete The Great Outdoors in WoW: Forever"
+        }
+      ]
+    },
+    {
+      "id": "oh-hell-yes-pillars-of-eternity-1-and-2-are-getting-full-fat",
+      "titre": "Oh hell yes: Pillars of Eternity 1 and 2 are getting full-fat gamepad support and you can try it right now",
+      "url": "https://www.pcgamer.com/games/rpg/oh-hell-yes-pillars-of-eternity-1-and-2-are-getting-full-fat-gamepad-support-and-you-can-try-it-right-now/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/oh-hell-yes-pillars-of-eternity-1-and-2-are-getting-full-fat-gamepad-support-and-you-can-try-it-right-now/",
+          "titre": "Oh hell yes: Pillars of Eternity 1 and 2 are getting full-fat gamepad support and you can try it right now"
+        }
+      ]
+    },
+    {
+      "id": "fortnite-crew-subscribers-are-no-longer-getting-free-skins-o",
+      "titre": "Fortnite Crew subscribers are no longer getting free skins or the OG Pass, will get more V-Bucks instead",
+      "url": "https://www.videogameschronicle.com/news/fortnite-crew-subscribers-are-no-longer-getting-free-skins-or-the-og-pass-will-get-more-v-bucks-instead/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/accessible-games-initiative-tags-adopted-by-nintendo-xbox-ubisoft-and-ea-making-it-easier-to-find-accessibility-features/",
-          "titre": "Accessible Games Initiative tags adopted by Nintendo, Xbox, Ubisoft and EA, making it easier to find accessibility features"
-        },
+          "url": "https://www.videogameschronicle.com/news/fortnite-crew-subscribers-are-no-longer-getting-free-skins-or-the-og-pass-will-get-more-v-bucks-instead/",
+          "titre": "Fortnite Crew subscribers are no longer getting free skins or the OG Pass, will get more V-Bucks instead"
+        }
+      ]
+    },
+    {
+      "id": "ps5-exclusive-marvel-s-wolverine-off-to-a-soft-start-2-4-mil",
+      "titre": "PS5 Exclusive Marvel's Wolverine Off to a Soft Start, 2.4 Million Copies Sold to Date",
+      "url": "https://www.pushsquare.com/news/2026/11/ps5-exclusive-marvels-wolverine-off-to-a-soft-start-2-4-million-copies-sold-to-date",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/ps5-exclusive-marvels-wolverine-off-to-a-soft-start-2-4-million-copies-sold-to-date",
+          "titre": "PS5 Exclusive Marvel's Wolverine Off to a Soft Start, 2.4 Million Copies Sold to Date"
+        }
+      ]
+    },
+    {
+      "id": "ocarina-remake-s-new-art-style-was-needed-because-something",
+      "titre": "Ocarina remake’s new art style was needed because something ‘expected’ would have had less impact, Aonuma says",
+      "url": "https://www.videogameschronicle.com/news/ocarina-remakes-new-art-style-was-needed-because-something-expected-would-have-had-less-impact-aonuma-says/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/ocarina-remakes-new-art-style-was-needed-because-something-expected-would-have-had-less-impact-aonuma-says/",
+          "titre": "Ocarina remake’s new art style was needed because something ‘expected’ would have had less impact, Aonuma says"
+        }
+      ]
+    },
+    {
+      "id": "world-of-warcraft-forever-is-off-to-a-great-start-with-blizz",
+      "titre": "World of Warcraft: Forever is off to a great start with Blizzard's smoothest launch in memory",
+      "url": "https://www.eurogamer.net/world-of-warcraft-forever-launch-smooth",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 2.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/world-of-warcraft-forever-launch-smooth",
+          "titre": "World of Warcraft: Forever is off to a great start with Blizzard's smoothest launch in memory"
+        }
+      ]
+    },
+    {
+      "id": "ps5-closing-in-on-100-million-sales-as-gradual-drop-off-cont",
+      "titre": "PS5 Closing in on 100 Million Sales as Gradual Drop-Off Continues",
+      "url": "https://www.pushsquare.com/news/2026/11/ps5-closing-in-on-100-million-sales-as-gradual-drop-off-continues",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 2.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/ps5-closing-in-on-100-million-sales-as-gradual-drop-off-continues",
+          "titre": "PS5 Closing in on 100 Million Sales as Gradual Drop-Off Continues"
+        }
+      ]
+    },
+    {
+      "id": "kirby-air-riders-for-switch-2-receives-another-small-update",
+      "titre": "Kirby Air Riders For Switch 2 Receives Another Small Update",
+      "url": "https://www.nintendolife.com/news/2026/11/kirby-air-riders-for-switch-2-receives-another-small-update",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 9.2,
+      "chaleur": 6,
+      "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/nintendo-joins-the-accessible-games-initiative-adopting-a-bunch-of-new-eshop-game-tags",
-          "titre": "Nintendo Joins The Accessible Games Initiative, Adopting A Bunch Of New eShop Game Tags"
+          "url": "https://www.nintendolife.com/news/2026/11/kirby-air-riders-for-switch-2-receives-another-small-update",
+          "titre": "Kirby Air Riders For Switch 2 Receives Another Small Update"
+        }
+      ]
+    },
+    {
+      "id": "the-elder-scrolls-6-is-reportedly-more-than-two-years-away-a",
+      "titre": "The Elder Scrolls 6 is reportedly more than two years away, and some fans are not coping well",
+      "url": "https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-6-is-reportedly-more-than-two-years-away-and-some-fans-are-not-coping-well/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 11.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-6-is-reportedly-more-than-two-years-away-and-some-fans-are-not-coping-well/",
+          "titre": "The Elder Scrolls 6 is reportedly more than two years away, and some fans are not coping well"
+        }
+      ]
+    },
+    {
+      "id": "no-gta-6-november-here-s-what-you-can-play-on-pc-instead",
+      "titre": "No GTA 6 November: Here's what you can play on PC instead",
+      "url": "https://www.pcgamer.com/games/november-games-2026/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 12.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/november-games-2026/",
+          "titre": "No GTA 6 November: Here's what you can play on PC instead"
         }
       ]
     },
@@ -294,8 +660,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 5.5,
-      "chaleur": 7,
+      "heures": 15.4,
+      "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -310,6 +676,48 @@ const VEILLE = {
       ]
     },
     {
+      "id": "former-halo-composer-marty-o-donnell-loses-election-then-get",
+      "titre": "Former Halo composer Marty O'Donnell loses election, then gets absolutely bodied by his opponent: 'The fight is finished'",
+      "url": "https://www.pcgamer.com/games/former-halo-composer-marty-odonnell-loses-election-then-gets-absolutely-bodied-by-his-opponent-the-fight-is-finished/",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 16.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/former-halo-composer-marty-odonnell-loses-election-then-gets-absolutely-bodied-by-his-opponent-the-fight-is-finished/",
+          "titre": "Former Halo composer Marty O'Donnell loses election, then gets absolutely bodied by his opponent: 'The fight is finished'"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/halo-destiny-composer-martin-o-donnell-projected-lose-us-congress-race",
+          "titre": "Halo and Destiny composer Marty O'Donnell loses his race for a seat in the US House of Representatives"
+        }
+      ]
+    },
+    {
+      "id": "the-legend-of-zelda-ocarina-of-time-s-navi-actor-reprises-he",
+      "titre": "The Legend of Zelda: Ocarina of Time's Navi actor reprises her role after 28 years, but it was a total accident due to Nintendo's blind auditions",
+      "url": "https://www.eurogamer.net/nintendo-cast-navi-actor-zelda-ocarina-of-time",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 16.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/nintendo-cast-navi-actor-zelda-ocarina-of-time",
+          "titre": "The Legend of Zelda: Ocarina of Time's Navi actor reprises her role after 28 years, but it was a total accident due to Nintendo's blind auditions"
+        }
+      ]
+    },
+    {
       "id": "i-am-back-modding-gta-5-and-being-chased-by-a-billion-furiou",
       "titre": "I am back modding GTA 5 and being chased by a billion furious, armed cougars",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/i-am-back-modding-gta-5-and-being-chased-by-a-billion-furious-armed-cougars/",
@@ -317,31 +725,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.3,
-      "chaleur": 7,
+      "heures": 18.2,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/i-am-back-modding-gta-5-and-being-chased-by-a-billion-furious-armed-cougars/",
           "titre": "I am back modding GTA 5 and being chased by a billion furious, armed cougars"
-        }
-      ]
-    },
-    {
-      "id": "video-here-s-12-minutes-of-brand-new-zelda-ocarina-of-time-s",
-      "titre": "Video: Here's 12 Minutes Of Brand New Zelda: Ocarina Of Time Switch 2 Gameplay Footage",
-      "url": "https://www.nintendolife.com/news/2026/11/video-heres-12-minutes-of-brand-new-zelda-ocarina-of-time-switch-2-gameplay-footage",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 9.3,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/video-heres-12-minutes-of-brand-new-zelda-ocarina-of-time-switch-2-gameplay-footage",
-          "titre": "Video: Here's 12 Minutes Of Brand New Zelda: Ocarina Of Time Switch 2 Gameplay Footage"
         }
       ]
     },
@@ -353,163 +743,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.8,
-      "chaleur": 7,
+      "heures": 19.7,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/vr-hardware/im-watching-youtube-videos-in-glorious-stereoscopic-3d-on-my-steam-frame-with-just-a-free-plugin-and-a-long-forgotten-dream-of-a-new-nintendo-3ds/",
           "titre": "I'm watching YouTube videos in glorious stereoscopic 3D on my Steam Frame with just a free plugin and a long-forgotten dream of a new Nintendo 3DS"
-        }
-      ]
-    },
-    {
-      "id": "pok-mon-pokopia-s-limited-time-apples-to-applin-event-begins",
-      "titre": "Pokémon Pokopia's Limited-Time 'Apples To Applin' Event Begins This Month",
-      "url": "https://www.nintendolife.com/news/2026/11/pokemon-pokopias-limited-time-apples-to-applin-event-begins-this-month",
-      "sources": [
-        "Nintendo Life",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 10.0,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/pokemon-pokopias-limited-time-apples-to-applin-event-begins-this-month",
-          "titre": "Pokémon Pokopia's Limited-Time 'Apples To Applin' Event Begins This Month"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/pokemon-pokopias-second-expansion-announced-for-december/",
-          "titre": "Pokémon Pokopia’s second expansion announced for December"
-        }
-      ]
-    },
-    {
-      "id": "kirby-air-riders-cancelled-halloween-event-gets-a-returning",
-      "titre": "Kirby Air Riders' Cancelled Halloween Event Gets A Returning Replacement",
-      "url": "https://www.nintendolife.com/news/2026/11/kirby-air-riders-cancelled-halloween-event-gets-a-returning-replacement",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/kirby-air-riders-cancelled-halloween-event-gets-a-returning-replacement",
-          "titre": "Kirby Air Riders' Cancelled Halloween Event Gets A Returning Replacement"
-        }
-      ]
-    },
-    {
-      "id": "steam-s-review-queue-is-clogged-up-by-ai-slop-salacious-fir",
-      "titre": "\"Steam's review queue is clogged up by AI slop\": Salacious Fire Emblem-ish Food Devils gets a delay because its devs think Valve is inundated with genAI games",
-      "url": "https://www.rockpapershotgun.com/steams-review-queue-is-clogged-up-by-ai-slop-salacious-fire-emblem-ish-food-devils-gets-a-delay-because-its-devs-think-valve-is-inundated-with-genai-games",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 28.6,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/steams-review-queue-is-clogged-up-by-ai-slop-salacious-fire-emblem-ish-food-devils-gets-a-delay-because-its-devs-think-valve-is-inundated-with-genai-games",
-          "titre": "\"Steam's review queue is clogged up by AI slop\": Salacious Fire Emblem-ish Food Devils gets a delay because its devs think Valve is inundated with genAI games"
-        }
-      ]
-    },
-    {
-      "id": "critical-role-s-upcoming-series-with-hololive-gave-matt-merc",
-      "titre": "Critical Role's upcoming series with Hololive gave Matt Mercer 'a deeper understanding and appreciation' for vtubers",
-      "url": "https://www.pcgamer.com/games/board-games/critical-roles-upcoming-series-with-hololive-gave-matt-mercer-a-deeper-understanding-and-appreciation-for-vtubers/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 0.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/board-games/critical-roles-upcoming-series-with-hololive-gave-matt-mercer-a-deeper-understanding-and-appreciation-for-vtubers/",
-          "titre": "Critical Role's upcoming series with Hololive gave Matt Mercer 'a deeper understanding and appreciation' for vtubers"
-        }
-      ]
-    },
-    {
-      "id": "pikmin-4-has-been-updated-to-version-2-0-0-here-are-the-full",
-      "titre": "Pikmin 4 Has Been Updated To Version 2.0.0, Here Are The Full Patch Notes",
-      "url": "https://www.nintendolife.com/news/2026/11/pikmin-4-has-been-updated-to-version-2-0-0-here-are-the-full-patch-notes",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 1.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/pikmin-4-has-been-updated-to-version-2-0-0-here-are-the-full-patch-notes",
-          "titre": "Pikmin 4 Has Been Updated To Version 2.0.0, Here Are The Full Patch Notes"
-        }
-      ]
-    },
-    {
-      "id": "bethesda-will-sell-you-elder-scrolls-6-sentinel-t-shirts-and",
-      "titre": "Bethesda Will Sell You Elder Scrolls 6: Sentinel T-Shirts and Hoodies, Even Though It Hasn't Shown the Game",
-      "url": "https://www.pushsquare.com/news/2026/11/bethesda-will-sell-you-elder-scrolls-6-sentinel-t-shirts-and-hoodies-even-though-it-hasnt-shown-the-game",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/bethesda-will-sell-you-elder-scrolls-6-sentinel-t-shirts-and-hoodies-even-though-it-hasnt-shown-the-game",
-          "titre": "Bethesda Will Sell You Elder Scrolls 6: Sentinel T-Shirts and Hoodies, Even Though It Hasn't Shown the Game"
-        }
-      ]
-    },
-    {
-      "id": "gallery-i-spent-40-on-japanese-chocolate-and-all-i-got-was-t",
-      "titre": "Gallery: I Spent £40 On Japanese Chocolate And All I Got Was This Zelda Merch",
-      "url": "https://www.nintendolife.com/features/gallery-i-spent-p40-on-japanese-chocolate-and-all-i-got-was-this-zelda-merch",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 8.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/gallery-i-spent-p40-on-japanese-chocolate-and-all-i-got-was-this-zelda-merch",
-          "titre": "Gallery: I Spent £40 On Japanese Chocolate And All I Got Was This Zelda Merch"
-        }
-      ]
-    },
-    {
-      "id": "valve-warns-of-slower-steam-approvals-possibly-due-to-ai-gam",
-      "titre": "Valve warns of slower Steam approvals, possibly due to AI game surge",
-      "url": "https://www.gamedeveloper.com/business/valve-warns-of-slower-steam-approval-process-due-to-flood-of-new-games",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 9.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/valve-warns-of-slower-steam-approval-process-due-to-flood-of-new-games",
-          "titre": "Valve warns of slower Steam approvals, possibly due to AI game surge"
         }
       ]
     },
@@ -521,7 +761,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.7,
+      "heures": 22.6,
       "chaleur": 6,
       "liens": [
         {
@@ -539,7 +779,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.2,
+      "heures": 26.1,
       "chaleur": 6,
       "liens": [
         {
@@ -550,128 +790,74 @@ const VEILLE = {
       ]
     },
     {
-      "id": "worth-your-time-digital-foundry-delivers-its-tech-review-fo",
-      "titre": "\"Worth Your Time\" - Digital Foundry Delivers Its Tech Review For Zelda: Ocarina Of Time",
-      "url": "https://www.nintendolife.com/news/2026/11/worth-your-time-digital-foundry-delivers-its-tech-review-for-zelda-ocarina-of-time",
+      "id": "gallery-i-spent-40-on-japanese-chocolate-and-all-i-got-was-t",
+      "titre": "Gallery: I Spent £40 On Japanese Chocolate And All I Got Was This Zelda Merch",
+      "url": "https://www.nintendolife.com/features/gallery-i-spent-p40-on-japanese-chocolate-and-all-i-got-was-this-zelda-merch",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.8,
+      "heures": 18.2,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/worth-your-time-digital-foundry-delivers-its-tech-review-for-zelda-ocarina-of-time",
-          "titre": "\"Worth Your Time\" - Digital Foundry Delivers Its Tech Review For Zelda: Ocarina Of Time"
+          "url": "https://www.nintendolife.com/features/gallery-i-spent-p40-on-japanese-chocolate-and-all-i-got-was-this-zelda-merch",
+          "titre": "Gallery: I Spent £40 On Japanese Chocolate And All I Got Was This Zelda Merch"
         }
       ]
     },
     {
-      "id": "switch-cartridges-under-threat-as-key-rom-manufacturer-exits",
-      "titre": "Switch Cartridges Under Threat As Key ROM Manufacturer Exits Business",
-      "url": "https://www.nintendolife.com/news/2026/11/switch-cartridges-under-threat-as-key-rom-manufacturer-exits-business",
+      "id": "critical-role-s-upcoming-series-with-hololive-gave-matt-merc",
+      "titre": "Critical Role's upcoming series with Hololive gave Matt Mercer 'a deeper understanding and appreciation' for vtubers",
+      "url": "https://www.pcgamer.com/games/board-games/critical-roles-upcoming-series-with-hololive-gave-matt-mercer-a-deeper-understanding-and-appreciation-for-vtubers/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.0,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/switch-cartridges-under-threat-as-key-rom-manufacturer-exits-business",
-          "titre": "Switch Cartridges Under Threat As Key ROM Manufacturer Exits Business"
-        }
-      ]
-    },
-    {
-      "id": "ubisoft-and-at-least-two-other-companies-are-interested-in-b",
-      "titre": "Ubisoft and at least two other companies are interested in buying Arkane, according to new report",
-      "url": "https://www.eurogamer.net/arkane-studios-ubisoft-interested-buyers",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 17.0,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/arkane-studios-ubisoft-interested-buyers",
-          "titre": "Ubisoft and at least two other companies are interested in buying Arkane, according to new report"
-        }
-      ]
-    },
-    {
-      "id": "ubisoft-are-reportedly-tapped-as-one-potential-company-that",
-      "titre": "Ubisoft are reportedly tapped as one potential company that could acquire Arkane, though the Dishonored studio's own management may be in the running too",
-      "url": "https://www.rockpapershotgun.com/ubisoft-are-reportedly-tapped-as-one-potential-company-that-could-acquire-arkane-though-the-dishonored-studios-own-management-may-be-in-the-running-too",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 27.4,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/ubisoft-are-reportedly-tapped-as-one-potential-company-that-could-acquire-arkane-though-the-dishonored-studios-own-management-may-be-in-the-running-too",
-          "titre": "Ubisoft are reportedly tapped as one potential company that could acquire Arkane, though the Dishonored studio's own management may be in the running too"
-        }
-      ]
-    },
-    {
-      "id": "former-xbox-coo-helen-chiang-pushes-back-on-characterization",
-      "titre": "Former Xbox COO Helen Chiang pushes back on characterizations of her departure",
-      "url": "https://www.gamedeveloper.com/business/former-xbox-coo-helen-chiang-takes-umbrage-with-the-characterizations-of-her-departure",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 31.8,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/former-xbox-coo-helen-chiang-takes-umbrage-with-the-characterizations-of-her-departure",
-          "titre": "Former Xbox COO Helen Chiang pushes back on characterizations of her departure"
-        }
-      ]
-    },
-    {
-      "id": "south-of-midnight-director-was-always-worried-about-rome-bur",
-      "titre": "South of Midnight director was 'always worried' about 'Rome burning' at Xbox",
-      "url": "https://www.gamedeveloper.com/business/south-of-midnight-director-was-always-worried-about-rome-burning-at-xbox",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 33.7,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/south-of-midnight-director-was-always-worried-about-rome-burning-at-xbox",
-          "titre": "South of Midnight director was 'always worried' about 'Rome burning' at Xbox"
-        }
-      ]
-    },
-    {
-      "id": "canadian-bioware-fans-are-calling-on-the-government-to-fund",
-      "titre": "Canadian BioWare fans are calling on the government to fund the studio",
-      "url": "https://www.videogameschronicle.com/news/canadian-bioware-fans-are-calling-on-the-government-to-fund-the-studio/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 4.5,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/canadian-bioware-fans-are-calling-on-the-government-to-fund-the-studio/",
-          "titre": "Canadian BioWare fans are calling on the government to fund the studio"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/board-games/critical-roles-upcoming-series-with-hololive-gave-matt-mercer-a-deeper-understanding-and-appreciation-for-vtubers/",
+          "titre": "Critical Role's upcoming series with Hololive gave Matt Mercer 'a deeper understanding and appreciation' for vtubers"
+        }
+      ]
+    },
+    {
+      "id": "pikmin-4-has-been-updated-to-version-2-0-0-here-are-the-full",
+      "titre": "Pikmin 4 Has Been Updated To Version 2.0.0, Here Are The Full Patch Notes",
+      "url": "https://www.nintendolife.com/news/2026/11/pikmin-4-has-been-updated-to-version-2-0-0-here-are-the-full-patch-notes",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 11.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/pikmin-4-has-been-updated-to-version-2-0-0-here-are-the-full-patch-notes",
+          "titre": "Pikmin 4 Has Been Updated To Version 2.0.0, Here Are The Full Patch Notes"
+        }
+      ]
+    },
+    {
+      "id": "bethesda-will-sell-you-elder-scrolls-6-sentinel-t-shirts-and",
+      "titre": "Bethesda Will Sell You Elder Scrolls 6: Sentinel T-Shirts and Hoodies, Even Though It Hasn't Shown the Game",
+      "url": "https://www.pushsquare.com/news/2026/11/bethesda-will-sell-you-elder-scrolls-6-sentinel-t-shirts-and-hoodies-even-though-it-hasnt-shown-the-game",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 12.2,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/bethesda-will-sell-you-elder-scrolls-6-sentinel-t-shirts-and-hoodies-even-though-it-hasnt-shown-the-game",
+          "titre": "Bethesda Will Sell You Elder Scrolls 6: Sentinel T-Shirts and Hoodies, Even Though It Hasn't Shown the Game"
         }
       ]
     },
@@ -683,8 +869,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.1,
-      "chaleur": 4,
+      "heures": 15.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -701,8 +887,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 7.2,
-      "chaleur": 4,
+      "heures": 17.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -719,8 +905,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.3,
-      "chaleur": 4,
+      "heures": 17.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -737,8 +923,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 7.4,
-      "chaleur": 4,
+      "heures": 17.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -755,8 +941,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.3,
-      "chaleur": 4,
+      "heures": 18.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -773,8 +959,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.8,
-      "chaleur": 4,
+      "heures": 18.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -791,31 +977,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.8,
-      "chaleur": 4,
+      "heures": 18.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/fps/new-blood-ceo-would-rather-shut-down-the-boomer-shooter-studio-than-sell-out-in-20-years-were-done-im-gonna-say-goodbye-shut-it-down/",
           "titre": "New Blood CEO would rather shut down the boomer shooter studio than sell out: 'In 20 years, we're done. I'm gonna say goodbye, shut it down'"
-        }
-      ]
-    },
-    {
-      "id": "gog-announces-first-ever-games-showcase",
-      "titre": "GOG announces first ever games showcase",
-      "url": "https://www.videogameschronicle.com/news/gog-announces-first-ever-games-showcase/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 8.8,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/gog-announces-first-ever-games-showcase/",
-          "titre": "GOG announces first ever games showcase"
         }
       ]
     },
@@ -827,31 +995,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.2,
-      "chaleur": 4,
+      "heures": 19.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/rimworld-inspired-colony-sim-stardeus-gets-a-huge-update-representing-a-years-worth-of-expansion-and-revision-with-new-tools-for-evil-ai-overlords",
           "titre": "Rimworld-inspired colony sim Stardeus gets a huge update representing a year's worth of expansion and revision, with new tools for evil AI overlords"
-        }
-      ]
-    },
-    {
-      "id": "f-ing-annoying-sam-altman-claims-comments-about-pc-gamers-b",
-      "titre": "‘F***ing annoying’: Sam Altman claims comments about PC gamers buying RAM ‘taken out of context’",
-      "url": "https://www.videogameschronicle.com/news/fing-annoying-sam-altman-claims-comments-about-pc-gamers-buying-ram-taken-out-of-context/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 9.3,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/fing-annoying-sam-altman-claims-comments-about-pc-gamers-buying-ram-taken-out-of-context/",
-          "titre": "‘F***ing annoying’: Sam Altman claims comments about PC gamers buying RAM ‘taken out of context’"
         }
       ]
     },
@@ -863,8 +1013,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.3,
-      "chaleur": 4,
+      "heures": 19.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -881,13 +1031,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.6,
-      "chaleur": 4,
+      "heures": 19.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/memory/how-can-prices-fall-when-theres-nothing-left-teamgroup-ceo-reckons-supply-demand-memory-equilibrium-may-not-happen-until-late-2028-at-the-earliest/",
           "titre": "'How can prices fall when there's nothing left?' TeamGroup CEO reckons supply-demand memory equilibrium may not happen until late 2028 at the earliest"
+        }
+      ]
+    },
+    {
+      "id": "pok-mon-pokopia-s-limited-time-apples-to-applin-event-begins",
+      "titre": "Pokémon Pokopia's Limited-Time 'Apples To Applin' Event Begins This Month",
+      "url": "https://www.nintendolife.com/news/2026/11/pokemon-pokopias-limited-time-apples-to-applin-event-begins-this-month",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 19.9,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/pokemon-pokopias-limited-time-apples-to-applin-event-begins-this-month",
+          "titre": "Pokémon Pokopia's Limited-Time 'Apples To Applin' Event Begins This Month"
         }
       ]
     },
@@ -899,8 +1067,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.0,
-      "chaleur": 4,
+      "heures": 19.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -917,8 +1085,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
+      "heures": 20.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -935,31 +1103,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
+      "heures": 20.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/reviews/ps5/godzilla-destroy-all-monsters-melee-remastered",
           "titre": "Mini Review: Godzilla: Destroy All Monsters Melee Remastered (PS5) - Nostalgic Kaiju Brawls in This Fun But Meagre Package"
-        }
-      ]
-    },
-    {
-      "id": "formula-v-line-air-power-g10-review",
-      "titre": "Formula V Line Air Power G10 review",
-      "url": "https://www.pcgamer.com/hardware/pc-cases/formula-v-line-air-power-g10-review/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/pc-cases/formula-v-line-air-power-g10-review/",
-          "titre": "Formula V Line Air Power G10 review"
         }
       ]
     },
@@ -971,8 +1121,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 4,
+      "heures": 20.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -989,8 +1139,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 4,
+      "heures": 20.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1007,31 +1157,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.2,
-      "chaleur": 4,
+      "heures": 21.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/elder-scrolls-6-sentinel-bethesda-recapture-the-magic",
           "titre": "Eight years ago the idea of The Elder Scrolls 6: Sentinel had me captivated, but can Bethesda recapture the magic?"
-        }
-      ]
-    },
-    {
-      "id": "ocarina-of-time-remake-tops-metacritic-s-goty-list-and-it-s",
-      "titre": "Ocarina Of Time Remake Tops Metacritic's GOTY List, And It's High On The All-Time Ranking",
-      "url": "https://www.nintendolife.com/news/2026/11/ocarina-of-time-remake-tops-metacritics-goty-list-and-its-high-on-the-all-time-ranking",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 12.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/ocarina-of-time-remake-tops-metacritics-goty-list-and-its-high-on-the-all-time-ranking",
-          "titre": "Ocarina Of Time Remake Tops Metacritic's GOTY List, And It's High On The All-Time Ranking"
         }
       ]
     },
@@ -1043,7 +1175,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.3,
+      "heures": 22.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1052,133 +1184,10 @@ const VEILLE = {
           "titre": "This JRPG Series Lightly Inspired by the Console Wars Is Finally Getting a New PS5 Sequel"
         }
       ]
-    },
-    {
-      "id": "i-realised-i-might-only-have-time-to-make-one-more-game-so",
-      "titre": "\"I realised I might only have time to make one more game, so I wanted to try something new\" – Tekken director Katsuhiro Harada on starting VS Studio",
-      "url": "https://www.gamesindustry.biz/i-realised-i-might-only-have-time-to-make-one-more-game-so-i-wanted-to-try-something-new-tekken-director-katsuhiro-harada-on-starting-vs-studio",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 12.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/i-realised-i-might-only-have-time-to-make-one-more-game-so-i-wanted-to-try-something-new-tekken-director-katsuhiro-harada-on-starting-vs-studio",
-          "titre": "\"I realised I might only have time to make one more game, so I wanted to try something new\" – Tekken director Katsuhiro Harada on starting VS Studio"
-        }
-      ]
-    },
-    {
-      "id": "fate-of-the-galaxy-is-a-huge-fully-featured-star-wars-space",
-      "titre": "Fate of the Galaxy is a huge, fully-featured Star Wars space combat sim that, thanks to being a total conversion mod for Freespace Open, even runs on my rubbish laptop",
-      "url": "https://www.rockpapershotgun.com/fate-of-the-galaxy-is-a-huge-fully-featured-star-wars-space-combat-sim-that-thanks-to-being-a-total-conversion-mod-for-freespace-open-even-runs-on-my-rubbish-laptop",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 13.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/fate-of-the-galaxy-is-a-huge-fully-featured-star-wars-space-combat-sim-that-thanks-to-being-a-total-conversion-mod-for-freespace-open-even-runs-on-my-rubbish-laptop",
-          "titre": "Fate of the Galaxy is a huge, fully-featured Star Wars space combat sim that, thanks to being a total conversion mod for Freespace Open, even runs on my rubbish laptop"
-        }
-      ]
-    },
-    {
-      "id": "lara-croft-s-ps1-to-ps5-glow-up-to-be-revealed-in-tomb-raide",
-      "titre": "Lara Croft's PS1 to PS5 Glow-Up to Be Revealed in Tomb Raider Cover Story",
-      "url": "https://www.pushsquare.com/news/2026/11/lara-crofts-ps1-to-ps5-glow-up-to-be-revealed-in-tomb-raider-cover-story",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 13.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/lara-crofts-ps1-to-ps5-glow-up-to-be-revealed-in-tomb-raider-cover-story",
-          "titre": "Lara Croft's PS1 to PS5 Glow-Up to Be Revealed in Tomb Raider Cover Story"
-        }
-      ]
-    },
-    {
-      "id": "keep-talking-about-it-raw-power-games-call-for-wishlist-aid",
-      "titre": "\"Keep talking about it\": Raw Power Games call for Wishlist aid as they, and their historical strategy sandbox Chronicles: Medieval, lose funding",
-      "url": "https://www.rockpapershotgun.com/keep-talking-about-it-raw-power-games-call-for-wishlist-aid-as-they-and-their-historical-strategy-sandbox-chronicles-medieval-lose-funding",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 13.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/keep-talking-about-it-raw-power-games-call-for-wishlist-aid-as-they-and-their-historical-strategy-sandbox-chronicles-medieval-lose-funding",
-          "titre": "\"Keep talking about it\": Raw Power Games call for Wishlist aid as they, and their historical strategy sandbox Chronicles: Medieval, lose funding"
-        }
-      ]
-    },
-    {
-      "id": "amd-says-it-s-going-to-beat-intel-in-total-revenue-for-the-v",
-      "titre": "AMD says it's going to beat Intel in total revenue for the very first time by the end of 2026",
-      "url": "https://www.pcgamer.com/hardware/processors/amd-says-its-going-to-beat-intel-in-total-revenue-for-the-very-first-time-by-the-end-of-2026/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 13.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/processors/amd-says-its-going-to-beat-intel-in-total-revenue-for-the-very-first-time-by-the-end-of-2026/",
-          "titre": "AMD says it's going to beat Intel in total revenue for the very first time by the end of 2026"
-        }
-      ]
-    },
-    {
-      "id": "marvel-tokon-s-magik-gets-fired-up-with-free-new-costume-for",
-      "titre": "Marvel Tokon's Magik Gets Fired Up with Free New Costume for All Players",
-      "url": "https://www.pushsquare.com/news/2026/11/marvel-tokons-magik-gets-fired-up-with-free-new-costume-for-all-players",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 14.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/marvel-tokons-magik-gets-fired-up-with-free-new-costume-for-all-players",
-          "titre": "Marvel Tokon's Magik Gets Fired Up with Free New Costume for All Players"
-        }
-      ]
-    },
-    {
-      "id": "the-elder-scrolls-6-sentinel-already-has-a-nexus-mods-page-s",
-      "titre": "The Elder Scrolls 6: Sentinel already has a Nexus Mods page, so now all we have to do is wait",
-      "url": "https://www.rockpapershotgun.com/the-elder-scrolls-6-sentinel-already-has-a-nexus-mods-page-so-now-all-we-have-to-do-is-wait",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 14.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-elder-scrolls-6-sentinel-already-has-a-nexus-mods-page-so-now-all-we-have-to-do-is-wait",
-          "titre": "The Elder Scrolls 6: Sentinel already has a Nexus Mods page, so now all we have to do is wait"
-        }
-      ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "Nintendo game sales surge thanks to Tomodachi Life: Living the Dream, but Switch 2 hardware suffers big decline",
+    "Zelda Ocarina of Time: All Empty Bottle locations"
+  ]
 };
