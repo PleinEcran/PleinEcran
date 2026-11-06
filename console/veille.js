@@ -1,8 +1,38 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "05/11/2026 à 21h01",
+  "collecte": "06/11/2026 à 02h16",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "petition-to-save-mass-effect-dev-bioware-to-be-considered-by",
+      "titre": "Petition to Save Mass Effect Dev BioWare to Be Considered by Canada's Government",
+      "url": "https://www.pushsquare.com/news/2026/11/petition-to-save-mass-effect-dev-bioware-to-be-considered-by-canadas-government",
+      "sources": [
+        "Eurogamer",
+        "Push Square",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 3,
+      "heures": 2.3,
+      "chaleur": 15,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/petition-to-save-mass-effect-dev-bioware-to-be-considered-by-canadas-government",
+          "titre": "Petition to Save Mass Effect Dev BioWare to Be Considered by Canada's Government"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/bioware-canada-house-of-commons-petition-save-mass-effect",
+          "titre": "Mass Effect petition has enough signatures for the Canadian Government to potentially save BioWare"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/biowares-closure-represents-an-immense-loss-to-and-possibly-a-targeted-attack-on-canadas-cultural-legacy-argues-petition-calling-on-canadian-government-to-step-in",
+          "titre": "\"BioWare's closure represents an immense loss to and possibly a targeted attack on Canada's cultural legacy\" argues petition calling on Canadian government to step in"
+        }
+      ]
+    },
     {
       "id": "arkane-union-says-closing-the-studio-would-probably-be-more",
       "titre": "Arkane union says closing the studio \"would probably be more expensive\" for Xbox than simply finishing Marvel's Blade",
@@ -14,7 +44,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 4,
-      "heures": 24.5,
+      "heures": 29.7,
       "chaleur": 14,
       "liens": [
         {
@@ -40,44 +70,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "all-water-temple-gold-skulltula-locations-in-zelda-ocarina-o",
-      "titre": "All Water Temple Gold Skulltula locations in Zelda: Ocarina of Time Switch 2",
-      "url": "https://www.videogameschronicle.com/guide/all-water-temple-gold-skulltula-locations-in-zelda-ocarina-of-time-switch-2/",
+      "id": "all-zora-river-domain-and-fountain-gold-skulltulas-in-zelda",
+      "titre": "All Zora River, Domain, and Fountain Gold Skulltulas in Zelda: Ocarina of Time Switch 2",
+      "url": "https://www.videogameschronicle.com/guide/all-zora-river-domain-and-fountain-gold-skulltulas-in-zelda-ocarina-of-time-switch-2/",
       "sources": [
         "Nintendo Life",
         "VGC"
       ],
       "reprises": 2,
-      "heures": 0.2,
+      "heures": 2.7,
       "chaleur": 12,
       "liens": [
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/all-water-temple-gold-skulltula-locations-in-zelda-ocarina-of-time-switch-2/",
-          "titre": "All Water Temple Gold Skulltula locations in Zelda: Ocarina of Time Switch 2"
+          "url": "https://www.videogameschronicle.com/guide/all-zora-river-domain-and-fountain-gold-skulltulas-in-zelda-ocarina-of-time-switch-2/",
+          "titre": "All Zora River, Domain, and Fountain Gold Skulltulas in Zelda: Ocarina of Time Switch 2"
         },
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/11/japanese-charts-switch-2-sales-get-a-nice-bump-ahead-of-zelda-ocarina-of-time",
           "titre": "Japanese Charts: Switch 2 Sales Get A Nice Bump Ahead Of Zelda: Ocarina Of Time"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-confident-in-memory-supply-in-new-financial-report",
-      "titre": "Nintendo confident in memory supply in new financial report",
-      "url": "https://www.gamedeveloper.com/business/nintendo-confident-in-memory-supply-in-new-financial-report",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 10,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/nintendo-confident-in-memory-supply-in-new-financial-report",
-          "titre": "Nintendo confident in memory supply in new financial report"
         }
       ]
     },
@@ -90,7 +102,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 4.0,
+      "heures": 9.3,
       "chaleur": 10,
       "liens": [
         {
@@ -114,7 +126,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 6.5,
+      "heures": 11.8,
       "chaleur": 10,
       "liens": [
         {
@@ -130,26 +142,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "mass-effect-petition-has-enough-signatures-for-the-canadian",
-      "titre": "Mass Effect petition has enough signatures for the Canadian Government to potentially save BioWare",
-      "url": "https://www.eurogamer.net/bioware-canada-house-of-commons-petition-save-mass-effect",
+      "id": "you-don-t-want-to-interrupt-the-player-s-experience-here-s",
+      "titre": "\"You Don't Want To Interrupt The Player's Experience\" - Here's Why Zelda's Switch 2 Remake Cut Some Mario References",
+      "url": "https://www.nintendolife.com/news/2026/11/you-dont-want-to-interrupt-the-players-experience-heres-why-zeldas-switch-2-remake-cut-some-mario-references",
       "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun"
+        "Nintendo Life"
       ],
-      "reprises": 2,
-      "heures": 8.2,
-      "chaleur": 10,
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 9,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/bioware-canada-house-of-commons-petition-save-mass-effect",
-          "titre": "Mass Effect petition has enough signatures for the Canadian Government to potentially save BioWare"
-        },
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/you-dont-want-to-interrupt-the-players-experience-heres-why-zeldas-switch-2-remake-cut-some-mario-references",
+          "titre": "\"You Don't Want To Interrupt The Player's Experience\" - Here's Why Zelda's Switch 2 Remake Cut Some Mario References"
+        }
+      ]
+    },
+    {
+      "id": "warren-spector-sounds-even-angrier-about-bioware-s-closure-a",
+      "titre": "Warren Spector sounds even angrier about BioWare's closure as he recounts the massive salaries of EA execs: 'Is there ANY accountability left in this world?'",
+      "url": "https://www.pcgamer.com/gaming-industry/warren-spector-sounds-even-angrier-about-biowares-closure-as-he-recounts-the-massive-salaries-of-ea-execs-is-there-any-accountability-left-in-this-world/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 3.9,
+      "chaleur": 9,
+      "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/biowares-closure-represents-an-immense-loss-to-and-possibly-a-targeted-attack-on-canadas-cultural-legacy-argues-petition-calling-on-canadian-government-to-step-in",
-          "titre": "\"BioWare's closure represents an immense loss to and possibly a targeted attack on Canada's cultural legacy\" argues petition calling on Canadian government to step in"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/warren-spector-sounds-even-angrier-about-biowares-closure-as-he-recounts-the-massive-salaries-of-ea-execs-is-there-any-accountability-left-in-this-world/",
+          "titre": "Warren Spector sounds even angrier about BioWare's closure as he recounts the massive salaries of EA execs: 'Is there ANY accountability left in this world?'"
         }
       ]
     },
@@ -162,8 +186,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 9.1,
-      "chaleur": 10,
+      "heures": 14.3,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Eurogamer",
@@ -178,6 +202,66 @@ const VEILLE = {
       ]
     },
     {
+      "id": "xbox-enters-the-faster-pc-launcher-arms-race-its-app-loads-f",
+      "titre": "Xbox enters the 'faster PC launcher' arms race, its app loads faster now too",
+      "url": "https://www.pcgamer.com/software/platforms/xbox-enters-the-faster-pc-launcher-arms-race-its-app-loads-faster-now-too/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 3.7,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/platforms/xbox-enters-the-faster-pc-launcher-arms-race-its-app-loads-faster-now-too/",
+          "titre": "Xbox enters the 'faster PC launcher' arms race, its app loads faster now too"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-confident-in-memory-supply-in-new-financial-report",
+      "titre": "Nintendo confident in memory supply in new financial report",
+      "url": "https://www.gamedeveloper.com/business/nintendo-confident-in-memory-supply-in-new-financial-report",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 8.6,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/nintendo-confident-in-memory-supply-in-new-financial-report",
+          "titre": "Nintendo confident in memory supply in new financial report"
+        }
+      ]
+    },
+    {
+      "id": "valve-explains-why-it-s-running-behind-on-steam-game-approva",
+      "titre": "Valve explains why it's running behind on Steam game approvals, asks developers to perform basic release checks to prevent re-reviews",
+      "url": "https://www.eurogamer.net/steam-games-approvals-delayed-valve-response",
+      "sources": [
+        "Eurogamer",
+        "Game Developer"
+      ],
+      "reprises": 2,
+      "heures": 16.9,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/steam-games-approvals-delayed-valve-response",
+          "titre": "Valve explains why it's running behind on Steam game approvals, asks developers to perform basic release checks to prevent re-reviews"
+        },
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/valve-warns-of-slower-steam-approval-process-due-to-flood-of-new-games",
+          "titre": "Valve warns of slower Steam approvals, possibly due to AI game surge"
+        }
+      ]
+    },
+    {
       "id": "i-have-added-parkour-to-gta-5-and-also-accidentally-turned-o",
       "titre": "I have added parkour to GTA 5, and also accidentally turned on like 20 mods I forgot I'd installed",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-added-parkour-to-gta-5-and-also-accidentally-turned-on-like-20-mods-i-forgot-id-installed/",
@@ -185,8 +269,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 9,
+      "heures": 8.3,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
@@ -203,151 +287,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 9,
+      "heures": 9.1,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-drops-a-pile-of-new-gta-6-launch-screenshots-featuring-dancers-combat-dogs-and-so-many-pores/",
           "titre": "Rockstar drops a pile of new GTA 6 launch screenshots featuring dancers, combat dogs, and so many pores"
-        }
-      ]
-    },
-    {
-      "id": "phantom-blade-zero-review-feel-gud-not-git-gud",
-      "titre": "Phantom Blade Zero review: Feel gud, not git gud",
-      "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-review/",
-      "sources": [
-        "PC Gamer",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 3.9,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-review/",
-          "titre": "Phantom Blade Zero review: Feel gud, not git gud"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/poll-is-phantom-blade-zero-too-hard",
-          "titre": "Poll: Is Phantom Blade Zero Too Hard?"
-        }
-      ]
-    },
-    {
-      "id": "valve-explains-why-it-s-running-behind-on-steam-game-approva",
-      "titre": "Valve explains why it's running behind on Steam game approvals, asks developers to perform basic release checks to prevent re-reviews",
-      "url": "https://www.eurogamer.net/steam-games-approvals-delayed-valve-response",
-      "sources": [
-        "Eurogamer",
-        "Game Developer"
-      ],
-      "reprises": 2,
-      "heures": 11.7,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/steam-games-approvals-delayed-valve-response",
-          "titre": "Valve explains why it's running behind on Steam game approvals, asks developers to perform basic release checks to prevent re-reviews"
-        },
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/valve-warns-of-slower-steam-approval-process-due-to-flood-of-new-games",
-          "titre": "Valve warns of slower Steam approvals, possibly due to AI game surge"
-        }
-      ]
-    },
-    {
-      "id": "ea-s-releasing-a-truckload-of-classic-games-on-steam-and-7-o",
-      "titre": "EA's releasing a truckload of classic games on Steam, and 7 of them are remasters",
-      "url": "https://www.pcgamer.com/games/eas-releasing-a-truckload-of-classic-games-on-steam-and-7-of-them-are-remasters/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/eas-releasing-a-truckload-of-classic-games-on-steam-and-7-of-them-are-remasters/",
-          "titre": "EA's releasing a truckload of classic games on Steam, and 7 of them are remasters"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-download-5th-november-north-america-plus-3-discount",
-      "titre": "Nintendo Download: 5th November (North America) + Plus 3 Discounted Games You Should Snap Up",
-      "url": "https://www.nintendolife.com/news/2026/11/nintendo-download-5th-november-north-america-plus-plus-3-discounted-games-you-should-snap-up",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/nintendo-download-5th-november-north-america-plus-plus-3-discounted-games-you-should-snap-up",
-          "titre": "Nintendo Download: 5th November (North America) + Plus 3 Discounted Games You Should Snap Up"
-        }
-      ]
-    },
-    {
-      "id": "white-house-uses-zelda-imagery-in-political-post-despite-pre",
-      "titre": "White House uses Zelda imagery in political post, despite previous condemnation from Pokémon Company",
-      "url": "https://www.videogameschronicle.com/news/white-house-uses-zelda-imagery-in-political-post-despite-previous-condemnation-from-pokemon-company/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/white-house-uses-zelda-imagery-in-political-post-despite-previous-condemnation-from-pokemon-company/",
-          "titre": "White House uses Zelda imagery in political post, despite previous condemnation from Pokémon Company"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-s-inventory-levels-at-a-record-high-as-ram-crisis-c",
-      "titre": "Nintendo's Inventory Levels At A Record High As RAM Crisis Continues",
-      "url": "https://www.nintendolife.com/news/2026/11/nintendos-inventory-levels-at-a-record-high-as-ram-crisis-continues",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/nintendos-inventory-levels-at-a-record-high-as-ram-crisis-continues",
-          "titre": "Nintendo's Inventory Levels At A Record High As RAM Crisis Continues"
-        }
-      ]
-    },
-    {
-      "id": "playstation-sees-record-high-player-numbers-and-increased-re",
-      "titre": "PlayStation sees record high player numbers and increased revenue for Q2 2026, and a lot of that success is down to Marvel's Wolverine",
-      "url": "https://www.eurogamer.net/sony-playstation-fy-2026-wolverine-sales",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/sony-playstation-fy-2026-wolverine-sales",
-          "titre": "PlayStation sees record high player numbers and increased revenue for Q2 2026, and a lot of that success is down to Marvel's Wolverine"
         }
       ]
     },
@@ -359,7 +305,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 10.8,
       "chaleur": 7,
       "liens": [
         {
@@ -377,7 +323,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 11.9,
       "chaleur": 7,
       "liens": [
         {
@@ -388,290 +334,92 @@ const VEILLE = {
       ]
     },
     {
-      "id": "sensor-tower-gta-6-pre-orders-almost-reach-8m-74-bought-on-p",
-      "titre": "Sensor Tower: GTA 6 pre-orders almost reach 8m, 74% bought on PlayStation 5",
-      "url": "https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-almost-reach-8m-74-bought-on-playstation-5",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 6.8,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-almost-reach-8m-74-bought-on-playstation-5",
-          "titre": "Sensor Tower: GTA 6 pre-orders almost reach 8m, 74% bought on PlayStation 5"
-        }
-      ]
-    },
-    {
-      "id": "fsr-4-1-2-now-on-xbox-and-xbox-handhelds-just-in-time-for-a",
-      "titre": "FSR 4.1.2 now on Xbox and Xbox handhelds, just in time for a certain big GTA 6-shaped game",
-      "url": "https://www.pcgamer.com/hardware/fsr-4-1-2-now-on-xbox-and-xbox-handhelds-just-in-time-for-a-certain-big-gta-6-shaped-game/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 8.8,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/fsr-4-1-2-now-on-xbox-and-xbox-handhelds-just-in-time-for-a-certain-big-gta-6-shaped-game/",
-          "titre": "FSR 4.1.2 now on Xbox and Xbox handhelds, just in time for a certain big GTA 6-shaped game"
-        }
-      ]
-    },
-    {
-      "id": "switch-2-sales-dropped-37-this-summer-mostly-before-the-pric",
-      "titre": "Switch 2 sales dropped 37% this summer, mostly before the price hike hit; Nintendo now expects sales to slump 16.9% in console's second year",
-      "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/switch-2-sales-dropped-37-percent-this-summer-mostly-before-the-price-hike-hit-nintendo-now-expects-sales-to-slump-16-9-percent-in-consoles-second-year/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 9.1,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/switch-2-sales-dropped-37-percent-this-summer-mostly-before-the-price-hike-hit-nintendo-now-expects-sales-to-slump-16-9-percent-in-consoles-second-year/",
-          "titre": "Switch 2 sales dropped 37% this summer, mostly before the price hike hit; Nintendo now expects sales to slump 16.9% in console's second year"
-        }
-      ]
-    },
-    {
-      "id": "sam-altman-is-annoyed-his-dram-comment-was-taken-out-of-cont",
-      "titre": "Sam Altman is annoyed his DRAM comment was 'taken out of context'",
-      "url": "https://www.pcgamer.com/software/ai/sam-altman-is-annoyed-his-dram-comment-was-taken-out-of-context/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 0.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/sam-altman-is-annoyed-his-dram-comment-was-taken-out-of-context/",
-          "titre": "Sam Altman is annoyed his DRAM comment was 'taken out of context'"
-        }
-      ]
-    },
-    {
-      "id": "nier-automata-s-latest-update-increases-game-size-from-50gb",
-      "titre": "Nier: Automata’s latest update increases game size from 50GB to 366GB",
-      "url": "https://www.videogameschronicle.com/news/nier-automatas-latest-update-increases-game-size-from-50gb-to-366gb/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 1.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/nier-automatas-latest-update-increases-game-size-from-50gb-to-366gb/",
-          "titre": "Nier: Automata’s latest update increases game size from 50GB to 366GB"
-        }
-      ]
-    },
-    {
-      "id": "nvidia-micron-and-other-ai-stocks-take-a-dive-after-election",
-      "titre": "Nvidia, Micron, and other AI stocks take a dive after elections",
-      "url": "https://www.pcgamer.com/software/ai/nvidia-micron-and-other-ai-stocks-take-a-dive-after-elections/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/nvidia-micron-and-other-ai-stocks-take-a-dive-after-elections/",
-          "titre": "Nvidia, Micron, and other AI stocks take a dive after elections"
-        }
-      ]
-    },
-    {
-      "id": "ablahshikar-is-a-maximalist-sickos-only-salvage-survival-crp",
-      "titre": "Ablahshikar is a maximalist, sickos only salvage-survival CRPG about ripping organs out of warships and pawning off strange goods that's now out in early access",
-      "url": "https://www.rockpapershotgun.com/ablahshikar-is-a-maximalist-sickos-only-salvage-survival-crpg-about-ripping-organs-out-of-warships-and-pawning-off-strange-goods-thats-now-out-in-early-access",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/ablahshikar-is-a-maximalist-sickos-only-salvage-survival-crpg-about-ripping-organs-out-of-warships-and-pawning-off-strange-goods-thats-now-out-in-early-access",
-          "titre": "Ablahshikar is a maximalist, sickos only salvage-survival CRPG about ripping organs out of warships and pawning off strange goods that's now out in early access"
-        }
-      ]
-    },
-    {
-      "id": "ea-has-released-classic-restored-games-on-pc-including-ultim",
-      "titre": "EA has released classic ‘restored’ games on PC, including Ultima and Road Rash",
-      "url": "https://www.videogameschronicle.com/news/ea-has-released-25-classic-restored-games-on-pc-including-ultima-and-road-rash/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/ea-has-released-25-classic-restored-games-on-pc-including-ultima-and-road-rash/",
-          "titre": "EA has released classic ‘restored’ games on PC, including Ultima and Road Rash"
-        }
-      ]
-    },
-    {
-      "id": "after-a-16-year-long-dev-period-faraway-a-shooting-star-arca",
-      "titre": "After a 16-year long dev period, Faraway, a shooting star arcade game about siphoning the energy of other stars, is out now",
-      "url": "https://www.rockpapershotgun.com/after-a-16-year-long-dev-period-faraway-a-shooting-star-arcade-game-about-siphoning-the-energy-of-other-stars-is-out-now",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/after-a-16-year-long-dev-period-faraway-a-shooting-star-arcade-game-about-siphoning-the-energy-of-other-stars-is-out-now",
-          "titre": "After a 16-year long dev period, Faraway, a shooting star arcade game about siphoning the energy of other stars, is out now"
-        }
-      ]
-    },
-    {
-      "id": "there-s-demand-to-remake-final-fantasy-6-from-within-square",
-      "titre": "There's Demand to Remake Final Fantasy 6 from Within Square Enix, Says Series Boss",
-      "url": "https://www.pushsquare.com/news/2026/11/theres-demand-to-remake-final-fantasy-6-from-within-square-enix-says-series-boss",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/theres-demand-to-remake-final-fantasy-6-from-within-square-enix-says-series-boss",
-          "titre": "There's Demand to Remake Final Fantasy 6 from Within Square Enix, Says Series Boss"
-        }
-      ]
-    },
-    {
-      "id": "bioware-s-final-days-to-feature-in-upcoming-documentary",
-      "titre": "BioWare’s final days to feature in upcoming documentary",
-      "url": "https://www.videogameschronicle.com/news/biowares-final-days-to-feature-in-upcoming-documentary/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/biowares-final-days-to-feature-in-upcoming-documentary/",
-          "titre": "BioWare’s final days to feature in upcoming documentary"
-        }
-      ]
-    },
-    {
-      "id": "amazon-prime-s-seven-free-games-for-november-include-jurassi",
-      "titre": "Amazon Prime’s seven ‘free’ games for November include Jurassic World Evolution 2",
-      "url": "https://www.videogameschronicle.com/news/amazon-primes-seven-free-games-for-november-include-jurassic-world-evolution-2/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/amazon-primes-seven-free-games-for-november-include-jurassic-world-evolution-2/",
-          "titre": "Amazon Prime’s seven ‘free’ games for November include Jurassic World Evolution 2"
-        }
-      ]
-    },
-    {
-      "id": "the-legend-of-khiimori-s-mongolian-expanse-update-brings-in",
-      "titre": "The Legend of Khiimori's Mongolian Expanse update brings in frosty mountains and scorching deserts that'll require a lot more than a fur coat and a sturdy horse",
-      "url": "https://www.rockpapershotgun.com/the-legend-of-khiimoris-mongolian-expanse-update-brings-in-frosty-mountains-and-scorching-deserts-thatll-require-a-lot-more-than-a-fur-coat-and-a-sturdy-horse",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-legend-of-khiimoris-mongolian-expanse-update-brings-in-frosty-mountains-and-scorching-deserts-thatll-require-a-lot-more-than-a-fur-coat-and-a-sturdy-horse",
-          "titre": "The Legend of Khiimori's Mongolian Expanse update brings in frosty mountains and scorching deserts that'll require a lot more than a fur coat and a sturdy horse"
-        }
-      ]
-    },
-    {
-      "id": "apex-legends-adds-a-grumpy-teamwiping-godzilla-to-its-growin",
-      "titre": "Apex Legends adds a grumpy, teamwiping Godzilla to its growing history of unappealing crossovers",
-      "url": "https://www.rockpapershotgun.com/apex-legends-adds-a-grumpy-teamwiping-godzilla-to-its-growing-history-of-unappealing-crossovers",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/apex-legends-adds-a-grumpy-teamwiping-godzilla-to-its-growing-history-of-unappealing-crossovers",
-          "titre": "Apex Legends adds a grumpy, teamwiping Godzilla to its growing history of unappealing crossovers"
-        }
-      ]
-    },
-    {
-      "id": "we-have-so-many-questions-about-this-stellar-blade-launch-tr",
-      "titre": "We Have So Many Questions About This Stellar Blade Launch Trailer",
-      "url": "https://www.nintendolife.com/news/2026/11/we-have-so-many-questions-about-this-stellar-blade-launch-trailer",
+      "id": "nintendo-s-inventory-levels-at-a-record-high-as-ram-crisis-c",
+      "titre": "Nintendo's Inventory Levels At A Record High As RAM Crisis Continues",
+      "url": "https://www.nintendolife.com/news/2026/11/nintendos-inventory-levels-at-a-record-high-as-ram-crisis-continues",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
+      "heures": 15.5,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/we-have-so-many-questions-about-this-stellar-blade-launch-trailer",
-          "titre": "We Have So Many Questions About This Stellar Blade Launch Trailer"
+          "url": "https://www.nintendolife.com/news/2026/11/nintendos-inventory-levels-at-a-record-high-as-ram-crisis-continues",
+          "titre": "Nintendo's Inventory Levels At A Record High As RAM Crisis Continues"
         }
       ]
     },
     {
-      "id": "opinion-hey-that-hellraiser-revival-game-is-pretty-good",
-      "titre": "Opinion: Hey, That Hellraiser: Revival Game Is Pretty Good",
-      "url": "https://www.pushsquare.com/features/opinion-hey-that-hellraiser-revival-game-is-pretty-good",
+      "id": "playstation-sees-record-high-player-numbers-and-increased-re",
+      "titre": "PlayStation sees record high player numbers and increased revenue for Q2 2026, and a lot of that success is down to Marvel's Wolverine",
+      "url": "https://www.eurogamer.net/sony-playstation-fy-2026-wolverine-sales",
       "sources": [
-        "Push Square"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 3.5,
+      "heures": 15.9,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/sony-playstation-fy-2026-wolverine-sales",
+          "titre": "PlayStation sees record high player numbers and increased revenue for Q2 2026, and a lot of that success is down to Marvel's Wolverine"
+        }
+      ]
+    },
+    {
+      "id": "take-on-a-time-manipulating-corporation-in-the-very-soul-eat",
+      "titre": "Take on a time-manipulating corporation in the very Soul Eater meets Jet Set Radio action roguelite CHRONO PUNK",
+      "url": "https://www.rockpapershotgun.com/take-on-a-time-manipulating-corporation-in-the-very-soul-eater-meets-jet-set-radio-action-roguelite-chrono-punk",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 3.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/opinion-hey-that-hellraiser-revival-game-is-pretty-good",
-          "titre": "Opinion: Hey, That Hellraiser: Revival Game Is Pretty Good"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/take-on-a-time-manipulating-corporation-in-the-very-soul-eater-meets-jet-set-radio-action-roguelite-chrono-punk",
+          "titre": "Take on a time-manipulating corporation in the very Soul Eater meets Jet Set Radio action roguelite CHRONO PUNK"
+        }
+      ]
+    },
+    {
+      "id": "ea-s-releasing-a-truckload-of-classic-games-on-steam-and-7-o",
+      "titre": "EA's releasing a truckload of classic games on Steam, and 7 of them are remasters",
+      "url": "https://www.pcgamer.com/games/eas-releasing-a-truckload-of-classic-games-on-steam-and-7-of-them-are-remasters/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 7.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/eas-releasing-a-truckload-of-classic-games-on-steam-and-7-of-them-are-remasters/",
+          "titre": "EA's releasing a truckload of classic games on Steam, and 7 of them are remasters"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-download-5th-november-north-america-plus-3-discount",
+      "titre": "Nintendo Download: 5th November (North America) + Plus 3 Discounted Games You Should Snap Up",
+      "url": "https://www.nintendolife.com/news/2026/11/nintendo-download-5th-november-north-america-plus-plus-3-discounted-games-you-should-snap-up",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 8.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/nintendo-download-5th-november-north-america-plus-plus-3-discounted-games-you-should-snap-up",
+          "titre": "Nintendo Download: 5th November (North America) + Plus 3 Discounted Games You Should Snap Up"
         }
       ]
     },
@@ -683,7 +431,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 11.0,
       "chaleur": 6,
       "liens": [
         {
@@ -701,7 +449,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 11.3,
       "chaleur": 6,
       "liens": [
         {
@@ -712,110 +460,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "feature-i-will-have-been-here-for-30-hours-london-s-midnight",
-      "titre": "Feature: \"I Will Have Been Here For 30 Hours\" - London's Midnight Zelda Launch Was Wild",
-      "url": "https://www.nintendolife.com/features/i-will-have-been-here-for-30-hours-londons-midnight-zelda-launch-was-wild",
+      "id": "sensor-tower-gta-6-pre-orders-almost-reach-8m-74-bought-on-p",
+      "titre": "Sensor Tower: GTA 6 pre-orders almost reach 8m, 74% bought on PlayStation 5",
+      "url": "https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-almost-reach-8m-74-bought-on-playstation-5",
       "sources": [
-        "Nintendo Life"
+        "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 8.0,
+      "heures": 12.1,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/i-will-have-been-here-for-30-hours-londons-midnight-zelda-launch-was-wild",
-          "titre": "Feature: \"I Will Have Been Here For 30 Hours\" - London's Midnight Zelda Launch Was Wild"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-almost-reach-8m-74-bought-on-playstation-5",
+          "titre": "Sensor Tower: GTA 6 pre-orders almost reach 8m, 74% bought on PlayStation 5"
         }
       ]
     },
     {
-      "id": "experimental-project-beats-intel-in-bringing-real-intel-xess",
-      "titre": "Experimental project beats Intel in bringing 'real Intel XeSS super resolution' to SteamOS and Proton games on Linux",
-      "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/experimental-project-beats-intel-in-bringing-real-intel-xess-super-resolution-to-steamos-and-proton-games-on-linux/",
+      "id": "fsr-4-1-2-now-on-xbox-and-xbox-handhelds-just-in-time-for-a",
+      "titre": "FSR 4.1.2 now on Xbox and Xbox handhelds, just in time for a certain big GTA 6-shaped game",
+      "url": "https://www.pcgamer.com/hardware/fsr-4-1-2-now-on-xbox-and-xbox-handhelds-just-in-time-for-a-certain-big-gta-6-shaped-game/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.6,
+      "heures": 14.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/experimental-project-beats-intel-in-bringing-real-intel-xess-super-resolution-to-steamos-and-proton-games-on-linux/",
-          "titre": "Experimental project beats Intel in bringing 'real Intel XeSS super resolution' to SteamOS and Proton games on Linux"
+          "url": "https://www.pcgamer.com/hardware/fsr-4-1-2-now-on-xbox-and-xbox-handhelds-just-in-time-for-a-certain-big-gta-6-shaped-game/",
+          "titre": "FSR 4.1.2 now on Xbox and Xbox handhelds, just in time for a certain big GTA 6-shaped game"
         }
       ]
     },
     {
-      "id": "playstation-raises-full-year-forecast-after-revenue-growth-i",
-      "titre": "PlayStation raises full-year forecast after revenue growth in network services and first-party software",
-      "url": "https://www.gamesindustry.biz/playstation-raises-full-year-forecast-after-revenue-growth-in-network-services-and-first-party-software",
+      "id": "switch-2-sales-dropped-37-this-summer-mostly-before-the-pric",
+      "titre": "Switch 2 sales dropped 37% this summer, mostly before the price hike hit; Nintendo now expects sales to slump 16.9% in console's second year",
+      "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/switch-2-sales-dropped-37-percent-this-summer-mostly-before-the-price-hike-hit-nintendo-now-expects-sales-to-slump-16-9-percent-in-consoles-second-year/",
       "sources": [
-        "GamesIndustry.biz"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.1,
+      "heures": 14.4,
       "chaleur": 6,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/playstation-raises-full-year-forecast-after-revenue-growth-in-network-services-and-first-party-software",
-          "titre": "PlayStation raises full-year forecast after revenue growth in network services and first-party software"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-h1-operating-profit-rises-49-1-supported-by-new-tit",
-      "titre": "Nintendo H1 operating profit rises 49.1% supported by new titles including Splatoon Raiders",
-      "url": "https://www.gamesindustry.biz/nintendo-h1-operating-profit-rises-491-supported-by-new-titles-including-splatoon-raiders",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/nintendo-h1-operating-profit-rises-491-supported-by-new-titles-including-splatoon-raiders",
-          "titre": "Nintendo H1 operating profit rises 49.1% supported by new titles including Splatoon Raiders"
-        }
-      ]
-    },
-    {
-      "id": "despite-hardware-worries-and-rising-costs-sony-says-playstat",
-      "titre": "Despite hardware worries and rising costs, Sony says PlayStation 6 development is on track and \"progressing as scheduled\"",
-      "url": "https://www.eurogamer.net/playstation-6-sony-financials-2026-hardware",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/playstation-6-sony-financials-2026-hardware",
-          "titre": "Despite hardware worries and rising costs, Sony says PlayStation 6 development is on track and \"progressing as scheduled\""
-        }
-      ]
-    },
-    {
-      "id": "here-are-the-best-selling-switch-1-2-games-as-of-september-2",
-      "titre": "Here Are The Best-Selling Switch 1 & 2 Games As Of September 2026",
-      "url": "https://www.nintendolife.com/news/2026/11/here-are-the-best-selling-switch-1-and-2-games-as-of-september-2026",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/here-are-the-best-selling-switch-1-and-2-games-as-of-september-2026",
-          "titre": "Here Are The Best-Selling Switch 1 & 2 Games As Of September 2026"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/switch-2-sales-dropped-37-percent-this-summer-mostly-before-the-price-hike-hit-nintendo-now-expects-sales-to-slump-16-9-percent-in-consoles-second-year/",
+          "titre": "Switch 2 sales dropped 37% this summer, mostly before the price hike hit; Nintendo now expects sales to slump 16.9% in console's second year"
         }
       ]
     },
@@ -827,7 +521,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.0,
+      "heures": 17.3,
       "chaleur": 6,
       "liens": [
         {
@@ -845,7 +539,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.0,
+      "heures": 21.3,
       "chaleur": 6,
       "liens": [
         {
@@ -864,7 +558,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 24.2,
+      "heures": 29.5,
       "chaleur": 6,
       "liens": [
         {
@@ -880,6 +574,114 @@ const VEILLE = {
       ]
     },
     {
+      "id": "feature-i-will-have-been-here-for-30-hours-london-s-midnight",
+      "titre": "Feature: \"I Will Have Been Here For 30 Hours\" - London's Midnight Zelda Launch Was Wild",
+      "url": "https://www.nintendolife.com/features/i-will-have-been-here-for-30-hours-londons-midnight-zelda-launch-was-wild",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 13.3,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/i-will-have-been-here-for-30-hours-londons-midnight-zelda-launch-was-wild",
+          "titre": "Feature: \"I Will Have Been Here For 30 Hours\" - London's Midnight Zelda Launch Was Wild"
+        }
+      ]
+    },
+    {
+      "id": "experimental-project-beats-intel-in-bringing-real-intel-xess",
+      "titre": "Experimental project beats Intel in bringing 'real Intel XeSS super resolution' to SteamOS and Proton games on Linux",
+      "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/experimental-project-beats-intel-in-bringing-real-intel-xess-super-resolution-to-steamos-and-proton-games-on-linux/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 13.8,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/experimental-project-beats-intel-in-bringing-real-intel-xess-super-resolution-to-steamos-and-proton-games-on-linux/",
+          "titre": "Experimental project beats Intel in bringing 'real Intel XeSS super resolution' to SteamOS and Proton games on Linux"
+        }
+      ]
+    },
+    {
+      "id": "playstation-raises-full-year-forecast-after-revenue-growth-i",
+      "titre": "PlayStation raises full-year forecast after revenue growth in network services and first-party software",
+      "url": "https://www.gamesindustry.biz/playstation-raises-full-year-forecast-after-revenue-growth-in-network-services-and-first-party-software",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 14.4,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/playstation-raises-full-year-forecast-after-revenue-growth-in-network-services-and-first-party-software",
+          "titre": "PlayStation raises full-year forecast after revenue growth in network services and first-party software"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-h1-operating-profit-rises-49-1-supported-by-new-tit",
+      "titre": "Nintendo H1 operating profit rises 49.1% supported by new titles including Splatoon Raiders",
+      "url": "https://www.gamesindustry.biz/nintendo-h1-operating-profit-rises-491-supported-by-new-titles-including-splatoon-raiders",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 16.3,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/nintendo-h1-operating-profit-rises-491-supported-by-new-titles-including-splatoon-raiders",
+          "titre": "Nintendo H1 operating profit rises 49.1% supported by new titles including Splatoon Raiders"
+        }
+      ]
+    },
+    {
+      "id": "despite-hardware-worries-and-rising-costs-sony-says-playstat",
+      "titre": "Despite hardware worries and rising costs, Sony says PlayStation 6 development is on track and \"progressing as scheduled\"",
+      "url": "https://www.eurogamer.net/playstation-6-sony-financials-2026-hardware",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 16.6,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/playstation-6-sony-financials-2026-hardware",
+          "titre": "Despite hardware worries and rising costs, Sony says PlayStation 6 development is on track and \"progressing as scheduled\""
+        }
+      ]
+    },
+    {
+      "id": "here-are-the-best-selling-switch-1-2-games-as-of-september-2",
+      "titre": "Here Are The Best-Selling Switch 1 & 2 Games As Of September 2026",
+      "url": "https://www.nintendolife.com/news/2026/11/here-are-the-best-selling-switch-1-and-2-games-as-of-september-2026",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 16.8,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/here-are-the-best-selling-switch-1-and-2-games-as-of-september-2026",
+          "titre": "Here Are The Best-Selling Switch 1 & 2 Games As Of September 2026"
+        }
+      ]
+    },
+    {
       "id": "no-disc-no-buy-and-ps5-blackout-protests-fail-to-impact-play",
       "titre": "No Disc, No Buy and PS5 Blackout Protests Fail to Impact PlayStation",
       "url": "https://www.pushsquare.com/news/2026/11/no-disc-no-buy-and-ps5-blackout-protests-fail-to-impact-playstation",
@@ -887,7 +689,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.0,
+      "heures": 17.3,
       "chaleur": 5,
       "liens": [
         {
@@ -905,13 +707,229 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 27.5,
+      "heures": 32.7,
       "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/god-of-war-laufey-delayed-may-three-months",
           "titre": "God of War Laufey delayed three months to May 2027, as Sony Santa Monica escapes a packed February"
+        }
+      ]
+    },
+    {
+      "id": "union-actors-could-appear-in-early-game-demos-under-new-sag",
+      "titre": "Union actors could appear in early game demos, under new SAG-AFTRA plan",
+      "url": "https://www.videogameschronicle.com/news/union-actors-could-appear-in-early-game-demos-under-new-sag-aftra-plan/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/union-actors-could-appear-in-early-game-demos-under-new-sag-aftra-plan/",
+          "titre": "Union actors could appear in early game demos, under new SAG-AFTRA plan"
+        }
+      ]
+    },
+    {
+      "id": "bioware-are-gone-but-at-least-you-ll-be-able-to-watch-their",
+      "titre": "BioWare are gone, but at least you'll be able to watch their final days in a documentary next year and oh wait that's really sad actually",
+      "url": "https://www.rockpapershotgun.com/bioware-are-gone-but-at-least-youll-be-able-to-watch-their-final-days-in-a-documentary-next-year-and-oh-wait-thats-really-sad-actually",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 4.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/bioware-are-gone-but-at-least-youll-be-able-to-watch-their-final-days-in-a-documentary-next-year-and-oh-wait-thats-really-sad-actually",
+          "titre": "BioWare are gone, but at least you'll be able to watch their final days in a documentary next year and oh wait that's really sad actually"
+        }
+      ]
+    },
+    {
+      "id": "sam-altman-is-annoyed-his-dram-comment-was-taken-out-of-cont",
+      "titre": "Sam Altman is annoyed his DRAM comment was 'taken out of context'",
+      "url": "https://www.pcgamer.com/software/ai/sam-altman-is-annoyed-his-dram-comment-was-taken-out-of-context/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/sam-altman-is-annoyed-his-dram-comment-was-taken-out-of-context/",
+          "titre": "Sam Altman is annoyed his DRAM comment was 'taken out of context'"
+        }
+      ]
+    },
+    {
+      "id": "nvidia-micron-and-other-ai-stocks-take-a-dive-after-election",
+      "titre": "Nvidia, Micron, and other AI stocks take a dive after elections",
+      "url": "https://www.pcgamer.com/software/ai/nvidia-micron-and-other-ai-stocks-take-a-dive-after-elections/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/nvidia-micron-and-other-ai-stocks-take-a-dive-after-elections/",
+          "titre": "Nvidia, Micron, and other AI stocks take a dive after elections"
+        }
+      ]
+    },
+    {
+      "id": "ablahshikar-is-a-maximalist-sickos-only-salvage-survival-crp",
+      "titre": "Ablahshikar is a maximalist, sickos only salvage-survival CRPG about ripping organs out of warships and pawning off strange goods that's now out in early access",
+      "url": "https://www.rockpapershotgun.com/ablahshikar-is-a-maximalist-sickos-only-salvage-survival-crpg-about-ripping-organs-out-of-warships-and-pawning-off-strange-goods-thats-now-out-in-early-access",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 7.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/ablahshikar-is-a-maximalist-sickos-only-salvage-survival-crpg-about-ripping-organs-out-of-warships-and-pawning-off-strange-goods-thats-now-out-in-early-access",
+          "titre": "Ablahshikar is a maximalist, sickos only salvage-survival CRPG about ripping organs out of warships and pawning off strange goods that's now out in early access"
+        }
+      ]
+    },
+    {
+      "id": "after-a-16-year-long-dev-period-faraway-a-shooting-star-arca",
+      "titre": "After a 16-year long dev period, Faraway, a shooting star arcade game about siphoning the energy of other stars, is out now",
+      "url": "https://www.rockpapershotgun.com/after-a-16-year-long-dev-period-faraway-a-shooting-star-arcade-game-about-siphoning-the-energy-of-other-stars-is-out-now",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 7.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/after-a-16-year-long-dev-period-faraway-a-shooting-star-arcade-game-about-siphoning-the-energy-of-other-stars-is-out-now",
+          "titre": "After a 16-year long dev period, Faraway, a shooting star arcade game about siphoning the energy of other stars, is out now"
+        }
+      ]
+    },
+    {
+      "id": "there-s-demand-to-remake-final-fantasy-6-from-within-square",
+      "titre": "There's Demand to Remake Final Fantasy 6 from Within Square Enix, Says Series Boss",
+      "url": "https://www.pushsquare.com/news/2026/11/theres-demand-to-remake-final-fantasy-6-from-within-square-enix-says-series-boss",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 7.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/theres-demand-to-remake-final-fantasy-6-from-within-square-enix-says-series-boss",
+          "titre": "There's Demand to Remake Final Fantasy 6 from Within Square Enix, Says Series Boss"
+        }
+      ]
+    },
+    {
+      "id": "the-legend-of-khiimori-s-mongolian-expanse-update-brings-in",
+      "titre": "The Legend of Khiimori's Mongolian Expanse update brings in frosty mountains and scorching deserts that'll require a lot more than a fur coat and a sturdy horse",
+      "url": "https://www.rockpapershotgun.com/the-legend-of-khiimoris-mongolian-expanse-update-brings-in-frosty-mountains-and-scorching-deserts-thatll-require-a-lot-more-than-a-fur-coat-and-a-sturdy-horse",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 8.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-legend-of-khiimoris-mongolian-expanse-update-brings-in-frosty-mountains-and-scorching-deserts-thatll-require-a-lot-more-than-a-fur-coat-and-a-sturdy-horse",
+          "titre": "The Legend of Khiimori's Mongolian Expanse update brings in frosty mountains and scorching deserts that'll require a lot more than a fur coat and a sturdy horse"
+        }
+      ]
+    },
+    {
+      "id": "apex-legends-adds-a-grumpy-teamwiping-godzilla-to-its-growin",
+      "titre": "Apex Legends adds a grumpy, teamwiping Godzilla to its growing history of unappealing crossovers",
+      "url": "https://www.rockpapershotgun.com/apex-legends-adds-a-grumpy-teamwiping-godzilla-to-its-growing-history-of-unappealing-crossovers",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 8.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/apex-legends-adds-a-grumpy-teamwiping-godzilla-to-its-growing-history-of-unappealing-crossovers",
+          "titre": "Apex Legends adds a grumpy, teamwiping Godzilla to its growing history of unappealing crossovers"
+        }
+      ]
+    },
+    {
+      "id": "we-have-so-many-questions-about-this-stellar-blade-launch-tr",
+      "titre": "We Have So Many Questions About This Stellar Blade Launch Trailer",
+      "url": "https://www.nintendolife.com/news/2026/11/we-have-so-many-questions-about-this-stellar-blade-launch-trailer",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 8.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/we-have-so-many-questions-about-this-stellar-blade-launch-trailer",
+          "titre": "We Have So Many Questions About This Stellar Blade Launch Trailer"
+        }
+      ]
+    },
+    {
+      "id": "opinion-hey-that-hellraiser-revival-game-is-pretty-good",
+      "titre": "Opinion: Hey, That Hellraiser: Revival Game Is Pretty Good",
+      "url": "https://www.pushsquare.com/features/opinion-hey-that-hellraiser-revival-game-is-pretty-good",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 8.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/opinion-hey-that-hellraiser-revival-game-is-pretty-good",
+          "titre": "Opinion: Hey, That Hellraiser: Revival Game Is Pretty Good"
+        }
+      ]
+    },
+    {
+      "id": "phantom-blade-zero-review-feel-gud-not-git-gud",
+      "titre": "Phantom Blade Zero review: Feel gud, not git gud",
+      "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-review/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 9.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-review/",
+          "titre": "Phantom Blade Zero review: Feel gud, not git gud"
         }
       ]
     },
@@ -923,7 +941,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -941,7 +959,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 9.8,
       "chaleur": 4,
       "liens": [
         {
@@ -959,7 +977,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 9.8,
       "chaleur": 4,
       "liens": [
         {
@@ -977,7 +995,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 10.0,
       "chaleur": 4,
       "liens": [
         {
@@ -995,7 +1013,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 10.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1013,7 +1031,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 10.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1031,7 +1049,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 10.7,
       "chaleur": 4,
       "liens": [
         {
@@ -1049,7 +1067,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.0,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -1067,7 +1085,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.5,
+      "heures": 11.8,
       "chaleur": 4,
       "liens": [
         {
@@ -1085,8 +1103,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.3,
-      "chaleur": 4,
+      "heures": 12.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -1103,8 +1121,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.5,
-      "chaleur": 4,
+      "heures": 12.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1121,8 +1139,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.6,
-      "chaleur": 4,
+      "heures": 12.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1130,27 +1148,9 @@ const VEILLE = {
           "titre": "After all the queuing drama in beta, WoW: Forever's launch was buttery smooth"
         }
       ]
-    },
-    {
-      "id": "before-dark-souls-there-was-king-s-field-and-five-hours-into",
-      "titre": "Before Dark Souls there was King's Field, and five hours into brilliant homage Queen's Domain, it's already one of my favourite games this year",
-      "url": "https://www.eurogamer.net/queens-domain-now-playing",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 7.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/queens-domain-now-playing",
-          "titre": "Before Dark Souls there was King's Field, and five hours into brilliant homage Queen's Domain, it's already one of my favourite games this year"
-        }
-      ]
     }
   ],
   "alertes": [
-    "Arkane union says closing the studio \"would probably be more expensive\" for Xbox than simply finishing Marvel's Blade"
+    "Petition to Save Mass Effect Dev BioWare to Be Considered by Canada's Government"
   ]
 };
