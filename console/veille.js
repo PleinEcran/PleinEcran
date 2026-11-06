@@ -1,8 +1,80 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "06/11/2026 à 02h16",
+  "collecte": "06/11/2026 à 11h59",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "after-taking-over-ea-saudi-arabia-and-their-private-equity-c",
+      "titre": "After taking over EA, Saudi Arabia and their private equity cronies have reportedly held talks about buying Unity",
+      "url": "https://www.rockpapershotgun.com/after-taking-over-ea-saudi-arabia-and-their-private-equity-cronies-have-reportedly-held-talks-about-buying-unity",
+      "sources": [
+        "Eurogamer",
+        "GamesIndustry.biz",
+        "PC Gamer",
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "reprises": 5,
+      "heures": 1.6,
+      "chaleur": 23,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/after-taking-over-ea-saudi-arabia-and-their-private-equity-cronies-have-reportedly-held-talks-about-buying-unity",
+          "titre": "After taking over EA, Saudi Arabia and their private equity cronies have reportedly held talks about buying Unity"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/unity-game-engine-saudi-arabia-silver-lake",
+          "titre": "After gobbling up EA, Saudi Arabia and private equity firm Silver Lake reportedly looking to buy Unity"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/saudi-arabias-pif-and-investment-firm-silver-lake-have-reportedly-been-in-talks-to-buy-unity/",
+          "titre": "Saudi Arabia’s PIF and investment firm Silver Lake have reportedly been in talks to buy Unity"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/unity-reportedly-in-acquisition-talks-with-silver-lake-and-public-investment-fund-two-firms-involved-in-eas-55bn-buyout",
+          "titre": "Unity reportedly in acquisition talks with Silver Lake and Public Investment Fund, two firms involved in EA's $55bn buyout"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/saudi-arabia-owns-ea-and-according-to-a-reuters-report-unity-is-next/",
+          "titre": "Saudi Arabia owns EA, and according to a Reuters report, Unity is next"
+        }
+      ]
+    },
+    {
+      "id": "zelda-ocarina-of-time-remake-reportedly-running-at-60-fps-on",
+      "titre": "Zelda: Ocarina of Time remake reportedly running at 60 fps on PC just hours after game's official Nintendo Switch 2 release",
+      "url": "https://www.pcgamer.com/software/zelda-ocarina-of-time-remake-reportedly-running-at-60-fps-on-pc-just-hours-after-games-official-nintendo-switch-2-release/",
+      "sources": [
+        "Nintendo Life",
+        "PC Gamer",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 0.3,
+      "chaleur": 17,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/zelda-ocarina-of-time-remake-reportedly-running-at-60-fps-on-pc-just-hours-after-games-official-nintendo-switch-2-release/",
+          "titre": "Zelda: Ocarina of Time remake reportedly running at 60 fps on PC just hours after game's official Nintendo Switch 2 release"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/all-shadow-temple-gold-skulltula-locations-in-zelda-ocarina-of-time-switch-2/",
+          "titre": "All Shadow Temple Gold Skulltula Locations in Zelda: Ocarina of Time Switch 2"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/japanese-charts-switch-2-sales-get-a-nice-bump-ahead-of-zelda-ocarina-of-time",
+          "titre": "Japanese Charts: Switch 2 Sales Get A Nice Bump Ahead Of Zelda: Ocarina Of Time"
+        }
+      ]
+    },
     {
       "id": "petition-to-save-mass-effect-dev-bioware-to-be-considered-by",
       "titre": "Petition to Save Mass Effect Dev BioWare to Be Considered by Canada's Government",
@@ -13,8 +85,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 2.3,
-      "chaleur": 15,
+      "heures": 12.0,
+      "chaleur": 13,
       "liens": [
         {
           "source": "Push Square",
@@ -34,62 +106,62 @@ const VEILLE = {
       ]
     },
     {
-      "id": "arkane-union-says-closing-the-studio-would-probably-be-more",
-      "titre": "Arkane union says closing the studio \"would probably be more expensive\" for Xbox than simply finishing Marvel's Blade",
-      "url": "https://www.eurogamer.net/arkane-union-xbox-more-expensive-marvels-blade",
+      "id": "is-there-any-accountability-left-in-this-world-warren-spect",
+      "titre": "\"Is there any accountability left in this world?\" Warren Spector pops off at EA executives and their massive payouts as BioWare shuts down",
+      "url": "https://www.eurogamer.net/bioware-closure-warren-spector-comments-accountability",
       "sources": [
         "Eurogamer",
-        "Game Developer",
-        "GamesIndustry.biz",
-        "Rock Paper Shotgun"
+        "PC Gamer"
       ],
-      "reprises": 4,
-      "heures": 29.7,
-      "chaleur": 14,
+      "reprises": 2,
+      "heures": 1.7,
+      "chaleur": 12,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/arkane-union-xbox-more-expensive-marvels-blade",
-          "titre": "Arkane union says closing the studio \"would probably be more expensive\" for Xbox than simply finishing Marvel's Blade"
+          "url": "https://www.eurogamer.net/bioware-closure-warren-spector-comments-accountability",
+          "titre": "\"Is there any accountability left in this world?\" Warren Spector pops off at EA executives and their massive payouts as BioWare shuts down"
         },
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/arkane-union-accuses-microsoft-of-sabotaging-marvels-blade-with-19-month-hiring-freeze",
-          "titre": "Arkane union accuses Microsoft of \"sabotaging\" Marvel's Blade with 19-month hiring freeze"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/arkane-is-profitable-say-marvels-blade-developers-in-fiery-new-statement-just-not-profitable-enough-for-microsoft",
-          "titre": "\"Arkane is profitable,\" say Marvel's Blade developers in fiery new statement, \"just not profitable enough for Microsoft\""
-        },
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/ubisoft-among-the-bidders-for-arkane-as-xbox-looks-to-sell-the-studio",
-          "titre": "Ubisoft among the bidders for Arkane as Xbox looks to sell the studio"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/warren-spector-sounds-even-angrier-about-biowares-closure-as-he-recounts-the-massive-salaries-of-ea-execs-is-there-any-accountability-left-in-this-world/",
+          "titre": "Warren Spector sounds even angrier about BioWare's closure as he recounts the massive salaries of EA execs: 'Is there ANY accountability left in this world?'"
         }
       ]
     },
     {
-      "id": "all-zora-river-domain-and-fountain-gold-skulltulas-in-zelda",
-      "titre": "All Zora River, Domain, and Fountain Gold Skulltulas in Zelda: Ocarina of Time Switch 2",
-      "url": "https://www.videogameschronicle.com/guide/all-zora-river-domain-and-fountain-gold-skulltulas-in-zelda-ocarina-of-time-switch-2/",
+      "id": "zelnick-doesn-t-regret-gta-6-s-delay-because-shipping-an-unf",
+      "titre": "Zelnick doesn't regret GTA 6's delay because shipping an unfinished game rarely ends well: 'There was a very high profile release that fell into this category'",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/zelnick-doesnt-regret-gta-6s-delay-because-shipping-an-unfinished-game-rarely-ends-well-there-was-a-very-high-profile-release-that-fell-into-this-category/",
       "sources": [
-        "Nintendo Life",
-        "VGC"
+        "PC Gamer"
       ],
-      "reprises": 2,
-      "heures": 2.7,
-      "chaleur": 12,
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 11,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/all-zora-river-domain-and-fountain-gold-skulltulas-in-zelda-ocarina-of-time-switch-2/",
-          "titre": "All Zora River, Domain, and Fountain Gold Skulltulas in Zelda: Ocarina of Time Switch 2"
-        },
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/zelnick-doesnt-regret-gta-6s-delay-because-shipping-an-unfinished-game-rarely-ends-well-there-was-a-very-high-profile-release-that-fell-into-this-category/",
+          "titre": "Zelnick doesn't regret GTA 6's delay because shipping an unfinished game rarely ends well: 'There was a very high profile release that fell into this category'"
+        }
+      ]
+    },
+    {
+      "id": "it-s-a-brave-new-world-gta-6-s-pc-port-will-release-sooner",
+      "titre": "\"It's a brave new world\": GTA 6's PC port will release sooner than you think to avoid losing money to AI rip-offs, says former Rockstar tech director",
+      "url": "https://www.rockpapershotgun.com/its-a-brave-new-world-gta-6s-pc-port-will-release-sooner-than-you-think-to-avoid-losing-money-to-ai-rip-offs-says-former-rockstar-tech-director",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 9,
+      "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/japanese-charts-switch-2-sales-get-a-nice-bump-ahead-of-zelda-ocarina-of-time",
-          "titre": "Japanese Charts: Switch 2 Sales Get A Nice Bump Ahead Of Zelda: Ocarina Of Time"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/its-a-brave-new-world-gta-6s-pc-port-will-release-sooner-than-you-think-to-avoid-losing-money-to-ai-rip-offs-says-former-rockstar-tech-director",
+          "titre": "\"It's a brave new world\": GTA 6's PC port will release sooner than you think to avoid losing money to AI rip-offs, says former Rockstar tech director"
         }
       ]
     },
@@ -102,8 +174,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 9.3,
-      "chaleur": 10,
+      "heures": 19.0,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -118,26 +190,110 @@ const VEILLE = {
       ]
     },
     {
-      "id": "zelda-ocarina-of-time-s-director-was-chosen-for-his-ability",
-      "titre": "Zelda: Ocarina Of Time's Director Was Chosen For His Ability To \"Solve Problems Very Aggressively\"",
-      "url": "https://www.nintendolife.com/news/2026/11/zelda-ocarina-of-times-director-was-chosen-for-his-ability-to-solve-problems-very-aggressively",
+      "id": "unity-reports-strongest-ever-q3-results-driven-by-its-ai-pow",
+      "titre": "Unity reports \"strongest ever\" Q3 results driven by its AI-powered ad network Vector",
+      "url": "https://www.gamesindustry.biz/unity-reports-strongest-ever-q3-results-driven-by-its-ai-powered-ad-network-vector",
       "sources": [
-        "Eurogamer",
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/unity-reports-strongest-ever-q3-results-driven-by-its-ai-powered-ad-network-vector",
+          "titre": "Unity reports \"strongest ever\" Q3 results driven by its AI-powered ad network Vector"
+        }
+      ]
+    },
+    {
+      "id": "remakes-and-new-games-both-have-a-place-in-the-stable-says-n",
+      "titre": "Remakes and new games \"both have a place in the stable\" says Nintendo boss, buoyed by the success of Star Fox and Ocarina of Time",
+      "url": "https://www.eurogamer.net/remakes-and-new-games-both-have-a-place-in-the-stable-says-nintendo-boss-buoyed-by-the-success-of-star-fox-and-ocarina-of-time",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 2.3,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/remakes-and-new-games-both-have-a-place-in-the-stable-says-nintendo-boss-buoyed-by-the-success-of-star-fox-and-ocarina-of-time",
+          "titre": "Remakes and new games \"both have a place in the stable\" says Nintendo boss, buoyed by the success of Star Fox and Ocarina of Time"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-to-continue-delivering-movies-beyond-live-action-ze",
+      "titre": "Nintendo To Continue Delivering Movies Beyond Live-Action Zelda, Unsurprisingly",
+      "url": "https://www.nintendolife.com/news/2026/11/nintendo-to-continue-delivering-movies-beyond-live-action-zelda-unsurprisingly",
+      "sources": [
         "Nintendo Life"
       ],
-      "reprises": 2,
-      "heures": 11.8,
-      "chaleur": 10,
+      "reprises": 1,
+      "heures": 6.1,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/zelda-ocarina-of-times-director-was-chosen-for-his-ability-to-solve-problems-very-aggressively",
-          "titre": "Zelda: Ocarina Of Time's Director Was Chosen For His Ability To \"Solve Problems Very Aggressively\""
-        },
+          "url": "https://www.nintendolife.com/news/2026/11/nintendo-to-continue-delivering-movies-beyond-live-action-zelda-unsurprisingly",
+          "titre": "Nintendo To Continue Delivering Movies Beyond Live-Action Zelda, Unsurprisingly"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-highlights-multiple-major-third-party-releases-on-t",
+      "titre": "Nintendo Highlights Multiple Major Third-Party Releases On The Way To Switch 2 In 2027",
+      "url": "https://www.nintendolife.com/news/2026/11/nintendo-highlights-multiple-major-third-party-releases-on-the-way-to-switch-2-in-2027",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 7.2,
+      "chaleur": 7,
+      "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/nintendo-cast-navi-actor-zelda-ocarina-of-time",
-          "titre": "The Legend of Zelda: Ocarina of Time's Navi actor reprises her role after 28 years, but it was a total accident due to Nintendo's blind auditions"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/nintendo-highlights-multiple-major-third-party-releases-on-the-way-to-switch-2-in-2027",
+          "titre": "Nintendo Highlights Multiple Major Third-Party Releases On The Way To Switch 2 In 2027"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-reiterates-plans-for-zelda-s-40th-anniversary",
+      "titre": "Nintendo Reiterates Plans For Zelda's 40th Anniversary",
+      "url": "https://www.nintendolife.com/news/2026/11/nintendo-reiterates-plans-for-zeldas-40th-anniversary",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 8.2,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/nintendo-reiterates-plans-for-zeldas-40th-anniversary",
+          "titre": "Nintendo Reiterates Plans For Zelda's 40th Anniversary"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-s-classic-remakes-for-switch-2-are-seemingly-just-g",
+      "titre": "Nintendo's Classic Remakes For Switch 2 Are Seemingly Just Getting Started",
+      "url": "https://www.nintendolife.com/news/2026/11/nintendos-classic-remakes-for-switch-2-are-seemingly-just-getting-started",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 9.1,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/nintendos-classic-remakes-for-switch-2-are-seemingly-just-getting-started",
+          "titre": "Nintendo's Classic Remakes For Switch 2 Are Seemingly Just Getting Started"
         }
       ]
     },
@@ -149,73 +305,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.9,
-      "chaleur": 9,
+      "heures": 10.6,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/11/you-dont-want-to-interrupt-the-players-experience-heres-why-zeldas-switch-2-remake-cut-some-mario-references",
           "titre": "\"You Don't Want To Interrupt The Player's Experience\" - Here's Why Zelda's Switch 2 Remake Cut Some Mario References"
-        }
-      ]
-    },
-    {
-      "id": "warren-spector-sounds-even-angrier-about-bioware-s-closure-a",
-      "titre": "Warren Spector sounds even angrier about BioWare's closure as he recounts the massive salaries of EA execs: 'Is there ANY accountability left in this world?'",
-      "url": "https://www.pcgamer.com/gaming-industry/warren-spector-sounds-even-angrier-about-biowares-closure-as-he-recounts-the-massive-salaries-of-ea-execs-is-there-any-accountability-left-in-this-world/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/warren-spector-sounds-even-angrier-about-biowares-closure-as-he-recounts-the-massive-salaries-of-ea-execs-is-there-any-accountability-left-in-this-world/",
-          "titre": "Warren Spector sounds even angrier about BioWare's closure as he recounts the massive salaries of EA execs: 'Is there ANY accountability left in this world?'"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-game-sales-surge-thanks-to-tomodachi-life-living-th",
-      "titre": "Nintendo game sales surge thanks to Tomodachi Life: Living the Dream, but Switch 2 hardware suffers big decline",
-      "url": "https://www.eurogamer.net/nintendo-switch-2-hardware-decline-software-boom",
-      "sources": [
-        "Eurogamer",
-        "Nintendo Life"
-      ],
-      "reprises": 2,
-      "heures": 14.3,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/nintendo-switch-2-hardware-decline-software-boom",
-          "titre": "Nintendo game sales surge thanks to Tomodachi Life: Living the Dream, but Switch 2 hardware suffers big decline"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/switch-2-surpasses-26-million-units-sold-hardware-sales-down-by-37-4percent",
-          "titre": "Switch 2 Surpasses 26 Million Units Sold, Hardware Sales Down By 37.4%"
-        }
-      ]
-    },
-    {
-      "id": "xbox-enters-the-faster-pc-launcher-arms-race-its-app-loads-f",
-      "titre": "Xbox enters the 'faster PC launcher' arms race, its app loads faster now too",
-      "url": "https://www.pcgamer.com/software/platforms/xbox-enters-the-faster-pc-launcher-arms-race-its-app-loads-faster-now-too/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/platforms/xbox-enters-the-faster-pc-launcher-arms-race-its-app-loads-faster-now-too/",
-          "titre": "Xbox enters the 'faster PC launcher' arms race, its app loads faster now too"
         }
       ]
     },
@@ -227,8 +323,8 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 8.6,
-      "chaleur": 8,
+      "heures": 18.3,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Game Developer",
@@ -238,26 +334,92 @@ const VEILLE = {
       ]
     },
     {
-      "id": "valve-explains-why-it-s-running-behind-on-steam-game-approva",
-      "titre": "Valve explains why it's running behind on Steam game approvals, asks developers to perform basic release checks to prevent re-reviews",
-      "url": "https://www.eurogamer.net/steam-games-approvals-delayed-valve-response",
+      "id": "playstation-sees-record-high-player-numbers-and-increased-re",
+      "titre": "PlayStation sees record high player numbers and increased revenue for Q2 2026, and a lot of that success is down to Marvel's Wolverine",
+      "url": "https://www.eurogamer.net/sony-playstation-fy-2026-wolverine-sales",
       "sources": [
-        "Eurogamer",
-        "Game Developer"
+        "Eurogamer"
       ],
-      "reprises": 2,
-      "heures": 16.9,
-      "chaleur": 8,
+      "reprises": 1,
+      "heures": 25.6,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/steam-games-approvals-delayed-valve-response",
-          "titre": "Valve explains why it's running behind on Steam game approvals, asks developers to perform basic release checks to prevent re-reviews"
-        },
+          "url": "https://www.eurogamer.net/sony-playstation-fy-2026-wolverine-sales",
+          "titre": "PlayStation sees record high player numbers and increased revenue for Q2 2026, and a lot of that success is down to Marvel's Wolverine"
+        }
+      ]
+    },
+    {
+      "id": "sega-q2-results-exceed-expectations-driven-by-surge-in-opera",
+      "titre": "Sega Q2 results exceed expectations, driven by surge in operating income for pachislot and pachinko machines",
+      "url": "https://www.gamesindustry.biz/sega-q2-results-exceed-expectations-driven-by-surge-in-operating-income-for-pachislot-and-pachinko-machines",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/valve-warns-of-slower-steam-approval-process-due-to-flood-of-new-games",
-          "titre": "Valve warns of slower Steam approvals, possibly due to AI game surge"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/sega-q2-results-exceed-expectations-driven-by-surge-in-operating-income-for-pachislot-and-pachinko-machines",
+          "titre": "Sega Q2 results exceed expectations, driven by surge in operating income for pachislot and pachinko machines"
+        }
+      ]
+    },
+    {
+      "id": "wow-forever-is-working-on-its-server-tech-to-make-cities-les",
+      "titre": "WoW: Forever is working on its server tech to make cities less empty, say devs",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-is-working-on-its-server-tech-to-make-cities-less-empty-say-devs/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-is-working-on-its-server-tech-to-make-cities-less-empty-say-devs/",
+          "titre": "WoW: Forever is working on its server tech to make cities less empty, say devs"
+        }
+      ]
+    },
+    {
+      "id": "new-ps-plus-perks-revealed-includes-discounts-and-free-trial",
+      "titre": "New PS Plus Perks Revealed, Includes Discounts and Free Trials",
+      "url": "https://www.pushsquare.com/news/2026/11/new-ps-plus-perks-revealed-includes-discounts-and-free-trials",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/new-ps-plus-perks-revealed-includes-discounts-and-free-trials",
+          "titre": "New PS Plus Perks Revealed, Includes Discounts and Free Trials"
+        }
+      ]
+    },
+    {
+      "id": "scalpers-already-want-insane-sums-for-the-ocarina-remake-wit",
+      "titre": "Scalpers Already Want Insane Sums For The Ocarina Remake With Exclusive Bits",
+      "url": "https://www.nintendolife.com/news/2026/11/scalpers-already-want-insane-sums-for-the-ocarina-remake-with-exclusive-bits",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/scalpers-already-want-insane-sums-for-the-ocarina-remake-with-exclusive-bits",
+          "titre": "Scalpers Already Want Insane Sums For The Ocarina Remake With Exclusive Bits"
         }
       ]
     },
@@ -269,8 +431,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.3,
-      "chaleur": 7,
+      "heures": 18.0,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
@@ -287,8 +449,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.1,
-      "chaleur": 7,
+      "heures": 18.8,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
@@ -305,8 +467,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 7,
+      "heures": 20.5,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
@@ -316,74 +478,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "take-two-boss-strauss-zelnick-isn-t-too-concerned-about-pira",
-      "titre": "Take-Two boss Strauss Zelnick isn't too concerned about piracy ahead of GTA 6 even if he is 'worried about everything all the time'",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/take-two-boss-strauss-zelnick-isnt-too-concerned-about-piracy-ahead-of-gta-6-even-if-he-is-worried-about-everything-all-the-time/",
+      "id": "sensor-tower-gta-6-pre-orders-almost-reach-8m-74-bought-on-p",
+      "titre": "Sensor Tower: GTA 6 pre-orders almost reach 8m, 74% bought on PlayStation 5",
+      "url": "https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-almost-reach-8m-74-bought-on-playstation-5",
       "sources": [
-        "PC Gamer"
+        "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 7,
+      "heures": 21.8,
+      "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/take-two-boss-strauss-zelnick-isnt-too-concerned-about-piracy-ahead-of-gta-6-even-if-he-is-worried-about-everything-all-the-time/",
-          "titre": "Take-Two boss Strauss Zelnick isn't too concerned about piracy ahead of GTA 6 even if he is 'worried about everything all the time'"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-almost-reach-8m-74-bought-on-playstation-5",
+          "titre": "Sensor Tower: GTA 6 pre-orders almost reach 8m, 74% bought on PlayStation 5"
         }
       ]
     },
     {
-      "id": "nintendo-s-inventory-levels-at-a-record-high-as-ram-crisis-c",
-      "titre": "Nintendo's Inventory Levels At A Record High As RAM Crisis Continues",
-      "url": "https://www.nintendolife.com/news/2026/11/nintendos-inventory-levels-at-a-record-high-as-ram-crisis-continues",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 15.5,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/nintendos-inventory-levels-at-a-record-high-as-ram-crisis-continues",
-          "titre": "Nintendo's Inventory Levels At A Record High As RAM Crisis Continues"
-        }
-      ]
-    },
-    {
-      "id": "playstation-sees-record-high-player-numbers-and-increased-re",
-      "titre": "PlayStation sees record high player numbers and increased revenue for Q2 2026, and a lot of that success is down to Marvel's Wolverine",
-      "url": "https://www.eurogamer.net/sony-playstation-fy-2026-wolverine-sales",
+      "id": "nintendo-game-sales-surge-thanks-to-tomodachi-life-living-th",
+      "titre": "Nintendo game sales surge thanks to Tomodachi Life: Living the Dream, but Switch 2 hardware suffers big decline",
+      "url": "https://www.eurogamer.net/nintendo-switch-2-hardware-decline-software-boom",
       "sources": [
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.9,
-      "chaleur": 7,
+      "heures": 24.1,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/sony-playstation-fy-2026-wolverine-sales",
-          "titre": "PlayStation sees record high player numbers and increased revenue for Q2 2026, and a lot of that success is down to Marvel's Wolverine"
+          "url": "https://www.eurogamer.net/nintendo-switch-2-hardware-decline-software-boom",
+          "titre": "Nintendo game sales surge thanks to Tomodachi Life: Living the Dream, but Switch 2 hardware suffers big decline"
         }
       ]
     },
     {
-      "id": "take-on-a-time-manipulating-corporation-in-the-very-soul-eat",
-      "titre": "Take on a time-manipulating corporation in the very Soul Eater meets Jet Set Radio action roguelite CHRONO PUNK",
-      "url": "https://www.rockpapershotgun.com/take-on-a-time-manipulating-corporation-in-the-very-soul-eater-meets-jet-set-radio-action-roguelite-chrono-punk",
+      "id": "xbox-enters-the-faster-pc-launcher-arms-race-its-app-loads-f",
+      "titre": "Xbox enters the 'faster PC launcher' arms race, its app loads faster now too",
+      "url": "https://www.pcgamer.com/software/platforms/xbox-enters-the-faster-pc-launcher-arms-race-its-app-loads-faster-now-too/",
       "sources": [
-        "Rock Paper Shotgun"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
+      "heures": 13.5,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/take-on-a-time-manipulating-corporation-in-the-very-soul-eater-meets-jet-set-radio-action-roguelite-chrono-punk",
-          "titre": "Take on a time-manipulating corporation in the very Soul Eater meets Jet Set Radio action roguelite CHRONO PUNK"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/platforms/xbox-enters-the-faster-pc-launcher-arms-race-its-app-loads-faster-now-too/",
+          "titre": "Xbox enters the 'faster PC launcher' arms race, its app loads faster now too"
         }
       ]
     },
@@ -395,8 +539,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.8,
-      "chaleur": 6,
+      "heures": 17.5,
+      "chaleur": 5,
       "liens": [
         {
           "source": "PC Gamer",
@@ -413,8 +557,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.3,
-      "chaleur": 6,
+      "heures": 18.0,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -431,8 +575,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.0,
-      "chaleur": 6,
+      "heures": 20.7,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -449,8 +593,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 6,
+      "heures": 21.0,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
@@ -460,116 +604,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "sensor-tower-gta-6-pre-orders-almost-reach-8m-74-bought-on-p",
-      "titre": "Sensor Tower: GTA 6 pre-orders almost reach 8m, 74% bought on PlayStation 5",
-      "url": "https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-almost-reach-8m-74-bought-on-playstation-5",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 12.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-almost-reach-8m-74-bought-on-playstation-5",
-          "titre": "Sensor Tower: GTA 6 pre-orders almost reach 8m, 74% bought on PlayStation 5"
-        }
-      ]
-    },
-    {
-      "id": "fsr-4-1-2-now-on-xbox-and-xbox-handhelds-just-in-time-for-a",
-      "titre": "FSR 4.1.2 now on Xbox and Xbox handhelds, just in time for a certain big GTA 6-shaped game",
-      "url": "https://www.pcgamer.com/hardware/fsr-4-1-2-now-on-xbox-and-xbox-handhelds-just-in-time-for-a-certain-big-gta-6-shaped-game/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 14.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/fsr-4-1-2-now-on-xbox-and-xbox-handhelds-just-in-time-for-a-certain-big-gta-6-shaped-game/",
-          "titre": "FSR 4.1.2 now on Xbox and Xbox handhelds, just in time for a certain big GTA 6-shaped game"
-        }
-      ]
-    },
-    {
-      "id": "switch-2-sales-dropped-37-this-summer-mostly-before-the-pric",
-      "titre": "Switch 2 sales dropped 37% this summer, mostly before the price hike hit; Nintendo now expects sales to slump 16.9% in console's second year",
-      "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/switch-2-sales-dropped-37-percent-this-summer-mostly-before-the-price-hike-hit-nintendo-now-expects-sales-to-slump-16-9-percent-in-consoles-second-year/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 14.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/switch-2-sales-dropped-37-percent-this-summer-mostly-before-the-price-hike-hit-nintendo-now-expects-sales-to-slump-16-9-percent-in-consoles-second-year/",
-          "titre": "Switch 2 sales dropped 37% this summer, mostly before the price hike hit; Nintendo now expects sales to slump 16.9% in console's second year"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-reconfirms-release-windows-for-upcoming-switch-2-ga",
-      "titre": "Nintendo Reconfirms Release Windows For Upcoming Switch 2 Games",
-      "url": "https://www.nintendolife.com/news/2026/11/nintendo-reconfirms-release-windows-for-upcoming-switch-2-games",
+      "id": "zelda-ocarina-of-time-s-director-was-chosen-for-his-ability",
+      "titre": "Zelda: Ocarina Of Time's Director Was Chosen For His Ability To \"Solve Problems Very Aggressively\"",
+      "url": "https://www.nintendolife.com/news/2026/11/zelda-ocarina-of-times-director-was-chosen-for-his-ability-to-solve-problems-very-aggressively",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.3,
-      "chaleur": 6,
+      "heures": 21.5,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/nintendo-reconfirms-release-windows-for-upcoming-switch-2-games",
-          "titre": "Nintendo Reconfirms Release Windows For Upcoming Switch 2 Games"
-        }
-      ]
-    },
-    {
-      "id": "guide-zelda-ocarina-of-time-walkthrough-switch-2-remake-guid",
-      "titre": "Guide: Zelda: Ocarina Of Time Walkthrough (Switch 2 Remake): Guide To The Main Quest, Side Quests & Collectables",
-      "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-walkthrough-switch-2-remake",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 21.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-walkthrough-switch-2-remake",
-          "titre": "Guide: Zelda: Ocarina Of Time Walkthrough (Switch 2 Remake): Guide To The Main Quest, Side Quests & Collectables"
-        }
-      ]
-    },
-    {
-      "id": "tripwire-presents-expands-publishing-business-to-support-sma",
-      "titre": "Tripwire Presents expands publishing business to support smaller indie developers",
-      "url": "https://www.gamesindustry.biz/tripwire-presents-expands-publishing-business-to-support-smaller-indie-developers",
-      "sources": [
-        "Game Developer",
-        "GamesIndustry.biz"
-      ],
-      "reprises": 2,
-      "heures": 29.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/tripwire-presents-expands-publishing-business-to-support-smaller-indie-developers",
-          "titre": "Tripwire Presents expands publishing business to support smaller indie developers"
-        },
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/tripwire-interactive-expands-publishing-business-to-focus-on-smaller-developers-and-games",
-          "titre": "Tripwire Interactive expands publishing business to focus on smaller developers and games"
+          "url": "https://www.nintendolife.com/news/2026/11/zelda-ocarina-of-times-director-was-chosen-for-his-ability-to-solve-problems-very-aggressively",
+          "titre": "Zelda: Ocarina Of Time's Director Was Chosen For His Ability To \"Solve Problems Very Aggressively\""
         }
       ]
     },
@@ -581,31 +629,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 23.0,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/features/i-will-have-been-here-for-30-hours-londons-midnight-zelda-launch-was-wild",
           "titre": "Feature: \"I Will Have Been Here For 30 Hours\" - London's Midnight Zelda Launch Was Wild"
-        }
-      ]
-    },
-    {
-      "id": "experimental-project-beats-intel-in-bringing-real-intel-xess",
-      "titre": "Experimental project beats Intel in bringing 'real Intel XeSS super resolution' to SteamOS and Proton games on Linux",
-      "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/experimental-project-beats-intel-in-bringing-real-intel-xess-super-resolution-to-steamos-and-proton-games-on-linux/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 13.8,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/experimental-project-beats-intel-in-bringing-real-intel-xess-super-resolution-to-steamos-and-proton-games-on-linux/",
-          "titre": "Experimental project beats Intel in bringing 'real Intel XeSS super resolution' to SteamOS and Proton games on Linux"
         }
       ]
     },
@@ -617,7 +647,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 24.1,
       "chaleur": 5,
       "liens": [
         {
@@ -635,7 +665,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 16.3,
+      "heures": 26.0,
       "chaleur": 5,
       "liens": [
         {
@@ -653,7 +683,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.6,
+      "heures": 26.3,
       "chaleur": 5,
       "liens": [
         {
@@ -664,20 +694,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "here-are-the-best-selling-switch-1-2-games-as-of-september-2",
-      "titre": "Here Are The Best-Selling Switch 1 & 2 Games As Of September 2026",
-      "url": "https://www.nintendolife.com/news/2026/11/here-are-the-best-selling-switch-1-and-2-games-as-of-september-2026",
+      "id": "valve-explains-why-it-s-running-behind-on-steam-game-approva",
+      "titre": "Valve explains why it's running behind on Steam game approvals, asks developers to perform basic release checks to prevent re-reviews",
+      "url": "https://www.eurogamer.net/steam-games-approvals-delayed-valve-response",
       "sources": [
-        "Nintendo Life"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 16.8,
+      "heures": 26.6,
       "chaleur": 5,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/here-are-the-best-selling-switch-1-and-2-games-as-of-september-2026",
-          "titre": "Here Are The Best-Selling Switch 1 & 2 Games As Of September 2026"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/steam-games-approvals-delayed-valve-response",
+          "titre": "Valve explains why it's running behind on Steam game approvals, asks developers to perform basic release checks to prevent re-reviews"
         }
       ]
     },
@@ -689,7 +719,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 17.3,
+      "heures": 27.0,
       "chaleur": 5,
       "liens": [
         {
@@ -700,20 +730,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "god-of-war-laufey-delayed-three-months-to-may-2027-as-sony-s",
-      "titre": "God of War Laufey delayed three months to May 2027, as Sony Santa Monica escapes a packed February",
-      "url": "https://www.eurogamer.net/god-of-war-laufey-delayed-may-three-months",
+      "id": "how-to-get-investment-for-your-video-game-in-2026",
+      "titre": "How to get investment for your video game in 2026",
+      "url": "https://www.gamesindustry.biz/how-to-get-investment-for-your-video-game-in-2026",
       "sources": [
-        "Eurogamer"
+        "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 32.7,
-      "chaleur": 5,
+      "heures": 4.1,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/god-of-war-laufey-delayed-may-three-months",
-          "titre": "God of War Laufey delayed three months to May 2027, as Sony Santa Monica escapes a packed February"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/how-to-get-investment-for-your-video-game-in-2026",
+          "titre": "How to get investment for your video game in 2026"
+        }
+      ]
+    },
+    {
+      "id": "richard-garriott-on-the-state-of-the-games-industry-the-bell",
+      "titre": "Richard Garriott on the state of the games industry: 'The bells and whistles are no longer what's important'",
+      "url": "https://www.pcgamer.com/gaming-industry/richard-garriott-on-the-state-of-the-games-industry-the-bells-and-whistles-are-no-longer-whats-important/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 8.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/richard-garriott-on-the-state-of-the-games-industry-the-bells-and-whistles-are-no-longer-whats-important/",
+          "titre": "Richard Garriott on the state of the games industry: 'The bells and whistles are no longer what's important'"
+        }
+      ]
+    },
+    {
+      "id": "take-on-a-time-manipulating-corporation-in-the-very-soul-eat",
+      "titre": "Take on a time-manipulating corporation in the very Soul Eater meets Jet Set Radio action roguelite CHRONO PUNK",
+      "url": "https://www.rockpapershotgun.com/take-on-a-time-manipulating-corporation-in-the-very-soul-eater-meets-jet-set-radio-action-roguelite-chrono-punk",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 13.1,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/take-on-a-time-manipulating-corporation-in-the-very-soul-eater-meets-jet-set-radio-action-roguelite-chrono-punk",
+          "titre": "Take on a time-manipulating corporation in the very Soul Eater meets Jet Set Radio action roguelite CHRONO PUNK"
         }
       ]
     },
@@ -725,8 +791,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.4,
-      "chaleur": 4,
+      "heures": 14.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -743,8 +809,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.7,
-      "chaleur": 4,
+      "heures": 14.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -761,8 +827,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.7,
-      "chaleur": 4,
+      "heures": 15.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -779,8 +845,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.7,
-      "chaleur": 4,
+      "heures": 16.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -797,8 +863,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.3,
-      "chaleur": 4,
+      "heures": 17.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -815,8 +881,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.8,
-      "chaleur": 4,
+      "heures": 17.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -833,8 +899,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.8,
-      "chaleur": 4,
+      "heures": 17.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -851,8 +917,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.3,
-      "chaleur": 4,
+      "heures": 18.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -869,8 +935,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.8,
-      "chaleur": 4,
+      "heures": 18.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -887,8 +953,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.8,
-      "chaleur": 4,
+      "heures": 18.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -905,8 +971,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.8,
-      "chaleur": 4,
+      "heures": 18.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -923,8 +989,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.1,
-      "chaleur": 4,
+      "heures": 18.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -941,8 +1007,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.4,
-      "chaleur": 4,
+      "heures": 19.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -959,8 +1025,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.8,
-      "chaleur": 4,
+      "heures": 19.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -977,8 +1043,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.8,
-      "chaleur": 4,
+      "heures": 19.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -995,8 +1061,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.0,
-      "chaleur": 4,
+      "heures": 19.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -1013,8 +1079,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
+      "heures": 20.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -1031,8 +1097,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 4,
+      "heures": 20.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1049,8 +1115,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.7,
-      "chaleur": 4,
+      "heures": 20.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1067,8 +1133,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 21.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1076,81 +1142,10 @@ const VEILLE = {
           "titre": "007 First Light's First Mission Is Free in New PS5 Starter Pack"
         }
       ]
-    },
-    {
-      "id": "assassin-s-creed-valhalla-new-game-patch-is-way-bigger-than",
-      "titre": "Assassin's Creed Valhalla New Game+ Patch Is Way Bigger Than Anticipated, Adds PS5 Pro Support",
-      "url": "https://www.pushsquare.com/news/2026/11/assassins-creed-valhalla-new-gameplus-patch-is-way-bigger-than-anticipated-adds-ps5-pro-support",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/assassins-creed-valhalla-new-gameplus-patch-is-way-bigger-than-anticipated-adds-ps5-pro-support",
-          "titre": "Assassin's Creed Valhalla New Game+ Patch Is Way Bigger Than Anticipated, Adds PS5 Pro Support"
-        }
-      ]
-    },
-    {
-      "id": "i-ll-leave-it-to-your-imagination-aonuma-s-keeping-quiet-on",
-      "titre": "\"I'll Leave It To Your Imagination\" - Aonuma's Keeping Quiet On Bombchu Girl's Relationship Status",
-      "url": "https://www.nintendolife.com/news/2026/11/ill-leave-it-to-your-imagination-aonumas-keeping-quiet-on-bombchu-girls-relationship-status",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 12.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/ill-leave-it-to-your-imagination-aonumas-keeping-quiet-on-bombchu-girls-relationship-status",
-          "titre": "\"I'll Leave It To Your Imagination\" - Aonuma's Keeping Quiet On Bombchu Girl's Relationship Status"
-        }
-      ]
-    },
-    {
-      "id": "aggressive-investment-in-entertainment-is-paying-off-sony-l",
-      "titre": "'Aggressive Investment in Entertainment Is Paying Off': Sony Lifts Profit Outlook After Strong Quarter",
-      "url": "https://www.pushsquare.com/news/2026/11/aggressive-investment-in-entertainment-is-paying-off-sony-lifts-profit-outlook-after-strong-quarter",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 12.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/aggressive-investment-in-entertainment-is-paying-off-sony-lifts-profit-outlook-after-strong-quarter",
-          "titre": "'Aggressive Investment in Entertainment Is Paying Off': Sony Lifts Profit Outlook After Strong Quarter"
-        }
-      ]
-    },
-    {
-      "id": "after-all-the-queuing-drama-in-beta-wow-forever-s-launch-was",
-      "titre": "After all the queuing drama in beta, WoW: Forever's launch was buttery smooth",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/after-all-the-queuing-drama-in-beta-wow-forevers-launch-was-buttery-smooth/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 12.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/after-all-the-queuing-drama-in-beta-wow-forevers-launch-was-buttery-smooth/",
-          "titre": "After all the queuing drama in beta, WoW: Forever's launch was buttery smooth"
-        }
-      ]
     }
   ],
   "alertes": [
-    "Petition to Save Mass Effect Dev BioWare to Be Considered by Canada's Government"
+    "After taking over EA, Saudi Arabia and their private equity cronies have reportedly held talks about buying Unity",
+    "Zelda: Ocarina of Time remake reportedly running at 60 fps on PC just hours after game's official Nintendo Switch 2 release"
   ]
 };
