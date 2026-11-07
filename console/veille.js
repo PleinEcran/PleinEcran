@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "07/11/2026 à 12h51",
+  "collecte": "07/11/2026 à 18h40",
   "seuil": 14,
   "sujets": [
     {
@@ -14,7 +14,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 4,
-      "heures": 18.9,
+      "heures": 24.7,
       "chaleur": 17,
       "liens": [
         {
@@ -40,6 +40,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "zelda-oot-remake-business-scrub-password-solution",
+      "titre": "Zelda OOT Remake: Business Scrub Password solution",
+      "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-business-scrub-password-solution/",
+      "sources": [
+        "GamesIndustry.biz",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 0.6,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-business-scrub-password-solution/",
+          "titre": "Zelda OOT Remake: Business Scrub Password solution"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/how-to-get-investment-for-your-video-game-in-2026",
+          "titre": "How to get investment for your video game in 2026"
+        }
+      ]
+    },
+    {
       "id": "talking-point-what-are-you-playing-this-weekend-7th-november",
       "titre": "Talking Point: What Are You Playing This Weekend? (7th November)",
       "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-7th-november",
@@ -49,8 +73,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 2.9,
-      "chaleur": 12,
+      "heures": 8.7,
+      "chaleur": 10,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -70,26 +94,86 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nier-automata-developer-is-currently-investigating-a-bizarre",
-      "titre": "Nier: Automata developer is 'currently investigating' a bizarre update bug that drastically inflated the game's file size from 50GB to 366GB",
-      "url": "https://www.pcgamer.com/games/rpg/nier-automata-developer-is-currently-investigating-a-bizarre-update-bug-that-drastically-inflated-the-games-file-size-from-50gb-to-366gb/",
+      "id": "path-of-exile-2-s-1-0-version-is-out-this-year-after-all-arr",
+      "titre": "Path of Exile 2's 1.0 version is out this year after all, arriving in December with a full campaign, two neat new classes, and more",
+      "url": "https://www.rockpapershotgun.com/path-of-exile-2s-10-version-is-out-this-year-after-all-arriving-in-december-with-a-full-campaign-two-neat-new-classes-and-more",
       "sources": [
-        "Eurogamer",
-        "PC Gamer"
+        "PC Gamer",
+        "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 1.6,
+      "heures": 0.7,
       "chaleur": 9,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/nier-automata-developer-is-currently-investigating-a-bizarre-update-bug-that-drastically-inflated-the-games-file-size-from-50gb-to-366gb/",
-          "titre": "Nier: Automata developer is 'currently investigating' a bizarre update bug that drastically inflated the game's file size from 50GB to 366GB"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/path-of-exile-2s-10-version-is-out-this-year-after-all-arriving-in-december-with-a-full-campaign-two-neat-new-classes-and-more",
+          "titre": "Path of Exile 2's 1.0 version is out this year after all, arriving in December with a full campaign, two neat new classes, and more"
         },
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/square-enix-nier-automata-update-required-file-size-366gb",
-          "titre": "Square Enix accidentally botches a Nier: Automata update, balloons required file size from 50GB to 366GB on PC"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/heres-whats-in-path-of-exile-2s-huge-1-0-release-coming-in-december/",
+          "titre": "Here's what's in Path of Exile 2’s huge 1.0 release, coming in December"
+        }
+      ]
+    },
+    {
+      "id": "i-feel-that-sense-of-responsibility-more-acutely-after-biow",
+      "titre": "\"I feel that sense of responsibility more acutely\": After BioWare's closure, the makers of a new Mass Effect 3 co-op remaster mod look to carry their legacy",
+      "url": "https://www.rockpapershotgun.com/i-feel-that-sense-of-responsibility-more-acutely-after-biowares-closure-the-makers-of-a-new-mass-effect-3-co-op-remaster-mod-look-to-carry-their-legacy",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/i-feel-that-sense-of-responsibility-more-acutely-after-biowares-closure-the-makers-of-a-new-mass-effect-3-co-op-remaster-mod-look-to-carry-their-legacy",
+          "titre": "\"I feel that sense of responsibility more acutely\": After BioWare's closure, the makers of a new Mass Effect 3 co-op remaster mod look to carry their legacy"
+        }
+      ]
+    },
+    {
+      "id": "after-star-wars-zero-company-dev-bit-reactor-brought-back-an",
+      "titre": "After Star Wars Zero Company dev Bit Reactor brought back an unspecified number of furloughed devs, some of those who weren't have seemingly been laid off",
+      "url": "https://www.rockpapershotgun.com/after-star-wars-zero-company-dev-bit-reactor-brought-back-an-unspecified-number-of-furloughed-devs-some-of-those-who-werent-have-seemingly-been-laid-off",
+      "sources": [
+        "PC Gamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 1.7,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/after-star-wars-zero-company-dev-bit-reactor-brought-back-an-unspecified-number-of-furloughed-devs-some-of-those-who-werent-have-seemingly-been-laid-off",
+          "titre": "After Star Wars Zero Company dev Bit Reactor brought back an unspecified number of furloughed devs, some of those who weren't have seemingly been laid off"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/strategy/after-furloughing-its-developers-and-then-hiring-some-of-them-back-star-wars-zero-company-developer-has-laid-off-an-unspecified-number-of-staff/",
+          "titre": "After furloughing its developers and then hiring some of them back, Star Wars Zero Company developer has laid off an unspecified number of staff"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-s-ps5-physical-edition-revealed-in-first-photo",
+      "titre": "GTA 6's PS5 Physical Edition Revealed in First Photo",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6s-ps5-physical-edition-revealed-in-first-photo",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 3.7,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6s-ps5-physical-edition-revealed-in-first-photo",
+          "titre": "GTA 6's PS5 Physical Edition Revealed in First Photo"
         }
       ]
     },
@@ -102,7 +186,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 21.4,
+      "heures": 27.2,
       "chaleur": 9,
       "liens": [
         {
@@ -126,7 +210,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 22.1,
+      "heures": 27.9,
       "chaleur": 9,
       "liens": [
         {
@@ -150,7 +234,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 24.8,
+      "heures": 30.6,
       "chaleur": 9,
       "liens": [
         {
@@ -166,6 +250,192 @@ const VEILLE = {
       ]
     },
     {
+      "id": "playstation-exclusive-branding-added-to-tentpole-ps5-games",
+      "titre": "'PlayStation Exclusive' Branding Added to Tentpole PS5 Games as Sony Doubles Down",
+      "url": "https://www.pushsquare.com/news/2026/11/playstation-exclusive-branding-added-to-tentpole-ps5-games-as-sony-doubles-down",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 3.2,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/playstation-exclusive-branding-added-to-tentpole-ps5-games-as-sony-doubles-down",
+          "titre": "'PlayStation Exclusive' Branding Added to Tentpole PS5 Games as Sony Doubles Down"
+        }
+      ]
+    },
+    {
+      "id": "icymi-call-of-duty-warzone-is-now-available-for-switch-2",
+      "titre": "ICYMI: Call Of Duty: Warzone Is Now Available For Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/11/icymi-call-of-duty-warzone-is-now-available-for-switch-2",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 3.3,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/icymi-call-of-duty-warzone-is-now-available-for-switch-2",
+          "titre": "ICYMI: Call Of Duty: Warzone Is Now Available For Switch 2"
+        }
+      ]
+    },
+    {
+      "id": "nier-automata-developer-is-currently-investigating-a-bizarre",
+      "titre": "Nier: Automata developer is 'currently investigating' a bizarre update bug that drastically inflated the game's file size from 50GB to 366GB",
+      "url": "https://www.pcgamer.com/games/rpg/nier-automata-developer-is-currently-investigating-a-bizarre-update-bug-that-drastically-inflated-the-games-file-size-from-50gb-to-366gb/",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 7.4,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/nier-automata-developer-is-currently-investigating-a-bizarre-update-bug-that-drastically-inflated-the-games-file-size-from-50gb-to-366gb/",
+          "titre": "Nier: Automata developer is 'currently investigating' a bizarre update bug that drastically inflated the game's file size from 50GB to 366GB"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/square-enix-nier-automata-update-required-file-size-366gb",
+          "titre": "Square Enix accidentally botches a Nier: Automata update, balloons required file size from 50GB to 366GB on PC"
+        }
+      ]
+    },
+    {
+      "id": "amd-ceo-lisa-su-we-are-a-data-center-first-company",
+      "titre": "AMD CEO Lisa Su: 'We are a data center-first company'",
+      "url": "https://www.pcgamer.com/gaming-industry/amd-ceo-lisa-su-we-are-a-data-center-first-company/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/amd-ceo-lisa-su-we-are-a-data-center-first-company/",
+          "titre": "AMD CEO Lisa Su: 'We are a data center-first company'"
+        }
+      ]
+    },
+    {
+      "id": "after-seeing-them-myself-i-m-convinced-wow-forever-s-rp-serv",
+      "titre": "After seeing them myself, I'm convinced WoW: Forever's RP servers don't need to be this separate, and I say that as a decorated veteran of MMO roleplay",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/after-seeing-them-myself-im-convinced-wow-forevers-rp-servers-dont-need-to-be-this-separate-and-i-say-that-as-a-decorated-veteran-of-mmo-roleplay/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/after-seeing-them-myself-im-convinced-wow-forevers-rp-servers-dont-need-to-be-this-separate-and-i-say-that-as-a-decorated-veteran-of-mmo-roleplay/",
+          "titre": "After seeing them myself, I'm convinced WoW: Forever's RP servers don't need to be this separate, and I say that as a decorated veteran of MMO roleplay"
+        }
+      ]
+    },
+    {
+      "id": "what-s-the-toughest-choice-you-ve-made-in-an-rpg",
+      "titre": "What's the toughest choice you've made in an RPG?",
+      "url": "https://www.pcgamer.com/games/rpg/whats-the-toughest-choice-youve-made-in-an-rpg/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/whats-the-toughest-choice-youve-made-in-an-rpg/",
+          "titre": "What's the toughest choice you've made in an RPG?"
+        }
+      ]
+    },
+    {
+      "id": "wardogs-season-3-brings-an-urban-map-limited-mode-and-a-185",
+      "titre": "Wardogs Season 3 brings an urban map, Limited Mode, and a 185,000-account ban wave",
+      "url": "https://www.eurogamer.net/wardogs-season-3-release-date-limited-mode-ban-wave",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/wardogs-season-3-release-date-limited-mode-ban-wave",
+          "titre": "Wardogs Season 3 brings an urban map, Limited Mode, and a 185,000-account ban wave"
+        }
+      ]
+    },
+    {
+      "id": "linux-on-the-desktop-marches-on-as-gog-announces-its-galaxy",
+      "titre": "Linux on the desktop marches on as GOG announces its Galaxy client is getting a revamp headed to Windows, macOS, and your distro of choice",
+      "url": "https://www.pcgamer.com/software/linux/linux-on-the-desktop-marches-on-as-gog-announces-its-galaxy-client-is-getting-a-revamp-headed-to-windows-macos-and-your-distro-of-choice/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 3.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/linux/linux-on-the-desktop-marches-on-as-gog-announces-its-galaxy-client-is-getting-a-revamp-headed-to-windows-macos-and-your-distro-of-choice/",
+          "titre": "Linux on the desktop marches on as GOG announces its Galaxy client is getting a revamp headed to Windows, macOS, and your distro of choice"
+        }
+      ]
+    },
+    {
+      "id": "mass-effect-composer-sam-hulick-releases-his-re-scored-trail",
+      "titre": "Mass Effect composer Sam Hulick releases his 're-scored' trailer for N7 Day, 'my way of saying goodbye… at least for now'",
+      "url": "https://www.pcgamer.com/games/mass-effect/mass-effect-composer-sam-hulick-releases-his-re-scored-trailer-for-n7-day-my-way-of-saying-goodbye-at-least-for-now/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 3.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/mass-effect/mass-effect-composer-sam-hulick-releases-his-re-scored-trailer-for-n7-day-my-way-of-saying-goodbye-at-least-for-now/",
+          "titre": "Mass Effect composer Sam Hulick releases his 're-scored' trailer for N7 Day, 'my way of saying goodbye… at least for now'"
+        }
+      ]
+    },
+    {
+      "id": "poll-what-review-score-would-you-give-the-zelda-ocarina-of-t",
+      "titre": "Poll: What Review Score Would You Give The Zelda: Ocarina Of Time Remake?",
+      "url": "https://www.nintendolife.com/features/poll-what-review-score-would-you-give-the-zelda-ocarina-of-time-remake",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 4.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/poll-what-review-score-would-you-give-the-zelda-ocarina-of-time-remake",
+          "titre": "Poll: What Review Score Would You Give The Zelda: Ocarina Of Time Remake?"
+        }
+      ]
+    },
+    {
       "id": "xbox-is-testing-a-way-to-use-your-phone-as-a-controller-on-s",
       "titre": "Xbox is testing a way to use your phone as a controller on smart TVs",
       "url": "https://www.eurogamer.net/xbox-cloud-gaming-phone-controller-smart-tv-nano-cloud-connect",
@@ -173,91 +443,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.4,
-      "chaleur": 8,
+      "heures": 6.2,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/xbox-cloud-gaming-phone-controller-smart-tv-nano-cloud-connect",
           "titre": "Xbox is testing a way to use your phone as a controller on smart TVs"
-        }
-      ]
-    },
-    {
-      "id": "updated-xbox-pc-app-promises-60-faster-loading-and-easier-ac",
-      "titre": "Updated Xbox PC app promises 60% faster loading and easier access to games, but CEO Asha Sharma says there's \"plenty more to do\"",
-      "url": "https://www.eurogamer.net/updated-xbox-pc-app-faster-asha-sharma",
-      "sources": [
-        "Eurogamer",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 16.9,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/updated-xbox-pc-app-faster-asha-sharma",
-          "titre": "Updated Xbox PC app promises 60% faster loading and easier access to games, but CEO Asha Sharma says there's \"plenty more to do\""
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/xbox-is-updating-its-pc-app-promising-60-faster-boot-times-and-an-easier-to-use-game-library/",
-          "titre": "Xbox is updating its PC app, promising 60% faster boot times and an easier to use game library"
-        }
-      ]
-    },
-    {
-      "id": "after-furloughing-its-developers-and-then-hiring-some-of-the",
-      "titre": "After furloughing its developers and then hiring some of them back, Star Wars Zero Company developer has laid off an unspecified number of staff",
-      "url": "https://www.pcgamer.com/games/strategy/after-furloughing-its-developers-and-then-hiring-some-of-them-back-star-wars-zero-company-developer-has-laid-off-an-unspecified-number-of-staff/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 0.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/strategy/after-furloughing-its-developers-and-then-hiring-some-of-them-back-star-wars-zero-company-developer-has-laid-off-an-unspecified-number-of-staff/",
-          "titre": "After furloughing its developers and then hiring some of them back, Star Wars Zero Company developer has laid off an unspecified number of staff"
-        }
-      ]
-    },
-    {
-      "id": "guide-these-13-ps5-games-are-coming-out-next-week-9th-15th-n",
-      "titre": "Guide: These 13+ PS5 Games Are Coming Out Next Week (9th-15th November)",
-      "url": "https://www.pushsquare.com/guides/these-13plus-ps5-games-are-coming-out-next-week-9th-15th-november",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 0.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/guides/these-13plus-ps5-games-are-coming-out-next-week-9th-15th-november",
-          "titre": "Guide: These 13+ PS5 Games Are Coming Out Next Week (9th-15th November)"
-        }
-      ]
-    },
-    {
-      "id": "sudden-illness-sees-miyamoto-miss-nintendo-s-financial-brief",
-      "titre": "Sudden Illness Sees Miyamoto Miss Nintendo's Financial Briefing, But He's Expected To Make A Quick Recovery",
-      "url": "https://www.nintendolife.com/news/2026/11/sudden-illness-sees-miyamoto-miss-nintendos-financial-briefing-but-hes-expected-to-make-a-quick-recovery",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 7.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/sudden-illness-sees-miyamoto-miss-nintendos-financial-briefing-but-hes-expected-to-make-a-quick-recovery",
-          "titre": "Sudden Illness Sees Miyamoto Miss Nintendo's Financial Briefing, But He's Expected To Make A Quick Recovery"
         }
       ]
     },
@@ -269,7 +461,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 18.2,
       "chaleur": 6,
       "liens": [
         {
@@ -287,7 +479,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.7,
+      "heures": 19.5,
       "chaleur": 6,
       "liens": [
         {
@@ -306,7 +498,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 17.6,
+      "heures": 23.4,
       "chaleur": 6,
       "liens": [
         {
@@ -330,7 +522,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 18.2,
+      "heures": 24.0,
       "chaleur": 6,
       "liens": [
         {
@@ -353,7 +545,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 22.6,
+      "heures": 28.4,
       "chaleur": 6,
       "liens": [
         {
@@ -364,92 +556,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nintendo-to-continue-delivering-movies-beyond-live-action-ze",
-      "titre": "Nintendo To Continue Delivering Movies Beyond Live-Action Zelda, Unsurprisingly",
-      "url": "https://www.nintendolife.com/news/2026/11/nintendo-to-continue-delivering-movies-beyond-live-action-zelda-unsurprisingly",
+      "id": "sudden-illness-sees-miyamoto-miss-nintendo-s-financial-brief",
+      "titre": "Sudden Illness Sees Miyamoto Miss Nintendo's Financial Briefing, But He's Expected To Make A Quick Recovery",
+      "url": "https://www.nintendolife.com/news/2026/11/sudden-illness-sees-miyamoto-miss-nintendos-financial-briefing-but-hes-expected-to-make-a-quick-recovery",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 30.9,
-      "chaleur": 6,
+      "heures": 13.7,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/nintendo-to-continue-delivering-movies-beyond-live-action-zelda-unsurprisingly",
-          "titre": "Nintendo To Continue Delivering Movies Beyond Live-Action Zelda, Unsurprisingly"
+          "url": "https://www.nintendolife.com/news/2026/11/sudden-illness-sees-miyamoto-miss-nintendos-financial-briefing-but-hes-expected-to-make-a-quick-recovery",
+          "titre": "Sudden Illness Sees Miyamoto Miss Nintendo's Financial Briefing, But He's Expected To Make A Quick Recovery"
         }
       ]
     },
     {
-      "id": "nintendo-highlights-multiple-major-third-party-releases-on-t",
-      "titre": "Nintendo Highlights Multiple Major Third-Party Releases On The Way To Switch 2 In 2027",
-      "url": "https://www.nintendolife.com/news/2026/11/nintendo-highlights-multiple-major-third-party-releases-on-the-way-to-switch-2-in-2027",
+      "id": "updated-xbox-pc-app-promises-60-faster-loading-and-easier-ac",
+      "titre": "Updated Xbox PC app promises 60% faster loading and easier access to games, but CEO Asha Sharma says there's \"plenty more to do\"",
+      "url": "https://www.eurogamer.net/updated-xbox-pc-app-faster-asha-sharma",
       "sources": [
-        "Nintendo Life"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 32.1,
-      "chaleur": 6,
+      "heures": 22.7,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/nintendo-highlights-multiple-major-third-party-releases-on-the-way-to-switch-2-in-2027",
-          "titre": "Nintendo Highlights Multiple Major Third-Party Releases On The Way To Switch 2 In 2027"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-reiterates-plans-for-zelda-s-40th-anniversary",
-      "titre": "Nintendo Reiterates Plans For Zelda's 40th Anniversary",
-      "url": "https://www.nintendolife.com/news/2026/11/nintendo-reiterates-plans-for-zeldas-40th-anniversary",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 33.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/nintendo-reiterates-plans-for-zeldas-40th-anniversary",
-          "titre": "Nintendo Reiterates Plans For Zelda's 40th Anniversary"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-s-classic-remakes-for-switch-2-are-seemingly-just-g",
-      "titre": "Nintendo's Classic Remakes For Switch 2 Are Seemingly Just Getting Started",
-      "url": "https://www.nintendolife.com/news/2026/11/nintendos-classic-remakes-for-switch-2-are-seemingly-just-getting-started",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 33.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/nintendos-classic-remakes-for-switch-2-are-seemingly-just-getting-started",
-          "titre": "Nintendo's Classic Remakes For Switch 2 Are Seemingly Just Getting Started"
-        }
-      ]
-    },
-    {
-      "id": "you-don-t-want-to-interrupt-the-player-s-experience-here-s",
-      "titre": "\"You Don't Want To Interrupt The Player's Experience\" - Here's Why Zelda's Switch 2 Remake Cut Some Mario References",
-      "url": "https://www.nintendolife.com/news/2026/11/you-dont-want-to-interrupt-the-players-experience-heres-why-zeldas-switch-2-remake-cut-some-mario-references",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 35.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/you-dont-want-to-interrupt-the-players-experience-heres-why-zeldas-switch-2-remake-cut-some-mario-references",
-          "titre": "\"You Don't Want To Interrupt The Player's Experience\" - Here's Why Zelda's Switch 2 Remake Cut Some Mario References"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/updated-xbox-pc-app-faster-asha-sharma",
+          "titre": "Updated Xbox PC app promises 60% faster loading and easier access to games, but CEO Asha Sharma says there's \"plenty more to do\""
         }
       ]
     },
@@ -461,31 +599,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.0,
+      "heures": 24.9,
       "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/bloodborne-involved-rights-former-playstation-boss",
           "titre": "Bringing Bloodborne back is tricky because \"there's a lot of involved rights associated,\" according to former PlayStation boss"
-        }
-      ]
-    },
-    {
-      "id": "zelda-oot-remake-lost-woods-map-how-to-navigate",
-      "titre": "Zelda OOT Remake: Lost Woods map, how to navigate",
-      "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-lost-woods-map-how-to-navigate/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 19.4,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-lost-woods-map-how-to-navigate/",
-          "titre": "Zelda OOT Remake: Lost Woods map, how to navigate"
         }
       ]
     },
@@ -497,7 +617,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.1,
+      "heures": 25.9,
       "chaleur": 5,
       "liens": [
         {
@@ -515,7 +635,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.9,
+      "heures": 26.7,
       "chaleur": 5,
       "liens": [
         {
@@ -533,7 +653,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 21.1,
+      "heures": 26.9,
       "chaleur": 5,
       "liens": [
         {
@@ -551,7 +671,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 22.3,
+      "heures": 28.1,
       "chaleur": 5,
       "liens": [
         {
@@ -569,7 +689,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 24.2,
+      "heures": 30.0,
       "chaleur": 5,
       "liens": [
         {
@@ -587,7 +707,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 26.8,
+      "heures": 32.6,
       "chaleur": 5,
       "liens": [
         {
@@ -605,13 +725,49 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 27.2,
+      "heures": 33.0,
       "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/remakes-and-new-games-both-have-a-place-in-the-stable-says-nintendo-boss-buoyed-by-the-success-of-star-fox-and-ocarina-of-time",
           "titre": "Remakes and new games \"both have a place in the stable\" says Nintendo boss, buoyed by the success of Star Fox and Ocarina of Time"
+        }
+      ]
+    },
+    {
+      "id": "todd-howard-s-game-design-power-is-knowing-when-to-make-thin",
+      "titre": "Todd Howard's game design power is knowing when to make things 'simple and digestible' according to Skyrim's lead designer",
+      "url": "https://www.pcgamer.com/games/the-elder-scrolls/todd-howards-game-design-power-is-knowing-when-to-make-things-simple-and-digestible-according-to-skyrims-lead-designer/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-elder-scrolls/todd-howards-game-design-power-is-knowing-when-to-make-things-simple-and-digestible-according-to-skyrims-lead-designer/",
+          "titre": "Todd Howard's game design power is knowing when to make things 'simple and digestible' according to Skyrim's lead designer"
+        }
+      ]
+    },
+    {
+      "id": "guide-these-13-ps5-games-are-coming-out-next-week-9th-15th-n",
+      "titre": "Guide: These 13+ PS5 Games Are Coming Out Next Week (9th-15th November)",
+      "url": "https://www.pushsquare.com/guides/these-13plus-ps5-games-are-coming-out-next-week-9th-15th-november",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 6.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/guides/these-13plus-ps5-games-are-coming-out-next-week-9th-15th-november",
+          "titre": "Guide: These 13+ PS5 Games Are Coming Out Next Week (9th-15th November)"
         }
       ]
     },
@@ -623,31 +779,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 10.6,
       "chaleur": 4,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/what-weve-been-playing-vice-city-zelda-world-of-warcraft-forever",
           "titre": "What we've been playing - \"Sniffing out the warehouses on Prawn Island\""
-        }
-      ]
-    },
-    {
-      "id": "here-s-what-s-in-path-of-exile-2-s-huge-1-0-release-coming-i",
-      "titre": "Here's what's in Path of Exile 2’s huge 1.0 release, coming in December",
-      "url": "https://www.pcgamer.com/games/rpg/heres-whats-in-path-of-exile-2s-huge-1-0-release-coming-in-december/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 13.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/heres-whats-in-path-of-exile-2s-huge-1-0-release-coming-in-december/",
-          "titre": "Here's what's in Path of Exile 2’s huge 1.0 release, coming in December"
         }
       ]
     },
@@ -659,7 +797,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.5,
+      "heures": 20.3,
       "chaleur": 3,
       "liens": [
         {
@@ -677,7 +815,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 21.4,
       "chaleur": 3,
       "liens": [
         {
@@ -695,7 +833,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.8,
+      "heures": 21.6,
       "chaleur": 3,
       "liens": [
         {
@@ -713,7 +851,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.9,
+      "heures": 24.7,
       "chaleur": 3,
       "liens": [
         {
@@ -731,31 +869,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.9,
+      "heures": 24.7,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/its-hard-to-meet-women-when-i-keep-teleporting-all-the-time/",
           "titre": "It's hard to meet women when I keep teleporting all the time"
-        }
-      ]
-    },
-    {
-      "id": "all-that-stands-between-a-hacker-and-admin-privileges-on-som",
-      "titre": "All that stands between a hacker and admin privileges on some Linux distros is a 257-character long string of literally anything",
-      "url": "https://www.pcgamer.com/software/linux/all-that-stands-between-a-hacker-and-admin-privileges-on-some-linux-distros-is-a-257-character-long-string-of-literally-anything/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 19.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/linux/all-that-stands-between-a-hacker-and-admin-privileges-on-some-linux-distros-is-a-257-character-long-string-of-literally-anything/",
-          "titre": "All that stands between a hacker and admin privileges on some Linux distros is a 257-character long string of literally anything"
         }
       ]
     },
@@ -767,7 +887,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.4,
+      "heures": 25.2,
       "chaleur": 3,
       "liens": [
         {
@@ -785,7 +905,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 19.5,
+      "heures": 25.3,
       "chaleur": 3,
       "liens": [
         {
@@ -803,31 +923,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 20.6,
+      "heures": 26.4,
       "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/blog/podcast/podcast-ocarina-still-has-the-magic-after-all-this-time/",
           "titre": "Podcast: Ocarina still has the magic after all this Time"
-        }
-      ]
-    },
-    {
-      "id": "a-public-petition-to-save-bioware-has-drawn-enough-signature",
-      "titre": "A public petition to save BioWare has drawn enough signatures that the Canadian government will at least have to think about it: 'This is absolutely possible,' MP says",
-      "url": "https://www.pcgamer.com/games/mass-effect/a-public-petition-to-save-bioware-has-drawn-enough-signatures-that-the-canadian-government-will-at-least-have-to-think-about-it-this-is-absolutely-possible-mp-says/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 20.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/mass-effect/a-public-petition-to-save-bioware-has-drawn-enough-signatures-that-the-canadian-government-will-at-least-have-to-think-about-it-this-is-absolutely-possible-mp-says/",
-          "titre": "A public petition to save BioWare has drawn enough signatures that the Canadian government will at least have to think about it: 'This is absolutely possible,' MP says"
         }
       ]
     },
@@ -839,67 +941,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 20.7,
+      "heures": 26.5,
       "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/elections-signal-cultural-shifts-that-no-creative-industry-can-dare-to-ignore-opinion",
           "titre": "Elections signal cultural shifts that no creative industry can dare to ignore | Opinion"
-        }
-      ]
-    },
-    {
-      "id": "epomaker-he75-v2-tmr-review",
-      "titre": "Epomaker HE75 V2 TMR review",
-      "url": "https://www.pcgamer.com/hardware/gaming-keyboards/epomaker-he75-v2-tmr-review/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 20.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-keyboards/epomaker-he75-v2-tmr-review/",
-          "titre": "Epomaker HE75 V2 TMR review"
-        }
-      ]
-    },
-    {
-      "id": "david-gaider-has-been-working-on-owlcat-s-expanse-rpg-the-ex",
-      "titre": "David Gaider has been working on Owlcat's Expanse RPG: 'The Expanse has long been one of my favourite series, and so obviously I jumped at the opportunity to be involved'",
-      "url": "https://www.pcgamer.com/games/rpg/david-gaider-has-been-working-on-owlcats-expanse-rpg-the-expanse-has-long-been-one-of-my-favourite-series-and-so-obviously-i-jumped-at-the-opportunity-to-be-involved/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 21.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/david-gaider-has-been-working-on-owlcats-expanse-rpg-the-expanse-has-long-been-one-of-my-favourite-series-and-so-obviously-i-jumped-at-the-opportunity-to-be-involved/",
-          "titre": "David Gaider has been working on Owlcat's Expanse RPG: 'The Expanse has long been one of my favourite series, and so obviously I jumped at the opportunity to be involved'"
-        }
-      ]
-    },
-    {
-      "id": "wow-forever-takes-250-000-gb-of-memory-to-run-and-i-can-t-ev",
-      "titre": "WoW: Forever takes 250,000 GB of memory to run, and I can't even joke about Sam Altman being jealous because that's almost nothing compared to the monolithic demands of AI",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-takes-250-000-gb-of-memory-to-run-and-i-cant-even-joke-about-sam-altman-being-jealous-because-thats-almost-nothing-compared-to-the-monolithic-demands-of-ai/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 21.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-takes-250-000-gb-of-memory-to-run-and-i-cant-even-joke-about-sam-altman-being-jealous-because-thats-almost-nothing-compared-to-the-monolithic-demands-of-ai/",
-          "titre": "WoW: Forever takes 250,000 GB of memory to run, and I can't even joke about Sam Altman being jealous because that's almost nothing compared to the monolithic demands of AI"
         }
       ]
     },
@@ -911,7 +959,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 21.3,
+      "heures": 27.1,
       "chaleur": 3,
       "liens": [
         {
@@ -929,7 +977,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 21.9,
+      "heures": 27.7,
       "chaleur": 3,
       "liens": [
         {
@@ -947,7 +995,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 21.9,
+      "heures": 27.7,
       "chaleur": 3,
       "liens": [
         {
@@ -965,31 +1013,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 22.2,
+      "heures": 28.0,
       "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/world-of-warcraft-forever-hotfix-flag-carrier-plainsrunning",
           "titre": "World of Warcraft: Forever hotfix puts a stop to super speedy flag carriers that were dominating PvP battlegrounds"
-        }
-      ]
-    },
-    {
-      "id": "skyrim-s-lead-designer-has-2-big-asks-of-the-elder-scrolls-6",
-      "titre": "Skyrim's lead designer has 2 big asks of The Elder Scrolls 6: Sentinel, and only one of them is something most players have ever thought about",
-      "url": "https://www.pcgamer.com/games/the-elder-scrolls/skyrims-lead-designer-has-2-big-asks-of-the-elder-scrolls-6-sentinel-and-only-one-of-them-is-something-most-players-have-ever-thought-about/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 22.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-elder-scrolls/skyrims-lead-designer-has-2-big-asks-of-the-elder-scrolls-6-sentinel-and-only-one-of-them-is-something-most-players-have-ever-thought-about/",
-          "titre": "Skyrim's lead designer has 2 big asks of The Elder Scrolls 6: Sentinel, and only one of them is something most players have ever thought about"
         }
       ]
     },
@@ -1001,7 +1031,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.6,
+      "heures": 28.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1019,7 +1049,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 22.9,
+      "heures": 28.7,
       "chaleur": 3,
       "liens": [
         {
@@ -1037,7 +1067,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 23.0,
+      "heures": 28.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1055,7 +1085,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 23.3,
+      "heures": 29.1,
       "chaleur": 3,
       "liens": [
         {
@@ -1073,7 +1103,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 24.3,
+      "heures": 30.1,
       "chaleur": 3,
       "liens": [
         {
@@ -1091,7 +1121,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 25.4,
+      "heures": 31.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1109,7 +1139,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 25.6,
+      "heures": 31.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1127,31 +1157,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 26.6,
+      "heures": 32.4,
       "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/bioware-closure-warren-spector-comments-accountability",
           "titre": "\"Is there any accountability left in this world?\" Warren Spector pops off at EA executives and their massive payouts as BioWare shuts down"
-        }
-      ]
-    },
-    {
-      "id": "scalpers-already-want-insane-sums-for-the-ocarina-remake-wit",
-      "titre": "Scalpers Already Want Insane Sums For The Ocarina Remake With Exclusive Bits",
-      "url": "https://www.nintendolife.com/news/2026/11/scalpers-already-want-insane-sums-for-the-ocarina-remake-with-exclusive-bits",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 26.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/scalpers-already-want-insane-sums-for-the-ocarina-remake-with-exclusive-bits",
-          "titre": "Scalpers Already Want Insane Sums For The Ocarina Remake With Exclusive Bits"
         }
       ]
     }
