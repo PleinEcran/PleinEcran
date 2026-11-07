@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "07/11/2026 à 00h03",
+  "collecte": "07/11/2026 à 05h51",
   "seuil": 14,
   "sujets": [
     {
@@ -14,7 +14,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 4,
-      "heures": 6.1,
+      "heures": 11.9,
       "chaleur": 18,
       "liens": [
         {
@@ -40,26 +40,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "podcast-ocarina-still-has-the-magic-after-all-this-time",
-      "titre": "Podcast: Ocarina still has the magic after all this Time",
-      "url": "https://www.videogameschronicle.com/blog/podcast/podcast-ocarina-still-has-the-magic-after-all-this-time/",
+      "id": "updated-xbox-pc-app-promises-60-faster-loading-and-easier-ac",
+      "titre": "Updated Xbox PC app promises 60% faster loading and easier access to games, but CEO Asha Sharma says there's \"plenty more to do\"",
+      "url": "https://www.eurogamer.net/updated-xbox-pc-app-faster-asha-sharma",
       "sources": [
-        "Nintendo Life",
+        "Eurogamer",
         "VGC"
       ],
       "reprises": 2,
-      "heures": 7.8,
-      "chaleur": 10,
+      "heures": 9.9,
+      "chaleur": 9,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/blog/podcast/podcast-ocarina-still-has-the-magic-after-all-this-time/",
-          "titre": "Podcast: Ocarina still has the magic after all this Time"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/updated-xbox-pc-app-faster-asha-sharma",
+          "titre": "Updated Xbox PC app promises 60% faster loading and easier access to games, but CEO Asha Sharma says there's \"plenty more to do\""
         },
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/japanese-charts-switch-2-sales-get-a-nice-bump-ahead-of-zelda-ocarina-of-time",
-          "titre": "Japanese Charts: Switch 2 Sales Get A Nice Bump Ahead Of Zelda: Ocarina Of Time"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/xbox-is-updating-its-pc-app-promising-60-faster-boot-times-and-an-easier-to-use-game-library/",
+          "titre": "Xbox is updating its PC app, promising 60% faster boot times and an easier to use game library"
         }
       ]
     },
@@ -72,8 +72,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 8.6,
-      "chaleur": 10,
+      "heures": 14.4,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Push Square",
@@ -96,8 +96,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 9.3,
-      "chaleur": 10,
+      "heures": 15.1,
+      "chaleur": 9,
       "liens": [
         {
           "source": "VGC",
@@ -112,48 +112,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "rockstar-s-having-sale-on-old-gta-games-on-the-only-platform",
-      "titre": "Rockstar's having sale on old GTA games on the only platform Grand Theft Auto 6 isn't coming to (ours)",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstars-having-sale-on-old-gta-games-on-the-only-platform-grand-theft-auto-6-isnt-coming-to-ours/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 0.9,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstars-having-sale-on-old-gta-games-on-the-only-platform-grand-theft-auto-6-isnt-coming-to-ours/",
-          "titre": "Rockstar's having sale on old GTA games on the only platform Grand Theft Auto 6 isn't coming to (ours)"
-        }
-      ]
-    },
-    {
-      "id": "updated-xbox-pc-app-promises-60-faster-loading-and-easier-ac",
-      "titre": "Updated Xbox PC app promises 60% faster loading and easier access to games, but CEO Asha Sharma says there's \"plenty more to do\"",
-      "url": "https://www.eurogamer.net/updated-xbox-pc-app-faster-asha-sharma",
-      "sources": [
-        "Eurogamer",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 4.1,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/updated-xbox-pc-app-faster-asha-sharma",
-          "titre": "Updated Xbox PC app promises 60% faster loading and easier access to games, but CEO Asha Sharma says there's \"plenty more to do\""
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/xbox-is-updating-its-pc-app-promising-60-faster-boot-times-and-an-easier-to-use-game-library/",
-          "titre": "Xbox is updating its PC app, promising 60% faster boot times and an easier to use game library"
-        }
-      ]
-    },
-    {
       "id": "former-rockstar-games-tech-director-thinks-gta-6-could-be-co",
       "titre": "Former Rockstar Games tech director thinks GTA 6 could be coming to PC sooner than you'd expect to curb AI clones",
       "url": "https://www.eurogamer.net/grand-theft-auto-6-pc-sooner-than-you-expect-curb-ai-clone",
@@ -162,7 +120,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 12.0,
+      "heures": 17.8,
       "chaleur": 9,
       "liens": [
         {
@@ -178,26 +136,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nintendo-is-currently-not-considering-more-switch-2-price-ch",
-      "titre": "Nintendo Is Currently Not Considering More Switch 2 Price Changes",
-      "url": "https://www.nintendolife.com/news/2026/11/nintendo-is-currently-not-considering-more-switch-2-price-changes",
+      "id": "sudden-illness-sees-miyamoto-miss-nintendo-s-financial-brief",
+      "titre": "Sudden Illness Sees Miyamoto Miss Nintendo's Financial Briefing, But He's Expected To Make A Quick Recovery",
+      "url": "https://www.nintendolife.com/news/2026/11/sudden-illness-sees-miyamoto-miss-nintendos-financial-briefing-but-hes-expected-to-make-a-quick-recovery",
       "sources": [
-        "Eurogamer",
         "Nintendo Life"
       ],
-      "reprises": 2,
-      "heures": 31.1,
-      "chaleur": 9,
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 8,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/nintendo-is-currently-not-considering-more-switch-2-price-changes",
-          "titre": "Nintendo Is Currently Not Considering More Switch 2 Price Changes"
-        },
+          "url": "https://www.nintendolife.com/news/2026/11/sudden-illness-sees-miyamoto-miss-nintendos-financial-briefing-but-hes-expected-to-make-a-quick-recovery",
+          "titre": "Sudden Illness Sees Miyamoto Miss Nintendo's Financial Briefing, But He's Expected To Make A Quick Recovery"
+        }
+      ]
+    },
+    {
+      "id": "zelda-producer-eiji-aonuma-talks-about-the-benefits-of-long",
+      "titre": "Zelda Producer Eiji Aonuma Talks About The Benefits Of \"Long-Term-Tenured Staff\" At Nintendo",
+      "url": "https://www.nintendolife.com/news/2026/11/zelda-producer-eiji-aonuma-talks-about-the-benefits-of-long-term-tenured-staff-at-nintendo",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 7,
+      "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/nintendo-switch-2-no-plans-for-more-price-hikes",
-          "titre": "Nintendo says it isn't planning any more Switch 2 price hikes"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/zelda-producer-eiji-aonuma-talks-about-the-benefits-of-long-term-tenured-staff-at-nintendo",
+          "titre": "Zelda Producer Eiji Aonuma Talks About The Benefits Of \"Long-Term-Tenured Staff\" At Nintendo"
+        }
+      ]
+    },
+    {
+      "id": "rockstar-s-having-a-sale-on-old-gta-games-on-the-only-platfo",
+      "titre": "Rockstar's having a sale on old GTA games on the only platform Grand Theft Auto 6 isn't coming to (ours)",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstars-having-sale-on-old-gta-games-on-the-only-platform-grand-theft-auto-6-isnt-coming-to-ours/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.7,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstars-having-sale-on-old-gta-games-on-the-only-platform-grand-theft-auto-6-isnt-coming-to-ours/",
+          "titre": "Rockstar's having a sale on old GTA games on the only platform Grand Theft Auto 6 isn't coming to (ours)"
         }
       ]
     },
@@ -210,7 +198,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 4.8,
+      "heures": 10.6,
       "chaleur": 7,
       "liens": [
         {
@@ -234,7 +222,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 5.4,
+      "heures": 11.2,
       "chaleur": 7,
       "liens": [
         {
@@ -258,8 +246,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 7.8,
-      "chaleur": 7,
+      "heures": 13.6,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
@@ -281,8 +269,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.8,
-      "chaleur": 7,
+      "heures": 15.6,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
@@ -299,229 +287,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.0,
-      "chaleur": 7,
+      "heures": 17.7,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/discord-is-cutting-memory-usage-and-speeding-up-boot-times-joins-xbox-epic-steam-and-more-for-similar-upgrades-just-this-year/",
           "titre": "Discord is cutting memory usage and speeding up boot times - joins Xbox, Epic, Steam, and more for similar upgrades just this year"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-confident-in-memory-supply-in-new-financial-report",
-      "titre": "Nintendo confident in memory supply in new financial report",
-      "url": "https://www.gamedeveloper.com/business/nintendo-confident-in-memory-supply-in-new-financial-report",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 30.4,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/nintendo-confident-in-memory-supply-in-new-financial-report",
-          "titre": "Nintendo confident in memory supply in new financial report"
-        }
-      ]
-    },
-    {
-      "id": "here-s-what-s-in-path-of-exile-2-s-huge-1-0-release-coming-i",
-      "titre": "Here's what's in Path of Exile 2’s huge 1.0 release, coming in December",
-      "url": "https://www.pcgamer.com/games/rpg/heres-whats-in-path-of-exile-2s-huge-1-0-release-coming-in-december/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 0.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/heres-whats-in-path-of-exile-2s-huge-1-0-release-coming-in-december/",
-          "titre": "Here's what's in Path of Exile 2’s huge 1.0 release, coming in December"
-        }
-      ]
-    },
-    {
-      "id": "the-ai-posting-war-is-heating-up-please-leave-me-behind-says",
-      "titre": "The AI posting war is heating up: 'Please, leave me behind,' says artist who got into it with Epic CEO Tim Sweeney on X",
-      "url": "https://www.pcgamer.com/software/ai/the-ai-posting-war-is-heating-up-please-leave-me-behind-says-artist-who-got-into-it-with-epic-ceo-tim-sweeney-on-x/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/the-ai-posting-war-is-heating-up-please-leave-me-behind-says-artist-who-got-into-it-with-epic-ceo-tim-sweeney-on-x/",
-          "titre": "The AI posting war is heating up: 'Please, leave me behind,' says artist who got into it with Epic CEO Tim Sweeney on X"
-        }
-      ]
-    },
-    {
-      "id": "underkeep-is-my-favorite-old-school-dungeon-crawler-since-le",
-      "titre": "Underkeep is my favorite old-school dungeon crawler since Legend of Grimrock, and yes that includes Queen's Domain",
-      "url": "https://www.pcgamer.com/games/rpg/underkeep-is-my-favorite-old-school-dungeon-crawler-since-legend-of-grimrock-and-yes-that-includes-queens-domain/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/underkeep-is-my-favorite-old-school-dungeon-crawler-since-legend-of-grimrock-and-yes-that-includes-queens-domain/",
-          "titre": "Underkeep is my favorite old-school dungeon crawler since Legend of Grimrock, and yes that includes Queen's Domain"
-        }
-      ]
-    },
-    {
-      "id": "it-came-out-of-nowhere-i-was-shocked-and-sad-he-was-the-fac",
-      "titre": "'It came out of nowhere. I was shocked and sad': He was the face of Hunt: Showdown for years, then Crytek laid him off",
-      "url": "https://www.pcgamer.com/games/fps/it-came-out-of-nowhere-i-was-shocked-and-sad-he-was-the-face-of-hunt-showdown-for-years-then-crytek-laid-him-off/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/it-came-out-of-nowhere-i-was-shocked-and-sad-he-was-the-face-of-hunt-showdown-for-years-then-crytek-laid-him-off/",
-          "titre": "'It came out of nowhere. I was shocked and sad': He was the face of Hunt: Showdown for years, then Crytek laid him off"
-        }
-      ]
-    },
-    {
-      "id": "bringing-bloodborne-back-is-tricky-because-there-s-a-lot-of",
-      "titre": "Bringing Bloodborne back is tricky because \"there's a lot of involved rights associated,\" according to former PlayStation boss",
-      "url": "https://www.eurogamer.net/bloodborne-involved-rights-former-playstation-boss",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 6.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/bloodborne-involved-rights-former-playstation-boss",
-          "titre": "Bringing Bloodborne back is tricky because \"there's a lot of involved rights associated,\" according to former PlayStation boss"
-        }
-      ]
-    },
-    {
-      "id": "zelda-oot-remake-lost-woods-map-how-to-navigate",
-      "titre": "Zelda OOT Remake: Lost Woods map, how to navigate",
-      "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-lost-woods-map-how-to-navigate/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 6.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-lost-woods-map-how-to-navigate/",
-          "titre": "Zelda OOT Remake: Lost Woods map, how to navigate"
-        }
-      ]
-    },
-    {
-      "id": "psa-want-to-learn-link-s-ocarina-tunes-nintendo-s-got-the-sh",
-      "titre": "PSA: Want To Learn Link's Ocarina Tunes? Nintendo's Got The Sheet Music For All Of Them",
-      "url": "https://www.nintendolife.com/news/2026/11/psa-want-to-learn-links-ocarina-tunes-nintendos-got-the-sheet-music-for-all-of-them",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 7.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/psa-want-to-learn-links-ocarina-tunes-nintendos-got-the-sheet-music-for-all-of-them",
-          "titre": "PSA: Want To Learn Link's Ocarina Tunes? Nintendo's Got The Sheet Music For All Of Them"
-        }
-      ]
-    },
-    {
-      "id": "review-titanium-court-switch-2-the-freakiest-dream-you-ve-ev",
-      "titre": "Review: Titanium Court (Switch 2) - The Freakiest Dream You've Ever Had",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/titanium-court",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 8.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/titanium-court",
-          "titre": "Review: Titanium Court (Switch 2) - The Freakiest Dream You've Ever Had"
-        }
-      ]
-    },
-    {
-      "id": "i-just-found-out-you-can-use-your-steam-wishlist-to-search-f",
-      "titre": "I just found out you can use your Steam Wishlist to search for deals on games outside of Steam, saving my nephew more than £40 on Total War: Warhammer 3",
-      "url": "https://www.rockpapershotgun.com/i-just-found-out-you-can-use-your-steam-wishlist-to-search-for-deals-on-games-outside-of-steam-saving-my-nephew-more-than-40-on-total-war-warhammer-3",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 8.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/i-just-found-out-you-can-use-your-steam-wishlist-to-search-for-deals-on-games-outside-of-steam-saving-my-nephew-more-than-40-on-total-war-warhammer-3",
-          "titre": "I just found out you can use your Steam Wishlist to search for deals on games outside of Steam, saving my nephew more than £40 on Total War: Warhammer 3"
-        }
-      ]
-    },
-    {
-      "id": "zelda-oot-remake-find-richard-the-dog-in-castle-town-market",
-      "titre": "Zelda OOT Remake: Find Richard the Dog in Castle Town Market at night",
-      "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-find-richard-the-dog-in-castle-town-market-at-night/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 9.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-find-richard-the-dog-in-castle-town-market-at-night/",
-          "titre": "Zelda OOT Remake: Find Richard the Dog in Castle Town Market at night"
-        }
-      ]
-    },
-    {
-      "id": "steam-gets-a-boatload-of-restored-wing-commanders-and-ultima",
-      "titre": "Steam gets a boatload of restored Wing Commanders and Ultima ports after EA producer stumbles across cupboard of old tapes",
-      "url": "https://www.rockpapershotgun.com/steam-gets-a-boatload-of-restored-wing-commanders-and-ultima-ports-after-ea-producer-stumbles-across-cupboard-of-old-tapes",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/steam-gets-a-boatload-of-restored-wing-commanders-and-ultima-ports-after-ea-producer-stumbles-across-cupboard-of-old-tapes",
-          "titre": "Steam gets a boatload of restored Wing Commanders and Ultima ports after EA producer stumbles across cupboard of old tapes"
         }
       ]
     },
@@ -533,7 +305,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.1,
+      "heures": 23.9,
       "chaleur": 6,
       "liens": [
         {
@@ -551,7 +323,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.3,
+      "heures": 25.1,
       "chaleur": 6,
       "liens": [
         {
@@ -569,7 +341,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.3,
+      "heures": 26.1,
       "chaleur": 6,
       "liens": [
         {
@@ -587,7 +359,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.1,
+      "heures": 26.9,
       "chaleur": 6,
       "liens": [
         {
@@ -605,7 +377,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.6,
+      "heures": 28.4,
       "chaleur": 6,
       "liens": [
         {
@@ -616,38 +388,128 @@ const VEILLE = {
       ]
     },
     {
-      "id": "rockstar-reveals-even-more-gta-6-screenshots-as-ps5-release",
-      "titre": "Rockstar Reveals Even More GTA 6 Screenshots as PS5 Release Draws Closer",
-      "url": "https://www.pushsquare.com/news/2026/11/rockstar-reveals-even-more-gta-6-screenshots-as-ps5-release-draws-closer",
+      "id": "bringing-bloodborne-back-is-tricky-because-there-s-a-lot-of",
+      "titre": "Bringing Bloodborne back is tricky because \"there's a lot of involved rights associated,\" according to former PlayStation boss",
+      "url": "https://www.eurogamer.net/bloodborne-involved-rights-former-playstation-boss",
       "sources": [
-        "Push Square"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 32.6,
-      "chaleur": 6,
+      "heures": 12.0,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/rockstar-reveals-even-more-gta-6-screenshots-as-ps5-release-draws-closer",
-          "titre": "Rockstar Reveals Even More GTA 6 Screenshots as PS5 Release Draws Closer"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/bloodborne-involved-rights-former-playstation-boss",
+          "titre": "Bringing Bloodborne back is tricky because \"there's a lot of involved rights associated,\" according to former PlayStation boss"
         }
       ]
     },
     {
-      "id": "sensor-tower-gta-6-pre-orders-almost-reach-8m-74-bought-on-p",
-      "titre": "Sensor Tower: GTA 6 pre-orders almost reach 8m, 74% bought on PlayStation 5",
-      "url": "https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-almost-reach-8m-74-bought-on-playstation-5",
+      "id": "zelda-oot-remake-lost-woods-map-how-to-navigate",
+      "titre": "Zelda OOT Remake: Lost Woods map, how to navigate",
+      "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-lost-woods-map-how-to-navigate/",
       "sources": [
-        "GamesIndustry.biz"
+        "VGC"
       ],
       "reprises": 1,
-      "heures": 33.8,
-      "chaleur": 6,
+      "heures": 12.4,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-almost-reach-8m-74-bought-on-playstation-5",
-          "titre": "Sensor Tower: GTA 6 pre-orders almost reach 8m, 74% bought on PlayStation 5"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-lost-woods-map-how-to-navigate/",
+          "titre": "Zelda OOT Remake: Lost Woods map, how to navigate"
+        }
+      ]
+    },
+    {
+      "id": "psa-want-to-learn-link-s-ocarina-tunes-nintendo-s-got-the-sh",
+      "titre": "PSA: Want To Learn Link's Ocarina Tunes? Nintendo's Got The Sheet Music For All Of Them",
+      "url": "https://www.nintendolife.com/news/2026/11/psa-want-to-learn-links-ocarina-tunes-nintendos-got-the-sheet-music-for-all-of-them",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 13.1,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/psa-want-to-learn-links-ocarina-tunes-nintendos-got-the-sheet-music-for-all-of-them",
+          "titre": "PSA: Want To Learn Link's Ocarina Tunes? Nintendo's Got The Sheet Music For All Of Them"
+        }
+      ]
+    },
+    {
+      "id": "review-titanium-court-switch-2-the-freakiest-dream-you-ve-ev",
+      "titre": "Review: Titanium Court (Switch 2) - The Freakiest Dream You've Ever Had",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/titanium-court",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 13.9,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/titanium-court",
+          "titre": "Review: Titanium Court (Switch 2) - The Freakiest Dream You've Ever Had"
+        }
+      ]
+    },
+    {
+      "id": "i-just-found-out-you-can-use-your-steam-wishlist-to-search-f",
+      "titre": "I just found out you can use your Steam Wishlist to search for deals on games outside of Steam, saving my nephew more than £40 on Total War: Warhammer 3",
+      "url": "https://www.rockpapershotgun.com/i-just-found-out-you-can-use-your-steam-wishlist-to-search-for-deals-on-games-outside-of-steam-saving-my-nephew-more-than-40-on-total-war-warhammer-3",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 14.1,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/i-just-found-out-you-can-use-your-steam-wishlist-to-search-for-deals-on-games-outside-of-steam-saving-my-nephew-more-than-40-on-total-war-warhammer-3",
+          "titre": "I just found out you can use your Steam Wishlist to search for deals on games outside of Steam, saving my nephew more than £40 on Total War: Warhammer 3"
+        }
+      ]
+    },
+    {
+      "id": "zelda-oot-remake-find-richard-the-dog-in-castle-town-market",
+      "titre": "Zelda OOT Remake: Find Richard the Dog in Castle Town Market at night",
+      "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-find-richard-the-dog-in-castle-town-market-at-night/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 15.3,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-find-richard-the-dog-in-castle-town-market-at-night/",
+          "titre": "Zelda OOT Remake: Find Richard the Dog in Castle Town Market at night"
+        }
+      ]
+    },
+    {
+      "id": "steam-gets-a-boatload-of-restored-wing-commanders-and-ultima",
+      "titre": "Steam gets a boatload of restored Wing Commanders and Ultima ports after EA producer stumbles across cupboard of old tapes",
+      "url": "https://www.rockpapershotgun.com/steam-gets-a-boatload-of-restored-wing-commanders-and-ultima-ports-after-ea-producer-stumbles-across-cupboard-of-old-tapes",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 17.2,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/steam-gets-a-boatload-of-restored-wing-commanders-and-ultima-ports-after-ea-producer-stumbles-across-cupboard-of-old-tapes",
+          "titre": "Steam gets a boatload of restored Wing Commanders and Ultima ports after EA producer stumbles across cupboard of old tapes"
         }
       ]
     },
@@ -659,7 +521,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 14.0,
+      "heures": 19.8,
       "chaleur": 5,
       "liens": [
         {
@@ -677,7 +539,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 20.2,
       "chaleur": 5,
       "liens": [
         {
@@ -695,7 +557,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 30.1,
+      "heures": 35.9,
       "chaleur": 5,
       "liens": [
         {
@@ -706,20 +568,92 @@ const VEILLE = {
       ]
     },
     {
-      "id": "world-of-warcraft-forever-s-seemingly-stellar-launch-continu",
-      "titre": "World of Warcraft: Forever's seemingly stellar launch continues as it soars to the top of Twitch's most viewed games, beating out the likes of League of Legends and Zelda",
-      "url": "https://www.eurogamer.net/world-of-warcraft-forever-launch-twitch-most-viewed",
+      "id": "talking-point-what-are-you-playing-this-weekend-issue-657",
+      "titre": "Talking Point: What Are You Playing This Weekend? - Issue 657",
+      "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-657",
       "sources": [
-        "Eurogamer"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 33.1,
-      "chaleur": 5,
+      "heures": 5.9,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/world-of-warcraft-forever-launch-twitch-most-viewed",
-          "titre": "World of Warcraft: Forever's seemingly stellar launch continues as it soars to the top of Twitch's most viewed games, beating out the likes of League of Legends and Zelda"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-657",
+          "titre": "Talking Point: What Are You Playing This Weekend? - Issue 657"
+        }
+      ]
+    },
+    {
+      "id": "here-s-what-s-in-path-of-exile-2-s-huge-1-0-release-coming-i",
+      "titre": "Here's what's in Path of Exile 2’s huge 1.0 release, coming in December",
+      "url": "https://www.pcgamer.com/games/rpg/heres-whats-in-path-of-exile-2s-huge-1-0-release-coming-in-december/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/heres-whats-in-path-of-exile-2s-huge-1-0-release-coming-in-december/",
+          "titre": "Here's what's in Path of Exile 2’s huge 1.0 release, coming in December"
+        }
+      ]
+    },
+    {
+      "id": "the-ai-posting-war-is-heating-up-please-leave-me-behind-says",
+      "titre": "The AI posting war is heating up: 'Please, leave me behind,' says artist who got into it with Epic CEO Tim Sweeney on X",
+      "url": "https://www.pcgamer.com/software/ai/the-ai-posting-war-is-heating-up-please-leave-me-behind-says-artist-who-got-into-it-with-epic-ceo-tim-sweeney-on-x/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 7.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/the-ai-posting-war-is-heating-up-please-leave-me-behind-says-artist-who-got-into-it-with-epic-ceo-tim-sweeney-on-x/",
+          "titre": "The AI posting war is heating up: 'Please, leave me behind,' says artist who got into it with Epic CEO Tim Sweeney on X"
+        }
+      ]
+    },
+    {
+      "id": "underkeep-is-my-favorite-old-school-dungeon-crawler-since-le",
+      "titre": "Underkeep is my favorite old-school dungeon crawler since Legend of Grimrock, and yes that includes Queen's Domain",
+      "url": "https://www.pcgamer.com/games/rpg/underkeep-is-my-favorite-old-school-dungeon-crawler-since-legend-of-grimrock-and-yes-that-includes-queens-domain/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 8.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/underkeep-is-my-favorite-old-school-dungeon-crawler-since-legend-of-grimrock-and-yes-that-includes-queens-domain/",
+          "titre": "Underkeep is my favorite old-school dungeon crawler since Legend of Grimrock, and yes that includes Queen's Domain"
+        }
+      ]
+    },
+    {
+      "id": "it-came-out-of-nowhere-i-was-shocked-and-sad-he-was-the-fac",
+      "titre": "'It came out of nowhere. I was shocked and sad': He was the face of Hunt: Showdown for years, then Crytek laid him off",
+      "url": "https://www.pcgamer.com/games/fps/it-came-out-of-nowhere-i-was-shocked-and-sad-he-was-the-face-of-hunt-showdown-for-years-then-crytek-laid-him-off/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 8.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/it-came-out-of-nowhere-i-was-shocked-and-sad-he-was-the-face-of-hunt-showdown-for-years-then-crytek-laid-him-off/",
+          "titre": "'It came out of nowhere. I was shocked and sad': He was the face of Hunt: Showdown for years, then Crytek laid him off"
         }
       ]
     },
@@ -731,7 +665,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -749,7 +683,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -767,8 +701,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.5,
-      "chaleur": 4,
+      "heures": 12.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -785,8 +719,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.6,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -803,13 +737,31 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.7,
-      "chaleur": 4,
+      "heures": 12.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/real-time-strategy-game-the-fertile-crescent-2-is-an-isometric-odyssey-inspired-by-age-of-empires-releasing-out-of-early-access-now",
           "titre": "Real-time strategy game The Fertile Crescent 2 is an isometric odyssey inspired by Age of Empires, with the 1.0 release out now"
+        }
+      ]
+    },
+    {
+      "id": "podcast-ocarina-still-has-the-magic-after-all-this-time",
+      "titre": "Podcast: Ocarina still has the magic after all this Time",
+      "url": "https://www.videogameschronicle.com/blog/podcast/podcast-ocarina-still-has-the-magic-after-all-this-time/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 13.6,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/blog/podcast/podcast-ocarina-still-has-the-magic-after-all-this-time/",
+          "titre": "Podcast: Ocarina still has the magic after all this Time"
         }
       ]
     },
@@ -821,8 +773,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 7.9,
-      "chaleur": 4,
+      "heures": 13.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -839,8 +791,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.1,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -857,8 +809,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.2,
-      "chaleur": 4,
+      "heures": 14.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -875,8 +827,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.2,
-      "chaleur": 4,
+      "heures": 14.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -893,8 +845,8 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 8.4,
-      "chaleur": 4,
+      "heures": 14.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Game Developer",
@@ -911,8 +863,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.1,
-      "chaleur": 4,
+      "heures": 14.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -929,8 +881,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.1,
-      "chaleur": 4,
+      "heures": 14.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -947,8 +899,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.4,
-      "chaleur": 4,
+      "heures": 15.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -965,8 +917,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.7,
-      "chaleur": 4,
+      "heures": 15.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -983,8 +935,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.8,
-      "chaleur": 4,
+      "heures": 15.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -1001,8 +953,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 4,
+      "heures": 15.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1019,8 +971,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 4,
+      "heures": 16.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -1037,8 +989,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 4,
+      "heures": 16.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1055,8 +1007,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 4,
+      "heures": 16.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -1073,8 +1025,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 4,
+      "heures": 16.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1091,8 +1043,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 4,
+      "heures": 17.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -1109,8 +1061,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 4,
+      "heures": 17.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -1127,7 +1079,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 18.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1145,13 +1097,49 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.8,
+      "heures": 18.6,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/11/new-ps-plus-perks-revealed-includes-discounts-and-free-trials",
           "titre": "New PS Plus Perks Revealed, Includes Discounts and Free Trials"
+        }
+      ]
+    },
+    {
+      "id": "is-there-any-accountability-left-in-this-world-warren-spect",
+      "titre": "\"Is there any accountability left in this world?\" Warren Spector pops off at EA executives and their massive payouts as BioWare shuts down",
+      "url": "https://www.eurogamer.net/bioware-closure-warren-spector-comments-accountability",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 19.6,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/bioware-closure-warren-spector-comments-accountability",
+          "titre": "\"Is there any accountability left in this world?\" Warren Spector pops off at EA executives and their massive payouts as BioWare shuts down"
+        }
+      ]
+    },
+    {
+      "id": "scalpers-already-want-insane-sums-for-the-ocarina-remake-wit",
+      "titre": "Scalpers Already Want Insane Sums For The Ocarina Remake With Exclusive Bits",
+      "url": "https://www.nintendolife.com/news/2026/11/scalpers-already-want-insane-sums-for-the-ocarina-remake-with-exclusive-bits",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 19.8,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/scalpers-already-want-insane-sums-for-the-ocarina-remake-with-exclusive-bits",
+          "titre": "Scalpers Already Want Insane Sums For The Ocarina Remake With Exclusive Bits"
         }
       ]
     }
