@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "06/11/2026 à 19h17",
+  "collecte": "07/11/2026 à 00h03",
   "seuil": 14,
   "sujets": [
     {
@@ -11,12 +11,11 @@ const VEILLE = {
         "Eurogamer",
         "Game Developer",
         "GamesIndustry.biz",
-        "PC Gamer",
         "Rock Paper Shotgun"
       ],
-      "reprises": 5,
-      "heures": 1.3,
-      "chaleur": 23,
+      "reprises": 4,
+      "heures": 6.1,
+      "chaleur": 18,
       "liens": [
         {
           "source": "Game Developer",
@@ -37,11 +36,6 @@ const VEILLE = {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/unity-reportedly-in-acquisition-talks-with-silver-lake-and-public-investment-fund-two-firms-involved-in-eas-55bn-buyout",
           "titre": "Unity reportedly in acquisition talks with Silver Lake and Public Investment Fund, two firms involved in EA's $55bn buyout"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/saudi-arabia-owns-ea-and-according-to-a-reuters-report-unity-is-next/",
-          "titre": "Saudi Arabia owns EA, and according to a Reuters report, Unity is next"
         }
       ]
     },
@@ -54,8 +48,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 3.0,
-      "chaleur": 12,
+      "heures": 7.8,
+      "chaleur": 10,
       "liens": [
         {
           "source": "VGC",
@@ -70,36 +64,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "a-public-petition-to-save-bioware-has-drawn-enough-signature",
-      "titre": "A public petition to save BioWare has drawn enough signatures that the Canadian government will at least have to think about it: 'This is absolutely possible,' MP says",
-      "url": "https://www.pcgamer.com/games/mass-effect/a-public-petition-to-save-bioware-has-drawn-enough-signatures-that-the-canadian-government-will-at-least-have-to-think-about-it-this-is-absolutely-possible-mp-says/",
-      "sources": [
-        "Eurogamer",
-        "PC Gamer",
-        "Push Square"
-      ],
-      "reprises": 3,
-      "heures": 3.0,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/mass-effect/a-public-petition-to-save-bioware-has-drawn-enough-signatures-that-the-canadian-government-will-at-least-have-to-think-about-it-this-is-absolutely-possible-mp-says/",
-          "titre": "A public petition to save BioWare has drawn enough signatures that the Canadian government will at least have to think about it: 'This is absolutely possible,' MP says"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/petition-to-save-mass-effect-dev-bioware-to-be-considered-by-canadas-government",
-          "titre": "Petition to Save Mass Effect Dev BioWare to Be Considered by Canada's Government"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/bioware-canada-house-of-commons-petition-save-mass-effect",
-          "titre": "Mass Effect petition has enough signatures for the Canadian Government to potentially save BioWare"
-        }
-      ]
-    },
-    {
       "id": "following-bioware-closure-a-documentary-about-the-legendary",
       "titre": "Following BioWare Closure, a Documentary About the Legendary Studio Has Been Announced",
       "url": "https://www.pushsquare.com/news/2026/11/following-bioware-closure-a-documentary-about-the-legendary-studio-has-been-announced",
@@ -108,8 +72,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 3.8,
-      "chaleur": 12,
+      "heures": 8.6,
+      "chaleur": 10,
       "liens": [
         {
           "source": "Push Square",
@@ -132,7 +96,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 4.5,
+      "heures": 9.3,
       "chaleur": 10,
       "liens": [
         {
@@ -148,6 +112,48 @@ const VEILLE = {
       ]
     },
     {
+      "id": "rockstar-s-having-sale-on-old-gta-games-on-the-only-platform",
+      "titre": "Rockstar's having sale on old GTA games on the only platform Grand Theft Auto 6 isn't coming to (ours)",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstars-having-sale-on-old-gta-games-on-the-only-platform-grand-theft-auto-6-isnt-coming-to-ours/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstars-having-sale-on-old-gta-games-on-the-only-platform-grand-theft-auto-6-isnt-coming-to-ours/",
+          "titre": "Rockstar's having sale on old GTA games on the only platform Grand Theft Auto 6 isn't coming to (ours)"
+        }
+      ]
+    },
+    {
+      "id": "updated-xbox-pc-app-promises-60-faster-loading-and-easier-ac",
+      "titre": "Updated Xbox PC app promises 60% faster loading and easier access to games, but CEO Asha Sharma says there's \"plenty more to do\"",
+      "url": "https://www.eurogamer.net/updated-xbox-pc-app-faster-asha-sharma",
+      "sources": [
+        "Eurogamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 4.1,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/updated-xbox-pc-app-faster-asha-sharma",
+          "titre": "Updated Xbox PC app promises 60% faster loading and easier access to games, but CEO Asha Sharma says there's \"plenty more to do\""
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/xbox-is-updating-its-pc-app-promising-60-faster-boot-times-and-an-easier-to-use-game-library/",
+          "titre": "Xbox is updating its PC app, promising 60% faster boot times and an easier to use game library"
+        }
+      ]
+    },
+    {
       "id": "former-rockstar-games-tech-director-thinks-gta-6-could-be-co",
       "titre": "Former Rockstar Games tech director thinks GTA 6 could be coming to PC sooner than you'd expect to curb AI clones",
       "url": "https://www.eurogamer.net/grand-theft-auto-6-pc-sooner-than-you-expect-curb-ai-clone",
@@ -156,8 +162,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 7.2,
-      "chaleur": 10,
+      "heures": 12.0,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Eurogamer",
@@ -172,66 +178,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "mass-effect-like-rpg-the-expanse-osiris-reborn-ropes-in-davi",
-      "titre": "Mass Effect-like RPG The Expanse: Osiris Reborn ropes in David Gaider, the original lead writer of Bioware's Dragon Age series",
-      "url": "https://www.eurogamer.net/mass-effect-expanse-rpg-david-gaider",
-      "sources": [
-        "Eurogamer",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 0.6,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/mass-effect-expanse-rpg-david-gaider",
-          "titre": "Mass Effect-like RPG The Expanse: Osiris Reborn ropes in David Gaider, the original lead writer of Bioware's Dragon Age series"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/heres-what-the-expanse-osiris-reborns-recast-main-character-looks-and-sounds-like",
-          "titre": "Here's What The Expanse: Osiris Reborn's Recast Main Character Looks and Sounds Like"
-        }
-      ]
-    },
-    {
-      "id": "zelda-ocarina-of-time-remake-reportedly-running-at-60-fps-on",
-      "titre": "Zelda: Ocarina of Time remake reportedly running at 60 fps on PC just hours after game's official Nintendo Switch 2 release",
-      "url": "https://www.pcgamer.com/software/zelda-ocarina-of-time-remake-reportedly-running-at-60-fps-on-pc-just-hours-after-games-official-nintendo-switch-2-release/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 7.6,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/zelda-ocarina-of-time-remake-reportedly-running-at-60-fps-on-pc-just-hours-after-games-official-nintendo-switch-2-release/",
-          "titre": "Zelda: Ocarina of Time remake reportedly running at 60 fps on PC just hours after game's official Nintendo Switch 2 release"
-        }
-      ]
-    },
-    {
-      "id": "zelnick-doesn-t-regret-gta-6-s-delay-because-shipping-an-unf",
-      "titre": "Zelnick doesn't regret GTA 6's delay because shipping an unfinished game rarely ends well: 'There was a very high profile release that fell into this category'",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/zelnick-doesnt-regret-gta-6s-delay-because-shipping-an-unfinished-game-rarely-ends-well-there-was-a-very-high-profile-release-that-fell-into-this-category/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 7.6,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/zelnick-doesnt-regret-gta-6s-delay-because-shipping-an-unfinished-game-rarely-ends-well-there-was-a-very-high-profile-release-that-fell-into-this-category/",
-          "titre": "Zelnick doesn't regret GTA 6's delay because shipping an unfinished game rarely ends well: 'There was a very high profile release that fell into this category'"
-        }
-      ]
-    },
-    {
       "id": "nintendo-is-currently-not-considering-more-switch-2-price-ch",
       "titre": "Nintendo Is Currently Not Considering More Switch 2 Price Changes",
       "url": "https://www.nintendolife.com/news/2026/11/nintendo-is-currently-not-considering-more-switch-2-price-changes",
@@ -240,7 +186,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 26.3,
+      "heures": 31.1,
       "chaleur": 9,
       "liens": [
         {
@@ -256,92 +202,74 @@ const VEILLE = {
       ]
     },
     {
-      "id": "bringing-bloodborne-back-is-tricky-because-there-s-a-lot-of",
-      "titre": "Bringing Bloodborne back is tricky because \"there's a lot of involved rights associated,\" according to former PlayStation boss",
-      "url": "https://www.eurogamer.net/bloodborne-involved-rights-former-playstation-boss",
+      "id": "sag-aftra-introduces-new-process-for-hiring-union-actors-in",
+      "titre": "SAG-AFTRA introduces new process for hiring union actors in game pitches",
+      "url": "https://www.gamedeveloper.com/production/sag-aftra-introduces-new-process-for-using-actors-in-game-pitches",
       "sources": [
-        "Eurogamer"
+        "Game Developer",
+        "GamesIndustry.biz"
       ],
-      "reprises": 1,
-      "heures": 1.5,
-      "chaleur": 8,
+      "reprises": 2,
+      "heures": 4.8,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/production/sag-aftra-introduces-new-process-for-using-actors-in-game-pitches",
+          "titre": "SAG-AFTRA introduces new process for hiring union actors in game pitches"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/sag-aftra-launches-new-video-game-agreement-enabling-devs-to-hire-professional-actors-for-demos-and-vertical-slices",
+          "titre": "SAG-AFTRA launches new video game agreement enabling devs to hire professional actors for demos and vertical slices"
+        }
+      ]
+    },
+    {
+      "id": "mass-effect-like-rpg-the-expanse-osiris-reborn-ropes-in-davi",
+      "titre": "Mass Effect-like RPG The Expanse: Osiris Reborn ropes in David Gaider, the original lead writer of Bioware's Dragon Age series",
+      "url": "https://www.eurogamer.net/mass-effect-expanse-rpg-david-gaider",
+      "sources": [
+        "Eurogamer",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 5.4,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/bloodborne-involved-rights-former-playstation-boss",
-          "titre": "Bringing Bloodborne back is tricky because \"there's a lot of involved rights associated,\" according to former PlayStation boss"
+          "url": "https://www.eurogamer.net/mass-effect-expanse-rpg-david-gaider",
+          "titre": "Mass Effect-like RPG The Expanse: Osiris Reborn ropes in David Gaider, the original lead writer of Bioware's Dragon Age series"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/heres-what-the-expanse-osiris-reborns-recast-main-character-looks-and-sounds-like",
+          "titre": "Here's What The Expanse: Osiris Reborn's Recast Main Character Looks and Sounds Like"
         }
       ]
     },
     {
-      "id": "zelda-oot-remake-lost-woods-map-how-to-navigate",
-      "titre": "Zelda OOT Remake: Lost Woods map, how to navigate",
-      "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-lost-woods-map-how-to-navigate/",
+      "id": "a-public-petition-to-save-bioware-has-drawn-enough-signature",
+      "titre": "A public petition to save BioWare has drawn enough signatures that the Canadian government will at least have to think about it: 'This is absolutely possible,' MP says",
+      "url": "https://www.pcgamer.com/games/mass-effect/a-public-petition-to-save-bioware-has-drawn-enough-signatures-that-the-canadian-government-will-at-least-have-to-think-about-it-this-is-absolutely-possible-mp-says/",
       "sources": [
-        "VGC"
+        "PC Gamer",
+        "Push Square"
       ],
-      "reprises": 1,
-      "heures": 1.8,
-      "chaleur": 8,
+      "reprises": 2,
+      "heures": 7.8,
+      "chaleur": 7,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-lost-woods-map-how-to-navigate/",
-          "titre": "Zelda OOT Remake: Lost Woods map, how to navigate"
-        }
-      ]
-    },
-    {
-      "id": "psa-want-to-learn-link-s-ocarina-tunes-nintendo-s-got-the-sh",
-      "titre": "PSA: Want To Learn Link's Ocarina Tunes? Nintendo's Got The Sheet Music For All Of Them",
-      "url": "https://www.nintendolife.com/news/2026/11/psa-want-to-learn-links-ocarina-tunes-nintendos-got-the-sheet-music-for-all-of-them",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 8,
-      "liens": [
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/mass-effect/a-public-petition-to-save-bioware-has-drawn-enough-signatures-that-the-canadian-government-will-at-least-have-to-think-about-it-this-is-absolutely-possible-mp-says/",
+          "titre": "A public petition to save BioWare has drawn enough signatures that the Canadian government will at least have to think about it: 'This is absolutely possible,' MP says"
+        },
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/psa-want-to-learn-links-ocarina-tunes-nintendos-got-the-sheet-music-for-all-of-them",
-          "titre": "PSA: Want To Learn Link's Ocarina Tunes? Nintendo's Got The Sheet Music For All Of Them"
-        }
-      ]
-    },
-    {
-      "id": "review-titanium-court-switch-2-the-freakiest-dream-you-ve-ev",
-      "titre": "Review: Titanium Court (Switch 2) - The Freakiest Dream You've Ever Had",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/titanium-court",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/titanium-court",
-          "titre": "Review: Titanium Court (Switch 2) - The Freakiest Dream You've Ever Had"
-        }
-      ]
-    },
-    {
-      "id": "i-just-found-out-you-can-use-your-steam-wishlist-to-search-f",
-      "titre": "I just found out you can use your Steam Wishlist to search for deals on games outside of Steam, saving my nephew more than £40 on Total War: Warhammer 3",
-      "url": "https://www.rockpapershotgun.com/i-just-found-out-you-can-use-your-steam-wishlist-to-search-for-deals-on-games-outside-of-steam-saving-my-nephew-more-than-40-on-total-war-warhammer-3",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/i-just-found-out-you-can-use-your-steam-wishlist-to-search-for-deals-on-games-outside-of-steam-saving-my-nephew-more-than-40-on-total-war-warhammer-3",
-          "titre": "I just found out you can use your Steam Wishlist to search for deals on games outside of Steam, saving my nephew more than £40 on Total War: Warhammer 3"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/petition-to-save-mass-effect-dev-bioware-to-be-considered-by-canadas-government",
+          "titre": "Petition to Save Mass Effect Dev BioWare to Be Considered by Canada's Government"
         }
       ]
     },
@@ -353,7 +281,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 9.8,
       "chaleur": 7,
       "liens": [
         {
@@ -371,7 +299,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.2,
+      "heures": 12.0,
       "chaleur": 7,
       "liens": [
         {
@@ -389,7 +317,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 25.6,
+      "heures": 30.4,
       "chaleur": 7,
       "liens": [
         {
@@ -400,182 +328,164 @@ const VEILLE = {
       ]
     },
     {
-      "id": "game-of-the-month-phantom-blade-zero-october-2026",
-      "titre": "Game of the Month: Phantom Blade Zero (October 2026)",
-      "url": "https://www.pushsquare.com/features/game-of-the-month-phantom-blade-zero-october-2026",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 1.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/game-of-the-month-phantom-blade-zero-october-2026",
-          "titre": "Game of the Month: Phantom Blade Zero (October 2026)"
-        }
-      ]
-    },
-    {
-      "id": "it-s-hard-to-meet-women-when-i-keep-teleporting-all-the-time",
-      "titre": "It's hard to meet women when I keep teleporting all the time",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/its-hard-to-meet-women-when-i-keep-teleporting-all-the-time/",
+      "id": "here-s-what-s-in-path-of-exile-2-s-huge-1-0-release-coming-i",
+      "titre": "Here's what's in Path of Exile 2’s huge 1.0 release, coming in December",
+      "url": "https://www.pcgamer.com/games/rpg/heres-whats-in-path-of-exile-2s-huge-1-0-release-coming-in-december/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.3,
+      "heures": 0.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/its-hard-to-meet-women-when-i-keep-teleporting-all-the-time/",
-          "titre": "It's hard to meet women when I keep teleporting all the time"
+          "url": "https://www.pcgamer.com/games/rpg/heres-whats-in-path-of-exile-2s-huge-1-0-release-coming-in-december/",
+          "titre": "Here's what's in Path of Exile 2’s huge 1.0 release, coming in December"
         }
       ]
     },
     {
-      "id": "all-that-stands-between-a-hacker-and-admin-privileges-on-som",
-      "titre": "All that stands between a hacker and admin privileges on some Linux distros is a 257-character long string of literally anything",
-      "url": "https://www.pcgamer.com/software/linux/all-that-stands-between-a-hacker-and-admin-privileges-on-some-linux-distros-is-a-257-character-long-string-of-literally-anything/",
+      "id": "the-ai-posting-war-is-heating-up-please-leave-me-behind-says",
+      "titre": "The AI posting war is heating up: 'Please, leave me behind,' says artist who got into it with Epic CEO Tim Sweeney on X",
+      "url": "https://www.pcgamer.com/software/ai/the-ai-posting-war-is-heating-up-please-leave-me-behind-says-artist-who-got-into-it-with-epic-ceo-tim-sweeney-on-x/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 1.7,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/linux/all-that-stands-between-a-hacker-and-admin-privileges-on-some-linux-distros-is-a-257-character-long-string-of-literally-anything/",
-          "titre": "All that stands between a hacker and admin privileges on some Linux distros is a 257-character long string of literally anything"
+          "url": "https://www.pcgamer.com/software/ai/the-ai-posting-war-is-heating-up-please-leave-me-behind-says-artist-who-got-into-it-with-epic-ceo-tim-sweeney-on-x/",
+          "titre": "The AI posting war is heating up: 'Please, leave me behind,' says artist who got into it with Epic CEO Tim Sweeney on X"
         }
       ]
     },
     {
-      "id": "here-s-a-closer-look-at-marvel-cosmic-invasion-s-new-dlc-gam",
-      "titre": "Here's A Closer Look At Marvel Cosmic Invasion's New DLC Game Mode",
-      "url": "https://www.nintendolife.com/news/2026/11/heres-a-closer-look-at-marvel-cosmic-invasions-new-dlc-game-mode",
+      "id": "underkeep-is-my-favorite-old-school-dungeon-crawler-since-le",
+      "titre": "Underkeep is my favorite old-school dungeon crawler since Legend of Grimrock, and yes that includes Queen's Domain",
+      "url": "https://www.pcgamer.com/games/rpg/underkeep-is-my-favorite-old-school-dungeon-crawler-since-legend-of-grimrock-and-yes-that-includes-queens-domain/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/underkeep-is-my-favorite-old-school-dungeon-crawler-since-legend-of-grimrock-and-yes-that-includes-queens-domain/",
+          "titre": "Underkeep is my favorite old-school dungeon crawler since Legend of Grimrock, and yes that includes Queen's Domain"
+        }
+      ]
+    },
+    {
+      "id": "it-came-out-of-nowhere-i-was-shocked-and-sad-he-was-the-fac",
+      "titre": "'It came out of nowhere. I was shocked and sad': He was the face of Hunt: Showdown for years, then Crytek laid him off",
+      "url": "https://www.pcgamer.com/games/fps/it-came-out-of-nowhere-i-was-shocked-and-sad-he-was-the-face-of-hunt-showdown-for-years-then-crytek-laid-him-off/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 3.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/it-came-out-of-nowhere-i-was-shocked-and-sad-he-was-the-face-of-hunt-showdown-for-years-then-crytek-laid-him-off/",
+          "titre": "'It came out of nowhere. I was shocked and sad': He was the face of Hunt: Showdown for years, then Crytek laid him off"
+        }
+      ]
+    },
+    {
+      "id": "bringing-bloodborne-back-is-tricky-because-there-s-a-lot-of",
+      "titre": "Bringing Bloodborne back is tricky because \"there's a lot of involved rights associated,\" according to former PlayStation boss",
+      "url": "https://www.eurogamer.net/bloodborne-involved-rights-former-playstation-boss",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 6.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/bloodborne-involved-rights-former-playstation-boss",
+          "titre": "Bringing Bloodborne back is tricky because \"there's a lot of involved rights associated,\" according to former PlayStation boss"
+        }
+      ]
+    },
+    {
+      "id": "zelda-oot-remake-lost-woods-map-how-to-navigate",
+      "titre": "Zelda OOT Remake: Lost Woods map, how to navigate",
+      "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-lost-woods-map-how-to-navigate/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 6.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-lost-woods-map-how-to-navigate/",
+          "titre": "Zelda OOT Remake: Lost Woods map, how to navigate"
+        }
+      ]
+    },
+    {
+      "id": "psa-want-to-learn-link-s-ocarina-tunes-nintendo-s-got-the-sh",
+      "titre": "PSA: Want To Learn Link's Ocarina Tunes? Nintendo's Got The Sheet Music For All Of Them",
+      "url": "https://www.nintendolife.com/news/2026/11/psa-want-to-learn-links-ocarina-tunes-nintendos-got-the-sheet-music-for-all-of-them",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.8,
+      "heures": 7.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/heres-a-closer-look-at-marvel-cosmic-invasions-new-dlc-game-mode",
-          "titre": "Here's A Closer Look At Marvel Cosmic Invasion's New DLC Game Mode"
+          "url": "https://www.nintendolife.com/news/2026/11/psa-want-to-learn-links-ocarina-tunes-nintendos-got-the-sheet-music-for-all-of-them",
+          "titre": "PSA: Want To Learn Link's Ocarina Tunes? Nintendo's Got The Sheet Music For All Of Them"
         }
       ]
     },
     {
-      "id": "real-time-strategy-game-the-fertile-crescent-2-is-an-isometr",
-      "titre": "Real-time strategy game The Fertile Crescent 2 is an isometric odyssey inspired by Age of Empires, with the 1.0 release out now",
-      "url": "https://www.rockpapershotgun.com/real-time-strategy-game-the-fertile-crescent-2-is-an-isometric-odyssey-inspired-by-age-of-empires-releasing-out-of-early-access-now",
+      "id": "review-titanium-court-switch-2-the-freakiest-dream-you-ve-ev",
+      "titre": "Review: Titanium Court (Switch 2) - The Freakiest Dream You've Ever Had",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/titanium-court",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 8.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/titanium-court",
+          "titre": "Review: Titanium Court (Switch 2) - The Freakiest Dream You've Ever Had"
+        }
+      ]
+    },
+    {
+      "id": "i-just-found-out-you-can-use-your-steam-wishlist-to-search-f",
+      "titre": "I just found out you can use your Steam Wishlist to search for deals on games outside of Steam, saving my nephew more than £40 on Total War: Warhammer 3",
+      "url": "https://www.rockpapershotgun.com/i-just-found-out-you-can-use-your-steam-wishlist-to-search-for-deals-on-games-outside-of-steam-saving-my-nephew-more-than-40-on-total-war-warhammer-3",
       "sources": [
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 8.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/real-time-strategy-game-the-fertile-crescent-2-is-an-isometric-odyssey-inspired-by-age-of-empires-releasing-out-of-early-access-now",
-          "titre": "Real-time strategy game The Fertile Crescent 2 is an isometric odyssey inspired by Age of Empires, with the 1.0 release out now"
-        }
-      ]
-    },
-    {
-      "id": "elections-signal-cultural-shifts-that-no-creative-industry-c",
-      "titre": "Elections signal cultural shifts that no creative industry can dare to ignore | Opinion",
-      "url": "https://www.gamesindustry.biz/elections-signal-cultural-shifts-that-no-creative-industry-can-dare-to-ignore-opinion",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/elections-signal-cultural-shifts-that-no-creative-industry-can-dare-to-ignore-opinion",
-          "titre": "Elections signal cultural shifts that no creative industry can dare to ignore | Opinion"
-        }
-      ]
-    },
-    {
-      "id": "epomaker-he75-v2-tmr-review",
-      "titre": "Epomaker HE75 V2 TMR review",
-      "url": "https://www.pcgamer.com/hardware/gaming-keyboards/epomaker-he75-v2-tmr-review/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-keyboards/epomaker-he75-v2-tmr-review/",
-          "titre": "Epomaker HE75 V2 TMR review"
-        }
-      ]
-    },
-    {
-      "id": "david-gaider-has-been-working-on-owlcat-s-expanse-rpg-the-ex",
-      "titre": "David Gaider has been working on Owlcat's Expanse RPG: 'The Expanse has long been one of my favourite series, and so obviously I jumped at the opportunity to be involved'",
-      "url": "https://www.pcgamer.com/games/rpg/david-gaider-has-been-working-on-owlcats-expanse-rpg-the-expanse-has-long-been-one-of-my-favourite-series-and-so-obviously-i-jumped-at-the-opportunity-to-be-involved/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/david-gaider-has-been-working-on-owlcats-expanse-rpg-the-expanse-has-long-been-one-of-my-favourite-series-and-so-obviously-i-jumped-at-the-opportunity-to-be-involved/",
-          "titre": "David Gaider has been working on Owlcat's Expanse RPG: 'The Expanse has long been one of my favourite series, and so obviously I jumped at the opportunity to be involved'"
-        }
-      ]
-    },
-    {
-      "id": "wow-forever-takes-250-000-gb-of-memory-to-run-and-i-can-t-ev",
-      "titre": "WoW: Forever takes 250,000 GB of memory to run, and I can't even joke about Sam Altman being jealous because that's almost nothing compared to the monolithic demands of AI",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-takes-250-000-gb-of-memory-to-run-and-i-cant-even-joke-about-sam-altman-being-jealous-because-thats-almost-nothing-compared-to-the-monolithic-demands-of-ai/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-takes-250-000-gb-of-memory-to-run-and-i-cant-even-joke-about-sam-altman-being-jealous-because-thats-almost-nothing-compared-to-the-monolithic-demands-of-ai/",
-          "titre": "WoW: Forever takes 250,000 GB of memory to run, and I can't even joke about Sam Altman being jealous because that's almost nothing compared to the monolithic demands of AI"
-        }
-      ]
-    },
-    {
-      "id": "sony-insists-its-next-generation-console-plans-are-still-on",
-      "titre": "Sony insists its next-generation console plans are still on schedule",
-      "url": "https://www.gamedeveloper.com/console/sony-insists-next-generation-consoles-are-still-on-schedule-in-new-financial-report",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/console/sony-insists-next-generation-consoles-are-still-on-schedule-in-new-financial-report",
-          "titre": "Sony insists its next-generation console plans are still on schedule"
+          "url": "https://www.rockpapershotgun.com/i-just-found-out-you-can-use-your-steam-wishlist-to-search-for-deals-on-games-outside-of-steam-saving-my-nephew-more-than-40-on-total-war-warhammer-3",
+          "titre": "I just found out you can use your Steam Wishlist to search for deals on games outside of Steam, saving my nephew more than £40 on Total War: Warhammer 3"
         }
       ]
     },
@@ -587,31 +497,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 9.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-find-richard-the-dog-in-castle-town-market-at-night/",
           "titre": "Zelda OOT Remake: Find Richard the Dog in Castle Town Market at night"
-        }
-      ]
-    },
-    {
-      "id": "xbox-is-updating-its-pc-app-promising-60-faster-boot-times-a",
-      "titre": "Xbox is updating its PC app, promising 60% faster boot times and an easier to use game library",
-      "url": "https://www.videogameschronicle.com/news/xbox-is-updating-its-pc-app-promising-60-faster-boot-times-and-an-easier-to-use-game-library/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 6.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/xbox-is-updating-its-pc-app-promising-60-faster-boot-times-and-an-easier-to-use-game-library/",
-          "titre": "Xbox is updating its PC app, promising 60% faster boot times and an easier to use game library"
         }
       ]
     },
@@ -623,49 +515,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.7,
+      "heures": 11.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/steam-gets-a-boatload-of-restored-wing-commanders-and-ultima-ports-after-ea-producer-stumbles-across-cupboard-of-old-tapes",
           "titre": "Steam gets a boatload of restored Wing Commanders and Ultima ports after EA producer stumbles across cupboard of old tapes"
-        }
-      ]
-    },
-    {
-      "id": "unity-reports-strongest-ever-q3-results-driven-by-its-ai-pow",
-      "titre": "Unity reports \"strongest ever\" Q3 results driven by its AI-powered ad network Vector",
-      "url": "https://www.gamesindustry.biz/unity-reports-strongest-ever-q3-results-driven-by-its-ai-powered-ad-network-vector",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 9.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/unity-reports-strongest-ever-q3-results-driven-by-its-ai-powered-ad-network-vector",
-          "titre": "Unity reports \"strongest ever\" Q3 results driven by its AI-powered ad network Vector"
-        }
-      ]
-    },
-    {
-      "id": "remakes-and-new-games-both-have-a-place-in-the-stable-says-n",
-      "titre": "Remakes and new games \"both have a place in the stable\" says Nintendo boss, buoyed by the success of Star Fox and Ocarina of Time",
-      "url": "https://www.eurogamer.net/remakes-and-new-games-both-have-a-place-in-the-stable-says-nintendo-boss-buoyed-by-the-success-of-star-fox-and-ocarina-of-time",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 9.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/remakes-and-new-games-both-have-a-place-in-the-stable-says-nintendo-boss-buoyed-by-the-success-of-star-fox-and-ocarina-of-time",
-          "titre": "Remakes and new games \"both have a place in the stable\" says Nintendo boss, buoyed by the success of Star Fox and Ocarina of Time"
         }
       ]
     },
@@ -677,7 +533,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 18.1,
       "chaleur": 6,
       "liens": [
         {
@@ -695,7 +551,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.5,
+      "heures": 19.3,
       "chaleur": 6,
       "liens": [
         {
@@ -713,7 +569,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 20.3,
       "chaleur": 6,
       "liens": [
         {
@@ -731,7 +587,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 21.1,
       "chaleur": 6,
       "liens": [
         {
@@ -749,7 +605,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.9,
+      "heures": 22.6,
       "chaleur": 6,
       "liens": [
         {
@@ -767,7 +623,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 27.8,
+      "heures": 32.6,
       "chaleur": 6,
       "liens": [
         {
@@ -785,7 +641,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 29.1,
+      "heures": 33.8,
       "chaleur": 6,
       "liens": [
         {
@@ -796,20 +652,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "xbox-enters-the-faster-pc-launcher-arms-race-its-app-loads-f",
-      "titre": "Xbox enters the 'faster PC launcher' arms race, its app loads faster now too",
-      "url": "https://www.pcgamer.com/software/platforms/xbox-enters-the-faster-pc-launcher-arms-race-its-app-loads-faster-now-too/",
+      "id": "unity-reports-strongest-ever-q3-results-driven-by-its-ai-pow",
+      "titre": "Unity reports \"strongest ever\" Q3 results driven by its AI-powered ad network Vector",
+      "url": "https://www.gamesindustry.biz/unity-reports-strongest-ever-q3-results-driven-by-its-ai-powered-ad-network-vector",
       "sources": [
-        "PC Gamer"
+        "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 20.7,
+      "heures": 14.0,
       "chaleur": 5,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/platforms/xbox-enters-the-faster-pc-launcher-arms-race-its-app-loads-faster-now-too/",
-          "titre": "Xbox enters the 'faster PC launcher' arms race, its app loads faster now too"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/unity-reports-strongest-ever-q3-results-driven-by-its-ai-powered-ad-network-vector",
+          "titre": "Unity reports \"strongest ever\" Q3 results driven by its AI-powered ad network Vector"
+        }
+      ]
+    },
+    {
+      "id": "remakes-and-new-games-both-have-a-place-in-the-stable-says-n",
+      "titre": "Remakes and new games \"both have a place in the stable\" says Nintendo boss, buoyed by the success of Star Fox and Ocarina of Time",
+      "url": "https://www.eurogamer.net/remakes-and-new-games-both-have-a-place-in-the-stable-says-nintendo-boss-buoyed-by-the-success-of-star-fox-and-ocarina-of-time",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 14.4,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/remakes-and-new-games-both-have-a-place-in-the-stable-says-nintendo-boss-buoyed-by-the-success-of-star-fox-and-ocarina-of-time",
+          "titre": "Remakes and new games \"both have a place in the stable\" says Nintendo boss, buoyed by the success of Star Fox and Ocarina of Time"
         }
       ]
     },
@@ -821,7 +695,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.3,
+      "heures": 30.1,
       "chaleur": 5,
       "liens": [
         {
@@ -839,7 +713,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 28.3,
+      "heures": 33.1,
       "chaleur": 5,
       "liens": [
         {
@@ -850,38 +724,182 @@ const VEILLE = {
       ]
     },
     {
-      "id": "playstation-raises-full-year-forecast-after-revenue-growth-i",
-      "titre": "PlayStation raises full-year forecast after revenue growth in network services and first-party software",
-      "url": "https://www.gamesindustry.biz/playstation-raises-full-year-forecast-after-revenue-growth-in-network-services-and-first-party-software",
+      "id": "game-of-the-month-phantom-blade-zero-october-2026",
+      "titre": "Game of the Month: Phantom Blade Zero (October 2026)",
+      "url": "https://www.pushsquare.com/features/game-of-the-month-phantom-blade-zero-october-2026",
       "sources": [
-        "GamesIndustry.biz"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 31.4,
-      "chaleur": 5,
+      "heures": 6.1,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/playstation-raises-full-year-forecast-after-revenue-growth-in-network-services-and-first-party-software",
-          "titre": "PlayStation raises full-year forecast after revenue growth in network services and first-party software"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/game-of-the-month-phantom-blade-zero-october-2026",
+          "titre": "Game of the Month: Phantom Blade Zero (October 2026)"
         }
       ]
     },
     {
-      "id": "nintendo-h1-operating-profit-rises-49-1-supported-by-new-tit",
-      "titre": "Nintendo H1 operating profit rises 49.1% supported by new titles including Splatoon Raiders",
-      "url": "https://www.gamesindustry.biz/nintendo-h1-operating-profit-rises-491-supported-by-new-titles-including-splatoon-raiders",
+      "id": "it-s-hard-to-meet-women-when-i-keep-teleporting-all-the-time",
+      "titre": "It's hard to meet women when I keep teleporting all the time",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/its-hard-to-meet-women-when-i-keep-teleporting-all-the-time/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/its-hard-to-meet-women-when-i-keep-teleporting-all-the-time/",
+          "titre": "It's hard to meet women when I keep teleporting all the time"
+        }
+      ]
+    },
+    {
+      "id": "all-that-stands-between-a-hacker-and-admin-privileges-on-som",
+      "titre": "All that stands between a hacker and admin privileges on some Linux distros is a 257-character long string of literally anything",
+      "url": "https://www.pcgamer.com/software/linux/all-that-stands-between-a-hacker-and-admin-privileges-on-some-linux-distros-is-a-257-character-long-string-of-literally-anything/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/linux/all-that-stands-between-a-hacker-and-admin-privileges-on-some-linux-distros-is-a-257-character-long-string-of-literally-anything/",
+          "titre": "All that stands between a hacker and admin privileges on some Linux distros is a 257-character long string of literally anything"
+        }
+      ]
+    },
+    {
+      "id": "here-s-a-closer-look-at-marvel-cosmic-invasion-s-new-dlc-gam",
+      "titre": "Here's A Closer Look At Marvel Cosmic Invasion's New DLC Game Mode",
+      "url": "https://www.nintendolife.com/news/2026/11/heres-a-closer-look-at-marvel-cosmic-invasions-new-dlc-game-mode",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 6.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/heres-a-closer-look-at-marvel-cosmic-invasions-new-dlc-game-mode",
+          "titre": "Here's A Closer Look At Marvel Cosmic Invasion's New DLC Game Mode"
+        }
+      ]
+    },
+    {
+      "id": "real-time-strategy-game-the-fertile-crescent-2-is-an-isometr",
+      "titre": "Real-time strategy game The Fertile Crescent 2 is an isometric odyssey inspired by Age of Empires, with the 1.0 release out now",
+      "url": "https://www.rockpapershotgun.com/real-time-strategy-game-the-fertile-crescent-2-is-an-isometric-odyssey-inspired-by-age-of-empires-releasing-out-of-early-access-now",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 6.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/real-time-strategy-game-the-fertile-crescent-2-is-an-isometric-odyssey-inspired-by-age-of-empires-releasing-out-of-early-access-now",
+          "titre": "Real-time strategy game The Fertile Crescent 2 is an isometric odyssey inspired by Age of Empires, with the 1.0 release out now"
+        }
+      ]
+    },
+    {
+      "id": "elections-signal-cultural-shifts-that-no-creative-industry-c",
+      "titre": "Elections signal cultural shifts that no creative industry can dare to ignore | Opinion",
+      "url": "https://www.gamesindustry.biz/elections-signal-cultural-shifts-that-no-creative-industry-can-dare-to-ignore-opinion",
       "sources": [
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 33.3,
-      "chaleur": 5,
+      "heures": 7.9,
+      "chaleur": 4,
       "liens": [
         {
           "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/nintendo-h1-operating-profit-rises-491-supported-by-new-titles-including-splatoon-raiders",
-          "titre": "Nintendo H1 operating profit rises 49.1% supported by new titles including Splatoon Raiders"
+          "url": "https://www.gamesindustry.biz/elections-signal-cultural-shifts-that-no-creative-industry-can-dare-to-ignore-opinion",
+          "titre": "Elections signal cultural shifts that no creative industry can dare to ignore | Opinion"
+        }
+      ]
+    },
+    {
+      "id": "epomaker-he75-v2-tmr-review",
+      "titre": "Epomaker HE75 V2 TMR review",
+      "url": "https://www.pcgamer.com/hardware/gaming-keyboards/epomaker-he75-v2-tmr-review/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 8.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-keyboards/epomaker-he75-v2-tmr-review/",
+          "titre": "Epomaker HE75 V2 TMR review"
+        }
+      ]
+    },
+    {
+      "id": "david-gaider-has-been-working-on-owlcat-s-expanse-rpg-the-ex",
+      "titre": "David Gaider has been working on Owlcat's Expanse RPG: 'The Expanse has long been one of my favourite series, and so obviously I jumped at the opportunity to be involved'",
+      "url": "https://www.pcgamer.com/games/rpg/david-gaider-has-been-working-on-owlcats-expanse-rpg-the-expanse-has-long-been-one-of-my-favourite-series-and-so-obviously-i-jumped-at-the-opportunity-to-be-involved/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 8.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/david-gaider-has-been-working-on-owlcats-expanse-rpg-the-expanse-has-long-been-one-of-my-favourite-series-and-so-obviously-i-jumped-at-the-opportunity-to-be-involved/",
+          "titre": "David Gaider has been working on Owlcat's Expanse RPG: 'The Expanse has long been one of my favourite series, and so obviously I jumped at the opportunity to be involved'"
+        }
+      ]
+    },
+    {
+      "id": "wow-forever-takes-250-000-gb-of-memory-to-run-and-i-can-t-ev",
+      "titre": "WoW: Forever takes 250,000 GB of memory to run, and I can't even joke about Sam Altman being jealous because that's almost nothing compared to the monolithic demands of AI",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-takes-250-000-gb-of-memory-to-run-and-i-cant-even-joke-about-sam-altman-being-jealous-because-thats-almost-nothing-compared-to-the-monolithic-demands-of-ai/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 8.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-takes-250-000-gb-of-memory-to-run-and-i-cant-even-joke-about-sam-altman-being-jealous-because-thats-almost-nothing-compared-to-the-monolithic-demands-of-ai/",
+          "titre": "WoW: Forever takes 250,000 GB of memory to run, and I can't even joke about Sam Altman being jealous because that's almost nothing compared to the monolithic demands of AI"
+        }
+      ]
+    },
+    {
+      "id": "sony-insists-its-next-generation-console-plans-are-still-on",
+      "titre": "Sony insists its next-generation console plans are still on schedule",
+      "url": "https://www.gamedeveloper.com/console/sony-insists-next-generation-consoles-are-still-on-schedule-in-new-financial-report",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 8.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/console/sony-insists-next-generation-consoles-are-still-on-schedule-in-new-financial-report",
+          "titre": "Sony insists its next-generation console plans are still on schedule"
         }
       ]
     },
@@ -893,7 +911,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 9.1,
       "chaleur": 4,
       "liens": [
         {
@@ -911,31 +929,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 9.1,
       "chaleur": 4,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/terrific-fantasy-rpg-queens-blade-gets-first-proper-update-adding-a-new-throwing-weapon-and-options-to-make-puzzles-less-frustrating",
           "titre": "Terrific fantasy RPG Queen's Domain gets first proper update, adding a new throwing weapon and options to make puzzles \"less frustrating\""
-        }
-      ]
-    },
-    {
-      "id": "sag-aftra-launches-new-video-game-agreement-enabling-devs-to",
-      "titre": "SAG-AFTRA launches new video game agreement enabling devs to hire professional actors for demos and vertical slices",
-      "url": "https://www.gamesindustry.biz/sag-aftra-launches-new-video-game-agreement-enabling-devs-to-hire-professional-actors-for-demos-and-vertical-slices",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 4.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/sag-aftra-launches-new-video-game-agreement-enabling-devs-to-hire-professional-actors-for-demos-and-vertical-slices",
-          "titre": "SAG-AFTRA launches new video game agreement enabling devs to hire professional actors for demos and vertical slices"
         }
       ]
     },
@@ -947,7 +947,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 9.4,
       "chaleur": 4,
       "liens": [
         {
@@ -965,7 +965,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 9.7,
       "chaleur": 4,
       "liens": [
         {
@@ -983,7 +983,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 9.8,
       "chaleur": 4,
       "liens": [
         {
@@ -1001,7 +1001,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 10.1,
       "chaleur": 4,
       "liens": [
         {
@@ -1019,7 +1019,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 10.2,
       "chaleur": 4,
       "liens": [
         {
@@ -1037,7 +1037,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 10.2,
       "chaleur": 4,
       "liens": [
         {
@@ -1055,7 +1055,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 10.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1073,7 +1073,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 10.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1091,7 +1091,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.7,
+      "heures": 11.5,
       "chaleur": 4,
       "liens": [
         {
@@ -1109,7 +1109,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 11.6,
       "chaleur": 4,
       "liens": [
         {
@@ -1127,8 +1127,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 7.8,
-      "chaleur": 4,
+      "heures": 12.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -1138,25 +1138,23 @@ const VEILLE = {
       ]
     },
     {
-      "id": "wow-forever-is-working-on-its-server-tech-to-make-cities-les",
-      "titre": "WoW: Forever is working on its server tech to make cities less empty, say devs",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-is-working-on-its-server-tech-to-make-cities-less-empty-say-devs/",
+      "id": "new-ps-plus-perks-revealed-includes-discounts-and-free-trial",
+      "titre": "New PS Plus Perks Revealed, Includes Discounts and Free Trials",
+      "url": "https://www.pushsquare.com/news/2026/11/new-ps-plus-perks-revealed-includes-discounts-and-free-trials",
       "sources": [
-        "PC Gamer"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.8,
-      "chaleur": 4,
+      "heures": 12.8,
+      "chaleur": 3,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-is-working-on-its-server-tech-to-make-cities-less-empty-say-devs/",
-          "titre": "WoW: Forever is working on its server tech to make cities less empty, say devs"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/new-ps-plus-perks-revealed-includes-discounts-and-free-trials",
+          "titre": "New PS Plus Perks Revealed, Includes Discounts and Free Trials"
         }
       ]
     }
   ],
-  "alertes": [
-    "Report: Silver Lake and the Saudi Arabia PIF hold talks with Unity to explore acquisition"
-  ]
+  "alertes": []
 };
