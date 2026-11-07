@@ -1,65 +1,83 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "07/11/2026 à 18h40",
+  "collecte": "07/11/2026 à 23h36",
   "seuil": 14,
   "sujets": [
     {
-      "id": "report-silver-lake-and-the-saudi-arabia-pif-hold-talks-with",
-      "titre": "Report: Silver Lake and the Saudi Arabia PIF hold talks with Unity to explore acquisition",
-      "url": "https://www.gamedeveloper.com/business/silver-lake-and-the-saudi-arabia-pif-hold-talks-with-unity-to-explore-acquisition",
+      "id": "sony-indefinitely-delays-another-ps5-peripheral-days-before",
+      "titre": "Sony Indefinitely Delays Another PS5 Peripheral Days Before Release",
+      "url": "https://www.pushsquare.com/news/2026/11/sony-indefinitely-delays-another-ps5-peripheral-days-before-release",
       "sources": [
         "Eurogamer",
-        "Game Developer",
-        "GamesIndustry.biz",
-        "Rock Paper Shotgun"
+        "Push Square"
       ],
-      "reprises": 4,
-      "heures": 24.7,
-      "chaleur": 17,
+      "reprises": 2,
+      "heures": 0.0,
+      "chaleur": 13,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/silver-lake-and-the-saudi-arabia-pif-hold-talks-with-unity-to-explore-acquisition",
-          "titre": "Report: Silver Lake and the Saudi Arabia PIF hold talks with Unity to explore acquisition"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/after-taking-over-ea-saudi-arabia-and-their-private-equity-cronies-have-reportedly-held-talks-about-buying-unity",
-          "titre": "After taking over EA, Saudi Arabia and their private equity cronies have reportedly held talks about buying Unity"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/sony-indefinitely-delays-another-ps5-peripheral-days-before-release",
+          "titre": "Sony Indefinitely Delays Another PS5 Peripheral Days Before Release"
         },
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/unity-game-engine-saudi-arabia-silver-lake",
-          "titre": "After gobbling up EA, Saudi Arabia and private equity firm Silver Lake reportedly looking to buy Unity"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/unity-reportedly-in-acquisition-talks-with-silver-lake-and-public-investment-fund-two-firms-involved-in-eas-55bn-buyout",
-          "titre": "Unity reportedly in acquisition talks with Silver Lake and Public Investment Fund, two firms involved in EA's $55bn buyout"
+          "url": "https://www.eurogamer.net/playstation-pulse-elevate-speakers-delayed-indefinitely-production-issue",
+          "titre": "Sony delays PlayStation's Pulse Elevate speakers indefinitely, less than a week before launch"
         }
       ]
     },
     {
-      "id": "zelda-oot-remake-business-scrub-password-solution",
-      "titre": "Zelda OOT Remake: Business Scrub Password solution",
-      "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-business-scrub-password-solution/",
+      "id": "star-wars-zero-company-studio-bit-reactor-lays-off-staff-a-m",
+      "titre": "Star Wars Zero Company studio Bit Reactor lays off staff, a month after bringing furloughed developers back",
+      "url": "https://www.eurogamer.net/star-wars-zero-company-bit-reactor-layoffs",
       "sources": [
-        "GamesIndustry.biz",
-        "VGC"
+        "Eurogamer",
+        "PC Gamer",
+        "Rock Paper Shotgun"
       ],
-      "reprises": 2,
-      "heures": 0.6,
-      "chaleur": 11,
+      "reprises": 3,
+      "heures": 3.5,
+      "chaleur": 12,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-business-scrub-password-solution/",
-          "titre": "Zelda OOT Remake: Business Scrub Password solution"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/star-wars-zero-company-bit-reactor-layoffs",
+          "titre": "Star Wars Zero Company studio Bit Reactor lays off staff, a month after bringing furloughed developers back"
         },
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/how-to-get-investment-for-your-video-game-in-2026",
-          "titre": "How to get investment for your video game in 2026"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/after-star-wars-zero-company-dev-bit-reactor-brought-back-an-unspecified-number-of-furloughed-devs-some-of-those-who-werent-have-seemingly-been-laid-off",
+          "titre": "After Star Wars Zero Company dev Bit Reactor brought back an unspecified number of furloughed devs, some of those who weren't have seemingly been laid off"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/strategy/after-furloughing-its-developers-and-then-hiring-some-of-them-back-star-wars-zero-company-developer-has-laid-off-an-unspecified-number-of-staff/",
+          "titre": "After furloughing its developers and then hiring some of them back, Star Wars Zero Company developer has laid off an unspecified number of staff"
+        }
+      ]
+    },
+    {
+      "id": "this-trailer-is-my-way-of-saying-goodbye-have-a-listen-to-t",
+      "titre": "\"This trailer is my way of saying goodbye\": Have a listen to the Mass Effect 5 score that could have been, courtesy of one of the original games' composers",
+      "url": "https://www.rockpapershotgun.com/this-trailer-is-my-way-of-saying-goodbye-have-a-listen-to-the-mass-effect-5-score-that-could-have-been-courtesy-of-one-of-the-original-games-composers",
+      "sources": [
+        "PC Gamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 3.8,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/this-trailer-is-my-way-of-saying-goodbye-have-a-listen-to-the-mass-effect-5-score-that-could-have-been-courtesy-of-one-of-the-original-games-composers",
+          "titre": "\"This trailer is my way of saying goodbye\": Have a listen to the Mass Effect 5 score that could have been, courtesy of one of the original games' composers"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/mass-effect/mass-effect-composer-sam-hulick-releases-his-re-scored-trailer-for-n7-day-my-way-of-saying-goodbye-at-least-for-now/",
+          "titre": "Mass Effect composer Sam Hulick releases his 're-scored' trailer for N7 Day, 'my way of saying goodbye… at least for now'"
         }
       ]
     },
@@ -73,8 +91,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 8.7,
-      "chaleur": 10,
+      "heures": 13.6,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -94,90 +112,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "path-of-exile-2-s-1-0-version-is-out-this-year-after-all-arr",
-      "titre": "Path of Exile 2's 1.0 version is out this year after all, arriving in December with a full campaign, two neat new classes, and more",
-      "url": "https://www.rockpapershotgun.com/path-of-exile-2s-10-version-is-out-this-year-after-all-arriving-in-december-with-a-full-campaign-two-neat-new-classes-and-more",
-      "sources": [
-        "PC Gamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 0.7,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/path-of-exile-2s-10-version-is-out-this-year-after-all-arriving-in-december-with-a-full-campaign-two-neat-new-classes-and-more",
-          "titre": "Path of Exile 2's 1.0 version is out this year after all, arriving in December with a full campaign, two neat new classes, and more"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/heres-whats-in-path-of-exile-2s-huge-1-0-release-coming-in-december/",
-          "titre": "Here's what's in Path of Exile 2’s huge 1.0 release, coming in December"
-        }
-      ]
-    },
-    {
-      "id": "i-feel-that-sense-of-responsibility-more-acutely-after-biow",
-      "titre": "\"I feel that sense of responsibility more acutely\": After BioWare's closure, the makers of a new Mass Effect 3 co-op remaster mod look to carry their legacy",
-      "url": "https://www.rockpapershotgun.com/i-feel-that-sense-of-responsibility-more-acutely-after-biowares-closure-the-makers-of-a-new-mass-effect-3-co-op-remaster-mod-look-to-carry-their-legacy",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 1.7,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/i-feel-that-sense-of-responsibility-more-acutely-after-biowares-closure-the-makers-of-a-new-mass-effect-3-co-op-remaster-mod-look-to-carry-their-legacy",
-          "titre": "\"I feel that sense of responsibility more acutely\": After BioWare's closure, the makers of a new Mass Effect 3 co-op remaster mod look to carry their legacy"
-        }
-      ]
-    },
-    {
-      "id": "after-star-wars-zero-company-dev-bit-reactor-brought-back-an",
-      "titre": "After Star Wars Zero Company dev Bit Reactor brought back an unspecified number of furloughed devs, some of those who weren't have seemingly been laid off",
-      "url": "https://www.rockpapershotgun.com/after-star-wars-zero-company-dev-bit-reactor-brought-back-an-unspecified-number-of-furloughed-devs-some-of-those-who-werent-have-seemingly-been-laid-off",
-      "sources": [
-        "PC Gamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 1.7,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/after-star-wars-zero-company-dev-bit-reactor-brought-back-an-unspecified-number-of-furloughed-devs-some-of-those-who-werent-have-seemingly-been-laid-off",
-          "titre": "After Star Wars Zero Company dev Bit Reactor brought back an unspecified number of furloughed devs, some of those who weren't have seemingly been laid off"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/strategy/after-furloughing-its-developers-and-then-hiring-some-of-them-back-star-wars-zero-company-developer-has-laid-off-an-unspecified-number-of-staff/",
-          "titre": "After furloughing its developers and then hiring some of them back, Star Wars Zero Company developer has laid off an unspecified number of staff"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-s-ps5-physical-edition-revealed-in-first-photo",
-      "titre": "GTA 6's PS5 Physical Edition Revealed in First Photo",
-      "url": "https://www.pushsquare.com/news/2026/11/gta-6s-ps5-physical-edition-revealed-in-first-photo",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/gta-6s-ps5-physical-edition-revealed-in-first-photo",
-          "titre": "GTA 6's PS5 Physical Edition Revealed in First Photo"
-        }
-      ]
-    },
-    {
       "id": "following-bioware-closure-a-documentary-about-the-legendary",
       "titre": "Following BioWare Closure, a Documentary About the Legendary Studio Has Been Announced",
       "url": "https://www.pushsquare.com/news/2026/11/following-bioware-closure-a-documentary-about-the-legendary-studio-has-been-announced",
@@ -186,7 +120,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 27.2,
+      "heures": 32.1,
       "chaleur": 9,
       "liens": [
         {
@@ -210,7 +144,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 27.9,
+      "heures": 32.9,
       "chaleur": 9,
       "liens": [
         {
@@ -226,26 +160,224 @@ const VEILLE = {
       ]
     },
     {
-      "id": "former-rockstar-games-tech-director-thinks-gta-6-could-be-co",
-      "titre": "Former Rockstar Games tech director thinks GTA 6 could be coming to PC sooner than you'd expect to curb AI clones",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-pc-sooner-than-you-expect-curb-ai-clone",
+      "id": "zelda-oot-remake-win-the-treasure-chest-shop-game",
+      "titre": "Zelda OOT Remake: Win the Treasure Chest Shop game",
+      "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-win-treasure-chest-shop-game/",
       "sources": [
-        "Eurogamer",
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-win-treasure-chest-shop-game/",
+          "titre": "Zelda OOT Remake: Win the Treasure Chest Shop game"
+        }
+      ]
+    },
+    {
+      "id": "report-silver-lake-and-the-saudi-arabia-pif-hold-talks-with",
+      "titre": "Report: Silver Lake and the Saudi Arabia PIF hold talks with Unity to explore acquisition",
+      "url": "https://www.gamedeveloper.com/business/silver-lake-and-the-saudi-arabia-pif-hold-talks-with-unity-to-explore-acquisition",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 29.7,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/silver-lake-and-the-saudi-arabia-pif-hold-talks-with-unity-to-explore-acquisition",
+          "titre": "Report: Silver Lake and the Saudi Arabia PIF hold talks with Unity to explore acquisition"
+        }
+      ]
+    },
+    {
+      "id": "path-of-exile-2-s-1-0-version-is-out-this-year-after-all-arr",
+      "titre": "Path of Exile 2's 1.0 version is out this year after all, arriving in December with a full campaign, two neat new classes, and more",
+      "url": "https://www.rockpapershotgun.com/path-of-exile-2s-10-version-is-out-this-year-after-all-arriving-in-december-with-a-full-campaign-two-neat-new-classes-and-more",
+      "sources": [
+        "PC Gamer",
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 30.6,
-      "chaleur": 9,
+      "heures": 5.6,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/path-of-exile-2s-10-version-is-out-this-year-after-all-arriving-in-december-with-a-full-campaign-two-neat-new-classes-and-more",
+          "titre": "Path of Exile 2's 1.0 version is out this year after all, arriving in December with a full campaign, two neat new classes, and more"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/heres-whats-in-path-of-exile-2s-huge-1-0-release-coming-in-december/",
+          "titre": "Here's what's in Path of Exile 2’s huge 1.0 release, coming in December"
+        }
+      ]
+    },
+    {
+      "id": "i-feel-that-sense-of-responsibility-more-acutely-after-biow",
+      "titre": "\"I feel that sense of responsibility more acutely\": After BioWare's closure, the makers of a new Mass Effect 3 co-op remaster mod look to carry their legacy",
+      "url": "https://www.rockpapershotgun.com/i-feel-that-sense-of-responsibility-more-acutely-after-biowares-closure-the-makers-of-a-new-mass-effect-3-co-op-remaster-mod-look-to-carry-their-legacy",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 6.6,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/i-feel-that-sense-of-responsibility-more-acutely-after-biowares-closure-the-makers-of-a-new-mass-effect-3-co-op-remaster-mod-look-to-carry-their-legacy",
+          "titre": "\"I feel that sense of responsibility more acutely\": After BioWare's closure, the makers of a new Mass Effect 3 co-op remaster mod look to carry their legacy"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-s-ps5-physical-edition-revealed-in-first-photo",
+      "titre": "GTA 6's PS5 Physical Edition Revealed in First Photo",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6s-ps5-physical-edition-revealed-in-first-photo",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 8.6,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6s-ps5-physical-edition-revealed-in-first-photo",
+          "titre": "GTA 6's PS5 Physical Edition Revealed in First Photo"
+        }
+      ]
+    },
+    {
+      "id": "one-of-the-buggiest-d-d-games-ever-released-pool-of-radiance",
+      "titre": "One of the buggiest D&D games ever released, Pool of Radiance: Ruins of Myth Drannor, is back and actually playable again",
+      "url": "https://www.pcgamer.com/games/rpg/one-of-the-buggiest-d-and-d-games-ever-released-pool-of-radiance-ruins-of-myth-drannor-is-back-and-actually-playable-again/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/one-of-the-buggiest-d-and-d-games-ever-released-pool-of-radiance-ruins-of-myth-drannor-is-back-and-actually-playable-again/",
+          "titre": "One of the buggiest D&D games ever released, Pool of Radiance: Ruins of Myth Drannor, is back and actually playable again"
+        }
+      ]
+    },
+    {
+      "id": "echoes-of-mirror-s-edge-dishonored-and-a-dream-set-in-italy",
+      "titre": "Echoes of Mirror's Edge, Dishonored and a dream set in Italy I once had can be found in Boars in Rome, an expressive parkour platformer set in dystopian Rome",
+      "url": "https://www.rockpapershotgun.com/echoes-of-mirrors-edge-dishonored-and-a-dream-set-in-italy-i-once-had-can-be-found-in-boars-in-rome-an-expressive-parkour-platformer-set-in-dystopian-rome",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/echoes-of-mirrors-edge-dishonored-and-a-dream-set-in-italy-i-once-had-can-be-found-in-boars-in-rome-an-expressive-parkour-platformer-set-in-dystopian-rome",
+          "titre": "Echoes of Mirror's Edge, Dishonored and a dream set in Italy I once had can be found in Boars in Rome, an expressive parkour platformer set in dystopian Rome"
+        }
+      ]
+    },
+    {
+      "id": "county-of-fortune-now-out-in-early-access-is-a-medieval-city",
+      "titre": "County of Fortune, now out in early access, is a medieval city builder that asks, why limit yourself to just one city?",
+      "url": "https://www.rockpapershotgun.com/county-of-fortune-now-out-in-early-access-is-a-medieval-city-builder-that-asks-why-limit-yourself-to-just-one-city",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 2.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/county-of-fortune-now-out-in-early-access-is-a-medieval-city-builder-that-asks-why-limit-yourself-to-just-one-city",
+          "titre": "County of Fortune, now out in early access, is a medieval city builder that asks, why limit yourself to just one city?"
+        }
+      ]
+    },
+    {
+      "id": "feature-going-platinum-for-about-two-months-i-was-a-devout-m",
+      "titre": "Feature: Going Platinum: For About Two Months, I Was a Devout Member of the Cult of the Lamb",
+      "url": "https://www.pushsquare.com/features/going-platinum-for-about-two-months-i-was-a-devout-member-of-the-cult-of-the-lamb",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 3.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/going-platinum-for-about-two-months-i-was-a-devout-member-of-the-cult-of-the-lamb",
+          "titre": "Feature: Going Platinum: For About Two Months, I Was a Devout Member of the Cult of the Lamb"
+        }
+      ]
+    },
+    {
+      "id": "assassin-s-creed-is-reportedly-going-to-ancient-rome-while-a",
+      "titre": "Assassin's Creed is reportedly going to ancient Rome, while a mobile spin-off heads to Jerusalem",
+      "url": "https://www.eurogamer.net/assassins-creed-mars-ancient-rome-pocket-mobile-jerusalem-rumour",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/grand-theft-auto-6-pc-sooner-than-you-expect-curb-ai-clone",
-          "titre": "Former Rockstar Games tech director thinks GTA 6 could be coming to PC sooner than you'd expect to curb AI clones"
-        },
+          "url": "https://www.eurogamer.net/assassins-creed-mars-ancient-rome-pocket-mobile-jerusalem-rumour",
+          "titre": "Assassin's Creed is reportedly going to ancient Rome, while a mobile spin-off heads to Jerusalem"
+        }
+      ]
+    },
+    {
+      "id": "rumour-data-found-in-zelda-ocarina-of-time-may-hint-at-maste",
+      "titre": "Rumour: Data Found In Zelda: Ocarina Of Time May Hint At Master Quest DLC",
+      "url": "https://www.nintendolife.com/news/2026/11/rumour-data-found-in-zelda-ocarina-of-time-may-hint-at-master-quest-dlc",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 6,
+      "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/its-a-brave-new-world-gta-6s-pc-port-will-release-sooner-than-you-think-to-avoid-losing-money-to-ai-rip-offs-says-former-rockstar-tech-director",
-          "titre": "\"It's a brave new world\": GTA 6's PC port will release sooner than you think to avoid losing money to AI rip-offs, says former Rockstar tech director"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/rumour-data-found-in-zelda-ocarina-of-time-may-hint-at-master-quest-dlc",
+          "titre": "Rumour: Data Found In Zelda: Ocarina Of Time May Hint At Master Quest DLC"
+        }
+      ]
+    },
+    {
+      "id": "zelda-oot-remake-scarecrow-song-explained-how-to-get-and-use",
+      "titre": "Zelda OOT Remake: Scarecrow Song explained, how to get and use it",
+      "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-scarecrow-song-explained-unlock/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 7.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-scarecrow-song-explained-unlock/",
+          "titre": "Zelda OOT Remake: Scarecrow Song explained, how to get and use it"
         }
       ]
     },
@@ -257,8 +389,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 8,
+      "heures": 8.1,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
@@ -275,145 +407,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 8,
+      "heures": 8.2,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/11/icymi-call-of-duty-warzone-is-now-available-for-switch-2",
           "titre": "ICYMI: Call Of Duty: Warzone Is Now Available For Switch 2"
-        }
-      ]
-    },
-    {
-      "id": "nier-automata-developer-is-currently-investigating-a-bizarre",
-      "titre": "Nier: Automata developer is 'currently investigating' a bizarre update bug that drastically inflated the game's file size from 50GB to 366GB",
-      "url": "https://www.pcgamer.com/games/rpg/nier-automata-developer-is-currently-investigating-a-bizarre-update-bug-that-drastically-inflated-the-games-file-size-from-50gb-to-366gb/",
-      "sources": [
-        "Eurogamer",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 7.4,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/nier-automata-developer-is-currently-investigating-a-bizarre-update-bug-that-drastically-inflated-the-games-file-size-from-50gb-to-366gb/",
-          "titre": "Nier: Automata developer is 'currently investigating' a bizarre update bug that drastically inflated the game's file size from 50GB to 366GB"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/square-enix-nier-automata-update-required-file-size-366gb",
-          "titre": "Square Enix accidentally botches a Nier: Automata update, balloons required file size from 50GB to 366GB on PC"
-        }
-      ]
-    },
-    {
-      "id": "amd-ceo-lisa-su-we-are-a-data-center-first-company",
-      "titre": "AMD CEO Lisa Su: 'We are a data center-first company'",
-      "url": "https://www.pcgamer.com/gaming-industry/amd-ceo-lisa-su-we-are-a-data-center-first-company/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 0.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/amd-ceo-lisa-su-we-are-a-data-center-first-company/",
-          "titre": "AMD CEO Lisa Su: 'We are a data center-first company'"
-        }
-      ]
-    },
-    {
-      "id": "after-seeing-them-myself-i-m-convinced-wow-forever-s-rp-serv",
-      "titre": "After seeing them myself, I'm convinced WoW: Forever's RP servers don't need to be this separate, and I say that as a decorated veteran of MMO roleplay",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/after-seeing-them-myself-im-convinced-wow-forevers-rp-servers-dont-need-to-be-this-separate-and-i-say-that-as-a-decorated-veteran-of-mmo-roleplay/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 0.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/after-seeing-them-myself-im-convinced-wow-forevers-rp-servers-dont-need-to-be-this-separate-and-i-say-that-as-a-decorated-veteran-of-mmo-roleplay/",
-          "titre": "After seeing them myself, I'm convinced WoW: Forever's RP servers don't need to be this separate, and I say that as a decorated veteran of MMO roleplay"
-        }
-      ]
-    },
-    {
-      "id": "what-s-the-toughest-choice-you-ve-made-in-an-rpg",
-      "titre": "What's the toughest choice you've made in an RPG?",
-      "url": "https://www.pcgamer.com/games/rpg/whats-the-toughest-choice-youve-made-in-an-rpg/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/whats-the-toughest-choice-youve-made-in-an-rpg/",
-          "titre": "What's the toughest choice you've made in an RPG?"
-        }
-      ]
-    },
-    {
-      "id": "wardogs-season-3-brings-an-urban-map-limited-mode-and-a-185",
-      "titre": "Wardogs Season 3 brings an urban map, Limited Mode, and a 185,000-account ban wave",
-      "url": "https://www.eurogamer.net/wardogs-season-3-release-date-limited-mode-ban-wave",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 1.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/wardogs-season-3-release-date-limited-mode-ban-wave",
-          "titre": "Wardogs Season 3 brings an urban map, Limited Mode, and a 185,000-account ban wave"
-        }
-      ]
-    },
-    {
-      "id": "linux-on-the-desktop-marches-on-as-gog-announces-its-galaxy",
-      "titre": "Linux on the desktop marches on as GOG announces its Galaxy client is getting a revamp headed to Windows, macOS, and your distro of choice",
-      "url": "https://www.pcgamer.com/software/linux/linux-on-the-desktop-marches-on-as-gog-announces-its-galaxy-client-is-getting-a-revamp-headed-to-windows-macos-and-your-distro-of-choice/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/linux/linux-on-the-desktop-marches-on-as-gog-announces-its-galaxy-client-is-getting-a-revamp-headed-to-windows-macos-and-your-distro-of-choice/",
-          "titre": "Linux on the desktop marches on as GOG announces its Galaxy client is getting a revamp headed to Windows, macOS, and your distro of choice"
-        }
-      ]
-    },
-    {
-      "id": "mass-effect-composer-sam-hulick-releases-his-re-scored-trail",
-      "titre": "Mass Effect composer Sam Hulick releases his 're-scored' trailer for N7 Day, 'my way of saying goodbye… at least for now'",
-      "url": "https://www.pcgamer.com/games/mass-effect/mass-effect-composer-sam-hulick-releases-his-re-scored-trailer-for-n7-day-my-way-of-saying-goodbye-at-least-for-now/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/mass-effect/mass-effect-composer-sam-hulick-releases-his-re-scored-trailer-for-n7-day-my-way-of-saying-goodbye-at-least-for-now/",
-          "titre": "Mass Effect composer Sam Hulick releases his 're-scored' trailer for N7 Day, 'my way of saying goodbye… at least for now'"
         }
       ]
     },
@@ -425,7 +425,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 9.6,
       "chaleur": 6,
       "liens": [
         {
@@ -443,13 +443,37 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.2,
+      "heures": 11.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/xbox-cloud-gaming-phone-controller-smart-tv-nano-cloud-connect",
           "titre": "Xbox is testing a way to use your phone as a controller on smart TVs"
+        }
+      ]
+    },
+    {
+      "id": "nier-automata-developer-is-currently-investigating-a-bizarre",
+      "titre": "Nier: Automata developer is 'currently investigating' a bizarre update bug that drastically inflated the game's file size from 50GB to 366GB",
+      "url": "https://www.pcgamer.com/games/rpg/nier-automata-developer-is-currently-investigating-a-bizarre-update-bug-that-drastically-inflated-the-games-file-size-from-50gb-to-366gb/",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 12.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/nier-automata-developer-is-currently-investigating-a-bizarre-update-bug-that-drastically-inflated-the-games-file-size-from-50gb-to-366gb/",
+          "titre": "Nier: Automata developer is 'currently investigating' a bizarre update bug that drastically inflated the game's file size from 50GB to 366GB"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/square-enix-nier-automata-update-required-file-size-366gb",
+          "titre": "Square Enix accidentally botches a Nier: Automata update, balloons required file size from 50GB to 366GB on PC"
         }
       ]
     },
@@ -461,7 +485,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.2,
+      "heures": 23.1,
       "chaleur": 6,
       "liens": [
         {
@@ -479,7 +503,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.5,
+      "heures": 24.4,
       "chaleur": 6,
       "liens": [
         {
@@ -498,7 +522,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 23.4,
+      "heures": 28.3,
       "chaleur": 6,
       "liens": [
         {
@@ -522,7 +546,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 24.0,
+      "heures": 28.9,
       "chaleur": 6,
       "liens": [
         {
@@ -545,13 +569,31 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 28.4,
+      "heures": 33.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/guides/gta-6-release-times-and-preload-when-can-you-start-playing",
           "titre": "Guide: GTA 6 Release Times and Preload: When Can You Start Playing?"
+        }
+      ]
+    },
+    {
+      "id": "former-rockstar-games-tech-director-thinks-gta-6-could-be-co",
+      "titre": "Former Rockstar Games tech director thinks GTA 6 could be coming to PC sooner than you'd expect to curb AI clones",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-pc-sooner-than-you-expect-curb-ai-clone",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 35.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/grand-theft-auto-6-pc-sooner-than-you-expect-curb-ai-clone",
+          "titre": "Former Rockstar Games tech director thinks GTA 6 could be coming to PC sooner than you'd expect to curb AI clones"
         }
       ]
     },
@@ -563,7 +605,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.7,
+      "heures": 18.6,
       "chaleur": 5,
       "liens": [
         {
@@ -581,7 +623,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 22.7,
+      "heures": 27.6,
       "chaleur": 5,
       "liens": [
         {
@@ -599,7 +641,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 24.9,
+      "heures": 29.8,
       "chaleur": 5,
       "liens": [
         {
@@ -617,7 +659,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.9,
+      "heures": 30.9,
       "chaleur": 5,
       "liens": [
         {
@@ -635,7 +677,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 26.7,
+      "heures": 31.6,
       "chaleur": 5,
       "liens": [
         {
@@ -653,31 +695,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 26.9,
+      "heures": 31.9,
       "chaleur": 5,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/i-just-found-out-you-can-use-your-steam-wishlist-to-search-for-deals-on-games-outside-of-steam-saving-my-nephew-more-than-40-on-total-war-warhammer-3",
           "titre": "I just found out you can use your Steam Wishlist to search for deals on games outside of Steam, saving my nephew more than £40 on Total War: Warhammer 3"
-        }
-      ]
-    },
-    {
-      "id": "zelda-oot-remake-find-richard-the-dog-in-castle-town-market",
-      "titre": "Zelda OOT Remake: Find Richard the Dog in Castle Town Market at night",
-      "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-find-richard-the-dog-in-castle-town-market-at-night/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 28.1,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-find-richard-the-dog-in-castle-town-market-at-night/",
-          "titre": "Zelda OOT Remake: Find Richard the Dog in Castle Town Market at night"
         }
       ]
     },
@@ -689,7 +713,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 30.0,
+      "heures": 35.0,
       "chaleur": 5,
       "liens": [
         {
@@ -700,38 +724,92 @@ const VEILLE = {
       ]
     },
     {
-      "id": "unity-reports-strongest-ever-q3-results-driven-by-its-ai-pow",
-      "titre": "Unity reports \"strongest ever\" Q3 results driven by its AI-powered ad network Vector",
-      "url": "https://www.gamesindustry.biz/unity-reports-strongest-ever-q3-results-driven-by-its-ai-powered-ad-network-vector",
+      "id": "amd-ceo-lisa-su-we-are-a-data-center-first-company",
+      "titre": "AMD CEO Lisa Su: 'We are a data center-first company'",
+      "url": "https://www.pcgamer.com/gaming-industry/amd-ceo-lisa-su-we-are-a-data-center-first-company/",
       "sources": [
-        "GamesIndustry.biz"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 32.6,
-      "chaleur": 5,
+      "heures": 5.4,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/unity-reports-strongest-ever-q3-results-driven-by-its-ai-powered-ad-network-vector",
-          "titre": "Unity reports \"strongest ever\" Q3 results driven by its AI-powered ad network Vector"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/amd-ceo-lisa-su-we-are-a-data-center-first-company/",
+          "titre": "AMD CEO Lisa Su: 'We are a data center-first company'"
         }
       ]
     },
     {
-      "id": "remakes-and-new-games-both-have-a-place-in-the-stable-says-n",
-      "titre": "Remakes and new games \"both have a place in the stable\" says Nintendo boss, buoyed by the success of Star Fox and Ocarina of Time",
-      "url": "https://www.eurogamer.net/remakes-and-new-games-both-have-a-place-in-the-stable-says-nintendo-boss-buoyed-by-the-success-of-star-fox-and-ocarina-of-time",
+      "id": "after-seeing-them-myself-i-m-convinced-wow-forever-s-rp-serv",
+      "titre": "After seeing them myself, I'm convinced WoW: Forever's RP servers don't need to be this separate, and I say that as a decorated veteran of MMO roleplay",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/after-seeing-them-myself-im-convinced-wow-forevers-rp-servers-dont-need-to-be-this-separate-and-i-say-that-as-a-decorated-veteran-of-mmo-roleplay/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/after-seeing-them-myself-im-convinced-wow-forevers-rp-servers-dont-need-to-be-this-separate-and-i-say-that-as-a-decorated-veteran-of-mmo-roleplay/",
+          "titre": "After seeing them myself, I'm convinced WoW: Forever's RP servers don't need to be this separate, and I say that as a decorated veteran of MMO roleplay"
+        }
+      ]
+    },
+    {
+      "id": "what-s-the-toughest-choice-you-ve-made-in-an-rpg",
+      "titre": "What's the toughest choice you've made in an RPG?",
+      "url": "https://www.pcgamer.com/games/rpg/whats-the-toughest-choice-youve-made-in-an-rpg/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/whats-the-toughest-choice-youve-made-in-an-rpg/",
+          "titre": "What's the toughest choice you've made in an RPG?"
+        }
+      ]
+    },
+    {
+      "id": "wardogs-season-3-brings-an-urban-map-limited-mode-and-a-185",
+      "titre": "Wardogs Season 3 brings an urban map, Limited Mode, and a 185,000-account ban wave",
+      "url": "https://www.eurogamer.net/wardogs-season-3-release-date-limited-mode-ban-wave",
       "sources": [
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 33.0,
-      "chaleur": 5,
+      "heures": 6.7,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/remakes-and-new-games-both-have-a-place-in-the-stable-says-nintendo-boss-buoyed-by-the-success-of-star-fox-and-ocarina-of-time",
-          "titre": "Remakes and new games \"both have a place in the stable\" says Nintendo boss, buoyed by the success of Star Fox and Ocarina of Time"
+          "url": "https://www.eurogamer.net/wardogs-season-3-release-date-limited-mode-ban-wave",
+          "titre": "Wardogs Season 3 brings an urban map, Limited Mode, and a 185,000-account ban wave"
+        }
+      ]
+    },
+    {
+      "id": "linux-on-the-desktop-marches-on-as-gog-announces-its-galaxy",
+      "titre": "Linux on the desktop marches on as GOG announces its Galaxy client is getting a revamp headed to Windows, macOS, and your distro of choice",
+      "url": "https://www.pcgamer.com/software/linux/linux-on-the-desktop-marches-on-as-gog-announces-its-galaxy-client-is-getting-a-revamp-headed-to-windows-macos-and-your-distro-of-choice/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 8.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/linux/linux-on-the-desktop-marches-on-as-gog-announces-its-galaxy-client-is-getting-a-revamp-headed-to-windows-macos-and-your-distro-of-choice/",
+          "titre": "Linux on the desktop marches on as GOG announces its Galaxy client is getting a revamp headed to Windows, macOS, and your distro of choice"
         }
       ]
     },
@@ -743,7 +821,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 9.3,
       "chaleur": 4,
       "liens": [
         {
@@ -761,7 +839,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.7,
+      "heures": 11.6,
       "chaleur": 4,
       "liens": [
         {
@@ -779,8 +857,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 4,
+      "heures": 15.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -797,7 +875,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 20.3,
+      "heures": 25.2,
       "chaleur": 3,
       "liens": [
         {
@@ -815,7 +893,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 21.4,
+      "heures": 26.4,
       "chaleur": 3,
       "liens": [
         {
@@ -833,7 +911,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 21.6,
+      "heures": 26.5,
       "chaleur": 3,
       "liens": [
         {
@@ -851,31 +929,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 24.7,
+      "heures": 29.6,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/features/game-of-the-month-phantom-blade-zero-october-2026",
           "titre": "Game of the Month: Phantom Blade Zero (October 2026)"
-        }
-      ]
-    },
-    {
-      "id": "it-s-hard-to-meet-women-when-i-keep-teleporting-all-the-time",
-      "titre": "It's hard to meet women when I keep teleporting all the time",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/its-hard-to-meet-women-when-i-keep-teleporting-all-the-time/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 24.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/its-hard-to-meet-women-when-i-keep-teleporting-all-the-time/",
-          "titre": "It's hard to meet women when I keep teleporting all the time"
         }
       ]
     },
@@ -887,7 +947,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.2,
+      "heures": 30.1,
       "chaleur": 3,
       "liens": [
         {
@@ -905,7 +965,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 25.3,
+      "heures": 30.3,
       "chaleur": 3,
       "liens": [
         {
@@ -923,7 +983,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 26.4,
+      "heures": 31.4,
       "chaleur": 3,
       "liens": [
         {
@@ -941,7 +1001,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 26.5,
+      "heures": 31.4,
       "chaleur": 3,
       "liens": [
         {
@@ -959,7 +1019,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 27.1,
+      "heures": 32.0,
       "chaleur": 3,
       "liens": [
         {
@@ -977,7 +1037,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 27.7,
+      "heures": 32.6,
       "chaleur": 3,
       "liens": [
         {
@@ -995,7 +1055,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 27.7,
+      "heures": 32.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1013,7 +1073,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 28.0,
+      "heures": 33.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1031,7 +1091,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 28.4,
+      "heures": 33.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1049,7 +1109,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 28.7,
+      "heures": 33.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1067,31 +1127,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 28.8,
+      "heures": 33.7,
       "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/jobs-roundup-november-nordisk-games-appoints-stefania-halldorsdottir-as-ceo-and-asgeir-kroyer-as-cfo",
           "titre": "Jobs roundup: November | Nordisk Games appoints Stefanía Halldórsdóttir as CEO and Ásgeir Kröyer as CFO"
-        }
-      ]
-    },
-    {
-      "id": "capcom-games-including-re-requiem-and-pragmata-heavily-disco",
-      "titre": "Capcom games including RE Requiem and Pragmata heavily discounted on PC",
-      "url": "https://www.videogameschronicle.com/news/capcom-games-including-re-requiem-and-pragmata-heavily-discounted-on-pc/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 29.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/capcom-games-including-re-requiem-and-pragmata-heavily-discounted-on-pc/",
-          "titre": "Capcom games including RE Requiem and Pragmata heavily discounted on PC"
         }
       ]
     },
@@ -1103,67 +1145,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 30.1,
+      "heures": 35.1,
       "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/crimson-desert-charting-the-unknown-now-playing",
           "titre": "In Charting the Unknown, Crimson Desert doubles down on its maximalism in audacious, faintly sinister style"
-        }
-      ]
-    },
-    {
-      "id": "sega-q2-results-exceed-expectations-driven-by-surge-in-opera",
-      "titre": "Sega Q2 results exceed expectations, driven by surge in operating income for pachislot and pachinko machines",
-      "url": "https://www.gamesindustry.biz/sega-q2-results-exceed-expectations-driven-by-surge-in-operating-income-for-pachislot-and-pachinko-machines",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 31.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/sega-q2-results-exceed-expectations-driven-by-surge-in-operating-income-for-pachislot-and-pachinko-machines",
-          "titre": "Sega Q2 results exceed expectations, driven by surge in operating income for pachislot and pachinko machines"
-        }
-      ]
-    },
-    {
-      "id": "new-ps-plus-perks-revealed-includes-discounts-and-free-trial",
-      "titre": "New PS Plus Perks Revealed, Includes Discounts and Free Trials",
-      "url": "https://www.pushsquare.com/news/2026/11/new-ps-plus-perks-revealed-includes-discounts-and-free-trials",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 31.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/new-ps-plus-perks-revealed-includes-discounts-and-free-trials",
-          "titre": "New PS Plus Perks Revealed, Includes Discounts and Free Trials"
-        }
-      ]
-    },
-    {
-      "id": "is-there-any-accountability-left-in-this-world-warren-spect",
-      "titre": "\"Is there any accountability left in this world?\" Warren Spector pops off at EA executives and their massive payouts as BioWare shuts down",
-      "url": "https://www.eurogamer.net/bioware-closure-warren-spector-comments-accountability",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 32.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/bioware-closure-warren-spector-comments-accountability",
-          "titre": "\"Is there any accountability left in this world?\" Warren Spector pops off at EA executives and their massive payouts as BioWare shuts down"
         }
       ]
     }
