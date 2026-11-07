@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "07/11/2026 à 05h51",
+  "collecte": "07/11/2026 à 12h51",
   "seuil": 14,
   "sujets": [
     {
@@ -14,8 +14,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 4,
-      "heures": 11.9,
-      "chaleur": 18,
+      "heures": 18.9,
+      "chaleur": 17,
       "liens": [
         {
           "source": "Game Developer",
@@ -40,26 +40,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "updated-xbox-pc-app-promises-60-faster-loading-and-easier-ac",
-      "titre": "Updated Xbox PC app promises 60% faster loading and easier access to games, but CEO Asha Sharma says there's \"plenty more to do\"",
-      "url": "https://www.eurogamer.net/updated-xbox-pc-app-faster-asha-sharma",
+      "id": "talking-point-what-are-you-playing-this-weekend-7th-november",
+      "titre": "Talking Point: What Are You Playing This Weekend? (7th November)",
+      "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-7th-november",
+      "sources": [
+        "Nintendo Life",
+        "Push Square",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 3,
+      "heures": 2.9,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-7th-november",
+          "titre": "Talking Point: What Are You Playing This Weekend? (7th November)"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-407",
+          "titre": "What are we all playing this weekend?"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-657",
+          "titre": "Talking Point: What Are You Playing This Weekend? - Issue 657"
+        }
+      ]
+    },
+    {
+      "id": "nier-automata-developer-is-currently-investigating-a-bizarre",
+      "titre": "Nier: Automata developer is 'currently investigating' a bizarre update bug that drastically inflated the game's file size from 50GB to 366GB",
+      "url": "https://www.pcgamer.com/games/rpg/nier-automata-developer-is-currently-investigating-a-bizarre-update-bug-that-drastically-inflated-the-games-file-size-from-50gb-to-366gb/",
       "sources": [
         "Eurogamer",
-        "VGC"
+        "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 9.9,
+      "heures": 1.6,
       "chaleur": 9,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/updated-xbox-pc-app-faster-asha-sharma",
-          "titre": "Updated Xbox PC app promises 60% faster loading and easier access to games, but CEO Asha Sharma says there's \"plenty more to do\""
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/nier-automata-developer-is-currently-investigating-a-bizarre-update-bug-that-drastically-inflated-the-games-file-size-from-50gb-to-366gb/",
+          "titre": "Nier: Automata developer is 'currently investigating' a bizarre update bug that drastically inflated the game's file size from 50GB to 366GB"
         },
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/xbox-is-updating-its-pc-app-promising-60-faster-boot-times-and-an-easier-to-use-game-library/",
-          "titre": "Xbox is updating its PC app, promising 60% faster boot times and an easier to use game library"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/square-enix-nier-automata-update-required-file-size-366gb",
+          "titre": "Square Enix accidentally botches a Nier: Automata update, balloons required file size from 50GB to 366GB on PC"
         }
       ]
     },
@@ -72,7 +102,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 14.4,
+      "heures": 21.4,
       "chaleur": 9,
       "liens": [
         {
@@ -96,7 +126,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 15.1,
+      "heures": 22.1,
       "chaleur": 9,
       "liens": [
         {
@@ -120,7 +150,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 17.8,
+      "heures": 24.8,
       "chaleur": 9,
       "liens": [
         {
@@ -136,6 +166,84 @@ const VEILLE = {
       ]
     },
     {
+      "id": "xbox-is-testing-a-way-to-use-your-phone-as-a-controller-on-s",
+      "titre": "Xbox is testing a way to use your phone as a controller on smart TVs",
+      "url": "https://www.eurogamer.net/xbox-cloud-gaming-phone-controller-smart-tv-nano-cloud-connect",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/xbox-cloud-gaming-phone-controller-smart-tv-nano-cloud-connect",
+          "titre": "Xbox is testing a way to use your phone as a controller on smart TVs"
+        }
+      ]
+    },
+    {
+      "id": "updated-xbox-pc-app-promises-60-faster-loading-and-easier-ac",
+      "titre": "Updated Xbox PC app promises 60% faster loading and easier access to games, but CEO Asha Sharma says there's \"plenty more to do\"",
+      "url": "https://www.eurogamer.net/updated-xbox-pc-app-faster-asha-sharma",
+      "sources": [
+        "Eurogamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 16.9,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/updated-xbox-pc-app-faster-asha-sharma",
+          "titre": "Updated Xbox PC app promises 60% faster loading and easier access to games, but CEO Asha Sharma says there's \"plenty more to do\""
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/xbox-is-updating-its-pc-app-promising-60-faster-boot-times-and-an-easier-to-use-game-library/",
+          "titre": "Xbox is updating its PC app, promising 60% faster boot times and an easier to use game library"
+        }
+      ]
+    },
+    {
+      "id": "after-furloughing-its-developers-and-then-hiring-some-of-the",
+      "titre": "After furloughing its developers and then hiring some of them back, Star Wars Zero Company developer has laid off an unspecified number of staff",
+      "url": "https://www.pcgamer.com/games/strategy/after-furloughing-its-developers-and-then-hiring-some-of-them-back-star-wars-zero-company-developer-has-laid-off-an-unspecified-number-of-staff/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/strategy/after-furloughing-its-developers-and-then-hiring-some-of-them-back-star-wars-zero-company-developer-has-laid-off-an-unspecified-number-of-staff/",
+          "titre": "After furloughing its developers and then hiring some of them back, Star Wars Zero Company developer has laid off an unspecified number of staff"
+        }
+      ]
+    },
+    {
+      "id": "guide-these-13-ps5-games-are-coming-out-next-week-9th-15th-n",
+      "titre": "Guide: These 13+ PS5 Games Are Coming Out Next Week (9th-15th November)",
+      "url": "https://www.pushsquare.com/guides/these-13plus-ps5-games-are-coming-out-next-week-9th-15th-november",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/guides/these-13plus-ps5-games-are-coming-out-next-week-9th-15th-november",
+          "titre": "Guide: These 13+ PS5 Games Are Coming Out Next Week (9th-15th November)"
+        }
+      ]
+    },
+    {
       "id": "sudden-illness-sees-miyamoto-miss-nintendo-s-financial-brief",
       "titre": "Sudden Illness Sees Miyamoto Miss Nintendo's Financial Briefing, But He's Expected To Make A Quick Recovery",
       "url": "https://www.nintendolife.com/news/2026/11/sudden-illness-sees-miyamoto-miss-nintendos-financial-briefing-but-hes-expected-to-make-a-quick-recovery",
@@ -143,8 +251,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.9,
-      "chaleur": 8,
+      "heures": 7.9,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -161,8 +269,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.4,
-      "chaleur": 7,
+      "heures": 12.4,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -179,8 +287,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.7,
-      "chaleur": 7,
+      "heures": 13.7,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
@@ -198,8 +306,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 10.6,
-      "chaleur": 7,
+      "heures": 17.6,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Game Developer",
@@ -222,8 +330,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 11.2,
-      "chaleur": 7,
+      "heures": 18.2,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
@@ -238,30 +346,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "a-public-petition-to-save-bioware-has-drawn-enough-signature",
-      "titre": "A public petition to save BioWare has drawn enough signatures that the Canadian government will at least have to think about it: 'This is absolutely possible,' MP says",
-      "url": "https://www.pcgamer.com/games/mass-effect/a-public-petition-to-save-bioware-has-drawn-enough-signatures-that-the-canadian-government-will-at-least-have-to-think-about-it-this-is-absolutely-possible-mp-says/",
-      "sources": [
-        "PC Gamer",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 13.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/mass-effect/a-public-petition-to-save-bioware-has-drawn-enough-signatures-that-the-canadian-government-will-at-least-have-to-think-about-it-this-is-absolutely-possible-mp-says/",
-          "titre": "A public petition to save BioWare has drawn enough signatures that the Canadian government will at least have to think about it: 'This is absolutely possible,' MP says"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/petition-to-save-mass-effect-dev-bioware-to-be-considered-by-canadas-government",
-          "titre": "Petition to Save Mass Effect Dev BioWare to Be Considered by Canada's Government"
-        }
-      ]
-    },
-    {
       "id": "guide-gta-6-release-times-and-preload-when-can-you-start-pla",
       "titre": "Guide: GTA 6 Release Times and Preload: When Can You Start Playing?",
       "url": "https://www.pushsquare.com/guides/gta-6-release-times-and-preload-when-can-you-start-playing",
@@ -269,31 +353,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 22.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/guides/gta-6-release-times-and-preload-when-can-you-start-playing",
           "titre": "Guide: GTA 6 Release Times and Preload: When Can You Start Playing?"
-        }
-      ]
-    },
-    {
-      "id": "discord-is-cutting-memory-usage-and-speeding-up-boot-times-j",
-      "titre": "Discord is cutting memory usage and speeding up boot times - joins Xbox, Epic, Steam, and more for similar upgrades just this year",
-      "url": "https://www.pcgamer.com/hardware/discord-is-cutting-memory-usage-and-speeding-up-boot-times-joins-xbox-epic-steam-and-more-for-similar-upgrades-just-this-year/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 17.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/discord-is-cutting-memory-usage-and-speeding-up-boot-times-joins-xbox-epic-steam-and-more-for-similar-upgrades-just-this-year/",
-          "titre": "Discord is cutting memory usage and speeding up boot times - joins Xbox, Epic, Steam, and more for similar upgrades just this year"
         }
       ]
     },
@@ -305,7 +371,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.9,
+      "heures": 30.9,
       "chaleur": 6,
       "liens": [
         {
@@ -323,7 +389,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.1,
+      "heures": 32.1,
       "chaleur": 6,
       "liens": [
         {
@@ -341,7 +407,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 26.1,
+      "heures": 33.1,
       "chaleur": 6,
       "liens": [
         {
@@ -359,7 +425,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 26.9,
+      "heures": 33.9,
       "chaleur": 6,
       "liens": [
         {
@@ -377,7 +443,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 28.4,
+      "heures": 35.4,
       "chaleur": 6,
       "liens": [
         {
@@ -395,7 +461,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.0,
+      "heures": 19.0,
       "chaleur": 5,
       "liens": [
         {
@@ -413,7 +479,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 19.4,
       "chaleur": 5,
       "liens": [
         {
@@ -431,7 +497,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.1,
+      "heures": 20.1,
       "chaleur": 5,
       "liens": [
         {
@@ -449,7 +515,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 20.9,
       "chaleur": 5,
       "liens": [
         {
@@ -467,7 +533,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.1,
+      "heures": 21.1,
       "chaleur": 5,
       "liens": [
         {
@@ -485,7 +551,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 15.3,
+      "heures": 22.3,
       "chaleur": 5,
       "liens": [
         {
@@ -503,7 +569,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 17.2,
+      "heures": 24.2,
       "chaleur": 5,
       "liens": [
         {
@@ -521,7 +587,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 19.8,
+      "heures": 26.8,
       "chaleur": 5,
       "liens": [
         {
@@ -539,7 +605,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 20.2,
+      "heures": 27.2,
       "chaleur": 5,
       "liens": [
         {
@@ -550,38 +616,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nintendo-download-5th-november-north-america-plus-3-discount",
-      "titre": "Nintendo Download: 5th November (North America) + Plus 3 Discounted Games You Should Snap Up",
-      "url": "https://www.nintendolife.com/news/2026/11/nintendo-download-5th-november-north-america-plus-plus-3-discounted-games-you-should-snap-up",
+      "id": "what-we-ve-been-playing-sniffing-out-the-warehouses-on-prawn",
+      "titre": "What we've been playing - \"Sniffing out the warehouses on Prawn Island\"",
+      "url": "https://www.eurogamer.net/what-weve-been-playing-vice-city-zelda-world-of-warcraft-forever",
       "sources": [
-        "Nintendo Life"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 35.9,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/nintendo-download-5th-november-north-america-plus-plus-3-discounted-games-you-should-snap-up",
-          "titre": "Nintendo Download: 5th November (North America) + Plus 3 Discounted Games You Should Snap Up"
-        }
-      ]
-    },
-    {
-      "id": "talking-point-what-are-you-playing-this-weekend-issue-657",
-      "titre": "Talking Point: What Are You Playing This Weekend? - Issue 657",
-      "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-657",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 5.9,
+      "heures": 4.8,
       "chaleur": 4,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-657",
-          "titre": "Talking Point: What Are You Playing This Weekend? - Issue 657"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/what-weve-been-playing-vice-city-zelda-world-of-warcraft-forever",
+          "titre": "What we've been playing - \"Sniffing out the warehouses on Prawn Island\""
         }
       ]
     },
@@ -593,8 +641,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.2,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -611,8 +659,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.5,
-      "chaleur": 4,
+      "heures": 14.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -629,8 +677,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.6,
-      "chaleur": 4,
+      "heures": 15.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -647,8 +695,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.8,
-      "chaleur": 4,
+      "heures": 15.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -665,8 +713,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 4,
+      "heures": 18.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -683,8 +731,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 4,
+      "heures": 18.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -701,7 +749,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.3,
+      "heures": 19.3,
       "chaleur": 3,
       "liens": [
         {
@@ -719,7 +767,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 19.4,
       "chaleur": 3,
       "liens": [
         {
@@ -737,7 +785,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 19.5,
       "chaleur": 3,
       "liens": [
         {
@@ -755,13 +803,31 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 20.6,
       "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/blog/podcast/podcast-ocarina-still-has-the-magic-after-all-this-time/",
           "titre": "Podcast: Ocarina still has the magic after all this Time"
+        }
+      ]
+    },
+    {
+      "id": "a-public-petition-to-save-bioware-has-drawn-enough-signature",
+      "titre": "A public petition to save BioWare has drawn enough signatures that the Canadian government will at least have to think about it: 'This is absolutely possible,' MP says",
+      "url": "https://www.pcgamer.com/games/mass-effect/a-public-petition-to-save-bioware-has-drawn-enough-signatures-that-the-canadian-government-will-at-least-have-to-think-about-it-this-is-absolutely-possible-mp-says/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 20.6,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/mass-effect/a-public-petition-to-save-bioware-has-drawn-enough-signatures-that-the-canadian-government-will-at-least-have-to-think-about-it-this-is-absolutely-possible-mp-says/",
+          "titre": "A public petition to save BioWare has drawn enough signatures that the Canadian government will at least have to think about it: 'This is absolutely possible,' MP says"
         }
       ]
     },
@@ -773,7 +839,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 13.7,
+      "heures": 20.7,
       "chaleur": 3,
       "liens": [
         {
@@ -791,7 +857,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 20.9,
       "chaleur": 3,
       "liens": [
         {
@@ -809,7 +875,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.0,
+      "heures": 21.0,
       "chaleur": 3,
       "liens": [
         {
@@ -827,7 +893,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.0,
+      "heures": 21.0,
       "chaleur": 3,
       "liens": [
         {
@@ -845,7 +911,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 14.2,
+      "heures": 21.3,
       "chaleur": 3,
       "liens": [
         {
@@ -863,7 +929,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 21.9,
       "chaleur": 3,
       "liens": [
         {
@@ -881,7 +947,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 21.9,
       "chaleur": 3,
       "liens": [
         {
@@ -899,7 +965,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.2,
+      "heures": 22.2,
       "chaleur": 3,
       "liens": [
         {
@@ -917,7 +983,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 22.5,
       "chaleur": 3,
       "liens": [
         {
@@ -935,7 +1001,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 22.6,
       "chaleur": 3,
       "liens": [
         {
@@ -953,7 +1019,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.9,
+      "heures": 22.9,
       "chaleur": 3,
       "liens": [
         {
@@ -971,31 +1037,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 16.0,
+      "heures": 23.0,
       "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/jobs-roundup-november-nordisk-games-appoints-stefania-halldorsdottir-as-ceo-and-asgeir-kroyer-as-cfo",
           "titre": "Jobs roundup: November | Nordisk Games appoints Stefanía Halldórsdóttir as CEO and Ásgeir Kröyer as CFO"
-        }
-      ]
-    },
-    {
-      "id": "adding-pve-to-arc-raiders-isn-t-a-difficult-thing-to-do-but",
-      "titre": "Adding PvE to Arc Raiders 'isn't a difficult thing to do' but the question still stands how Embark can 'cater to the specific needs of the players'",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/adding-pve-to-arc-raiders-isnt-a-difficult-thing-to-do-but-the-question-still-stands-how-embark-can-cater-to-the-specific-needs-of-the-players/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 16.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/adding-pve-to-arc-raiders-isnt-a-difficult-thing-to-do-but-the-question-still-stands-how-embark-can-cater-to-the-specific-needs-of-the-players/",
-          "titre": "Adding PvE to Arc Raiders 'isn't a difficult thing to do' but the question still stands how Embark can 'cater to the specific needs of the players'"
         }
       ]
     },
@@ -1007,31 +1055,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 16.3,
+      "heures": 23.3,
       "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/capcom-games-including-re-requiem-and-pragmata-heavily-discounted-on-pc/",
           "titre": "Capcom games including RE Requiem and Pragmata heavily discounted on PC"
-        }
-      ]
-    },
-    {
-      "id": "these-8-ps5-games-will-be-delisted-in-november-and-december",
-      "titre": "These 8+ PS5 Games Will Be Delisted in November and December 2026",
-      "url": "https://www.pushsquare.com/news/2026/11/these-8plus-ps5-games-will-be-delisted-in-november-and-december-2026",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 16.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/these-8plus-ps5-games-will-be-delisted-in-november-and-december-2026",
-          "titre": "These 8+ PS5 Games Will Be Delisted in November and December 2026"
         }
       ]
     },
@@ -1043,31 +1073,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.3,
+      "heures": 24.3,
       "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/crimson-desert-charting-the-unknown-now-playing",
           "titre": "In Charting the Unknown, Crimson Desert doubles down on its maximalism in audacious, faintly sinister style"
-        }
-      ]
-    },
-    {
-      "id": "square-enix-accidentally-botches-a-nier-automata-update-ball",
-      "titre": "Square Enix accidentally botches a Nier: Automata update, balloons required file size from 50GB to 366GB on PC",
-      "url": "https://www.eurogamer.net/square-enix-nier-automata-update-required-file-size-366gb",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 17.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/square-enix-nier-automata-update-required-file-size-366gb",
-          "titre": "Square Enix accidentally botches a Nier: Automata update, balloons required file size from 50GB to 366GB on PC"
         }
       ]
     },
@@ -1079,7 +1091,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 18.3,
+      "heures": 25.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1097,7 +1109,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.6,
+      "heures": 25.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1115,7 +1127,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.6,
+      "heures": 26.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1133,7 +1145,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.8,
+      "heures": 26.8,
       "chaleur": 3,
       "liens": [
         {
