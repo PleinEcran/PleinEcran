@@ -1,8 +1,38 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "08/11/2026 à 05h51",
+  "collecte": "08/11/2026 à 13h13",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "zelda-oot-remake-full-biggoron-s-sword-quest-explained",
+      "titre": "Zelda OOT Remake: Full Biggoron’s Sword quest explained",
+      "url": "https://www.videogameschronicle.com/guide/zelda-oot-biggorons-sword-trade-sequence-quest/",
+      "sources": [
+        "Nintendo Life",
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 0.3,
+      "chaleur": 14,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/zelda-oot-biggorons-sword-trade-sequence-quest/",
+          "titre": "Zelda OOT Remake: Full Biggoron’s Sword quest explained"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/rumour-data-found-in-zelda-ocarina-of-time-may-hint-at-master-quest-dlc",
+          "titre": "Rumour: Data Found In Zelda: Ocarina Of Time May Hint At Master Quest DLC"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-407",
+          "titre": "What are we all playing this weekend?"
+        }
+      ]
+    },
     {
       "id": "sony-indefinitely-delays-another-ps5-peripheral-days-before",
       "titre": "Sony Indefinitely Delays Another PS5 Peripheral Days Before Release",
@@ -12,8 +42,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 5.9,
-      "chaleur": 11,
+      "heures": 13.2,
+      "chaleur": 10,
       "liens": [
         {
           "source": "Push Square",
@@ -28,6 +58,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "nintendo-s-bill-trinen-explains-why-ocarina-of-time-is-the-p",
+      "titre": "Nintendo's Bill Trinen Explains Why Ocarina Of Time Is The Perfect Entry Point Into The Zelda Universe",
+      "url": "https://www.nintendolife.com/news/2026/11/nintendos-bill-trinen-explains-why-ocarina-of-time-is-the-perfect-entry-point-into-the-zelda-universe",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 3.5,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/nintendos-bill-trinen-explains-why-ocarina-of-time-is-the-perfect-entry-point-into-the-zelda-universe",
+          "titre": "Nintendo's Bill Trinen Explains Why Ocarina Of Time Is The Perfect Entry Point Into The Zelda Universe"
+        }
+      ]
+    },
+    {
       "id": "star-wars-zero-company-studio-bit-reactor-lays-off-staff-a-m",
       "titre": "Star Wars Zero Company studio Bit Reactor lays off staff, a month after bringing furloughed developers back",
       "url": "https://www.eurogamer.net/star-wars-zero-company-bit-reactor-layoffs",
@@ -37,8 +85,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 9.8,
-      "chaleur": 10,
+      "heures": 17.1,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Eurogamer",
@@ -58,50 +106,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "talking-point-what-are-you-playing-this-weekend-7th-november",
-      "titre": "Talking Point: What Are You Playing This Weekend? (7th November)",
-      "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-7th-november",
+      "id": "feature-box-art-brawl-the-legend-of-zelda-ocarina-of-time-ul",
+      "titre": "Feature: Box Art Brawl: The Legend Of Zelda: Ocarina Of Time Ultimate Showdown",
+      "url": "https://www.nintendolife.com/features/box-art-brawl-the-legend-of-zelda-ocarina-of-time-ultimate-showdown",
       "sources": [
-        "Nintendo Life",
-        "Push Square",
-        "Rock Paper Shotgun"
+        "Nintendo Life"
       ],
-      "reprises": 3,
-      "heures": 19.9,
-      "chaleur": 9,
+      "reprises": 1,
+      "heures": 3.2,
+      "chaleur": 8,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-7th-november",
-          "titre": "Talking Point: What Are You Playing This Weekend? (7th November)"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-407",
-          "titre": "What are we all playing this weekend?"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-657",
-          "titre": "Talking Point: What Are You Playing This Weekend? - Issue 657"
+          "url": "https://www.nintendolife.com/features/box-art-brawl-the-legend-of-zelda-ocarina-of-time-ultimate-showdown",
+          "titre": "Feature: Box Art Brawl: The Legend Of Zelda: Ocarina Of Time Ultimate Showdown"
         }
       ]
     },
     {
-      "id": "report-silver-lake-and-the-saudi-arabia-pif-hold-talks-with",
-      "titre": "Report: Silver Lake and the Saudi Arabia PIF hold talks with Unity to explore acquisition",
-      "url": "https://www.gamedeveloper.com/business/silver-lake-and-the-saudi-arabia-pif-hold-talks-with-unity-to-explore-acquisition",
+      "id": "video-zelda-ocarina-of-time-side-by-side-graphics-comparison",
+      "titre": "Video: Zelda: Ocarina Of Time Side-By-Side Graphics Comparison (Switch 2, 3DS, N64)",
+      "url": "https://www.nintendolife.com/news/2026/11/video-zelda-ocarina-of-time-side-by-side-graphics-comparison-switch-2-3ds-n64",
       "sources": [
-        "Game Developer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 35.9,
-      "chaleur": 8,
+      "heures": 7.2,
+      "chaleur": 7,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/silver-lake-and-the-saudi-arabia-pif-hold-talks-with-unity-to-explore-acquisition",
-          "titre": "Report: Silver Lake and the Saudi Arabia PIF hold talks with Unity to explore acquisition"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/video-zelda-ocarina-of-time-side-by-side-graphics-comparison-switch-2-3ds-n64",
+          "titre": "Video: Zelda: Ocarina Of Time Side-By-Side Graphics Comparison (Switch 2, 3DS, N64)"
         }
       ]
     },
@@ -113,13 +149,85 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 11.7,
       "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/gaming-industry/a-bioware-documentary-was-already-in-the-works-when-the-shutdown-was-announced-with-the-studios-recent-closure-the-film-is-now-a-profound-valediction/",
           "titre": "A BioWare documentary was already in the works when the shutdown was announced: 'With the studio's recent closure, the film is now a profound valediction'"
+        }
+      ]
+    },
+    {
+      "id": "wow-forever-is-the-biggest-launch-in-world-of-warcraft-histo",
+      "titre": "WoW: Forever is the biggest launch in World of Warcraft history, says Blizzard",
+      "url": "https://www.eurogamer.net/wow-forever-biggest-launch-world-of-warcraft-history-concurrent-players",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/wow-forever-biggest-launch-world-of-warcraft-history-concurrent-players",
+          "titre": "WoW: Forever is the biggest launch in World of Warcraft history, says Blizzard"
+        }
+      ]
+    },
+    {
+      "id": "as-wardogs-season-3-looms-bulkhead-claims-to-have-built-one",
+      "titre": "As Wardogs Season 3 looms, Bulkhead claims to have built 'one of the world's most sophisticated anti-cheat systems', assisted by 'machine learning and AI'",
+      "url": "https://www.pcgamer.com/games/fps/as-wardogs-season-3-looms-bulkhead-claims-to-have-built-one-of-the-worlds-most-sophisticated-anti-cheat-systems-assisted-by-machine-learning-and-ai/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/as-wardogs-season-3-looms-bulkhead-claims-to-have-built-one-of-the-worlds-most-sophisticated-anti-cheat-systems-assisted-by-machine-learning-and-ai/",
+          "titre": "As Wardogs Season 3 looms, Bulkhead claims to have built 'one of the world's most sophisticated anti-cheat systems', assisted by 'machine learning and AI'"
+        }
+      ]
+    },
+    {
+      "id": "the-sunday-papers",
+      "titre": "The Sunday Papers",
+      "url": "https://www.rockpapershotgun.com/the-sunday-papers-835",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 2.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-sunday-papers-835",
+          "titre": "The Sunday Papers"
+        }
+      ]
+    },
+    {
+      "id": "digital-foundry-delivers-its-tech-verdict-on-stellar-blade-s",
+      "titre": "Digital Foundry Delivers Its Tech Verdict On Stellar Blade's Switch 2 Port",
+      "url": "https://www.nintendolife.com/news/2026/11/digital-foundry-delivers-its-tech-verdict-on-stellar-blades-switch-2-port",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/digital-foundry-delivers-its-tech-verdict-on-stellar-blades-switch-2-port",
+          "titre": "Digital Foundry Delivers Its Tech Verdict On Stellar Blade's Switch 2 Port"
         }
       ]
     },
@@ -132,8 +240,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 10.0,
-      "chaleur": 7,
+      "heures": 17.4,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -148,102 +256,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "path-of-exile-2-s-1-0-version-is-out-this-year-after-all-arr",
-      "titre": "Path of Exile 2's 1.0 version is out this year after all, arriving in December with a full campaign, two neat new classes, and more",
-      "url": "https://www.rockpapershotgun.com/path-of-exile-2s-10-version-is-out-this-year-after-all-arriving-in-december-with-a-full-campaign-two-neat-new-classes-and-more",
-      "sources": [
-        "PC Gamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 11.8,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/path-of-exile-2s-10-version-is-out-this-year-after-all-arriving-in-december-with-a-full-campaign-two-neat-new-classes-and-more",
-          "titre": "Path of Exile 2's 1.0 version is out this year after all, arriving in December with a full campaign, two neat new classes, and more"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/heres-whats-in-path-of-exile-2s-huge-1-0-release-coming-in-december/",
-          "titre": "Here's what's in Path of Exile 2’s huge 1.0 release, coming in December"
-        }
-      ]
-    },
-    {
-      "id": "path-of-exile-2-s-game-director-thinks-a-death-recap-will-fi",
-      "titre": "Path of Exile 2's game director thinks a death recap will finally allow us players to complain about the right things",
-      "url": "https://www.pcgamer.com/games/rpg/path-of-exile-2s-game-director-thinks-a-death-recap-will-finally-allow-us-players-to-complain-about-the-right-things/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/path-of-exile-2s-game-director-thinks-a-death-recap-will-finally-allow-us-players-to-complain-about-the-right-things/",
-          "titre": "Path of Exile 2's game director thinks a death recap will finally allow us players to complain about the right things"
-        }
-      ]
-    },
-    {
-      "id": "zelda-oot-remake-win-the-treasure-chest-shop-game",
-      "titre": "Zelda OOT Remake: Win the Treasure Chest Shop game",
-      "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-win-treasure-chest-shop-game/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 7.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-win-treasure-chest-shop-game/",
-          "titre": "Zelda OOT Remake: Win the Treasure Chest Shop game"
-        }
-      ]
-    },
-    {
-      "id": "assassin-s-creed-is-reportedly-going-to-ancient-rome-while-a",
-      "titre": "Assassin's Creed is reportedly going to ancient Rome, while a mobile spin-off heads to Jerusalem",
-      "url": "https://www.eurogamer.net/assassins-creed-mars-ancient-rome-pocket-mobile-jerusalem-rumour",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/assassins-creed-mars-ancient-rome-pocket-mobile-jerusalem-rumour",
-          "titre": "Assassin's Creed is reportedly going to ancient Rome, while a mobile spin-off heads to Jerusalem"
-        }
-      ]
-    },
-    {
-      "id": "rumour-data-found-in-zelda-ocarina-of-time-may-hint-at-maste",
-      "titre": "Rumour: Data Found In Zelda: Ocarina Of Time May Hint At Master Quest DLC",
-      "url": "https://www.nintendolife.com/news/2026/11/rumour-data-found-in-zelda-ocarina-of-time-may-hint-at-master-quest-dlc",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/rumour-data-found-in-zelda-ocarina-of-time-may-hint-at-master-quest-dlc",
-          "titre": "Rumour: Data Found In Zelda: Ocarina Of Time May Hint At Master Quest DLC"
-        }
-      ]
-    },
-    {
       "id": "i-feel-that-sense-of-responsibility-more-acutely-after-biow",
       "titre": "\"I feel that sense of responsibility more acutely\": After BioWare's closure, the makers of a new Mass Effect 3 co-op remaster mod look to carry their legacy",
       "url": "https://www.rockpapershotgun.com/i-feel-that-sense-of-responsibility-more-acutely-after-biowares-closure-the-makers-of-a-new-mass-effect-3-co-op-remaster-mod-look-to-carry-their-legacy",
@@ -251,7 +263,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 20.2,
       "chaleur": 6,
       "liens": [
         {
@@ -269,7 +281,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 22.2,
       "chaleur": 6,
       "liens": [
         {
@@ -280,56 +292,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "zelda-producer-eiji-aonuma-talks-about-the-benefits-of-long",
-      "titre": "Zelda Producer Eiji Aonuma Talks About The Benefits Of \"Long-Term-Tenured Staff\" At Nintendo",
-      "url": "https://www.nintendolife.com/news/2026/11/zelda-producer-eiji-aonuma-talks-about-the-benefits-of-long-term-tenured-staff-at-nintendo",
+      "id": "assassin-s-creed-is-reportedly-going-to-ancient-rome-while-a",
+      "titre": "Assassin's Creed is reportedly going to ancient Rome, while a mobile spin-off heads to Jerusalem",
+      "url": "https://www.eurogamer.net/assassins-creed-mars-ancient-rome-pocket-mobile-jerusalem-rumour",
       "sources": [
-        "Nintendo Life"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/zelda-producer-eiji-aonuma-talks-about-the-benefits-of-long-term-tenured-staff-at-nintendo",
-          "titre": "Zelda Producer Eiji Aonuma Talks About The Benefits Of \"Long-Term-Tenured Staff\" At Nintendo"
-        }
-      ]
-    },
-    {
-      "id": "rockstar-s-having-a-sale-on-old-gta-games-on-the-only-platfo",
-      "titre": "Rockstar's having a sale on old GTA games on the only platform Grand Theft Auto 6 isn't coming to (ours)",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstars-having-sale-on-old-gta-games-on-the-only-platform-grand-theft-auto-6-isnt-coming-to-ours/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 30.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstars-having-sale-on-old-gta-games-on-the-only-platform-grand-theft-auto-6-isnt-coming-to-ours/",
-          "titre": "Rockstar's having a sale on old GTA games on the only platform Grand Theft Auto 6 isn't coming to (ours)"
-        }
-      ]
-    },
-    {
-      "id": "zelda-oot-remake-scarecrow-song-explained-how-to-get-and-use",
-      "titre": "Zelda OOT Remake: Scarecrow Song explained, how to get and use it",
-      "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-scarecrow-song-explained-unlock/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 13.7,
+      "heures": 18.0,
       "chaleur": 5,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-scarecrow-song-explained-unlock/",
-          "titre": "Zelda OOT Remake: Scarecrow Song explained, how to get and use it"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/assassins-creed-mars-ancient-rome-pocket-mobile-jerusalem-rumour",
+          "titre": "Assassin's Creed is reportedly going to ancient Rome, while a mobile spin-off heads to Jerusalem"
         }
       ]
     },
@@ -341,7 +317,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 21.7,
       "chaleur": 5,
       "liens": [
         {
@@ -359,31 +335,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 21.8,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/11/icymi-call-of-duty-warzone-is-now-available-for-switch-2",
           "titre": "ICYMI: Call Of Duty: Warzone Is Now Available For Switch 2"
-        }
-      ]
-    },
-    {
-      "id": "poll-what-review-score-would-you-give-the-zelda-ocarina-of-t",
-      "titre": "Poll: What Review Score Would You Give The Zelda: Ocarina Of Time Remake?",
-      "url": "https://www.nintendolife.com/features/poll-what-review-score-would-you-give-the-zelda-ocarina-of-time-remake",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 15.9,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/poll-what-review-score-would-you-give-the-zelda-ocarina-of-time-remake",
-          "titre": "Poll: What Review Score Would You Give The Zelda: Ocarina Of Time Remake?"
         }
       ]
     },
@@ -395,7 +353,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.4,
+      "heures": 24.7,
       "chaleur": 5,
       "liens": [
         {
@@ -413,7 +371,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.9,
+      "heures": 32.2,
       "chaleur": 5,
       "liens": [
         {
@@ -424,20 +382,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "updated-xbox-pc-app-promises-60-faster-loading-and-easier-ac",
-      "titre": "Updated Xbox PC app promises 60% faster loading and easier access to games, but CEO Asha Sharma says there's \"plenty more to do\"",
-      "url": "https://www.eurogamer.net/updated-xbox-pc-app-faster-asha-sharma",
+      "id": "path-of-exile-2-s-game-director-thinks-a-death-recap-will-fi",
+      "titre": "Path of Exile 2's game director thinks a death recap will finally allow us players to complain about the right things",
+      "url": "https://www.pcgamer.com/games/rpg/path-of-exile-2s-game-director-thinks-a-death-recap-will-finally-allow-us-players-to-complain-about-the-right-things/",
       "sources": [
-        "Eurogamer"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 33.9,
-      "chaleur": 5,
+      "heures": 11.0,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/updated-xbox-pc-app-faster-asha-sharma",
-          "titre": "Updated Xbox PC app promises 60% faster loading and easier access to games, but CEO Asha Sharma says there's \"plenty more to do\""
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/path-of-exile-2s-game-director-thinks-a-death-recap-will-finally-allow-us-players-to-complain-about-the-right-things/",
+          "titre": "Path of Exile 2's game director thinks a death recap will finally allow us players to complain about the right things"
         }
       ]
     },
@@ -449,8 +407,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.2,
-      "chaleur": 4,
+      "heures": 12.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -467,8 +425,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.5,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -485,8 +443,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.0,
-      "chaleur": 4,
+      "heures": 14.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -503,8 +461,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.3,
-      "chaleur": 4,
+      "heures": 15.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -521,8 +479,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.9,
-      "chaleur": 4,
+      "heures": 17.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -539,13 +497,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.7,
-      "chaleur": 4,
+      "heures": 19.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/gaming-industry/amd-ceo-lisa-su-we-are-a-data-center-first-company/",
           "titre": "AMD CEO Lisa Su: 'We are a data center-first company'"
+        }
+      ]
+    },
+    {
+      "id": "path-of-exile-2-s-1-0-version-is-out-this-year-after-all-arr",
+      "titre": "Path of Exile 2's 1.0 version is out this year after all, arriving in December with a full campaign, two neat new classes, and more",
+      "url": "https://www.rockpapershotgun.com/path-of-exile-2s-10-version-is-out-this-year-after-all-arriving-in-december-with-a-full-campaign-two-neat-new-classes-and-more",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 19.2,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/path-of-exile-2s-10-version-is-out-this-year-after-all-arriving-in-december-with-a-full-campaign-two-neat-new-classes-and-more",
+          "titre": "Path of Exile 2's 1.0 version is out this year after all, arriving in December with a full campaign, two neat new classes, and more"
         }
       ]
     },
@@ -557,8 +533,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 4,
+      "heures": 19.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -575,7 +551,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 20.2,
       "chaleur": 3,
       "liens": [
         {
@@ -593,7 +569,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 20.3,
       "chaleur": 3,
       "liens": [
         {
@@ -611,7 +587,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 22.2,
       "chaleur": 3,
       "liens": [
         {
@@ -629,7 +605,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 23.0,
       "chaleur": 3,
       "liens": [
         {
@@ -647,7 +623,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 17.9,
+      "heures": 25.2,
       "chaleur": 3,
       "liens": [
         {
@@ -665,13 +641,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.6,
+      "heures": 26.0,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/rpg/nier-automata-developer-is-currently-investigating-a-bizarre-update-bug-that-drastically-inflated-the-games-file-size-from-50gb-to-366gb/",
           "titre": "Nier: Automata developer is 'currently investigating' a bizarre update bug that drastically inflated the game's file size from 50GB to 366GB"
+        }
+      ]
+    },
+    {
+      "id": "talking-point-what-are-you-playing-this-weekend-7th-november",
+      "titre": "Talking Point: What Are You Playing This Weekend? (7th November)",
+      "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-7th-november",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 27.2,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-7th-november",
+          "titre": "Talking Point: What Are You Playing This Weekend? (7th November)"
         }
       ]
     },
@@ -683,7 +677,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.8,
+      "heures": 29.2,
       "chaleur": 3,
       "liens": [
         {
@@ -692,79 +686,9 @@ const VEILLE = {
           "titre": "What we've been playing - \"Sniffing out the warehouses on Prawn Island\""
         }
       ]
-    },
-    {
-      "id": "the-ai-posting-war-is-heating-up-please-leave-me-behind-says",
-      "titre": "The AI posting war is heating up: 'Please, leave me behind,' says artist who got into it with Epic CEO Tim Sweeney on X",
-      "url": "https://www.pcgamer.com/software/ai/the-ai-posting-war-is-heating-up-please-leave-me-behind-says-artist-who-got-into-it-with-epic-ceo-tim-sweeney-on-x/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 31.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/the-ai-posting-war-is-heating-up-please-leave-me-behind-says-artist-who-got-into-it-with-epic-ceo-tim-sweeney-on-x/",
-          "titre": "The AI posting war is heating up: 'Please, leave me behind,' says artist who got into it with Epic CEO Tim Sweeney on X"
-        }
-      ]
-    },
-    {
-      "id": "sag-aftra-introduces-new-process-for-hiring-union-actors-in",
-      "titre": "SAG-AFTRA introduces new process for hiring union actors in game pitches",
-      "url": "https://www.gamedeveloper.com/production/sag-aftra-introduces-new-process-for-using-actors-in-game-pitches",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 34.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/production/sag-aftra-introduces-new-process-for-using-actors-in-game-pitches",
-          "titre": "SAG-AFTRA introduces new process for hiring union actors in game pitches"
-        }
-      ]
-    },
-    {
-      "id": "mass-effect-like-rpg-the-expanse-osiris-reborn-ropes-in-davi",
-      "titre": "Mass Effect-like RPG The Expanse: Osiris Reborn ropes in David Gaider, the original lead writer of Bioware's Dragon Age series",
-      "url": "https://www.eurogamer.net/mass-effect-expanse-rpg-david-gaider",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 35.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/mass-effect-expanse-rpg-david-gaider",
-          "titre": "Mass Effect-like RPG The Expanse: Osiris Reborn ropes in David Gaider, the original lead writer of Bioware's Dragon Age series"
-        }
-      ]
-    },
-    {
-      "id": "game-of-the-month-phantom-blade-zero-october-2026",
-      "titre": "Game of the Month: Phantom Blade Zero (October 2026)",
-      "url": "https://www.pushsquare.com/features/game-of-the-month-phantom-blade-zero-october-2026",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 35.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/game-of-the-month-phantom-blade-zero-october-2026",
-          "titre": "Game of the Month: Phantom Blade Zero (October 2026)"
-        }
-      ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "Zelda OOT Remake: Full Biggoron’s Sword quest explained"
+  ]
 };
