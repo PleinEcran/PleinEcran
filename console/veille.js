@@ -1,35 +1,77 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "08/11/2026 à 13h13",
+  "collecte": "08/11/2026 à 18h46",
   "seuil": 14,
   "sujets": [
     {
-      "id": "zelda-oot-remake-full-biggoron-s-sword-quest-explained",
-      "titre": "Zelda OOT Remake: Full Biggoron’s Sword quest explained",
-      "url": "https://www.videogameschronicle.com/guide/zelda-oot-biggorons-sword-trade-sequence-quest/",
+      "id": "ocarina-of-time-remake-datamine-suggests-master-quest-is-on",
+      "titre": "Ocarina of Time remake datamine suggests Master Quest is on the way",
+      "url": "https://www.eurogamer.net/zelda-ocarina-of-time-remake-master-quest-dlc-datamine",
       "sources": [
-        "Nintendo Life",
-        "Rock Paper Shotgun",
-        "VGC"
+        "Eurogamer",
+        "Nintendo Life"
       ],
-      "reprises": 3,
-      "heures": 0.3,
-      "chaleur": 14,
+      "reprises": 2,
+      "heures": 1.1,
+      "chaleur": 11,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/zelda-oot-biggorons-sword-trade-sequence-quest/",
-          "titre": "Zelda OOT Remake: Full Biggoron’s Sword quest explained"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/zelda-ocarina-of-time-remake-master-quest-dlc-datamine",
+          "titre": "Ocarina of Time remake datamine suggests Master Quest is on the way"
         },
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/11/rumour-data-found-in-zelda-ocarina-of-time-may-hint-at-master-quest-dlc",
           "titre": "Rumour: Data Found In Zelda: Ocarina Of Time May Hint At Master Quest DLC"
+        }
+      ]
+    },
+    {
+      "id": "guide-best-zelda-games-of-all-time",
+      "titre": "Guide: Best Zelda Games Of All Time",
+      "url": "https://www.nintendolife.com/guides/best-zelda-games-of-all-time",
+      "sources": [
+        "Nintendo Life",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 2.8,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/guides/best-zelda-games-of-all-time",
+          "titre": "Guide: Best Zelda Games Of All Time"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-all-empty-bottle-locations/",
+          "titre": "Zelda OOT Remake: All Empty Bottle locations"
+        }
+      ]
+    },
+    {
+      "id": "saving-mass-effect-would-take-200m-says-bioware-co-founder",
+      "titre": "Saving Mass Effect would take $200m+, says BioWare co-founder",
+      "url": "https://www.eurogamer.net/mass-effect-5-save-cost-200m-bioware-co-founder-trent-oster",
+      "sources": [
+        "Eurogamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 4.3,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/mass-effect-5-save-cost-200m-bioware-co-founder-trent-oster",
+          "titre": "Saving Mass Effect would take $200m+, says BioWare co-founder"
         },
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-407",
-          "titre": "What are we all playing this weekend?"
+          "url": "https://www.rockpapershotgun.com/i-feel-that-sense-of-responsibility-more-acutely-after-biowares-closure-the-makers-of-a-new-mass-effect-3-co-op-remaster-mod-look-to-carry-their-legacy",
+          "titre": "\"I feel that sense of responsibility more acutely\": After BioWare's closure, the makers of a new Mass Effect 3 co-op remaster mod look to carry their legacy"
         }
       ]
     },
@@ -42,7 +84,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 13.2,
+      "heures": 18.8,
       "chaleur": 10,
       "liens": [
         {
@@ -59,49 +101,163 @@ const VEILLE = {
     },
     {
       "id": "nintendo-s-bill-trinen-explains-why-ocarina-of-time-is-the-p",
-      "titre": "Nintendo's Bill Trinen Explains Why Ocarina Of Time Is The Perfect Entry Point Into The Zelda Universe",
-      "url": "https://www.nintendolife.com/news/2026/11/nintendos-bill-trinen-explains-why-ocarina-of-time-is-the-perfect-entry-point-into-the-zelda-universe",
+      "titre": "Nintendo's Bill Trinen Explains Why Ocarina Of Time Is The Perfect Place To Start In The Zelda Universe",
+      "url": "https://www.nintendolife.com/news/2026/11/nintendos-bill-trinen-explains-why-ocarina-of-time-is-the-perfect-place-to-start-in-the-zelda-universe",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 9,
+      "heures": 9.0,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/nintendos-bill-trinen-explains-why-ocarina-of-time-is-the-perfect-entry-point-into-the-zelda-universe",
-          "titre": "Nintendo's Bill Trinen Explains Why Ocarina Of Time Is The Perfect Entry Point Into The Zelda Universe"
+          "url": "https://www.nintendolife.com/news/2026/11/nintendos-bill-trinen-explains-why-ocarina-of-time-is-the-perfect-place-to-start-in-the-zelda-universe",
+          "titre": "Nintendo's Bill Trinen Explains Why Ocarina Of Time Is The Perfect Place To Start In The Zelda Universe"
         }
       ]
     },
     {
-      "id": "star-wars-zero-company-studio-bit-reactor-lays-off-staff-a-m",
-      "titre": "Star Wars Zero Company studio Bit Reactor lays off staff, a month after bringing furloughed developers back",
-      "url": "https://www.eurogamer.net/star-wars-zero-company-bit-reactor-layoffs",
+      "id": "skyrim-lead-designer-bruce-nesmith-loved-that-baldur-s-gate",
+      "titre": "Skyrim lead designer Bruce Nesmith loved that Baldur's Gate 3 closed off story paths based on your decisions, but defends Bethesda's approach: 'They were both fun, they're just fun in different ways'",
+      "url": "https://www.pcgamer.com/games/the-elder-scrolls/skyrim-lead-designer-bruce-nesmith-loved-that-baldurs-gate-3-closed-off-story-paths-based-on-your-decisions-but-defends-bethesdas-approach-they-were-both-fun-theyre-just-fun-in-different-ways/",
       "sources": [
-        "Eurogamer",
-        "PC Gamer",
-        "Rock Paper Shotgun"
+        "PC Gamer"
       ],
-      "reprises": 3,
-      "heures": 17.1,
-      "chaleur": 9,
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-elder-scrolls/skyrim-lead-designer-bruce-nesmith-loved-that-baldurs-gate-3-closed-off-story-paths-based-on-your-decisions-but-defends-bethesdas-approach-they-were-both-fun-theyre-just-fun-in-different-ways/",
+          "titre": "Skyrim lead designer Bruce Nesmith loved that Baldur's Gate 3 closed off story paths based on your decisions, but defends Bethesda's approach: 'They were both fun, they're just fun in different ways'"
+        }
+      ]
+    },
+    {
+      "id": "ichorous-is-the-bloody-platformer-i-ve-been-waiting-for-ever",
+      "titre": "Ichorous is the bloody platformer I've been waiting for ever since I finished Blasphemous 2",
+      "url": "https://www.pcgamer.com/games/roguelike/ichorous-is-the-bloody-platformer-ive-been-waiting-for-ever-since-i-finished-blasphemous-2/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/roguelike/ichorous-is-the-bloody-platformer-ive-been-waiting-for-ever-since-i-finished-blasphemous-2/",
+          "titre": "Ichorous is the bloody platformer I've been waiting for ever since I finished Blasphemous 2"
+        }
+      ]
+    },
+    {
+      "id": "my-apologies-deadlock-i-wasn-t-familiar-with-your-musical-ga",
+      "titre": "My apologies Deadlock, I wasn't familiar with your (musical) game",
+      "url": "https://www.pcgamer.com/games/moba/my-apologies-deadlock-i-wasnt-familiar-with-your-musical-game/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/moba/my-apologies-deadlock-i-wasnt-familiar-with-your-musical-game/",
+          "titre": "My apologies Deadlock, I wasn't familiar with your (musical) game"
+        }
+      ]
+    },
+    {
+      "id": "phasmophobia-players-raise-over-230-000-for-heart-charity-mo",
+      "titre": "Phasmophobia players raise over $230,000 for heart charity, more than double last year's total",
+      "url": "https://www.eurogamer.net/phasmophobia-ghost-hunts-for-hearts-230000-american-heart-association",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 2.1,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/star-wars-zero-company-bit-reactor-layoffs",
-          "titre": "Star Wars Zero Company studio Bit Reactor lays off staff, a month after bringing furloughed developers back"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/after-star-wars-zero-company-dev-bit-reactor-brought-back-an-unspecified-number-of-furloughed-devs-some-of-those-who-werent-have-seemingly-been-laid-off",
-          "titre": "After Star Wars Zero Company dev Bit Reactor brought back an unspecified number of furloughed devs, some of those who weren't have seemingly been laid off"
-        },
+          "url": "https://www.eurogamer.net/phasmophobia-ghost-hunts-for-hearts-230000-american-heart-association",
+          "titre": "Phasmophobia players raise over $230,000 for heart charity, more than double last year's total"
+        }
+      ]
+    },
+    {
+      "id": "dominic-armato-voice-of-guybrush-threepwood-has-always-loved",
+      "titre": "Dominic Armato, voice of Guybrush Threepwood, has always loved LucasArts' adventure games, but there's one he still can't get into: 'I get 10 minutes in and I'm like, oh, this is tedious, man'",
+      "url": "https://www.pcgamer.com/gaming-industry/dominic-armato-voice-of-guybrush-threepwood-has-always-loved-lucasarts-adventure-games-but-theres-one-he-still-cant-get-into-i-get-10-minutes-in-and-im-like-oh-this-is-tedious-man/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.8,
+      "chaleur": 6,
+      "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/strategy/after-furloughing-its-developers-and-then-hiring-some-of-them-back-star-wars-zero-company-developer-has-laid-off-an-unspecified-number-of-staff/",
-          "titre": "After furloughing its developers and then hiring some of them back, Star Wars Zero Company developer has laid off an unspecified number of staff"
+          "url": "https://www.pcgamer.com/gaming-industry/dominic-armato-voice-of-guybrush-threepwood-has-always-loved-lucasarts-adventure-games-but-theres-one-he-still-cant-get-into-i-get-10-minutes-in-and-im-like-oh-this-is-tedious-man/",
+          "titre": "Dominic Armato, voice of Guybrush Threepwood, has always loved LucasArts' adventure games, but there's one he still can't get into: 'I get 10 minutes in and I'm like, oh, this is tedious, man'"
+        }
+      ]
+    },
+    {
+      "id": "inspired-by-dark-messiah-and-thief-this-stealth-game-sees-yo",
+      "titre": "Inspired by Dark Messiah and Thief, this stealth game sees you sneak through a medieval megastructure prowled by undead guards",
+      "url": "https://www.pcgamer.com/games/sim/inspired-by-dark-messiah-and-thief-this-stealth-game-sees-you-sneak-through-a-medieval-megastructure-prowled-by-undead-guards/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 3.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sim/inspired-by-dark-messiah-and-thief-this-stealth-game-sees-you-sneak-through-a-medieval-megastructure-prowled-by-undead-guards/",
+          "titre": "Inspired by Dark Messiah and Thief, this stealth game sees you sneak through a medieval megastructure prowled by undead guards"
+        }
+      ]
+    },
+    {
+      "id": "wow-forever-is-more-than-just-a-millennial-retirement-home",
+      "titre": "WoW: Forever is more than just a millennial retirement home",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-is-more-than-just-a-millennial-retirement-home/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 3.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-is-more-than-just-a-millennial-retirement-home/",
+          "titre": "WoW: Forever is more than just a millennial retirement home"
+        }
+      ]
+    },
+    {
+      "id": "zelda-oot-remake-get-the-silver-and-golden-scales-to-dive-de",
+      "titre": "Zelda OOT Remake: Get the Silver and Golden Scales to dive deeper",
+      "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-silver-golden-scale-dive/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 5.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-silver-golden-scale-dive/",
+          "titre": "Zelda OOT Remake: Get the Silver and Golden Scales to dive deeper"
         }
       ]
     },
@@ -113,13 +269,31 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 8,
+      "heures": 8.8,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/features/box-art-brawl-the-legend-of-zelda-ocarina-of-time-ultimate-showdown",
           "titre": "Feature: Box Art Brawl: The Legend Of Zelda: Ocarina Of Time Ultimate Showdown"
+        }
+      ]
+    },
+    {
+      "id": "digital-foundry-delivers-its-tech-verdict-on-stellar-blade-s",
+      "titre": "Digital Foundry Delivers Its Tech Verdict On Stellar Blade's Switch 2 Port",
+      "url": "https://www.nintendolife.com/news/2026/11/digital-foundry-delivers-its-tech-verdict-on-stellar-blades-switch-2-port",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 10.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/digital-foundry-delivers-its-tech-verdict-on-stellar-blades-switch-2-port",
+          "titre": "Digital Foundry Delivers Its Tech Verdict On Stellar Blade's Switch 2 Port"
         }
       ]
     },
@@ -131,8 +305,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.2,
-      "chaleur": 7,
+      "heures": 12.8,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -149,8 +323,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.7,
-      "chaleur": 7,
+      "heures": 17.3,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
@@ -160,116 +334,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "wow-forever-is-the-biggest-launch-in-world-of-warcraft-histo",
-      "titre": "WoW: Forever is the biggest launch in World of Warcraft history, says Blizzard",
-      "url": "https://www.eurogamer.net/wow-forever-biggest-launch-world-of-warcraft-history-concurrent-players",
+      "id": "star-wars-zero-company-studio-bit-reactor-lays-off-staff-a-m",
+      "titre": "Star Wars Zero Company studio Bit Reactor lays off staff, a month after bringing furloughed developers back",
+      "url": "https://www.eurogamer.net/star-wars-zero-company-bit-reactor-layoffs",
       "sources": [
-        "Eurogamer"
+        "Eurogamer",
+        "Rock Paper Shotgun"
       ],
-      "reprises": 1,
-      "heures": 0.1,
+      "reprises": 2,
+      "heures": 22.7,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/wow-forever-biggest-launch-world-of-warcraft-history-concurrent-players",
-          "titre": "WoW: Forever is the biggest launch in World of Warcraft history, says Blizzard"
-        }
-      ]
-    },
-    {
-      "id": "as-wardogs-season-3-looms-bulkhead-claims-to-have-built-one",
-      "titre": "As Wardogs Season 3 looms, Bulkhead claims to have built 'one of the world's most sophisticated anti-cheat systems', assisted by 'machine learning and AI'",
-      "url": "https://www.pcgamer.com/games/fps/as-wardogs-season-3-looms-bulkhead-claims-to-have-built-one-of-the-worlds-most-sophisticated-anti-cheat-systems-assisted-by-machine-learning-and-ai/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/as-wardogs-season-3-looms-bulkhead-claims-to-have-built-one-of-the-worlds-most-sophisticated-anti-cheat-systems-assisted-by-machine-learning-and-ai/",
-          "titre": "As Wardogs Season 3 looms, Bulkhead claims to have built 'one of the world's most sophisticated anti-cheat systems', assisted by 'machine learning and AI'"
-        }
-      ]
-    },
-    {
-      "id": "the-sunday-papers",
-      "titre": "The Sunday Papers",
-      "url": "https://www.rockpapershotgun.com/the-sunday-papers-835",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-sunday-papers-835",
-          "titre": "The Sunday Papers"
-        }
-      ]
-    },
-    {
-      "id": "digital-foundry-delivers-its-tech-verdict-on-stellar-blade-s",
-      "titre": "Digital Foundry Delivers Its Tech Verdict On Stellar Blade's Switch 2 Port",
-      "url": "https://www.nintendolife.com/news/2026/11/digital-foundry-delivers-its-tech-verdict-on-stellar-blades-switch-2-port",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 5.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/digital-foundry-delivers-its-tech-verdict-on-stellar-blades-switch-2-port",
-          "titre": "Digital Foundry Delivers Its Tech Verdict On Stellar Blade's Switch 2 Port"
-        }
-      ]
-    },
-    {
-      "id": "this-trailer-is-my-way-of-saying-goodbye-have-a-listen-to-t",
-      "titre": "\"This trailer is my way of saying goodbye\": Have a listen to the Mass Effect 5 score that could have been, courtesy of one of the original games' composers",
-      "url": "https://www.rockpapershotgun.com/this-trailer-is-my-way-of-saying-goodbye-have-a-listen-to-the-mass-effect-5-score-that-could-have-been-courtesy-of-one-of-the-original-games-composers",
-      "sources": [
-        "PC Gamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 17.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/this-trailer-is-my-way-of-saying-goodbye-have-a-listen-to-the-mass-effect-5-score-that-could-have-been-courtesy-of-one-of-the-original-games-composers",
-          "titre": "\"This trailer is my way of saying goodbye\": Have a listen to the Mass Effect 5 score that could have been, courtesy of one of the original games' composers"
+          "url": "https://www.eurogamer.net/star-wars-zero-company-bit-reactor-layoffs",
+          "titre": "Star Wars Zero Company studio Bit Reactor lays off staff, a month after bringing furloughed developers back"
         },
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/mass-effect/mass-effect-composer-sam-hulick-releases-his-re-scored-trailer-for-n7-day-my-way-of-saying-goodbye-at-least-for-now/",
-          "titre": "Mass Effect composer Sam Hulick releases his 're-scored' trailer for N7 Day, 'my way of saying goodbye… at least for now'"
-        }
-      ]
-    },
-    {
-      "id": "i-feel-that-sense-of-responsibility-more-acutely-after-biow",
-      "titre": "\"I feel that sense of responsibility more acutely\": After BioWare's closure, the makers of a new Mass Effect 3 co-op remaster mod look to carry their legacy",
-      "url": "https://www.rockpapershotgun.com/i-feel-that-sense-of-responsibility-more-acutely-after-biowares-closure-the-makers-of-a-new-mass-effect-3-co-op-remaster-mod-look-to-carry-their-legacy",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 20.2,
-      "chaleur": 6,
-      "liens": [
-        {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/i-feel-that-sense-of-responsibility-more-acutely-after-biowares-closure-the-makers-of-a-new-mass-effect-3-co-op-remaster-mod-look-to-carry-their-legacy",
-          "titre": "\"I feel that sense of responsibility more acutely\": After BioWare's closure, the makers of a new Mass Effect 3 co-op remaster mod look to carry their legacy"
+          "url": "https://www.rockpapershotgun.com/after-star-wars-zero-company-dev-bit-reactor-brought-back-an-unspecified-number-of-furloughed-devs-some-of-those-who-werent-have-seemingly-been-laid-off",
+          "titre": "After Star Wars Zero Company dev Bit Reactor brought back an unspecified number of furloughed devs, some of those who weren't have seemingly been laid off"
         }
       ]
     },
@@ -281,13 +365,37 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 22.2,
+      "heures": 27.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/11/gta-6s-ps5-physical-edition-revealed-in-first-photo",
           "titre": "GTA 6's PS5 Physical Edition Revealed in First Photo"
+        }
+      ]
+    },
+    {
+      "id": "talking-point-what-are-you-playing-this-weekend-7th-november",
+      "titre": "Talking Point: What Are You Playing This Weekend? (7th November)",
+      "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-7th-november",
+      "sources": [
+        "Nintendo Life",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 32.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-7th-november",
+          "titre": "Talking Point: What Are You Playing This Weekend? (7th November)"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-407",
+          "titre": "What are we all playing this weekend?"
         }
       ]
     },
@@ -299,7 +407,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 18.0,
+      "heures": 23.5,
       "chaleur": 5,
       "liens": [
         {
@@ -317,7 +425,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 21.7,
+      "heures": 27.3,
       "chaleur": 5,
       "liens": [
         {
@@ -335,7 +443,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.8,
+      "heures": 27.4,
       "chaleur": 5,
       "liens": [
         {
@@ -353,7 +461,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 24.7,
+      "heures": 30.3,
       "chaleur": 5,
       "liens": [
         {
@@ -364,20 +472,128 @@ const VEILLE = {
       ]
     },
     {
-      "id": "sudden-illness-sees-miyamoto-miss-nintendo-s-financial-brief",
-      "titre": "Sudden Illness Sees Miyamoto Miss Nintendo's Financial Briefing, But He's Expected To Make A Quick Recovery",
-      "url": "https://www.nintendolife.com/news/2026/11/sudden-illness-sees-miyamoto-miss-nintendos-financial-briefing-but-hes-expected-to-make-a-quick-recovery",
+      "id": "opinion-onimusha-vs-phantom-blade-zero-the-insane-sword-figh",
+      "titre": "Opinion: Onimusha vs Phantom Blade Zero - The Insane Sword Fight for Game of the Year",
+      "url": "https://www.pushsquare.com/features/opinion-onimusha-vs-phantom-blade-zero-the-insane-sword-fight-for-game-of-the-year",
       "sources": [
-        "Nintendo Life"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 32.2,
-      "chaleur": 5,
+      "heures": 4.8,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/sudden-illness-sees-miyamoto-miss-nintendos-financial-briefing-but-hes-expected-to-make-a-quick-recovery",
-          "titre": "Sudden Illness Sees Miyamoto Miss Nintendo's Financial Briefing, But He's Expected To Make A Quick Recovery"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/opinion-onimusha-vs-phantom-blade-zero-the-insane-sword-fight-for-game-of-the-year",
+          "titre": "Opinion: Onimusha vs Phantom Blade Zero - The Insane Sword Fight for Game of the Year"
+        }
+      ]
+    },
+    {
+      "id": "god-of-war-spin-off-game-seemingly-getting-surprise-ps4-port",
+      "titre": "God of War Spin-Off Game Seemingly Getting Surprise PS4 Port",
+      "url": "https://www.pushsquare.com/news/2026/11/god-of-war-spin-off-game-seemingly-getting-surprise-ps4-port",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/god-of-war-spin-off-game-seemingly-getting-surprise-ps4-port",
+          "titre": "God of War Spin-Off Game Seemingly Getting Surprise PS4 Port"
+        }
+      ]
+    },
+    {
+      "id": "missing-teenager-rescued-after-reaching-out-to-another-playe",
+      "titre": "Missing teenager rescued after reaching out to another player in Among Us",
+      "url": "https://www.eurogamer.net/among-us-missing-teen-rescued-utah-oregon",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/among-us-missing-teen-rescued-utah-oregon",
+          "titre": "Missing teenager rescued after reaching out to another player in Among Us"
+        }
+      ]
+    },
+    {
+      "id": "this-massive-mod-essentially-turns-skyrim-into-a-persistent",
+      "titre": "This massive mod essentially turns Skyrim into a persistent MMO 'where player actions create lasting consequences'",
+      "url": "https://www.pcgamer.com/games/the-elder-scrolls/this-massive-mod-essentially-turns-skyrim-into-a-persistent-mmo-where-player-actions-create-lasting-consequences/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-elder-scrolls/this-massive-mod-essentially-turns-skyrim-into-a-persistent-mmo-where-player-actions-create-lasting-consequences/",
+          "titre": "This massive mod essentially turns Skyrim into a persistent MMO 'where player actions create lasting consequences'"
+        }
+      ]
+    },
+    {
+      "id": "wow-forever-is-the-biggest-launch-in-world-of-warcraft-histo",
+      "titre": "WoW: Forever is the biggest launch in World of Warcraft history, says Blizzard",
+      "url": "https://www.eurogamer.net/wow-forever-biggest-launch-world-of-warcraft-history-concurrent-players",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/wow-forever-biggest-launch-world-of-warcraft-history-concurrent-players",
+          "titre": "WoW: Forever is the biggest launch in World of Warcraft history, says Blizzard"
+        }
+      ]
+    },
+    {
+      "id": "as-wardogs-season-3-looms-bulkhead-claims-to-have-built-one",
+      "titre": "As Wardogs Season 3 looms, Bulkhead claims to have built 'one of the world's most sophisticated anti-cheat systems', assisted by 'machine learning and AI'",
+      "url": "https://www.pcgamer.com/games/fps/as-wardogs-season-3-looms-bulkhead-claims-to-have-built-one-of-the-worlds-most-sophisticated-anti-cheat-systems-assisted-by-machine-learning-and-ai/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/as-wardogs-season-3-looms-bulkhead-claims-to-have-built-one-of-the-worlds-most-sophisticated-anti-cheat-systems-assisted-by-machine-learning-and-ai/",
+          "titre": "As Wardogs Season 3 looms, Bulkhead claims to have built 'one of the world's most sophisticated anti-cheat systems', assisted by 'machine learning and AI'"
+        }
+      ]
+    },
+    {
+      "id": "the-sunday-papers",
+      "titre": "The Sunday Papers",
+      "url": "https://www.rockpapershotgun.com/the-sunday-papers-835",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 7.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-sunday-papers-835",
+          "titre": "The Sunday Papers"
         }
       ]
     },
@@ -389,8 +605,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.0,
-      "chaleur": 4,
+      "heures": 16.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -407,7 +623,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 18.1,
       "chaleur": 3,
       "liens": [
         {
@@ -425,7 +641,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 19.4,
       "chaleur": 3,
       "liens": [
         {
@@ -443,7 +659,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 19.9,
       "chaleur": 3,
       "liens": [
         {
@@ -461,7 +677,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.7,
+      "heures": 21.3,
       "chaleur": 3,
       "liens": [
         {
@@ -479,13 +695,31 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 17.2,
+      "heures": 22.8,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/features/going-platinum-for-about-two-months-i-was-a-devout-member-of-the-cult-of-the-lamb",
           "titre": "Feature: Going Platinum: For About Two Months, I Was a Devout Member of the Cult of the Lamb"
+        }
+      ]
+    },
+    {
+      "id": "this-trailer-is-my-way-of-saying-goodbye-have-a-listen-to-t",
+      "titre": "\"This trailer is my way of saying goodbye\": Have a listen to the Mass Effect 5 score that could have been, courtesy of one of the original games' composers",
+      "url": "https://www.rockpapershotgun.com/this-trailer-is-my-way-of-saying-goodbye-have-a-listen-to-the-mass-effect-5-score-that-could-have-been-courtesy-of-one-of-the-original-games-composers",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 23.0,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/this-trailer-is-my-way-of-saying-goodbye-have-a-listen-to-the-mass-effect-5-score-that-could-have-been-courtesy-of-one-of-the-original-games-composers",
+          "titre": "\"This trailer is my way of saying goodbye\": Have a listen to the Mass Effect 5 score that could have been, courtesy of one of the original games' composers"
         }
       ]
     },
@@ -497,7 +731,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.1,
+      "heures": 24.6,
       "chaleur": 3,
       "liens": [
         {
@@ -515,7 +749,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 19.2,
+      "heures": 24.8,
       "chaleur": 3,
       "liens": [
         {
@@ -533,7 +767,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.2,
+      "heures": 24.8,
       "chaleur": 3,
       "liens": [
         {
@@ -551,7 +785,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 20.2,
+      "heures": 25.8,
       "chaleur": 3,
       "liens": [
         {
@@ -569,49 +803,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 20.3,
+      "heures": 25.9,
       "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/wardogs-season-3-release-date-limited-mode-ban-wave",
           "titre": "Wardogs Season 3 brings an urban map, Limited Mode, and a 185,000-account ban wave"
-        }
-      ]
-    },
-    {
-      "id": "linux-on-the-desktop-marches-on-as-gog-announces-its-galaxy",
-      "titre": "Linux on the desktop marches on as GOG announces its Galaxy client is getting a revamp headed to Windows, macOS, and your distro of choice",
-      "url": "https://www.pcgamer.com/software/linux/linux-on-the-desktop-marches-on-as-gog-announces-its-galaxy-client-is-getting-a-revamp-headed-to-windows-macos-and-your-distro-of-choice/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 22.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/linux/linux-on-the-desktop-marches-on-as-gog-announces-its-galaxy-client-is-getting-a-revamp-headed-to-windows-macos-and-your-distro-of-choice/",
-          "titre": "Linux on the desktop marches on as GOG announces its Galaxy client is getting a revamp headed to Windows, macOS, and your distro of choice"
-        }
-      ]
-    },
-    {
-      "id": "todd-howard-s-game-design-power-is-knowing-when-to-make-thin",
-      "titre": "Todd Howard's game design power is knowing when to make things 'simple and digestible' according to Skyrim's lead designer",
-      "url": "https://www.pcgamer.com/games/the-elder-scrolls/todd-howards-game-design-power-is-knowing-when-to-make-things-simple-and-digestible-according-to-skyrims-lead-designer/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 23.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-elder-scrolls/todd-howards-game-design-power-is-knowing-when-to-make-things-simple-and-digestible-according-to-skyrims-lead-designer/",
-          "titre": "Todd Howard's game design power is knowing when to make things 'simple and digestible' according to Skyrim's lead designer"
         }
       ]
     },
@@ -623,49 +821,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 25.2,
+      "heures": 30.8,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/guides/these-13plus-ps5-games-are-coming-out-next-week-9th-15th-november",
           "titre": "Guide: These 13+ PS5 Games Are Coming Out Next Week (9th-15th November)"
-        }
-      ]
-    },
-    {
-      "id": "nier-automata-developer-is-currently-investigating-a-bizarre",
-      "titre": "Nier: Automata developer is 'currently investigating' a bizarre update bug that drastically inflated the game's file size from 50GB to 366GB",
-      "url": "https://www.pcgamer.com/games/rpg/nier-automata-developer-is-currently-investigating-a-bizarre-update-bug-that-drastically-inflated-the-games-file-size-from-50gb-to-366gb/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 26.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/nier-automata-developer-is-currently-investigating-a-bizarre-update-bug-that-drastically-inflated-the-games-file-size-from-50gb-to-366gb/",
-          "titre": "Nier: Automata developer is 'currently investigating' a bizarre update bug that drastically inflated the game's file size from 50GB to 366GB"
-        }
-      ]
-    },
-    {
-      "id": "talking-point-what-are-you-playing-this-weekend-7th-november",
-      "titre": "Talking Point: What Are You Playing This Weekend? (7th November)",
-      "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-7th-november",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 27.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-7th-november",
-          "titre": "Talking Point: What Are You Playing This Weekend? (7th November)"
         }
       ]
     },
@@ -677,7 +839,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.2,
+      "heures": 34.7,
       "chaleur": 3,
       "liens": [
         {
@@ -688,7 +850,5 @@ const VEILLE = {
       ]
     }
   ],
-  "alertes": [
-    "Zelda OOT Remake: Full Biggoron’s Sword quest explained"
-  ]
+  "alertes": []
 };
