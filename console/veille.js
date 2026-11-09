@@ -1,32 +1,8 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "08/11/2026 à 23h38",
+  "collecte": "09/11/2026 à 06h06",
   "seuil": 14,
   "sujets": [
-    {
-      "id": "saving-mass-effect-would-take-200m-says-bioware-co-founder",
-      "titre": "Saving Mass Effect would take $200m+, says BioWare co-founder",
-      "url": "https://www.eurogamer.net/mass-effect-5-save-cost-200m-bioware-co-founder-trent-oster",
-      "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 9.1,
-      "chaleur": 10,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/mass-effect-5-save-cost-200m-bioware-co-founder-trent-oster",
-          "titre": "Saving Mass Effect would take $200m+, says BioWare co-founder"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/i-feel-that-sense-of-responsibility-more-acutely-after-biowares-closure-the-makers-of-a-new-mass-effect-3-co-op-remaster-mod-look-to-carry-their-legacy",
-          "titre": "\"I feel that sense of responsibility more acutely\": After BioWare's closure, the makers of a new Mass Effect 3 co-op remaster mod look to carry their legacy"
-        }
-      ]
-    },
     {
       "id": "sony-indefinitely-delays-another-ps5-peripheral-days-before",
       "titre": "Sony Indefinitely Delays Another PS5 Peripheral Days Before Release",
@@ -36,7 +12,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 23.6,
+      "heures": 30.1,
       "chaleur": 10,
       "liens": [
         {
@@ -60,8 +36,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 6.0,
-      "chaleur": 9,
+      "heures": 12.4,
+      "chaleur": 8,
       "liens": [
         {
           "source": "Eurogamer",
@@ -84,8 +60,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 7.6,
-      "chaleur": 9,
+      "heures": 14.1,
+      "chaleur": 8,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -100,56 +76,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "jackbox-games-isn-t-interested-in-ai-development-all-that-is",
-      "titre": "Jackbox Games isn't interested in AI development: 'All that is done by people, and we have no intention of changing that'",
-      "url": "https://www.pcgamer.com/gaming-industry/game-development/jackbox-games-isnt-interested-in-ai-development-all-that-is-done-by-people-and-we-have-no-intention-of-changing-that/",
+      "id": "lead-designer-bruce-nesmith-says-skyrim-was-a-hit-because-it",
+      "titre": "Lead designer Bruce Nesmith says Skyrim was a hit because it was built on institutional knowledge from Oblivion",
+      "url": "https://www.pcgamer.com/games/the-elder-scrolls/lead-designer-bruce-nesmith-says-skyrim-was-a-hit-because-it-was-built-on-institutional-knowledge-from-oblivion/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 1.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/game-development/jackbox-games-isnt-interested-in-ai-development-all-that-is-done-by-people-and-we-have-no-intention-of-changing-that/",
-          "titre": "Jackbox Games isn't interested in AI development: 'All that is done by people, and we have no intention of changing that'"
+          "url": "https://www.pcgamer.com/games/the-elder-scrolls/lead-designer-bruce-nesmith-says-skyrim-was-a-hit-because-it-was-built-on-institutional-knowledge-from-oblivion/",
+          "titre": "Lead designer Bruce Nesmith says Skyrim was a hit because it was built on institutional knowledge from Oblivion"
         }
       ]
     },
     {
-      "id": "nvidia-ceo-jensen-huang-admits-to-affair-with-alleged-chines",
-      "titre": "Nvidia CEO Jensen Huang admits to affair with alleged Chinese spy as company board launches investigation",
-      "url": "https://www.pcgamer.com/gaming-industry/nvidia-ceo-jensen-huang-admits-to-affair-with-alleged-chinese-spy-as-company-board-launches-investigation/",
+      "id": "warhammer-blood-bowl-has-been-delayed-into-early-2027",
+      "titre": "Warhammer Blood Bowl has been delayed into early 2027",
+      "url": "https://www.pcgamer.com/games/sports/warhammer-blood-bowl-has-been-delayed-into-2027/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.0,
+      "heures": 5.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/nvidia-ceo-jensen-huang-admits-to-affair-with-alleged-chinese-spy-as-company-board-launches-investigation/",
-          "titre": "Nvidia CEO Jensen Huang admits to affair with alleged Chinese spy as company board launches investigation"
-        }
-      ]
-    },
-    {
-      "id": "zelda-oot-remake-get-the-silver-and-golden-scales-to-dive-de",
-      "titre": "Zelda OOT Remake: Get the Silver and Golden Scales to dive deeper",
-      "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-silver-golden-scale-dive/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 10.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-silver-golden-scale-dive/",
-          "titre": "Zelda OOT Remake: Get the Silver and Golden Scales to dive deeper"
+          "url": "https://www.pcgamer.com/games/sports/warhammer-blood-bowl-has-been-delayed-into-2027/",
+          "titre": "Warhammer Blood Bowl has been delayed into early 2027"
         }
       ]
     },
@@ -161,7 +119,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 20.4,
       "chaleur": 6,
       "liens": [
         {
@@ -179,7 +137,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.6,
+      "heures": 24.1,
       "chaleur": 6,
       "liens": [
         {
@@ -197,7 +155,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 22.1,
+      "heures": 28.6,
       "chaleur": 6,
       "liens": [
         {
@@ -208,44 +166,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "star-wars-zero-company-studio-bit-reactor-lays-off-staff-a-m",
-      "titre": "Star Wars Zero Company studio Bit Reactor lays off staff, a month after bringing furloughed developers back",
-      "url": "https://www.eurogamer.net/star-wars-zero-company-bit-reactor-layoffs",
+      "id": "zelda-oot-remake-get-the-silver-and-golden-scales-to-dive-de",
+      "titre": "Zelda OOT Remake: Get the Silver and Golden Scales to dive deeper",
+      "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-silver-golden-scale-dive/",
       "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 27.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/star-wars-zero-company-bit-reactor-layoffs",
-          "titre": "Star Wars Zero Company studio Bit Reactor lays off staff, a month after bringing furloughed developers back"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/after-star-wars-zero-company-dev-bit-reactor-brought-back-an-unspecified-number-of-furloughed-devs-some-of-those-who-werent-have-seemingly-been-laid-off",
-          "titre": "After Star Wars Zero Company dev Bit Reactor brought back an unspecified number of furloughed devs, some of those who weren't have seemingly been laid off"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-s-ps5-physical-edition-revealed-in-first-photo",
-      "titre": "GTA 6's PS5 Physical Edition Revealed in First Photo",
-      "url": "https://www.pushsquare.com/news/2026/11/gta-6s-ps5-physical-edition-revealed-in-first-photo",
-      "sources": [
-        "Push Square"
+        "VGC"
       ],
       "reprises": 1,
-      "heures": 32.6,
-      "chaleur": 6,
+      "heures": 16.5,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/gta-6s-ps5-physical-edition-revealed-in-first-photo",
-          "titre": "GTA 6's PS5 Physical Edition Revealed in First Photo"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-silver-golden-scale-dive/",
+          "titre": "Zelda OOT Remake: Get the Silver and Golden Scales to dive deeper"
         }
       ]
     },
@@ -257,7 +191,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 20.1,
       "chaleur": 5,
       "liens": [
         {
@@ -275,7 +209,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.6,
+      "heures": 22.1,
       "chaleur": 5,
       "liens": [
         {
@@ -293,7 +227,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 28.4,
+      "heures": 34.8,
       "chaleur": 5,
       "liens": [
         {
@@ -304,74 +238,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "playstation-exclusive-branding-added-to-tentpole-ps5-games",
-      "titre": "'PlayStation Exclusive' Branding Added to Tentpole PS5 Games as Sony Doubles Down",
-      "url": "https://www.pushsquare.com/news/2026/11/playstation-exclusive-branding-added-to-tentpole-ps5-games-as-sony-doubles-down",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 32.1,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/playstation-exclusive-branding-added-to-tentpole-ps5-games-as-sony-doubles-down",
-          "titre": "'PlayStation Exclusive' Branding Added to Tentpole PS5 Games as Sony Doubles Down"
-        }
-      ]
-    },
-    {
-      "id": "icymi-call-of-duty-warzone-is-now-available-for-switch-2",
-      "titre": "ICYMI: Call Of Duty: Warzone Is Now Available For Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/11/icymi-call-of-duty-warzone-is-now-available-for-switch-2",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 32.2,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/icymi-call-of-duty-warzone-is-now-available-for-switch-2",
-          "titre": "ICYMI: Call Of Duty: Warzone Is Now Available For Switch 2"
-        }
-      ]
-    },
-    {
-      "id": "xbox-is-testing-a-way-to-use-your-phone-as-a-controller-on-s",
-      "titre": "Xbox is testing a way to use your phone as a controller on smart TVs",
-      "url": "https://www.eurogamer.net/xbox-cloud-gaming-phone-controller-smart-tv-nano-cloud-connect",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 35.1,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-cloud-gaming-phone-controller-smart-tv-nano-cloud-connect",
-          "titre": "Xbox is testing a way to use your phone as a controller on smart TVs"
-        }
-      ]
-    },
-    {
-      "id": "skyrim-lead-designer-bruce-nesmith-loved-that-baldur-s-gate",
-      "titre": "Skyrim lead designer Bruce Nesmith loved that Baldur's Gate 3 closed off story paths based on your decisions, but defends Bethesda's approach: 'They were both fun, they're just fun in different ways'",
-      "url": "https://www.pcgamer.com/games/the-elder-scrolls/skyrim-lead-designer-bruce-nesmith-loved-that-baldurs-gate-3-closed-off-story-paths-based-on-your-decisions-but-defends-bethesdas-approach-they-were-both-fun-theyre-just-fun-in-different-ways/",
+      "id": "jackbox-games-isn-t-interested-in-ai-development-all-that-is",
+      "titre": "Jackbox Games isn't interested in AI development: 'All that is done by people, and we have no intention of changing that'",
+      "url": "https://www.pcgamer.com/gaming-industry/game-development/jackbox-games-isnt-interested-in-ai-development-all-that-is-done-by-people-and-we-have-no-intention-of-changing-that/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 8.0,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-elder-scrolls/skyrim-lead-designer-bruce-nesmith-loved-that-baldurs-gate-3-closed-off-story-paths-based-on-your-decisions-but-defends-bethesdas-approach-they-were-both-fun-theyre-just-fun-in-different-ways/",
-          "titre": "Skyrim lead designer Bruce Nesmith loved that Baldur's Gate 3 closed off story paths based on your decisions, but defends Bethesda's approach: 'They were both fun, they're just fun in different ways'"
+          "url": "https://www.pcgamer.com/gaming-industry/game-development/jackbox-games-isnt-interested-in-ai-development-all-that-is-done-by-people-and-we-have-no-intention-of-changing-that/",
+          "titre": "Jackbox Games isn't interested in AI development: 'All that is done by people, and we have no intention of changing that'"
+        }
+      ]
+    },
+    {
+      "id": "nvidia-ceo-jensen-huang-admits-to-affair-with-alleged-chines",
+      "titre": "Nvidia CEO Jensen Huang admits to affair with alleged Chinese spy as company board launches investigation",
+      "url": "https://www.pcgamer.com/gaming-industry/nvidia-ceo-jensen-huang-admits-to-affair-with-alleged-chinese-spy-as-company-board-launches-investigation/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 8.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/nvidia-ceo-jensen-huang-admits-to-affair-with-alleged-chinese-spy-as-company-board-launches-investigation/",
+          "titre": "Nvidia CEO Jensen Huang admits to affair with alleged Chinese spy as company board launches investigation"
         }
       ]
     },
@@ -383,8 +281,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.6,
-      "chaleur": 4,
+      "heures": 12.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -401,8 +299,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.6,
-      "chaleur": 4,
+      "heures": 12.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -419,8 +317,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.0,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -437,8 +335,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.6,
-      "chaleur": 4,
+      "heures": 14.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -455,8 +353,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.5,
-      "chaleur": 4,
+      "heures": 15.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -473,13 +371,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.6,
-      "chaleur": 4,
+      "heures": 15.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-is-more-than-just-a-millennial-retirement-home/",
           "titre": "WoW: Forever is more than just a millennial retirement home"
+        }
+      ]
+    },
+    {
+      "id": "saving-mass-effect-would-take-200m-says-bioware-co-founder",
+      "titre": "Saving Mass Effect would take $200m+, says BioWare co-founder",
+      "url": "https://www.eurogamer.net/mass-effect-5-save-cost-200m-bioware-co-founder-trent-oster",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 15.6,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/mass-effect-5-save-cost-200m-bioware-co-founder-trent-oster",
+          "titre": "Saving Mass Effect would take $200m+, says BioWare co-founder"
         }
       ]
     },
@@ -491,8 +407,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.6,
-      "chaleur": 4,
+      "heures": 16.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -509,8 +425,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 4,
+      "heures": 16.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -527,8 +443,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 4,
+      "heures": 16.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -545,8 +461,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
+      "heures": 16.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -563,8 +479,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 4,
+      "heures": 16.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -581,8 +497,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 17.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -599,7 +515,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 19.1,
       "chaleur": 3,
       "liens": [
         {
@@ -617,7 +533,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 21.4,
+      "heures": 27.9,
       "chaleur": 3,
       "liens": [
         {
@@ -635,31 +551,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 23.0,
+      "heures": 29.4,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/puzzle/chess-is-immediately-more-fun-if-you-jettison-most-of-the-rules-and-replace-them-with-weapons-grade-game-boy-advance/",
           "titre": "Chess is immediately more fun if you jettison most of the rules and replace them with weapons-grade Game Boy Advance"
-        }
-      ]
-    },
-    {
-      "id": "one-of-the-buggiest-d-d-games-ever-released-pool-of-radiance",
-      "titre": "One of the buggiest D&D games ever released, Pool of Radiance: Ruins of Myth Drannor, is back and actually playable again",
-      "url": "https://www.pcgamer.com/games/rpg/one-of-the-buggiest-d-and-d-games-ever-released-pool-of-radiance-ruins-of-myth-drannor-is-back-and-actually-playable-again/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 24.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/one-of-the-buggiest-d-and-d-games-ever-released-pool-of-radiance-ruins-of-myth-drannor-is-back-and-actually-playable-again/",
-          "titre": "One of the buggiest D&D games ever released, Pool of Radiance: Ruins of Myth Drannor, is back and actually playable again"
         }
       ]
     },
@@ -671,7 +569,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 24.8,
+      "heures": 31.2,
       "chaleur": 3,
       "liens": [
         {
@@ -689,13 +587,31 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 26.1,
+      "heures": 32.6,
       "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/county-of-fortune-now-out-in-early-access-is-a-medieval-city-builder-that-asks-why-limit-yourself-to-just-one-city",
           "titre": "County of Fortune, now out in early access, is a medieval city builder that asks, why limit yourself to just one city?"
+        }
+      ]
+    },
+    {
+      "id": "star-wars-zero-company-studio-bit-reactor-lays-off-staff-a-m",
+      "titre": "Star Wars Zero Company studio Bit Reactor lays off staff, a month after bringing furloughed developers back",
+      "url": "https://www.eurogamer.net/star-wars-zero-company-bit-reactor-layoffs",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 34.0,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/star-wars-zero-company-bit-reactor-layoffs",
+          "titre": "Star Wars Zero Company studio Bit Reactor lays off staff, a month after bringing furloughed developers back"
         }
       ]
     },
@@ -707,7 +623,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 27.6,
+      "heures": 34.1,
       "chaleur": 3,
       "liens": [
         {
@@ -725,85 +641,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 27.8,
+      "heures": 34.3,
       "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/this-trailer-is-my-way-of-saying-goodbye-have-a-listen-to-the-mass-effect-5-score-that-could-have-been-courtesy-of-one-of-the-original-games-composers",
           "titre": "\"This trailer is my way of saying goodbye\": Have a listen to the Mass Effect 5 score that could have been, courtesy of one of the original games' composers"
-        }
-      ]
-    },
-    {
-      "id": "amd-ceo-lisa-su-we-are-a-data-center-first-company",
-      "titre": "AMD CEO Lisa Su: 'We are a data center-first company'",
-      "url": "https://www.pcgamer.com/gaming-industry/amd-ceo-lisa-su-we-are-a-data-center-first-company/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 29.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/amd-ceo-lisa-su-we-are-a-data-center-first-company/",
-          "titre": "AMD CEO Lisa Su: 'We are a data center-first company'"
-        }
-      ]
-    },
-    {
-      "id": "path-of-exile-2-s-1-0-version-is-out-this-year-after-all-arr",
-      "titre": "Path of Exile 2's 1.0 version is out this year after all, arriving in December with a full campaign, two neat new classes, and more",
-      "url": "https://www.rockpapershotgun.com/path-of-exile-2s-10-version-is-out-this-year-after-all-arriving-in-december-with-a-full-campaign-two-neat-new-classes-and-more",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 29.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/path-of-exile-2s-10-version-is-out-this-year-after-all-arriving-in-december-with-a-full-campaign-two-neat-new-classes-and-more",
-          "titre": "Path of Exile 2's 1.0 version is out this year after all, arriving in December with a full campaign, two neat new classes, and more"
-        }
-      ]
-    },
-    {
-      "id": "wardogs-season-3-brings-an-urban-map-limited-mode-and-a-185",
-      "titre": "Wardogs Season 3 brings an urban map, Limited Mode, and a 185,000-account ban wave",
-      "url": "https://www.eurogamer.net/wardogs-season-3-release-date-limited-mode-ban-wave",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 30.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/wardogs-season-3-release-date-limited-mode-ban-wave",
-          "titre": "Wardogs Season 3 brings an urban map, Limited Mode, and a 185,000-account ban wave"
-        }
-      ]
-    },
-    {
-      "id": "guide-these-13-ps5-games-are-coming-out-next-week-9th-15th-n",
-      "titre": "Guide: These 13+ PS5 Games Are Coming Out Next Week (9th-15th November)",
-      "url": "https://www.pushsquare.com/guides/these-13plus-ps5-games-are-coming-out-next-week-9th-15th-november",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 35.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/guides/these-13plus-ps5-games-are-coming-out-next-week-9th-15th-november",
-          "titre": "Guide: These 13+ PS5 Games Are Coming Out Next Week (9th-15th November)"
         }
       ]
     }
