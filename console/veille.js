@@ -1,8 +1,62 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "09/11/2026 à 18h41",
+  "collecte": "10/11/2026 à 02h40",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "gta-6-pre-orders-outperform-even-take-two-s-expectations-gta",
+      "titre": "GTA 6 Pre-Orders Outperform Even Take-Two's Expectations, GTA 5 Just Keeps on Selling",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6-pre-orders-outperform-even-take-twos-expectations-gta-5-just-keeps-on-selling",
+      "sources": [
+        "Eurogamer",
+        "GamesIndustry.biz",
+        "Push Square"
+      ],
+      "reprises": 3,
+      "heures": 4.2,
+      "chaleur": 13,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-pre-orders-outperform-even-take-twos-expectations-gta-5-just-keeps-on-selling",
+          "titre": "GTA 6 Pre-Orders Outperform Even Take-Two's Expectations, GTA 5 Just Keeps on Selling"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-preorders-tracking-take-two-earnings-call",
+          "titre": "GTA 6 pre-orders are tracking \"well above expectations\" and the game will \"set a new baseline\" for Take-Two, says CEO Strauss Zelnick"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/take-two-q2-net-bookings-fall-18-to-16bn-as-nba-2k27-misses-forecast-but-gta-6-pre-orders-are-tracking-far-in-excess-of-expectations",
+          "titre": "Take-Two Q2 net bookings fall 18% to $1.6bn as NBA 2K27 misses forecast but GTA 6 pre-orders are \"tracking far in excess\" of expectations"
+        }
+      ]
+    },
+    {
+      "id": "the-experiences-on-console-and-pc-tend-to-be-roughly-the-sa",
+      "titre": "'The experiences on console and PC tend to be roughly the same,' says Take-Two CEO in response to question about GTA roleplaying",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/the-experiences-on-console-and-pc-tend-to-be-roughly-the-same-says-take-two-ceo-in-response-to-question-about-gta-roleplaying/",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 2.3,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/the-experiences-on-console-and-pc-tend-to-be-roughly-the-same-says-take-two-ceo-in-response-to-question-about-gta-roleplaying/",
+          "titre": "'The experiences on console and PC tend to be roughly the same,' says Take-Two CEO in response to question about GTA roleplaying"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-ai-strauss-zelnick-earnings-call-purview",
+          "titre": "As investors ask about GTA 6 and AI, Take-Two CEO once again puts faith in dev creativity, states making hit games \"remains the purview of human beings\""
+        }
+      ]
+    },
     {
       "id": "report-star-wars-zero-company-developer-bit-reactor-lays-off",
       "titre": "Report: Star Wars Zero Company developer Bit Reactor lays off an unspecified number of staff",
@@ -13,8 +67,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 1.2,
-      "chaleur": 14,
+      "heures": 9.2,
+      "chaleur": 12,
       "liens": [
         {
           "source": "Game Developer",
@@ -34,6 +88,24 @@ const VEILLE = {
       ]
     },
     {
+      "id": "there-s-no-such-thing-as-easy-money-in-our-business-strauss",
+      "titre": "\"There's no such thing as easy money in our business\" – Strauss Zelnick on GTA 6, BioShock, Take-Two's acquisition plans, and reviving old IP",
+      "url": "https://www.gamesindustry.biz/theres-no-such-thing-as-easy-money-in-our-business-strauss-zelnick-on-gta-6-bioshock-take-twos-acquisition-plans-and-reviving-old-ip",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 5.0,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/theres-no-such-thing-as-easy-money-in-our-business-strauss-zelnick-on-gta-6-bioshock-take-twos-acquisition-plans-and-reviving-old-ip",
+          "titre": "\"There's no such thing as easy money in our business\" – Strauss Zelnick on GTA 6, BioShock, Take-Two's acquisition plans, and reviving old IP"
+        }
+      ]
+    },
+    {
       "id": "warhammer-40-000-dark-heresy-releases-in-january-leaving-not",
       "titre": "Warhammer 40,000: Dark Heresy releases in January, leaving not very long to prepare for all the crunchy cRPG choices and secret wars it'll lob your way",
       "url": "https://www.rockpapershotgun.com/warhammer-40000-dark-heresy-releases-in-january-leaving-not-very-long-to-prepare-for-all-the-crunchy-crpg-choices-and-secret-wars-itll-lob-your-way",
@@ -43,8 +115,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 1.2,
-      "chaleur": 12,
+      "heures": 9.2,
+      "chaleur": 10,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -73,8 +145,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 1.7,
-      "chaleur": 12,
+      "heures": 9.7,
+      "chaleur": 10,
       "liens": [
         {
           "source": "PC Gamer",
@@ -94,6 +166,162 @@ const VEILLE = {
       ]
     },
     {
+      "id": "nintendo-switch-2-system-update-23-5-0-is-now-live-here-are",
+      "titre": "Nintendo Switch 2 System Update 23.5.0 Is Now Live, Here Are The Full Patch Notes",
+      "url": "https://www.nintendolife.com/news/2026/11/nintendo-switch-2-system-update-23-5-0-is-now-live-here-are-the-full-patch-notes",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/nintendo-switch-2-system-update-23-5-0-is-now-live-here-are-the-full-patch-notes",
+          "titre": "Nintendo Switch 2 System Update 23.5.0 Is Now Live, Here Are The Full Patch Notes"
+        }
+      ]
+    },
+    {
+      "id": "super-mario-party-jamboree-updated-for-switch-2-and-switch-v",
+      "titre": "Super Mario Party Jamboree Updated For Switch 2 And Switch (Version 2.4.0)",
+      "url": "https://www.nintendolife.com/news/2026/11/super-mario-party-jamboree-updated-for-switch-2-and-switch-version-2-4-0",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/super-mario-party-jamboree-updated-for-switch-2-and-switch-version-2-4-0",
+          "titre": "Super Mario Party Jamboree Updated For Switch 2 And Switch (Version 2.4.0)"
+        }
+      ]
+    },
+    {
+      "id": "god-of-war-ragnarok-is-reportedly-the-highest-earning-playst",
+      "titre": "God of War: Ragnarok is reportedly the highest-earning PlayStation Studios game this generation, but Marvel's Spider-Man 2 isn't far behind",
+      "url": "https://www.eurogamer.net/god-of-war-ragnarok-highest-earning-playstation-game",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 7.6,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/god-of-war-ragnarok-highest-earning-playstation-game",
+          "titre": "God of War: Ragnarok is reportedly the highest-earning PlayStation Studios game this generation, but Marvel's Spider-Man 2 isn't far behind"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-reportedly-has-55-achievements-trophies-more-than-both",
+      "titre": "GTA 6 reportedly has 55 Achievements/Trophies, more than both GTA 5 and Red Dead Redemption 2 had at launch",
+      "url": "https://www.eurogamer.net/gta-6-achievements-trophies-55",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 17.0,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-achievements-trophies-55",
+          "titre": "GTA 6 reportedly has 55 Achievements/Trophies, more than both GTA 5 and Red Dead Redemption 2 had at launch"
+        }
+      ]
+    },
+    {
+      "id": "take-two-expects-to-make-as-much-as-3-5-billion-during-the-g",
+      "titre": "Take-Two expects to make as much as $3.5 billion during the GTA 6 launch period",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/take-two-expects-to-make-as-much-as-usd3-5-billion-during-the-gta-6-launch-period/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.6,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/take-two-expects-to-make-as-much-as-usd3-5-billion-during-the-gta-6-launch-period/",
+          "titre": "Take-Two expects to make as much as $3.5 billion during the GTA 6 launch period"
+        }
+      ]
+    },
+    {
+      "id": "something-s-really-possible-mass-effect-cast-rally-around-e",
+      "titre": "\"Something's really possible\" - Mass Effect cast rally around efforts to save the franchise on the first N7 Day after BioWare's closure",
+      "url": "https://www.eurogamer.net/mass-effect-cast-save-bioware-n7-day",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 6.5,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/mass-effect-cast-save-bioware-n7-day",
+          "titre": "\"Something's really possible\" - Mass Effect cast rally around efforts to save the franchise on the first N7 Day after BioWare's closure"
+        }
+      ]
+    },
+    {
+      "id": "tripwire-interactive-lays-off-36",
+      "titre": "Tripwire Interactive lays off 36",
+      "url": "https://www.gamesindustry.biz/tripwire-interactive-lays-off-36",
+      "sources": [
+        "GamesIndustry.biz",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 6.9,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/tripwire-interactive-lays-off-36",
+          "titre": "Tripwire Interactive lays off 36"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/a-week-after-expanding-its-publishing-division-killing-floor-studio-tripwire-interactive-lays-off-36-people/",
+          "titre": "A week after expanding its publishing division, Killing Floor studio Tripwire Interactive lays off 36 people"
+        }
+      ]
+    },
+    {
+      "id": "multiple-silksong-expansions-hinted-at-in-tomorrow-s-ps5-phy",
+      "titre": "Multiple Silksong Expansions Hinted at in Tomorrow's PS5 Physical Edition",
+      "url": "https://www.pushsquare.com/news/2026/11/multiple-silksong-expansions-hinted-at-in-tomorrows-ps5-physical-edition",
+      "sources": [
+        "Eurogamer",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 7.4,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/multiple-silksong-expansions-hinted-at-in-tomorrows-ps5-physical-edition",
+          "titre": "Multiple Silksong Expansions Hinted at in Tomorrow's PS5 Physical Edition"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/hollow-knight-silksong-physical-free-content-packs-sea-of-sorrow",
+          "titre": "Hollow Knight Silksong physical editions mention multiple \"free content packs\" incoming, and call Sea of Sorrow a \"giant expansion\""
+        }
+      ]
+    },
+    {
       "id": "rumour-samsung-s-new-chip-process-kicks-off-nintendo-switch",
       "titre": "Rumour: Samsung's New Chip Process Kicks Off 'Nintendo Switch 2 Lite' Speculation",
       "url": "https://www.nintendolife.com/news/2026/11/rumour-samsungs-new-chip-process-kicks-off-nintendo-switch-2-lite-speculation",
@@ -101,8 +329,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.9,
-      "chaleur": 9,
+      "heures": 9.9,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -119,8 +347,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 9,
+      "heures": 10.9,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Eurogamer",
@@ -138,8 +366,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 3.7,
-      "chaleur": 9,
+      "heures": 11.7,
+      "chaleur": 7,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -154,20 +382,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-6-reportedly-has-55-achievements-trophies-more-than-both",
-      "titre": "GTA 6 reportedly has 55 Achievements/Trophies, more than both GTA 5 and Red Dead Redemption 2 had at launch",
-      "url": "https://www.eurogamer.net/gta-6-achievements-trophies-55",
+      "id": "stuff-your-face-with-ps5-rpg-atelier-karia-s-story-trailer-p",
+      "titre": "Stuff Your Face with PS5 RPG Atelier Karia's Story Trailer, Pre-Orders Live Now",
+      "url": "https://www.pushsquare.com/news/2026/11/stuff-your-face-with-ps5-rpg-atelier-karias-story-trailer-pre-orders-live-now",
       "sources": [
-        "Eurogamer"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.0,
-      "chaleur": 9,
+      "heures": 2.7,
+      "chaleur": 6,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-achievements-trophies-55",
-          "titre": "GTA 6 reportedly has 55 Achievements/Trophies, more than both GTA 5 and Red Dead Redemption 2 had at launch"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/stuff-your-face-with-ps5-rpg-atelier-karias-story-trailer-pre-orders-live-now",
+          "titre": "Stuff Your Face with PS5 RPG Atelier Karia's Story Trailer, Pre-Orders Live Now"
         }
       ]
     },
@@ -179,8 +407,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.7,
-      "chaleur": 8,
+      "heures": 8.7,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -197,8 +425,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 1.1,
-      "chaleur": 8,
+      "heures": 9.0,
+      "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -215,8 +443,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
-      "chaleur": 8,
+      "heures": 9.4,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
@@ -233,8 +461,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 8,
+      "heures": 10.2,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -251,8 +479,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 8,
+      "heures": 10.2,
+      "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
@@ -269,8 +497,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.2,
-      "chaleur": 7,
+      "heures": 12.2,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
@@ -287,8 +515,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.4,
-      "chaleur": 7,
+      "heures": 12.4,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
@@ -305,8 +533,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.7,
-      "chaleur": 7,
+      "heures": 12.7,
+      "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
@@ -323,8 +551,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.9,
-      "chaleur": 7,
+      "heures": 12.9,
+      "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
@@ -341,8 +569,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.2,
-      "chaleur": 7,
+      "heures": 13.2,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
@@ -359,8 +587,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.0,
-      "chaleur": 7,
+      "heures": 14.0,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -377,8 +605,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 6.2,
-      "chaleur": 7,
+      "heures": 14.2,
+      "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -395,265 +623,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.4,
-      "chaleur": 7,
+      "heures": 14.4,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/selfridges-gta-6-collab-takeover",
           "titre": "London department store Selfridges launches sizeable GTA 6 takeover, featuring a varsity jacket that costs an eye-watering £2,500"
-        }
-      ]
-    },
-    {
-      "id": "hollow-knight-silksong-physical-editions-mention-multiple-fr",
-      "titre": "Hollow Knight Silksong physical editions mention multiple \"free content packs\" incoming, and call Sea of Sorrow a \"giant expansion\"",
-      "url": "https://www.eurogamer.net/hollow-knight-silksong-physical-free-content-packs-sea-of-sorrow",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 0.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/hollow-knight-silksong-physical-free-content-packs-sea-of-sorrow",
-          "titre": "Hollow Knight Silksong physical editions mention multiple \"free content packs\" incoming, and call Sea of Sorrow a \"giant expansion\""
-        }
-      ]
-    },
-    {
-      "id": "swarmbreaker-is-an-uncommonly-mesmerising-tower-defence-game",
-      "titre": "Swarmbreaker is an uncommonly mesmerising tower defence game in which enemies \"cluster, collide and flow like a fluid\"",
-      "url": "https://www.rockpapershotgun.com/swarmbreaker-is-an-uncommonly-mesmerising-tower-defence-game-in-which-enemies-cluster-collide-and-flow-like-a-fluid",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 1.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/swarmbreaker-is-an-uncommonly-mesmerising-tower-defence-game-in-which-enemies-cluster-collide-and-flow-like-a-fluid",
-          "titre": "Swarmbreaker is an uncommonly mesmerising tower defence game in which enemies \"cluster, collide and flow like a fluid\""
-        }
-      ]
-    },
-    {
-      "id": "cheaper-oleds-may-be-here-even-quicker-than-we-thought-as-tc",
-      "titre": "Cheaper OLEDs may be here even quicker than we thought as TCL CSOT says its new inkjet printing facility could be up and running as soon as this time next year",
-      "url": "https://www.pcgamer.com/hardware/gaming-monitors/cheaper-oleds-may-be-here-even-quicker-than-we-thought-as-tcl-csot-says-its-new-inkjet-printing-facility-could-be-up-and-running-as-soon-as-this-time-next-year/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-monitors/cheaper-oleds-may-be-here-even-quicker-than-we-thought-as-tcl-csot-says-its-new-inkjet-printing-facility-could-be-up-and-running-as-soon-as-this-time-next-year/",
-          "titre": "Cheaper OLEDs may be here even quicker than we thought as TCL CSOT says its new inkjet printing facility could be up and running as soon as this time next year"
-        }
-      ]
-    },
-    {
-      "id": "capcom-just-sold-5-million-copies-of-resident-evil-games-in",
-      "titre": "Capcom Just Sold 5 Million Copies of Resident Evil Games in 3 Months",
-      "url": "https://www.pushsquare.com/news/2026/11/capcom-just-sold-5-million-copies-of-resident-evil-games-in-3-months",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 1.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/capcom-just-sold-5-million-copies-of-resident-evil-games-in-3-months",
-          "titre": "Capcom Just Sold 5 Million Copies of Resident Evil Games in 3 Months"
-        }
-      ]
-    },
-    {
-      "id": "world-of-warcraft-forever-is-the-mmorpg-s-biggest-launch-as",
-      "titre": "World of Warcraft: Forever is the MMORPG's biggest launch as measured by peak concurrent players",
-      "url": "https://www.gamedeveloper.com/pc/world-of-warcraft-forever-is-the-mmorpg-s-biggest-launch-in-player-numbers",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 2.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/pc/world-of-warcraft-forever-is-the-mmorpg-s-biggest-launch-in-player-numbers",
-          "titre": "World of Warcraft: Forever is the MMORPG's biggest launch as measured by peak concurrent players"
-        }
-      ]
-    },
-    {
-      "id": "floppy-disks-are-out-21st-century-tech-is-in-the-faa-is-fin",
-      "titre": "'Floppy disks are out, 21st century tech is in': The FAA is finally ditching 55-year-old storage",
-      "url": "https://www.pcgamer.com/hardware/floppy-disks-are-out-21st-century-tech-is-in-the-faa-is-finally-ditching-55-year-old-storage/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/floppy-disks-are-out-21st-century-tech-is-in-the-faa-is-finally-ditching-55-year-old-storage/",
-          "titre": "'Floppy disks are out, 21st century tech is in': The FAA is finally ditching 55-year-old storage"
-        }
-      ]
-    },
-    {
-      "id": "fanatical-s-birthday-bash-sale-has-one-week-left-and-just-la",
-      "titre": "Fanatical’s Birthday Bash sale has one week left, and just launched a flash sale with 73% off Persona 5 Royal",
-      "url": "https://www.videogameschronicle.com/news/fanaticals-birthday-bash-sale-has-one-week-left-and-just-launched-a-flash-sale-with-73-off-persona-5-royal/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/fanaticals-birthday-bash-sale-has-one-week-left-and-just-launched-a-flash-sale-with-73-off-persona-5-royal/",
-          "titre": "Fanatical’s Birthday Bash sale has one week left, and just launched a flash sale with 73% off Persona 5 Royal"
-        }
-      ]
-    },
-    {
-      "id": "microsoft-workers-accuse-company-of-trying-to-get-customers",
-      "titre": "Microsoft workers accuse company of trying to get customers \"addicted\" to AI while forcing it on their own staff and making them party to \"human rights violations\"",
-      "url": "https://www.rockpapershotgun.com/microsoft-workers-accuse-company-of-trying-to-get-customers-addicted-to-ai-while-forcing-it-on-their-own-staff-and-making-them-party-to-human-rights-violations",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/microsoft-workers-accuse-company-of-trying-to-get-customers-addicted-to-ai-while-forcing-it-on-their-own-staff-and-making-them-party-to-human-rights-violations",
-          "titre": "Microsoft workers accuse company of trying to get customers \"addicted\" to AI while forcing it on their own staff and making them party to \"human rights violations\""
-        }
-      ]
-    },
-    {
-      "id": "free-to-play-pirate-game-sea-of-remnants-sails-closer-with-p",
-      "titre": "Free-to-Play Pirate Game Sea of Remnants Sails Closer with PS5 Closed Beta Next Month",
-      "url": "https://www.pushsquare.com/news/2026/11/free-to-play-pirate-game-sea-of-remnants-sails-closer-with-ps5-closed-beta-next-month",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/free-to-play-pirate-game-sea-of-remnants-sails-closer-with-ps5-closed-beta-next-month",
-          "titre": "Free-to-Play Pirate Game Sea of Remnants Sails Closer with PS5 Closed Beta Next Month"
-        }
-      ]
-    },
-    {
-      "id": "the-golden-joystick-awards-return-this-wednesday-here-s-how",
-      "titre": "The Golden Joystick Awards return this Wednesday—here's how to watch them",
-      "url": "https://www.pcgamer.com/gaming-industry/events-conferences/the-golden-joystick-awards-return-this-wednesday-heres-how-to-watch-them/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/events-conferences/the-golden-joystick-awards-return-this-wednesday-heres-how-to-watch-them/",
-          "titre": "The Golden Joystick Awards return this Wednesday—here's how to watch them"
-        }
-      ]
-    },
-    {
-      "id": "activision-cracking-down-on-popular-call-of-duty-warzone-app",
-      "titre": "Activision cracking down on popular Call of Duty: Warzone app that basically constituted cheating",
-      "url": "https://www.eurogamer.net/call-of-duty-warzone-agent-cheating-software-shutdown",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/call-of-duty-warzone-agent-cheating-software-shutdown",
-          "titre": "Activision cracking down on popular Call of Duty: Warzone app that basically constituted cheating"
-        }
-      ]
-    },
-    {
-      "id": "sony-subsidiary-aniplex-ignores-ps5-with-yet-another-game",
-      "titre": "Sony Subsidiary Aniplex Ignores PS5 with Yet Another Game",
-      "url": "https://www.pushsquare.com/news/2026/11/sony-subsidiary-aniplex-ignores-ps5-with-yet-another-game",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/sony-subsidiary-aniplex-ignores-ps5-with-yet-another-game",
-          "titre": "Sony Subsidiary Aniplex Ignores PS5 with Yet Another Game"
-        }
-      ]
-    },
-    {
-      "id": "the-pillars-of-ai-are-shaking-beneath-our-feet",
-      "titre": "The pillars of AI are shaking beneath our feet",
-      "url": "https://www.pcgamer.com/software/ai/the-pillars-of-ai-are-shaking-beneath-our-feet/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/the-pillars-of-ai-are-shaking-beneath-our-feet/",
-          "titre": "The pillars of AI are shaking beneath our feet"
-        }
-      ]
-    },
-    {
-      "id": "great-news-nier-automata-s-install-size-is-no-longer-7x-bigg",
-      "titre": "Great news! Nier: Automata's install size is no longer 7x bigger than it should be (it was 366 GB)",
-      "url": "https://www.pcgamer.com/games/rpg/great-news-nier-automatas-install-size-is-no-longer-7x-bigger-than-it-should-be-it-was-366-gb/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/great-news-nier-automatas-install-size-is-no-longer-7x-bigger-than-it-should-be-it-was-366-gb/",
-          "titre": "Great news! Nier: Automata's install size is no longer 7x bigger than it should be (it was 366 GB)"
         }
       ]
     },
@@ -665,8 +641,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.1,
-      "chaleur": 6,
+      "heures": 12.1,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
@@ -683,8 +659,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.9,
-      "chaleur": 6,
+      "heures": 12.9,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -701,8 +677,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.7,
-      "chaleur": 6,
+      "heures": 13.7,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -719,8 +695,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.7,
-      "chaleur": 6,
+      "heures": 13.7,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Push Square",
@@ -737,8 +713,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.9,
-      "chaleur": 6,
+      "heures": 13.9,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
@@ -755,8 +731,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.2,
-      "chaleur": 6,
+      "heures": 17.2,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -766,56 +742,272 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nintendo-s-bill-trinen-explains-why-ocarina-of-time-is-the-p",
-      "titre": "Nintendo's Bill Trinen Explains Why Ocarina Of Time Is The Perfect Place To Start In The Zelda Universe",
-      "url": "https://www.nintendolife.com/news/2026/11/nintendos-bill-trinen-explains-why-ocarina-of-time-is-the-perfect-place-to-start-in-the-zelda-universe",
+      "id": "a-month-after-paramount-acquired-warner-bros-discovery-its-m",
+      "titre": "A month after Paramount acquired Warner Bros. Discovery, its merged game division is laying people off",
+      "url": "https://www.pcgamer.com/gaming-industry/a-month-after-paramount-acquired-warner-bros-discovery-its-merged-game-division-is-laying-people-off/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 32.9,
-      "chaleur": 6,
+      "heures": 4.1,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/nintendos-bill-trinen-explains-why-ocarina-of-time-is-the-perfect-place-to-start-in-the-zelda-universe",
-          "titre": "Nintendo's Bill Trinen Explains Why Ocarina Of Time Is The Perfect Place To Start In The Zelda Universe"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/a-month-after-paramount-acquired-warner-bros-discovery-its-merged-game-division-is-laying-people-off/",
+          "titre": "A month after Paramount acquired Warner Bros. Discovery, its merged game division is laying people off"
         }
       ]
     },
     {
-      "id": "feature-box-art-brawl-the-legend-of-zelda-ocarina-of-time-ul",
-      "titre": "Feature: Box Art Brawl: The Legend Of Zelda: Ocarina Of Time Ultimate Showdown",
-      "url": "https://www.nintendolife.com/features/box-art-brawl-the-legend-of-zelda-ocarina-of-time-ultimate-showdown",
+      "id": "one-of-ps5-s-most-promising-rpgs-adds-to-the-chaos-of-januar",
+      "titre": "One of PS5's Most Promising RPGs Adds to the Chaos of January 2027",
+      "url": "https://www.pushsquare.com/news/2026/11/one-of-ps5s-most-promising-rpgs-adds-to-the-chaos-of-january-2027",
       "sources": [
-        "Nintendo Life"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 32.7,
-      "chaleur": 5,
+      "heures": 7.2,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/box-art-brawl-the-legend-of-zelda-ocarina-of-time-ultimate-showdown",
-          "titre": "Feature: Box Art Brawl: The Legend Of Zelda: Ocarina Of Time Ultimate Showdown"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/one-of-ps5s-most-promising-rpgs-adds-to-the-chaos-of-january-2027",
+          "titre": "One of PS5's Most Promising RPGs Adds to the Chaos of January 2027"
         }
       ]
     },
     {
-      "id": "digital-foundry-delivers-its-tech-verdict-on-stellar-blade-s",
-      "titre": "Digital Foundry Delivers Its Tech Verdict On Stellar Blade's Switch 2 Port",
-      "url": "https://www.nintendolife.com/news/2026/11/digital-foundry-delivers-its-tech-verdict-on-stellar-blades-switch-2-port",
+      "id": "swarmbreaker-is-an-uncommonly-mesmerising-tower-defence-game",
+      "titre": "Swarmbreaker is an uncommonly mesmerising tower defence game in which enemies \"cluster, collide and flow like a fluid\"",
+      "url": "https://www.rockpapershotgun.com/swarmbreaker-is-an-uncommonly-mesmerising-tower-defence-game-in-which-enemies-cluster-collide-and-flow-like-a-fluid",
       "sources": [
-        "Nintendo Life"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 34.7,
-      "chaleur": 5,
+      "heures": 9.6,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/digital-foundry-delivers-its-tech-verdict-on-stellar-blades-switch-2-port",
-          "titre": "Digital Foundry Delivers Its Tech Verdict On Stellar Blade's Switch 2 Port"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/swarmbreaker-is-an-uncommonly-mesmerising-tower-defence-game-in-which-enemies-cluster-collide-and-flow-like-a-fluid",
+          "titre": "Swarmbreaker is an uncommonly mesmerising tower defence game in which enemies \"cluster, collide and flow like a fluid\""
+        }
+      ]
+    },
+    {
+      "id": "cheaper-oleds-may-be-here-even-quicker-than-we-thought-as-tc",
+      "titre": "Cheaper OLEDs may be here even quicker than we thought as TCL CSOT says its new inkjet printing facility could be up and running as soon as this time next year",
+      "url": "https://www.pcgamer.com/hardware/gaming-monitors/cheaper-oleds-may-be-here-even-quicker-than-we-thought-as-tcl-csot-says-its-new-inkjet-printing-facility-could-be-up-and-running-as-soon-as-this-time-next-year/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 9.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/gaming-monitors/cheaper-oleds-may-be-here-even-quicker-than-we-thought-as-tcl-csot-says-its-new-inkjet-printing-facility-could-be-up-and-running-as-soon-as-this-time-next-year/",
+          "titre": "Cheaper OLEDs may be here even quicker than we thought as TCL CSOT says its new inkjet printing facility could be up and running as soon as this time next year"
+        }
+      ]
+    },
+    {
+      "id": "capcom-just-sold-5-million-copies-of-resident-evil-games-in",
+      "titre": "Capcom Just Sold 5 Million Copies of Resident Evil Games in 3 Months",
+      "url": "https://www.pushsquare.com/news/2026/11/capcom-just-sold-5-million-copies-of-resident-evil-games-in-3-months",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 9.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/capcom-just-sold-5-million-copies-of-resident-evil-games-in-3-months",
+          "titre": "Capcom Just Sold 5 Million Copies of Resident Evil Games in 3 Months"
+        }
+      ]
+    },
+    {
+      "id": "world-of-warcraft-forever-is-the-mmorpg-s-biggest-launch-as",
+      "titre": "World of Warcraft: Forever is the MMORPG's biggest launch as measured by peak concurrent players",
+      "url": "https://www.gamedeveloper.com/pc/world-of-warcraft-forever-is-the-mmorpg-s-biggest-launch-in-player-numbers",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 10.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/pc/world-of-warcraft-forever-is-the-mmorpg-s-biggest-launch-in-player-numbers",
+          "titre": "World of Warcraft: Forever is the MMORPG's biggest launch as measured by peak concurrent players"
+        }
+      ]
+    },
+    {
+      "id": "floppy-disks-are-out-21st-century-tech-is-in-the-faa-is-fin",
+      "titre": "'Floppy disks are out, 21st century tech is in': The FAA is finally ditching 55-year-old storage",
+      "url": "https://www.pcgamer.com/hardware/floppy-disks-are-out-21st-century-tech-is-in-the-faa-is-finally-ditching-55-year-old-storage/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 10.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/floppy-disks-are-out-21st-century-tech-is-in-the-faa-is-finally-ditching-55-year-old-storage/",
+          "titre": "'Floppy disks are out, 21st century tech is in': The FAA is finally ditching 55-year-old storage"
+        }
+      ]
+    },
+    {
+      "id": "fanatical-s-birthday-bash-sale-has-one-week-left-and-just-la",
+      "titre": "Fanatical’s Birthday Bash sale has one week left, and just launched a flash sale with 73% off Persona 5 Royal",
+      "url": "https://www.videogameschronicle.com/news/fanaticals-birthday-bash-sale-has-one-week-left-and-just-launched-a-flash-sale-with-73-off-persona-5-royal/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 10.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/fanaticals-birthday-bash-sale-has-one-week-left-and-just-launched-a-flash-sale-with-73-off-persona-5-royal/",
+          "titre": "Fanatical’s Birthday Bash sale has one week left, and just launched a flash sale with 73% off Persona 5 Royal"
+        }
+      ]
+    },
+    {
+      "id": "microsoft-workers-accuse-company-of-trying-to-get-customers",
+      "titre": "Microsoft workers accuse company of trying to get customers \"addicted\" to AI while forcing it on their own staff and making them party to \"human rights violations\"",
+      "url": "https://www.rockpapershotgun.com/microsoft-workers-accuse-company-of-trying-to-get-customers-addicted-to-ai-while-forcing-it-on-their-own-staff-and-making-them-party-to-human-rights-violations",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 10.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/microsoft-workers-accuse-company-of-trying-to-get-customers-addicted-to-ai-while-forcing-it-on-their-own-staff-and-making-them-party-to-human-rights-violations",
+          "titre": "Microsoft workers accuse company of trying to get customers \"addicted\" to AI while forcing it on their own staff and making them party to \"human rights violations\""
+        }
+      ]
+    },
+    {
+      "id": "free-to-play-pirate-game-sea-of-remnants-sails-closer-with-p",
+      "titre": "Free-to-Play Pirate Game Sea of Remnants Sails Closer with PS5 Closed Beta Next Month",
+      "url": "https://www.pushsquare.com/news/2026/11/free-to-play-pirate-game-sea-of-remnants-sails-closer-with-ps5-closed-beta-next-month",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 10.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/free-to-play-pirate-game-sea-of-remnants-sails-closer-with-ps5-closed-beta-next-month",
+          "titre": "Free-to-Play Pirate Game Sea of Remnants Sails Closer with PS5 Closed Beta Next Month"
+        }
+      ]
+    },
+    {
+      "id": "the-golden-joystick-awards-return-this-wednesday-here-s-how",
+      "titre": "The Golden Joystick Awards return this Wednesday—here's how to watch them",
+      "url": "https://www.pcgamer.com/gaming-industry/events-conferences/the-golden-joystick-awards-return-this-wednesday-heres-how-to-watch-them/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 10.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/events-conferences/the-golden-joystick-awards-return-this-wednesday-heres-how-to-watch-them/",
+          "titre": "The Golden Joystick Awards return this Wednesday—here's how to watch them"
+        }
+      ]
+    },
+    {
+      "id": "activision-cracking-down-on-popular-call-of-duty-warzone-app",
+      "titre": "Activision cracking down on popular Call of Duty: Warzone app that basically constituted cheating",
+      "url": "https://www.eurogamer.net/call-of-duty-warzone-agent-cheating-software-shutdown",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 11.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/call-of-duty-warzone-agent-cheating-software-shutdown",
+          "titre": "Activision cracking down on popular Call of Duty: Warzone app that basically constituted cheating"
+        }
+      ]
+    },
+    {
+      "id": "sony-subsidiary-aniplex-ignores-ps5-with-yet-another-game",
+      "titre": "Sony Subsidiary Aniplex Ignores PS5 with Yet Another Game",
+      "url": "https://www.pushsquare.com/news/2026/11/sony-subsidiary-aniplex-ignores-ps5-with-yet-another-game",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 11.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/sony-subsidiary-aniplex-ignores-ps5-with-yet-another-game",
+          "titre": "Sony Subsidiary Aniplex Ignores PS5 with Yet Another Game"
+        }
+      ]
+    },
+    {
+      "id": "the-pillars-of-ai-are-shaking-beneath-our-feet",
+      "titre": "The pillars of AI are shaking beneath our feet",
+      "url": "https://www.pcgamer.com/software/ai/the-pillars-of-ai-are-shaking-beneath-our-feet/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 11.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/the-pillars-of-ai-are-shaking-beneath-our-feet/",
+          "titre": "The pillars of AI are shaking beneath our feet"
+        }
+      ]
+    },
+    {
+      "id": "great-news-nier-automata-s-install-size-is-no-longer-7x-bigg",
+      "titre": "Great news! Nier: Automata's install size is no longer 7x bigger than it should be (it was 366 GB)",
+      "url": "https://www.pcgamer.com/games/rpg/great-news-nier-automatas-install-size-is-no-longer-7x-bigger-than-it-should-be-it-was-366-gb/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 11.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/great-news-nier-automatas-install-size-is-no-longer-7x-bigger-than-it-should-be-it-was-366-gb/",
+          "titre": "Great news! Nier: Automata's install size is no longer 7x bigger than it should be (it was 366 GB)"
         }
       ]
     },
@@ -827,8 +1019,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.2,
-      "chaleur": 4,
+      "heures": 12.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -845,8 +1037,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.4,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -863,8 +1055,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.7,
-      "chaleur": 4,
+      "heures": 12.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -881,8 +1073,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.9,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -899,8 +1091,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.2,
-      "chaleur": 4,
+      "heures": 14.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -917,8 +1109,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.3,
-      "chaleur": 4,
+      "heures": 14.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -935,31 +1127,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.5,
-      "chaleur": 4,
+      "heures": 14.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/pc-cases/msi-maestro-900r-review/",
           "titre": "MSI Maestro 900R PC case review"
-        }
-      ]
-    },
-    {
-      "id": "world-of-warcraft-forever-bumps-dungeon-xp-from-monsters-by",
-      "titre": "World of Warcraft: Forever bumps dungeon XP from monsters by 50% after some community feedback I will diplomatically call passionate",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-bumps-dungeon-xp-from-monsters-by-50-percent-after-some-community-feedback-i-will-diplomatically-call-passionate/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 6.7,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-bumps-dungeon-xp-from-monsters-by-50-percent-after-some-community-feedback-i-will-diplomatically-call-passionate/",
-          "titre": "World of Warcraft: Forever bumps dungeon XP from monsters by 50% after some community feedback I will diplomatically call passionate"
         }
       ]
     },
@@ -971,8 +1145,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.7,
-      "chaleur": 4,
+      "heures": 14.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -980,153 +1154,7 @@ const VEILLE = {
           "titre": "The Death Stranding Series Has Been Played By Way More People Than You'd Expect"
         }
       ]
-    },
-    {
-      "id": "speedrunners-didn-t-take-long-to-find-new-ways-to-break-ocar",
-      "titre": "Speedrunners Didn't Take Long To Find New Ways To Break Ocarina Of Time",
-      "url": "https://www.nintendolife.com/news/2026/11/speedrunners-didnt-take-long-to-find-new-ways-to-break-ocarina-of-time",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 6.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/speedrunners-didnt-take-long-to-find-new-ways-to-break-ocarina-of-time",
-          "titre": "Speedrunners Didn't Take Long To Find New Ways To Break Ocarina Of Time"
-        }
-      ]
-    },
-    {
-      "id": "dungeons-in-world-of-warcraft-forever-get-a-huge-xp-buff-but",
-      "titre": "Dungeons in World of Warcraft: Forever get a huge XP buff, but power-levellers shouldn't celebrate just yet",
-      "url": "https://www.eurogamer.net/world-of-warcraft-forever-dungeon-mob-xp-rate-buff",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 7.0,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/world-of-warcraft-forever-dungeon-mob-xp-rate-buff",
-          "titre": "Dungeons in World of Warcraft: Forever get a huge XP buff, but power-levellers shouldn't celebrate just yet"
-        }
-      ]
-    },
-    {
-      "id": "eve-online-s-new-expansion-looks-to-make-it-simpler-than-eve",
-      "titre": "EVE Online's new expansion looks to make it simpler than ever to get into a huge space battle: 'Every 10 weeks or so, you're gonna know: I can roll up with whatever I have and go shoot some structures and have a big fight'",
-      "url": "https://www.pcgamer.com/games/mmo/eve-onlines-new-expansion-looks-to-make-it-simpler-than-ever-to-get-into-a-huge-space-battle-every-10-weeks-or-so-youre-gonna-know-i-can-roll-up-with-whatever-i-have-and-go-shoot-some-structures-and-have-a-big-fight/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 7.2,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/mmo/eve-onlines-new-expansion-looks-to-make-it-simpler-than-ever-to-get-into-a-huge-space-battle-every-10-weeks-or-so-youre-gonna-know-i-can-roll-up-with-whatever-i-have-and-go-shoot-some-structures-and-have-a-big-fight/",
-          "titre": "EVE Online's new expansion looks to make it simpler than ever to get into a huge space battle: 'Every 10 weeks or so, you're gonna know: I can roll up with whatever I have and go shoot some structures and have a big fight'"
-        }
-      ]
-    },
-    {
-      "id": "i-think-we-d-accidentally-created-the-most-hardcore-extract",
-      "titre": "'I think we'd accidentally created the most hardcore extraction game of all time:' EVE Vanguard is taking hard-won playtest lessons into a '24/7 Alpha'",
-      "url": "https://www.pcgamer.com/games/fps/i-think-wed-accidentally-created-the-most-hardcore-extraction-game-of-all-time-eve-vanguard-is-taking-hard-won-playtest-lessons-into-a-24-7-alpha/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 7.2,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/i-think-wed-accidentally-created-the-most-hardcore-extraction-game-of-all-time-eve-vanguard-is-taking-hard-won-playtest-lessons-into-a-24-7-alpha/",
-          "titre": "'I think we'd accidentally created the most hardcore extraction game of all time:' EVE Vanguard is taking hard-won playtest lessons into a '24/7 Alpha'"
-        }
-      ]
-    },
-    {
-      "id": "ahead-of-the-witcher-3-songs-of-the-past-here-s-a-lore-frien",
-      "titre": "Ahead of The Witcher 3: Songs of the Past, here's a \"lore friendly unofficial expansion to Geralt's life in Toussaint\" from a well-established quest modder",
-      "url": "https://www.rockpapershotgun.com/ahead-of-the-witcher-3-songs-of-the-past-heres-a-lore-friendly-unofficial-expansion-to-geralts-life-in-toussaint-from-a-well-established-quest-modder",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 7.3,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/ahead-of-the-witcher-3-songs-of-the-past-heres-a-lore-friendly-unofficial-expansion-to-geralts-life-in-toussaint-from-a-well-established-quest-modder",
-          "titre": "Ahead of The Witcher 3: Songs of the Past, here's a \"lore friendly unofficial expansion to Geralt's life in Toussaint\" from a well-established quest modder"
-        }
-      ]
-    },
-    {
-      "id": "father-arrested-for-leaving-6-year-old-daughter-sleeping-in",
-      "titre": "Father Arrested For Leaving 6-Year-Old Daughter Sleeping In Line For Pokémon Cards",
-      "url": "https://www.nintendolife.com/news/2026/11/father-arrested-for-leaving-6-year-old-daughter-sleeping-in-line-for-pokemon-cards",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 7.7,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/father-arrested-for-leaving-6-year-old-daughter-sleeping-in-line-for-pokemon-cards",
-          "titre": "Father Arrested For Leaving 6-Year-Old Daughter Sleeping In Line For Pokémon Cards"
-        }
-      ]
-    },
-    {
-      "id": "feature-60-ps5-ps4-games-to-buy-in-ps-store-s-huge-black-fri",
-      "titre": "Feature: 60+ PS5, PS4 Games to Buy in PS Store's Huge Black Friday Sale (North America/Europe)",
-      "url": "https://www.pushsquare.com/features/60plus-ps5-ps4-games-to-buy-in-ps-stores-huge-black-friday-sale-north-americaeurope",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 7.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/60plus-ps5-ps4-games-to-buy-in-ps-stores-huge-black-friday-sale-north-americaeurope",
-          "titre": "Feature: 60+ PS5, PS4 Games to Buy in PS Store's Huge Black Friday Sale (North America/Europe)"
-        }
-      ]
-    },
-    {
-      "id": "mario-s-next-adults-welcome-lego-set-is-hatching-soon",
-      "titre": "Mario's Next 'Adults Welcome' LEGO Set Is \"Hatching Soon\"",
-      "url": "https://www.nintendolife.com/news/2026/11/marios-next-adults-welcome-lego-set-is-hatching-soon",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 8.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/marios-next-adults-welcome-lego-set-is-hatching-soon",
-          "titre": "Mario's Next 'Adults Welcome' LEGO Set Is \"Hatching Soon\""
-        }
-      ]
     }
   ],
-  "alertes": [
-    "Report: Star Wars Zero Company developer Bit Reactor lays off an unspecified number of staff"
-  ]
+  "alertes": []
 };
