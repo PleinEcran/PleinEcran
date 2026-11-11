@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "10/11/2026 à 20h46",
+  "collecte": "11/11/2026 à 01h52",
   "seuil": 14,
   "sujets": [
     {
@@ -14,8 +14,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 4,
-      "heures": 1.8,
-      "chaleur": 18,
+      "heures": 6.9,
+      "chaleur": 16,
       "liens": [
         {
           "source": "Push Square",
@@ -49,8 +49,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 0.8,
-      "chaleur": 15,
+      "heures": 5.9,
+      "chaleur": 13,
       "liens": [
         {
           "source": "PC Gamer",
@@ -79,8 +79,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 3,
-      "heures": 2.9,
-      "chaleur": 15,
+      "heures": 8.1,
+      "chaleur": 13,
       "liens": [
         {
           "source": "Game Developer",
@@ -100,6 +100,48 @@ const VEILLE = {
       ]
     },
     {
+      "id": "sony-cancels-another-live-service-game-ahead-of-release-but",
+      "titre": "Sony cancels another live service game ahead of release, but at least there won't be any layoffs this time",
+      "url": "https://www.pcgamer.com/gaming-industry/sony-cancels-another-live-service-game-ahead-of-release-but-at-least-there-wont-be-any-layoffs-this-time/",
+      "sources": [
+        "PC Gamer",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 2.6,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/sony-cancels-another-live-service-game-ahead-of-release-but-at-least-there-wont-be-any-layoffs-this-time/",
+          "titre": "Sony cancels another live service game ahead of release, but at least there won't be any layoffs this time"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/sony-cancels-fairgames-after-years-of-work-on-ps5-live-service-shooter",
+          "titre": "Sony Cancels Fairgames After Years of Work on PS5 Live Service Shooter"
+        }
+      ]
+    },
+    {
+      "id": "it-felt-like-a-powerpoint-deck-of-executive-ideas-beta-test",
+      "titre": "'It Felt Like a PowerPoint Deck of Executive Ideas': Beta Testers Share Thoughts on PS5's Cancelled Fairgames",
+      "url": "https://www.pushsquare.com/news/2026/11/it-felt-like-a-powerpoint-deck-of-executive-ideas-beta-testers-share-thoughts-on-ps5s-cancelled-fairgames",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/it-felt-like-a-powerpoint-deck-of-executive-ideas-beta-testers-share-thoughts-on-ps5s-cancelled-fairgames",
+          "titre": "'It Felt Like a PowerPoint Deck of Executive Ideas': Beta Testers Share Thoughts on PS5's Cancelled Fairgames"
+        }
+      ]
+    },
+    {
       "id": "playstation-plus-pc-app-is-being-shut-down-in-december-becau",
       "titre": "PlayStation Plus PC app is being shut down in December because less than 0.4% of eligible subscribers are using it",
       "url": "https://www.pcgamer.com/gaming-industry/playstation-plus-pc-app-is-being-shut-down-in-december-because-less-than-0-4-percent-of-eligible-subscribers-are-using-it/",
@@ -108,8 +150,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 1.8,
-      "chaleur": 11,
+      "heures": 6.9,
+      "chaleur": 9,
       "liens": [
         {
           "source": "PC Gamer",
@@ -132,8 +174,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 11.4,
-      "chaleur": 10,
+      "heures": 16.5,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Eurogamer",
@@ -148,6 +190,174 @@ const VEILLE = {
       ]
     },
     {
+      "id": "there-s-no-such-thing-as-easy-money-in-our-business-strauss",
+      "titre": "\"There's no such thing as easy money in our business\" – Strauss Zelnick on GTA 6, BioShock, Take-Two's acquisition plans, and reviving old IP",
+      "url": "https://www.gamesindustry.biz/theres-no-such-thing-as-easy-money-in-our-business-strauss-zelnick-on-gta-6-bioshock-take-twos-acquisition-plans-and-reviving-old-ip",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 28.2,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/theres-no-such-thing-as-easy-money-in-our-business-strauss-zelnick-on-gta-6-bioshock-take-twos-acquisition-plans-and-reviving-old-ip",
+          "titre": "\"There's no such thing as easy money in our business\" – Strauss Zelnick on GTA 6, BioShock, Take-Two's acquisition plans, and reviving old IP"
+        }
+      ]
+    },
+    {
+      "id": "steam-s-age-verification-in-australia-now-takes-your-account",
+      "titre": "Steam's age verification in Australia now takes your account's age into consideration",
+      "url": "https://www.pcgamer.com/software/platforms/steams-age-verification-in-australia-now-takes-your-accounts-age-into-consideration/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/platforms/steams-age-verification-in-australia-now-takes-your-accounts-age-into-consideration/",
+          "titre": "Steam's age verification in Australia now takes your account's age into consideration"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-ending-google-and-apple-sign-ins-on-nintendo-accoun",
+      "titre": "Nintendo Ending Google And Apple Sign-Ins On Nintendo Accounts In 2027",
+      "url": "https://www.nintendolife.com/news/2026/11/nintendo-ending-google-and-apple-sign-ins-on-nintendo-accounts-in-2027",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/nintendo-ending-google-and-apple-sign-ins-on-nintendo-accounts-in-2027",
+          "titre": "Nintendo Ending Google And Apple Sign-Ins On Nintendo Accounts In 2027"
+        }
+      ]
+    },
+    {
+      "id": "sony-s-10-most-profitable-ps5-games-reported-in-new-estimate",
+      "titre": "Sony's 10 Most Profitable PS5 Games Reported in New Estimates",
+      "url": "https://www.pushsquare.com/news/2026/11/sonys-10-most-profitable-ps5-games-reported-in-new-estimates",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/sonys-10-most-profitable-ps5-games-reported-in-new-estimates",
+          "titre": "Sony's 10 Most Profitable PS5 Games Reported in New Estimates"
+        }
+      ]
+    },
+    {
+      "id": "mouse-work-the-switch-2-game-using-joy-con-mouse-controls-ar",
+      "titre": "Mouse Work, The Switch 2 Game Using Joy-Con Mouse Controls, Arrives This December",
+      "url": "https://www.nintendolife.com/news/2026/11/mouse-work-the-switch-2-game-using-joy-con-mouse-controls-arrives-this-december",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 2.3,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/mouse-work-the-switch-2-game-using-joy-con-mouse-controls-arrives-this-december",
+          "titre": "Mouse Work, The Switch 2 Game Using Joy-Con Mouse Controls, Arrives This December"
+        }
+      ]
+    },
+    {
+      "id": "capcom-quietly-updates-the-monster-hunter-wilds-beta-listing",
+      "titre": "Capcom quietly updates the Monster Hunter Wilds beta listing on Steam, indicating a possible expansion playtest",
+      "url": "https://www.pcgamer.com/games/action/capcom-quietly-updates-the-monster-hunter-wilds-beta-listing-on-steam-indicating-a-possible-expansion-playtest/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 3.5,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/capcom-quietly-updates-the-monster-hunter-wilds-beta-listing-on-steam-indicating-a-possible-expansion-playtest/",
+          "titre": "Capcom quietly updates the Monster Hunter Wilds beta listing on Steam, indicating a possible expansion playtest"
+        }
+      ]
+    },
+    {
+      "id": "playstation-reportedly-cancels-fairgames-after-recent-playte",
+      "titre": "PlayStation reportedly cancels Fairgames after recent playtests",
+      "url": "https://www.videogameschronicle.com/news/playstation-reportedly-cancels-fairgames-after-recent-playtests/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 5.0,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/playstation-reportedly-cancels-fairgames-after-recent-playtests/",
+          "titre": "PlayStation reportedly cancels Fairgames after recent playtests"
+        }
+      ]
+    },
+    {
+      "id": "sony-have-cancelled-fairgame-once-again-reminding-us-that-ch",
+      "titre": "Sony have cancelled Fairgame$, once again reminding us that chasing live service big bucks basically never works",
+      "url": "https://www.rockpapershotgun.com/sony-have-cancelled-fairgame-once-again-reminding-us-that-chasing-live-service-big-bucks-basically-never-works",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 4.4,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/sony-have-cancelled-fairgame-once-again-reminding-us-that-chasing-live-service-big-bucks-basically-never-works",
+          "titre": "Sony have cancelled Fairgame$, once again reminding us that chasing live service big bucks basically never works"
+        }
+      ]
+    },
+    {
+      "id": "bungie-drops-gameplay-trailer-for-marathon-s-co-op-pve-rogue",
+      "titre": "Bungie drops gameplay trailer for Marathon's 'co-op PvE roguelite' mode and swanky new social space",
+      "url": "https://www.pcgamer.com/games/fps/bungie-drops-gameplay-trailer-for-marathons-co-op-pve-roguelite-mode-and-swanky-new-social-space/",
+      "sources": [
+        "PC Gamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 4.6,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/bungie-drops-gameplay-trailer-for-marathons-co-op-pve-roguelite-mode-and-swanky-new-social-space/",
+          "titre": "Bungie drops gameplay trailer for Marathon's 'co-op PvE roguelite' mode and swanky new social space"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/marathon-is-becoming-a-whole-new-game-next-month-with-a-roguelite-pve-mode-a-beta-for-a-very-halo-esque-team-deathmatch-mode-a-vibey-social-space-and-more",
+          "titre": "Marathon is becoming a whole new game next month with a roguelite PvE mode, a beta for a very Halo-esque team deathmatch mode, a vibey social space and more"
+        }
+      ]
+    },
+    {
       "id": "the-outer-worlds-2-ps5-dlc-split-into-two-parts-first-in-dec",
       "titre": "The Outer Worlds 2 PS5 DLC Split into Two Parts, First in December",
       "url": "https://www.pushsquare.com/news/2026/11/the-outer-worlds-2-ps5-dlc-split-into-two-parts-first-in-december",
@@ -156,8 +366,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 0.3,
-      "chaleur": 9,
+      "heures": 5.4,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Push Square",
@@ -179,8 +389,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.8,
-      "chaleur": 9,
+      "heures": 5.9,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Push Square",
@@ -197,8 +407,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.8,
-      "chaleur": 9,
+      "heures": 5.9,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -215,8 +425,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 9,
+      "heures": 7.9,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
@@ -234,8 +444,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 3.6,
-      "chaleur": 9,
+      "heures": 8.7,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Eurogamer",
@@ -257,109 +467,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 9,
+      "heures": 8.9,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/software/ai/educational-game-dev-program-cancelled-because-students-were-submitting-games-made-entirely-with-ai/",
           "titre": "Educational game dev program cancelled because students were submitting games made entirely with AI"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-won-t-have-any-last-minute-delays-as-it-s-officially-g",
-      "titre": "GTA 6 Won't Have Any Last Minute Delays, as It's Officially Gone Gold",
-      "url": "https://www.pushsquare.com/news/2026/11/gta-6-wont-have-any-last-minute-delays-as-its-officially-gone-gold",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 8.8,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/gta-6-wont-have-any-last-minute-delays-as-its-officially-gone-gold",
-          "titre": "GTA 6 Won't Have Any Last Minute Delays, as It's Officially Gone Gold"
-        }
-      ]
-    },
-    {
-      "id": "there-s-no-such-thing-as-easy-money-in-our-business-strauss",
-      "titre": "\"There's no such thing as easy money in our business\" – Strauss Zelnick on GTA 6, BioShock, Take-Two's acquisition plans, and reviving old IP",
-      "url": "https://www.gamesindustry.biz/theres-no-such-thing-as-easy-money-in-our-business-strauss-zelnick-on-gta-6-bioshock-take-twos-acquisition-plans-and-reviving-old-ip",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 23.1,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/theres-no-such-thing-as-easy-money-in-our-business-strauss-zelnick-on-gta-6-bioshock-take-twos-acquisition-plans-and-reviving-old-ip",
-          "titre": "\"There's no such thing as easy money in our business\" – Strauss Zelnick on GTA 6, BioShock, Take-Two's acquisition plans, and reviving old IP"
-        }
-      ]
-    },
-    {
-      "id": "nvidia-shareholders-have-filed-a-lawsuit-against-the-tech-co",
-      "titre": "Nvidia shareholders have filed a lawsuit against the tech company over claims that they were misled regarding CEO Jensen Huang's affair",
-      "url": "https://www.rockpapershotgun.com/nvidia-shareholders-have-filed-a-lawsuit-against-the-tech-company-over-claims-that-they-were-misled-regarding-ceo-jensen-huangs-affair",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/nvidia-shareholders-have-filed-a-lawsuit-against-the-tech-company-over-claims-that-they-were-misled-regarding-ceo-jensen-huangs-affair",
-          "titre": "Nvidia shareholders have filed a lawsuit against the tech company over claims that they were misled regarding CEO Jensen Huang's affair"
-        }
-      ]
-    },
-    {
-      "id": "gallery-hollow-knight-silksong-s-switch-2-physicals-are-a-de",
-      "titre": "Gallery: Hollow Knight & Silksong's Switch 2 Physicals Are A Delight For Map Fans",
-      "url": "https://www.nintendolife.com/news/2026/11/gallery-hollow-knight-and-silksongs-switch-2-physicals-are-a-delight-for-map-fans",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/gallery-hollow-knight-and-silksongs-switch-2-physicals-are-a-delight-for-map-fans",
-          "titre": "Gallery: Hollow Knight & Silksong's Switch 2 Physicals Are A Delight For Map Fans"
-        }
-      ]
-    },
-    {
-      "id": "report-star-wars-zero-company-developer-bit-reactor-lays-off",
-      "titre": "Report: Star Wars Zero Company developer Bit Reactor lays off an unspecified number of staff",
-      "url": "https://www.gamedeveloper.com/business/report-star-wars-zero-company-developer-bitreactor-lays-off-an-unspecified-number-of-staff",
-      "sources": [
-        "Game Developer",
-        "GamesIndustry.biz"
-      ],
-      "reprises": 2,
-      "heures": 27.3,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/report-star-wars-zero-company-developer-bitreactor-lays-off-an-unspecified-number-of-staff",
-          "titre": "Report: Star Wars Zero Company developer Bit Reactor lays off an unspecified number of staff"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/star-wars-zero-company-developer-bit-reactor-has-laid-off-an-unspecified-number-of-people",
-          "titre": "Star Wars Zero Company developer Bit Reactor has laid off an unspecified number of people"
         }
       ]
     },
@@ -371,7 +485,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 9.5,
       "chaleur": 7,
       "liens": [
         {
@@ -389,7 +503,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 9.5,
       "chaleur": 7,
       "liens": [
         {
@@ -408,7 +522,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 4.8,
+      "heures": 9.9,
       "chaleur": 7,
       "liens": [
         {
@@ -424,24 +538,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "i-feel-better-than-ever-waiting-for-gta-6-on-pc-now-rockstar",
-      "titre": "I feel better than ever waiting for GTA 6 on PC now Rockstar confirms it's targeting 30 fps on PlayStation and Xbox",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-feel-better-than-ever-waiting-for-gta-6-on-pc-now-rockstar-confirms-its-targeting-30-fps-on-playstation-and-xbox/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 5.1,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-feel-better-than-ever-waiting-for-gta-6-on-pc-now-rockstar-confirms-its-targeting-30-fps-on-playstation-and-xbox/",
-          "titre": "I feel better than ever waiting for GTA 6 on PC now Rockstar confirms it's targeting 30 fps on PlayStation and Xbox"
-        }
-      ]
-    },
-    {
       "id": "a-fight-for-all-workers-sag-aftra-throw-weight-behind-emerg",
       "titre": "\"A fight for all workers\": SAG-AFTRA throw weight behind emerging Rockstar union ahead of its GTA 6 release week vote",
       "url": "https://www.rockpapershotgun.com/a-fight-for-all-workers-sag-aftra-throw-weight-behind-emerging-rockstar-union-ahead-of-its-gta-6-release-week-vote",
@@ -449,7 +545,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 10.8,
       "chaleur": 7,
       "liens": [
         {
@@ -467,37 +563,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 11.2,
       "chaleur": 7,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/gta-6-xbox-cloud-streaming-pc-xbox-one",
           "titre": "Rockstar kills any hopes of streaming GTA 6 from Xbox to PC, but you can stream it to your old Xbox One if you like"
-        }
-      ]
-    },
-    {
-      "id": "big-walk-developer-reveals-it-used-generative-ai-sparingly-e",
-      "titre": "Big Walk developer reveals it used generative AI 'sparingly', estimates 'well under 0.1%' was actually coded using LLMs",
-      "url": "https://www.pcgamer.com/games/puzzle/big-walk-developer-reveals-it-used-generative-ai-sparingly-estimates-well-under-0-1-percent-was-actually-coded-using-llms/",
-      "sources": [
-        "Eurogamer",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 6.2,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/puzzle/big-walk-developer-reveals-it-used-generative-ai-sparingly-estimates-well-under-0-1-percent-was-actually-coded-using-llms/",
-          "titre": "Big Walk developer reveals it used generative AI 'sparingly', estimates 'well under 0.1%' was actually coded using LLMs"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/house-house-big-walk-generative-ai-development",
-          "titre": "Under pressure, Big Walk studio reveals it used generative AI \"sparingly\" while making its hit 2026 game"
         }
       ]
     },
@@ -509,7 +581,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.8,
+      "heures": 11.9,
       "chaleur": 7,
       "liens": [
         {
@@ -520,26 +592,164 @@ const VEILLE = {
       ]
     },
     {
-      "id": "skydance-games-has-been-laying-off-some-of-its-staff-a-month",
-      "titre": "Skydance Games has been laying off some of its staff, a month after merging with Warner Bros",
-      "url": "https://www.videogameschronicle.com/news/skydance-games-has-been-laying-off-some-of-its-staff-a-month-after-merging-with-warner-bros/",
+      "id": "one-elder-scrolls-fan-is-reviving-and-upgrading-with-ai-a-lo",
+      "titre": "One Elder Scrolls fan is reviving and upgrading (with AI) a lost spin-off for the Nokia N-Gage and porting it to PC",
+      "url": "https://www.pcgamer.com/games/the-elder-scrolls/one-elder-scrolls-fan-is-reviving-and-upgrading-a-lost-spin-off-for-the-nokia-n-gage-and-porting-it-to-pc/",
       "sources": [
-        "Rock Paper Shotgun",
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-elder-scrolls/one-elder-scrolls-fan-is-reviving-and-upgrading-a-lost-spin-off-for-the-nokia-n-gage-and-porting-it-to-pc/",
+          "titre": "One Elder Scrolls fan is reviving and upgrading (with AI) a lost spin-off for the Nokia N-Gage and porting it to PC"
+        }
+      ]
+    },
+    {
+      "id": "sick-bmx-flips-colourful-characters-a-whole-lot-of-mail-and",
+      "titre": "Sick BMX flips, colourful characters, a whole lot of mail and a charming raccoon dog await you in Tanuki: Pon's Summer, which you can pick up now",
+      "url": "https://www.rockpapershotgun.com/sick-bmx-flips-colourful-characters-a-whole-lot-of-mail-and-a-charming-raccoon-dog-await-you-in-tanuki-pons-summer-which-you-can-pick-up-now",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 3.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/sick-bmx-flips-colourful-characters-a-whole-lot-of-mail-and-a-charming-raccoon-dog-await-you-in-tanuki-pons-summer-which-you-can-pick-up-now",
+          "titre": "Sick BMX flips, colourful characters, a whole lot of mail and a charming raccoon dog await you in Tanuki: Pon's Summer, which you can pick up now"
+        }
+      ]
+    },
+    {
+      "id": "baldur-s-gate-3-approves-new-wave-of-console-mods",
+      "titre": "Baldur’s Gate 3 approves new wave of console mods",
+      "url": "https://www.videogameschronicle.com/news/baldurs-gate-3-approves-new-wave-of-console-mods/",
+      "sources": [
         "VGC"
       ],
-      "reprises": 2,
-      "heures": 7.4,
-      "chaleur": 7,
+      "reprises": 1,
+      "heures": 3.8,
+      "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/skydance-games-has-been-laying-off-some-of-its-staff-a-month-after-merging-with-warner-bros/",
-          "titre": "Skydance Games has been laying off some of its staff, a month after merging with Warner Bros"
-        },
+          "url": "https://www.videogameschronicle.com/news/baldurs-gate-3-approves-new-wave-of-console-mods/",
+          "titre": "Baldur’s Gate 3 approves new wave of console mods"
+        }
+      ]
+    },
+    {
+      "id": "nvidia-shareholders-have-filed-a-lawsuit-against-the-tech-co",
+      "titre": "Nvidia shareholders have filed a lawsuit against the tech company over claims that they were misled regarding CEO Jensen Huang's affair",
+      "url": "https://www.rockpapershotgun.com/nvidia-shareholders-have-filed-a-lawsuit-against-the-tech-company-over-claims-that-they-were-misled-regarding-ceo-jensen-huangs-affair",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 7.9,
+      "chaleur": 6,
+      "liens": [
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/skydance-games-lay-off-an-undisclosed-number-of-staff-in-the-wake-of-paramount-warner-bros-merger-in-latest-case-of-consolidation-killing-livelihoods",
-          "titre": "Skydance Games lay off an undisclosed number of staff in the wake of Paramount-Warner Bros. merger, in latest case of consolidation killing livelihoods"
+          "url": "https://www.rockpapershotgun.com/nvidia-shareholders-have-filed-a-lawsuit-against-the-tech-company-over-claims-that-they-were-misled-regarding-ceo-jensen-huangs-affair",
+          "titre": "Nvidia shareholders have filed a lawsuit against the tech company over claims that they were misled regarding CEO Jensen Huang's affair"
+        }
+      ]
+    },
+    {
+      "id": "gallery-hollow-knight-silksong-s-switch-2-physicals-are-a-de",
+      "titre": "Gallery: Hollow Knight & Silksong's Switch 2 Physicals Are A Delight For Map Fans",
+      "url": "https://www.nintendolife.com/news/2026/11/gallery-hollow-knight-and-silksongs-switch-2-physicals-are-a-delight-for-map-fans",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 7.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/gallery-hollow-knight-and-silksongs-switch-2-physicals-are-a-delight-for-map-fans",
+          "titre": "Gallery: Hollow Knight & Silksong's Switch 2 Physicals Are A Delight For Map Fans"
+        }
+      ]
+    },
+    {
+      "id": "video-we-join-ign-s-review-crew-to-discuss-zelda-ocarina-of",
+      "titre": "Video: We Join IGN's 'Review Crew' To Discuss Zelda: Ocarina Of Time",
+      "url": "https://www.nintendolife.com/news/2026/11/video-we-join-igns-review-crew-to-discuss-zelda-ocarina-of-time",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 9.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/video-we-join-igns-review-crew-to-discuss-zelda-ocarina-of-time",
+          "titre": "Video: We Join IGN's 'Review Crew' To Discuss Zelda: Ocarina Of Time"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-is-hiring-someone-to-document-the-history-of-its-ga",
+      "titre": "Nintendo is hiring someone to document the history of its games",
+      "url": "https://www.videogameschronicle.com/news/nintendo-is-hiring-someone-to-document-the-history-of-its-games/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 9.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/nintendo-is-hiring-someone-to-document-the-history-of-its-games/",
+          "titre": "Nintendo is hiring someone to document the history of its games"
+        }
+      ]
+    },
+    {
+      "id": "review-metaphor-refantazio-switch-2-an-extraordinary-jrpg-th",
+      "titre": "Review: Metaphor: ReFantazio (Switch 2) - An Extraordinary JRPG That Could Use Another Optimisation Pass",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/metaphor-refantazio",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 10.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/metaphor-refantazio",
+          "titre": "Review: Metaphor: ReFantazio (Switch 2) - An Extraordinary JRPG That Could Use Another Optimisation Pass"
+        }
+      ]
+    },
+    {
+      "id": "steam-now-shows-average-steam-deck-framerates-when-browsing",
+      "titre": "Steam now shows average Steam Deck framerates when browsing games, but Valve says it's considering expanding the feature to other hardware",
+      "url": "https://www.eurogamer.net/steam-deck-framerate-average-data-store-widget",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 12.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/steam-deck-framerate-average-data-store-widget",
+          "titre": "Steam now shows average Steam Deck framerates when browsing games, but Valve says it's considering expanding the feature to other hardware"
         }
       ]
     },
@@ -552,8 +762,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 7.8,
-      "chaleur": 7,
+      "heures": 12.9,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -575,8 +785,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.3,
-      "chaleur": 7,
+      "heures": 14.4,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -593,8 +803,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 7,
+      "heures": 15.3,
+      "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -612,8 +822,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 10.4,
-      "chaleur": 7,
+      "heures": 15.5,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -635,337 +845,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 7,
+      "heures": 16.4,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/the-legend-of-zelda-ocarina-of-time-switch-2-best-week-sales",
           "titre": "Switch 2 US sales soar again thanks to The Legend of Zelda effect, as it enjoys its best week of the year so far"
-        }
-      ]
-    },
-    {
-      "id": "ps-plus-pulls-plug-on-pc-streaming-after-fewer-than-1-used-i",
-      "titre": "PS Plus Pulls Plug on PC Streaming After Fewer Than 1% Used It",
-      "url": "https://www.pushsquare.com/news/2026/11/ps-plus-pulls-plug-on-pc-streaming-after-fewer-than-1percent-used-it",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 1.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/ps-plus-pulls-plug-on-pc-streaming-after-fewer-than-1percent-used-it",
-          "titre": "PS Plus Pulls Plug on PC Streaming After Fewer Than 1% Used It"
-        }
-      ]
-    },
-    {
-      "id": "talking-point-with-big-walk-the-ai-in-game-dev-debate-just-g",
-      "titre": "Talking Point: With Big Walk, The AI-In-Game-Dev Debate Just Got A Lot Murkier",
-      "url": "https://www.nintendolife.com/features/talking-point-with-big-walk-the-ai-in-game-dev-debate-just-got-a-lot-murkier",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 1.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/talking-point-with-big-walk-the-ai-in-game-dev-debate-just-got-a-lot-murkier",
-          "titre": "Talking Point: With Big Walk, The AI-In-Game-Dev Debate Just Got A Lot Murkier"
-        }
-      ]
-    },
-    {
-      "id": "overwatch-brings-back-6v6-role-queue-following-player-feedba",
-      "titre": "Overwatch brings back 6v6 role-queue following player feedback",
-      "url": "https://www.videogameschronicle.com/news/overwatch-brings-back-6v6-role-queue-following-player-feedback/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/overwatch-brings-back-6v6-role-queue-following-player-feedback/",
-          "titre": "Overwatch brings back 6v6 role-queue following player feedback"
-        }
-      ]
-    },
-    {
-      "id": "marvel-rivals-confirms-nightcrawler-and-dracula-as-playable",
-      "titre": "Marvel Rivals confirms Nightcrawler and Dracula as playable characters",
-      "url": "https://www.videogameschronicle.com/news/marvel-rivals-confirms-nightcrawler-and-dracula-as-playable-characters/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/marvel-rivals-confirms-nightcrawler-and-dracula-as-playable-characters/",
-          "titre": "Marvel Rivals confirms Nightcrawler and Dracula as playable characters"
-        }
-      ]
-    },
-    {
-      "id": "marathon-is-becoming-a-whole-new-game-next-month-with-a-rogu",
-      "titre": "Marathon is becoming a whole new game next month with a roguelite PvE mode, a beta for a very Halo-esque team deathmatch mode, a vibey social space and more",
-      "url": "https://www.rockpapershotgun.com/marathon-is-becoming-a-whole-new-game-next-month-with-a-roguelite-pve-mode-a-beta-for-a-very-halo-esque-team-deathmatch-mode-a-vibey-social-space-and-more",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/marathon-is-becoming-a-whole-new-game-next-month-with-a-roguelite-pve-mode-a-beta-for-a-very-halo-esque-team-deathmatch-mode-a-vibey-social-space-and-more",
-          "titre": "Marathon is becoming a whole new game next month with a roguelite PvE mode, a beta for a very Halo-esque team deathmatch mode, a vibey social space and more"
-        }
-      ]
-    },
-    {
-      "id": "ps-store-adds-ps5-hardware-tab-but-it-s-extremely-limited",
-      "titre": "PS Store Adds PS5 Hardware Tab, But It's Extremely Limited",
-      "url": "https://www.pushsquare.com/news/2026/11/ps-store-adds-ps5-hardware-tab-but-its-extremely-limited",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/ps-store-adds-ps5-hardware-tab-but-its-extremely-limited",
-          "titre": "PS Store Adds PS5 Hardware Tab, But It's Extremely Limited"
-        }
-      ]
-    },
-    {
-      "id": "company-of-heroes-3-developer-admits-it-was-a-lot-to-make-th",
-      "titre": "Company of Heroes 3 developer admits \"it was a lot\" to make the 3.0 overhaul patch alongside regular updates, singleplayer DLC, and a whole spinoff game",
-      "url": "https://www.rockpapershotgun.com/company-of-heroes-3-developer-admits-it-was-a-lot-to-make-the-30-overhaul-patch-alongside-regular-updates-singleplayer-dlc-and-a-whole-spinoff-game",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/company-of-heroes-3-developer-admits-it-was-a-lot-to-make-the-30-overhaul-patch-alongside-regular-updates-singleplayer-dlc-and-a-whole-spinoff-game",
-          "titre": "Company of Heroes 3 developer admits \"it was a lot\" to make the 3.0 overhaul patch alongside regular updates, singleplayer DLC, and a whole spinoff game"
-        }
-      ]
-    },
-    {
-      "id": "note-to-self-if-playing-call-of-duty-in-an-airport-don-t-say",
-      "titre": "Note to self: If playing Call of Duty in an airport, don't say words like 'bomb' lest you want to evacuate an entire plane",
-      "url": "https://www.pcgamer.com/games/call-of-duty/note-to-self-if-playing-call-of-duty-in-an-airport-dont-say-words-like-bomb-lest-you-want-to-evacuate-an-entire-plane/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/call-of-duty/note-to-self-if-playing-call-of-duty-in-an-airport-dont-say-words-like-bomb-lest-you-want-to-evacuate-an-entire-plane/",
-          "titre": "Note to self: If playing Call of Duty in an airport, don't say words like 'bomb' lest you want to evacuate an entire plane"
-        }
-      ]
-    },
-    {
-      "id": "ms-has-messily-patched-a-microsoft-paint-security-vulnerabil",
-      "titre": "MS has messily patched a Microsoft Paint security vulnerability, but the update still isn’t showing up for some",
-      "url": "https://www.pcgamer.com/software/windows/ms-has-messily-patched-a-microsoft-paint-security-vulnerability-but-the-update-still-isnt-showing-up-for-some/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/windows/ms-has-messily-patched-a-microsoft-paint-security-vulnerability-but-the-update-still-isnt-showing-up-for-some/",
-          "titre": "MS has messily patched a Microsoft Paint security vulnerability, but the update still isn’t showing up for some"
-        }
-      ]
-    },
-    {
-      "id": "acer-predator-atlas-8-g3-extreme-review",
-      "titre": "Acer Predator Atlas 8 (G3 Extreme) review",
-      "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/acer-predator-atlas-8-g3-extreme-review/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/acer-predator-atlas-8-g3-extreme-review/",
-          "titre": "Acer Predator Atlas 8 (G3 Extreme) review"
-        }
-      ]
-    },
-    {
-      "id": "amdlss5-gets-nvidia-s-neural-rendering-running-on-amd-graph",
-      "titre": "‘AMDLSS5’ gets Nvidia’s neural rendering running on AMD graphics cards and claims 64% better performance than other mods",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/amdlss5-gets-nvidias-neural-rendering-running-on-amd-graphics-cards-and-claims-64-percent-better-performance-than-other-mods/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/amdlss5-gets-nvidias-neural-rendering-running-on-amd-graphics-cards-and-claims-64-percent-better-performance-than-other-mods/",
-          "titre": "‘AMDLSS5’ gets Nvidia’s neural rendering running on AMD graphics cards and claims 64% better performance than other mods"
-        }
-      ]
-    },
-    {
-      "id": "video-we-join-ign-s-review-crew-to-discuss-zelda-ocarina-of",
-      "titre": "Video: We Join IGN's 'Review Crew' To Discuss Zelda: Ocarina Of Time",
-      "url": "https://www.nintendolife.com/news/2026/11/video-we-join-igns-review-crew-to-discuss-zelda-ocarina-of-time",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 4.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/video-we-join-igns-review-crew-to-discuss-zelda-ocarina-of-time",
-          "titre": "Video: We Join IGN's 'Review Crew' To Discuss Zelda: Ocarina Of Time"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-is-hiring-someone-to-document-the-history-of-its-ga",
-      "titre": "Nintendo is hiring someone to document the history of its games",
-      "url": "https://www.videogameschronicle.com/news/nintendo-is-hiring-someone-to-document-the-history-of-its-games/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 4.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/nintendo-is-hiring-someone-to-document-the-history-of-its-games/",
-          "titre": "Nintendo is hiring someone to document the history of its games"
-        }
-      ]
-    },
-    {
-      "id": "review-metaphor-refantazio-switch-2-an-extraordinary-jrpg-th",
-      "titre": "Review: Metaphor: ReFantazio (Switch 2) - An Extraordinary JRPG That Could Use Another Optimisation Pass",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/metaphor-refantazio",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 5.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/metaphor-refantazio",
-          "titre": "Review: Metaphor: ReFantazio (Switch 2) - An Extraordinary JRPG That Could Use Another Optimisation Pass"
-        }
-      ]
-    },
-    {
-      "id": "steam-now-shows-average-steam-deck-framerates-when-browsing",
-      "titre": "Steam now shows average Steam Deck framerates when browsing games, but Valve says it's considering expanding the feature to other hardware",
-      "url": "https://www.eurogamer.net/steam-deck-framerate-average-data-store-widget",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 6.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/steam-deck-framerate-average-data-store-widget",
-          "titre": "Steam now shows average Steam Deck framerates when browsing games, but Valve says it's considering expanding the feature to other hardware"
-        }
-      ]
-    },
-    {
-      "id": "steam-s-new-steam-deck-framerate-graphs-are-good-news-for-ha",
-      "titre": "Steam's new Steam Deck framerate graphs are good news for handheld players, though I wouldn't fully trust the numbers yet",
-      "url": "https://www.rockpapershotgun.com/steams-new-steam-deck-framerate-graphs-are-good-news-for-handheld-players-though-i-wouldnt-fully-trust-the-numbers-yet",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 8.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/steams-new-steam-deck-framerate-graphs-are-good-news-for-handheld-players-though-i-wouldnt-fully-trust-the-numbers-yet",
-          "titre": "Steam's new Steam Deck framerate graphs are good news for handheld players, though I wouldn't fully trust the numbers yet"
-        }
-      ]
-    },
-    {
-      "id": "why-is-it-not-fun-doug-bowser-gives-a-peek-into-nintendo-s",
-      "titre": "\"Why Is It Not Fun?\" - Doug Bowser Gives A Peek Into Nintendo's Strategy Sessions",
-      "url": "https://www.nintendolife.com/news/2026/11/why-is-it-not-fun-doug-bowser-gives-a-peek-into-nintendos-strategy-sessions",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/why-is-it-not-fun-doug-bowser-gives-a-peek-into-nintendos-strategy-sessions",
-          "titre": "\"Why Is It Not Fun?\" - Doug Bowser Gives A Peek Into Nintendo's Strategy Sessions"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-switch-2-system-update-23-5-0-is-now-live-here-are",
-      "titre": "Nintendo Switch 2 System Update 23.5.0 Is Now Live, Here Are The Full Patch Notes",
-      "url": "https://www.nintendolife.com/news/2026/11/nintendo-switch-2-system-update-23-5-0-is-now-live-here-are-the-full-patch-notes",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 19.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/nintendo-switch-2-system-update-23-5-0-is-now-live-here-are-the-full-patch-notes",
-          "titre": "Nintendo Switch 2 System Update 23.5.0 Is Now Live, Here Are The Full Patch Notes"
         }
       ]
     },
@@ -977,7 +863,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 22.0,
+      "heures": 27.1,
       "chaleur": 6,
       "liens": [
         {
@@ -995,7 +881,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 24.6,
+      "heures": 29.7,
       "chaleur": 6,
       "liens": [
         {
@@ -1006,20 +892,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "thanks-to-gta-6-millions-of-people-are-about-to-discover-wha",
-      "titre": "Thanks to GTA 6, millions of people are about to discover what a manatee is | Opinion",
-      "url": "https://www.gamesindustry.biz/thanks-to-gta-6-millions-of-people-are-about-to-discover-what-a-manatee-is-opinion",
+      "id": "steam-s-new-steam-deck-framerate-graphs-are-good-news-for-ha",
+      "titre": "Steam's new Steam Deck framerate graphs are good news for handheld players, though I wouldn't fully trust the numbers yet",
+      "url": "https://www.rockpapershotgun.com/steams-new-steam-deck-framerate-graphs-are-good-news-for-handheld-players-though-i-wouldnt-fully-trust-the-numbers-yet",
       "sources": [
-        "GamesIndustry.biz"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 32.3,
-      "chaleur": 6,
+      "heures": 13.4,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/thanks-to-gta-6-millions-of-people-are-about-to-discover-what-a-manatee-is-opinion",
-          "titre": "Thanks to GTA 6, millions of people are about to discover what a manatee is | Opinion"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/steams-new-steam-deck-framerate-graphs-are-good-news-for-handheld-players-though-i-wouldnt-fully-trust-the-numbers-yet",
+          "titre": "Steam's new Steam Deck framerate graphs are good news for handheld players, though I wouldn't fully trust the numbers yet"
+        }
+      ]
+    },
+    {
+      "id": "why-is-it-not-fun-doug-bowser-gives-a-peek-into-nintendo-s",
+      "titre": "\"Why Is It Not Fun?\" - Doug Bowser Gives A Peek Into Nintendo's Strategy Sessions",
+      "url": "https://www.nintendolife.com/news/2026/11/why-is-it-not-fun-doug-bowser-gives-a-peek-into-nintendos-strategy-sessions",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 15.4,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/why-is-it-not-fun-doug-bowser-gives-a-peek-into-nintendos-strategy-sessions",
+          "titre": "\"Why Is It Not Fun?\" - Doug Bowser Gives A Peek Into Nintendo's Strategy Sessions"
         }
       ]
     },
@@ -1031,31 +935,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.0,
+      "heures": 21.1,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/11/rayman-legends-retold-reveals-rabbids-outfit-exclusive-to-switch-2",
           "titre": "Rayman Legends Retold Reveals Rabbids Outfit Exclusive To Switch 2"
-        }
-      ]
-    },
-    {
-      "id": "mouse-work-the-switch-2-game-using-joy-con-mouse-controls-is",
-      "titre": "Mouse Work, The Switch 2 Game Using Joy-Con Mouse Controls, Is Finally Releasing",
-      "url": "https://www.nintendolife.com/news/2026/11/mouse-work-the-switch-2-game-using-joy-con-mouse-controls-is-finally-releasing",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 17.7,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/mouse-work-the-switch-2-game-using-joy-con-mouse-controls-is-finally-releasing",
-          "titre": "Mouse Work, The Switch 2 Game Using Joy-Con Mouse Controls, Is Finally Releasing"
         }
       ]
     },
@@ -1067,7 +953,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.8,
+      "heures": 23.9,
       "chaleur": 5,
       "liens": [
         {
@@ -1085,7 +971,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 27.1,
+      "heures": 32.2,
       "chaleur": 5,
       "liens": [
         {
@@ -1096,99 +982,203 @@ const VEILLE = {
       ]
     },
     {
-      "id": "alienware-aw3226q-oled-gaming-monitor-review",
-      "titre": "Alienware AW3226Q OLED gaming monitor review",
-      "url": "https://www.pcgamer.com/hardware/gaming-monitors/alienware-aw3226q-review/",
+      "id": "report-star-wars-zero-company-developer-bit-reactor-lays-off",
+      "titre": "Report: Star Wars Zero Company developer Bit Reactor lays off an unspecified number of staff",
+      "url": "https://www.gamedeveloper.com/business/report-star-wars-zero-company-developer-bitreactor-lays-off-an-unspecified-number-of-staff",
       "sources": [
-        "PC Gamer"
+        "Game Developer"
       ],
       "reprises": 1,
-      "heures": 4.3,
-      "chaleur": 4,
+      "heures": 32.4,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-monitors/alienware-aw3226q-review/",
-          "titre": "Alienware AW3226Q OLED gaming monitor review"
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/report-star-wars-zero-company-developer-bitreactor-lays-off-an-unspecified-number-of-staff",
+          "titre": "Report: Star Wars Zero Company developer Bit Reactor lays off an unspecified number of staff"
         }
       ]
     },
     {
-      "id": "i-fought-queens-and-knights-but-somehow-my-hardest-opponents",
-      "titre": "I fought Queens and Knights, but somehow my hardest opponents in Stack Order, the next great deckbuilder, were 2 birds",
-      "url": "https://www.pcgamer.com/games/roguelike/i-fought-queens-and-knights-but-somehow-my-hardest-opponents-in-stack-order-the-next-great-deckbuilder-were-2-birds/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 4.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/roguelike/i-fought-queens-and-knights-but-somehow-my-hardest-opponents-in-stack-order-the-next-great-deckbuilder-were-2-birds/",
-          "titre": "I fought Queens and Knights, but somehow my hardest opponents in Stack Order, the next great deckbuilder, were 2 birds"
-        }
-      ]
-    },
-    {
-      "id": "new-tmnt-splintered-fate-update-adds-even-more-reasons-to-pl",
-      "titre": "New TMNT: Splintered Fate Update Adds Even More Reasons To Play In Co-Op",
-      "url": "https://www.nintendolife.com/news/2026/11/new-tmnt-splintered-fate-update-adds-even-more-reasons-to-play-in-co-op",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 4.8,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/new-tmnt-splintered-fate-update-adds-even-more-reasons-to-play-in-co-op",
-          "titre": "New TMNT: Splintered Fate Update Adds Even More Reasons To Play In Co-Op"
-        }
-      ]
-    },
-    {
-      "id": "marathon-s-fate-hangs-in-the-balance-as-bungie-details-its-g",
-      "titre": "Marathon's Fate Hangs in the Balance as Bungie Details Its Game-Saving PvE Update",
-      "url": "https://www.pushsquare.com/news/2026/11/marathons-fate-hangs-in-the-balance-as-bungie-details-its-game-saving-pve-update",
+      "id": "ps-plus-pulls-plug-on-pc-streaming-after-fewer-than-1-used-i",
+      "titre": "PS Plus Pulls Plug on PC Streaming After Fewer Than 1% Used It",
+      "url": "https://www.pushsquare.com/news/2026/11/ps-plus-pulls-plug-on-pc-streaming-after-fewer-than-1percent-used-it",
       "sources": [
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.3,
+      "heures": 6.4,
       "chaleur": 4,
       "liens": [
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/marathons-fate-hangs-in-the-balance-as-bungie-details-its-game-saving-pve-update",
-          "titre": "Marathon's Fate Hangs in the Balance as Bungie Details Its Game-Saving PvE Update"
+          "url": "https://www.pushsquare.com/news/2026/11/ps-plus-pulls-plug-on-pc-streaming-after-fewer-than-1percent-used-it",
+          "titre": "PS Plus Pulls Plug on PC Streaming After Fewer Than 1% Used It"
         }
       ]
     },
     {
-      "id": "rockstar-details-grand-theft-auto-6-ps5-pro-enhancements-but",
-      "titre": "Rockstar details Grand Theft Auto 6 PS5 Pro enhancements, but it'll still only run at 30FPS",
-      "url": "https://www.eurogamer.net/gta-6-30-fps-platforms-absolute-limit",
+      "id": "talking-point-with-big-walk-the-ai-in-game-dev-debate-just-g",
+      "titre": "Talking Point: With Big Walk, The AI-In-Game-Dev Debate Just Got A Lot Murkier",
+      "url": "https://www.nintendolife.com/features/talking-point-with-big-walk-the-ai-in-game-dev-debate-just-got-a-lot-murkier",
       "sources": [
-        "Eurogamer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 6.9,
       "chaleur": 4,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-30-fps-platforms-absolute-limit",
-          "titre": "Rockstar details Grand Theft Auto 6 PS5 Pro enhancements, but it'll still only run at 30FPS"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/talking-point-with-big-walk-the-ai-in-game-dev-debate-just-got-a-lot-murkier",
+          "titre": "Talking Point: With Big Walk, The AI-In-Game-Dev Debate Just Got A Lot Murkier"
+        }
+      ]
+    },
+    {
+      "id": "overwatch-brings-back-6v6-role-queue-following-player-feedba",
+      "titre": "Overwatch brings back 6v6 role-queue following player feedback",
+      "url": "https://www.videogameschronicle.com/news/overwatch-brings-back-6v6-role-queue-following-player-feedback/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 7.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/overwatch-brings-back-6v6-role-queue-following-player-feedback/",
+          "titre": "Overwatch brings back 6v6 role-queue following player feedback"
+        }
+      ]
+    },
+    {
+      "id": "marvel-rivals-confirms-nightcrawler-and-dracula-as-playable",
+      "titre": "Marvel Rivals confirms Nightcrawler and Dracula as playable characters",
+      "url": "https://www.videogameschronicle.com/news/marvel-rivals-confirms-nightcrawler-and-dracula-as-playable-characters/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 7.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/marvel-rivals-confirms-nightcrawler-and-dracula-as-playable-characters/",
+          "titre": "Marvel Rivals confirms Nightcrawler and Dracula as playable characters"
+        }
+      ]
+    },
+    {
+      "id": "ps-store-adds-ps5-hardware-tab-but-it-s-extremely-limited",
+      "titre": "PS Store Adds PS5 Hardware Tab, But It's Extremely Limited",
+      "url": "https://www.pushsquare.com/news/2026/11/ps-store-adds-ps5-hardware-tab-but-its-extremely-limited",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 7.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/ps-store-adds-ps5-hardware-tab-but-its-extremely-limited",
+          "titre": "PS Store Adds PS5 Hardware Tab, But It's Extremely Limited"
+        }
+      ]
+    },
+    {
+      "id": "company-of-heroes-3-developer-admits-it-was-a-lot-to-make-th",
+      "titre": "Company of Heroes 3 developer admits \"it was a lot\" to make the 3.0 overhaul patch alongside regular updates, singleplayer DLC, and a whole spinoff game",
+      "url": "https://www.rockpapershotgun.com/company-of-heroes-3-developer-admits-it-was-a-lot-to-make-the-30-overhaul-patch-alongside-regular-updates-singleplayer-dlc-and-a-whole-spinoff-game",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 8.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/company-of-heroes-3-developer-admits-it-was-a-lot-to-make-the-30-overhaul-patch-alongside-regular-updates-singleplayer-dlc-and-a-whole-spinoff-game",
+          "titre": "Company of Heroes 3 developer admits \"it was a lot\" to make the 3.0 overhaul patch alongside regular updates, singleplayer DLC, and a whole spinoff game"
+        }
+      ]
+    },
+    {
+      "id": "note-to-self-if-playing-call-of-duty-in-an-airport-don-t-say",
+      "titre": "Note to self: If playing Call of Duty in an airport, don't say words like 'bomb' lest you want to evacuate an entire plane",
+      "url": "https://www.pcgamer.com/games/call-of-duty/note-to-self-if-playing-call-of-duty-in-an-airport-dont-say-words-like-bomb-lest-you-want-to-evacuate-an-entire-plane/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 8.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/call-of-duty/note-to-self-if-playing-call-of-duty-in-an-airport-dont-say-words-like-bomb-lest-you-want-to-evacuate-an-entire-plane/",
+          "titre": "Note to self: If playing Call of Duty in an airport, don't say words like 'bomb' lest you want to evacuate an entire plane"
+        }
+      ]
+    },
+    {
+      "id": "ms-has-messily-patched-a-microsoft-paint-security-vulnerabil",
+      "titre": "MS has messily patched a Microsoft Paint security vulnerability, but the update still isn’t showing up for some",
+      "url": "https://www.pcgamer.com/software/windows/ms-has-messily-patched-a-microsoft-paint-security-vulnerability-but-the-update-still-isnt-showing-up-for-some/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 8.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/windows/ms-has-messily-patched-a-microsoft-paint-security-vulnerability-but-the-update-still-isnt-showing-up-for-some/",
+          "titre": "MS has messily patched a Microsoft Paint security vulnerability, but the update still isn’t showing up for some"
+        }
+      ]
+    },
+    {
+      "id": "acer-predator-atlas-8-g3-extreme-review",
+      "titre": "Acer Predator Atlas 8 (G3 Extreme) review",
+      "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/acer-predator-atlas-8-g3-extreme-review/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 8.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/acer-predator-atlas-8-g3-extreme-review/",
+          "titre": "Acer Predator Atlas 8 (G3 Extreme) review"
+        }
+      ]
+    },
+    {
+      "id": "amdlss5-gets-nvidia-s-neural-rendering-running-on-amd-graph",
+      "titre": "‘AMDLSS5’ gets Nvidia’s neural rendering running on AMD graphics cards and claims 64% better performance than other mods",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/amdlss5-gets-nvidias-neural-rendering-running-on-amd-graphics-cards-and-claims-64-percent-better-performance-than-other-mods/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 9.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/amdlss5-gets-nvidias-neural-rendering-running-on-amd-graphics-cards-and-claims-64-percent-better-performance-than-other-mods/",
+          "titre": "‘AMDLSS5’ gets Nvidia’s neural rendering running on AMD graphics cards and claims 64% better performance than other mods"
         }
       ]
     }
   ],
-  "alertes": [
-    "GTA 6 on PS5 Is PS Store's Most Pre-Ordered Digital Game in History",
-    "2 years after Unknown 9: Awakening bombed, Bandai Namco is closing the studio that made it",
-    "Take-Two CEO: Grand Theft Auto VI pre-orders are exceeding expectations"
-  ]
+  "alertes": []
 };
