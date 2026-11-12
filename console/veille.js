@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "12/11/2026 à 00h31",
+  "collecte": "12/11/2026 à 09h42",
   "seuil": 14,
   "sujets": [
     {
@@ -14,8 +14,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 6.0,
-      "chaleur": 15,
+      "heures": 15.2,
+      "chaleur": 14,
       "liens": [
         {
           "source": "Game Developer",
@@ -48,8 +48,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 6.4,
-      "chaleur": 14,
+      "heures": 15.6,
+      "chaleur": 13,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -64,6 +64,30 @@ const VEILLE = {
       ]
     },
     {
+      "id": "playstation-cancels-live-service-shooter-fairgames",
+      "titre": "PlayStation cancels live-service shooter Fairgames",
+      "url": "https://www.gamesindustry.biz/playstation-cancels-live-service-shooter-fairgames",
+      "sources": [
+        "Eurogamer",
+        "GamesIndustry.biz"
+      ],
+      "reprises": 2,
+      "heures": 23.0,
+      "chaleur": 13,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/playstation-cancels-live-service-shooter-fairgames",
+          "titre": "PlayStation cancels live-service shooter Fairgames"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/fairgames-playstation-heist-shooter-live-service-cancelled-haven",
+          "titre": "PlayStation's embattled shooter Fairgames has finally been cancelled, a new report says, as live service push withers away"
+        }
+      ]
+    },
+    {
       "id": "the-legend-of-zelda-ocarina-of-time-exceeds-5-million-copies",
       "titre": "The Legend of Zelda: Ocarina of Time exceeds 5 million copies sold in first week",
       "url": "https://www.gamedeveloper.com/business/the-legend-of-zelda-ocarina-of-time-exceeds-5-million-copies-solid-in-first-week",
@@ -73,8 +97,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 3,
-      "heures": 7.0,
-      "chaleur": 13,
+      "heures": 16.2,
+      "chaleur": 12,
       "liens": [
         {
           "source": "Game Developer",
@@ -94,50 +118,32 @@ const VEILLE = {
       ]
     },
     {
-      "id": "playstation-cancels-live-service-shooter-fairgames",
-      "titre": "PlayStation cancels live-service shooter Fairgames",
-      "url": "https://www.gamesindustry.biz/playstation-cancels-live-service-shooter-fairgames",
+      "id": "witcher-3-s-new-expansion-pairs-geralt-s-polish-voice-actor",
+      "titre": "Witcher 3's New Expansion Pairs Geralt's Polish Voice Actor With AI, But It's A \"Special Case\"",
+      "url": "https://www.nintendolife.com/news/2026/11/witcher-3s-new-expansion-pairs-geralts-polish-voice-actor-with-ai-but-its-a-special-case",
       "sources": [
-        "Eurogamer",
-        "GamesIndustry.biz"
-      ],
-      "reprises": 2,
-      "heures": 13.9,
-      "chaleur": 13,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/playstation-cancels-live-service-shooter-fairgames",
-          "titre": "PlayStation cancels live-service shooter Fairgames"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/fairgames-playstation-heist-shooter-live-service-cancelled-haven",
-          "titre": "PlayStation's embattled shooter Fairgames has finally been cancelled, a new report says, as live service push withers away"
-        }
-      ]
-    },
-    {
-      "id": "nvidia-ceo-jensen-huang-allegedly-had-a-second-affair-with-a",
-      "titre": "Nvidia CEO Jensen Huang allegedly had a second affair with another Nvidia exec",
-      "url": "https://www.pcgamer.com/software/ai/nvidia-ceo-jensen-huang-allegedly-had-a-second-affair-with-another-nvidia-exec/",
-      "sources": [
+        "Nintendo Life",
         "PC Gamer",
-        "Rock Paper Shotgun"
+        "VGC"
       ],
-      "reprises": 2,
-      "heures": 1.1,
-      "chaleur": 11,
+      "reprises": 3,
+      "heures": 6.8,
+      "chaleur": 10,
       "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/witcher-3s-new-expansion-pairs-geralts-polish-voice-actor-with-ai-but-its-a-special-case",
+          "titre": "Witcher 3's New Expansion Pairs Geralt's Polish Voice Actor With AI, But It's A \"Special Case\""
+        },
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/nvidia-ceo-jensen-huang-allegedly-had-a-second-affair-with-another-nvidia-exec/",
-          "titre": "Nvidia CEO Jensen Huang allegedly had a second affair with another Nvidia exec"
+          "url": "https://www.pcgamer.com/games/the-witcher/cd-projekt-used-ai-to-modify-the-voice-of-geralts-polish-actor-after-a-stroke-left-it-significantly-changed-this-was-a-special-case/",
+          "titre": "CD Projekt used AI to modify the voice of Geralt's Polish actor after a stroke left it significantly changed: 'This was a special case'"
         },
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/nvidia-shareholders-have-filed-a-lawsuit-against-the-tech-company-over-claims-that-they-were-misled-regarding-ceo-jensen-huangs-affair",
-          "titre": "Nvidia shareholders have filed a lawsuit against the tech company over claims that they were misled regarding CEO Jensen Huang's affair"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-witcher-3-expansion-uses-ai-to-adjust-geralts-polish-voiceover-because-the-actor-suffered-a-stroke/",
+          "titre": "The Witcher 3 expansion uses AI to adjust Geralt’s Polish voiceover because the actor suffered a stroke"
         }
       ]
     },
@@ -151,8 +157,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 3,
-      "heures": 7.1,
-      "chaleur": 10,
+      "heures": 16.3,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Eurogamer",
@@ -172,120 +178,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "feature-what-sony-live-service-ps5-games-are-still-alive",
-      "titre": "Feature: What Sony Live Service PS5 Games Are Still Alive?",
-      "url": "https://www.pushsquare.com/features/what-sony-live-service-ps5-games-are-still-alive",
-      "sources": [
-        "Push Square",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 7.5,
-      "chaleur": 10,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/what-sony-live-service-ps5-games-are-still-alive",
-          "titre": "Feature: What Sony Live Service PS5 Games Are Still Alive?"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/sony-have-cancelled-fairgame-once-again-reminding-us-that-chasing-live-service-big-bucks-basically-never-works",
-          "titre": "Sony have cancelled Fairgame$, once again reminding us that chasing live service big bucks basically never works"
-        }
-      ]
-    },
-    {
-      "id": "cd-projekt-used-ai-to-modify-the-voice-of-geralt-s-polish-ac",
-      "titre": "CD Projekt used AI to modify the voice of Geralt's Polish actor after a stroke left it significantly changed: 'This was a special case'",
-      "url": "https://www.pcgamer.com/games/the-witcher/cd-projekt-used-ai-to-modify-the-voice-of-geralts-polish-actor-after-a-stroke-left-it-significantly-changed-this-was-a-special-case/",
-      "sources": [
-        "PC Gamer",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 0.5,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-witcher/cd-projekt-used-ai-to-modify-the-voice-of-geralts-polish-actor-after-a-stroke-left-it-significantly-changed-this-was-a-special-case/",
-          "titre": "CD Projekt used AI to modify the voice of Geralt's Polish actor after a stroke left it significantly changed: 'This was a special case'"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/the-witcher-3-expansion-uses-ai-to-adjust-geralts-polish-voiceover-because-the-actor-suffered-a-stroke/",
-          "titre": "The Witcher 3 expansion uses AI to adjust Geralt’s Polish voiceover because the actor suffered a stroke"
-        }
-      ]
-    },
-    {
-      "id": "there-is-no-truth-to-these-claims-marvel-1943-not-cancelled",
-      "titre": "'There Is No Truth to These Claims': Marvel 1943 Not Cancelled, But Doesn't Sound Great",
-      "url": "https://www.pushsquare.com/news/2026/11/there-is-no-truth-to-these-claims-marvel-1943-not-cancelled-but-doesnt-sound-great",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 0.5,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/there-is-no-truth-to-these-claims-marvel-1943-not-cancelled-but-doesnt-sound-great",
-          "titre": "'There Is No Truth to These Claims': Marvel 1943 Not Cancelled, But Doesn't Sound Great"
-        }
-      ]
-    },
-    {
-      "id": "giana-sisters-developer-black-forest-games-buys-itself-out-o",
-      "titre": "Giana Sisters developer Black Forest Games buys itself out of Embracer: 'Some of the best games of the last decade came from teams of fifty, not five hundred'",
-      "url": "https://www.pcgamer.com/gaming-industry/giana-sisters-developer-black-forest-games-buys-itself-out-of-embracer-some-of-the-best-games-of-the-last-decade-came-from-teams-of-fifty-not-five-hundred/",
-      "sources": [
-        "PC Gamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 1.6,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/giana-sisters-developer-black-forest-games-buys-itself-out-of-embracer-some-of-the-best-games-of-the-last-decade-came-from-teams-of-fifty-not-five-hundred/",
-          "titre": "Giana Sisters developer Black Forest Games buys itself out of Embracer: 'Some of the best games of the last decade came from teams of fifty, not five hundred'"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/some-of-the-best-games-of-the-last-decade-came-from-teams-of-fifty-destroy-all-humans-remake-devs-black-forest-games-split-from-thq-nordic-to-launch-new-indie-studio-group",
-          "titre": "\"Some of the best games of the last decade came from teams of fifty\": Destroy All Humans! remake devs Black Forest Games split from THQ Nordic to launch new indie studio group"
-        }
-      ]
-    },
-    {
-      "id": "crimson-desert-wins-pc-game-of-the-year-at-the-2026-golden-j",
-      "titre": "Crimson Desert wins 'PC Game of the Year' at the 2026 Golden Joystick Awards",
-      "url": "https://www.pcgamer.com/games/crimson-desert-wins-pc-game-of-the-year-at-the-2026-golden-joystick-awards/",
-      "sources": [
-        "PC Gamer",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 3.0,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/crimson-desert-wins-pc-game-of-the-year-at-the-2026-golden-joystick-awards/",
-          "titre": "Crimson Desert wins 'PC Game of the Year' at the 2026 Golden Joystick Awards"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/resident-evil-requiem-wins-the-first-2026-game-of-the-year-award",
-          "titre": "Resident Evil Requiem Wins the First 2026 Game of the Year Award"
-        }
-      ]
-    },
-    {
       "id": "playstation-5-crosses-100-million-consoles-sold",
       "titre": "PlayStation 5 crosses 100 million consoles sold",
       "url": "https://www.gamedeveloper.com/console/playstation-5-ships-100-million-consoles",
@@ -294,8 +186,8 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 2,
-      "heures": 5.3,
-      "chaleur": 9,
+      "heures": 14.5,
+      "chaleur": 8,
       "liens": [
         {
           "source": "Game Developer",
@@ -318,8 +210,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 8.5,
-      "chaleur": 9,
+      "heures": 17.7,
+      "chaleur": 8,
       "liens": [
         {
           "source": "VGC",
@@ -334,26 +226,134 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-6-becomes-most-pre-ordered-game-on-playstation-and-xbox",
-      "titre": "GTA 6 becomes most pre-ordered game on PlayStation and Xbox storefronts",
-      "url": "https://www.gamesindustry.biz/gta-6-becomes-most-pre-ordered-game-on-playstation-and-xbox-storefronts",
+      "id": "there-is-no-truth-to-these-claims-marvel-1943-not-cancelled",
+      "titre": "'There Is No Truth to These Claims': Marvel 1943 Not Cancelled, But Doesn't Sound Great",
+      "url": "https://www.pushsquare.com/news/2026/11/there-is-no-truth-to-these-claims-marvel-1943-not-cancelled-but-doesnt-sound-great",
       "sources": [
-        "Eurogamer",
-        "GamesIndustry.biz"
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 9.7,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/there-is-no-truth-to-these-claims-marvel-1943-not-cancelled-but-doesnt-sound-great",
+          "titre": "'There Is No Truth to These Claims': Marvel 1943 Not Cancelled, But Doesn't Sound Great"
+        }
+      ]
+    },
+    {
+      "id": "giana-sisters-developer-black-forest-games-buys-itself-out-o",
+      "titre": "Giana Sisters developer Black Forest Games buys itself out of Embracer: 'Some of the best games of the last decade came from teams of fifty, not five hundred'",
+      "url": "https://www.pcgamer.com/gaming-industry/giana-sisters-developer-black-forest-games-buys-itself-out-of-embracer-some-of-the-best-games-of-the-last-decade-came-from-teams-of-fifty-not-five-hundred/",
+      "sources": [
+        "PC Gamer",
+        "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 12.3,
-      "chaleur": 9,
+      "heures": 10.7,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/giana-sisters-developer-black-forest-games-buys-itself-out-of-embracer-some-of-the-best-games-of-the-last-decade-came-from-teams-of-fifty-not-five-hundred/",
+          "titre": "Giana Sisters developer Black Forest Games buys itself out of Embracer: 'Some of the best games of the last decade came from teams of fifty, not five hundred'"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/some-of-the-best-games-of-the-last-decade-came-from-teams-of-fifty-destroy-all-humans-remake-devs-black-forest-games-split-from-thq-nordic-to-launch-new-indie-studio-group",
+          "titre": "\"Some of the best games of the last decade came from teams of fifty\": Destroy All Humans! remake devs Black Forest Games split from THQ Nordic to launch new indie studio group"
+        }
+      ]
+    },
+    {
+      "id": "fredrik-wester-steps-down-as-paradox-interactive-ceo",
+      "titre": "Fredrik Wester steps down as Paradox Interactive CEO",
+      "url": "https://www.gamesindustry.biz/fredrik-wester-steps-down-as-paradox-interactive-ceo",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/gta-6-becomes-most-pre-ordered-game-on-playstation-and-xbox-storefronts",
-          "titre": "GTA 6 becomes most pre-ordered game on PlayStation and Xbox storefronts"
-        },
+          "url": "https://www.gamesindustry.biz/fredrik-wester-steps-down-as-paradox-interactive-ceo",
+          "titre": "Fredrik Wester steps down as Paradox Interactive CEO"
+        }
+      ]
+    },
+    {
+      "id": "reminder-the-final-kirby-air-riders-amiibo-are-now-available",
+      "titre": "Reminder: The Final Kirby Air Riders amiibo Are Now Available",
+      "url": "https://www.nintendolife.com/news/2026/11/reminder-the-final-kirby-air-riders-amiibo-are-now-available",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 3.0,
+      "chaleur": 6,
+      "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-most-preordered-game-playstation-store-history",
-          "titre": "Grand Theft Auto 6 becomes the most pre-ordered game in PlayStation Store history"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/reminder-the-final-kirby-air-riders-amiibo-are-now-available",
+          "titre": "Reminder: The Final Kirby Air Riders amiibo Are Now Available"
+        }
+      ]
+    },
+    {
+      "id": "random-yes-young-link-is-still-quicker-when-he-rolls-about-i",
+      "titre": "Random: Yes, Young Link Is Still Quicker When He Rolls About In Ocarina's Remake",
+      "url": "https://www.nintendolife.com/news/2026/11/random-yes-young-link-is-still-quicker-when-he-rolls-about-in-ocarinas-remake",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 4.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/random-yes-young-link-is-still-quicker-when-he-rolls-about-in-ocarinas-remake",
+          "titre": "Random: Yes, Young Link Is Still Quicker When He Rolls About In Ocarina's Remake"
+        }
+      ]
+    },
+    {
+      "id": "skyrim-celebrates-15-years-of-adventure-with-switch-eshop-sa",
+      "titre": "Skyrim Celebrates 15 Years Of Adventure With Switch eShop Sale, Get 60% Off",
+      "url": "https://www.nintendolife.com/news/2026/11/skyrim-celebrates-15-years-of-adventure-with-switch-eshop-sale-get-60percent-off",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 6.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/skyrim-celebrates-15-years-of-adventure-with-switch-eshop-sale-get-60percent-off",
+          "titre": "Skyrim Celebrates 15 Years Of Adventure With Switch eShop Sale, Get 60% Off"
+        }
+      ]
+    },
+    {
+      "id": "lara-s-new-tomb-raider-game-is-apparently-on-its-way-to-swit",
+      "titre": "Lara's New Tomb Raider Game Is Apparently On Its Way To Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/11/laras-new-tomb-raider-game-is-apparently-on-its-way-to-switch-2",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 9.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/laras-new-tomb-raider-game-is-apparently-on-its-way-to-switch-2",
+          "titre": "Lara's New Tomb Raider Game Is Apparently On Its Way To Switch 2"
         }
       ]
     },
@@ -365,13 +365,37 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.0,
-      "chaleur": 8,
+      "heures": 10.2,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/third-person-shooter/after-cracking-down-on-cheat-mods-in-helldivers-2-and-taking-another-steam-review-beating-arrowhead-plans-hotfix-that-should-allow-harmless-cosmetics/",
           "titre": "After cracking down on 'cheat' mods in Helldivers 2 and taking another Steam review beating, Arrowhead plans hotfix that should allow harmless cosmetics"
+        }
+      ]
+    },
+    {
+      "id": "crimson-desert-wins-pc-game-of-the-year-at-the-2026-golden-j",
+      "titre": "Crimson Desert wins 'PC Game of the Year' at the 2026 Golden Joystick Awards",
+      "url": "https://www.pcgamer.com/games/crimson-desert-wins-pc-game-of-the-year-at-the-2026-golden-joystick-awards/",
+      "sources": [
+        "PC Gamer",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 12.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/crimson-desert-wins-pc-game-of-the-year-at-the-2026-golden-joystick-awards/",
+          "titre": "Crimson Desert wins 'PC Game of the Year' at the 2026 Golden Joystick Awards"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/resident-evil-requiem-wins-the-first-2026-game-of-the-year-award",
+          "titre": "Resident Evil Requiem Wins the First 2026 Game of the Year Award"
         }
       ]
     },
@@ -384,8 +408,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 4.3,
-      "chaleur": 7,
+      "heures": 13.5,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
@@ -407,8 +431,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.4,
-      "chaleur": 7,
+      "heures": 13.5,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
@@ -425,8 +449,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.2,
-      "chaleur": 7,
+      "heures": 15.4,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
@@ -443,8 +467,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.5,
-      "chaleur": 7,
+      "heures": 15.7,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
@@ -461,8 +485,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.8,
-      "chaleur": 7,
+      "heures": 16.0,
+      "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
@@ -479,8 +503,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.8,
-      "chaleur": 7,
+      "heures": 17.0,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
@@ -497,8 +521,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 7,
+      "heures": 20.0,
+      "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
@@ -508,74 +532,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "this-solo-dev-is-building-the-most-violent-cozy-farming-game",
-      "titre": "This solo dev is building 'the most violent cozy farming game ever made' and lumberjacking has never looked cooler",
-      "url": "https://www.pcgamer.com/games/rpg/this-solo-dev-is-building-the-most-violent-cozy-farming-game-ever-made-and-lumberjacking-has-never-looked-cooler/",
+      "id": "gta-6-becomes-most-pre-ordered-game-on-playstation-and-xbox",
+      "titre": "GTA 6 becomes most pre-ordered game on PlayStation and Xbox storefronts",
+      "url": "https://www.gamesindustry.biz/gta-6-becomes-most-pre-ordered-game-on-playstation-and-xbox-storefronts",
       "sources": [
-        "PC Gamer"
+        "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 1.9,
+      "heures": 21.5,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/this-solo-dev-is-building-the-most-violent-cozy-farming-game-ever-made-and-lumberjacking-has-never-looked-cooler/",
-          "titre": "This solo dev is building 'the most violent cozy farming game ever made' and lumberjacking has never looked cooler"
-        }
-      ]
-    },
-    {
-      "id": "you-ll-own-nothing-sony-wins-hall-of-shame-award-for-decidi",
-      "titre": "'You'll Own Nothing': Sony Wins Hall of Shame Award for Deciding to Kill Physical Discs",
-      "url": "https://www.pushsquare.com/news/2026/11/youll-own-nothing-sony-wins-hall-of-shame-award-for-deciding-to-kill-physical-discs",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/youll-own-nothing-sony-wins-hall-of-shame-award-for-deciding-to-kill-physical-discs",
-          "titre": "'You'll Own Nothing': Sony Wins Hall of Shame Award for Deciding to Kill Physical Discs"
-        }
-      ]
-    },
-    {
-      "id": "destroy-all-humans-remake-developer-goes-independent-splits",
-      "titre": "Destroy All Humans remake developer goes independent, splits from THQ Nordic and parent company Embracer Group",
-      "url": "https://www.eurogamer.net/destroy-all-humans-independent-thq-embracer",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/destroy-all-humans-independent-thq-embracer",
-          "titre": "Destroy All Humans remake developer goes independent, splits from THQ Nordic and parent company Embracer Group"
-        }
-      ]
-    },
-    {
-      "id": "zelda-oot-remake-all-arrows-and-how-to-unlock-them",
-      "titre": "Zelda OOT Remake: All arrows and how to unlock them",
-      "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-all-arrows-fire-ice-light/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 11.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-all-arrows-fire-ice-light/",
-          "titre": "Zelda OOT Remake: All arrows and how to unlock them"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/gta-6-becomes-most-pre-ordered-game-on-playstation-and-xbox-storefronts",
+          "titre": "GTA 6 becomes most pre-ordered game on PlayStation and Xbox storefronts"
         }
       ]
     },
@@ -587,7 +557,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.8,
+      "heures": 27.0,
       "chaleur": 6,
       "liens": [
         {
@@ -605,7 +575,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 23.5,
+      "heures": 32.7,
       "chaleur": 6,
       "liens": [
         {
@@ -616,20 +586,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "ahead-of-gta-6-and-as-concerns-over-genai-pc-ports-grow-take",
-      "titre": "Ahead of GTA 6 and as concerns over genAI PC ports grow, Take-Two's CEO says they're revving up their \"technical defences\" and \"legal activites\" over piracy",
-      "url": "https://www.rockpapershotgun.com/ahead-of-gta-6-and-as-concerns-over-genai-pc-ports-grow-take-twos-ceo-says-theyre-revving-up-their-technical-defences-and-legal-activites-over-piracy",
+      "id": "zelda-oot-remake-all-arrows-and-how-to-unlock-them",
+      "titre": "Zelda OOT Remake: All arrows and how to unlock them",
+      "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-all-arrows-fire-ice-light/",
       "sources": [
-        "Rock Paper Shotgun"
+        "VGC"
       ],
       "reprises": 1,
-      "heures": 28.5,
-      "chaleur": 6,
+      "heures": 20.9,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/ahead-of-gta-6-and-as-concerns-over-genai-pc-ports-grow-take-twos-ceo-says-theyre-revving-up-their-technical-defences-and-legal-activites-over-piracy",
-          "titre": "Ahead of GTA 6 and as concerns over genAI PC ports grow, Take-Two's CEO says they're revving up their \"technical defences\" and \"legal activites\" over piracy"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-all-arrows-fire-ice-light/",
+          "titre": "Zelda OOT Remake: All arrows and how to unlock them"
         }
       ]
     },
@@ -641,7 +611,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.2,
+      "heures": 22.4,
       "chaleur": 5,
       "liens": [
         {
@@ -659,7 +629,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.8,
+      "heures": 29.0,
       "chaleur": 5,
       "liens": [
         {
@@ -677,7 +647,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.0,
+      "heures": 32.2,
       "chaleur": 5,
       "liens": [
         {
@@ -688,38 +658,74 @@ const VEILLE = {
       ]
     },
     {
-      "id": "mouse-work-the-switch-2-game-using-joy-con-mouse-controls-ar",
-      "titre": "Mouse Work, The Switch 2 Game Using Joy-Con Mouse Controls, Arrives This December",
-      "url": "https://www.nintendolife.com/news/2026/11/mouse-work-the-switch-2-game-using-joy-con-mouse-controls-arrives-this-december",
+      "id": "nvidia-ceo-jensen-huang-allegedly-had-a-second-affair-with-a",
+      "titre": "Nvidia CEO Jensen Huang allegedly had a second affair with another Nvidia exec",
+      "url": "https://www.pcgamer.com/software/ai/nvidia-ceo-jensen-huang-allegedly-had-a-second-affair-with-another-nvidia-exec/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 24.9,
-      "chaleur": 5,
+      "heures": 10.3,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/mouse-work-the-switch-2-game-using-joy-con-mouse-controls-arrives-this-december",
-          "titre": "Mouse Work, The Switch 2 Game Using Joy-Con Mouse Controls, Arrives This December"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/nvidia-ceo-jensen-huang-allegedly-had-a-second-affair-with-another-nvidia-exec/",
+          "titre": "Nvidia CEO Jensen Huang allegedly had a second affair with another Nvidia exec"
         }
       ]
     },
     {
-      "id": "gallery-hollow-knight-silksong-s-switch-2-physicals-are-a-de",
-      "titre": "Gallery: Hollow Knight & Silksong's Switch 2 Physicals Are A Delight For Map Fans",
-      "url": "https://www.nintendolife.com/news/2026/11/gallery-hollow-knight-and-silksongs-switch-2-physicals-are-a-delight-for-map-fans",
+      "id": "this-solo-dev-is-building-the-most-violent-cozy-farming-game",
+      "titre": "This solo dev is building 'the most violent cozy farming game ever made' and lumberjacking has never looked cooler",
+      "url": "https://www.pcgamer.com/games/rpg/this-solo-dev-is-building-the-most-violent-cozy-farming-game-ever-made-and-lumberjacking-has-never-looked-cooler/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 30.5,
-      "chaleur": 5,
+      "heures": 11.1,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/gallery-hollow-knight-and-silksongs-switch-2-physicals-are-a-delight-for-map-fans",
-          "titre": "Gallery: Hollow Knight & Silksong's Switch 2 Physicals Are A Delight For Map Fans"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/this-solo-dev-is-building-the-most-violent-cozy-farming-game-ever-made-and-lumberjacking-has-never-looked-cooler/",
+          "titre": "This solo dev is building 'the most violent cozy farming game ever made' and lumberjacking has never looked cooler"
+        }
+      ]
+    },
+    {
+      "id": "you-ll-own-nothing-sony-wins-hall-of-shame-award-for-decidi",
+      "titre": "'You'll Own Nothing': Sony Wins Hall of Shame Award for Deciding to Kill Physical Discs",
+      "url": "https://www.pushsquare.com/news/2026/11/youll-own-nothing-sony-wins-hall-of-shame-award-for-deciding-to-kill-physical-discs",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 11.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/youll-own-nothing-sony-wins-hall-of-shame-award-for-deciding-to-kill-physical-discs",
+          "titre": "'You'll Own Nothing': Sony Wins Hall of Shame Award for Deciding to Kill Physical Discs"
+        }
+      ]
+    },
+    {
+      "id": "destroy-all-humans-remake-developer-goes-independent-splits",
+      "titre": "Destroy All Humans remake developer goes independent, splits from THQ Nordic and parent company Embracer Group",
+      "url": "https://www.eurogamer.net/destroy-all-humans-independent-thq-embracer",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 13.1,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/destroy-all-humans-independent-thq-embracer",
+          "titre": "Destroy All Humans remake developer goes independent, splits from THQ Nordic and parent company Embracer Group"
         }
       ]
     },
@@ -731,8 +737,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.5,
-      "chaleur": 4,
+      "heures": 13.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -749,8 +755,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 5.0,
-      "chaleur": 4,
+      "heures": 14.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -767,8 +773,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.4,
-      "chaleur": 4,
+      "heures": 14.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -785,8 +791,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.0,
-      "chaleur": 4,
+      "heures": 15.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -803,8 +809,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.0,
-      "chaleur": 4,
+      "heures": 16.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -821,8 +827,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.1,
-      "chaleur": 4,
+      "heures": 16.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -839,8 +845,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.3,
-      "chaleur": 4,
+      "heures": 16.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -857,8 +863,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.4,
-      "chaleur": 4,
+      "heures": 16.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -875,13 +881,31 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.5,
-      "chaleur": 4,
+      "heures": 16.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/minerva-rising-is-a-frostpunk-meets-silo-underground-city-builder-in-which-rebel-citizens-can-hack-your-camera",
           "titre": "Minerva Rising is a Frostpunk-meets-Silo underground city builder in which rebel citizens can hack your camera"
+        }
+      ]
+    },
+    {
+      "id": "feature-what-sony-live-service-ps5-games-are-still-alive",
+      "titre": "Feature: What Sony Live Service PS5 Games Are Still Alive?",
+      "url": "https://www.pushsquare.com/features/what-sony-live-service-ps5-games-are-still-alive",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 16.7,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/what-sony-live-service-ps5-games-are-still-alive",
+          "titre": "Feature: What Sony Live Service PS5 Games Are Still Alive?"
         }
       ]
     },
@@ -893,8 +917,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.7,
-      "chaleur": 4,
+      "heures": 16.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -911,8 +935,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.5,
-      "chaleur": 4,
+      "heures": 17.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -929,8 +953,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.5,
-      "chaleur": 4,
+      "heures": 17.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -947,8 +971,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.8,
-      "chaleur": 4,
+      "heures": 18.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -965,8 +989,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.0,
-      "chaleur": 4,
+      "heures": 18.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -983,8 +1007,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 9.4,
-      "chaleur": 4,
+      "heures": 18.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -1001,8 +1025,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 9.7,
-      "chaleur": 4,
+      "heures": 18.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -1019,8 +1043,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 9.7,
-      "chaleur": 4,
+      "heures": 18.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -1037,8 +1061,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.8,
-      "chaleur": 4,
+      "heures": 19.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -1055,8 +1079,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 4,
+      "heures": 19.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1073,8 +1097,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 11.0,
-      "chaleur": 4,
+      "heures": 20.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1091,8 +1115,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.0,
-      "chaleur": 4,
+      "heures": 20.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1109,8 +1133,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 4,
+      "heures": 20.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -1127,8 +1151,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 4,
+      "heures": 20.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1145,7 +1169,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.0,
+      "heures": 21.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1154,46 +1178,7 @@ const VEILLE = {
           "titre": "The Outer Worlds 2's first story expansion could well be the opening to the series' last hurrah and will have you hunting for a cure to \"explosive cell death\" in December"
         }
       ]
-    },
-    {
-      "id": "world-of-warcraft-forever-secret-hunters-have-found-the-mmo",
-      "titre": "World of Warcraft: Forever secret hunters have found the MMO's first hidden treasure",
-      "url": "https://www.eurogamer.net/world-of-warcraft-forever-secret-dawn-walker-sword",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 12.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/world-of-warcraft-forever-secret-dawn-walker-sword",
-          "titre": "World of Warcraft: Forever secret hunters have found the MMO's first hidden treasure"
-        }
-      ]
-    },
-    {
-      "id": "what-happens-when-two-games-have-the-same-title-indie-publis",
-      "titre": "What Happens When Two Games Have The Same Title? Indie Publisher Reveals Heartwarming Answer",
-      "url": "https://www.nintendolife.com/news/2026/11/what-happens-when-two-games-have-the-same-title-indie-publisher-reveals-heartwarming-answer",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 12.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/what-happens-when-two-games-have-the-same-title-indie-publisher-reveals-heartwarming-answer",
-          "titre": "What Happens When Two Games Have The Same Title? Indie Publisher Reveals Heartwarming Answer"
-        }
-      ]
     }
   ],
-  "alertes": [
-    "Tekken creator says he wishes hardware like the Xbox Series S 'wouldn’t be released'",
-    "After being laid off by Microsoft, former Doom devs found new Smash TV-influenced FPS studio that isn't \"subject to investor demands\""
-  ]
+  "alertes": []
 };
