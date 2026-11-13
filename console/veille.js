@@ -1,27 +1,33 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "13/11/2026 à 01h00",
+  "collecte": "13/11/2026 à 09h25",
   "seuil": 14,
   "sujets": [
     {
-      "id": "now-jensen-s-gone-intel-s-trouble-finding-a-steady-ceo-shoul",
-      "titre": "Now Jensen's gone, Intel’s trouble finding a steady CEO should serve as cautionary tale to Nvidia’s board",
-      "url": "https://www.pcgamer.com/hardware/now-jensens-gone-intels-trouble-finding-a-steady-ceo-should-serve-as-cautionary-tale-to-nvidias-board/",
+      "id": "nvidia-s-jensen-huang-resigns-as-ceo-amid-reports-of-affairs",
+      "titre": "Nvidia's Jensen Huang resigns as CEO amid reports of affairs with alleged Chinese spy and two employees",
+      "url": "https://www.gamesindustry.biz/nvidias-jensen-huang-resigns-as-ceo-amid-reports-of-affairs-with-alleged-chinese-spy-and-two-employees",
       "sources": [
         "Eurogamer",
         "Game Developer",
+        "GamesIndustry.biz",
         "Nintendo Life",
         "PC Gamer",
         "Rock Paper Shotgun"
       ],
-      "reprises": 5,
-      "heures": 7.2,
-      "chaleur": 16,
+      "reprises": 6,
+      "heures": 1.2,
+      "chaleur": 23,
       "liens": [
         {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/nvidias-jensen-huang-resigns-as-ceo-amid-reports-of-affairs-with-alleged-chinese-spy-and-two-employees",
+          "titre": "Nvidia's Jensen Huang resigns as CEO amid reports of affairs with alleged Chinese spy and two employees"
+        },
+        {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/now-jensens-gone-intels-trouble-finding-a-steady-ceo-should-serve-as-cautionary-tale-to-nvidias-board/",
-          "titre": "Now Jensen's gone, Intel’s trouble finding a steady CEO should serve as cautionary tale to Nvidia’s board"
+          "url": "https://www.pcgamer.com/hardware/nvidia-stocks-jump-back-up-after-ex-ceo-jensen-huangs-ousting/",
+          "titre": "Nvidia stocks jump back up after ex-CEO Jensen Huang's ousting"
         },
         {
           "source": "Nintendo Life",
@@ -46,47 +52,23 @@ const VEILLE = {
       ]
     },
     {
-      "id": "laid-off-id-software-devs-form-employee-owned-studio-hidden",
-      "titre": "Laid-off Id Software devs form employee-owned studio Hidden Horses",
-      "url": "https://www.gamesindustry.biz/laid-off-id-software-devs-form-employee-owned-studio-hidden-horses",
+      "id": "doom-developer-id-software-confirms-it-s-working-on-a-new-ga",
+      "titre": "DOOM Developer id Software Confirms It's Working On A New Game",
+      "url": "https://www.nintendolife.com/news/2026/11/doom-developer-id-software-confirms-its-working-on-a-new-game",
       "sources": [
-        "Game Developer",
-        "GamesIndustry.biz",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 3,
-      "heures": 14.7,
-      "chaleur": 16,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/laid-off-id-software-devs-form-employee-owned-studio-hidden-horses",
-          "titre": "Laid-off Id Software devs form employee-owned studio Hidden Horses"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/after-being-laid-off-by-microsoft-former-doom-devs-found-new-smash-tv-influenced-fps-studio-that-isnt-subject-to-investor-demands",
-          "titre": "After being laid off by Microsoft, former Doom devs found new Smash TV-influenced FPS studio that isn't \"subject to investor demands\""
-        },
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/console/report-playstation-s-fairgame-cancelled-but-haven-studios-remains",
-          "titre": "Report: PlayStation's Fairgames cancelled, no devs to be laid off"
-        }
-      ]
-    },
-    {
-      "id": "id-software-confirms-it-s-working-on-a-new-game-after-layoff",
-      "titre": "Id Software confirms it’s working on a new game after layoffs",
-      "url": "https://www.videogameschronicle.com/news/id-software-confirms-its-working-on-a-new-game-after-layoffs/",
-      "sources": [
+        "Nintendo Life",
         "PC Gamer",
         "VGC"
       ],
-      "reprises": 2,
-      "heures": 3.4,
-      "chaleur": 12,
+      "reprises": 3,
+      "heures": 7.5,
+      "chaleur": 13,
       "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/doom-developer-id-software-confirms-its-working-on-a-new-game",
+          "titre": "DOOM Developer id Software Confirms It's Working On A New Game"
+        },
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/id-software-confirms-its-working-on-a-new-game-after-layoffs/",
@@ -109,8 +91,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 6.9,
-      "chaleur": 12,
+      "heures": 15.4,
+      "chaleur": 11,
       "liens": [
         {
           "source": "Game Developer",
@@ -130,32 +112,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "talking-point-what-s-your-favourite-tiny-tweak-in-zelda-ocar",
-      "titre": "Talking Point: What's Your Favourite Tiny Tweak In Zelda: Ocarina Of Time?",
-      "url": "https://www.nintendolife.com/features/talking-point-whats-your-favourite-tiny-tweak-in-zelda-ocarina-of-time",
+      "id": "zelda-ocarina-s-redead-were-set-to-be-very-very-scary-in-the",
+      "titre": "Zelda Ocarina's ReDead Were Set To Be \"Very, Very Scary\" In The Remake, But Nintendo Decided To \"Dial It Back\"",
+      "url": "https://www.nintendolife.com/news/2026/11/zelda-ocarinas-redead-were-set-to-be-very-very-scary-in-the-remake-but-nintendo-decided-to-dial-it-back",
       "sources": [
-        "Game Developer",
         "Nintendo Life",
         "VGC"
       ],
-      "reprises": 3,
-      "heures": 9.0,
-      "chaleur": 12,
+      "reprises": 2,
+      "heures": 4.5,
+      "chaleur": 10,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/talking-point-whats-your-favourite-tiny-tweak-in-zelda-ocarina-of-time",
-          "titre": "Talking Point: What's Your Favourite Tiny Tweak In Zelda: Ocarina Of Time?"
+          "url": "https://www.nintendolife.com/news/2026/11/zelda-ocarinas-redead-were-set-to-be-very-very-scary-in-the-remake-but-nintendo-decided-to-dial-it-back",
+          "titre": "Zelda Ocarina's ReDead Were Set To Be \"Very, Very Scary\" In The Remake, But Nintendo Decided To \"Dial It Back\""
         },
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-complete-walkthrough-hub/",
           "titre": "The Legend of Zelda: Ocarina of Time Remake complete walkthrough hub"
+        }
+      ]
+    },
+    {
+      "id": "wolfenstein-3-is-in-production-at-machinegames",
+      "titre": "Wolfenstein 3 is in production at MachineGames",
+      "url": "https://www.pcgamer.com/games/fps/wolfenstein-3-is-in-production-at-machinegames/",
+      "sources": [
+        "Nintendo Life",
+        "PC Gamer",
+        "Push Square"
+      ],
+      "reprises": 3,
+      "heures": 7.8,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/wolfenstein-3-is-in-production-at-machinegames/",
+          "titre": "Wolfenstein 3 is in production at MachineGames"
         },
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/the-legend-of-zelda-ocarina-of-time-exceeds-5-million-copies-solid-in-first-week",
-          "titre": "The Legend of Zelda: Ocarina of Time exceeds 5 million copies sold in first week"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/wolfenstein-3-is-now-officially-in-production-at-machinegames",
+          "titre": "Wolfenstein 3 Is Now \"Officially In Production\" At MachineGames"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/wolfenstein-3-announced-now-in-the-works-at-machinegames",
+          "titre": "Wolfenstein 3 Announced, Now in the Works at MachineGames"
         }
       ]
     },
@@ -169,8 +175,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 3,
-      "heures": 5.1,
-      "chaleur": 10,
+      "heures": 13.6,
+      "chaleur": 9,
       "liens": [
         {
           "source": "PC Gamer",
@@ -198,8 +204,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 5.9,
-      "chaleur": 10,
+      "heures": 14.3,
+      "chaleur": 9,
       "liens": [
         {
           "source": "PC Gamer",
@@ -222,8 +228,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 8.0,
-      "chaleur": 10,
+      "heures": 16.4,
+      "chaleur": 9,
       "liens": [
         {
           "source": "VGC",
@@ -238,6 +244,48 @@ const VEILLE = {
       ]
     },
     {
+      "id": "halo-campaign-evolved-is-getting-firefight-in-a-free-update",
+      "titre": "Halo: Campaign Evolved is getting Firefight in a free update",
+      "url": "https://www.videogameschronicle.com/news/halo-campaign-evolved-is-getting-firefight-in-a-free-update/",
+      "sources": [
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 14.6,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/halo-campaign-evolved-is-getting-firefight-in-a-free-update/",
+          "titre": "Halo: Campaign Evolved is getting Firefight in a free update"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/xbox-wants-you-to-revisit-halo-campaign-evolved-on-ps5-as-free-co-op-mode-update-is-announced",
+          "titre": "Xbox Wants You to Revisit Halo: Campaign Evolved on PS5 as Free Co-Op Mode Update Is Announced"
+        }
+      ]
+    },
+    {
+      "id": "amy-hennig-s-marvel-1943-rise-of-hydra-hasn-t-been-cancelled",
+      "titre": "Amy Hennig's Marvel 1943: Rise of Hydra hasn't been cancelled, Skydance reportedly says, as rumours swirl to the contrary",
+      "url": "https://www.eurogamer.net/marvel-1943-rise-of-hydra-not-cancelled-skydance-says",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 22.2,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/marvel-1943-rise-of-hydra-not-cancelled-skydance-says",
+          "titre": "Amy Hennig's Marvel 1943: Rise of Hydra hasn't been cancelled, Skydance reportedly says, as rumours swirl to the contrary"
+        }
+      ]
+    },
+    {
       "id": "was-this-new-fable-gameplay-meant-to-sell-the-game",
       "titre": "Was This New Fable Gameplay Meant to Sell the Game?",
       "url": "https://www.pushsquare.com/news/2026/11/was-this-new-fable-gameplay-meant-to-sell-the-game",
@@ -246,8 +294,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 1.0,
-      "chaleur": 9,
+      "heures": 9.4,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Push Square",
@@ -269,79 +317,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 9,
+      "heures": 11.3,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/palworld-developer-pocketpair-gives-employees-time-off-for-a-5-day-business-trip-in-vice-city-when-gta-6-launches/",
           "titre": "Palworld developer Pocketpair gives employees time off for 'a 5-day business trip in Vice City when GTA 6 launches'"
-        }
-      ]
-    },
-    {
-      "id": "halo-campaign-evolved-is-getting-firefight-in-a-free-update",
-      "titre": "Halo: Campaign Evolved is getting Firefight in a free update",
-      "url": "https://www.videogameschronicle.com/news/halo-campaign-evolved-is-getting-firefight-in-a-free-update/",
-      "sources": [
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 6.2,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/halo-campaign-evolved-is-getting-firefight-in-a-free-update/",
-          "titre": "Halo: Campaign Evolved is getting Firefight in a free update"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/xbox-wants-you-to-revisit-halo-campaign-evolved-on-ps5-as-free-co-op-mode-update-is-announced",
-          "titre": "Xbox Wants You to Revisit Halo: Campaign Evolved on PS5 as Free Co-Op Mode Update Is Announced"
-        }
-      ]
-    },
-    {
-      "id": "amd-sony-mark-ps5-s-100-million-unit-milestone-with-signed-c",
-      "titre": "AMD, Sony Mark PS5's 100 Million Unit Milestone with Signed Consoles",
-      "url": "https://www.pushsquare.com/news/2026/11/amd-sony-mark-ps5s-100-million-unit-milestone-with-signed-consoles",
-      "sources": [
-        "Game Developer",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 9.0,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/amd-sony-mark-ps5s-100-million-unit-milestone-with-signed-consoles",
-          "titre": "AMD, Sony Mark PS5's 100 Million Unit Milestone with Signed Consoles"
-        },
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/console/playstation-5-ships-100-million-consoles",
-          "titre": "PlayStation 5 crosses 100 million consoles sold"
-        }
-      ]
-    },
-    {
-      "id": "21-original-xbox-games-are-now-on-pc-via-backward-compatibil",
-      "titre": "21 original Xbox games are now on PC via backward compatibility",
-      "url": "https://www.videogameschronicle.com/uncategorised/21-original-xbox-games-are-now-on-pc-via-backward-compatibility/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/uncategorised/21-original-xbox-games-are-now-on-pc-via-backward-compatibility/",
-          "titre": "21 original Xbox games are now on PC via backward compatibility"
         }
       ]
     },
@@ -353,8 +335,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.9,
-      "chaleur": 8,
+      "heures": 17.3,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Eurogamer",
@@ -364,20 +346,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "amy-hennig-s-marvel-1943-rise-of-hydra-hasn-t-been-cancelled",
-      "titre": "Amy Hennig's Marvel 1943: Rise of Hydra hasn't been cancelled, Skydance reportedly says, as rumours swirl to the contrary",
-      "url": "https://www.eurogamer.net/marvel-1943-rise-of-hydra-not-cancelled-skydance-says",
+      "id": "video-sonic-s-memories-and-beyond-35th-anniversary-animation",
+      "titre": "Video: Sonic's 'Memories And Beyond' 35th Anniversary Animation Released",
+      "url": "https://www.nintendolife.com/news/2026/11/video-sonics-memories-and-beyond-35th-anniversary-animation-released",
       "sources": [
-        "Eurogamer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.8,
-      "chaleur": 8,
+      "heures": 2.5,
+      "chaleur": 6,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/marvel-1943-rise-of-hydra-not-cancelled-skydance-says",
-          "titre": "Amy Hennig's Marvel 1943: Rise of Hydra hasn't been cancelled, Skydance reportedly says, as rumours swirl to the contrary"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/video-sonics-memories-and-beyond-35th-anniversary-animation-released",
+          "titre": "Video: Sonic's 'Memories And Beyond' 35th Anniversary Animation Released"
+        }
+      ]
+    },
+    {
+      "id": "round-up-the-reviews-are-in-for-metaphor-refantazio-s-switch",
+      "titre": "Round Up: The Reviews Are In For Metaphor: ReFantazio's Switch 2 Port",
+      "url": "https://www.nintendolife.com/news/2026/11/round-up-the-reviews-are-in-for-metaphor-refantazios-switch-2-port",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 6.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/round-up-the-reviews-are-in-for-metaphor-refantazios-switch-2-port",
+          "titre": "Round Up: The Reviews Are In For Metaphor: ReFantazio's Switch 2 Port"
+        }
+      ]
+    },
+    {
+      "id": "21-original-xbox-games-are-now-on-pc-via-backward-compatibil",
+      "titre": "21 original Xbox games are now on PC via backward compatibility",
+      "url": "https://www.videogameschronicle.com/uncategorised/21-original-xbox-games-are-now-on-pc-via-backward-compatibility/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 11.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/uncategorised/21-original-xbox-games-are-now-on-pc-via-backward-compatibility/",
+          "titre": "21 original Xbox games are now on PC via backward compatibility"
         }
       ]
     },
@@ -389,8 +407,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.5,
-      "chaleur": 7,
+      "heures": 14.9,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
@@ -408,8 +426,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 6.8,
-      "chaleur": 7,
+      "heures": 15.3,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -432,8 +450,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 7.0,
-      "chaleur": 7,
+      "heures": 15.4,
+      "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
@@ -455,8 +473,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.0,
-      "chaleur": 7,
+      "heures": 15.4,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
@@ -473,8 +491,8 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 8.0,
-      "chaleur": 7,
+      "heures": 16.4,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Game Developer",
@@ -491,8 +509,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.0,
-      "chaleur": 7,
+      "heures": 16.4,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
@@ -509,8 +527,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.3,
-      "chaleur": 7,
+      "heures": 17.7,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -527,61 +545,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 9.3,
-      "chaleur": 7,
+      "heures": 17.8,
+      "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/news/gta-6-map-seemingly-leaks-at-selfridges-merch-drop/",
           "titre": "GTA 6 map seemingly leaks at Selfridges merch drop"
-        }
-      ]
-    },
-    {
-      "id": "resident-evil-requiem-wins-four-golden-joystick-awards-inclu",
-      "titre": "Resident Evil Requiem wins four Golden Joystick Awards, including Ultimate and Console GOTY",
-      "url": "https://www.gamesindustry.biz/resident-evil-requiem-wins-four-golden-joystick-awards-including-ultimate-and-console-goty",
-      "sources": [
-        "GamesIndustry.biz",
-        "Nintendo Life"
-      ],
-      "reprises": 2,
-      "heures": 10.3,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/resident-evil-requiem-wins-four-golden-joystick-awards-including-ultimate-and-console-goty",
-          "titre": "Resident Evil Requiem wins four Golden Joystick Awards, including Ultimate and Console GOTY"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/resident-evil-requiem-crowned-ultimate-game-of-the-year-at-the-golden-joysticks-awards",
-          "titre": "Resident Evil Requiem Crowned 'Ultimate Game Of The Year' At The Golden Joysticks Awards"
-        }
-      ]
-    },
-    {
-      "id": "german-games-industry-association-warns-digital-fairness-act",
-      "titre": "German Games Industry Association warns Digital Fairness Act could cause \"double regulation and legal uncertainty\"",
-      "url": "https://www.gamesindustry.biz/german-games-industry-association-warns-digital-fairness-act-could-cause-double-regulation-and-legal-uncertainty",
-      "sources": [
-        "Eurogamer",
-        "GamesIndustry.biz"
-      ],
-      "reprises": 2,
-      "heures": 10.4,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/german-games-industry-association-warns-digital-fairness-act-could-cause-double-regulation-and-legal-uncertainty",
-          "titre": "German Games Industry Association warns Digital Fairness Act could cause \"double regulation and legal uncertainty\""
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/eu-digital-fairness-act-what-is-it-video-games",
-          "titre": "The European Commission's new Digital Fairness Act could change monetisation in games forever - and not just in Europe"
         }
       ]
     },
@@ -594,8 +564,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 10.6,
-      "chaleur": 7,
+      "heures": 19.0,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
@@ -610,78 +580,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "wolfenstein-3-announced-now-in-the-works-at-machinegames",
-      "titre": "Wolfenstein 3 Announced, Now in the Works at MachineGames",
-      "url": "https://www.pushsquare.com/news/2026/11/wolfenstein-3-announced-now-in-the-works-at-machinegames",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 0.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/wolfenstein-3-announced-now-in-the-works-at-machinegames",
-          "titre": "Wolfenstein 3 Announced, Now in the Works at MachineGames"
-        }
-      ]
-    },
-    {
-      "id": "doom-the-dark-ages-and-horde-mode-is-a-match-made-in-heaven",
-      "titre": "DOOM: The Dark Ages and Horde Mode Is a Match Made in Heaven",
-      "url": "https://www.pushsquare.com/news/2026/11/doom-the-dark-ages-and-horde-mode-is-a-match-made-in-heaven",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 0.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/doom-the-dark-ages-and-horde-mode-is-a-match-made-in-heaven",
-          "titre": "DOOM: The Dark Ages and Horde Mode Is a Match Made in Heaven"
-        }
-      ]
-    },
-    {
-      "id": "slay-the-spire-2-s-biggest-beta-patch-yet-adds-its-first-new",
-      "titre": "Slay the Spire 2's \"biggest\" beta patch yet adds its first new early access and foolish character, two game modes, and more tweaks than you can shake a stick at",
-      "url": "https://www.rockpapershotgun.com/slay-the-spire-2s-biggest-beta-patch-yet-adds-its-first-new-early-access-and-foolish-character-two-game-modes-and-more-tweaks-than-you-can-shake-a-stick-at",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/slay-the-spire-2s-biggest-beta-patch-yet-adds-its-first-new-early-access-and-foolish-character-two-game-modes-and-more-tweaks-than-you-can-shake-a-stick-at",
-          "titre": "Slay the Spire 2's \"biggest\" beta patch yet adds its first new early access and foolish character, two game modes, and more tweaks than you can shake a stick at"
-        }
-      ]
-    },
-    {
-      "id": "cover-your-robot-body-in-magical-fungus-aplenty-and-galavant",
-      "titre": "Cover your robot body in magical fungus aplenty and galavant across a mystical, Soulslike world in MycoRelic, now out in 1.0",
-      "url": "https://www.rockpapershotgun.com/cover-your-robot-body-in-magical-fungus-aplenty-and-galavant-across-a-mystical-soulslike-world-in-mycorelic-now-out-in-10",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/cover-your-robot-body-in-magical-fungus-aplenty-and-galavant-across-a-mystical-soulslike-world-in-mycorelic-now-out-in-10",
-          "titre": "Cover your robot body in magical fungus aplenty and galavant across a mystical, Soulslike world in MycoRelic, now out in 1.0"
-        }
-      ]
-    },
-    {
       "id": "microsoft-thinks-xbox-pioneered-dual-analogue-controllers",
       "titre": "Microsoft Thinks Xbox 'Pioneered' Dual Analogue Controllers",
       "url": "https://www.pushsquare.com/news/2026/11/microsoft-thinks-xbox-pioneered-dual-analogue-controllers",
@@ -689,8 +587,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.5,
-      "chaleur": 6,
+      "heures": 13.9,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Push Square",
@@ -707,8 +605,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.5,
-      "chaleur": 6,
+      "heures": 14.9,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -725,8 +623,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.5,
-      "chaleur": 6,
+      "heures": 14.9,
+      "chaleur": 5,
       "liens": [
         {
           "source": "PC Gamer",
@@ -743,8 +641,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.5,
-      "chaleur": 6,
+      "heures": 15.9,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Eurogamer",
@@ -761,13 +659,31 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.5,
-      "chaleur": 6,
+      "heures": 15.9,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/11/professor-layton-and-the-new-world-of-steam-english-voice-cast-revealed",
           "titre": "Professor Layton And The New World Of Steam English Voice Cast Revealed"
+        }
+      ]
+    },
+    {
+      "id": "talking-point-what-s-your-favourite-tiny-tweak-in-zelda-ocar",
+      "titre": "Talking Point: What's Your Favourite Tiny Tweak In Zelda: Ocarina Of Time?",
+      "url": "https://www.nintendolife.com/features/talking-point-whats-your-favourite-tiny-tweak-in-zelda-ocarina-of-time",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 17.4,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/talking-point-whats-your-favourite-tiny-tweak-in-zelda-ocarina-of-time",
+          "titre": "Talking Point: What's Your Favourite Tiny Tweak In Zelda: Ocarina Of Time?"
         }
       ]
     },
@@ -779,8 +695,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 9.9,
-      "chaleur": 6,
+      "heures": 18.3,
+      "chaleur": 5,
       "liens": [
         {
           "source": "VGC",
@@ -797,8 +713,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 6,
+      "heures": 18.7,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -815,73 +731,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 6,
+      "heures": 19.3,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/11/cosy-train-sim-station-to-station-arrives-on-switch-2-later-this-month",
           "titre": "Cosy Train Sim 'Station To Station' Arrives On Switch 2 Later This Month"
-        }
-      ]
-    },
-    {
-      "id": "review-harold-halibut-switch-2-a-creative-marvel-that-suffer",
-      "titre": "Review: Harold Halibut (Switch 2) - A Creative Marvel That Suffers In The Back Half",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/harold-halibut",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 11.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/harold-halibut",
-          "titre": "Review: Harold Halibut (Switch 2) - A Creative Marvel That Suffers In The Back Half"
-        }
-      ]
-    },
-    {
-      "id": "black-forest-games-spins-out-from-thq-nordic-co-founds-indie",
-      "titre": "Black Forest Games spins out from THQ Nordic, co-founds indie studio group Third Signal",
-      "url": "https://www.gamesindustry.biz/black-forest-games-spins-out-from-thq-nordic-co-founds-indie-studio-group-third-signal",
-      "sources": [
-        "GamesIndustry.biz",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 13.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/black-forest-games-spins-out-from-thq-nordic-co-founds-indie-studio-group-third-signal",
-          "titre": "Black Forest Games spins out from THQ Nordic, co-founds indie studio group Third Signal"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/some-of-the-best-games-of-the-last-decade-came-from-teams-of-fifty-destroy-all-humans-remake-devs-black-forest-games-split-from-thq-nordic-to-launch-new-indie-studio-group",
-          "titre": "\"Some of the best games of the last decade came from teams of fifty\": Destroy All Humans! remake devs Black Forest Games split from THQ Nordic to launch new indie studio group"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-might-be-censored-in-japan-if-the-game-s-smaller-insta",
-      "titre": "GTA 6 might be censored in Japan, if the game's smaller install size and lack of \"strong sexual content\" warning is anything to go by",
-      "url": "https://www.eurogamer.net/gta-6-censored-japan-smaller-install-size",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 30.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-censored-japan-smaller-install-size",
-          "titre": "GTA 6 might be censored in Japan, if the game's smaller install size and lack of \"strong sexual content\" warning is anything to go by"
         }
       ]
     },
@@ -893,7 +749,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 20.8,
       "chaleur": 5,
       "liens": [
         {
@@ -904,38 +760,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "romancing-saga-3-destinies-united-will-launch-earlier-than-e",
-      "titre": "Romancing SaGa 3: Destinies United Will Launch Earlier Than Expected On Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/11/romancing-saga-3-destinies-united-will-launch-earlier-than-expected-on-switch-2",
+      "id": "doom-the-dark-ages-and-horde-mode-is-a-match-made-in-heaven",
+      "titre": "DOOM: The Dark Ages and Horde Mode Is a Match Made in Heaven",
+      "url": "https://www.pushsquare.com/news/2026/11/doom-the-dark-ages-and-horde-mode-is-a-match-made-in-heaven",
       "sources": [
-        "Nintendo Life"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.5,
-      "chaleur": 5,
+      "heures": 9.2,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/romancing-saga-3-destinies-united-will-launch-earlier-than-expected-on-switch-2",
-          "titre": "Romancing SaGa 3: Destinies United Will Launch Earlier Than Expected On Switch 2"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/doom-the-dark-ages-and-horde-mode-is-a-match-made-in-heaven",
+          "titre": "DOOM: The Dark Ages and Horde Mode Is a Match Made in Heaven"
         }
       ]
     },
     {
-      "id": "tekken-creator-says-he-wishes-hardware-like-the-xbox-series",
-      "titre": "Tekken creator says he wishes hardware like the Xbox Series S 'wouldn’t be released'",
-      "url": "https://www.gamedeveloper.com/console/katsuhiro-harada-i-wish-hardware-like-the-xbox-series-s-wouldnt-be-released",
+      "id": "slay-the-spire-2-s-biggest-beta-patch-yet-adds-its-first-new",
+      "titre": "Slay the Spire 2's \"biggest\" beta patch yet adds its first new early access and foolish character, two game modes, and more tweaks than you can shake a stick at",
+      "url": "https://www.rockpapershotgun.com/slay-the-spire-2s-biggest-beta-patch-yet-adds-its-first-new-early-access-and-foolish-character-two-game-modes-and-more-tweaks-than-you-can-shake-a-stick-at",
       "sources": [
-        "Game Developer"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 30.5,
-      "chaleur": 5,
+      "heures": 10.5,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/console/katsuhiro-harada-i-wish-hardware-like-the-xbox-series-s-wouldnt-be-released",
-          "titre": "Tekken creator says he wishes hardware like the Xbox Series S 'wouldn’t be released'"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/slay-the-spire-2s-biggest-beta-patch-yet-adds-its-first-new-early-access-and-foolish-character-two-game-modes-and-more-tweaks-than-you-can-shake-a-stick-at",
+          "titre": "Slay the Spire 2's \"biggest\" beta patch yet adds its first new early access and foolish character, two game modes, and more tweaks than you can shake a stick at"
+        }
+      ]
+    },
+    {
+      "id": "cover-your-robot-body-in-magical-fungus-aplenty-and-galavant",
+      "titre": "Cover your robot body in magical fungus aplenty and galavant across a mystical, Soulslike world in MycoRelic, now out in 1.0",
+      "url": "https://www.rockpapershotgun.com/cover-your-robot-body-in-magical-fungus-aplenty-and-galavant-across-a-mystical-soulslike-world-in-mycorelic-now-out-in-10",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 11.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/cover-your-robot-body-in-magical-fungus-aplenty-and-galavant-across-a-mystical-soulslike-world-in-mycorelic-now-out-in-10",
+          "titre": "Cover your robot body in magical fungus aplenty and galavant across a mystical, Soulslike world in MycoRelic, now out in 1.0"
         }
       ]
     },
@@ -947,8 +821,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.1,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -965,8 +839,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 5.2,
-      "chaleur": 4,
+      "heures": 13.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "VGC",
@@ -983,8 +857,8 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 5.8,
-      "chaleur": 4,
+      "heures": 14.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Game Developer",
@@ -1001,8 +875,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.0,
-      "chaleur": 4,
+      "heures": 14.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1019,8 +893,8 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 6.8,
-      "chaleur": 4,
+      "heures": 15.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Game Developer",
@@ -1037,13 +911,31 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.0,
-      "chaleur": 4,
+      "heures": 15.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/11/the-pokemon-company-is-giving-away-free-in-game-pokopia-furniture-and-its-adorable",
           "titre": "The Pokémon Company Is Giving Away Free In-Game Pokopia Furniture, And It's Adorable"
+        }
+      ]
+    },
+    {
+      "id": "now-jensen-s-gone-intel-s-trouble-finding-a-steady-ceo-shoul",
+      "titre": "Now Jensen's gone, Intel’s trouble finding a steady CEO should serve as cautionary tale to Nvidia’s board",
+      "url": "https://www.pcgamer.com/hardware/now-jensens-gone-intels-trouble-finding-a-steady-ceo-should-serve-as-cautionary-tale-to-nvidias-board/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 15.6,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/now-jensens-gone-intels-trouble-finding-a-steady-ceo-should-serve-as-cautionary-tale-to-nvidias-board/",
+          "titre": "Now Jensen's gone, Intel’s trouble finding a steady CEO should serve as cautionary tale to Nvidia’s board"
         }
       ]
     },
@@ -1055,8 +947,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.3,
-      "chaleur": 4,
+      "heures": 15.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1073,8 +965,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.4,
-      "chaleur": 4,
+      "heures": 15.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1091,8 +983,8 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 7.5,
-      "chaleur": 4,
+      "heures": 15.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Game Developer",
@@ -1109,8 +1001,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.5,
-      "chaleur": 4,
+      "heures": 15.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1127,8 +1019,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.5,
-      "chaleur": 4,
+      "heures": 16.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1145,8 +1037,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.6,
-      "chaleur": 4,
+      "heures": 16.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1163,8 +1055,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.9,
-      "chaleur": 4,
+      "heures": 16.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1181,8 +1073,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 8.0,
-      "chaleur": 4,
+      "heures": 16.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -1199,8 +1091,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.1,
-      "chaleur": 4,
+      "heures": 16.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1217,8 +1109,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.5,
-      "chaleur": 4,
+      "heures": 16.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -1226,9 +1118,99 @@ const VEILLE = {
           "titre": "World of Warcraft: Forever players in Australia and New Zealand are struggling to get sunlight, and not for the usual MMO reasons"
         }
       ]
+    },
+    {
+      "id": "romancing-saga-3-s-great-looking-ps5-remake-moves-its-releas",
+      "titre": "Romancing SaGa 3's Great Looking PS5 Remake Moves Its Release Date Away from Persona 4 Revival",
+      "url": "https://www.pushsquare.com/news/2026/11/romancing-saga-3s-great-looking-ps5-remake-moves-its-release-date-away-from-persona-4-revival",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 16.9,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/romancing-saga-3s-great-looking-ps5-remake-moves-its-release-date-away-from-persona-4-revival",
+          "titre": "Romancing SaGa 3's Great Looking PS5 Remake Moves Its Release Date Away from Persona 4 Revival"
+        }
+      ]
+    },
+    {
+      "id": "amd-sony-mark-ps5-s-100-million-unit-milestone-with-signed-c",
+      "titre": "AMD, Sony Mark PS5's 100 Million Unit Milestone with Signed Consoles",
+      "url": "https://www.pushsquare.com/news/2026/11/amd-sony-mark-ps5s-100-million-unit-milestone-with-signed-consoles",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 17.4,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/amd-sony-mark-ps5s-100-million-unit-milestone-with-signed-consoles",
+          "titre": "AMD, Sony Mark PS5's 100 Million Unit Milestone with Signed Consoles"
+        }
+      ]
+    },
+    {
+      "id": "it-s-about-giving-more-great-games-a-chance-why-launchable",
+      "titre": "\"It's about giving more great games a chance\" – Why Launchable thinks it can help more independent studios reach the market with its shared success model",
+      "url": "https://www.gamesindustry.biz/its-about-giving-more-great-games-a-chance-why-launchable-thinks-it-can-help-more-independent-studios-reach-the-market-with-its-shared-success-model",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 17.4,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/its-about-giving-more-great-games-a-chance-why-launchable-thinks-it-can-help-more-independent-studios-reach-the-market-with-its-shared-success-model",
+          "titre": "\"It's about giving more great games a chance\" – Why Launchable thinks it can help more independent studios reach the market with its shared success model"
+        }
+      ]
+    },
+    {
+      "id": "the-hills-are-alive-with-the-sound-of-fury-a-fantasy-musical",
+      "titre": "The hills are alive with The Sound of Fury, a fantasy musical hack 'n' slash about weaponising pianos to fight the Devil",
+      "url": "https://www.rockpapershotgun.com/the-hills-are-alive-with-the-sound-of-fury-a-fantasy-musical-hack-n-slash-about-weaponising-pianos-to-fight-the-devil",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 17.9,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-hills-are-alive-with-the-sound-of-fury-a-fantasy-musical-hack-n-slash-about-weaponising-pianos-to-fight-the-devil",
+          "titre": "The hills are alive with The Sound of Fury, a fantasy musical hack 'n' slash about weaponising pianos to fight the Devil"
+        }
+      ]
+    },
+    {
+      "id": "mmo-horizon-steel-frontiers-nearing-completion-nc-discussing",
+      "titre": "MMO Horizon Steel Frontiers 'Nearing Completion', NC Discussing Release Timing with Sony",
+      "url": "https://www.pushsquare.com/news/2026/11/mmo-horizon-steel-frontiers-nearing-completion-nc-discussing-release-timing-with-sony",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 18.4,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/mmo-horizon-steel-frontiers-nearing-completion-nc-discussing-release-timing-with-sony",
+          "titre": "MMO Horizon Steel Frontiers 'Nearing Completion', NC Discussing Release Timing with Sony"
+        }
+      ]
     }
   ],
   "alertes": [
-    "Laid-off Id Software devs form employee-owned studio Hidden Horses"
+    "Nvidia's Jensen Huang resigns as CEO amid reports of affairs with alleged Chinese spy and two employees"
   ]
 };
