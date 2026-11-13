@@ -1,33 +1,26 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "13/11/2026 à 09h25",
+  "collecte": "13/11/2026 à 17h38",
   "seuil": 14,
   "sujets": [
     {
-      "id": "nvidia-s-jensen-huang-resigns-as-ceo-amid-reports-of-affairs",
-      "titre": "Nvidia's Jensen Huang resigns as CEO amid reports of affairs with alleged Chinese spy and two employees",
-      "url": "https://www.gamesindustry.biz/nvidias-jensen-huang-resigns-as-ceo-amid-reports-of-affairs-with-alleged-chinese-spy-and-two-employees",
+      "id": "clear-national-security-concerns-that-need-to-be-addressed",
+      "titre": "'Clear national security concerns that need to be addressed immediately': new letters to Jensen Huang from Congress strike a tougher tone for the ex-Nvidia CEO",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/clear-national-security-concerns-that-need-to-be-addressed-immediately-new-letters-to-jensen-huang-from-congress-strike-a-tougher-tone-for-the-ex-nvidia-ceo/",
       "sources": [
         "Eurogamer",
         "Game Developer",
-        "GamesIndustry.biz",
         "Nintendo Life",
-        "PC Gamer",
-        "Rock Paper Shotgun"
+        "PC Gamer"
       ],
-      "reprises": 6,
-      "heures": 1.2,
-      "chaleur": 23,
+      "reprises": 4,
+      "heures": 4.5,
+      "chaleur": 16,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/nvidias-jensen-huang-resigns-as-ceo-amid-reports-of-affairs-with-alleged-chinese-spy-and-two-employees",
-          "titre": "Nvidia's Jensen Huang resigns as CEO amid reports of affairs with alleged Chinese spy and two employees"
-        },
-        {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/nvidia-stocks-jump-back-up-after-ex-ceo-jensen-huangs-ousting/",
-          "titre": "Nvidia stocks jump back up after ex-CEO Jensen Huang's ousting"
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/clear-national-security-concerns-that-need-to-be-addressed-immediately-new-letters-to-jensen-huang-from-congress-strike-a-tougher-tone-for-the-ex-nvidia-ceo/",
+          "titre": "'Clear national security concerns that need to be addressed immediately': new letters to Jensen Huang from Congress strike a tougher tone for the ex-Nvidia CEO"
         },
         {
           "source": "Nintendo Life",
@@ -43,111 +36,52 @@ const VEILLE = {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/nvidia-ceo-jensen-huang-resigns",
           "titre": "After days of controversy, Nvidia CEO Jensen Huang has resigned"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/nvidia-boss-jensen-huang-resigns-amid-scandal-surrounding-two-alleged-affairs-interim-ceo-appointed-as-search-for-sexy-leather-jacket-mans-successor-begins",
-          "titre": "Nvidia boss Jensen Huang resigns amid scandal surrounding two alleged affairs, interim CEO appointed as search for sexy leather jacket man's successor begins"
         }
       ]
     },
     {
-      "id": "doom-developer-id-software-confirms-it-s-working-on-a-new-ga",
-      "titre": "DOOM Developer id Software Confirms It's Working On A New Game",
-      "url": "https://www.nintendolife.com/news/2026/11/doom-developer-id-software-confirms-its-working-on-a-new-game",
+      "id": "psa-gta-6-does-not-have-online-multiplayer-at-launch",
+      "titre": "PSA: GTA 6 Does Not Have Online Multiplayer at Launch",
+      "url": "https://www.pushsquare.com/news/2026/11/psa-gta-6-does-not-have-online-multiplayer-at-launch",
+      "sources": [
+        "Eurogamer",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 1.6,
+      "chaleur": 14,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/psa-gta-6-does-not-have-online-multiplayer-at-launch",
+          "titre": "PSA: GTA 6 Does Not Have Online Multiplayer at Launch"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-map-leak-online-collectors-edition",
+          "titre": "One week from launch, GTA 6's physical map reportedly leaks online thanks to the £350 collector's edition on show in a UK department store"
+        }
+      ]
+    },
+    {
+      "id": "machinegames-has-finally-officially-confirmed-that-wolfenste",
+      "titre": "MachineGames has finally officially confirmed that Wolfenstein 3 is in development",
+      "url": "https://www.videogameschronicle.com/news/machinegames-has-finally-officially-confirmed-that-wolfenstein-3-is-in-development/",
       "sources": [
         "Nintendo Life",
         "PC Gamer",
+        "Push Square",
         "VGC"
       ],
-      "reprises": 3,
-      "heures": 7.5,
+      "reprises": 4,
+      "heures": 7.8,
       "chaleur": 13,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/doom-developer-id-software-confirms-its-working-on-a-new-game",
-          "titre": "DOOM Developer id Software Confirms It's Working On A New Game"
-        },
-        {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/id-software-confirms-its-working-on-a-new-game-after-layoffs/",
-          "titre": "Id Software confirms it’s working on a new game after layoffs"
+          "url": "https://www.videogameschronicle.com/news/machinegames-has-finally-officially-confirmed-that-wolfenstein-3-is-in-development/",
+          "titre": "MachineGames has finally officially confirmed that Wolfenstein 3 is in development"
         },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/doom-studio-id-software-confirms-its-working-on-a-new-game/",
-          "titre": "Doom studio id Software confirms it's working on a new game"
-        }
-      ]
-    },
-    {
-      "id": "one-in-three-developers-say-they-ve-been-laid-off-within-the",
-      "titre": "One in three developers say they've been laid off within the last two years",
-      "url": "https://www.gamedeveloper.com/business/one-in-three-developers-have-been-laid-off-within-the-last-two-years",
-      "sources": [
-        "Game Developer",
-        "GamesIndustry.biz",
-        "VGC"
-      ],
-      "reprises": 3,
-      "heures": 15.4,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/one-in-three-developers-have-been-laid-off-within-the-last-two-years",
-          "titre": "One in three developers say they've been laid off within the last two years"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/one-in-three-games-industry-professionals-surveyed-by-gdc-were-laid-off-in-the-past-two-years-more-than-in-its-last-report/",
-          "titre": "One in three games industry professionals surveyed by GDC were laid off in the past two years, more than in its last report"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/gdc-state-of-the-game-industry-report-40-of-developers-are-using-generative-ai-for-work",
-          "titre": "GDC State of the Game Industry report: 40% of developers are using generative AI for work"
-        }
-      ]
-    },
-    {
-      "id": "zelda-ocarina-s-redead-were-set-to-be-very-very-scary-in-the",
-      "titre": "Zelda Ocarina's ReDead Were Set To Be \"Very, Very Scary\" In The Remake, But Nintendo Decided To \"Dial It Back\"",
-      "url": "https://www.nintendolife.com/news/2026/11/zelda-ocarinas-redead-were-set-to-be-very-very-scary-in-the-remake-but-nintendo-decided-to-dial-it-back",
-      "sources": [
-        "Nintendo Life",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 4.5,
-      "chaleur": 10,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/zelda-ocarinas-redead-were-set-to-be-very-very-scary-in-the-remake-but-nintendo-decided-to-dial-it-back",
-          "titre": "Zelda Ocarina's ReDead Were Set To Be \"Very, Very Scary\" In The Remake, But Nintendo Decided To \"Dial It Back\""
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-complete-walkthrough-hub/",
-          "titre": "The Legend of Zelda: Ocarina of Time Remake complete walkthrough hub"
-        }
-      ]
-    },
-    {
-      "id": "wolfenstein-3-is-in-production-at-machinegames",
-      "titre": "Wolfenstein 3 is in production at MachineGames",
-      "url": "https://www.pcgamer.com/games/fps/wolfenstein-3-is-in-production-at-machinegames/",
-      "sources": [
-        "Nintendo Life",
-        "PC Gamer",
-        "Push Square"
-      ],
-      "reprises": 3,
-      "heures": 7.8,
-      "chaleur": 10,
-      "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/fps/wolfenstein-3-is-in-production-at-machinegames/",
@@ -166,122 +100,920 @@ const VEILLE = {
       ]
     },
     {
-      "id": "paradox-interactive-is-getting-a-new-boss-as-fredrik-wester",
-      "titre": "Paradox Interactive is getting a new boss as Fredrik Wester steps down for the second time",
-      "url": "https://www.pcgamer.com/gaming-industry/paradox-interactive-is-getting-a-new-boss-as-fredrik-wester-steps-down-for-the-second-time/",
+      "id": "witcher-3-devs-use-ai-to-help-polish-voice-actor-reprise-rol",
+      "titre": "Witcher 3 devs use AI to help Polish voice actor reprise role of Geralt after stroke",
+      "url": "https://www.gamedeveloper.com/production/polish-voice-actor-for-geralt-returns-for-the-witcher-3-with-ai",
       "sources": [
         "Eurogamer",
-        "GamesIndustry.biz",
-        "PC Gamer"
+        "Game Developer",
+        "GamesIndustry.biz"
       ],
       "reprises": 3,
-      "heures": 13.6,
-      "chaleur": 9,
+      "heures": 2.2,
+      "chaleur": 12,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/paradox-interactive-is-getting-a-new-boss-as-fredrik-wester-steps-down-for-the-second-time/",
-          "titre": "Paradox Interactive is getting a new boss as Fredrik Wester steps down for the second time"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/paradox-ceo-frederik-wester-stepping-down",
-          "titre": "Paradox boss Frederik Wester stepping down after several tumultuous years for the Cities Skylines and Stellaris publisher"
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/production/polish-voice-actor-for-geralt-returns-for-the-witcher-3-with-ai",
+          "titre": "Witcher 3 devs use AI to help Polish voice actor reprise role of Geralt after stroke"
         },
         {
           "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/fredrik-wester-steps-down-as-paradox-interactive-ceo",
-          "titre": "Fredrik Wester steps down as Paradox Interactive CEO"
+          "url": "https://www.gamesindustry.biz/cd-projekt-red-used-ai-to-alter-the-voice-of-geralts-original-polish-actor-in-witcher-3-songs-of-the-past",
+          "titre": "CD Projekt Red used AI to alter the voice of Geralt's original Polish actor in Witcher 3: Songs of the Past"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/cd-projekt-red-geralt-gen-ai-voice-polish-jacek-rozenek",
+          "titre": "The Witcher 3 uses gen-AI to enhance Geralt's Polish voice following actor's stroke - \"I do think this is one of those ways where you can use AI ethically\""
         }
       ]
     },
     {
-      "id": "south-korean-game-rating-board-almost-blocked-gta-6-s-releas",
-      "titre": "South Korean game rating board almost blocked GTA 6's release, fearing its 'out-of-context genital nudity' would 'disrupt social order'",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/south-korean-game-rating-board-almost-blocked-gta-6s-release-fearing-its-out-of-context-genital-nudity-would-disrupt-social-order/",
+      "id": "8bitdo-ultimate-3e-wireless-controller-review",
+      "titre": "8BitDo Ultimate 3E wireless controller review",
+      "url": "https://www.pcgamer.com/hardware/controllers/8bitdo-ultimate-3e-review/",
       "sources": [
-        "PC Gamer",
-        "Push Square"
+        "Nintendo Life",
+        "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 14.3,
+      "heures": 0.3,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/controllers/8bitdo-ultimate-3e-review/",
+          "titre": "8BitDo Ultimate 3E wireless controller review"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/crkd-ult-pro-controller-for-switch-1-and-2-a-decent-pad-let-down-by-awful-shoulder-and-bumper-buttons",
+          "titre": "Review: CRKD Ult Pro Controller For Switch 1 & 2 - A Decent Pad Let Down By Awful Shoulder & Bumper Buttons"
+        }
+      ]
+    },
+    {
+      "id": "a-new-report-reckons-40-of-developers-in-the-video-games-ind",
+      "titre": "A new report reckons 40% of developers in the video games industry are using generative AI - but even more think it's harmful",
+      "url": "https://www.eurogamer.net/gdc-report-40-percent-developers-generative-ai",
+      "sources": [
+        "Eurogamer",
+        "GamesIndustry.biz"
+      ],
+      "reprises": 2,
+      "heures": 2.1,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gdc-report-40-percent-developers-generative-ai",
+          "titre": "A new report reckons 40% of developers in the video games industry are using generative AI - but even more think it's harmful"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/gdc-state-of-the-game-industry-report-40-of-developers-are-using-generative-ai-for-work",
+          "titre": "GDC State of the Game Industry report: 40% of developers are using generative AI for work"
+        }
+      ]
+    },
+    {
+      "id": "tell-us-your-favourite-grand-theft-auto-gaming-memory-and-wi",
+      "titre": "Tell us your favourite Grand Theft Auto gaming memory and win a copy of GTA 6",
+      "url": "https://www.eurogamer.net/grand-theft-auto-gaming-memory-competition-gta-6-win",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/grand-theft-auto-gaming-memory-competition-gta-6-win",
+          "titre": "Tell us your favourite Grand Theft Auto gaming memory and win a copy of GTA 6"
+        }
+      ]
+    },
+    {
+      "id": "introducing-three-weeks-of-specialist-gta-and-not-gta-progra",
+      "titre": "Introducing three weeks of specialist GTA - and not-GTA! - programming on Eurogamer",
+      "url": "https://www.eurogamer.net/introducing-gta-and-not-gta-theme-weeks",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/introducing-gta-and-not-gta-theme-weeks",
+          "titre": "Introducing three weeks of specialist GTA - and not-GTA! - programming on Eurogamer"
+        }
+      ]
+    },
+    {
+      "id": "slay-the-spire-2-gets-its-first-new-character-since-its-mass",
+      "titre": "Slay the Spire 2 gets its first new character since its massively successful launch in March as part of \"biggest\" beta patch yet",
+      "url": "https://www.eurogamer.net/slay-the-spire-2-biggest-update-new-character-the-fool",
+      "sources": [
+        "Eurogamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 2.6,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/slay-the-spire-2-biggest-update-new-character-the-fool",
+          "titre": "Slay the Spire 2 gets its first new character since its massively successful launch in March as part of \"biggest\" beta patch yet"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/slay-the-spire-2s-biggest-beta-patch-yet-adds-its-first-new-early-access-and-foolish-character-two-game-modes-and-more-tweaks-than-you-can-shake-a-stick-at",
+          "titre": "Slay the Spire 2's \"biggest\" beta patch yet adds its first new early access and foolish character, two game modes, and more tweaks than you can shake a stick at"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-s-in-game-animated-tv-series-macca-friends-hints-at-th",
+      "titre": "GTA 6's In-Game Animated TV Series, Macca & Friends, Hints at the Game's Absurd Scope",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6s-in-game-animated-tv-series-macca-and-friends-hints-at-the-games-absurd-scope",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 2.6,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6s-in-game-animated-tv-series-macca-and-friends-hints-at-the-games-absurd-scope",
+          "titre": "GTA 6's In-Game Animated TV Series, Macca & Friends, Hints at the Game's Absurd Scope"
+        }
+      ]
+    },
+    {
+      "id": "ex-nvidia-ceo-jensen-huang-allegedly-had-an-intimate-relatio",
+      "titre": "Ex-Nvidia CEO Jensen Huang allegedly had an 'intimate relationship' with a second Nvidia employee, according to reports",
+      "url": "https://www.pcgamer.com/hardware/ex-nvidia-ceo-jensen-huang-allegedly-had-an-intimate-relationship-with-a-second-nvidia-employee-according-to-reports/",
+      "sources": [
+        "GamesIndustry.biz",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 6.1,
       "chaleur": 9,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/south-korean-game-rating-board-almost-blocked-gta-6s-release-fearing-its-out-of-context-genital-nudity-would-disrupt-social-order/",
-          "titre": "South Korean game rating board almost blocked GTA 6's release, fearing its 'out-of-context genital nudity' would 'disrupt social order'"
+          "url": "https://www.pcgamer.com/hardware/ex-nvidia-ceo-jensen-huang-allegedly-had-an-intimate-relationship-with-a-second-nvidia-employee-according-to-reports/",
+          "titre": "Ex-Nvidia CEO Jensen Huang allegedly had an 'intimate relationship' with a second Nvidia employee, according to reports"
         },
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/genital-exposure-has-never-appeared-this-frequently-gta-6-was-almost-refused-release-in-south-korea",
-          "titre": "'Genital Exposure Has Never Appeared This Frequently': GTA 6 Was Almost Refused Release in South Korea"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/nvidias-jensen-huang-resigns-as-ceo-amid-reports-of-affairs-with-alleged-chinese-spy-and-two-employees",
+          "titre": "Nvidia's Jensen Huang resigns as CEO amid reports of affairs with alleged Chinese spy and two employees"
         }
       ]
     },
     {
-      "id": "nintendo-s-black-friday-deals-include-switch-2-and-mario-kar",
-      "titre": "Nintendo’s Black Friday deals include Switch 2 and Mario Kart World bundle",
-      "url": "https://www.videogameschronicle.com/news/nintendos-black-friday-deals-include-switch-2-and-mario-kart-world-bundle/",
+      "id": "doom-developer-id-software-confirms-it-s-working-on-a-new-ga",
+      "titre": "DOOM Developer id Software Confirms It's Working On A New Game",
+      "url": "https://www.nintendolife.com/news/2026/11/doom-developer-id-software-confirms-its-working-on-a-new-game",
       "sources": [
         "Nintendo Life",
         "VGC"
       ],
       "reprises": 2,
-      "heures": 16.4,
+      "heures": 15.7,
       "chaleur": 9,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/nintendos-black-friday-deals-include-switch-2-and-mario-kart-world-bundle/",
-          "titre": "Nintendo’s Black Friday deals include Switch 2 and Mario Kart World bundle"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/doom-developer-id-software-confirms-its-working-on-a-new-game",
+          "titre": "DOOM Developer id Software Confirms It's Working On A New Game"
         },
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/nintendo-reveals-switch-2-black-friday-deals-us",
-          "titre": "Nintendo Reveals Switch 2 Black Friday Deals (US)"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/id-software-confirms-its-working-on-a-new-game-after-layoffs/",
+          "titre": "Id Software confirms it’s working on a new game after layoffs"
         }
       ]
     },
     {
-      "id": "halo-campaign-evolved-is-getting-firefight-in-a-free-update",
-      "titre": "Halo: Campaign Evolved is getting Firefight in a free update",
-      "url": "https://www.videogameschronicle.com/news/halo-campaign-evolved-is-getting-firefight-in-a-free-update/",
+      "id": "playstation-s-god-of-war-spin-off-is-coming-to-ps4-and-getti",
+      "titre": "PlayStation’s God of War spin-off is coming to PS4 and getting new modes",
+      "url": "https://www.videogameschronicle.com/news/playstations-god-of-war-spin-off-is-coming-to-ps4-and-getting-new-modes/",
       "sources": [
-        "Push Square",
         "VGC"
       ],
-      "reprises": 2,
-      "heures": 14.6,
+      "reprises": 1,
+      "heures": 1.4,
       "chaleur": 8,
       "liens": [
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/halo-campaign-evolved-is-getting-firefight-in-a-free-update/",
-          "titre": "Halo: Campaign Evolved is getting Firefight in a free update"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/xbox-wants-you-to-revisit-halo-campaign-evolved-on-ps5-as-free-co-op-mode-update-is-announced",
-          "titre": "Xbox Wants You to Revisit Halo: Campaign Evolved on PS5 as Free Co-Op Mode Update Is Announced"
+          "url": "https://www.videogameschronicle.com/news/playstations-god-of-war-spin-off-is-coming-to-ps4-and-getting-new-modes/",
+          "titre": "PlayStation’s God of War spin-off is coming to PS4 and getting new modes"
         }
       ]
     },
     {
-      "id": "amy-hennig-s-marvel-1943-rise-of-hydra-hasn-t-been-cancelled",
-      "titre": "Amy Hennig's Marvel 1943: Rise of Hydra hasn't been cancelled, Skydance reportedly says, as rumours swirl to the contrary",
-      "url": "https://www.eurogamer.net/marvel-1943-rise-of-hydra-not-cancelled-skydance-says",
+      "id": "mini-review-sonic-pico-park-switch-charming-puzzle-platforme",
+      "titre": "Mini Review: Sonic Pico Park (Switch) - Charming Puzzle-Platformer Returns With A Nostalgic Co-Op Collab",
+      "url": "https://www.nintendolife.com/reviews/switch-eshop/sonic-pico-park",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/switch-eshop/sonic-pico-park",
+          "titre": "Mini Review: Sonic Pico Park (Switch) - Charming Puzzle-Platformer Returns With A Nostalgic Co-Op Collab"
+        }
+      ]
+    },
+    {
+      "id": "chipmaking-giant-tsmc-discovers-major-employee-data-leak-rep",
+      "titre": "Chipmaking giant TSMC discovers major employee data leak—reports say info was up for sale for three bitcoin on shady forums",
+      "url": "https://www.pcgamer.com/hardware/chipmaking-giant-tsmc-discovers-major-employee-data-leak-reports-say-info-was-up-for-sale-for-three-bitcoin-on-shady-forums/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/chipmaking-giant-tsmc-discovers-major-employee-data-leak-reports-say-info-was-up-for-sale-for-three-bitcoin-on-shady-forums/",
+          "titre": "Chipmaking giant TSMC discovers major employee data leak—reports say info was up for sale for three bitcoin on shady forums"
+        }
+      ]
+    },
+    {
+      "id": "zelda-a-link-between-worlds-listed-as-playable-with-nso-but",
+      "titre": "Zelda: A Link Between Worlds Listed As 'Playable With NSO', But Let's Not Jump To Conclusions",
+      "url": "https://www.nintendolife.com/news/2026/11/zelda-a-link-between-worlds-listed-as-playable-with-nso-but-lets-not-jump-to-conclusions",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 2.1,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/zelda-a-link-between-worlds-listed-as-playable-with-nso-but-lets-not-jump-to-conclusions",
+          "titre": "Zelda: A Link Between Worlds Listed As 'Playable With NSO', But Let's Not Jump To Conclusions"
+        }
+      ]
+    },
+    {
+      "id": "podcast-playstation-s-live-service-era-has-been-a-total-fail",
+      "titre": "Podcast: PlayStation’s live service era has been a total failure",
+      "url": "https://www.videogameschronicle.com/blog/podcast/podcast-playstations-live-service-era-has-been-a-total-failure/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 2.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/blog/podcast/podcast-playstations-live-service-era-has-been-a-total-failure/",
+          "titre": "Podcast: PlayStation’s live service era has been a total failure"
+        }
+      ]
+    },
+    {
+      "id": "fanatical-s-new-play-on-the-go-deal-lets-your-build-your-own",
+      "titre": "Fanatical’s new Play on the Go deal lets your build your own bundle of Steam Deck verified games",
+      "url": "https://www.videogameschronicle.com/news/fanaticals-new-play-on-the-go-deal-lets-your-build-your-own-bundle-of-steam-deck-verified-games/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 2.7,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/fanaticals-new-play-on-the-go-deal-lets-your-build-your-own-bundle-of-steam-deck-verified-games/",
+          "titre": "Fanatical’s new Play on the Go deal lets your build your own bundle of Steam Deck verified games"
+        }
+      ]
+    },
+    {
+      "id": "xbox-boss-announces-wolfenstein-3-and-confirms-new-game-in-d",
+      "titre": "Xbox boss announces Wolfenstein 3 and confirms new game in development at idSoftware despite reported job cut \"bloodbath\"",
+      "url": "https://www.eurogamer.net/wolfenstein-3-new-id-software-game-announced-xbox",
       "sources": [
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 22.2,
+      "heures": 5.3,
       "chaleur": 8,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/marvel-1943-rise-of-hydra-not-cancelled-skydance-says",
-          "titre": "Amy Hennig's Marvel 1943: Rise of Hydra hasn't been cancelled, Skydance reportedly says, as rumours swirl to the contrary"
+          "url": "https://www.eurogamer.net/wolfenstein-3-new-id-software-game-announced-xbox",
+          "titre": "Xbox boss announces Wolfenstein 3 and confirms new game in development at idSoftware despite reported job cut \"bloodbath\""
+        }
+      ]
+    },
+    {
+      "id": "steam-s-submission-and-approval-backlog-is-forcing-indie-dev",
+      "titre": "Steam's submission and approval backlog is forcing indie devs to delay game launches",
+      "url": "https://www.gamesindustry.biz/steams-submission-and-approval-backlog-is-forcing-indie-devs-to-delay-game-launches",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 5.6,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/steams-submission-and-approval-backlog-is-forcing-indie-devs-to-delay-game-launches",
+          "titre": "Steam's submission and approval backlog is forcing indie devs to delay game launches"
+        }
+      ]
+    },
+    {
+      "id": "microsoft-suffer-system-outage-affecting-outlook-teams-and-c",
+      "titre": "Microsoft suffer system outage affecting Outlook, Teams and Copilot, exec says there's \"no indication this is the result of malicious or cyber activity\"",
+      "url": "https://www.rockpapershotgun.com/microsoft-suffer-system-outage-affecting-outlook-teams-and-copilot-exec-says-theres-no-indication-this-is-the-result-of-malicious-or-cyber-activity",
+      "sources": [
+        "PC Gamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 4.5,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/microsoft-suffer-system-outage-affecting-outlook-teams-and-copilot-exec-says-theres-no-indication-this-is-the-result-of-malicious-or-cyber-activity",
+          "titre": "Microsoft suffer system outage affecting Outlook, Teams and Copilot, exec says there's \"no indication this is the result of malicious or cyber activity\""
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/security/microsoft-says-there-is-no-evidence-of-malicious-activity-being-the-cause-of-the-global-service-outage-affecting-governments-and-organisations-around-the-world/",
+          "titre": "Microsoft says there is 'no evidence of malicious activity' being the cause of the global service outage affecting governments and organisations around the world"
+        }
+      ]
+    },
+    {
+      "id": "k-pop-royalty-recruited-for-playstation-korea-s-glitzy-gta-6",
+      "titre": "K-pop Royalty Recruited for PlayStation Korea's Glitzy GTA 6 Ad",
+      "url": "https://www.pushsquare.com/news/2026/11/k-pop-royalty-recruited-for-playstation-koreas-glitzy-gta-6-ad",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.6,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/k-pop-royalty-recruited-for-playstation-koreas-glitzy-gta-6-ad",
+          "titre": "K-pop Royalty Recruited for PlayStation Korea's Glitzy GTA 6 Ad"
+        }
+      ]
+    },
+    {
+      "id": "these-30-games-are-coming-to-nintendo-switch-eshop-this-week",
+      "titre": "These 30+ Games Are Coming To Nintendo Switch eShop This Week (November 12)",
+      "url": "https://www.nintendolife.com/news/2026/11/these-30plus-games-are-coming-to-nintendo-switch-eshop-this-week-november-12",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 6.6,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/these-30plus-games-are-coming-to-nintendo-switch-eshop-this-week-november-12",
+          "titre": "These 30+ Games Are Coming To Nintendo Switch eShop This Week (November 12)"
+        }
+      ]
+    },
+    {
+      "id": "will-gta-6-break-the-internet-uk-broadband-operator-braces-f",
+      "titre": "Will GTA 6 break the internet? UK broadband operator braces for impact, saying \"GTA 6 has been on our radar for a long time\"",
+      "url": "https://www.eurogamer.net/gta-6-internet-uk-broadband-ofcom-openreach",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 7.9,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-internet-uk-broadband-ofcom-openreach",
+          "titre": "Will GTA 6 break the internet? UK broadband operator braces for impact, saying \"GTA 6 has been on our radar for a long time\""
+        }
+      ]
+    },
+    {
+      "id": "halo-campaign-evolved-is-getting-its-own-four-player-version",
+      "titre": "Halo: Campaign Evolved is getting its own four-player version of the series' staple Firefight mode, for free, \"this winter\"",
+      "url": "https://www.eurogamer.net/halo-campaign-evovled-firefight-mode",
+      "sources": [
+        "Eurogamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 8.0,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/halo-campaign-evovled-firefight-mode",
+          "titre": "Halo: Campaign Evolved is getting its own four-player version of the series' staple Firefight mode, for free, \"this winter\""
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/halo-campaign-evolved-is-getting-firefight-in-a-free-update/",
+          "titre": "Halo: Campaign Evolved is getting Firefight in a free update"
+        }
+      ]
+    },
+    {
+      "id": "as-low-effort-ai-slop-continues-to-flood-steam-yet-more-deve",
+      "titre": "As low-effort AI slop continues to flood Steam, yet more developers announce game delays caused by Valve's growing approval backlog",
+      "url": "https://www.eurogamer.net/steam-game-submission-review-backlog-ai-slop-approval-delays",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 25.5,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/steam-game-submission-review-backlog-ai-slop-approval-delays",
+          "titre": "As low-effort AI slop continues to flood Steam, yet more developers announce game delays caused by Valve's growing approval backlog"
+        }
+      ]
+    },
+    {
+      "id": "cyberpunk-trading-sim-probably-stolen-is-getting-three-big-u",
+      "titre": "Cyberpunk trading sim Probably Stolen is getting three big updates with new starting scenarios - organ trading, junk empires and fine dining",
+      "url": "https://www.rockpapershotgun.com/cyberpunk-trading-sim-probably-stolen-is-getting-three-big-updates-with-new-starting-scenarios-organ-trading-junk-empires-and-fine-dining",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/cyberpunk-trading-sim-probably-stolen-is-getting-three-big-updates-with-new-starting-scenarios-organ-trading-junk-empires-and-fine-dining",
+          "titre": "Cyberpunk trading sim Probably Stolen is getting three big updates with new starting scenarios - organ trading, junk empires and fine dining"
+        }
+      ]
+    },
+    {
+      "id": "stranger-than-heaven-is-so-big-that-all-its-acts-get-a-ps5-t",
+      "titre": "Stranger Than Heaven Is So Big That All Its Acts Get a PS5 Trailer",
+      "url": "https://www.pushsquare.com/news/2026/11/stranger-than-heaven-is-so-big-that-all-its-acts-get-a-ps5-trailer",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/stranger-than-heaven-is-so-big-that-all-its-acts-get-a-ps5-trailer",
+          "titre": "Stranger Than Heaven Is So Big That All Its Acts Get a PS5 Trailer"
+        }
+      ]
+    },
+    {
+      "id": "overwatch-s-creative-director-accidentally-leaks-the-name-of",
+      "titre": "Overwatch's creative director accidentally leaks the name of season 6's upcoming hero and reveals that he 'got the highest scores of any hero that we've tested'",
+      "url": "https://www.pcgamer.com/games/fps/overwatchs-creative-director-accidentally-leaks-the-name-of-season-6s-upcoming-hero-and-reveals-that-he-got-the-highest-scores-of-any-hero-that-weve-tested/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/overwatchs-creative-director-accidentally-leaks-the-name-of-season-6s-upcoming-hero-and-reveals-that-he-got-the-highest-scores-of-any-hero-that-weve-tested/",
+          "titre": "Overwatch's creative director accidentally leaks the name of season 6's upcoming hero and reveals that he 'got the highest scores of any hero that we've tested'"
+        }
+      ]
+    },
+    {
+      "id": "22-years-after-the-hot-coffee-controversy-uk-politician-says",
+      "titre": "22 years after the Hot Coffee controversy, UK politician says Grand Theft Auto 6 is 'something that we can be really proud of'",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/22-years-after-the-hot-coffee-controversy-uk-politician-says-grand-theft-auto-6-is-something-that-we-can-be-really-proud-of/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/22-years-after-the-hot-coffee-controversy-uk-politician-says-grand-theft-auto-6-is-something-that-we-can-be-really-proud-of/",
+          "titre": "22 years after the Hot Coffee controversy, UK politician says Grand Theft Auto 6 is 'something that we can be really proud of'"
+        }
+      ]
+    },
+    {
+      "id": "while-soulslikes-went-bigger-than-big-death-s-door-swung-ope",
+      "titre": "While soulslikes went bigger than big, Death's Door swung open the appeal of a tighter adventure",
+      "url": "https://www.rockpapershotgun.com/have-you-played-deaths-door",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/have-you-played-deaths-door",
+          "titre": "While soulslikes went bigger than big, Death's Door swung open the appeal of a tighter adventure"
+        }
+      ]
+    },
+    {
+      "id": "we-want-to-create-franchises-that-withstand-decades-sony-re",
+      "titre": "'We Want to Create Franchises That Withstand Decades': Sony Reveals Ambition to Dominate Anime",
+      "url": "https://www.pushsquare.com/news/2026/11/we-want-to-create-franchises-that-withstand-decades-sony-reveals-ambition-to-dominate-anime",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/we-want-to-create-franchises-that-withstand-decades-sony-reveals-ambition-to-dominate-anime",
+          "titre": "'We Want to Create Franchises That Withstand Decades': Sony Reveals Ambition to Dominate Anime"
+        }
+      ]
+    },
+    {
+      "id": "6-more-games-receive-ps5-performance-updates-via-qssr-includ",
+      "titre": "6 more games receive PS5 performance updates via QSSR, including Arc Raiders and Control Resonant",
+      "url": "https://www.videogameschronicle.com/news/6-more-games-receive-ps5-performance-updates-via-qssr-including-arc-raiders-and-control-resonant/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/6-more-games-receive-ps5-performance-updates-via-qssr-including-arc-raiders-and-control-resonant/",
+          "titre": "6 more games receive PS5 performance updates via QSSR, including Arc Raiders and Control Resonant"
+        }
+      ]
+    },
+    {
+      "id": "worst-class-ever-takes-asymmetrical-multiplayer-back-to-scho",
+      "titre": "Worst Class Ever takes asymmetrical multiplayer back to school, with a teacher player trying to spot the naughty children among the NPCs",
+      "url": "https://www.rockpapershotgun.com/worst-class-ever-takes-asymmetrical-multiplayer-back-to-school-with-a-teacher-player-trying-to-spot-the-naughty-children-among-the-npcs",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/worst-class-ever-takes-asymmetrical-multiplayer-back-to-school-with-a-teacher-player-trying-to-spot-the-naughty-children-among-the-npcs",
+          "titre": "Worst Class Ever takes asymmetrical multiplayer back to school, with a teacher player trying to spot the naughty children among the NPCs"
+        }
+      ]
+    },
+    {
+      "id": "play-the-blood-of-dawnwalker-again-in-new-game-part-of-ps5-p",
+      "titre": "Play The Blood of Dawnwalker Again in New Game+, Part of PS5 Patch 1.2",
+      "url": "https://www.pushsquare.com/news/2026/11/play-the-blood-of-dawnwalker-again-in-new-gameplus-part-of-ps5-patch-1-2",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/play-the-blood-of-dawnwalker-again-in-new-gameplus-part-of-ps5-patch-1-2",
+          "titre": "Play The Blood of Dawnwalker Again in New Game+, Part of PS5 Patch 1.2"
+        }
+      ]
+    },
+    {
+      "id": "season-10-has-been-a-challenging-one-for-us-marvel-rivals-i",
+      "titre": "'Season 10 has been a challenging one for us': Marvel Rivals is upgrading Storm's summer skin after favouritism complaints",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/season-10-has-been-a-challenging-one-for-us-marvel-rivals-is-upgrading-storms-summer-skin-after-favouritism-complaints/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/third-person-shooter/season-10-has-been-a-challenging-one-for-us-marvel-rivals-is-upgrading-storms-summer-skin-after-favouritism-complaints/",
+          "titre": "'Season 10 has been a challenging one for us': Marvel Rivals is upgrading Storm's summer skin after favouritism complaints"
+        }
+      ]
+    },
+    {
+      "id": "development-secrets-of-dressmaker-ft-ruan-rothmann-sara-laub",
+      "titre": "Development secrets of Dressmaker, ft. Ruan Rothmann & Sara Laubscher",
+      "url": "https://www.gamedeveloper.com/pc/development-secrets-of-dressmaker-ft-ruan-rothmann-sara-laubscher",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/pc/development-secrets-of-dressmaker-ft-ruan-rothmann-sara-laubscher",
+          "titre": "Development secrets of Dressmaker, ft. Ruan Rothmann & Sara Laubscher"
+        }
+      ]
+    },
+    {
+      "id": "crusader-kings-publishers-paradox-announce-ceo-swap-say-they",
+      "titre": "Crusader Kings publishers Paradox announce CEO swap, say they're \"in a strong position at a time when much of the industry is facing major challenges\"",
+      "url": "https://www.rockpapershotgun.com/crusader-kings-publishers-paradox-announce-ceo-swap-say-theyre-in-a-strong-position-at-a-time-when-much-of-the-industry-is-facing-major-challenges",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/crusader-kings-publishers-paradox-announce-ceo-swap-say-theyre-in-a-strong-position-at-a-time-when-much-of-the-industry-is-facing-major-challenges",
+          "titre": "Crusader Kings publishers Paradox announce CEO swap, say they're \"in a strong position at a time when much of the industry is facing major challenges\""
+        }
+      ]
+    },
+    {
+      "id": "god-of-war-sons-of-sparta-really-will-be-ported-backwards-to",
+      "titre": "God of War: Sons of Sparta Really Will Be Ported Backwards to PS4",
+      "url": "https://www.pushsquare.com/news/2026/11/god-of-war-sons-of-sparta-really-will-be-ported-backwards-to-ps4",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 2.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/god-of-war-sons-of-sparta-really-will-be-ported-backwards-to-ps4",
+          "titre": "God of War: Sons of Sparta Really Will Be Ported Backwards to PS4"
+        }
+      ]
+    },
+    {
+      "id": "intel-takes-massive-chunk-out-of-amd-s-desktop-cpu-market-sh",
+      "titre": "Intel takes massive chunk out of AMD's desktop CPU market share in unexpected turnaround - may be due to the red team's dominance in gaming chips, weirdly",
+      "url": "https://www.pcgamer.com/hardware/processors/intel-takes-massive-chunk-out-of-amds-desktop-cpu-market-share-in-unexpected-turnaround-may-be-due-to-the-red-teams-dominance-in-gaming-chips-weirdly/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/processors/intel-takes-massive-chunk-out-of-amds-desktop-cpu-market-share-in-unexpected-turnaround-may-be-due-to-the-red-teams-dominance-in-gaming-chips-weirdly/",
+          "titre": "Intel takes massive chunk out of AMD's desktop CPU market share in unexpected turnaround - may be due to the red team's dominance in gaming chips, weirdly"
+        }
+      ]
+    },
+    {
+      "id": "reddit-tells-me-it-s-not-going-to-make-a-penny-in-affiliates",
+      "titre": "Reddit tells me it’s not going to make a penny in affiliates from Reddit Reviews and is working hard to avoid inauthentic content",
+      "url": "https://www.pcgamer.com/software/reddit-tells-me-its-not-going-to-make-a-penny-in-affiliates-from-reddit-reviews-and-is-working-hard-to-avoid-inauthentic-content/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/reddit-tells-me-its-not-going-to-make-a-penny-in-affiliates-from-reddit-reviews-and-is-working-hard-to-avoid-inauthentic-content/",
+          "titre": "Reddit tells me it’s not going to make a penny in affiliates from Reddit Reviews and is working hard to avoid inauthentic content"
+        }
+      ]
+    },
+    {
+      "id": "how-to-protect-your-ip-against-the-army-of-ai-clones",
+      "titre": "How to protect your IP against the army of AI clones",
+      "url": "https://www.gamesindustry.biz/how-to-protect-your-ip-against-the-army-of-ai-clones",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 2.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/how-to-protect-your-ip-against-the-army-of-ai-clones",
+          "titre": "How to protect your IP against the army of AI clones"
+        }
+      ]
+    },
+    {
+      "id": "base-ps5-s-qssr-enhancer-coming-to-6-more-games-in-spider-ma",
+      "titre": "Base PS5's QSSR Enhancer Coming to 6 More Games, in Spider-Man 2 Now",
+      "url": "https://www.pushsquare.com/news/2026/11/base-ps5s-qssr-enhancer-coming-to-6-more-games-in-spider-man-2-now",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 2.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/base-ps5s-qssr-enhancer-coming-to-6-more-games-in-spider-man-2-now",
+          "titre": "Base PS5's QSSR Enhancer Coming to 6 More Games, in Spider-Man 2 Now"
+        }
+      ]
+    },
+    {
+      "id": "how-origame-digital-are-channelling-and-defacing-lovecraft-o",
+      "titre": "How Origame Digital are channelling and defacing Lovecraft over a trilogy of \"inherently indigenous\" anti-fascist games",
+      "url": "https://www.rockpapershotgun.com/how-origame-digital-are-channelling-and-defacing-lovecraft-over-a-trilogy-of-inherently-indigenous-anti-fascist-games",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 3.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/how-origame-digital-are-channelling-and-defacing-lovecraft-over-a-trilogy-of-inherently-indigenous-anti-fascist-games",
+          "titre": "How Origame Digital are channelling and defacing Lovecraft over a trilogy of \"inherently indigenous\" anti-fascist games"
+        }
+      ]
+    },
+    {
+      "id": "lucky-luke-retro-collection-brings-several-games-to-the-us-f",
+      "titre": "Lucky Luke Retro Collection Brings Several Games to the US for the Very First Time",
+      "url": "https://www.pushsquare.com/news/2026/11/lucky-luke-retro-collection-brings-several-games-to-the-us-for-the-very-first-time",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 3.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/lucky-luke-retro-collection-brings-several-games-to-the-us-for-the-very-first-time",
+          "titre": "Lucky Luke Retro Collection Brings Several Games to the US for the Very First Time"
+        }
+      ]
+    },
+    {
+      "id": "the-digital-fairness-act-is-a-decade-long-bill-coming-due-op",
+      "titre": "The Digital Fairness Act is a decade-long bill coming due | Opinion",
+      "url": "https://www.gamesindustry.biz/the-digital-fairness-act-is-a-decade-long-bill-coming-due-opinion",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 3.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/the-digital-fairness-act-is-a-decade-long-bill-coming-due-opinion",
+          "titre": "The Digital Fairness Act is a decade-long bill coming due | Opinion"
+        }
+      ]
+    },
+    {
+      "id": "the-series-was-in-dire-straits-kit-krysta-recall-zelda-s-pr",
+      "titre": "\"The Series Was In Dire Straits\" - Kit & Krysta Recall Zelda's Pre-BOTW Dark Times",
+      "url": "https://www.nintendolife.com/news/2026/11/the-series-was-in-dire-straits-kit-and-krysta-recall-zeldas-pre-botw-dark-times",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 4.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/the-series-was-in-dire-straits-kit-and-krysta-recall-zeldas-pre-botw-dark-times",
+          "titre": "\"The Series Was In Dire Straits\" - Kit & Krysta Recall Zelda's Pre-BOTW Dark Times"
+        }
+      ]
+    },
+    {
+      "id": "heist-of-a-new-kind-ai-enabled-scam-reportedly-managed-to-s",
+      "titre": "'Heist of a new kind': AI-enabled scam reportedly managed to steal $110 million from French bank",
+      "url": "https://www.pcgamer.com/software/ai/heist-of-a-new-kind-ai-enabled-scam-reportedly-managed-to-steal-usd110-million-from-french-bank/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/heist-of-a-new-kind-ai-enabled-scam-reportedly-managed-to-steal-usd110-million-from-french-bank/",
+          "titre": "'Heist of a new kind': AI-enabled scam reportedly managed to steal $110 million from French bank"
+        }
+      ]
+    },
+    {
+      "id": "wolfenstein-3-and-new-id-software-game-confirmed-as-xbox-bos",
+      "titre": "Wolfenstein 3 and new id Software game confirmed, as Xbox boss somehow unrelatedly shouts about one person soon wielding \"capabilities that once required entire nations\"",
+      "url": "https://www.rockpapershotgun.com/wolfenstein-3-and-new-id-software-game-confirmed-as-xbox-boss-somehow-unrelatedly-shouts-about-one-person-soon-wieldling-capabilities-that-once-required-entire-nations",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 7.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/wolfenstein-3-and-new-id-software-game-confirmed-as-xbox-boss-somehow-unrelatedly-shouts-about-one-person-soon-wieldling-capabilities-that-once-required-entire-nations",
+          "titre": "Wolfenstein 3 and new id Software game confirmed, as Xbox boss somehow unrelatedly shouts about one person soon wielding \"capabilities that once required entire nations\""
+        }
+      ]
+    },
+    {
+      "id": "guide-zelda-ocarina-of-time-walkthrough-switch-2-remake-guid",
+      "titre": "Guide: Zelda: Ocarina Of Time Walkthrough (Switch 2 Remake): Guide To The Main Quest, Side Quests & Collectables",
+      "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-walkthrough-switch-2-remake",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 12.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-walkthrough-switch-2-remake",
+          "titre": "Guide: Zelda: Ocarina Of Time Walkthrough (Switch 2 Remake): Guide To The Main Quest, Side Quests & Collectables"
+        }
+      ]
+    },
+    {
+      "id": "zelda-ocarina-s-redead-were-set-to-be-very-very-scary-in-the",
+      "titre": "Zelda Ocarina's ReDead Were Set To Be \"Very, Very Scary\" In The Remake, But Nintendo Decided To \"Dial It Back\"",
+      "url": "https://www.nintendolife.com/news/2026/11/zelda-ocarinas-redead-were-set-to-be-very-very-scary-in-the-remake-but-nintendo-decided-to-dial-it-back",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 12.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/zelda-ocarinas-redead-were-set-to-be-very-very-scary-in-the-remake-but-nintendo-decided-to-dial-it-back",
+          "titre": "Zelda Ocarina's ReDead Were Set To Be \"Very, Very Scary\" In The Remake, But Nintendo Decided To \"Dial It Back\""
         }
       ]
     },
@@ -294,8 +1026,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 9.4,
-      "chaleur": 7,
+      "heures": 17.6,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
@@ -310,56 +1042,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "palworld-developer-pocketpair-gives-employees-time-off-for-a",
-      "titre": "Palworld developer Pocketpair gives employees time off for 'a 5-day business trip in Vice City when GTA 6 launches'",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/palworld-developer-pocketpair-gives-employees-time-off-for-a-5-day-business-trip-in-vice-city-when-gta-6-launches/",
+      "id": "layoffs-ai-and-next-gen-what-2-600-game-professionals-told-g",
+      "titre": "Layoffs, AI, and next-gen: what 2,600+ game professionals told GDC this year",
+      "url": "https://www.gamedeveloper.com/business/layoffs-ai-and-next-gen-what-2-600-game-professionals-told-gdc-this-year",
       "sources": [
-        "PC Gamer"
+        "Game Developer"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/palworld-developer-pocketpair-gives-employees-time-off-for-a-5-day-business-trip-in-vice-city-when-gta-6-launches/",
-          "titre": "Palworld developer Pocketpair gives employees time off for 'a 5-day business trip in Vice City when GTA 6 launches'"
-        }
-      ]
-    },
-    {
-      "id": "as-low-effort-ai-slop-continues-to-flood-steam-yet-more-deve",
-      "titre": "As low-effort AI slop continues to flood Steam, yet more developers announce game delays caused by Valve's growing approval backlog",
-      "url": "https://www.eurogamer.net/steam-game-submission-review-backlog-ai-slop-approval-delays",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 17.3,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/steam-game-submission-review-backlog-ai-slop-approval-delays",
-          "titre": "As low-effort AI slop continues to flood Steam, yet more developers announce game delays caused by Valve's growing approval backlog"
-        }
-      ]
-    },
-    {
-      "id": "video-sonic-s-memories-and-beyond-35th-anniversary-animation",
-      "titre": "Video: Sonic's 'Memories And Beyond' 35th Anniversary Animation Released",
-      "url": "https://www.nintendolife.com/news/2026/11/video-sonics-memories-and-beyond-35th-anniversary-animation-released",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
+      "heures": 24.6,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/video-sonics-memories-and-beyond-35th-anniversary-animation-released",
-          "titre": "Video: Sonic's 'Memories And Beyond' 35th Anniversary Animation Released"
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/layoffs-ai-and-next-gen-what-2-600-game-professionals-told-gdc-this-year",
+          "titre": "Layoffs, AI, and next-gen: what 2,600+ game professionals told GDC this year"
         }
       ]
     },
@@ -371,8 +1067,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.5,
-      "chaleur": 6,
+      "heures": 14.7,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -384,198 +1080,18 @@ const VEILLE = {
     {
       "id": "21-original-xbox-games-are-now-on-pc-via-backward-compatibil",
       "titre": "21 original Xbox games are now on PC via backward compatibility",
-      "url": "https://www.videogameschronicle.com/uncategorised/21-original-xbox-games-are-now-on-pc-via-backward-compatibility/",
+      "url": "https://www.videogameschronicle.com/news/21-original-xbox-games-are-now-on-pc-via-backward-compatibility/",
       "sources": [
         "VGC"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 6,
+      "heures": 19.6,
+      "chaleur": 5,
       "liens": [
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/uncategorised/21-original-xbox-games-are-now-on-pc-via-backward-compatibility/",
+          "url": "https://www.videogameschronicle.com/news/21-original-xbox-games-are-now-on-pc-via-backward-compatibility/",
           "titre": "21 original Xbox games are now on PC via backward compatibility"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-launch-leads-to-special-holiday-for-all-palworld-dev-e",
-      "titre": "GTA 6 Launch Leads to Special Holiday for All Palworld Dev Employees",
-      "url": "https://www.pushsquare.com/news/2026/11/gta-6-launch-leads-to-special-holiday-for-all-palworld-dev-employees",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 14.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/gta-6-launch-leads-to-special-holiday-for-all-palworld-dev-employees",
-          "titre": "GTA 6 Launch Leads to Special Holiday for All Palworld Dev Employees"
-        }
-      ]
-    },
-    {
-      "id": "warhammer-40-000-darktide-s-next-class-is-the-sisters-noviti",
-      "titre": "Warhammer 40,000: Darktide's next class is the Sisters Novitiate, a group who love staking and burning people for the God-Emperor, and its out next month",
-      "url": "https://www.rockpapershotgun.com/warhammer-40000-darktides-next-class-is-the-sisters-novitiate-a-group-who-love-staking-and-burning-people-for-the-god-emperor-and-its-out-next-month",
-      "sources": [
-        "PC Gamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 15.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/warhammer-40000-darktides-next-class-is-the-sisters-novitiate-a-group-who-love-staking-and-burning-people-for-the-god-emperor-and-its-out-next-month",
-          "titre": "Warhammer 40,000: Darktide's next class is the Sisters Novitiate, a group who love staking and burning people for the God-Emperor, and its out next month"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/darktides-getting-a-sisters-of-battle-class-on-december-7/",
-          "titre": "Darktide's getting a Sisters of Battle class on December 7"
-        }
-      ]
-    },
-    {
-      "id": "pok-mon-legends-z-a-players-can-claim-2-free-shiny-legendari",
-      "titre": "Pokémon Legends: Z-A players can claim 2 free shiny legendaries",
-      "url": "https://www.videogameschronicle.com/news/pokemon-legends-z-a-players-can-claim-2-free-shiny-legendaries/",
-      "sources": [
-        "Nintendo Life",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 15.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/pokemon-legends-z-a-players-can-claim-2-free-shiny-legendaries/",
-          "titre": "Pokémon Legends: Z-A players can claim 2 free shiny legendaries"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/nab-a-free-shiny-legendary-with-pokemon-legends-z-as-new-limited-time-mystery-gift-code",
-          "titre": "Nab A Free Shiny Legendary With Pokémon Legends: Z-A's New Limited-Time Mystery Gift Code"
-        }
-      ]
-    },
-    {
-      "id": "everyone-is-franklin-in-gta-5-now",
-      "titre": "Everyone is Franklin in GTA 5 now",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/everyone-is-franklin-in-gta-5-now/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 15.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/everyone-is-franklin-in-gta-5-now/",
-          "titre": "Everyone is Franklin in GTA 5 now"
-        }
-      ]
-    },
-    {
-      "id": "layoffs-ai-and-next-gen-what-2-600-game-professionals-told-g",
-      "titre": "Layoffs, AI, and next-gen: what 2,600+ game professionals told GDC this year",
-      "url": "https://www.gamedeveloper.com/business/layoffs-ai-and-next-gen-what-2-600-game-professionals-told-gdc-this-year",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 16.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/layoffs-ai-and-next-gen-what-2-600-game-professionals-told-gdc-this-year",
-          "titre": "Layoffs, AI, and next-gen: what 2,600+ game professionals told GDC this year"
-        }
-      ]
-    },
-    {
-      "id": "these-new-gta-6-clips-look-so-real-fans-can-t-believe-it-s-a",
-      "titre": "These New GTA 6 Clips Look So Real, Fans Can't Believe It's All In-Game Footage",
-      "url": "https://www.pushsquare.com/news/2026/11/these-new-gta-6-clips-look-so-real-fans-cant-believe-its-all-in-game-footage",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 16.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/these-new-gta-6-clips-look-so-real-fans-cant-believe-its-all-in-game-footage",
-          "titre": "These New GTA 6 Clips Look So Real, Fans Can't Believe It's All In-Game Footage"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-adds-more-dates-for-the-zelda-40th-anniversary-conc",
-      "titre": "Nintendo Adds More Dates For The Zelda 40th Anniversary Concert Tour",
-      "url": "https://www.nintendolife.com/news/2026/11/nintendo-adds-more-dates-for-the-zelda-40th-anniversary-concert-tour",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 17.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/nintendo-adds-more-dates-for-the-zelda-40th-anniversary-concert-tour",
-          "titre": "Nintendo Adds More Dates For The Zelda 40th Anniversary Concert Tour"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-map-seemingly-leaks-at-selfridges-merch-drop",
-      "titre": "GTA 6 map seemingly leaks at Selfridges merch drop",
-      "url": "https://www.videogameschronicle.com/news/gta-6-map-seemingly-leaks-at-selfridges-merch-drop/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 17.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/gta-6-map-seemingly-leaks-at-selfridges-merch-drop/",
-          "titre": "GTA 6 map seemingly leaks at Selfridges merch drop"
-        }
-      ]
-    },
-    {
-      "id": "the-witcher-3-uses-gen-ai-to-enhance-geralt-s-polish-voice-f",
-      "titre": "The Witcher 3 uses gen-AI to enhance Geralt's Polish voice following actor's stroke - \"I do think this is one of those ways where you can use AI ethically\"",
-      "url": "https://www.eurogamer.net/cd-projekt-red-geralt-gen-ai-voice-polish-jacek-rozenek",
-      "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 19.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/cd-projekt-red-geralt-gen-ai-voice-polish-jacek-rozenek",
-          "titre": "The Witcher 3 uses gen-AI to enhance Geralt's Polish voice following actor's stroke - \"I do think this is one of those ways where you can use AI ethically\""
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/one-of-those-ways-where-you-can-use-ai-ethically-cdpr-have-modified-geralts-polish-voice-in-the-witcher-3-songs-of-the-past-with-genai-due-to-actors-stroke",
-          "titre": "\"One of those ways where you can use AI ethically\": CDPR have modified Geralt's Polish voice in The Witcher 3: Songs of the Past with genAI, due to actor's stroke"
         }
       ]
     },
@@ -587,7 +1103,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 22.1,
       "chaleur": 5,
       "liens": [
         {
@@ -605,31 +1121,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 23.1,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/11/nintendos-delightful-my-mario-range-is-now-available-online-us",
           "titre": "Nintendo's Delightful 'My Mario' Range Is Now Available Online (US)"
-        }
-      ]
-    },
-    {
-      "id": "xbox-ceo-looks-to-the-future-as-microsoft-s-console-turns-25",
-      "titre": "Xbox CEO looks to the future as Microsoft's console turns 25: 'A single person will soon be able to wield capabilities that once required entire nations'",
-      "url": "https://www.pcgamer.com/software/ai/xbox-ceo-looks-to-the-future-as-microsofts-console-turns-25-a-single-person-will-soon-be-able-to-wield-capabilities-that-once-required-entire-nations/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 14.9,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/xbox-ceo-looks-to-the-future-as-microsofts-console-turns-25-a-single-person-will-soon-be-able-to-wield-capabilities-that-once-required-entire-nations/",
-          "titre": "Xbox CEO looks to the future as Microsoft's console turns 25: 'A single person will soon be able to wield capabilities that once required entire nations'"
         }
       ]
     },
@@ -641,7 +1139,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.9,
+      "heures": 24.1,
       "chaleur": 5,
       "liens": [
         {
@@ -659,7 +1157,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.9,
+      "heures": 24.1,
       "chaleur": 5,
       "liens": [
         {
@@ -670,547 +1168,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "talking-point-what-s-your-favourite-tiny-tweak-in-zelda-ocar",
-      "titre": "Talking Point: What's Your Favourite Tiny Tweak In Zelda: Ocarina Of Time?",
-      "url": "https://www.nintendolife.com/features/talking-point-whats-your-favourite-tiny-tweak-in-zelda-ocarina-of-time",
+      "id": "amd-has-patched-its-ssd-eating-gpu-driver-bug-with-an-option",
+      "titre": "AMD has patched its SSD-eating GPU driver bug with an optional Adrenalin update for RX 7000-series graphics cards and above",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-has-patched-its-ssd-eating-gpu-driver-bug-with-an-optional-adrenalin-update-for-rx-7000-series-graphics-cards-and-above/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.4,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/talking-point-whats-your-favourite-tiny-tweak-in-zelda-ocarina-of-time",
-          "titre": "Talking Point: What's Your Favourite Tiny Tweak In Zelda: Ocarina Of Time?"
-        }
-      ]
-    },
-    {
-      "id": "zelda-oot-remake-all-piece-of-heart-locations",
-      "titre": "Zelda OOT Remake: All Piece of Heart locations",
-      "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-all-piece-of-heart-locations/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 18.3,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-all-piece-of-heart-locations/",
-          "titre": "Zelda OOT Remake: All Piece of Heart locations"
-        }
-      ]
-    },
-    {
-      "id": "japanese-charts-zelda-ocarina-of-time-physical-takes-the-lio",
-      "titre": "Japanese Charts: Zelda: Ocarina Of Time Physical Takes The Lion's Share Of Its Japanese Sales",
-      "url": "https://www.nintendolife.com/news/2026/11/japanese-charts-zelda-ocarina-of-time-physical-takes-the-lions-share-of-its-japanese-sales",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 18.7,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/japanese-charts-zelda-ocarina-of-time-physical-takes-the-lions-share-of-its-japanese-sales",
-          "titre": "Japanese Charts: Zelda: Ocarina Of Time Physical Takes The Lion's Share Of Its Japanese Sales"
-        }
-      ]
-    },
-    {
-      "id": "cosy-train-sim-station-to-station-arrives-on-switch-2-later",
-      "titre": "Cosy Train Sim 'Station To Station' Arrives On Switch 2 Later This Month",
-      "url": "https://www.nintendolife.com/news/2026/11/cosy-train-sim-station-to-station-arrives-on-switch-2-later-this-month",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 19.3,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/cosy-train-sim-station-to-station-arrives-on-switch-2-later-this-month",
-          "titre": "Cosy Train Sim 'Station To Station' Arrives On Switch 2 Later This Month"
-        }
-      ]
-    },
-    {
-      "id": "nvidia-board-reportedly-prepare-to-give-ceo-jensen-huang-the",
-      "titre": "Nvidia board reportedly prepare to give CEO Jensen Huang the boot, as second alleged affair thrusts him closer to seriously lusty Crusader Kings playthrough territory",
-      "url": "https://www.rockpapershotgun.com/nvidia-board-reportedly-prepare-to-give-ceo-jensen-huang-the-boot-as-second-alleged-affair-thrusts-him-closer-to-seriously-lusty-crusader-kings-playthrough-territory",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 20.8,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/nvidia-board-reportedly-prepare-to-give-ceo-jensen-huang-the-boot-as-second-alleged-affair-thrusts-him-closer-to-seriously-lusty-crusader-kings-playthrough-territory",
-          "titre": "Nvidia board reportedly prepare to give CEO Jensen Huang the boot, as second alleged affair thrusts him closer to seriously lusty Crusader Kings playthrough territory"
-        }
-      ]
-    },
-    {
-      "id": "doom-the-dark-ages-and-horde-mode-is-a-match-made-in-heaven",
-      "titre": "DOOM: The Dark Ages and Horde Mode Is a Match Made in Heaven",
-      "url": "https://www.pushsquare.com/news/2026/11/doom-the-dark-ages-and-horde-mode-is-a-match-made-in-heaven",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 9.2,
+      "heures": 4.9,
       "chaleur": 4,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/doom-the-dark-ages-and-horde-mode-is-a-match-made-in-heaven",
-          "titre": "DOOM: The Dark Ages and Horde Mode Is a Match Made in Heaven"
-        }
-      ]
-    },
-    {
-      "id": "slay-the-spire-2-s-biggest-beta-patch-yet-adds-its-first-new",
-      "titre": "Slay the Spire 2's \"biggest\" beta patch yet adds its first new early access and foolish character, two game modes, and more tweaks than you can shake a stick at",
-      "url": "https://www.rockpapershotgun.com/slay-the-spire-2s-biggest-beta-patch-yet-adds-its-first-new-early-access-and-foolish-character-two-game-modes-and-more-tweaks-than-you-can-shake-a-stick-at",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/slay-the-spire-2s-biggest-beta-patch-yet-adds-its-first-new-early-access-and-foolish-character-two-game-modes-and-more-tweaks-than-you-can-shake-a-stick-at",
-          "titre": "Slay the Spire 2's \"biggest\" beta patch yet adds its first new early access and foolish character, two game modes, and more tweaks than you can shake a stick at"
-        }
-      ]
-    },
-    {
-      "id": "cover-your-robot-body-in-magical-fungus-aplenty-and-galavant",
-      "titre": "Cover your robot body in magical fungus aplenty and galavant across a mystical, Soulslike world in MycoRelic, now out in 1.0",
-      "url": "https://www.rockpapershotgun.com/cover-your-robot-body-in-magical-fungus-aplenty-and-galavant-across-a-mystical-soulslike-world-in-mycorelic-now-out-in-10",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/cover-your-robot-body-in-magical-fungus-aplenty-and-galavant-across-a-mystical-soulslike-world-in-mycorelic-now-out-in-10",
-          "titre": "Cover your robot body in magical fungus aplenty and galavant across a mystical, Soulslike world in MycoRelic, now out in 1.0"
-        }
-      ]
-    },
-    {
-      "id": "barbie-rewind-out-now-invites-you-to-take-a-trip-down-memory",
-      "titre": "Barbie Rewind, out now, invites you to take a trip down memory lane with a whole bunch of life in plastic classics, and one game that was previously unreleased",
-      "url": "https://www.rockpapershotgun.com/barbie-rewind-out-now-invites-you-to-take-a-trip-down-memory-lane-with-a-whole-bunch-of-life-in-plastic-classics-and-one-game-that-was-previously-unreleased",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 13.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/barbie-rewind-out-now-invites-you-to-take-a-trip-down-memory-lane-with-a-whole-bunch-of-life-in-plastic-classics-and-one-game-that-was-previously-unreleased",
-          "titre": "Barbie Rewind, out now, invites you to take a trip down memory lane with a whole bunch of life in plastic classics, and one game that was previously unreleased"
-        }
-      ]
-    },
-    {
-      "id": "jeff-kaplan-says-there-was-constant-fighting-between-him-and",
-      "titre": "Jeff Kaplan says there was ‘constant fighting’ between him and Blizzard years before he left",
-      "url": "https://www.videogameschronicle.com/news/jeff-kaplan-says-there-was-constant-fighting-between-him-and-blizzard-years-before-he-left/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 13.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/jeff-kaplan-says-there-was-constant-fighting-between-him-and-blizzard-years-before-he-left/",
-          "titre": "Jeff Kaplan says there was ‘constant fighting’ between him and Blizzard years before he left"
-        }
-      ]
-    },
-    {
-      "id": "tripwire-interactive-lays-off-workers-after-announcing-new-p",
-      "titre": "Tripwire Interactive lays off workers after announcing new publishing initiative",
-      "url": "https://www.gamedeveloper.com/business/tripwire-interactive-layoffs-come-after-announcing-new-publishing-initiative",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 14.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/tripwire-interactive-layoffs-come-after-announcing-new-publishing-initiative",
-          "titre": "Tripwire Interactive lays off workers after announcing new publishing initiative"
-        }
-      ]
-    },
-    {
-      "id": "disney-bringing-game-reveals-to-the-game-awards-next-month",
-      "titre": "Disney Bringing Game Reveals to The Game Awards Next Month",
-      "url": "https://www.pushsquare.com/news/2026/11/disney-bringing-game-reveals-to-the-game-awards-next-month",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 14.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/disney-bringing-game-reveals-to-the-game-awards-next-month",
-          "titre": "Disney Bringing Game Reveals to The Game Awards Next Month"
-        }
-      ]
-    },
-    {
-      "id": "genai-using-developers-say-they-mostly-employ-it-for-researc",
-      "titre": "GenAI-using developers say they mostly employ it for 'research and brainstorming'",
-      "url": "https://www.gamedeveloper.com/production/genai-using-developers-say-they-mostly-use-it-for-research-and-brainstorming-",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 15.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/production/genai-using-developers-say-they-mostly-use-it-for-research-and-brainstorming-",
-          "titre": "GenAI-using developers say they mostly employ it for 'research and brainstorming'"
-        }
-      ]
-    },
-    {
-      "id": "the-pok-mon-company-is-giving-away-free-in-game-pokopia-furn",
-      "titre": "The Pokémon Company Is Giving Away Free In-Game Pokopia Furniture, And It's Adorable",
-      "url": "https://www.nintendolife.com/news/2026/11/the-pokemon-company-is-giving-away-free-in-game-pokopia-furniture-and-its-adorable",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 15.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/the-pokemon-company-is-giving-away-free-in-game-pokopia-furniture-and-its-adorable",
-          "titre": "The Pokémon Company Is Giving Away Free In-Game Pokopia Furniture, And It's Adorable"
-        }
-      ]
-    },
-    {
-      "id": "now-jensen-s-gone-intel-s-trouble-finding-a-steady-ceo-shoul",
-      "titre": "Now Jensen's gone, Intel’s trouble finding a steady CEO should serve as cautionary tale to Nvidia’s board",
-      "url": "https://www.pcgamer.com/hardware/now-jensens-gone-intels-trouble-finding-a-steady-ceo-should-serve-as-cautionary-tale-to-nvidias-board/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 15.6,
-      "chaleur": 3,
-      "liens": [
-        {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/now-jensens-gone-intels-trouble-finding-a-steady-ceo-should-serve-as-cautionary-tale-to-nvidias-board/",
-          "titre": "Now Jensen's gone, Intel’s trouble finding a steady CEO should serve as cautionary tale to Nvidia’s board"
-        }
-      ]
-    },
-    {
-      "id": "conan-the-black-pyramid-shoves-the-titular-barbarian-into-a",
-      "titre": "Conan: The Black Pyramid shoves the titular barbarian into a very Hades-inspired action roguelite with the addition of a few other familiar heroes",
-      "url": "https://www.rockpapershotgun.com/conan-the-black-pyramid-shoves-the-titular-barbarian-into-a-very-hades-inspired-action-roguelite-with-the-addition-of-a-few-other-familiar-heroes",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 15.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/conan-the-black-pyramid-shoves-the-titular-barbarian-into-a-very-hades-inspired-action-roguelite-with-the-addition-of-a-few-other-familiar-heroes",
-          "titre": "Conan: The Black Pyramid shoves the titular barbarian into a very Hades-inspired action roguelite with the addition of a few other familiar heroes"
-        }
-      ]
-    },
-    {
-      "id": "after-jensen-huang-s-resignation-from-nvidia-it-s-all-praise",
-      "titre": "After Jensen Huang's resignation from Nvidia, it's all praise or political finger-wagging about the ex-CEO, with little in between",
-      "url": "https://www.pcgamer.com/hardware/after-jensen-huangs-resignation-from-nvidia-its-all-praise-or-political-finger-wagging-about-the-ex-ceo-with-little-in-between/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 15.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/after-jensen-huangs-resignation-from-nvidia-its-all-praise-or-political-finger-wagging-about-the-ex-ceo-with-little-in-between/",
-          "titre": "After Jensen Huang's resignation from Nvidia, it's all praise or political finger-wagging about the ex-CEO, with little in between"
-        }
-      ]
-    },
-    {
-      "id": "a-second-2026-state-of-the-game-industry-survey-it-can-happe",
-      "titre": "A second 2026 State of the Game Industry survey? It can happen! ft. Beth Elderkin & Imran Khan",
-      "url": "https://www.gamedeveloper.com/business/a-second-2026-state-of-the-game-industry-survey-it-can-happen-ft-beth-elderkin-imran-khan",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 15.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/a-second-2026-state-of-the-game-industry-survey-it-can-happen-ft-beth-elderkin-imran-khan",
-          "titre": "A second 2026 State of the Game Industry survey? It can happen! ft. Beth Elderkin & Imran Khan"
-        }
-      ]
-    },
-    {
-      "id": "mysterious-bandai-namco-trademark-has-people-talking-about-a",
-      "titre": "Mysterious Bandai Namco Trademark Has People Talking About a New Fighting Game",
-      "url": "https://www.pushsquare.com/news/2026/11/mysterious-bandai-namco-trademark-has-people-talking-about-a-new-fighting-game",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 15.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/mysterious-bandai-namco-trademark-has-people-talking-about-a-new-fighting-game",
-          "titre": "Mysterious Bandai Namco Trademark Has People Talking About a New Fighting Game"
-        }
-      ]
-    },
-    {
-      "id": "next-nvidia-ceo-has-to-have-national-security-as-a-top-prior",
-      "titre": "Next Nvidia CEO has to have national security as a 'top priority' says chairman of US Gov committee on China – claims Huang departure 'could have been avoided'",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/next-nvidia-ceo-has-to-have-national-security-as-a-top-priority-says-chairman-of-us-gov-committee-on-china-claims-huang-departure-could-have-been-avoided/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 16.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/next-nvidia-ceo-has-to-have-national-security-as-a-top-priority-says-chairman-of-us-gov-committee-on-china-claims-huang-departure-could-have-been-avoided/",
-          "titre": "Next Nvidia CEO has to have national security as a 'top priority' says chairman of US Gov committee on China – claims Huang departure 'could have been avoided'"
-        }
-      ]
-    },
-    {
-      "id": "i-m-a-big-zach-cregger-fan-angela-sant-albano-gushes-about",
-      "titre": "'I'm a big Zach Cregger fan': Angela Sant'Albano gushes about the Resident Evil movie and likens Bryan to her own Grace Ashcroft",
-      "url": "https://www.pcgamer.com/games/resident-evil/im-a-big-zach-cregger-fan-angela-santalbano-gushes-about-the-resident-evil-movie-and-likens-bryan-to-her-own-grace-ashcroft/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 16.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/resident-evil/im-a-big-zach-cregger-fan-angela-santalbano-gushes-about-the-resident-evil-movie-and-likens-bryan-to-her-own-grace-ashcroft/",
-          "titre": "'I'm a big Zach Cregger fan': Angela Sant'Albano gushes about the Resident Evil movie and likens Bryan to her own Grace Ashcroft"
-        }
-      ]
-    },
-    {
-      "id": "cartoon-styled-lite-vania-lola-s-familiars-prison-of-argnoh",
-      "titre": "Cartoon-styled \"lite-vania\" Lola's Familiars: Prison of Argnoh will have you springing yourself, and your summoned pals, from magic jail",
-      "url": "https://www.rockpapershotgun.com/cartoon-styled-lite-vania-lolas-familiars-prison-of-argnoh-will-have-you-springing-yourself-and-your-summoned-pals-from-magic-jail",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 16.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/cartoon-styled-lite-vania-lolas-familiars-prison-of-argnoh-will-have-you-springing-yourself-and-your-summoned-pals-from-magic-jail",
-          "titre": "Cartoon-styled \"lite-vania\" Lola's Familiars: Prison of Argnoh will have you springing yourself, and your summoned pals, from magic jail"
-        }
-      ]
-    },
-    {
-      "id": "gdc-s-mark-deloura-addresses-the-event-s-dip-in-attendance-i",
-      "titre": "GDC's Mark DeLoura addresses the event's dip in attendance in 2026 as he details the planned changes for 2027",
-      "url": "https://www.gamesindustry.biz/gdcs-mark-deloura-addresses-the-events-dip-in-attendance-in-2026-as-he-details-the-planned-changes-for-2027",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 16.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/gdcs-mark-deloura-addresses-the-events-dip-in-attendance-in-2026-as-he-details-the-planned-changes-for-2027",
-          "titre": "GDC's Mark DeLoura addresses the event's dip in attendance in 2026 as he details the planned changes for 2027"
-        }
-      ]
-    },
-    {
-      "id": "who-is-colette-kress-nvidia-s-new-interim-ceo",
-      "titre": "Who is Colette Kress, Nvidia's new interim CEO?",
-      "url": "https://www.pcgamer.com/hardware/who-is-colette-kress-nvidias-new-interim-ceo/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 16.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/who-is-colette-kress-nvidias-new-interim-ceo/",
-          "titre": "Who is Colette Kress, Nvidia's new interim CEO?"
-        }
-      ]
-    },
-    {
-      "id": "world-of-warcraft-forever-players-in-australia-and-new-zeala",
-      "titre": "World of Warcraft: Forever players in Australia and New Zealand are struggling to get sunlight, and not for the usual MMO reasons",
-      "url": "https://www.eurogamer.net/world-of-warcraft-forever-oceania-sunlight",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 16.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/world-of-warcraft-forever-oceania-sunlight",
-          "titre": "World of Warcraft: Forever players in Australia and New Zealand are struggling to get sunlight, and not for the usual MMO reasons"
-        }
-      ]
-    },
-    {
-      "id": "romancing-saga-3-s-great-looking-ps5-remake-moves-its-releas",
-      "titre": "Romancing SaGa 3's Great Looking PS5 Remake Moves Its Release Date Away from Persona 4 Revival",
-      "url": "https://www.pushsquare.com/news/2026/11/romancing-saga-3s-great-looking-ps5-remake-moves-its-release-date-away-from-persona-4-revival",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 16.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/romancing-saga-3s-great-looking-ps5-remake-moves-its-release-date-away-from-persona-4-revival",
-          "titre": "Romancing SaGa 3's Great Looking PS5 Remake Moves Its Release Date Away from Persona 4 Revival"
-        }
-      ]
-    },
-    {
-      "id": "amd-sony-mark-ps5-s-100-million-unit-milestone-with-signed-c",
-      "titre": "AMD, Sony Mark PS5's 100 Million Unit Milestone with Signed Consoles",
-      "url": "https://www.pushsquare.com/news/2026/11/amd-sony-mark-ps5s-100-million-unit-milestone-with-signed-consoles",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 17.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/amd-sony-mark-ps5s-100-million-unit-milestone-with-signed-consoles",
-          "titre": "AMD, Sony Mark PS5's 100 Million Unit Milestone with Signed Consoles"
-        }
-      ]
-    },
-    {
-      "id": "it-s-about-giving-more-great-games-a-chance-why-launchable",
-      "titre": "\"It's about giving more great games a chance\" – Why Launchable thinks it can help more independent studios reach the market with its shared success model",
-      "url": "https://www.gamesindustry.biz/its-about-giving-more-great-games-a-chance-why-launchable-thinks-it-can-help-more-independent-studios-reach-the-market-with-its-shared-success-model",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 17.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/its-about-giving-more-great-games-a-chance-why-launchable-thinks-it-can-help-more-independent-studios-reach-the-market-with-its-shared-success-model",
-          "titre": "\"It's about giving more great games a chance\" – Why Launchable thinks it can help more independent studios reach the market with its shared success model"
-        }
-      ]
-    },
-    {
-      "id": "the-hills-are-alive-with-the-sound-of-fury-a-fantasy-musical",
-      "titre": "The hills are alive with The Sound of Fury, a fantasy musical hack 'n' slash about weaponising pianos to fight the Devil",
-      "url": "https://www.rockpapershotgun.com/the-hills-are-alive-with-the-sound-of-fury-a-fantasy-musical-hack-n-slash-about-weaponising-pianos-to-fight-the-devil",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 17.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-hills-are-alive-with-the-sound-of-fury-a-fantasy-musical-hack-n-slash-about-weaponising-pianos-to-fight-the-devil",
-          "titre": "The hills are alive with The Sound of Fury, a fantasy musical hack 'n' slash about weaponising pianos to fight the Devil"
-        }
-      ]
-    },
-    {
-      "id": "mmo-horizon-steel-frontiers-nearing-completion-nc-discussing",
-      "titre": "MMO Horizon Steel Frontiers 'Nearing Completion', NC Discussing Release Timing with Sony",
-      "url": "https://www.pushsquare.com/news/2026/11/mmo-horizon-steel-frontiers-nearing-completion-nc-discussing-release-timing-with-sony",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 18.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/mmo-horizon-steel-frontiers-nearing-completion-nc-discussing-release-timing-with-sony",
-          "titre": "MMO Horizon Steel Frontiers 'Nearing Completion', NC Discussing Release Timing with Sony"
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-has-patched-its-ssd-eating-gpu-driver-bug-with-an-optional-adrenalin-update-for-rx-7000-series-graphics-cards-and-above/",
+          "titre": "AMD has patched its SSD-eating GPU driver bug with an optional Adrenalin update for RX 7000-series graphics cards and above"
         }
       ]
     }
   ],
   "alertes": [
-    "Nvidia's Jensen Huang resigns as CEO amid reports of affairs with alleged Chinese spy and two employees"
+    "'Clear national security concerns that need to be addressed immediately': new letters to Jensen Huang from Congress strike a tougher tone for the ex-Nvidia CEO",
+    "PSA: GTA 6 Does Not Have Online Multiplayer at Launch"
   ]
 };
