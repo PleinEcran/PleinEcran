@@ -1,8 +1,32 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "14/11/2026 à 14h58",
+  "collecte": "14/11/2026 à 20h38",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "psa-gta-6-does-not-have-online-multiplayer-at-launch",
+      "titre": "PSA: GTA 6 Does Not Have Online Multiplayer at Launch",
+      "url": "https://www.pushsquare.com/news/2026/11/psa-gta-6-does-not-have-online-multiplayer-at-launch",
+      "sources": [
+        "Eurogamer",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 28.6,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/psa-gta-6-does-not-have-online-multiplayer-at-launch",
+          "titre": "PSA: GTA 6 Does Not Have Online Multiplayer at Launch"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-map-leak-online-collectors-edition",
+          "titre": "One week from launch, GTA 6's physical map reportedly leaks online thanks to the £350 collector's edition on show in a UK department store"
+        }
+      ]
+    },
     {
       "id": "poll-are-you-hyped-for-november-s-10-new-ps-plus-games",
       "titre": "Poll: Are You Hyped for November's 10 New PS Plus Games?",
@@ -13,8 +37,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 2.0,
-      "chaleur": 12,
+      "heures": 7.6,
+      "chaleur": 10,
       "liens": [
         {
           "source": "Push Square",
@@ -42,8 +66,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 3.0,
-      "chaleur": 12,
+      "heures": 8.6,
+      "chaleur": 10,
       "liens": [
         {
           "source": "Push Square",
@@ -58,6 +82,48 @@ const VEILLE = {
       ]
     },
     {
+      "id": "congratulations-to-people-who-feel-mean-shooting-random-npcs",
+      "titre": "Congratulations to people who feel mean shooting random NPCs, because GTA 6 tries \"to provide mechanisms that encourage\" empathy",
+      "url": "https://www.rockpapershotgun.com/congratulations-to-people-who-feel-mean-shooting-random-npcs-because-gta-6-tries-to-provide-mechanisms-that-encourage-empathy",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/congratulations-to-people-who-feel-mean-shooting-random-npcs-because-gta-6-tries-to-provide-mechanisms-that-encourage-empathy",
+          "titre": "Congratulations to people who feel mean shooting random NPCs, because GTA 6 tries \"to provide mechanisms that encourage\" empathy"
+        }
+      ]
+    },
+    {
+      "id": "missed-something-on-your-first-go-around-the-blood-of-dawnwa",
+      "titre": "Missed something on your first go around The Blood of Dawnwalker? I've got good news, as next week's update adds in new game plus",
+      "url": "https://www.rockpapershotgun.com/missed-something-on-your-first-go-around-the-blood-of-dawnwalker-ive-got-good-news-as-next-weeks-update-adds-in-new-game-plus",
+      "sources": [
+        "Eurogamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 3.8,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/missed-something-on-your-first-go-around-the-blood-of-dawnwalker-ive-got-good-news-as-next-weeks-update-adds-in-new-game-plus",
+          "titre": "Missed something on your first go around The Blood of Dawnwalker? I've got good news, as next week's update adds in new game plus"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/blood-of-dawnwalker-new-game-plus",
+          "titre": "The Blood of Dawnwalker is getting a New Game Plus mode in next week's update"
+        }
+      ]
+    },
+    {
       "id": "rumour-rainbow-six-vegas-3-now-in-the-works-at-ubisoft",
       "titre": "Rumour: Rainbow Six: Vegas 3 Now in the Works at Ubisoft",
       "url": "https://www.pushsquare.com/news/2026/11/rumour-rainbow-six-vegas-3-now-in-the-works-at-ubisoft",
@@ -66,8 +132,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 1.5,
-      "chaleur": 11,
+      "heures": 7.1,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Push Square",
@@ -90,8 +156,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 2.1,
-      "chaleur": 11,
+      "heures": 7.8,
+      "chaleur": 9,
       "liens": [
         {
           "source": "PC Gamer",
@@ -106,30 +172,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "psa-gta-6-does-not-have-online-multiplayer-at-launch",
-      "titre": "PSA: GTA 6 Does Not Have Online Multiplayer at Launch",
-      "url": "https://www.pushsquare.com/news/2026/11/psa-gta-6-does-not-have-online-multiplayer-at-launch",
-      "sources": [
-        "Eurogamer",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 23.0,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/psa-gta-6-does-not-have-online-multiplayer-at-launch",
-          "titre": "PSA: GTA 6 Does Not Have Online Multiplayer at Launch"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-map-leak-online-collectors-edition",
-          "titre": "One week from launch, GTA 6's physical map reportedly leaks online thanks to the £350 collector's edition on show in a UK department store"
-        }
-      ]
-    },
-    {
       "id": "the-game-awards-2026-nominees-to-be-announced-next-week-zeld",
       "titre": "The Game Awards 2026 Nominees To Be Announced Next Week, Zelda And GTA 6 Eligible",
       "url": "https://www.nintendolife.com/news/2026/11/the-game-awards-2026-nominees-to-be-announced-next-week-zelda-and-gta-6-eligible",
@@ -138,7 +180,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 14.0,
+      "heures": 19.6,
       "chaleur": 9,
       "liens": [
         {
@@ -154,24 +196,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "opinion-nintendo-made-ocarina-of-time-s-best-moment-even-bet",
-      "titre": "Opinion: Nintendo Made Ocarina Of Time's Best Moment Even Better",
-      "url": "https://www.nintendolife.com/features/opinion-nintendo-made-ocarina-of-times-best-moment-even-better",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 1.0,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/opinion-nintendo-made-ocarina-of-times-best-moment-even-better",
-          "titre": "Opinion: Nintendo Made Ocarina Of Time's Best Moment Even Better"
-        }
-      ]
-    },
-    {
       "id": "8bitdo-ultimate-3e-wireless-controller-review",
       "titre": "8BitDo Ultimate 3E wireless controller review",
       "url": "https://www.pcgamer.com/hardware/controllers/8bitdo-ultimate-3e-review/",
@@ -180,7 +204,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 21.6,
+      "heures": 27.3,
       "chaleur": 8,
       "liens": [
         {
@@ -203,7 +227,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 10.6,
       "chaleur": 7,
       "liens": [
         {
@@ -221,7 +245,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 26.6,
+      "heures": 32.3,
       "chaleur": 7,
       "liens": [
         {
@@ -239,7 +263,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 27.0,
+      "heures": 32.6,
       "chaleur": 7,
       "liens": [
         {
@@ -250,128 +274,74 @@ const VEILLE = {
       ]
     },
     {
-      "id": "halo-campaign-evolved-is-getting-firefight-as-a-free-update",
-      "titre": "Halo: Campaign Evolved is getting Firefight as a free update, though I'm not sure it'll do much to change the remake's fortunes",
-      "url": "https://www.pcgamer.com/games/halo/halo-campaign-evolved-is-getting-firefight-as-a-free-update-though-im-not-sure-itll-do-much-to-change-the-remakes-fortunes/",
+      "id": "from-2d-to-3d-and-back-to-2d-again-the-original-platforming",
+      "titre": "From 2D to 3D and back to 2D again, the original platforming classic Super Meat Boy returns with a slick remaster complete with new levels and too many old saws",
+      "url": "https://www.rockpapershotgun.com/from-2d-to-3d-and-back-to-2d-again-the-original-platforming-classic-super-meat-boy-returns-with-a-slick-remaster-complete-with-new-levels-and-too-many-old-saws",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 2.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/from-2d-to-3d-and-back-to-2d-again-the-original-platforming-classic-super-meat-boy-returns-with-a-slick-remaster-complete-with-new-levels-and-too-many-old-saws",
+          "titre": "From 2D to 3D and back to 2D again, the original platforming classic Super Meat Boy returns with a slick remaster complete with new levels and too many old saws"
+        }
+      ]
+    },
+    {
+      "id": "do-you-like-mob-tagging-in-oldschool-mmos-or-are-you-done-wi",
+      "titre": "Do you like mob tagging in oldschool MMOs, or are you done with fighting for quest credit?",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/do-you-like-mob-tagging-in-oldschool-mmos-or-are-you-done-with-fighting-for-quest-credit/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.1,
+      "heures": 3.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/halo/halo-campaign-evolved-is-getting-firefight-as-a-free-update-though-im-not-sure-itll-do-much-to-change-the-remakes-fortunes/",
-          "titre": "Halo: Campaign Evolved is getting Firefight as a free update, though I'm not sure it'll do much to change the remake's fortunes"
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/do-you-like-mob-tagging-in-oldschool-mmos-or-are-you-done-with-fighting-for-quest-credit/",
+          "titre": "Do you like mob tagging in oldschool MMOs, or are you done with fighting for quest credit?"
         }
       ]
     },
     {
-      "id": "crazy-taxi-makes-a-stop-in-india-for-the-final-leg-of-its-wo",
-      "titre": "Crazy Taxi Makes a Stop in India for the Final Leg of Its World Tour",
-      "url": "https://www.pushsquare.com/news/2026/11/crazy-taxi-makes-a-stop-in-india-for-the-final-leg-of-its-world-tour",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 0.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/crazy-taxi-makes-a-stop-in-india-for-the-final-leg-of-its-world-tour",
-          "titre": "Crazy Taxi Makes a Stop in India for the Final Leg of Its World Tour"
-        }
-      ]
-    },
-    {
-      "id": "formula-1-just-found-a-bizarre-financial-supporter-in-horse",
-      "titre": "Formula 1 just found a bizarre financial supporter in horse girl gacha Umamusume: Pretty Derby",
-      "url": "https://www.pcgamer.com/games/sports/formula-1-just-found-a-bizarre-financial-supporter-in-horse-girl-gacha-umamusume-pretty-derby/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sports/formula-1-just-found-a-bizarre-financial-supporter-in-horse-girl-gacha-umamusume-pretty-derby/",
-          "titre": "Formula 1 just found a bizarre financial supporter in horse girl gacha Umamusume: Pretty Derby"
-        }
-      ]
-    },
-    {
-      "id": "indiana-jones-and-the-great-circle-once-had-a-grand-theft-au",
-      "titre": "Indiana Jones and the Great Circle once had a Grand Theft Auto inspired wanted system, because MachineGames was 'afraid' players would kill all the Nazis 'with just guns'",
-      "url": "https://www.pcgamer.com/games/action/indiana-jones-and-the-great-circle-once-had-a-grand-theft-auto-inspired-wanted-system-because-machinegames-was-afraid-players-would-kill-all-the-nazis-with-just-guns/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/indiana-jones-and-the-great-circle-once-had-a-grand-theft-auto-inspired-wanted-system-because-machinegames-was-afraid-players-would-kill-all-the-nazis-with-just-guns/",
-          "titre": "Indiana Jones and the Great Circle once had a Grand Theft Auto inspired wanted system, because MachineGames was 'afraid' players would kill all the Nazis 'with just guns'"
-        }
-      ]
-    },
-    {
-      "id": "call-of-duty-endowment-marks-remembrance-day-with-veterans-v",
-      "titre": "Call of Duty Endowment marks Remembrance Day with veterans' Valor Pack push",
-      "url": "https://www.eurogamer.net/call-of-duty-endowment-valor-pack-remembrance-day-veterans",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/call-of-duty-endowment-valor-pack-remembrance-day-veterans",
-          "titre": "Call of Duty Endowment marks Remembrance Day with veterans' Valor Pack push"
-        }
-      ]
-    },
-    {
-      "id": "pikmin-s-mobile-soundtrack-has-been-added-to-nintendo-music",
-      "titre": "Pikmin's Mobile Soundtrack Has Been Added To Nintendo Music, Here's Every Song Included",
-      "url": "https://www.nintendolife.com/news/2026/11/pikmins-mobile-soundtrack-has-been-added-to-nintendo-music-heres-every-song-included",
+      "id": "mini-review-tape-to-tape-switch-a-great-roguelite-for-unders",
+      "titre": "Mini Review: Tape To Tape (Switch) - A Great Roguelite For Underserved Hockey Lovers",
+      "url": "https://www.nintendolife.com/reviews/switch-eshop/tape-to-tape",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.0,
+      "heures": 4.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/pikmins-mobile-soundtrack-has-been-added-to-nintendo-music-heres-every-song-included",
-          "titre": "Pikmin's Mobile Soundtrack Has Been Added To Nintendo Music, Here's Every Song Included"
+          "url": "https://www.nintendolife.com/reviews/switch-eshop/tape-to-tape",
+          "titre": "Mini Review: Tape To Tape (Switch) - A Great Roguelite For Underserved Hockey Lovers"
         }
       ]
     },
     {
-      "id": "icymi-limited-run-games-announces-restock-of-tomb-raider-def",
-      "titre": "ICYMI: Limited Run Games Announces Restock Of Tomb Raider: Definitive Edition For Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/11/icymi-limited-run-games-announces-restock-of-tomb-raider-definitive-edition-for-switch-2",
+      "id": "opinion-nintendo-made-ocarina-of-time-s-best-moment-even-bet",
+      "titre": "Opinion: Nintendo Made Ocarina Of Time's Best Moment Even Better",
+      "url": "https://www.nintendolife.com/features/opinion-nintendo-made-ocarina-of-times-best-moment-even-better",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.5,
+      "heures": 6.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/icymi-limited-run-games-announces-restock-of-tomb-raider-definitive-edition-for-switch-2",
-          "titre": "ICYMI: Limited Run Games Announces Restock Of Tomb Raider: Definitive Edition For Switch 2"
+          "url": "https://www.nintendolife.com/features/opinion-nintendo-made-ocarina-of-times-best-moment-even-better",
+          "titre": "Opinion: Nintendo Made Ocarina Of Time's Best Moment Even Better"
         }
       ]
     },
@@ -383,7 +353,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.0,
+      "heures": 19.6,
       "chaleur": 6,
       "liens": [
         {
@@ -401,7 +371,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.5,
+      "heures": 22.2,
       "chaleur": 6,
       "liens": [
         {
@@ -420,7 +390,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 16.7,
+      "heures": 22.4,
       "chaleur": 6,
       "liens": [
         {
@@ -443,7 +413,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.1,
+      "heures": 24.8,
       "chaleur": 6,
       "liens": [
         {
@@ -461,7 +431,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 21.0,
+      "heures": 26.6,
       "chaleur": 6,
       "liens": [
         {
@@ -479,7 +449,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 23.1,
+      "heures": 28.7,
       "chaleur": 6,
       "liens": [
         {
@@ -497,7 +467,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 23.1,
+      "heures": 28.8,
       "chaleur": 6,
       "liens": [
         {
@@ -516,7 +486,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 23.5,
+      "heures": 29.2,
       "chaleur": 6,
       "liens": [
         {
@@ -539,7 +509,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.3,
+      "heures": 34.9,
       "chaleur": 6,
       "liens": [
         {
@@ -550,38 +520,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "guide-zelda-ocarina-of-time-walkthrough-switch-2-remake-guid",
-      "titre": "Guide: Zelda: Ocarina Of Time Walkthrough (Switch 2 Remake): Guide To The Main Quest, Side Quests & Collectables",
-      "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-walkthrough-switch-2-remake",
+      "id": "pikmin-s-mobile-soundtrack-has-been-added-to-nintendo-music",
+      "titre": "Pikmin's Mobile Soundtrack Has Been Added To Nintendo Music, Here's Every Song Included",
+      "url": "https://www.nintendolife.com/news/2026/11/pikmins-mobile-soundtrack-has-been-added-to-nintendo-music-heres-every-song-included",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 34.0,
-      "chaleur": 6,
+      "heures": 14.6,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-walkthrough-switch-2-remake",
-          "titre": "Guide: Zelda: Ocarina Of Time Walkthrough (Switch 2 Remake): Guide To The Main Quest, Side Quests & Collectables"
+          "url": "https://www.nintendolife.com/news/2026/11/pikmins-mobile-soundtrack-has-been-added-to-nintendo-music-heres-every-song-included",
+          "titre": "Pikmin's Mobile Soundtrack Has Been Added To Nintendo Music, Here's Every Song Included"
         }
       ]
     },
     {
-      "id": "zelda-ocarina-s-redead-were-set-to-be-very-very-scary-in-the",
-      "titre": "Zelda Ocarina's ReDead Were Set To Be \"Very, Very Scary\" In The Remake, But Nintendo Decided To \"Dial It Back\"",
-      "url": "https://www.nintendolife.com/news/2026/11/zelda-ocarinas-redead-were-set-to-be-very-very-scary-in-the-remake-but-nintendo-decided-to-dial-it-back",
+      "id": "icymi-limited-run-games-announces-restock-of-tomb-raider-def",
+      "titre": "ICYMI: Limited Run Games Announces Restock Of Tomb Raider: Definitive Edition For Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/11/icymi-limited-run-games-announces-restock-of-tomb-raider-definitive-edition-for-switch-2",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 34.1,
-      "chaleur": 6,
+      "heures": 17.1,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/zelda-ocarinas-redead-were-set-to-be-very-very-scary-in-the-remake-but-nintendo-decided-to-dial-it-back",
-          "titre": "Zelda Ocarina's ReDead Were Set To Be \"Very, Very Scary\" In The Remake, But Nintendo Decided To \"Dial It Back\""
+          "url": "https://www.nintendolife.com/news/2026/11/icymi-limited-run-games-announces-restock-of-tomb-raider-definitive-edition-for-switch-2",
+          "titre": "ICYMI: Limited Run Games Announces Restock Of Tomb Raider: Definitive Edition For Switch 2"
         }
       ]
     },
@@ -593,7 +563,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.0,
+      "heures": 20.6,
       "chaleur": 5,
       "liens": [
         {
@@ -611,7 +581,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.2,
+      "heures": 26.9,
       "chaleur": 5,
       "liens": [
         {
@@ -629,7 +599,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 22.7,
+      "heures": 28.4,
       "chaleur": 5,
       "liens": [
         {
@@ -647,7 +617,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.0,
+      "heures": 28.6,
       "chaleur": 5,
       "liens": [
         {
@@ -665,7 +635,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.5,
+      "heures": 29.1,
       "chaleur": 5,
       "liens": [
         {
@@ -683,7 +653,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 23.7,
+      "heures": 29.4,
       "chaleur": 5,
       "liens": [
         {
@@ -701,7 +671,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 24.0,
+      "heures": 29.7,
       "chaleur": 5,
       "liens": [
         {
@@ -719,7 +689,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.5,
+      "heures": 31.1,
       "chaleur": 5,
       "liens": [
         {
@@ -737,7 +707,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 28.4,
+      "heures": 34.1,
       "chaleur": 5,
       "liens": [
         {
@@ -748,20 +718,128 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nvidia-s-jensen-huang-resigns-as-ceo-amid-reports-of-affairs",
-      "titre": "Nvidia's Jensen Huang resigns as CEO amid reports of affairs with alleged Chinese spy and two employees",
-      "url": "https://www.gamesindustry.biz/nvidias-jensen-huang-resigns-as-ceo-amid-reports-of-affairs-with-alleged-chinese-spy-and-two-employees",
+      "id": "i-summoned-1-blood-demon-stitched-2-of-my-disciples-together",
+      "titre": "I summoned 1 blood demon, stitched 2 of my disciples together, and seduced 3 snails in this excellent cult simulator in the spirit of Dwarf Fortress",
+      "url": "https://www.pcgamer.com/games/sim/i-summoned-1-blood-demon-stitched-2-of-my-disciples-together-and-seduced-3-snails-in-this-excellent-cult-simulator-in-the-spirit-of-dwarf-fortress/",
       "sources": [
-        "GamesIndustry.biz"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 30.8,
-      "chaleur": 5,
+      "heures": 4.6,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/nvidias-jensen-huang-resigns-as-ceo-amid-reports-of-affairs-with-alleged-chinese-spy-and-two-employees",
-          "titre": "Nvidia's Jensen Huang resigns as CEO amid reports of affairs with alleged Chinese spy and two employees"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sim/i-summoned-1-blood-demon-stitched-2-of-my-disciples-together-and-seduced-3-snails-in-this-excellent-cult-simulator-in-the-spirit-of-dwarf-fortress/",
+          "titre": "I summoned 1 blood demon, stitched 2 of my disciples together, and seduced 3 snails in this excellent cult simulator in the spirit of Dwarf Fortress"
+        }
+      ]
+    },
+    {
+      "id": "dishonored-2-director-harvey-smith-wants-to-honour-sacred-im",
+      "titre": "Dishonored 2 director Harvey Smith wants to honour sacred imsim texts while finding news ways to surprise fans: \"That's the two wolves inside me\"",
+      "url": "https://www.pcgamer.com/games/sim/dishonored-2-director-harvey-smith-wants-to-honour-sacred-imsim-texts-while-finding-news-ways-to-surprise-fans-thats-the-two-wolves-inside-me/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sim/dishonored-2-director-harvey-smith-wants-to-honour-sacred-imsim-texts-while-finding-news-ways-to-surprise-fans-thats-the-two-wolves-inside-me/",
+          "titre": "Dishonored 2 director Harvey Smith wants to honour sacred imsim texts while finding news ways to surprise fans: \"That's the two wolves inside me\""
+        }
+      ]
+    },
+    {
+      "id": "halo-campaign-evolved-is-getting-firefight-as-a-free-update",
+      "titre": "Halo: Campaign Evolved is getting Firefight as a free update, though I'm not sure it'll do much to change the remake's fortunes",
+      "url": "https://www.pcgamer.com/games/halo/halo-campaign-evolved-is-getting-firefight-as-a-free-update-though-im-not-sure-itll-do-much-to-change-the-remakes-fortunes/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/halo/halo-campaign-evolved-is-getting-firefight-as-a-free-update-though-im-not-sure-itll-do-much-to-change-the-remakes-fortunes/",
+          "titre": "Halo: Campaign Evolved is getting Firefight as a free update, though I'm not sure it'll do much to change the remake's fortunes"
+        }
+      ]
+    },
+    {
+      "id": "crazy-taxi-makes-a-stop-in-india-for-the-final-leg-of-its-wo",
+      "titre": "Crazy Taxi Makes a Stop in India for the Final Leg of Its World Tour",
+      "url": "https://www.pushsquare.com/news/2026/11/crazy-taxi-makes-a-stop-in-india-for-the-final-leg-of-its-world-tour",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 6.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/crazy-taxi-makes-a-stop-in-india-for-the-final-leg-of-its-world-tour",
+          "titre": "Crazy Taxi Makes a Stop in India for the Final Leg of Its World Tour"
+        }
+      ]
+    },
+    {
+      "id": "formula-1-just-found-a-bizarre-financial-supporter-in-horse",
+      "titre": "Formula 1 just found a bizarre financial supporter in horse girl gacha Umamusume: Pretty Derby",
+      "url": "https://www.pcgamer.com/games/sports/formula-1-just-found-a-bizarre-financial-supporter-in-horse-girl-gacha-umamusume-pretty-derby/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sports/formula-1-just-found-a-bizarre-financial-supporter-in-horse-girl-gacha-umamusume-pretty-derby/",
+          "titre": "Formula 1 just found a bizarre financial supporter in horse girl gacha Umamusume: Pretty Derby"
+        }
+      ]
+    },
+    {
+      "id": "indiana-jones-and-the-great-circle-once-had-a-grand-theft-au",
+      "titre": "Indiana Jones and the Great Circle once had a Grand Theft Auto inspired wanted system, because MachineGames was 'afraid' players would kill all the Nazis 'with just guns'",
+      "url": "https://www.pcgamer.com/games/action/indiana-jones-and-the-great-circle-once-had-a-grand-theft-auto-inspired-wanted-system-because-machinegames-was-afraid-players-would-kill-all-the-nazis-with-just-guns/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 9.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/indiana-jones-and-the-great-circle-once-had-a-grand-theft-auto-inspired-wanted-system-because-machinegames-was-afraid-players-would-kill-all-the-nazis-with-just-guns/",
+          "titre": "Indiana Jones and the Great Circle once had a Grand Theft Auto inspired wanted system, because MachineGames was 'afraid' players would kill all the Nazis 'with just guns'"
+        }
+      ]
+    },
+    {
+      "id": "call-of-duty-endowment-marks-remembrance-day-with-veterans-v",
+      "titre": "Call of Duty Endowment marks Remembrance Day with veterans' Valor Pack push",
+      "url": "https://www.eurogamer.net/call-of-duty-endowment-valor-pack-remembrance-day-veterans",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 9.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/call-of-duty-endowment-valor-pack-remembrance-day-veterans",
+          "titre": "Call of Duty Endowment marks Remembrance Day with veterans' Valor Pack push"
         }
       ]
     },
@@ -773,7 +851,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 10.0,
       "chaleur": 4,
       "liens": [
         {
@@ -791,8 +869,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.0,
-      "chaleur": 4,
+      "heures": 12.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -809,7 +887,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 18.1,
       "chaleur": 3,
       "liens": [
         {
@@ -827,31 +905,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.0,
+      "heures": 18.6,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/11/dokev-set-for-2028-launch-but-youll-see-it-again-this-year",
           "titre": "DokeV Set for 2028 Launch, But You'll See It Again This Year"
-        }
-      ]
-    },
-    {
-      "id": "the-blood-of-dawnwalker-is-getting-a-new-game-plus-mode-in-n",
-      "titre": "The Blood of Dawnwalker is getting a New Game Plus mode in next week's update",
-      "url": "https://www.eurogamer.net/blood-of-dawnwalker-new-game-plus",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 18.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/blood-of-dawnwalker-new-game-plus",
-          "titre": "The Blood of Dawnwalker is getting a New Game Plus mode in next week's update"
         }
       ]
     },
@@ -863,7 +923,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.3,
+      "heures": 24.0,
       "chaleur": 3,
       "liens": [
         {
@@ -881,7 +941,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.1,
+      "heures": 24.7,
       "chaleur": 3,
       "liens": [
         {
@@ -899,7 +959,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 20.0,
+      "heures": 25.6,
       "chaleur": 3,
       "liens": [
         {
@@ -917,7 +977,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 20.3,
+      "heures": 25.9,
       "chaleur": 3,
       "liens": [
         {
@@ -935,7 +995,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 20.4,
+      "heures": 26.1,
       "chaleur": 3,
       "liens": [
         {
@@ -953,7 +1013,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 21.0,
+      "heures": 26.6,
       "chaleur": 3,
       "liens": [
         {
@@ -971,7 +1031,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 21.5,
+      "heures": 27.1,
       "chaleur": 3,
       "liens": [
         {
@@ -989,49 +1049,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 21.5,
+      "heures": 27.1,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/11/stranger-than-heaven-is-so-big-that-all-its-acts-get-a-ps5-trailer",
           "titre": "Stranger Than Heaven Is So Big That All Its Acts Get a PS5 Trailer"
-        }
-      ]
-    },
-    {
-      "id": "overwatch-s-creative-director-accidentally-leaks-the-name-of",
-      "titre": "Overwatch's creative director accidentally leaks the name of season 6's upcoming hero and reveals that he 'got the highest scores of any hero that we've tested'",
-      "url": "https://www.pcgamer.com/games/fps/overwatchs-creative-director-accidentally-leaks-the-name-of-season-6s-upcoming-hero-and-reveals-that-he-got-the-highest-scores-of-any-hero-that-weve-tested/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 21.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/overwatchs-creative-director-accidentally-leaks-the-name-of-season-6s-upcoming-hero-and-reveals-that-he-got-the-highest-scores-of-any-hero-that-weve-tested/",
-          "titre": "Overwatch's creative director accidentally leaks the name of season 6's upcoming hero and reveals that he 'got the highest scores of any hero that we've tested'"
-        }
-      ]
-    },
-    {
-      "id": "22-years-after-the-hot-coffee-controversy-uk-politician-says",
-      "titre": "22 years after the Hot Coffee controversy, UK politician says Grand Theft Auto 6 is 'something that we can be really proud of'",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/22-years-after-the-hot-coffee-controversy-uk-politician-says-grand-theft-auto-6-is-something-that-we-can-be-really-proud-of/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 21.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/22-years-after-the-hot-coffee-controversy-uk-politician-says-grand-theft-auto-6-is-something-that-we-can-be-really-proud-of/",
-          "titre": "22 years after the Hot Coffee controversy, UK politician says Grand Theft Auto 6 is 'something that we can be really proud of'"
         }
       ]
     },
@@ -1043,7 +1067,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 21.9,
+      "heures": 27.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1061,7 +1085,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 22.0,
+      "heures": 27.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1079,7 +1103,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 22.4,
+      "heures": 28.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1097,7 +1121,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 22.4,
+      "heures": 28.1,
       "chaleur": 3,
       "liens": [
         {
@@ -1115,31 +1139,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 22.5,
+      "heures": 28.1,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/11/play-the-blood-of-dawnwalker-again-in-new-gameplus-part-of-ps5-patch-1-2",
           "titre": "Play The Blood of Dawnwalker Again in New Game+, Part of PS5 Patch 1.2"
-        }
-      ]
-    },
-    {
-      "id": "season-10-has-been-a-challenging-one-for-us-marvel-rivals-i",
-      "titre": "'Season 10 has been a challenging one for us': Marvel Rivals is upgrading Storm's summer skin after favouritism complaints",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/season-10-has-been-a-challenging-one-for-us-marvel-rivals-is-upgrading-storms-summer-skin-after-favouritism-complaints/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 22.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/season-10-has-been-a-challenging-one-for-us-marvel-rivals-is-upgrading-storms-summer-skin-after-favouritism-complaints/",
-          "titre": "'Season 10 has been a challenging one for us': Marvel Rivals is upgrading Storm's summer skin after favouritism complaints"
         }
       ]
     }
