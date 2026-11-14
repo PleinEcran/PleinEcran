@@ -1,8 +1,110 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "14/11/2026 à 06h07",
+  "collecte": "14/11/2026 à 14h58",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "poll-are-you-hyped-for-november-s-10-new-ps-plus-games",
+      "titre": "Poll: Are You Hyped for November's 10 New PS Plus Games?",
+      "url": "https://www.pushsquare.com/features/poll-are-you-hyped-for-novembers-10-new-ps-plus-games",
+      "sources": [
+        "Nintendo Life",
+        "Push Square",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 3,
+      "heures": 2.0,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/poll-are-you-hyped-for-novembers-10-new-ps-plus-games",
+          "titre": "Poll: Are You Hyped for November's 10 New PS Plus Games?"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-14th-november",
+          "titre": "Talking Point: What Are You Playing This Weekend? (14th November)"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-408",
+          "titre": "What are we all playing this weekend?"
+        }
+      ]
+    },
+    {
+      "id": "guide-these-13-ps5-and-ps-plus-games-are-coming-out-next-wee",
+      "titre": "Guide: These 13+ PS5 and PS Plus Games Are Coming Out Next Week (16th-22nd November)",
+      "url": "https://www.pushsquare.com/guides/these-13plus-ps5-and-ps-plus-games-are-coming-out-next-week-16th-22nd-november",
+      "sources": [
+        "Nintendo Life",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 3.0,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/guides/these-13plus-ps5-and-ps-plus-games-are-coming-out-next-week-16th-22nd-november",
+          "titre": "Guide: These 13+ PS5 and PS Plus Games Are Coming Out Next Week (16th-22nd November)"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/these-30plus-games-are-coming-to-nintendo-switch-eshop-this-week-november-12",
+          "titre": "These 30+ Games Are Coming To Nintendo Switch eShop This Week (November 12)"
+        }
+      ]
+    },
+    {
+      "id": "rumour-rainbow-six-vegas-3-now-in-the-works-at-ubisoft",
+      "titre": "Rumour: Rainbow Six: Vegas 3 Now in the Works at Ubisoft",
+      "url": "https://www.pushsquare.com/news/2026/11/rumour-rainbow-six-vegas-3-now-in-the-works-at-ubisoft",
+      "sources": [
+        "Eurogamer",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 1.5,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/rumour-rainbow-six-vegas-3-now-in-the-works-at-ubisoft",
+          "titre": "Rumour: Rainbow Six: Vegas 3 Now in the Works at Ubisoft"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/rainbow-six-vegas-new-game-ubisoft-spades-report",
+          "titre": "Ubisoft is reportedly making a new Rainbow Six Vegas game, nearly two decades after Vegas 2"
+        }
+      ]
+    },
+    {
+      "id": "40-of-game-developers-use-generative-ai-according-to-a-new-r",
+      "titre": "40% of game developers use generative AI according to a new report, but more than half reckon the technology has a negative impact on the games industry",
+      "url": "https://www.pcgamer.com/software/ai/40-percent-of-game-developers-use-generative-ai-according-to-a-new-report-but-more-than-half-reckon-the-technology-has-a-negative-impact-on-the-games-industry/",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 2.1,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/40-percent-of-game-developers-use-generative-ai-according-to-a-new-report-but-more-than-half-reckon-the-technology-has-a-negative-impact-on-the-games-industry/",
+          "titre": "40% of game developers use generative AI according to a new report, but more than half reckon the technology has a negative impact on the games industry"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gdc-report-40-percent-developers-generative-ai",
+          "titre": "A new report reckons 40% of developers in the video games industry are using generative AI - but even more think it's harmful"
+        }
+      ]
+    },
     {
       "id": "psa-gta-6-does-not-have-online-multiplayer-at-launch",
       "titre": "PSA: GTA 6 Does Not Have Online Multiplayer at Launch",
@@ -12,7 +114,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 14.1,
+      "heures": 23.0,
       "chaleur": 11,
       "liens": [
         {
@@ -36,8 +138,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 5.1,
-      "chaleur": 10,
+      "heures": 14.0,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -52,44 +154,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "doom-developer-id-software-confirms-it-s-working-on-a-new-ga",
-      "titre": "DOOM Developer id Software Confirms It's Working On A New Game",
-      "url": "https://www.nintendolife.com/news/2026/11/doom-developer-id-software-confirms-its-working-on-a-new-game",
-      "sources": [
-        "Nintendo Life",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 28.2,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/doom-developer-id-software-confirms-its-working-on-a-new-game",
-          "titre": "DOOM Developer id Software Confirms It's Working On A New Game"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/id-software-confirms-its-working-on-a-new-game-after-layoffs/",
-          "titre": "Id Software confirms it’s working on a new game after layoffs"
-        }
-      ]
-    },
-    {
-      "id": "icymi-limited-run-games-announces-restock-of-tomb-raider-def",
-      "titre": "ICYMI: Limited Run Games Announces Restock Of Tomb Raider: Definitive Edition For Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/11/icymi-limited-run-games-announces-restock-of-tomb-raider-definitive-edition-for-switch-2",
+      "id": "opinion-nintendo-made-ocarina-of-time-s-best-moment-even-bet",
+      "titre": "Opinion: Nintendo Made Ocarina Of Time's Best Moment Even Better",
+      "url": "https://www.nintendolife.com/features/opinion-nintendo-made-ocarina-of-times-best-moment-even-better",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.6,
+      "heures": 1.0,
       "chaleur": 8,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/icymi-limited-run-games-announces-restock-of-tomb-raider-definitive-edition-for-switch-2",
-          "titre": "ICYMI: Limited Run Games Announces Restock Of Tomb Raider: Definitive Edition For Switch 2"
+          "url": "https://www.nintendolife.com/features/opinion-nintendo-made-ocarina-of-times-best-moment-even-better",
+          "titre": "Opinion: Nintendo Made Ocarina Of Time's Best Moment Even Better"
         }
       ]
     },
@@ -102,7 +180,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 12.8,
+      "heures": 21.6,
       "chaleur": 8,
       "liens": [
         {
@@ -118,6 +196,186 @@ const VEILLE = {
       ]
     },
     {
+      "id": "vice-city-was-the-gta-that-established-rockstar-s-killer-for",
+      "titre": "Vice City was the GTA that established Rockstar's killer formula - and 24 years on, it's still one of the best games ever made",
+      "url": "https://www.eurogamer.net/gta-vice-city-retrospective",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.0,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-vice-city-retrospective",
+          "titre": "Vice City was the GTA that established Rockstar's killer formula - and 24 years on, it's still one of the best games ever made"
+        }
+      ]
+    },
+    {
+      "id": "xbox-boss-announces-wolfenstein-3-and-confirms-new-game-in-d",
+      "titre": "Xbox boss announces Wolfenstein 3 and confirms new game in development at idSoftware despite reported job cut \"bloodbath\"",
+      "url": "https://www.eurogamer.net/wolfenstein-3-new-id-software-game-announced-xbox",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 26.6,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/wolfenstein-3-new-id-software-game-announced-xbox",
+          "titre": "Xbox boss announces Wolfenstein 3 and confirms new game in development at idSoftware despite reported job cut \"bloodbath\""
+        }
+      ]
+    },
+    {
+      "id": "steam-s-submission-and-approval-backlog-is-forcing-indie-dev",
+      "titre": "Steam's submission and approval backlog is forcing indie devs to delay game launches",
+      "url": "https://www.gamesindustry.biz/steams-submission-and-approval-backlog-is-forcing-indie-devs-to-delay-game-launches",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 27.0,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/steams-submission-and-approval-backlog-is-forcing-indie-devs-to-delay-game-launches",
+          "titre": "Steam's submission and approval backlog is forcing indie devs to delay game launches"
+        }
+      ]
+    },
+    {
+      "id": "halo-campaign-evolved-is-getting-firefight-as-a-free-update",
+      "titre": "Halo: Campaign Evolved is getting Firefight as a free update, though I'm not sure it'll do much to change the remake's fortunes",
+      "url": "https://www.pcgamer.com/games/halo/halo-campaign-evolved-is-getting-firefight-as-a-free-update-though-im-not-sure-itll-do-much-to-change-the-remakes-fortunes/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/halo/halo-campaign-evolved-is-getting-firefight-as-a-free-update-though-im-not-sure-itll-do-much-to-change-the-remakes-fortunes/",
+          "titre": "Halo: Campaign Evolved is getting Firefight as a free update, though I'm not sure it'll do much to change the remake's fortunes"
+        }
+      ]
+    },
+    {
+      "id": "crazy-taxi-makes-a-stop-in-india-for-the-final-leg-of-its-wo",
+      "titre": "Crazy Taxi Makes a Stop in India for the Final Leg of Its World Tour",
+      "url": "https://www.pushsquare.com/news/2026/11/crazy-taxi-makes-a-stop-in-india-for-the-final-leg-of-its-world-tour",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/crazy-taxi-makes-a-stop-in-india-for-the-final-leg-of-its-world-tour",
+          "titre": "Crazy Taxi Makes a Stop in India for the Final Leg of Its World Tour"
+        }
+      ]
+    },
+    {
+      "id": "formula-1-just-found-a-bizarre-financial-supporter-in-horse",
+      "titre": "Formula 1 just found a bizarre financial supporter in horse girl gacha Umamusume: Pretty Derby",
+      "url": "https://www.pcgamer.com/games/sports/formula-1-just-found-a-bizarre-financial-supporter-in-horse-girl-gacha-umamusume-pretty-derby/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sports/formula-1-just-found-a-bizarre-financial-supporter-in-horse-girl-gacha-umamusume-pretty-derby/",
+          "titre": "Formula 1 just found a bizarre financial supporter in horse girl gacha Umamusume: Pretty Derby"
+        }
+      ]
+    },
+    {
+      "id": "indiana-jones-and-the-great-circle-once-had-a-grand-theft-au",
+      "titre": "Indiana Jones and the Great Circle once had a Grand Theft Auto inspired wanted system, because MachineGames was 'afraid' players would kill all the Nazis 'with just guns'",
+      "url": "https://www.pcgamer.com/games/action/indiana-jones-and-the-great-circle-once-had-a-grand-theft-auto-inspired-wanted-system-because-machinegames-was-afraid-players-would-kill-all-the-nazis-with-just-guns/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 3.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/indiana-jones-and-the-great-circle-once-had-a-grand-theft-auto-inspired-wanted-system-because-machinegames-was-afraid-players-would-kill-all-the-nazis-with-just-guns/",
+          "titre": "Indiana Jones and the Great Circle once had a Grand Theft Auto inspired wanted system, because MachineGames was 'afraid' players would kill all the Nazis 'with just guns'"
+        }
+      ]
+    },
+    {
+      "id": "call-of-duty-endowment-marks-remembrance-day-with-veterans-v",
+      "titre": "Call of Duty Endowment marks Remembrance Day with veterans' Valor Pack push",
+      "url": "https://www.eurogamer.net/call-of-duty-endowment-valor-pack-remembrance-day-veterans",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 3.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/call-of-duty-endowment-valor-pack-remembrance-day-veterans",
+          "titre": "Call of Duty Endowment marks Remembrance Day with veterans' Valor Pack push"
+        }
+      ]
+    },
+    {
+      "id": "pikmin-s-mobile-soundtrack-has-been-added-to-nintendo-music",
+      "titre": "Pikmin's Mobile Soundtrack Has Been Added To Nintendo Music, Here's Every Song Included",
+      "url": "https://www.nintendolife.com/news/2026/11/pikmins-mobile-soundtrack-has-been-added-to-nintendo-music-heres-every-song-included",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 9.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/pikmins-mobile-soundtrack-has-been-added-to-nintendo-music-heres-every-song-included",
+          "titre": "Pikmin's Mobile Soundtrack Has Been Added To Nintendo Music, Here's Every Song Included"
+        }
+      ]
+    },
+    {
+      "id": "icymi-limited-run-games-announces-restock-of-tomb-raider-def",
+      "titre": "ICYMI: Limited Run Games Announces Restock Of Tomb Raider: Definitive Edition For Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/11/icymi-limited-run-games-announces-restock-of-tomb-raider-definitive-edition-for-switch-2",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 11.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/icymi-limited-run-games-announces-restock-of-tomb-raider-definitive-edition-for-switch-2",
+          "titre": "ICYMI: Limited Run Games Announces Restock Of Tomb Raider: Definitive Edition For Switch 2"
+        }
+      ]
+    },
+    {
       "id": "gta-6-ps5-codes-potentially-being-stolen-from-physical-copie",
       "titre": "GTA 6 PS5 Codes Potentially Being Stolen from Physical Copies Using Flashlight Trick",
       "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-codes-potentially-being-stolen-from-physical-copies-using-flashlight-trick",
@@ -125,8 +383,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.1,
-      "chaleur": 7,
+      "heures": 14.0,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
@@ -143,8 +401,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.7,
-      "chaleur": 7,
+      "heures": 16.5,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
@@ -162,8 +420,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 7.8,
-      "chaleur": 7,
+      "heures": 16.7,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
@@ -185,85 +443,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 7,
+      "heures": 19.1,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/legend-of-zelda-smaller-before-breath-of-the-wild",
           "titre": "Interest in The Legend of Zelda was \"getting smaller and smaller\" before Breath of the Wild, according to former Nintendo marketing leads"
-        }
-      ]
-    },
-    {
-      "id": "xbox-boss-announces-wolfenstein-3-and-confirms-new-game-in-d",
-      "titre": "Xbox boss announces Wolfenstein 3 and confirms new game in development at idSoftware despite reported job cut \"bloodbath\"",
-      "url": "https://www.eurogamer.net/wolfenstein-3-new-id-software-game-announced-xbox",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 17.8,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/wolfenstein-3-new-id-software-game-announced-xbox",
-          "titre": "Xbox boss announces Wolfenstein 3 and confirms new game in development at idSoftware despite reported job cut \"bloodbath\""
-        }
-      ]
-    },
-    {
-      "id": "steam-s-submission-and-approval-backlog-is-forcing-indie-dev",
-      "titre": "Steam's submission and approval backlog is forcing indie devs to delay game launches",
-      "url": "https://www.gamesindustry.biz/steams-submission-and-approval-backlog-is-forcing-indie-devs-to-delay-game-launches",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 18.1,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/steams-submission-and-approval-backlog-is-forcing-indie-devs-to-delay-game-launches",
-          "titre": "Steam's submission and approval backlog is forcing indie devs to delay game launches"
-        }
-      ]
-    },
-    {
-      "id": "the-excellent-warhammer-survivors-reveals-roadmap-full-of-fr",
-      "titre": "The Excellent Warhammer Survivors Reveals Roadmap Full of Free Updates, Teases Something Big",
-      "url": "https://www.pushsquare.com/news/2026/11/the-excellent-warhammer-survivors-reveals-roadmap-full-of-free-updates-teases-something-big",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/the-excellent-warhammer-survivors-reveals-roadmap-full-of-free-updates-teases-something-big",
-          "titre": "The Excellent Warhammer Survivors Reveals Roadmap Full of Free Updates, Teases Something Big"
-        }
-      ]
-    },
-    {
-      "id": "metaphor-refantazio-switch-2-patch-to-resolve-colour-glitch",
-      "titre": "Metaphor: ReFantazio Switch 2 Patch To Resolve Colour Glitch",
-      "url": "https://www.nintendolife.com/news/2026/11/metaphor-refantazio-switch-2-patch-to-resolve-colour-glitch",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 6.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/metaphor-refantazio-switch-2-patch-to-resolve-colour-glitch",
-          "titre": "Metaphor: ReFantazio Switch 2 Patch To Resolve Colour Glitch"
         }
       ]
     },
@@ -275,7 +461,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.1,
+      "heures": 21.0,
       "chaleur": 6,
       "liens": [
         {
@@ -293,7 +479,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.2,
+      "heures": 23.1,
       "chaleur": 6,
       "liens": [
         {
@@ -311,7 +497,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.3,
+      "heures": 23.1,
       "chaleur": 6,
       "liens": [
         {
@@ -330,7 +516,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 14.6,
+      "heures": 23.5,
       "chaleur": 6,
       "liens": [
         {
@@ -346,108 +532,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "slay-the-spire-2-gets-its-first-new-character-since-its-mass",
-      "titre": "Slay the Spire 2 gets its first new character since its massively successful launch in March as part of \"biggest\" beta patch yet",
-      "url": "https://www.eurogamer.net/slay-the-spire-2-biggest-update-new-character-the-fool",
-      "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 15.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/slay-the-spire-2-biggest-update-new-character-the-fool",
-          "titre": "Slay the Spire 2 gets its first new character since its massively successful launch in March as part of \"biggest\" beta patch yet"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/slay-the-spire-2s-biggest-beta-patch-yet-adds-its-first-new-early-access-and-foolish-character-two-game-modes-and-more-tweaks-than-you-can-shake-a-stick-at",
-          "titre": "Slay the Spire 2's \"biggest\" beta patch yet adds its first new early access and foolish character, two game modes, and more tweaks than you can shake a stick at"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-s-in-game-animated-tv-series-macca-friends-hints-at-th",
-      "titre": "GTA 6's In-Game Animated TV Series, Macca & Friends, Hints at the Game's Absurd Scope",
-      "url": "https://www.pushsquare.com/news/2026/11/gta-6s-in-game-animated-tv-series-macca-and-friends-hints-at-the-games-absurd-scope",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 15.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/gta-6s-in-game-animated-tv-series-macca-and-friends-hints-at-the-games-absurd-scope",
-          "titre": "GTA 6's In-Game Animated TV Series, Macca & Friends, Hints at the Game's Absurd Scope"
-        }
-      ]
-    },
-    {
-      "id": "clear-national-security-concerns-that-need-to-be-addressed",
-      "titre": "'Clear national security concerns that need to be addressed immediately': new letters to Jensen Huang from Congress strike a tougher tone for the ex-Nvidia CEO",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/clear-national-security-concerns-that-need-to-be-addressed-immediately-new-letters-to-jensen-huang-from-congress-strike-a-tougher-tone-for-the-ex-nvidia-ceo/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 17.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/clear-national-security-concerns-that-need-to-be-addressed-immediately-new-letters-to-jensen-huang-from-congress-strike-a-tougher-tone-for-the-ex-nvidia-ceo/",
-          "titre": "'Clear national security concerns that need to be addressed immediately': new letters to Jensen Huang from Congress strike a tougher tone for the ex-Nvidia CEO"
-        }
-      ]
-    },
-    {
-      "id": "these-30-games-are-coming-to-nintendo-switch-eshop-this-week",
-      "titre": "These 30+ Games Are Coming To Nintendo Switch eShop This Week (November 12)",
-      "url": "https://www.nintendolife.com/news/2026/11/these-30plus-games-are-coming-to-nintendo-switch-eshop-this-week-november-12",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 19.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/these-30plus-games-are-coming-to-nintendo-switch-eshop-this-week-november-12",
-          "titre": "These 30+ Games Are Coming To Nintendo Switch eShop This Week (November 12)"
-        }
-      ]
-    },
-    {
-      "id": "machinegames-has-finally-officially-confirmed-that-wolfenste",
-      "titre": "MachineGames has finally officially confirmed that Wolfenstein 3 is in development",
-      "url": "https://www.videogameschronicle.com/news/machinegames-has-finally-officially-confirmed-that-wolfenstein-3-is-in-development/",
-      "sources": [
-        "Nintendo Life",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 20.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/machinegames-has-finally-officially-confirmed-that-wolfenstein-3-is-in-development/",
-          "titre": "MachineGames has finally officially confirmed that Wolfenstein 3 is in development"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/wolfenstein-3-is-now-officially-in-production-at-machinegames",
-          "titre": "Wolfenstein 3 Is Now \"Officially In Production\" At MachineGames"
-        }
-      ]
-    },
-    {
       "id": "will-gta-6-break-the-internet-uk-broadband-operator-braces-f",
       "titre": "Will GTA 6 break the internet? UK broadband operator braces for impact, saying \"GTA 6 has been on our radar for a long time\"",
       "url": "https://www.eurogamer.net/gta-6-internet-uk-broadband-ofcom-openreach",
@@ -455,37 +539,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 20.4,
+      "heures": 29.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/gta-6-internet-uk-broadband-ofcom-openreach",
           "titre": "Will GTA 6 break the internet? UK broadband operator braces for impact, saying \"GTA 6 has been on our radar for a long time\""
-        }
-      ]
-    },
-    {
-      "id": "halo-campaign-evolved-is-getting-its-own-four-player-version",
-      "titre": "Halo: Campaign Evolved is getting its own four-player version of the series' staple Firefight mode, for free, \"this winter\"",
-      "url": "https://www.eurogamer.net/halo-campaign-evovled-firefight-mode",
-      "sources": [
-        "Eurogamer",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 20.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/halo-campaign-evovled-firefight-mode",
-          "titre": "Halo: Campaign Evolved is getting its own four-player version of the series' staple Firefight mode, for free, \"this winter\""
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/halo-campaign-evolved-is-getting-firefight-in-a-free-update/",
-          "titre": "Halo: Campaign Evolved is getting Firefight in a free update"
         }
       ]
     },
@@ -497,7 +557,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.1,
+      "heures": 34.0,
       "chaleur": 6,
       "liens": [
         {
@@ -515,13 +575,31 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.2,
+      "heures": 34.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/11/zelda-ocarinas-redead-were-set-to-be-very-very-scary-in-the-remake-but-nintendo-decided-to-dial-it-back",
           "titre": "Zelda Ocarina's ReDead Were Set To Be \"Very, Very Scary\" In The Remake, But Nintendo Decided To \"Dial It Back\""
+        }
+      ]
+    },
+    {
+      "id": "metaphor-refantazio-switch-2-patch-to-resolve-colour-glitch",
+      "titre": "Metaphor: ReFantazio Switch 2 Patch To Resolve Colour Glitch",
+      "url": "https://www.nintendolife.com/news/2026/11/metaphor-refantazio-switch-2-patch-to-resolve-colour-glitch",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 15.0,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/metaphor-refantazio-switch-2-patch-to-resolve-colour-glitch",
+          "titre": "Metaphor: ReFantazio Switch 2 Patch To Resolve Colour Glitch"
         }
       ]
     },
@@ -533,7 +611,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 21.2,
       "chaleur": 5,
       "liens": [
         {
@@ -551,7 +629,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 13.8,
+      "heures": 22.7,
       "chaleur": 5,
       "liens": [
         {
@@ -569,49 +647,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.1,
+      "heures": 23.0,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/reviews/switch-eshop/sonic-pico-park",
           "titre": "Mini Review: Sonic Pico Park (Switch) - Charming Puzzle-Platformer Returns With A Nostalgic Co-Op Collab"
-        }
-      ]
-    },
-    {
-      "id": "chipmaking-giant-tsmc-discovers-major-employee-data-leak-rep",
-      "titre": "Chipmaking giant TSMC discovers major employee data leak—reports say info was up for sale for three bitcoin on shady forums",
-      "url": "https://www.pcgamer.com/hardware/chipmaking-giant-tsmc-discovers-major-employee-data-leak-reports-say-info-was-up-for-sale-for-three-bitcoin-on-shady-forums/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 14.3,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/chipmaking-giant-tsmc-discovers-major-employee-data-leak-reports-say-info-was-up-for-sale-for-three-bitcoin-on-shady-forums/",
-          "titre": "Chipmaking giant TSMC discovers major employee data leak—reports say info was up for sale for three bitcoin on shady forums"
-        }
-      ]
-    },
-    {
-      "id": "a-new-report-reckons-40-of-developers-in-the-video-games-ind",
-      "titre": "A new report reckons 40% of developers in the video games industry are using generative AI - but even more think it's harmful",
-      "url": "https://www.eurogamer.net/gdc-report-40-percent-developers-generative-ai",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 14.6,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gdc-report-40-percent-developers-generative-ai",
-          "titre": "A new report reckons 40% of developers in the video games industry are using generative AI - but even more think it's harmful"
         }
       ]
     },
@@ -623,7 +665,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.6,
+      "heures": 23.5,
       "chaleur": 5,
       "liens": [
         {
@@ -641,7 +683,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 14.9,
+      "heures": 23.7,
       "chaleur": 5,
       "liens": [
         {
@@ -659,7 +701,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 15.1,
+      "heures": 24.0,
       "chaleur": 5,
       "liens": [
         {
@@ -677,7 +719,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.6,
+      "heures": 25.5,
       "chaleur": 5,
       "liens": [
         {
@@ -695,7 +737,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 19.5,
+      "heures": 28.4,
       "chaleur": 5,
       "liens": [
         {
@@ -713,7 +755,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 21.9,
+      "heures": 30.8,
       "chaleur": 5,
       "liens": [
         {
@@ -724,20 +766,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "21-original-xbox-games-are-now-on-pc-via-backward-compatibil",
-      "titre": "21 original Xbox games are now on PC via backward compatibility",
-      "url": "https://www.videogameschronicle.com/news/21-original-xbox-games-are-now-on-pc-via-backward-compatibility/",
+      "id": "magic-the-gathering-animated-series-planeswalker-is-coming-t",
+      "titre": "Magic: The Gathering animated series Planeswalker is coming to Netflix in 2027",
+      "url": "https://www.eurogamer.net/magic-the-gathering-planeswalker-netflix-animated-series-2027",
       "sources": [
-        "VGC"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 32.1,
-      "chaleur": 5,
+      "heures": 4.3,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/21-original-xbox-games-are-now-on-pc-via-backward-compatibility/",
-          "titre": "21 original Xbox games are now on PC via backward compatibility"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/magic-the-gathering-planeswalker-netflix-animated-series-2027",
+          "titre": "Magic: The Gathering animated series Planeswalker is coming to Netflix in 2027"
+        }
+      ]
+    },
+    {
+      "id": "what-we-ve-been-playing-whether-he-means-to-or-not-he-serves",
+      "titre": "What we've been playing - \"Whether he means to or not, he serves sass all over town\"",
+      "url": "https://www.eurogamer.net/what-weve-been-playing-sass-all-over-town-link-ocarina",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 7.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/what-weve-been-playing-sass-all-over-town-link-ocarina",
+          "titre": "What we've been playing - \"Whether he means to or not, he serves sass all over town\""
+        }
+      ]
+    },
+    {
+      "id": "the-excellent-warhammer-survivors-reveals-roadmap-full-of-fr",
+      "titre": "The Excellent Warhammer Survivors Reveals Roadmap Full of Free Updates, Teases Something Big",
+      "url": "https://www.pushsquare.com/news/2026/11/the-excellent-warhammer-survivors-reveals-roadmap-full-of-free-updates-teases-something-big",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 12.5,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/the-excellent-warhammer-survivors-reveals-roadmap-full-of-free-updates-teases-something-big",
+          "titre": "The Excellent Warhammer Survivors Reveals Roadmap Full of Free Updates, Teases Something Big"
         }
       ]
     },
@@ -749,31 +827,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.1,
-      "chaleur": 4,
+      "heures": 13.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/11/dokev-set-for-2028-launch-but-youll-see-it-again-this-year",
           "titre": "DokeV Set for 2028 Launch, But You'll See It Again This Year"
-        }
-      ]
-    },
-    {
-      "id": "talking-point-what-are-you-playing-this-weekend-issue-658",
-      "titre": "Talking Point: What Are You Playing This Weekend? - Issue 658",
-      "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-658",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 6.1,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-658",
-          "titre": "Talking Point: What Are You Playing This Weekend? - Issue 658"
         }
       ]
     },
@@ -785,8 +845,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.3,
-      "chaleur": 4,
+      "heures": 18.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -803,8 +863,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.5,
-      "chaleur": 4,
+      "heures": 18.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -821,31 +881,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 4,
+      "heures": 19.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/software/microsoft-deeply-apologizes-for-global-service-outage-says-no-ai-or-hackers-are-to-blame/",
           "titre": "Microsoft ‘deeply’ apologizes for global service outage, says no AI or hackers are to blame"
-        }
-      ]
-    },
-    {
-      "id": "new-grand-theft-auto-6-trailer-is-for-a-tv-show-that-exists",
-      "titre": "New Grand Theft Auto 6 trailer is for a TV show that exists within Grand Theft Auto 6",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/new-grand-theft-auto-6-trailer-is-for-a-tv-show-that-exists-within-grand-theft-auto-6/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/new-grand-theft-auto-6-trailer-is-for-a-tv-show-that-exists-within-grand-theft-auto-6/",
-          "titre": "New Grand Theft Auto 6 trailer is for a TV show that exists within Grand Theft Auto 6"
         }
       ]
     },
@@ -857,8 +899,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 4,
+      "heures": 20.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -875,8 +917,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 4,
+      "heures": 20.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -893,8 +935,8 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 4,
+      "heures": 20.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Game Developer",
@@ -911,7 +953,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.1,
+      "heures": 21.0,
       "chaleur": 3,
       "liens": [
         {
@@ -929,7 +971,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 21.5,
       "chaleur": 3,
       "liens": [
         {
@@ -947,7 +989,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 21.5,
       "chaleur": 3,
       "liens": [
         {
@@ -965,13 +1007,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 21.7,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/fps/overwatchs-creative-director-accidentally-leaks-the-name-of-season-6s-upcoming-hero-and-reveals-that-he-got-the-highest-scores-of-any-hero-that-weve-tested/",
           "titre": "Overwatch's creative director accidentally leaks the name of season 6's upcoming hero and reveals that he 'got the highest scores of any hero that we've tested'"
+        }
+      ]
+    },
+    {
+      "id": "22-years-after-the-hot-coffee-controversy-uk-politician-says",
+      "titre": "22 years after the Hot Coffee controversy, UK politician says Grand Theft Auto 6 is 'something that we can be really proud of'",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/22-years-after-the-hot-coffee-controversy-uk-politician-says-grand-theft-auto-6-is-something-that-we-can-be-really-proud-of/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 21.8,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/22-years-after-the-hot-coffee-controversy-uk-politician-says-grand-theft-auto-6-is-something-that-we-can-be-really-proud-of/",
+          "titre": "22 years after the Hot Coffee controversy, UK politician says Grand Theft Auto 6 is 'something that we can be really proud of'"
         }
       ]
     },
@@ -983,7 +1043,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.0,
+      "heures": 21.9,
       "chaleur": 3,
       "liens": [
         {
@@ -1001,7 +1061,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.1,
+      "heures": 22.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1019,7 +1079,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 22.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1037,7 +1097,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.5,
+      "heures": 22.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1055,7 +1115,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 22.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1073,67 +1133,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 22.5,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/third-person-shooter/season-10-has-been-a-challenging-one-for-us-marvel-rivals-is-upgrading-storms-summer-skin-after-favouritism-complaints/",
           "titre": "'Season 10 has been a challenging one for us': Marvel Rivals is upgrading Storm's summer skin after favouritism complaints"
-        }
-      ]
-    },
-    {
-      "id": "development-secrets-of-dressmaker-ft-ruan-rothmann-sara-laub",
-      "titre": "Development secrets of Dressmaker, ft. Ruan Rothmann & Sara Laubscher",
-      "url": "https://www.gamedeveloper.com/pc/development-secrets-of-dressmaker-ft-ruan-rothmann-sara-laubscher",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 14.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/pc/development-secrets-of-dressmaker-ft-ruan-rothmann-sara-laubscher",
-          "titre": "Development secrets of Dressmaker, ft. Ruan Rothmann & Sara Laubscher"
-        }
-      ]
-    },
-    {
-      "id": "crusader-kings-publishers-paradox-announce-ceo-swap-say-they",
-      "titre": "Crusader Kings publishers Paradox announce CEO swap, say they're \"in a strong position at a time when much of the industry is facing major challenges\"",
-      "url": "https://www.rockpapershotgun.com/crusader-kings-publishers-paradox-announce-ceo-swap-say-theyre-in-a-strong-position-at-a-time-when-much-of-the-industry-is-facing-major-challenges",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 14.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/crusader-kings-publishers-paradox-announce-ceo-swap-say-theyre-in-a-strong-position-at-a-time-when-much-of-the-industry-is-facing-major-challenges",
-          "titre": "Crusader Kings publishers Paradox announce CEO swap, say they're \"in a strong position at a time when much of the industry is facing major challenges\""
-        }
-      ]
-    },
-    {
-      "id": "god-of-war-sons-of-sparta-really-will-be-ported-backwards-to",
-      "titre": "God of War: Sons of Sparta Really Will Be Ported Backwards to PS4",
-      "url": "https://www.pushsquare.com/news/2026/11/god-of-war-sons-of-sparta-really-will-be-ported-backwards-to-ps4",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 14.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/god-of-war-sons-of-sparta-really-will-be-ported-backwards-to-ps4",
-          "titre": "God of War: Sons of Sparta Really Will Be Ported Backwards to PS4"
         }
       ]
     }
