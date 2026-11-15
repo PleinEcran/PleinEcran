@@ -1,29 +1,47 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "14/11/2026 à 20h38",
+  "collecte": "15/11/2026 à 01h46",
   "seuil": 14,
   "sujets": [
     {
-      "id": "psa-gta-6-does-not-have-online-multiplayer-at-launch",
-      "titre": "PSA: GTA 6 Does Not Have Online Multiplayer at Launch",
-      "url": "https://www.pushsquare.com/news/2026/11/psa-gta-6-does-not-have-online-multiplayer-at-launch",
+      "id": "gta-6-s-212gb-ps5-file-size-prompts-madden-nfl-27-to-beg-you",
+      "titre": "GTA 6's 212GB PS5 File Size Prompts Madden NFL 27 to Beg You Not to Delete It",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6s-212gb-ps5-file-size-prompts-madden-nfl-27-to-beg-you-not-to-delete-it",
       "sources": [
-        "Eurogamer",
         "Push Square"
       ],
-      "reprises": 2,
-      "heures": 28.6,
-      "chaleur": 11,
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/psa-gta-6-does-not-have-online-multiplayer-at-launch",
-          "titre": "PSA: GTA 6 Does Not Have Online Multiplayer at Launch"
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6s-212gb-ps5-file-size-prompts-madden-nfl-27-to-beg-you-not-to-delete-it",
+          "titre": "GTA 6's 212GB PS5 File Size Prompts Madden NFL 27 to Beg You Not to Delete It"
+        }
+      ]
+    },
+    {
+      "id": "planeswalker-netflix-s-magic-the-gathering-animated-series-w",
+      "titre": "Planeswalker, Netflix's Magic: The Gathering animated series, will have a different art style for each plane",
+      "url": "https://www.pcgamer.com/movies-tv/planeswalker-netflixs-magic-the-gathering-animated-series-will-have-a-different-art-style-for-each-plane/",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 1.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/movies-tv/planeswalker-netflixs-magic-the-gathering-animated-series-will-have-a-different-art-style-for-each-plane/",
+          "titre": "Planeswalker, Netflix's Magic: The Gathering animated series, will have a different art style for each plane"
         },
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-map-leak-online-collectors-edition",
-          "titre": "One week from launch, GTA 6's physical map reportedly leaks online thanks to the £350 collector's edition on show in a UK department store"
+          "url": "https://www.eurogamer.net/magic-the-gathering-planeswalker-netflix-animated-series-2027",
+          "titre": "Magic: The Gathering animated series Planeswalker is coming to Netflix in 2027"
         }
       ]
     },
@@ -37,8 +55,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 7.6,
-      "chaleur": 10,
+      "heures": 12.8,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Push Square",
@@ -58,68 +76,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "guide-these-13-ps5-and-ps-plus-games-are-coming-out-next-wee",
-      "titre": "Guide: These 13+ PS5 and PS Plus Games Are Coming Out Next Week (16th-22nd November)",
-      "url": "https://www.pushsquare.com/guides/these-13plus-ps5-and-ps-plus-games-are-coming-out-next-week-16th-22nd-november",
+      "id": "the-game-awards-2026-nominees-to-be-announced-next-week-zeld",
+      "titre": "The Game Awards 2026 Nominees To Be Announced Next Week, Zelda And GTA 6 Eligible",
+      "url": "https://www.nintendolife.com/news/2026/11/the-game-awards-2026-nominees-to-be-announced-next-week-zelda-and-gta-6-eligible",
       "sources": [
         "Nintendo Life",
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 8.6,
-      "chaleur": 10,
+      "heures": 24.8,
+      "chaleur": 9,
       "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/guides/these-13plus-ps5-and-ps-plus-games-are-coming-out-next-week-16th-22nd-november",
-          "titre": "Guide: These 13+ PS5 and PS Plus Games Are Coming Out Next Week (16th-22nd November)"
-        },
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/these-30plus-games-are-coming-to-nintendo-switch-eshop-this-week-november-12",
-          "titre": "These 30+ Games Are Coming To Nintendo Switch eShop This Week (November 12)"
-        }
-      ]
-    },
-    {
-      "id": "congratulations-to-people-who-feel-mean-shooting-random-npcs",
-      "titre": "Congratulations to people who feel mean shooting random NPCs, because GTA 6 tries \"to provide mechanisms that encourage\" empathy",
-      "url": "https://www.rockpapershotgun.com/congratulations-to-people-who-feel-mean-shooting-random-npcs-because-gta-6-tries-to-provide-mechanisms-that-encourage-empathy",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 1.6,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/congratulations-to-people-who-feel-mean-shooting-random-npcs-because-gta-6-tries-to-provide-mechanisms-that-encourage-empathy",
-          "titre": "Congratulations to people who feel mean shooting random NPCs, because GTA 6 tries \"to provide mechanisms that encourage\" empathy"
-        }
-      ]
-    },
-    {
-      "id": "missed-something-on-your-first-go-around-the-blood-of-dawnwa",
-      "titre": "Missed something on your first go around The Blood of Dawnwalker? I've got good news, as next week's update adds in new game plus",
-      "url": "https://www.rockpapershotgun.com/missed-something-on-your-first-go-around-the-blood-of-dawnwalker-ive-got-good-news-as-next-weeks-update-adds-in-new-game-plus",
-      "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 3.8,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/missed-something-on-your-first-go-around-the-blood-of-dawnwalker-ive-got-good-news-as-next-weeks-update-adds-in-new-game-plus",
-          "titre": "Missed something on your first go around The Blood of Dawnwalker? I've got good news, as next week's update adds in new game plus"
+          "url": "https://www.nintendolife.com/news/2026/11/the-game-awards-2026-nominees-to-be-announced-next-week-zelda-and-gta-6-eligible",
+          "titre": "The Game Awards 2026 Nominees To Be Announced Next Week, Zelda And GTA 6 Eligible"
         },
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/blood-of-dawnwalker-new-game-plus",
-          "titre": "The Blood of Dawnwalker is getting a New Game Plus mode in next week's update"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/the-game-awards-2026-nominees-to-be-revealed-on-17th-november",
+          "titre": "The Game Awards 2026 Nominees to Be Revealed on 17th November"
         }
       ]
     },
@@ -132,8 +108,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 7.1,
-      "chaleur": 9,
+      "heures": 12.3,
+      "chaleur": 8,
       "liens": [
         {
           "source": "Push Square",
@@ -156,8 +132,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 7.8,
-      "chaleur": 9,
+      "heures": 12.9,
+      "chaleur": 8,
       "liens": [
         {
           "source": "PC Gamer",
@@ -172,140 +148,98 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-game-awards-2026-nominees-to-be-announced-next-week-zeld",
-      "titre": "The Game Awards 2026 Nominees To Be Announced Next Week, Zelda And GTA 6 Eligible",
-      "url": "https://www.nintendolife.com/news/2026/11/the-game-awards-2026-nominees-to-be-announced-next-week-zelda-and-gta-6-eligible",
+      "id": "one-week-from-launch-gta-6-s-physical-map-reportedly-leaks-o",
+      "titre": "One week from launch, GTA 6's physical map reportedly leaks online thanks to the £350 collector's edition on show in a UK department store",
+      "url": "https://www.eurogamer.net/gta-6-map-leak-online-collectors-edition",
       "sources": [
-        "Nintendo Life",
-        "Push Square"
+        "Eurogamer"
       ],
-      "reprises": 2,
-      "heures": 19.6,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/the-game-awards-2026-nominees-to-be-announced-next-week-zelda-and-gta-6-eligible",
-          "titre": "The Game Awards 2026 Nominees To Be Announced Next Week, Zelda And GTA 6 Eligible"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/the-game-awards-2026-nominees-to-be-revealed-on-17th-november",
-          "titre": "The Game Awards 2026 Nominees to Be Revealed on 17th November"
-        }
-      ]
-    },
-    {
-      "id": "8bitdo-ultimate-3e-wireless-controller-review",
-      "titre": "8BitDo Ultimate 3E wireless controller review",
-      "url": "https://www.pcgamer.com/hardware/controllers/8bitdo-ultimate-3e-review/",
-      "sources": [
-        "Nintendo Life",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 27.3,
+      "reprises": 1,
+      "heures": 34.6,
       "chaleur": 8,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/controllers/8bitdo-ultimate-3e-review/",
-          "titre": "8BitDo Ultimate 3E wireless controller review"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/crkd-ult-pro-controller-for-switch-1-and-2-a-decent-pad-let-down-by-awful-shoulder-and-bumper-buttons",
-          "titre": "Review: CRKD Ult Pro Controller For Switch 1 & 2 - A Decent Pad Let Down By Awful Shoulder & Bumper Buttons"
-        }
-      ]
-    },
-    {
-      "id": "vice-city-was-the-gta-that-established-rockstar-s-killer-for",
-      "titre": "Vice City was the GTA that established Rockstar's killer formula - and 24 years on, it's still one of the best games ever made",
-      "url": "https://www.eurogamer.net/gta-vice-city-retrospective",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 7,
-      "liens": [
-        {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-vice-city-retrospective",
-          "titre": "Vice City was the GTA that established Rockstar's killer formula - and 24 years on, it's still one of the best games ever made"
+          "url": "https://www.eurogamer.net/gta-6-map-leak-online-collectors-edition",
+          "titre": "One week from launch, GTA 6's physical map reportedly leaks online thanks to the £350 collector's edition on show in a UK department store"
         }
       ]
     },
     {
-      "id": "xbox-boss-announces-wolfenstein-3-and-confirms-new-game-in-d",
-      "titre": "Xbox boss announces Wolfenstein 3 and confirms new game in development at idSoftware despite reported job cut \"bloodbath\"",
-      "url": "https://www.eurogamer.net/wolfenstein-3-new-id-software-game-announced-xbox",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 32.3,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/wolfenstein-3-new-id-software-game-announced-xbox",
-          "titre": "Xbox boss announces Wolfenstein 3 and confirms new game in development at idSoftware despite reported job cut \"bloodbath\""
-        }
-      ]
-    },
-    {
-      "id": "steam-s-submission-and-approval-backlog-is-forcing-indie-dev",
-      "titre": "Steam's submission and approval backlog is forcing indie devs to delay game launches",
-      "url": "https://www.gamesindustry.biz/steams-submission-and-approval-backlog-is-forcing-indie-devs-to-delay-game-launches",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 32.6,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/steams-submission-and-approval-backlog-is-forcing-indie-devs-to-delay-game-launches",
-          "titre": "Steam's submission and approval backlog is forcing indie devs to delay game launches"
-        }
-      ]
-    },
-    {
-      "id": "from-2d-to-3d-and-back-to-2d-again-the-original-platforming",
-      "titre": "From 2D to 3D and back to 2D again, the original platforming classic Super Meat Boy returns with a slick remaster complete with new levels and too many old saws",
-      "url": "https://www.rockpapershotgun.com/from-2d-to-3d-and-back-to-2d-again-the-original-platforming-classic-super-meat-boy-returns-with-a-slick-remaster-complete-with-new-levels-and-too-many-old-saws",
+      "id": "congratulations-to-people-who-feel-mean-shooting-random-npcs",
+      "titre": "Congratulations to people who feel mean shooting random NPCs, because GTA 6 tries \"to provide mechanisms that encourage\" empathy",
+      "url": "https://www.rockpapershotgun.com/congratulations-to-people-who-feel-mean-shooting-random-npcs-because-gta-6-tries-to-provide-mechanisms-that-encourage-empathy",
       "sources": [
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
+      "heures": 6.8,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/from-2d-to-3d-and-back-to-2d-again-the-original-platforming-classic-super-meat-boy-returns-with-a-slick-remaster-complete-with-new-levels-and-too-many-old-saws",
-          "titre": "From 2D to 3D and back to 2D again, the original platforming classic Super Meat Boy returns with a slick remaster complete with new levels and too many old saws"
+          "url": "https://www.rockpapershotgun.com/congratulations-to-people-who-feel-mean-shooting-random-npcs-because-gta-6-tries-to-provide-mechanisms-that-encourage-empathy",
+          "titre": "Congratulations to people who feel mean shooting random NPCs, because GTA 6 tries \"to provide mechanisms that encourage\" empathy"
         }
       ]
     },
     {
-      "id": "do-you-like-mob-tagging-in-oldschool-mmos-or-are-you-done-wi",
-      "titre": "Do you like mob tagging in oldschool MMOs, or are you done with fighting for quest credit?",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/do-you-like-mob-tagging-in-oldschool-mmos-or-are-you-done-with-fighting-for-quest-credit/",
+      "id": "missed-something-on-your-first-go-around-the-blood-of-dawnwa",
+      "titre": "Missed something on your first go around The Blood of Dawnwalker? I've got good news, as next week's update adds in new game plus",
+      "url": "https://www.rockpapershotgun.com/missed-something-on-your-first-go-around-the-blood-of-dawnwalker-ive-got-good-news-as-next-weeks-update-adds-in-new-game-plus",
+      "sources": [
+        "Eurogamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 8.9,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/missed-something-on-your-first-go-around-the-blood-of-dawnwalker-ive-got-good-news-as-next-weeks-update-adds-in-new-game-plus",
+          "titre": "Missed something on your first go around The Blood of Dawnwalker? I've got good news, as next week's update adds in new game plus"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/blood-of-dawnwalker-new-game-plus",
+          "titre": "The Blood of Dawnwalker is getting a New Game Plus mode in next week's update"
+        }
+      ]
+    },
+    {
+      "id": "forage-and-fight-for-ingredients-in-a-magical-1960s-italy-an",
+      "titre": "Forage and fight for ingredients in a magical 1960s Italy and whip up some tasty meals Cooking Mama style in The Snackbar at the End of the World",
+      "url": "https://www.rockpapershotgun.com/forage-and-fight-for-ingredients-in-a-magical-1960s-italy-and-whip-up-some-tasty-meals-cooking-mama-style-in-the-snackbar-at-the-end-of-the-world",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 2.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/forage-and-fight-for-ingredients-in-a-magical-1960s-italy-and-whip-up-some-tasty-meals-cooking-mama-style-in-the-snackbar-at-the-end-of-the-world",
+          "titre": "Forage and fight for ingredients in a magical 1960s Italy and whip up some tasty meals Cooking Mama style in The Snackbar at the End of the World"
+        }
+      ]
+    },
+    {
+      "id": "wow-forever-dungeon-mobs-no-longer-give-exp-if-they-re-trivi",
+      "titre": "WoW: Forever dungeon mobs no longer give EXP if they're trivial for anyone in the party",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-dungeon-mobs-no-longer-give-exp-if-theyre-trivial-for-anyone-in-the-party/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 3.6,
+      "heures": 3.5,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/do-you-like-mob-tagging-in-oldschool-mmos-or-are-you-done-with-fighting-for-quest-credit/",
-          "titre": "Do you like mob tagging in oldschool MMOs, or are you done with fighting for quest credit?"
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-dungeon-mobs-no-longer-give-exp-if-theyre-trivial-for-anyone-in-the-party/",
+          "titre": "WoW: Forever dungeon mobs no longer give EXP if they're trivial for anyone in the party"
         }
       ]
     },
@@ -317,7 +251,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 9.8,
       "chaleur": 6,
       "liens": [
         {
@@ -335,13 +269,31 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 11.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/features/opinion-nintendo-made-ocarina-of-times-best-moment-even-better",
           "titre": "Opinion: Nintendo Made Ocarina Of Time's Best Moment Even Better"
+        }
+      ]
+    },
+    {
+      "id": "vice-city-was-the-gta-that-established-rockstar-s-killer-for",
+      "titre": "Vice City was the GTA that established Rockstar's killer formula - and 24 years on, it's still one of the best games ever made",
+      "url": "https://www.eurogamer.net/gta-vice-city-retrospective",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 15.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-vice-city-retrospective",
+          "titre": "Vice City was the GTA that established Rockstar's killer formula - and 24 years on, it's still one of the best games ever made"
         }
       ]
     },
@@ -353,7 +305,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 19.6,
+      "heures": 24.8,
       "chaleur": 6,
       "liens": [
         {
@@ -371,7 +323,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 22.2,
+      "heures": 27.3,
       "chaleur": 6,
       "liens": [
         {
@@ -390,7 +342,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 22.4,
+      "heures": 27.5,
       "chaleur": 6,
       "liens": [
         {
@@ -413,31 +365,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 24.8,
+      "heures": 29.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/legend-of-zelda-smaller-before-breath-of-the-wild",
           "titre": "Interest in The Legend of Zelda was \"getting smaller and smaller\" before Breath of the Wild, according to former Nintendo marketing leads"
-        }
-      ]
-    },
-    {
-      "id": "i-cannot-stop-everyone-staring-at-me-in-gta-5",
-      "titre": "I cannot stop everyone staring at me in GTA 5",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-cannot-stop-everyone-staring-at-me-in-gta-5/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 26.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-cannot-stop-everyone-staring-at-me-in-gta-5/",
-          "titre": "I cannot stop everyone staring at me in GTA 5"
         }
       ]
     },
@@ -449,7 +383,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 28.7,
+      "heures": 33.9,
       "chaleur": 6,
       "liens": [
         {
@@ -467,7 +401,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 28.8,
+      "heures": 33.9,
       "chaleur": 6,
       "liens": [
         {
@@ -486,7 +420,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 29.2,
+      "heures": 34.3,
       "chaleur": 6,
       "liens": [
         {
@@ -502,24 +436,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "will-gta-6-break-the-internet-uk-broadband-operator-braces-f",
-      "titre": "Will GTA 6 break the internet? UK broadband operator braces for impact, saying \"GTA 6 has been on our radar for a long time\"",
-      "url": "https://www.eurogamer.net/gta-6-internet-uk-broadband-ofcom-openreach",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 34.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-internet-uk-broadband-ofcom-openreach",
-          "titre": "Will GTA 6 break the internet? UK broadband operator braces for impact, saying \"GTA 6 has been on our radar for a long time\""
-        }
-      ]
-    },
-    {
       "id": "pikmin-s-mobile-soundtrack-has-been-added-to-nintendo-music",
       "titre": "Pikmin's Mobile Soundtrack Has Been Added To Nintendo Music, Here's Every Song Included",
       "url": "https://www.nintendolife.com/news/2026/11/pikmins-mobile-soundtrack-has-been-added-to-nintendo-music-heres-every-song-included",
@@ -527,7 +443,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.6,
+      "heures": 19.8,
       "chaleur": 5,
       "liens": [
         {
@@ -545,7 +461,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.1,
+      "heures": 22.3,
       "chaleur": 5,
       "liens": [
         {
@@ -563,7 +479,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.6,
+      "heures": 25.8,
       "chaleur": 5,
       "liens": [
         {
@@ -581,7 +497,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 26.9,
+      "heures": 32.0,
       "chaleur": 5,
       "liens": [
         {
@@ -599,7 +515,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 28.4,
+      "heures": 33.5,
       "chaleur": 5,
       "liens": [
         {
@@ -617,7 +533,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 28.6,
+      "heures": 33.8,
       "chaleur": 5,
       "liens": [
         {
@@ -635,7 +551,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.1,
+      "heures": 34.3,
       "chaleur": 5,
       "liens": [
         {
@@ -653,7 +569,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 29.4,
+      "heures": 34.5,
       "chaleur": 5,
       "liens": [
         {
@@ -671,7 +587,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 29.7,
+      "heures": 34.8,
       "chaleur": 5,
       "liens": [
         {
@@ -682,38 +598,92 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-series-was-in-dire-straits-kit-krysta-recall-zelda-s-pr",
-      "titre": "\"The Series Was In Dire Straits\" - Kit & Krysta Recall Zelda's Pre-BOTW Dark Times",
-      "url": "https://www.nintendolife.com/news/2026/11/the-series-was-in-dire-straits-kit-and-krysta-recall-zeldas-pre-botw-dark-times",
+      "id": "review-crkd-ult-pro-controller-for-switch-1-2-a-decent-pad-l",
+      "titre": "Review: CRKD Ult Pro Controller For Switch 1 & 2 - A Decent Pad Let Down By Awful Shoulder & Bumper Buttons",
+      "url": "https://www.nintendolife.com/reviews/crkd-ult-pro-controller-for-switch-1-and-2-a-decent-pad-let-down-by-awful-shoulder-and-bumper-buttons",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 31.1,
+      "heures": 35.8,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/the-series-was-in-dire-straits-kit-and-krysta-recall-zeldas-pre-botw-dark-times",
-          "titre": "\"The Series Was In Dire Straits\" - Kit & Krysta Recall Zelda's Pre-BOTW Dark Times"
+          "url": "https://www.nintendolife.com/reviews/crkd-ult-pro-controller-for-switch-1-and-2-a-decent-pad-let-down-by-awful-shoulder-and-bumper-buttons",
+          "titre": "Review: CRKD Ult Pro Controller For Switch 1 & 2 - A Decent Pad Let Down By Awful Shoulder & Bumper Buttons"
         }
       ]
     },
     {
-      "id": "wolfenstein-3-and-new-id-software-game-confirmed-as-xbox-bos",
-      "titre": "Wolfenstein 3 and new id Software game confirmed, as Xbox boss somehow unrelatedly shouts about one person soon wielding \"capabilities that once required entire nations\"",
-      "url": "https://www.rockpapershotgun.com/wolfenstein-3-and-new-id-software-game-confirmed-as-xbox-boss-somehow-unrelatedly-shouts-about-one-person-soon-wieldling-capabilities-that-once-required-entire-nations",
+      "id": "rasen-out-in-early-access-now-is-a-pvp-focused-take-on-dark",
+      "titre": "Rasen, out in early access now, is a PvP focused take on Dark Souls that borrows one of fighting games' best techy tricks",
+      "url": "https://www.rockpapershotgun.com/rasen-out-in-early-access-now-is-a-pvp-focused-take-on-dark-souls-that-borrows-one-of-fighting-games-best-techy-tricks",
       "sources": [
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 34.1,
-      "chaleur": 5,
+      "heures": 4.3,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/wolfenstein-3-and-new-id-software-game-confirmed-as-xbox-boss-somehow-unrelatedly-shouts-about-one-person-soon-wieldling-capabilities-that-once-required-entire-nations",
-          "titre": "Wolfenstein 3 and new id Software game confirmed, as Xbox boss somehow unrelatedly shouts about one person soon wielding \"capabilities that once required entire nations\""
+          "url": "https://www.rockpapershotgun.com/rasen-out-in-early-access-now-is-a-pvp-focused-take-on-dark-souls-that-borrows-one-of-fighting-games-best-techy-tricks",
+          "titre": "Rasen, out in early access now, is a PvP focused take on Dark Souls that borrows one of fighting games' best techy tricks"
+        }
+      ]
+    },
+    {
+      "id": "is-the-game-funny-or-just-the-players-jackbox-ceo-says-they",
+      "titre": "Is the game funny, or just the players? Jackbox CEO says they get 'a lot of false positives' with a staff of comedy writers",
+      "url": "https://www.pcgamer.com/games/is-the-game-funny-or-just-the-players-jackbox-ceo-says-they-get-a-lot-of-false-positives-with-a-staff-of-comedy-writers/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/is-the-game-funny-or-just-the-players-jackbox-ceo-says-they-get-a-lot-of-false-positives-with-a-staff-of-comedy-writers/",
+          "titre": "Is the game funny, or just the players? Jackbox CEO says they get 'a lot of false positives' with a staff of comedy writers"
+        }
+      ]
+    },
+    {
+      "id": "from-2d-to-3d-and-back-to-2d-again-the-original-platforming",
+      "titre": "From 2D to 3D and back to 2D again, the original platforming classic Super Meat Boy returns with a slick remaster complete with new levels and too many old saws",
+      "url": "https://www.rockpapershotgun.com/from-2d-to-3d-and-back-to-2d-again-the-original-platforming-classic-super-meat-boy-returns-with-a-slick-remaster-complete-with-new-levels-and-too-many-old-saws",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 7.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/from-2d-to-3d-and-back-to-2d-again-the-original-platforming-classic-super-meat-boy-returns-with-a-slick-remaster-complete-with-new-levels-and-too-many-old-saws",
+          "titre": "From 2D to 3D and back to 2D again, the original platforming classic Super Meat Boy returns with a slick remaster complete with new levels and too many old saws"
+        }
+      ]
+    },
+    {
+      "id": "do-you-like-mob-tagging-in-oldschool-mmos-or-are-you-done-wi",
+      "titre": "Do you like mob tagging in oldschool MMOs, or are you done with fighting for quest credit?",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/do-you-like-mob-tagging-in-oldschool-mmos-or-are-you-done-with-fighting-for-quest-credit/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 8.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/do-you-like-mob-tagging-in-oldschool-mmos-or-are-you-done-with-fighting-for-quest-credit/",
+          "titre": "Do you like mob tagging in oldschool MMOs, or are you done with fighting for quest credit?"
         }
       ]
     },
@@ -725,7 +695,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 9.8,
       "chaleur": 4,
       "liens": [
         {
@@ -737,19 +707,19 @@ const VEILLE = {
     },
     {
       "id": "dishonored-2-director-harvey-smith-wants-to-honour-sacred-im",
-      "titre": "Dishonored 2 director Harvey Smith wants to honour sacred imsim texts while finding news ways to surprise fans: \"That's the two wolves inside me\"",
+      "titre": "Dishonored 2 director Harvey Smith wants to honour sacred imsim texts while finding news ways to surprise fans: 'That's the two wolves inside me'",
       "url": "https://www.pcgamer.com/games/sim/dishonored-2-director-harvey-smith-wants-to-honour-sacred-imsim-texts-while-finding-news-ways-to-surprise-fans-thats-the-two-wolves-inside-me/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.6,
+      "heures": 10.8,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/sim/dishonored-2-director-harvey-smith-wants-to-honour-sacred-imsim-texts-while-finding-news-ways-to-surprise-fans-thats-the-two-wolves-inside-me/",
-          "titre": "Dishonored 2 director Harvey Smith wants to honour sacred imsim texts while finding news ways to surprise fans: \"That's the two wolves inside me\""
+          "titre": "Dishonored 2 director Harvey Smith wants to honour sacred imsim texts while finding news ways to surprise fans: 'That's the two wolves inside me'"
         }
       ]
     },
@@ -761,7 +731,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 11.0,
       "chaleur": 4,
       "liens": [
         {
@@ -779,7 +749,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -797,7 +767,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.6,
+      "heures": 11.8,
       "chaleur": 4,
       "liens": [
         {
@@ -808,20 +778,38 @@ const VEILLE = {
       ]
     },
     {
+      "id": "guide-these-13-ps5-and-ps-plus-games-are-coming-out-next-wee",
+      "titre": "Guide: These 13+ PS5 and PS Plus Games Are Coming Out Next Week (16th-22nd November)",
+      "url": "https://www.pushsquare.com/guides/these-13plus-ps5-and-ps-plus-games-are-coming-out-next-week-16th-22nd-november",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 13.8,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/guides/these-13plus-ps5-and-ps-plus-games-are-coming-out-next-week-16th-22nd-november",
+          "titre": "Guide: These 13+ PS5 and PS Plus Games Are Coming Out Next Week (16th-22nd November)"
+        }
+      ]
+    },
+    {
       "id": "indiana-jones-and-the-great-circle-once-had-a-grand-theft-au",
-      "titre": "Indiana Jones and the Great Circle once had a Grand Theft Auto inspired wanted system, because MachineGames was 'afraid' players would kill all the Nazis 'with just guns'",
+      "titre": "Indiana Jones and the Great Circle once had a Grand Theft Auto-inspired wanted system, because MachineGames was 'afraid' players would kill all the Nazis 'with just guns'",
       "url": "https://www.pcgamer.com/games/action/indiana-jones-and-the-great-circle-once-had-a-grand-theft-auto-inspired-wanted-system-because-machinegames-was-afraid-players-would-kill-all-the-nazis-with-just-guns/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.2,
-      "chaleur": 4,
+      "heures": 14.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/action/indiana-jones-and-the-great-circle-once-had-a-grand-theft-auto-inspired-wanted-system-because-machinegames-was-afraid-players-would-kill-all-the-nazis-with-just-guns/",
-          "titre": "Indiana Jones and the Great Circle once had a Grand Theft Auto inspired wanted system, because MachineGames was 'afraid' players would kill all the Nazis 'with just guns'"
+          "titre": "Indiana Jones and the Great Circle once had a Grand Theft Auto-inspired wanted system, because MachineGames was 'afraid' players would kill all the Nazis 'with just guns'"
         }
       ]
     },
@@ -833,31 +821,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.4,
-      "chaleur": 4,
+      "heures": 14.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/call-of-duty-endowment-valor-pack-remembrance-day-veterans",
           "titre": "Call of Duty Endowment marks Remembrance Day with veterans' Valor Pack push"
-        }
-      ]
-    },
-    {
-      "id": "magic-the-gathering-animated-series-planeswalker-is-coming-t",
-      "titre": "Magic: The Gathering animated series Planeswalker is coming to Netflix in 2027",
-      "url": "https://www.eurogamer.net/magic-the-gathering-planeswalker-netflix-animated-series-2027",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 10.0,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/magic-the-gathering-planeswalker-netflix-animated-series-2027",
-          "titre": "Magic: The Gathering animated series Planeswalker is coming to Netflix in 2027"
         }
       ]
     },
@@ -869,7 +839,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 17.8,
       "chaleur": 3,
       "liens": [
         {
@@ -887,7 +857,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.1,
+      "heures": 23.3,
       "chaleur": 3,
       "liens": [
         {
@@ -905,7 +875,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.6,
+      "heures": 23.8,
       "chaleur": 3,
       "liens": [
         {
@@ -923,7 +893,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 24.0,
+      "heures": 29.2,
       "chaleur": 3,
       "liens": [
         {
@@ -941,7 +911,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 24.7,
+      "heures": 29.9,
       "chaleur": 3,
       "liens": [
         {
@@ -959,31 +929,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 25.6,
+      "heures": 30.8,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/11/star-wars-galactic-racer-reaches-1-5-million-players-teases-future-updates",
           "titre": "Star Wars: Galactic Racer Reaches 1.5 Million Players, Teases Future Updates"
-        }
-      ]
-    },
-    {
-      "id": "think-you-know-videogame-cats-then-name-17-of-them",
-      "titre": "Think you know videogame cats? Then name 17 of them",
-      "url": "https://www.pcgamer.com/games/think-you-know-videogame-cats-then-name-17-of-them/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 25.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/think-you-know-videogame-cats-then-name-17-of-them/",
-          "titre": "Think you know videogame cats? Then name 17 of them"
         }
       ]
     },
@@ -995,7 +947,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 26.1,
+      "heures": 31.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1013,7 +965,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 26.6,
+      "heures": 31.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1031,7 +983,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 27.1,
+      "heures": 32.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1049,7 +1001,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 27.1,
+      "heures": 32.3,
       "chaleur": 3,
       "liens": [
         {
@@ -1067,7 +1019,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 27.5,
+      "heures": 32.7,
       "chaleur": 3,
       "liens": [
         {
@@ -1085,7 +1037,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 27.6,
+      "heures": 32.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1103,7 +1055,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 28.0,
+      "heures": 33.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1121,7 +1073,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 28.1,
+      "heures": 33.2,
       "chaleur": 3,
       "liens": [
         {
@@ -1139,13 +1091,49 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 28.1,
+      "heures": 33.3,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/11/play-the-blood-of-dawnwalker-again-in-new-gameplus-part-of-ps5-patch-1-2",
           "titre": "Play The Blood of Dawnwalker Again in New Game+, Part of PS5 Patch 1.2"
+        }
+      ]
+    },
+    {
+      "id": "development-secrets-of-dressmaker-ft-ruan-rothmann-sara-laub",
+      "titre": "Development secrets of Dressmaker, ft. Ruan Rothmann & Sara Laubscher",
+      "url": "https://www.gamedeveloper.com/pc/development-secrets-of-dressmaker-ft-ruan-rothmann-sara-laubscher",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 33.7,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/pc/development-secrets-of-dressmaker-ft-ruan-rothmann-sara-laubscher",
+          "titre": "Development secrets of Dressmaker, ft. Ruan Rothmann & Sara Laubscher"
+        }
+      ]
+    },
+    {
+      "id": "crusader-kings-publishers-paradox-announce-ceo-swap-say-they",
+      "titre": "Crusader Kings publishers Paradox announce CEO swap, say they're \"in a strong position at a time when much of the industry is facing major challenges\"",
+      "url": "https://www.rockpapershotgun.com/crusader-kings-publishers-paradox-announce-ceo-swap-say-theyre-in-a-strong-position-at-a-time-when-much-of-the-industry-is-facing-major-challenges",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 34.0,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/crusader-kings-publishers-paradox-announce-ceo-swap-say-theyre-in-a-strong-position-at-a-time-when-much-of-the-industry-is-facing-major-challenges",
+          "titre": "Crusader Kings publishers Paradox announce CEO swap, say they're \"in a strong position at a time when much of the industry is facing major challenges\""
         }
       ]
     }
