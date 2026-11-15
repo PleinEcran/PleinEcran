@@ -1,8 +1,56 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "15/11/2026 à 09h12",
+  "collecte": "15/11/2026 à 16h59",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "the-latest-gta-6-leak-comes-in-the-form-of-a-34-song-trackli",
+      "titre": "The latest GTA 6 leak comes in the form of a 34-song tracklist for GTA 6: The Album, featuring Dua Lipa, Lana Del Rey, Rina Sawayama, and more",
+      "url": "https://www.eurogamer.net/gta-6-tracklist-leak",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 2.9,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-tracklist-leak",
+          "titre": "The latest GTA 6 leak comes in the form of a 34-song tracklist for GTA 6: The Album, featuring Dua Lipa, Lana Del Rey, Rina Sawayama, and more"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-soundtrack-leak-confirmed-accurate-with-new-songs-from-lana-del-rey-playboi-carti-and-keith-richards/",
+          "titre": "GTA 6 soundtrack leak confirmed accurate with new songs from Lana Del Rey, Playboi Carti, and Keith Richards"
+        }
+      ]
+    },
+    {
+      "id": "queen-s-domain-is-the-best-dark-souls-1-since-dark-souls-1",
+      "titre": "Queen's Domain is the best Dark Souls 1 since Dark Souls 1",
+      "url": "https://www.pcgamer.com/games/rpg/queens-domain-is-the-best-dark-souls-1-since-dark-souls-1/",
+      "sources": [
+        "PC Gamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 2.0,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/queens-domain-is-the-best-dark-souls-1-since-dark-souls-1/",
+          "titre": "Queen's Domain is the best Dark Souls 1 since Dark Souls 1"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/rasen-out-in-early-access-now-is-a-pvp-focused-take-on-dark-souls-that-borrows-one-of-fighting-games-best-techy-tricks",
+          "titre": "Rasen, out in early access now, is a PvP focused take on Dark Souls that borrows one of fighting games' best techy tricks"
+        }
+      ]
+    },
     {
       "id": "poll-are-you-hyped-for-november-s-10-new-ps-plus-games",
       "titre": "Poll: Are You Hyped for November's 10 New PS Plus Games?",
@@ -13,7 +61,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 20.2,
+      "heures": 28.0,
       "chaleur": 9,
       "liens": [
         {
@@ -34,6 +82,156 @@ const VEILLE = {
       ]
     },
     {
+      "id": "playstation-black-friday-sale-knocks-up-to-100-off-ps5-acces",
+      "titre": "PlayStation Black Friday Sale Knocks Up to $100 Off PS5 Accessories, PSVR2",
+      "url": "https://www.pushsquare.com/news/2026/11/playstation-black-friday-sale-knocks-up-to-usd100-off-ps5-accessories-psvr2",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.0,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/playstation-black-friday-sale-knocks-up-to-usd100-off-ps5-accessories-psvr2",
+          "titre": "PlayStation Black Friday Sale Knocks Up to $100 Off PS5 Accessories, PSVR2"
+        }
+      ]
+    },
+    {
+      "id": "rumour-rainbow-six-vegas-3-now-in-the-works-at-ubisoft",
+      "titre": "Rumour: Rainbow Six: Vegas 3 Now in the Works at Ubisoft",
+      "url": "https://www.pushsquare.com/news/2026/11/rumour-rainbow-six-vegas-3-now-in-the-works-at-ubisoft",
+      "sources": [
+        "Eurogamer",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 27.5,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/rumour-rainbow-six-vegas-3-now-in-the-works-at-ubisoft",
+          "titre": "Rumour: Rainbow Six: Vegas 3 Now in the Works at Ubisoft"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/rainbow-six-vegas-new-game-ubisoft-spades-report",
+          "titre": "Ubisoft is reportedly making a new Rainbow Six Vegas game, nearly two decades after Vegas 2"
+        }
+      ]
+    },
+    {
+      "id": "what-s-the-best-gta",
+      "titre": "What's the best GTA?",
+      "url": "https://www.eurogamer.net/the-big-question-whats-the-best-gta",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 7.0,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/the-big-question-whats-the-best-gta",
+          "titre": "What's the best GTA?"
+        }
+      ]
+    },
+    {
+      "id": "slay-the-spire-2-has-a-new-character-in-testing-and-she-s-re",
+      "titre": "Slay the Spire 2 has a new character in testing, and she's really quite busted",
+      "url": "https://www.pcgamer.com/games/roguelike/slay-the-spire-2-has-a-new-character-in-testing-and-shes-really-quite-busted/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/roguelike/slay-the-spire-2-has-a-new-character-in-testing-and-shes-really-quite-busted/",
+          "titre": "Slay the Spire 2 has a new character in testing, and she's really quite busted"
+        }
+      ]
+    },
+    {
+      "id": "treyarch-lays-off-lead-call-of-duty-writer-and-zombies-veter",
+      "titre": "Treyarch lays off lead Call of Duty writer and Zombies veteran after \"approximately 20 years\" of service",
+      "url": "https://www.eurogamer.net/craig-houston-layoff-treyarch-call-of-duty-layoffs",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/craig-houston-layoff-treyarch-call-of-duty-layoffs",
+          "titre": "Treyarch lays off lead Call of Duty writer and Zombies veteran after \"approximately 20 years\" of service"
+        }
+      ]
+    },
+    {
+      "id": "blade-runner-2099-bosses-hint-at-a-possible-triple-a-blade-r",
+      "titre": "Blade Runner 2099 bosses hint at a possible \"triple-A\" Blade Runner game in the future - just don't expect it any time soon",
+      "url": "https://www.eurogamer.net/blade-runner-2099-triple-a-talks",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 2.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/blade-runner-2099-triple-a-talks",
+          "titre": "Blade Runner 2099 bosses hint at a possible \"triple-A\" Blade Runner game in the future - just don't expect it any time soon"
+        }
+      ]
+    },
+    {
+      "id": "this-rts-inspired-by-star-wars-empire-at-war-promises-coloss",
+      "titre": "This RTS inspired by Star Wars: Empire at War promises colossal space encounters and planetary battles with 'hundreds of thousands of units'",
+      "url": "https://www.pcgamer.com/games/rts/this-rts-inspired-by-star-wars-empire-at-war-promises-colossal-space-encounters-and-planetary-battles-with-hundreds-of-thousands-of-units/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rts/this-rts-inspired-by-star-wars-empire-at-war-promises-colossal-space-encounters-and-planetary-battles-with-hundreds-of-thousands-of-units/",
+          "titre": "This RTS inspired by Star Wars: Empire at War promises colossal space encounters and planetary battles with 'hundreds of thousands of units'"
+        }
+      ]
+    },
+    {
+      "id": "the-sunday-papers",
+      "titre": "The Sunday Papers",
+      "url": "https://www.rockpapershotgun.com/the-sunday-papers-836",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 4.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-sunday-papers-836",
+          "titre": "The Sunday Papers"
+        }
+      ]
+    },
+    {
       "id": "zelda-notes-reveals-top-game-over-causes-and-more-global-pla",
       "titre": "Zelda Notes Reveals Top 'Game Over Causes' And More Global Play Data In Ocarina Of Time Remake",
       "url": "https://www.nintendolife.com/news/2026/11/zelda-notes-reveals-top-game-over-causes-and-more-global-play-data-in-ocarina-of-time-remake",
@@ -41,8 +239,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.7,
-      "chaleur": 8,
+      "heures": 9.5,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -59,55 +257,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 8,
+      "heures": 10.5,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/11/minecraft-is-getting-joy-con-mouse-controls-on-switch-2-in-a-future-update",
           "titre": "Minecraft Is Getting Joy-Con Mouse Controls On Switch 2 In A Future Update"
-        }
-      ]
-    },
-    {
-      "id": "rumour-rainbow-six-vegas-3-now-in-the-works-at-ubisoft",
-      "titre": "Rumour: Rainbow Six: Vegas 3 Now in the Works at Ubisoft",
-      "url": "https://www.pushsquare.com/news/2026/11/rumour-rainbow-six-vegas-3-now-in-the-works-at-ubisoft",
-      "sources": [
-        "Eurogamer",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 19.7,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/rumour-rainbow-six-vegas-3-now-in-the-works-at-ubisoft",
-          "titre": "Rumour: Rainbow Six: Vegas 3 Now in the Works at Ubisoft"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/rainbow-six-vegas-new-game-ubisoft-spades-report",
-          "titre": "Ubisoft is reportedly making a new Rainbow Six Vegas game, nearly two decades after Vegas 2"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-soundtrack-leak-confirmed-accurate-with-new-songs-from",
-      "titre": "GTA 6 soundtrack leak confirmed accurate with new songs from Lana Del Rey, Playboi Carti, and Keith Richards",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-soundtrack-leak-confirmed-accurate-with-new-songs-from-lana-del-rey-playboi-carti-and-keith-richards/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 4.3,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-soundtrack-leak-confirmed-accurate-with-new-songs-from-lana-del-rey-playboi-carti-and-keith-richards/",
-          "titre": "GTA 6 soundtrack leak confirmed accurate with new songs from Lana Del Rey, Playboi Carti, and Keith Richards"
         }
       ]
     },
@@ -119,8 +275,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.2,
-      "chaleur": 7,
+      "heures": 17.0,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
@@ -138,8 +294,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 9.4,
-      "chaleur": 7,
+      "heures": 17.2,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
@@ -154,42 +310,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "fatal-fury-city-of-the-wolves-is-adding-laocorn-from-the-mot",
-      "titre": "Fatal Fury: City Of The Wolves Is Adding Laocorn From The Motion Picture",
-      "url": "https://www.nintendolife.com/news/2026/11/fatal-fury-city-of-the-wolves-is-adding-laocorn-from-the-motion-picture",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 0.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/fatal-fury-city-of-the-wolves-is-adding-laocorn-from-the-motion-picture",
-          "titre": "Fatal Fury: City Of The Wolves Is Adding Laocorn From The Motion Picture"
-        }
-      ]
-    },
-    {
-      "id": "the-most-annoying-questgivers-in-pc-games",
-      "titre": "The most annoying questgivers in PC games",
-      "url": "https://www.pcgamer.com/games/the-most-annoying-questgivers-in-pc-games/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-most-annoying-questgivers-in-pc-games/",
-          "titre": "The most annoying questgivers in PC games"
-        }
-      ]
-    },
-    {
       "id": "congratulations-to-people-who-feel-mean-shooting-random-npcs",
       "titre": "Congratulations to people who feel mean shooting random NPCs, because GTA 6 tries \"to provide mechanisms that encourage\" empathy",
       "url": "https://www.rockpapershotgun.com/congratulations-to-people-who-feel-mean-shooting-random-npcs-because-gta-6-tries-to-provide-mechanisms-that-encourage-empathy",
@@ -197,85 +317,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 14.2,
+      "heures": 22.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/congratulations-to-people-who-feel-mean-shooting-random-npcs-because-gta-6-tries-to-provide-mechanisms-that-encourage-empathy",
           "titre": "Congratulations to people who feel mean shooting random NPCs, because GTA 6 tries \"to provide mechanisms that encourage\" empathy"
-        }
-      ]
-    },
-    {
-      "id": "vice-city-was-the-gta-that-established-rockstar-s-killer-for",
-      "titre": "Vice City was the GTA that established Rockstar's killer formula - and 24 years on, it's still one of the best games ever made",
-      "url": "https://www.eurogamer.net/gta-vice-city-retrospective",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 23.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-vice-city-retrospective",
-          "titre": "Vice City was the GTA that established Rockstar's killer formula - and 24 years on, it's still one of the best games ever made"
-        }
-      ]
-    },
-    {
-      "id": "the-game-awards-2026-nominees-to-be-announced-next-week-zeld",
-      "titre": "The Game Awards 2026 Nominees To Be Announced Next Week, Zelda And GTA 6 Eligible",
-      "url": "https://www.nintendolife.com/news/2026/11/the-game-awards-2026-nominees-to-be-announced-next-week-zelda-and-gta-6-eligible",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 32.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/the-game-awards-2026-nominees-to-be-announced-next-week-zelda-and-gta-6-eligible",
-          "titre": "The Game Awards 2026 Nominees To Be Announced Next Week, Zelda And GTA 6 Eligible"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-ps5-codes-potentially-being-stolen-from-physical-copie",
-      "titre": "GTA 6 PS5 Codes Potentially Being Stolen from Physical Copies Using Flashlight Trick",
-      "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-codes-potentially-being-stolen-from-physical-copies-using-flashlight-trick",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 32.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-codes-potentially-being-stolen-from-physical-copies-using-flashlight-trick",
-          "titre": "GTA 6 PS5 Codes Potentially Being Stolen from Physical Copies Using Flashlight Trick"
-        }
-      ]
-    },
-    {
-      "id": "yes-some-brave-games-are-still-launching-on-steam-during-gta",
-      "titre": "Yes, some brave games are still launching on Steam during GTA 6 week",
-      "url": "https://www.pcgamer.com/games/yes-some-brave-games-are-still-launching-on-steam-during-gta-6-launch-week/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 34.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/yes-some-brave-games-are-still-launching-on-steam-during-gta-6-launch-week/",
-          "titre": "Yes, some brave games are still launching on Steam during GTA 6 week"
         }
       ]
     },
@@ -287,7 +335,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.2,
+      "heures": 25.0,
       "chaleur": 5,
       "liens": [
         {
@@ -305,31 +353,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.2,
+      "heures": 27.0,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/features/opinion-nintendo-made-ocarina-of-times-best-moment-even-better",
           "titre": "Opinion: Nintendo Made Ocarina Of Time's Best Moment Even Better"
-        }
-      ]
-    },
-    {
-      "id": "40-of-game-developers-use-generative-ai-according-to-a-new-r",
-      "titre": "40% of game developers use generative AI according to a new report, but more than half reckon the technology has a negative impact on the games industry",
-      "url": "https://www.pcgamer.com/software/ai/40-percent-of-game-developers-use-generative-ai-according-to-a-new-report-but-more-than-half-reckon-the-technology-has-a-negative-impact-on-the-games-industry/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 20.3,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/40-percent-of-game-developers-use-generative-ai-according-to-a-new-report-but-more-than-half-reckon-the-technology-has-a-negative-impact-on-the-games-industry/",
-          "titre": "40% of game developers use generative AI according to a new report, but more than half reckon the technology has a negative impact on the games industry"
         }
       ]
     },
@@ -341,7 +371,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.2,
+      "heures": 35.0,
       "chaleur": 5,
       "liens": [
         {
@@ -352,38 +382,110 @@ const VEILLE = {
       ]
     },
     {
-      "id": "icymi-limited-run-games-announces-restock-of-tomb-raider-def",
-      "titre": "ICYMI: Limited Run Games Announces Restock Of Tomb Raider: Definitive Edition For Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/11/icymi-limited-run-games-announces-restock-of-tomb-raider-definitive-edition-for-switch-2",
+      "id": "former-survival-mmo-dune-awakening-can-now-be-played-without",
+      "titre": "Former survival MMO Dune: Awakening can now be played 'without requiring an Internet connection at any point' as its much requested offline mode arrives",
+      "url": "https://www.pcgamer.com/games/survival-crafting/former-survival-mmo-dune-awakening-can-now-be-played-without-requiring-an-internet-connection-at-any-point-as-its-much-requested-offline-mode-arrives/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 29.7,
-      "chaleur": 5,
+      "heures": 4.4,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/icymi-limited-run-games-announces-restock-of-tomb-raider-definitive-edition-for-switch-2",
-          "titre": "ICYMI: Limited Run Games Announces Restock Of Tomb Raider: Definitive Edition For Switch 2"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/survival-crafting/former-survival-mmo-dune-awakening-can-now-be-played-without-requiring-an-internet-connection-at-any-point-as-its-much-requested-offline-mode-arrives/",
+          "titre": "Former survival MMO Dune: Awakening can now be played 'without requiring an Internet connection at any point' as its much requested offline mode arrives"
         }
       ]
     },
     {
-      "id": "metaphor-refantazio-switch-2-patch-to-resolve-colour-glitch",
-      "titre": "Metaphor: ReFantazio Switch 2 Patch To Resolve Colour Glitch",
-      "url": "https://www.nintendolife.com/news/2026/11/metaphor-refantazio-switch-2-patch-to-resolve-colour-glitch",
+      "id": "ps-plus-subscriptions-on-sale-from-tomorrow-but-there-s-a-bi",
+      "titre": "PS Plus Subscriptions on Sale from Tomorrow, But There's a Big Catch",
+      "url": "https://www.pushsquare.com/news/2026/11/ps-plus-subscriptions-on-sale-from-tomorrow-but-theres-a-big-catch",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 4.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/ps-plus-subscriptions-on-sale-from-tomorrow-but-theres-a-big-catch",
+          "titre": "PS Plus Subscriptions on Sale from Tomorrow, But There's a Big Catch"
+        }
+      ]
+    },
+    {
+      "id": "chronicles-medieval-developer-declared-bankruptcy-on-the-day",
+      "titre": "Chronicles: Medieval developer declared bankruptcy on the day it announced it was in trouble, but development will continue after a $5 million reprieve from Coffee Stain",
+      "url": "https://www.pcgamer.com/games/strategy/chronicles-medieval-developer-declared-bankruptcy-on-the-day-it-announced-it-was-in-trouble-but-development-will-continue-after-a-usd5-million-reprieve-from-coffee-stain/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/strategy/chronicles-medieval-developer-declared-bankruptcy-on-the-day-it-announced-it-was-in-trouble-but-development-will-continue-after-a-usd5-million-reprieve-from-coffee-stain/",
+          "titre": "Chronicles: Medieval developer declared bankruptcy on the day it announced it was in trouble, but development will continue after a $5 million reprieve from Coffee Stain"
+        }
+      ]
+    },
+    {
+      "id": "poll-which-dr-mario-puzzle-league-box-art-is-the-best",
+      "titre": "Poll: Which Dr. Mario & Puzzle League Box Art Is The Best?",
+      "url": "https://www.nintendolife.com/features/poll-which-dr-mario-and-puzzle-league-box-art-is-the-best",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 33.2,
-      "chaleur": 5,
+      "heures": 7.0,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/metaphor-refantazio-switch-2-patch-to-resolve-colour-glitch",
-          "titre": "Metaphor: ReFantazio Switch 2 Patch To Resolve Colour Glitch"
+          "url": "https://www.nintendolife.com/features/poll-which-dr-mario-and-puzzle-league-box-art-is-the-best",
+          "titre": "Poll: Which Dr. Mario & Puzzle League Box Art Is The Best?"
+        }
+      ]
+    },
+    {
+      "id": "fatal-fury-city-of-the-wolves-is-adding-laocorn-from-the-mot",
+      "titre": "Fatal Fury: City Of The Wolves Is Adding Laocorn From The Motion Picture",
+      "url": "https://www.nintendolife.com/news/2026/11/fatal-fury-city-of-the-wolves-is-adding-laocorn-from-the-motion-picture",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 8.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/fatal-fury-city-of-the-wolves-is-adding-laocorn-from-the-motion-picture",
+          "titre": "Fatal Fury: City Of The Wolves Is Adding Laocorn From The Motion Picture"
+        }
+      ]
+    },
+    {
+      "id": "the-most-annoying-questgivers-in-pc-games",
+      "titre": "The most annoying questgivers in PC games",
+      "url": "https://www.pcgamer.com/games/the-most-annoying-questgivers-in-pc-games/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 9.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-most-annoying-questgivers-in-pc-games/",
+          "titre": "The most annoying questgivers in PC games"
         }
       ]
     },
@@ -395,8 +497,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 4,
+      "heures": 18.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -413,31 +515,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 4,
+      "heures": 18.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-dungeon-mobs-no-longer-give-exp-if-theyre-trivial-for-anyone-in-the-party/",
           "titre": "WoW: Forever dungeon mobs no longer give EXP if they're trivial for anyone in the party"
-        }
-      ]
-    },
-    {
-      "id": "rasen-out-in-early-access-now-is-a-pvp-focused-take-on-dark",
-      "titre": "Rasen, out in early access now, is a PvP focused take on Dark Souls that borrows one of fighting games' best techy tricks",
-      "url": "https://www.rockpapershotgun.com/rasen-out-in-early-access-now-is-a-pvp-focused-take-on-dark-souls-that-borrows-one-of-fighting-games-best-techy-tricks",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 11.7,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/rasen-out-in-early-access-now-is-a-pvp-focused-take-on-dark-souls-that-borrows-one-of-fighting-games-best-techy-tricks",
-          "titre": "Rasen, out in early access now, is a PvP focused take on Dark Souls that borrows one of fighting games' best techy tricks"
         }
       ]
     },
@@ -449,7 +533,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 20.2,
       "chaleur": 3,
       "liens": [
         {
@@ -467,7 +551,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.2,
+      "heures": 23.0,
       "chaleur": 3,
       "liens": [
         {
@@ -485,7 +569,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 16.2,
+      "heures": 24.0,
       "chaleur": 3,
       "liens": [
         {
@@ -503,7 +587,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 16.3,
+      "heures": 24.1,
       "chaleur": 3,
       "liens": [
         {
@@ -521,7 +605,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 17.2,
+      "heures": 25.0,
       "chaleur": 3,
       "liens": [
         {
@@ -539,7 +623,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.2,
+      "heures": 26.0,
       "chaleur": 3,
       "liens": [
         {
@@ -557,7 +641,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.4,
+      "heures": 26.2,
       "chaleur": 3,
       "liens": [
         {
@@ -575,7 +659,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.7,
+      "heures": 26.5,
       "chaleur": 3,
       "liens": [
         {
@@ -593,7 +677,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.2,
+      "heures": 27.0,
       "chaleur": 3,
       "liens": [
         {
@@ -611,31 +695,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 21.2,
+      "heures": 29.0,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/guides/these-13plus-ps5-and-ps-plus-games-are-coming-out-next-week-16th-22nd-november",
           "titre": "Guide: These 13+ PS5 and PS Plus Games Are Coming Out Next Week (16th-22nd November)"
-        }
-      ]
-    },
-    {
-      "id": "indiana-jones-and-the-great-circle-once-had-a-grand-theft-au",
-      "titre": "Indiana Jones and the Great Circle once had a Grand Theft Auto-inspired wanted system, because MachineGames was 'afraid' players would kill all the Nazis 'with just guns'",
-      "url": "https://www.pcgamer.com/games/action/indiana-jones-and-the-great-circle-once-had-a-grand-theft-auto-inspired-wanted-system-because-machinegames-was-afraid-players-would-kill-all-the-nazis-with-just-guns/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 21.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/indiana-jones-and-the-great-circle-once-had-a-grand-theft-auto-inspired-wanted-system-because-machinegames-was-afraid-players-would-kill-all-the-nazis-with-just-guns/",
-          "titre": "Indiana Jones and the Great Circle once had a Grand Theft Auto-inspired wanted system, because MachineGames was 'afraid' players would kill all the Nazis 'with just guns'"
         }
       ]
     },
@@ -647,7 +713,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 22.0,
+      "heures": 29.7,
       "chaleur": 3,
       "liens": [
         {
@@ -665,67 +731,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 25.2,
+      "heures": 33.0,
       "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/what-weve-been-playing-sass-all-over-town-link-ocarina",
           "titre": "What we've been playing - \"Whether he means to or not, he serves sass all over town\""
-        }
-      ]
-    },
-    {
-      "id": "the-excellent-warhammer-survivors-reveals-roadmap-full-of-fr",
-      "titre": "The Excellent Warhammer Survivors Reveals Roadmap Full of Free Updates, Teases Something Big",
-      "url": "https://www.pushsquare.com/news/2026/11/the-excellent-warhammer-survivors-reveals-roadmap-full-of-free-updates-teases-something-big",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 30.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/the-excellent-warhammer-survivors-reveals-roadmap-full-of-free-updates-teases-something-big",
-          "titre": "The Excellent Warhammer Survivors Reveals Roadmap Full of Free Updates, Teases Something Big"
-        }
-      ]
-    },
-    {
-      "id": "dokev-set-for-2028-launch-but-you-ll-see-it-again-this-year",
-      "titre": "DokeV Set for 2028 Launch, But You'll See It Again This Year",
-      "url": "https://www.pushsquare.com/news/2026/11/dokev-set-for-2028-launch-but-youll-see-it-again-this-year",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 31.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/dokev-set-for-2028-launch-but-youll-see-it-again-this-year",
-          "titre": "DokeV Set for 2028 Launch, But You'll See It Again This Year"
-        }
-      ]
-    },
-    {
-      "id": "don-t-like-ai-in-games-crimson-desert-studio-pearl-abyss-ain",
-      "titre": "Don't like AI in games? Crimson Desert studio Pearl Abyss ain't care: it's expanding AI use 'throughout our entire development pipeline'",
-      "url": "https://www.pcgamer.com/software/ai/dont-like-ai-in-games-crimson-desert-studio-pearl-abyss-aint-care-its-expanding-ai-use-throughout-our-entire-development-pipeline/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 34.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/dont-like-ai-in-games-crimson-desert-studio-pearl-abyss-aint-care-its-expanding-ai-use-throughout-our-entire-development-pipeline/",
-          "titre": "Don't like AI in games? Crimson Desert studio Pearl Abyss ain't care: it's expanding AI use 'throughout our entire development pipeline'"
         }
       ]
     }
