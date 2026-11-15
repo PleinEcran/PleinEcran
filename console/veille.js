@@ -1,50 +1,8 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "15/11/2026 à 01h46",
+  "collecte": "15/11/2026 à 09h12",
   "seuil": 14,
   "sujets": [
-    {
-      "id": "gta-6-s-212gb-ps5-file-size-prompts-madden-nfl-27-to-beg-you",
-      "titre": "GTA 6's 212GB PS5 File Size Prompts Madden NFL 27 to Beg You Not to Delete It",
-      "url": "https://www.pushsquare.com/news/2026/11/gta-6s-212gb-ps5-file-size-prompts-madden-nfl-27-to-beg-you-not-to-delete-it",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 1.8,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/gta-6s-212gb-ps5-file-size-prompts-madden-nfl-27-to-beg-you-not-to-delete-it",
-          "titre": "GTA 6's 212GB PS5 File Size Prompts Madden NFL 27 to Beg You Not to Delete It"
-        }
-      ]
-    },
-    {
-      "id": "planeswalker-netflix-s-magic-the-gathering-animated-series-w",
-      "titre": "Planeswalker, Netflix's Magic: The Gathering animated series, will have a different art style for each plane",
-      "url": "https://www.pcgamer.com/movies-tv/planeswalker-netflixs-magic-the-gathering-animated-series-will-have-a-different-art-style-for-each-plane/",
-      "sources": [
-        "Eurogamer",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 1.9,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/movies-tv/planeswalker-netflixs-magic-the-gathering-animated-series-will-have-a-different-art-style-for-each-plane/",
-          "titre": "Planeswalker, Netflix's Magic: The Gathering animated series, will have a different art style for each plane"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/magic-the-gathering-planeswalker-netflix-animated-series-2027",
-          "titre": "Magic: The Gathering animated series Planeswalker is coming to Netflix in 2027"
-        }
-      ]
-    },
     {
       "id": "poll-are-you-hyped-for-november-s-10-new-ps-plus-games",
       "titre": "Poll: Are You Hyped for November's 10 New PS Plus Games?",
@@ -55,7 +13,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 12.8,
+      "heures": 20.2,
       "chaleur": 9,
       "liens": [
         {
@@ -76,26 +34,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-game-awards-2026-nominees-to-be-announced-next-week-zeld",
-      "titre": "The Game Awards 2026 Nominees To Be Announced Next Week, Zelda And GTA 6 Eligible",
-      "url": "https://www.nintendolife.com/news/2026/11/the-game-awards-2026-nominees-to-be-announced-next-week-zelda-and-gta-6-eligible",
+      "id": "zelda-notes-reveals-top-game-over-causes-and-more-global-pla",
+      "titre": "Zelda Notes Reveals Top 'Game Over Causes' And More Global Play Data In Ocarina Of Time Remake",
+      "url": "https://www.nintendolife.com/news/2026/11/zelda-notes-reveals-top-game-over-causes-and-more-global-play-data-in-ocarina-of-time-remake",
       "sources": [
-        "Nintendo Life",
-        "Push Square"
+        "Nintendo Life"
       ],
-      "reprises": 2,
-      "heures": 24.8,
-      "chaleur": 9,
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 8,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/the-game-awards-2026-nominees-to-be-announced-next-week-zelda-and-gta-6-eligible",
-          "titre": "The Game Awards 2026 Nominees To Be Announced Next Week, Zelda And GTA 6 Eligible"
-        },
+          "url": "https://www.nintendolife.com/news/2026/11/zelda-notes-reveals-top-game-over-causes-and-more-global-play-data-in-ocarina-of-time-remake",
+          "titre": "Zelda Notes Reveals Top 'Game Over Causes' And More Global Play Data In Ocarina Of Time Remake"
+        }
+      ]
+    },
+    {
+      "id": "minecraft-is-getting-joy-con-mouse-controls-on-switch-2-in-a",
+      "titre": "Minecraft Is Getting Joy-Con Mouse Controls On Switch 2 In A Future Update",
+      "url": "https://www.nintendolife.com/news/2026/11/minecraft-is-getting-joy-con-mouse-controls-on-switch-2-in-a-future-update",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 2.7,
+      "chaleur": 8,
+      "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/the-game-awards-2026-nominees-to-be-revealed-on-17th-november",
-          "titre": "The Game Awards 2026 Nominees to Be Revealed on 17th November"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/minecraft-is-getting-joy-con-mouse-controls-on-switch-2-in-a-future-update",
+          "titre": "Minecraft Is Getting Joy-Con Mouse Controls On Switch 2 In A Future Update"
         }
       ]
     },
@@ -108,7 +78,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 12.3,
+      "heures": 19.7,
       "chaleur": 8,
       "liens": [
         {
@@ -124,44 +94,98 @@ const VEILLE = {
       ]
     },
     {
-      "id": "40-of-game-developers-use-generative-ai-according-to-a-new-r",
-      "titre": "40% of game developers use generative AI according to a new report, but more than half reckon the technology has a negative impact on the games industry",
-      "url": "https://www.pcgamer.com/software/ai/40-percent-of-game-developers-use-generative-ai-according-to-a-new-report-but-more-than-half-reckon-the-technology-has-a-negative-impact-on-the-games-industry/",
+      "id": "gta-6-soundtrack-leak-confirmed-accurate-with-new-songs-from",
+      "titre": "GTA 6 soundtrack leak confirmed accurate with new songs from Lana Del Rey, Playboi Carti, and Keith Richards",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-soundtrack-leak-confirmed-accurate-with-new-songs-from-lana-del-rey-playboi-carti-and-keith-richards/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-soundtrack-leak-confirmed-accurate-with-new-songs-from-lana-del-rey-playboi-carti-and-keith-richards/",
+          "titre": "GTA 6 soundtrack leak confirmed accurate with new songs from Lana Del Rey, Playboi Carti, and Keith Richards"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-s-212gb-ps5-file-size-prompts-madden-nfl-27-to-beg-you",
+      "titre": "GTA 6's 212GB PS5 File Size Prompts Madden NFL 27 to Beg You Not to Delete It",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6s-212gb-ps5-file-size-prompts-madden-nfl-27-to-beg-you-not-to-delete-it",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 9.2,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6s-212gb-ps5-file-size-prompts-madden-nfl-27-to-beg-you-not-to-delete-it",
+          "titre": "GTA 6's 212GB PS5 File Size Prompts Madden NFL 27 to Beg You Not to Delete It"
+        }
+      ]
+    },
+    {
+      "id": "planeswalker-netflix-s-magic-the-gathering-animated-series-w",
+      "titre": "Planeswalker, Netflix's Magic: The Gathering animated series, will have a different art style for each plane",
+      "url": "https://www.pcgamer.com/movies-tv/planeswalker-netflixs-magic-the-gathering-animated-series-will-have-a-different-art-style-for-each-plane/",
       "sources": [
         "Eurogamer",
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 12.9,
-      "chaleur": 8,
+      "heures": 9.4,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/40-percent-of-game-developers-use-generative-ai-according-to-a-new-report-but-more-than-half-reckon-the-technology-has-a-negative-impact-on-the-games-industry/",
-          "titre": "40% of game developers use generative AI according to a new report, but more than half reckon the technology has a negative impact on the games industry"
+          "url": "https://www.pcgamer.com/movies-tv/planeswalker-netflixs-magic-the-gathering-animated-series-will-have-a-different-art-style-for-each-plane/",
+          "titre": "Planeswalker, Netflix's Magic: The Gathering animated series, will have a different art style for each plane"
         },
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gdc-report-40-percent-developers-generative-ai",
-          "titre": "A new report reckons 40% of developers in the video games industry are using generative AI - but even more think it's harmful"
+          "url": "https://www.eurogamer.net/magic-the-gathering-planeswalker-netflix-animated-series-2027",
+          "titre": "Magic: The Gathering animated series Planeswalker is coming to Netflix in 2027"
         }
       ]
     },
     {
-      "id": "one-week-from-launch-gta-6-s-physical-map-reportedly-leaks-o",
-      "titre": "One week from launch, GTA 6's physical map reportedly leaks online thanks to the £350 collector's edition on show in a UK department store",
-      "url": "https://www.eurogamer.net/gta-6-map-leak-online-collectors-edition",
+      "id": "fatal-fury-city-of-the-wolves-is-adding-laocorn-from-the-mot",
+      "titre": "Fatal Fury: City Of The Wolves Is Adding Laocorn From The Motion Picture",
+      "url": "https://www.nintendolife.com/news/2026/11/fatal-fury-city-of-the-wolves-is-adding-laocorn-from-the-motion-picture",
       "sources": [
-        "Eurogamer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 34.6,
-      "chaleur": 8,
+      "heures": 0.7,
+      "chaleur": 6,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-map-leak-online-collectors-edition",
-          "titre": "One week from launch, GTA 6's physical map reportedly leaks online thanks to the £350 collector's edition on show in a UK department store"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/fatal-fury-city-of-the-wolves-is-adding-laocorn-from-the-motion-picture",
+          "titre": "Fatal Fury: City Of The Wolves Is Adding Laocorn From The Motion Picture"
+        }
+      ]
+    },
+    {
+      "id": "the-most-annoying-questgivers-in-pc-games",
+      "titre": "The most annoying questgivers in PC games",
+      "url": "https://www.pcgamer.com/games/the-most-annoying-questgivers-in-pc-games/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-most-annoying-questgivers-in-pc-games/",
+          "titre": "The most annoying questgivers in PC games"
         }
       ]
     },
@@ -173,109 +197,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.8,
-      "chaleur": 7,
+      "heures": 14.2,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/congratulations-to-people-who-feel-mean-shooting-random-npcs-because-gta-6-tries-to-provide-mechanisms-that-encourage-empathy",
           "titre": "Congratulations to people who feel mean shooting random NPCs, because GTA 6 tries \"to provide mechanisms that encourage\" empathy"
-        }
-      ]
-    },
-    {
-      "id": "missed-something-on-your-first-go-around-the-blood-of-dawnwa",
-      "titre": "Missed something on your first go around The Blood of Dawnwalker? I've got good news, as next week's update adds in new game plus",
-      "url": "https://www.rockpapershotgun.com/missed-something-on-your-first-go-around-the-blood-of-dawnwalker-ive-got-good-news-as-next-weeks-update-adds-in-new-game-plus",
-      "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 8.9,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/missed-something-on-your-first-go-around-the-blood-of-dawnwalker-ive-got-good-news-as-next-weeks-update-adds-in-new-game-plus",
-          "titre": "Missed something on your first go around The Blood of Dawnwalker? I've got good news, as next week's update adds in new game plus"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/blood-of-dawnwalker-new-game-plus",
-          "titre": "The Blood of Dawnwalker is getting a New Game Plus mode in next week's update"
-        }
-      ]
-    },
-    {
-      "id": "forage-and-fight-for-ingredients-in-a-magical-1960s-italy-an",
-      "titre": "Forage and fight for ingredients in a magical 1960s Italy and whip up some tasty meals Cooking Mama style in The Snackbar at the End of the World",
-      "url": "https://www.rockpapershotgun.com/forage-and-fight-for-ingredients-in-a-magical-1960s-italy-and-whip-up-some-tasty-meals-cooking-mama-style-in-the-snackbar-at-the-end-of-the-world",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/forage-and-fight-for-ingredients-in-a-magical-1960s-italy-and-whip-up-some-tasty-meals-cooking-mama-style-in-the-snackbar-at-the-end-of-the-world",
-          "titre": "Forage and fight for ingredients in a magical 1960s Italy and whip up some tasty meals Cooking Mama style in The Snackbar at the End of the World"
-        }
-      ]
-    },
-    {
-      "id": "wow-forever-dungeon-mobs-no-longer-give-exp-if-they-re-trivi",
-      "titre": "WoW: Forever dungeon mobs no longer give EXP if they're trivial for anyone in the party",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-dungeon-mobs-no-longer-give-exp-if-theyre-trivial-for-anyone-in-the-party/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-dungeon-mobs-no-longer-give-exp-if-theyre-trivial-for-anyone-in-the-party/",
-          "titre": "WoW: Forever dungeon mobs no longer give EXP if they're trivial for anyone in the party"
-        }
-      ]
-    },
-    {
-      "id": "mini-review-tape-to-tape-switch-a-great-roguelite-for-unders",
-      "titre": "Mini Review: Tape To Tape (Switch) - A Great Roguelite For Underserved Hockey Lovers",
-      "url": "https://www.nintendolife.com/reviews/switch-eshop/tape-to-tape",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 9.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/switch-eshop/tape-to-tape",
-          "titre": "Mini Review: Tape To Tape (Switch) - A Great Roguelite For Underserved Hockey Lovers"
-        }
-      ]
-    },
-    {
-      "id": "opinion-nintendo-made-ocarina-of-time-s-best-moment-even-bet",
-      "titre": "Opinion: Nintendo Made Ocarina Of Time's Best Moment Even Better",
-      "url": "https://www.nintendolife.com/features/opinion-nintendo-made-ocarina-of-times-best-moment-even-better",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/opinion-nintendo-made-ocarina-of-times-best-moment-even-better",
-          "titre": "Opinion: Nintendo Made Ocarina Of Time's Best Moment Even Better"
         }
       ]
     },
@@ -287,13 +215,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.8,
+      "heures": 23.2,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/gta-vice-city-retrospective",
           "titre": "Vice City was the GTA that established Rockstar's killer formula - and 24 years on, it's still one of the best games ever made"
+        }
+      ]
+    },
+    {
+      "id": "the-game-awards-2026-nominees-to-be-announced-next-week-zeld",
+      "titre": "The Game Awards 2026 Nominees To Be Announced Next Week, Zelda And GTA 6 Eligible",
+      "url": "https://www.nintendolife.com/news/2026/11/the-game-awards-2026-nominees-to-be-announced-next-week-zelda-and-gta-6-eligible",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 32.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/the-game-awards-2026-nominees-to-be-announced-next-week-zelda-and-gta-6-eligible",
+          "titre": "The Game Awards 2026 Nominees To Be Announced Next Week, Zelda And GTA 6 Eligible"
         }
       ]
     },
@@ -305,7 +251,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 24.8,
+      "heures": 32.2,
       "chaleur": 6,
       "liens": [
         {
@@ -323,7 +269,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 27.3,
+      "heures": 34.7,
       "chaleur": 6,
       "liens": [
         {
@@ -334,104 +280,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "don-t-like-ai-in-games-crimson-desert-studio-pearl-abyss-ain",
-      "titre": "Don't like AI in games? Crimson Desert studio Pearl Abyss ain't care: it's expanding AI use 'throughout our entire development pipeline'",
-      "url": "https://www.pcgamer.com/software/ai/dont-like-ai-in-games-crimson-desert-studio-pearl-abyss-aint-care-its-expanding-ai-use-throughout-our-entire-development-pipeline/",
+      "id": "mini-review-tape-to-tape-switch-a-great-roguelite-for-unders",
+      "titre": "Mini Review: Tape To Tape (Switch) - A Great Roguelite For Underserved Hockey Lovers",
+      "url": "https://www.nintendolife.com/reviews/switch-eshop/tape-to-tape",
       "sources": [
-        "Eurogamer",
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 17.2,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/switch-eshop/tape-to-tape",
+          "titre": "Mini Review: Tape To Tape (Switch) - A Great Roguelite For Underserved Hockey Lovers"
+        }
+      ]
+    },
+    {
+      "id": "opinion-nintendo-made-ocarina-of-time-s-best-moment-even-bet",
+      "titre": "Opinion: Nintendo Made Ocarina Of Time's Best Moment Even Better",
+      "url": "https://www.nintendolife.com/features/opinion-nintendo-made-ocarina-of-times-best-moment-even-better",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 19.2,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/opinion-nintendo-made-ocarina-of-times-best-moment-even-better",
+          "titre": "Opinion: Nintendo Made Ocarina Of Time's Best Moment Even Better"
+        }
+      ]
+    },
+    {
+      "id": "40-of-game-developers-use-generative-ai-according-to-a-new-r",
+      "titre": "40% of game developers use generative AI according to a new report, but more than half reckon the technology has a negative impact on the games industry",
+      "url": "https://www.pcgamer.com/software/ai/40-percent-of-game-developers-use-generative-ai-according-to-a-new-report-but-more-than-half-reckon-the-technology-has-a-negative-impact-on-the-games-industry/",
+      "sources": [
         "PC Gamer"
       ],
-      "reprises": 2,
-      "heures": 27.5,
-      "chaleur": 6,
+      "reprises": 1,
+      "heures": 20.3,
+      "chaleur": 5,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/dont-like-ai-in-games-crimson-desert-studio-pearl-abyss-aint-care-its-expanding-ai-use-throughout-our-entire-development-pipeline/",
-          "titre": "Don't like AI in games? Crimson Desert studio Pearl Abyss ain't care: it's expanding AI use 'throughout our entire development pipeline'"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/crimson-desert-ai-pipeline-dokev-2028",
-          "titre": "Crimson Desert studio is implementing AI \"throughout our entire development pipeline,\" and expects DokeV to launch in 2028"
-        }
-      ]
-    },
-    {
-      "id": "interest-in-the-legend-of-zelda-was-getting-smaller-and-smal",
-      "titre": "Interest in The Legend of Zelda was \"getting smaller and smaller\" before Breath of the Wild, according to former Nintendo marketing leads",
-      "url": "https://www.eurogamer.net/legend-of-zelda-smaller-before-breath-of-the-wild",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 29.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/legend-of-zelda-smaller-before-breath-of-the-wild",
-          "titre": "Interest in The Legend of Zelda was \"getting smaller and smaller\" before Breath of the Wild, according to former Nintendo marketing leads"
-        }
-      ]
-    },
-    {
-      "id": "tell-us-your-favourite-grand-theft-auto-gaming-memory-and-wi",
-      "titre": "Tell us your favourite Grand Theft Auto gaming memory and win a copy of GTA 6",
-      "url": "https://www.eurogamer.net/grand-theft-auto-gaming-memory-competition-gta-6-win",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 33.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/grand-theft-auto-gaming-memory-competition-gta-6-win",
-          "titre": "Tell us your favourite Grand Theft Auto gaming memory and win a copy of GTA 6"
-        }
-      ]
-    },
-    {
-      "id": "introducing-three-weeks-of-specialist-gta-and-not-gta-progra",
-      "titre": "Introducing three weeks of specialist GTA - and not-GTA! - programming on Eurogamer",
-      "url": "https://www.eurogamer.net/introducing-gta-and-not-gta-theme-weeks",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 33.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/introducing-gta-and-not-gta-theme-weeks",
-          "titre": "Introducing three weeks of specialist GTA - and not-GTA! - programming on Eurogamer"
-        }
-      ]
-    },
-    {
-      "id": "witcher-3-devs-use-ai-to-help-polish-voice-actor-reprise-rol",
-      "titre": "Witcher 3 devs use AI to help Polish voice actor reprise role of Geralt after stroke",
-      "url": "https://www.gamedeveloper.com/production/polish-voice-actor-for-geralt-returns-for-the-witcher-3-with-ai",
-      "sources": [
-        "Game Developer",
-        "GamesIndustry.biz"
-      ],
-      "reprises": 2,
-      "heures": 34.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/production/polish-voice-actor-for-geralt-returns-for-the-witcher-3-with-ai",
-          "titre": "Witcher 3 devs use AI to help Polish voice actor reprise role of Geralt after stroke"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/cd-projekt-red-used-ai-to-alter-the-voice-of-geralts-original-polish-actor-in-witcher-3-songs-of-the-past",
-          "titre": "CD Projekt Red used AI to alter the voice of Geralt's original Polish actor in Witcher 3: Songs of the Past"
+          "url": "https://www.pcgamer.com/software/ai/40-percent-of-game-developers-use-generative-ai-according-to-a-new-report-but-more-than-half-reckon-the-technology-has-a-negative-impact-on-the-games-industry/",
+          "titre": "40% of game developers use generative AI according to a new report, but more than half reckon the technology has a negative impact on the games industry"
         }
       ]
     },
@@ -443,7 +341,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.8,
+      "heures": 27.2,
       "chaleur": 5,
       "liens": [
         {
@@ -461,7 +359,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.3,
+      "heures": 29.7,
       "chaleur": 5,
       "liens": [
         {
@@ -479,7 +377,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.8,
+      "heures": 33.2,
       "chaleur": 5,
       "liens": [
         {
@@ -490,128 +388,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nintendo-s-on-the-hunt-for-a-digital-archivist-to-preserve-i",
-      "titre": "Nintendo's On The Hunt For A Digital Archivist To Preserve Its Rich History",
-      "url": "https://www.nintendolife.com/news/2026/11/nintendos-on-the-hunt-for-a-digital-archivist-to-preserve-its-rich-history",
+      "id": "forage-and-fight-for-ingredients-in-a-magical-1960s-italy-an",
+      "titre": "Forage and fight for ingredients in a magical 1960s Italy and whip up some tasty meals Cooking Mama style in The Snackbar at the End of the World",
+      "url": "https://www.rockpapershotgun.com/forage-and-fight-for-ingredients-in-a-magical-1960s-italy-and-whip-up-some-tasty-meals-cooking-mama-style-in-the-snackbar-at-the-end-of-the-world",
       "sources": [
-        "Nintendo Life"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 32.0,
-      "chaleur": 5,
+      "heures": 10.3,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/nintendos-on-the-hunt-for-a-digital-archivist-to-preserve-its-rich-history",
-          "titre": "Nintendo's On The Hunt For A Digital Archivist To Preserve Its Rich History"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/forage-and-fight-for-ingredients-in-a-magical-1960s-italy-and-whip-up-some-tasty-meals-cooking-mama-style-in-the-snackbar-at-the-end-of-the-world",
+          "titre": "Forage and fight for ingredients in a magical 1960s Italy and whip up some tasty meals Cooking Mama style in The Snackbar at the End of the World"
         }
       ]
     },
     {
-      "id": "playstation-s-god-of-war-spin-off-is-coming-to-ps4-and-getti",
-      "titre": "PlayStation’s God of War spin-off is coming to PS4 and getting new modes",
-      "url": "https://www.videogameschronicle.com/news/playstations-god-of-war-spin-off-is-coming-to-ps4-and-getting-new-modes/",
+      "id": "wow-forever-dungeon-mobs-no-longer-give-exp-if-they-re-trivi",
+      "titre": "WoW: Forever dungeon mobs no longer give EXP if they're trivial for anyone in the party",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-dungeon-mobs-no-longer-give-exp-if-theyre-trivial-for-anyone-in-the-party/",
       "sources": [
-        "VGC"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 33.5,
-      "chaleur": 5,
+      "heures": 10.9,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/playstations-god-of-war-spin-off-is-coming-to-ps4-and-getting-new-modes/",
-          "titre": "PlayStation’s God of War spin-off is coming to PS4 and getting new modes"
-        }
-      ]
-    },
-    {
-      "id": "mini-review-sonic-pico-park-switch-charming-puzzle-platforme",
-      "titre": "Mini Review: Sonic Pico Park (Switch) - Charming Puzzle-Platformer Returns With A Nostalgic Co-Op Collab",
-      "url": "https://www.nintendolife.com/reviews/switch-eshop/sonic-pico-park",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 33.8,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/switch-eshop/sonic-pico-park",
-          "titre": "Mini Review: Sonic Pico Park (Switch) - Charming Puzzle-Platformer Returns With A Nostalgic Co-Op Collab"
-        }
-      ]
-    },
-    {
-      "id": "zelda-a-link-between-worlds-listed-as-playable-with-nso-but",
-      "titre": "Zelda: A Link Between Worlds Listed As 'Playable With NSO', But Let's Not Jump To Conclusions",
-      "url": "https://www.nintendolife.com/news/2026/11/zelda-a-link-between-worlds-listed-as-playable-with-nso-but-lets-not-jump-to-conclusions",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 34.3,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/zelda-a-link-between-worlds-listed-as-playable-with-nso-but-lets-not-jump-to-conclusions",
-          "titre": "Zelda: A Link Between Worlds Listed As 'Playable With NSO', But Let's Not Jump To Conclusions"
-        }
-      ]
-    },
-    {
-      "id": "podcast-playstation-s-live-service-era-has-been-a-total-fail",
-      "titre": "Podcast: PlayStation’s live service era has been a total failure",
-      "url": "https://www.videogameschronicle.com/blog/podcast/podcast-playstations-live-service-era-has-been-a-total-failure/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 34.5,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/blog/podcast/podcast-playstations-live-service-era-has-been-a-total-failure/",
-          "titre": "Podcast: PlayStation’s live service era has been a total failure"
-        }
-      ]
-    },
-    {
-      "id": "fanatical-s-new-play-on-the-go-deal-lets-your-build-your-own",
-      "titre": "Fanatical’s new Play on the Go deal lets your build your own bundle of Steam Deck verified games",
-      "url": "https://www.videogameschronicle.com/news/fanaticals-new-play-on-the-go-deal-lets-your-build-your-own-bundle-of-steam-deck-verified-games/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 34.8,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/fanaticals-new-play-on-the-go-deal-lets-your-build-your-own-bundle-of-steam-deck-verified-games/",
-          "titre": "Fanatical’s new Play on the Go deal lets your build your own bundle of Steam Deck verified games"
-        }
-      ]
-    },
-    {
-      "id": "review-crkd-ult-pro-controller-for-switch-1-2-a-decent-pad-l",
-      "titre": "Review: CRKD Ult Pro Controller For Switch 1 & 2 - A Decent Pad Let Down By Awful Shoulder & Bumper Buttons",
-      "url": "https://www.nintendolife.com/reviews/crkd-ult-pro-controller-for-switch-1-and-2-a-decent-pad-let-down-by-awful-shoulder-and-bumper-buttons",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 35.8,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/crkd-ult-pro-controller-for-switch-1-and-2-a-decent-pad-let-down-by-awful-shoulder-and-bumper-buttons",
-          "titre": "Review: CRKD Ult Pro Controller For Switch 1 & 2 - A Decent Pad Let Down By Awful Shoulder & Bumper Buttons"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-dungeon-mobs-no-longer-give-exp-if-theyre-trivial-for-anyone-in-the-party/",
+          "titre": "WoW: Forever dungeon mobs no longer give EXP if they're trivial for anyone in the party"
         }
       ]
     },
@@ -623,7 +431,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 11.7,
       "chaleur": 4,
       "liens": [
         {
@@ -641,8 +449,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.0,
-      "chaleur": 4,
+      "heures": 12.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -659,8 +467,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.8,
-      "chaleur": 4,
+      "heures": 15.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -677,13 +485,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.8,
-      "chaleur": 4,
+      "heures": 16.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/world-of-warcraft/do-you-like-mob-tagging-in-oldschool-mmos-or-are-you-done-with-fighting-for-quest-credit/",
           "titre": "Do you like mob tagging in oldschool MMOs, or are you done with fighting for quest credit?"
+        }
+      ]
+    },
+    {
+      "id": "missed-something-on-your-first-go-around-the-blood-of-dawnwa",
+      "titre": "Missed something on your first go around The Blood of Dawnwalker? I've got good news, as next week's update adds in new game plus",
+      "url": "https://www.rockpapershotgun.com/missed-something-on-your-first-go-around-the-blood-of-dawnwalker-ive-got-good-news-as-next-weeks-update-adds-in-new-game-plus",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 16.3,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/missed-something-on-your-first-go-around-the-blood-of-dawnwalker-ive-got-good-news-as-next-weeks-update-adds-in-new-game-plus",
+          "titre": "Missed something on your first go around The Blood of Dawnwalker? I've got good news, as next week's update adds in new game plus"
         }
       ]
     },
@@ -695,8 +521,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.8,
-      "chaleur": 4,
+      "heures": 17.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -713,8 +539,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.8,
-      "chaleur": 4,
+      "heures": 18.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -731,8 +557,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.0,
-      "chaleur": 4,
+      "heures": 18.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -749,8 +575,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 18.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -767,8 +593,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 4,
+      "heures": 19.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -785,7 +611,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.8,
+      "heures": 21.2,
       "chaleur": 3,
       "liens": [
         {
@@ -803,7 +629,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.3,
+      "heures": 21.8,
       "chaleur": 3,
       "liens": [
         {
@@ -821,7 +647,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.5,
+      "heures": 22.0,
       "chaleur": 3,
       "liens": [
         {
@@ -839,7 +665,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 17.8,
+      "heures": 25.2,
       "chaleur": 3,
       "liens": [
         {
@@ -857,7 +683,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 23.3,
+      "heures": 30.7,
       "chaleur": 3,
       "liens": [
         {
@@ -875,7 +701,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 23.8,
+      "heures": 31.2,
       "chaleur": 3,
       "liens": [
         {
@@ -886,254 +712,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "a-survival-game-we-once-called-stalker-and-tarkov-s-alien-ba",
-      "titre": "A survival game we once called 'Stalker and Tarkov's alien baby' is closing down less than a year after launch",
-      "url": "https://www.pcgamer.com/games/fps/a-survival-game-we-once-called-stalker-and-tarkovs-alien-baby-is-closing-down-less-than-a-year-after-launch/",
+      "id": "don-t-like-ai-in-games-crimson-desert-studio-pearl-abyss-ain",
+      "titre": "Don't like AI in games? Crimson Desert studio Pearl Abyss ain't care: it's expanding AI use 'throughout our entire development pipeline'",
+      "url": "https://www.pcgamer.com/software/ai/dont-like-ai-in-games-crimson-desert-studio-pearl-abyss-aint-care-its-expanding-ai-use-throughout-our-entire-development-pipeline/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 29.2,
+      "heures": 34.9,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/a-survival-game-we-once-called-stalker-and-tarkovs-alien-baby-is-closing-down-less-than-a-year-after-launch/",
-          "titre": "A survival game we once called 'Stalker and Tarkov's alien baby' is closing down less than a year after launch"
-        }
-      ]
-    },
-    {
-      "id": "microsoft-deeply-apologizes-for-global-service-outage-says-n",
-      "titre": "Microsoft ‘deeply’ apologizes for global service outage, says no AI or hackers are to blame",
-      "url": "https://www.pcgamer.com/software/microsoft-deeply-apologizes-for-global-service-outage-says-no-ai-or-hackers-are-to-blame/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 29.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/microsoft-deeply-apologizes-for-global-service-outage-says-no-ai-or-hackers-are-to-blame/",
-          "titre": "Microsoft ‘deeply’ apologizes for global service outage, says no AI or hackers are to blame"
-        }
-      ]
-    },
-    {
-      "id": "star-wars-galactic-racer-reaches-1-5-million-players-teases",
-      "titre": "Star Wars: Galactic Racer Reaches 1.5 Million Players, Teases Future Updates",
-      "url": "https://www.pushsquare.com/news/2026/11/star-wars-galactic-racer-reaches-1-5-million-players-teases-future-updates",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 30.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/star-wars-galactic-racer-reaches-1-5-million-players-teases-future-updates",
-          "titre": "Star Wars: Galactic Racer Reaches 1.5 Million Players, Teases Future Updates"
-        }
-      ]
-    },
-    {
-      "id": "newly-proposed-eu-law-could-place-tight-restrictions-on-free",
-      "titre": "Newly-proposed EU law could place tight restrictions on free-to-play games",
-      "url": "https://www.gamedeveloper.com/business/european-union-proposes-digital-fairness-act-which-could-have-major-effects-on-game-development",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 31.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/european-union-proposes-digital-fairness-act-which-could-have-major-effects-on-game-development",
-          "titre": "Newly-proposed EU law could place tight restrictions on free-to-play games"
-        }
-      ]
-    },
-    {
-      "id": "mini-review-shrek-2-remastered-ps5-far-far-away-gets-an-all",
-      "titre": "Mini Review: Shrek 2 Remastered (PS5) - Far Far Away Gets an All-Star Makeover",
-      "url": "https://www.pushsquare.com/reviews/ps5/shrek-2-remastered",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 31.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/reviews/ps5/shrek-2-remastered",
-          "titre": "Mini Review: Shrek 2 Remastered (PS5) - Far Far Away Gets an All-Star Makeover"
-        }
-      ]
-    },
-    {
-      "id": "cyberpunk-trading-sim-probably-stolen-is-getting-three-big-u",
-      "titre": "Cyberpunk trading sim Probably Stolen is getting three big updates with new starting scenarios - organ trading, junk empires and fine dining",
-      "url": "https://www.rockpapershotgun.com/cyberpunk-trading-sim-probably-stolen-is-getting-three-big-updates-with-new-starting-scenarios-organ-trading-junk-empires-and-fine-dining",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 32.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/cyberpunk-trading-sim-probably-stolen-is-getting-three-big-updates-with-new-starting-scenarios-organ-trading-junk-empires-and-fine-dining",
-          "titre": "Cyberpunk trading sim Probably Stolen is getting three big updates with new starting scenarios - organ trading, junk empires and fine dining"
-        }
-      ]
-    },
-    {
-      "id": "stranger-than-heaven-is-so-big-that-all-its-acts-get-a-ps5-t",
-      "titre": "Stranger Than Heaven Is So Big That All Its Acts Get a PS5 Trailer",
-      "url": "https://www.pushsquare.com/news/2026/11/stranger-than-heaven-is-so-big-that-all-its-acts-get-a-ps5-trailer",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 32.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/stranger-than-heaven-is-so-big-that-all-its-acts-get-a-ps5-trailer",
-          "titre": "Stranger Than Heaven Is So Big That All Its Acts Get a PS5 Trailer"
-        }
-      ]
-    },
-    {
-      "id": "while-soulslikes-went-bigger-than-big-death-s-door-swung-ope",
-      "titre": "While soulslikes went bigger than big, Death's Door swung open the appeal of a tighter adventure",
-      "url": "https://www.rockpapershotgun.com/have-you-played-deaths-door",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 32.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/have-you-played-deaths-door",
-          "titre": "While soulslikes went bigger than big, Death's Door swung open the appeal of a tighter adventure"
-        }
-      ]
-    },
-    {
-      "id": "we-want-to-create-franchises-that-withstand-decades-sony-re",
-      "titre": "'We Want to Create Franchises That Withstand Decades': Sony Reveals Ambition to Dominate Anime",
-      "url": "https://www.pushsquare.com/news/2026/11/we-want-to-create-franchises-that-withstand-decades-sony-reveals-ambition-to-dominate-anime",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 32.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/we-want-to-create-franchises-that-withstand-decades-sony-reveals-ambition-to-dominate-anime",
-          "titre": "'We Want to Create Franchises That Withstand Decades': Sony Reveals Ambition to Dominate Anime"
-        }
-      ]
-    },
-    {
-      "id": "6-more-games-receive-ps5-performance-updates-via-qssr-includ",
-      "titre": "6 more games receive PS5 performance updates via QSSR, including Arc Raiders and Control Resonant",
-      "url": "https://www.videogameschronicle.com/news/6-more-games-receive-ps5-performance-updates-via-qssr-including-arc-raiders-and-control-resonant/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 33.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/6-more-games-receive-ps5-performance-updates-via-qssr-including-arc-raiders-and-control-resonant/",
-          "titre": "6 more games receive PS5 performance updates via QSSR, including Arc Raiders and Control Resonant"
-        }
-      ]
-    },
-    {
-      "id": "worst-class-ever-takes-asymmetrical-multiplayer-back-to-scho",
-      "titre": "Worst Class Ever takes asymmetrical multiplayer back to school, with a teacher player trying to spot the naughty children among the NPCs",
-      "url": "https://www.rockpapershotgun.com/worst-class-ever-takes-asymmetrical-multiplayer-back-to-school-with-a-teacher-player-trying-to-spot-the-naughty-children-among-the-npcs",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 33.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/worst-class-ever-takes-asymmetrical-multiplayer-back-to-school-with-a-teacher-player-trying-to-spot-the-naughty-children-among-the-npcs",
-          "titre": "Worst Class Ever takes asymmetrical multiplayer back to school, with a teacher player trying to spot the naughty children among the NPCs"
-        }
-      ]
-    },
-    {
-      "id": "play-the-blood-of-dawnwalker-again-in-new-game-part-of-ps5-p",
-      "titre": "Play The Blood of Dawnwalker Again in New Game+, Part of PS5 Patch 1.2",
-      "url": "https://www.pushsquare.com/news/2026/11/play-the-blood-of-dawnwalker-again-in-new-gameplus-part-of-ps5-patch-1-2",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 33.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/play-the-blood-of-dawnwalker-again-in-new-gameplus-part-of-ps5-patch-1-2",
-          "titre": "Play The Blood of Dawnwalker Again in New Game+, Part of PS5 Patch 1.2"
-        }
-      ]
-    },
-    {
-      "id": "development-secrets-of-dressmaker-ft-ruan-rothmann-sara-laub",
-      "titre": "Development secrets of Dressmaker, ft. Ruan Rothmann & Sara Laubscher",
-      "url": "https://www.gamedeveloper.com/pc/development-secrets-of-dressmaker-ft-ruan-rothmann-sara-laubscher",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 33.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/pc/development-secrets-of-dressmaker-ft-ruan-rothmann-sara-laubscher",
-          "titre": "Development secrets of Dressmaker, ft. Ruan Rothmann & Sara Laubscher"
-        }
-      ]
-    },
-    {
-      "id": "crusader-kings-publishers-paradox-announce-ceo-swap-say-they",
-      "titre": "Crusader Kings publishers Paradox announce CEO swap, say they're \"in a strong position at a time when much of the industry is facing major challenges\"",
-      "url": "https://www.rockpapershotgun.com/crusader-kings-publishers-paradox-announce-ceo-swap-say-theyre-in-a-strong-position-at-a-time-when-much-of-the-industry-is-facing-major-challenges",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 34.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/crusader-kings-publishers-paradox-announce-ceo-swap-say-theyre-in-a-strong-position-at-a-time-when-much-of-the-industry-is-facing-major-challenges",
-          "titre": "Crusader Kings publishers Paradox announce CEO swap, say they're \"in a strong position at a time when much of the industry is facing major challenges\""
+          "url": "https://www.pcgamer.com/software/ai/dont-like-ai-in-games-crimson-desert-studio-pearl-abyss-aint-care-its-expanding-ai-use-throughout-our-entire-development-pipeline/",
+          "titre": "Don't like AI in games? Crimson Desert studio Pearl Abyss ain't care: it's expanding AI use 'throughout our entire development pipeline'"
         }
       ]
     }
