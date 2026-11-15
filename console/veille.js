@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "15/11/2026 à 16h59",
+  "collecte": "15/11/2026 à 22h44",
   "seuil": 14,
   "sujets": [
     {
@@ -12,8 +12,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 2.9,
-      "chaleur": 12,
+      "heures": 8.7,
+      "chaleur": 10,
       "liens": [
         {
           "source": "Eurogamer",
@@ -28,78 +28,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "queen-s-domain-is-the-best-dark-souls-1-since-dark-souls-1",
-      "titre": "Queen's Domain is the best Dark Souls 1 since Dark Souls 1",
-      "url": "https://www.pcgamer.com/games/rpg/queens-domain-is-the-best-dark-souls-1-since-dark-souls-1/",
-      "sources": [
-        "PC Gamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 2.0,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/queens-domain-is-the-best-dark-souls-1-since-dark-souls-1/",
-          "titre": "Queen's Domain is the best Dark Souls 1 since Dark Souls 1"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/rasen-out-in-early-access-now-is-a-pvp-focused-take-on-dark-souls-that-borrows-one-of-fighting-games-best-techy-tricks",
-          "titre": "Rasen, out in early access now, is a PvP focused take on Dark Souls that borrows one of fighting games' best techy tricks"
-        }
-      ]
-    },
-    {
-      "id": "poll-are-you-hyped-for-november-s-10-new-ps-plus-games",
-      "titre": "Poll: Are You Hyped for November's 10 New PS Plus Games?",
-      "url": "https://www.pushsquare.com/features/poll-are-you-hyped-for-novembers-10-new-ps-plus-games",
-      "sources": [
-        "Nintendo Life",
-        "Push Square",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 3,
-      "heures": 28.0,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/poll-are-you-hyped-for-novembers-10-new-ps-plus-games",
-          "titre": "Poll: Are You Hyped for November's 10 New PS Plus Games?"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-14th-november",
-          "titre": "Talking Point: What Are You Playing This Weekend? (14th November)"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-408",
-          "titre": "What are we all playing this weekend?"
-        }
-      ]
-    },
-    {
-      "id": "playstation-black-friday-sale-knocks-up-to-100-off-ps5-acces",
-      "titre": "PlayStation Black Friday Sale Knocks Up to $100 Off PS5 Accessories, PSVR2",
-      "url": "https://www.pushsquare.com/news/2026/11/playstation-black-friday-sale-knocks-up-to-usd100-off-ps5-accessories-psvr2",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 4.0,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/playstation-black-friday-sale-knocks-up-to-usd100-off-ps5-accessories-psvr2",
-          "titre": "PlayStation Black Friday Sale Knocks Up to $100 Off PS5 Accessories, PSVR2"
-        }
-      ]
-    },
-    {
       "id": "rumour-rainbow-six-vegas-3-now-in-the-works-at-ubisoft",
       "titre": "Rumour: Rainbow Six: Vegas 3 Now in the Works at Ubisoft",
       "url": "https://www.pushsquare.com/news/2026/11/rumour-rainbow-six-vegas-3-now-in-the-works-at-ubisoft",
@@ -108,7 +36,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 27.5,
+      "heures": 33.2,
       "chaleur": 8,
       "liens": [
         {
@@ -124,6 +52,66 @@ const VEILLE = {
       ]
     },
     {
+      "id": "queen-s-domain-is-the-best-dark-souls-1-since-dark-souls-1",
+      "titre": "Queen's Domain is the best Dark Souls 1 since Dark Souls 1",
+      "url": "https://www.pcgamer.com/games/rpg/queens-domain-is-the-best-dark-souls-1-since-dark-souls-1/",
+      "sources": [
+        "PC Gamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 7.7,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/queens-domain-is-the-best-dark-souls-1-since-dark-souls-1/",
+          "titre": "Queen's Domain is the best Dark Souls 1 since Dark Souls 1"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/rasen-out-in-early-access-now-is-a-pvp-focused-take-on-dark-souls-that-borrows-one-of-fighting-games-best-techy-tricks",
+          "titre": "Rasen, out in early access now, is a PvP focused take on Dark Souls that borrows one of fighting games' best techy tricks"
+        }
+      ]
+    },
+    {
+      "id": "police-arrest-suspect-after-drive-by-shooting-at-office-camp",
+      "titre": "Police arrest suspect after drive-by shooting at office campus housing Xbox studio inXile",
+      "url": "https://www.eurogamer.net/inxile-office-shooting-tustin-suspect-arrested",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/inxile-office-shooting-tustin-suspect-arrested",
+          "titre": "Police arrest suspect after drive-by shooting at office campus housing Xbox studio inXile"
+        }
+      ]
+    },
+    {
+      "id": "playstation-black-friday-sale-knocks-up-to-100-off-ps5-acces",
+      "titre": "PlayStation Black Friday Sale Knocks Up to $100 Off PS5 Accessories, PSVR2",
+      "url": "https://www.pushsquare.com/news/2026/11/playstation-black-friday-sale-knocks-up-to-usd100-off-ps5-accessories-psvr2",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 9.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/playstation-black-friday-sale-knocks-up-to-usd100-off-ps5-accessories-psvr2",
+          "titre": "PlayStation Black Friday Sale Knocks Up to $100 Off PS5 Accessories, PSVR2"
+        }
+      ]
+    },
+    {
       "id": "what-s-the-best-gta",
       "titre": "What's the best GTA?",
       "url": "https://www.eurogamer.net/the-big-question-whats-the-best-gta",
@@ -131,8 +119,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.0,
-      "chaleur": 7,
+      "heures": 12.7,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
@@ -142,92 +130,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "slay-the-spire-2-has-a-new-character-in-testing-and-she-s-re",
-      "titre": "Slay the Spire 2 has a new character in testing, and she's really quite busted",
-      "url": "https://www.pcgamer.com/games/roguelike/slay-the-spire-2-has-a-new-character-in-testing-and-shes-really-quite-busted/",
+      "id": "gta-6-s-212gb-ps5-file-size-prompts-madden-nfl-27-to-beg-you",
+      "titre": "GTA 6's 212GB PS5 File Size Prompts Madden NFL 27 to Beg You Not to Delete It",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6s-212gb-ps5-file-size-prompts-madden-nfl-27-to-beg-you-not-to-delete-it",
       "sources": [
-        "PC Gamer"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.0,
+      "heures": 22.7,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/roguelike/slay-the-spire-2-has-a-new-character-in-testing-and-shes-really-quite-busted/",
-          "titre": "Slay the Spire 2 has a new character in testing, and she's really quite busted"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6s-212gb-ps5-file-size-prompts-madden-nfl-27-to-beg-you-not-to-delete-it",
+          "titre": "GTA 6's 212GB PS5 File Size Prompts Madden NFL 27 to Beg You Not to Delete It"
         }
       ]
     },
     {
-      "id": "treyarch-lays-off-lead-call-of-duty-writer-and-zombies-veter",
-      "titre": "Treyarch lays off lead Call of Duty writer and Zombies veteran after \"approximately 20 years\" of service",
-      "url": "https://www.eurogamer.net/craig-houston-layoff-treyarch-call-of-duty-layoffs",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 1.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/craig-houston-layoff-treyarch-call-of-duty-layoffs",
-          "titre": "Treyarch lays off lead Call of Duty writer and Zombies veteran after \"approximately 20 years\" of service"
-        }
-      ]
-    },
-    {
-      "id": "blade-runner-2099-bosses-hint-at-a-possible-triple-a-blade-r",
-      "titre": "Blade Runner 2099 bosses hint at a possible \"triple-A\" Blade Runner game in the future - just don't expect it any time soon",
-      "url": "https://www.eurogamer.net/blade-runner-2099-triple-a-talks",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/blade-runner-2099-triple-a-talks",
-          "titre": "Blade Runner 2099 bosses hint at a possible \"triple-A\" Blade Runner game in the future - just don't expect it any time soon"
-        }
-      ]
-    },
-    {
-      "id": "this-rts-inspired-by-star-wars-empire-at-war-promises-coloss",
-      "titre": "This RTS inspired by Star Wars: Empire at War promises colossal space encounters and planetary battles with 'hundreds of thousands of units'",
-      "url": "https://www.pcgamer.com/games/rts/this-rts-inspired-by-star-wars-empire-at-war-promises-colossal-space-encounters-and-planetary-battles-with-hundreds-of-thousands-of-units/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rts/this-rts-inspired-by-star-wars-empire-at-war-promises-colossal-space-encounters-and-planetary-battles-with-hundreds-of-thousands-of-units/",
-          "titre": "This RTS inspired by Star Wars: Empire at War promises colossal space encounters and planetary battles with 'hundreds of thousands of units'"
-        }
-      ]
-    },
-    {
-      "id": "the-sunday-papers",
-      "titre": "The Sunday Papers",
-      "url": "https://www.rockpapershotgun.com/the-sunday-papers-836",
+      "id": "congratulations-to-people-who-feel-mean-shooting-random-npcs",
+      "titre": "Congratulations to people who feel mean shooting random NPCs, because GTA 6 tries \"to provide mechanisms that encourage\" empathy",
+      "url": "https://www.rockpapershotgun.com/congratulations-to-people-who-feel-mean-shooting-random-npcs-because-gta-6-tries-to-provide-mechanisms-that-encourage-empathy",
       "sources": [
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.0,
+      "heures": 27.7,
       "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-sunday-papers-836",
-          "titre": "The Sunday Papers"
+          "url": "https://www.rockpapershotgun.com/congratulations-to-people-who-feel-mean-shooting-random-npcs-because-gta-6-tries-to-provide-mechanisms-that-encourage-empathy",
+          "titre": "Congratulations to people who feel mean shooting random NPCs, because GTA 6 tries \"to provide mechanisms that encourage\" empathy"
         }
       ]
     },
@@ -239,8 +173,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.5,
-      "chaleur": 6,
+      "heures": 15.2,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -257,73 +191,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 6,
+      "heures": 16.2,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/11/minecraft-is-getting-joy-con-mouse-controls-on-switch-2-in-a-future-update",
           "titre": "Minecraft Is Getting Joy-Con Mouse Controls On Switch 2 In A Future Update"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-s-212gb-ps5-file-size-prompts-madden-nfl-27-to-beg-you",
-      "titre": "GTA 6's 212GB PS5 File Size Prompts Madden NFL 27 to Beg You Not to Delete It",
-      "url": "https://www.pushsquare.com/news/2026/11/gta-6s-212gb-ps5-file-size-prompts-madden-nfl-27-to-beg-you-not-to-delete-it",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 17.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/gta-6s-212gb-ps5-file-size-prompts-madden-nfl-27-to-beg-you-not-to-delete-it",
-          "titre": "GTA 6's 212GB PS5 File Size Prompts Madden NFL 27 to Beg You Not to Delete It"
-        }
-      ]
-    },
-    {
-      "id": "planeswalker-netflix-s-magic-the-gathering-animated-series-w",
-      "titre": "Planeswalker, Netflix's Magic: The Gathering animated series, will have a different art style for each plane",
-      "url": "https://www.pcgamer.com/movies-tv/planeswalker-netflixs-magic-the-gathering-animated-series-will-have-a-different-art-style-for-each-plane/",
-      "sources": [
-        "Eurogamer",
-        "PC Gamer"
-      ],
-      "reprises": 2,
-      "heures": 17.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/movies-tv/planeswalker-netflixs-magic-the-gathering-animated-series-will-have-a-different-art-style-for-each-plane/",
-          "titre": "Planeswalker, Netflix's Magic: The Gathering animated series, will have a different art style for each plane"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/magic-the-gathering-planeswalker-netflix-animated-series-2027",
-          "titre": "Magic: The Gathering animated series Planeswalker is coming to Netflix in 2027"
-        }
-      ]
-    },
-    {
-      "id": "congratulations-to-people-who-feel-mean-shooting-random-npcs",
-      "titre": "Congratulations to people who feel mean shooting random NPCs, because GTA 6 tries \"to provide mechanisms that encourage\" empathy",
-      "url": "https://www.rockpapershotgun.com/congratulations-to-people-who-feel-mean-shooting-random-npcs-because-gta-6-tries-to-provide-mechanisms-that-encourage-empathy",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 22.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/congratulations-to-people-who-feel-mean-shooting-random-npcs-because-gta-6-tries-to-provide-mechanisms-that-encourage-empathy",
-          "titre": "Congratulations to people who feel mean shooting random NPCs, because GTA 6 tries \"to provide mechanisms that encourage\" empathy"
         }
       ]
     },
@@ -335,7 +209,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.0,
+      "heures": 30.7,
       "chaleur": 5,
       "liens": [
         {
@@ -353,7 +227,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.0,
+      "heures": 32.7,
       "chaleur": 5,
       "liens": [
         {
@@ -364,20 +238,182 @@ const VEILLE = {
       ]
     },
     {
-      "id": "pikmin-s-mobile-soundtrack-has-been-added-to-nintendo-music",
-      "titre": "Pikmin's Mobile Soundtrack Has Been Added To Nintendo Music, Here's Every Song Included",
-      "url": "https://www.nintendolife.com/news/2026/11/pikmins-mobile-soundtrack-has-been-added-to-nintendo-music-heres-every-song-included",
+      "id": "are-you-more-of-an-ambient-music-enjoyer-or-theatrical-atmos",
+      "titre": "Are you more of an ambient music enjoyer or theatrical atmosphere appreciator?",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/are-you-more-of-an-ambient-music-enjoyer-or-theatrical-atmosphere-appreciator/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 35.0,
-      "chaleur": 5,
+      "heures": 4.7,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/pikmins-mobile-soundtrack-has-been-added-to-nintendo-music-heres-every-song-included",
-          "titre": "Pikmin's Mobile Soundtrack Has Been Added To Nintendo Music, Here's Every Song Included"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/are-you-more-of-an-ambient-music-enjoyer-or-theatrical-atmosphere-appreciator/",
+          "titre": "Are you more of an ambient music enjoyer or theatrical atmosphere appreciator?"
+        }
+      ]
+    },
+    {
+      "id": "league-of-legends-will-get-an-overhaul-called-new-dawn-with",
+      "titre": "League of Legends will get an overhaul called New Dawn with new visuals, build options, and an updated client",
+      "url": "https://www.pcgamer.com/games/moba/league-of-legends-will-get-an-overhaul-called-new-dawn-with-new-visuals-build-options-and-an-updated-client/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/moba/league-of-legends-will-get-an-overhaul-called-new-dawn-with-new-visuals-build-options-and-an-updated-client/",
+          "titre": "League of Legends will get an overhaul called New Dawn with new visuals, build options, and an updated client"
+        }
+      ]
+    },
+    {
+      "id": "cyberpunk-2077-mod-torrent-adds-3d-rain-lightning-storms-and",
+      "titre": "Cyberpunk 2077 mod Torrent adds 3D rain, lightning storms, and tyre spray to Night City",
+      "url": "https://www.eurogamer.net/cyberpunk-2077-torrent-rain-weather-mod",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/cyberpunk-2077-torrent-rain-weather-mod",
+          "titre": "Cyberpunk 2077 mod Torrent adds 3D rain, lightning storms, and tyre spray to Night City"
+        }
+      ]
+    },
+    {
+      "id": "the-pandemic-was-transformative-for-jackbox-we-went-from-a-g",
+      "titre": "The pandemic was transformative for Jackbox: 'We went from a gamer name to a household name'",
+      "url": "https://www.pcgamer.com/games/the-pandemic-was-transformative-for-jackbox-we-went-from-a-gamer-name-to-a-household-name/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-pandemic-was-transformative-for-jackbox-we-went-from-a-gamer-name-to-a-household-name/",
+          "titre": "The pandemic was transformative for Jackbox: 'We went from a gamer name to a household name'"
+        }
+      ]
+    },
+    {
+      "id": "youtuber-and-comedian-ashens-has-1-000-hours-in-baldur-s-gat",
+      "titre": "YouTuber and comedian Ashens has 1,000 hours in Baldur's Gate 3 and reveals the worst retro game he's ever played: 'By the time you've hacked it to work, it's just no fun whatsoever'",
+      "url": "https://www.pcgamer.com/gaming-industry/youtuber-and-comedian-ashens-has-1-000-hours-in-baldurs-gate-3-and-reveals-the-worst-retro-game-hes-ever-played-by-the-time-youve-hacked-it-to-work-its-just-no-fun-whatsoever/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/youtuber-and-comedian-ashens-has-1-000-hours-in-baldurs-gate-3-and-reveals-the-worst-retro-game-hes-ever-played-by-the-time-youve-hacked-it-to-work-its-just-no-fun-whatsoever/",
+          "titre": "YouTuber and comedian Ashens has 1,000 hours in Baldur's Gate 3 and reveals the worst retro game he's ever played: 'By the time you've hacked it to work, it's just no fun whatsoever'"
+        }
+      ]
+    },
+    {
+      "id": "slay-the-spire-2-has-a-new-character-in-testing-and-she-s-re",
+      "titre": "Slay the Spire 2 has a new character in testing, and she's really quite busted",
+      "url": "https://www.pcgamer.com/games/roguelike/slay-the-spire-2-has-a-new-character-in-testing-and-shes-really-quite-busted/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/roguelike/slay-the-spire-2-has-a-new-character-in-testing-and-shes-really-quite-busted/",
+          "titre": "Slay the Spire 2 has a new character in testing, and she's really quite busted"
+        }
+      ]
+    },
+    {
+      "id": "treyarch-lays-off-lead-call-of-duty-writer-and-zombies-veter",
+      "titre": "Treyarch lays off lead Call of Duty writer and Zombies veteran after \"approximately 20 years\" of service",
+      "url": "https://www.eurogamer.net/craig-houston-layoff-treyarch-call-of-duty-layoffs",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 7.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/craig-houston-layoff-treyarch-call-of-duty-layoffs",
+          "titre": "Treyarch lays off lead Call of Duty writer and Zombies veteran after \"approximately 20 years\" of service"
+        }
+      ]
+    },
+    {
+      "id": "blade-runner-2099-bosses-hint-at-a-possible-triple-a-blade-r",
+      "titre": "Blade Runner 2099 bosses hint at a possible \"triple-A\" Blade Runner game in the future - just don't expect it any time soon",
+      "url": "https://www.eurogamer.net/blade-runner-2099-triple-a-talks",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 8.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/blade-runner-2099-triple-a-talks",
+          "titre": "Blade Runner 2099 bosses hint at a possible \"triple-A\" Blade Runner game in the future - just don't expect it any time soon"
+        }
+      ]
+    },
+    {
+      "id": "this-rts-inspired-by-star-wars-empire-at-war-promises-coloss",
+      "titre": "This RTS inspired by Star Wars: Empire at War promises colossal space encounters and planetary battles with 'hundreds of thousands of units'",
+      "url": "https://www.pcgamer.com/games/rts/this-rts-inspired-by-star-wars-empire-at-war-promises-colossal-space-encounters-and-planetary-battles-with-hundreds-of-thousands-of-units/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 8.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rts/this-rts-inspired-by-star-wars-empire-at-war-promises-colossal-space-encounters-and-planetary-battles-with-hundreds-of-thousands-of-units/",
+          "titre": "This RTS inspired by Star Wars: Empire at War promises colossal space encounters and planetary battles with 'hundreds of thousands of units'"
+        }
+      ]
+    },
+    {
+      "id": "the-sunday-papers",
+      "titre": "The Sunday Papers",
+      "url": "https://www.rockpapershotgun.com/the-sunday-papers-836",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 9.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-sunday-papers-836",
+          "titre": "The Sunday Papers"
         }
       ]
     },
@@ -389,7 +425,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 10.2,
       "chaleur": 4,
       "liens": [
         {
@@ -407,7 +443,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 10.5,
       "chaleur": 4,
       "liens": [
         {
@@ -425,7 +461,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -443,8 +479,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.0,
-      "chaleur": 4,
+      "heures": 12.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -461,8 +497,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.5,
-      "chaleur": 4,
+      "heures": 14.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -479,13 +515,31 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.6,
-      "chaleur": 4,
+      "heures": 15.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/the-most-annoying-questgivers-in-pc-games/",
           "titre": "The most annoying questgivers in PC games"
+        }
+      ]
+    },
+    {
+      "id": "planeswalker-netflix-s-magic-the-gathering-animated-series-w",
+      "titre": "Planeswalker, Netflix's Magic: The Gathering animated series, will have a different art style for each plane",
+      "url": "https://www.pcgamer.com/movies-tv/planeswalker-netflixs-magic-the-gathering-animated-series-will-have-a-different-art-style-for-each-plane/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 22.9,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/movies-tv/planeswalker-netflixs-magic-the-gathering-animated-series-will-have-a-different-art-style-for-each-plane/",
+          "titre": "Planeswalker, Netflix's Magic: The Gathering animated series, will have a different art style for each plane"
         }
       ]
     },
@@ -497,7 +551,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 18.1,
+      "heures": 23.9,
       "chaleur": 3,
       "liens": [
         {
@@ -515,7 +569,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.7,
+      "heures": 24.4,
       "chaleur": 3,
       "liens": [
         {
@@ -533,7 +587,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 20.2,
+      "heures": 26.0,
       "chaleur": 3,
       "liens": [
         {
@@ -551,7 +605,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 23.0,
+      "heures": 28.8,
       "chaleur": 3,
       "liens": [
         {
@@ -569,7 +623,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 24.0,
+      "heures": 29.7,
       "chaleur": 3,
       "liens": [
         {
@@ -587,67 +641,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 24.1,
+      "heures": 29.9,
       "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/missed-something-on-your-first-go-around-the-blood-of-dawnwalker-ive-got-good-news-as-next-weeks-update-adds-in-new-game-plus",
           "titre": "Missed something on your first go around The Blood of Dawnwalker? I've got good news, as next week's update adds in new game plus"
-        }
-      ]
-    },
-    {
-      "id": "i-summoned-1-blood-demon-stitched-2-of-my-disciples-together",
-      "titre": "I summoned 1 blood demon, stitched 2 of my disciples together, and seduced 3 snails in this excellent cult simulator in the spirit of Dwarf Fortress",
-      "url": "https://www.pcgamer.com/games/sim/i-summoned-1-blood-demon-stitched-2-of-my-disciples-together-and-seduced-3-snails-in-this-excellent-cult-simulator-in-the-spirit-of-dwarf-fortress/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 25.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/i-summoned-1-blood-demon-stitched-2-of-my-disciples-together-and-seduced-3-snails-in-this-excellent-cult-simulator-in-the-spirit-of-dwarf-fortress/",
-          "titre": "I summoned 1 blood demon, stitched 2 of my disciples together, and seduced 3 snails in this excellent cult simulator in the spirit of Dwarf Fortress"
-        }
-      ]
-    },
-    {
-      "id": "dishonored-2-director-harvey-smith-wants-to-honour-sacred-im",
-      "titre": "Dishonored 2 director Harvey Smith wants to honour sacred imsim texts while finding news ways to surprise fans: 'That's the two wolves inside me'",
-      "url": "https://www.pcgamer.com/games/sim/dishonored-2-director-harvey-smith-wants-to-honour-sacred-imsim-texts-while-finding-news-ways-to-surprise-fans-thats-the-two-wolves-inside-me/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 26.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sim/dishonored-2-director-harvey-smith-wants-to-honour-sacred-imsim-texts-while-finding-news-ways-to-surprise-fans-thats-the-two-wolves-inside-me/",
-          "titre": "Dishonored 2 director Harvey Smith wants to honour sacred imsim texts while finding news ways to surprise fans: 'That's the two wolves inside me'"
-        }
-      ]
-    },
-    {
-      "id": "halo-campaign-evolved-is-getting-firefight-as-a-free-update",
-      "titre": "Halo: Campaign Evolved is getting Firefight as a free update, though I'm not sure it'll do much to change the remake's fortunes",
-      "url": "https://www.pcgamer.com/games/halo/halo-campaign-evolved-is-getting-firefight-as-a-free-update-though-im-not-sure-itll-do-much-to-change-the-remakes-fortunes/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 26.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/halo/halo-campaign-evolved-is-getting-firefight-as-a-free-update-though-im-not-sure-itll-do-much-to-change-the-remakes-fortunes/",
-          "titre": "Halo: Campaign Evolved is getting Firefight as a free update, though I'm not sure it'll do much to change the remake's fortunes"
         }
       ]
     },
@@ -659,7 +659,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 26.5,
+      "heures": 32.2,
       "chaleur": 3,
       "liens": [
         {
@@ -670,20 +670,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "formula-1-just-found-a-bizarre-financial-supporter-in-horse",
-      "titre": "Formula 1 just found a bizarre financial supporter in horse girl gacha Umamusume: Pretty Derby",
-      "url": "https://www.pcgamer.com/games/sports/formula-1-just-found-a-bizarre-financial-supporter-in-horse-girl-gacha-umamusume-pretty-derby/",
+      "id": "poll-are-you-hyped-for-november-s-10-new-ps-plus-games",
+      "titre": "Poll: Are You Hyped for November's 10 New PS Plus Games?",
+      "url": "https://www.pushsquare.com/features/poll-are-you-hyped-for-novembers-10-new-ps-plus-games",
       "sources": [
-        "PC Gamer"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 27.0,
+      "heures": 33.7,
       "chaleur": 3,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/sports/formula-1-just-found-a-bizarre-financial-supporter-in-horse-girl-gacha-umamusume-pretty-derby/",
-          "titre": "Formula 1 just found a bizarre financial supporter in horse girl gacha Umamusume: Pretty Derby"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/poll-are-you-hyped-for-novembers-10-new-ps-plus-games",
+          "titre": "Poll: Are You Hyped for November's 10 New PS Plus Games?"
         }
       ]
     },
@@ -695,7 +695,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 29.0,
+      "heures": 34.7,
       "chaleur": 3,
       "liens": [
         {
@@ -713,31 +713,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.7,
+      "heures": 35.5,
       "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/call-of-duty-endowment-valor-pack-remembrance-day-veterans",
           "titre": "Call of Duty Endowment marks Remembrance Day with veterans' Valor Pack push"
-        }
-      ]
-    },
-    {
-      "id": "what-we-ve-been-playing-whether-he-means-to-or-not-he-serves",
-      "titre": "What we've been playing - \"Whether he means to or not, he serves sass all over town\"",
-      "url": "https://www.eurogamer.net/what-weve-been-playing-sass-all-over-town-link-ocarina",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 33.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/what-weve-been-playing-sass-all-over-town-link-ocarina",
-          "titre": "What we've been playing - \"Whether he means to or not, he serves sass all over town\""
         }
       ]
     }
