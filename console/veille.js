@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "15/11/2026 à 22h44",
+  "collecte": "16/11/2026 à 06h12",
   "seuil": 14,
   "sujets": [
     {
@@ -12,8 +12,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 8.7,
-      "chaleur": 10,
+      "heures": 16.1,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Eurogamer",
@@ -28,26 +28,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "rumour-rainbow-six-vegas-3-now-in-the-works-at-ubisoft",
-      "titre": "Rumour: Rainbow Six: Vegas 3 Now in the Works at Ubisoft",
-      "url": "https://www.pushsquare.com/news/2026/11/rumour-rainbow-six-vegas-3-now-in-the-works-at-ubisoft",
+      "id": "influential-warhammer-miniature-designer-aly-morrison-has-di",
+      "titre": "Influential Warhammer miniature designer Aly Morrison has died",
+      "url": "https://www.pcgamer.com/games/board-games/influential-warhammer-miniature-designer-aly-morrison-has-died/",
       "sources": [
-        "Eurogamer",
-        "Push Square"
+        "PC Gamer"
       ],
-      "reprises": 2,
-      "heures": 33.2,
-      "chaleur": 8,
+      "reprises": 1,
+      "heures": 0.7,
+      "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/rumour-rainbow-six-vegas-3-now-in-the-works-at-ubisoft",
-          "titre": "Rumour: Rainbow Six: Vegas 3 Now in the Works at Ubisoft"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/rainbow-six-vegas-new-game-ubisoft-spades-report",
-          "titre": "Ubisoft is reportedly making a new Rainbow Six Vegas game, nearly two decades after Vegas 2"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/board-games/influential-warhammer-miniature-designer-aly-morrison-has-died/",
+          "titre": "Influential Warhammer miniature designer Aly Morrison has died"
         }
       ]
     },
@@ -60,8 +54,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 7.7,
-      "chaleur": 7,
+      "heures": 15.2,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
@@ -76,42 +70,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "police-arrest-suspect-after-drive-by-shooting-at-office-camp",
-      "titre": "Police arrest suspect after drive-by shooting at office campus housing Xbox studio inXile",
-      "url": "https://www.eurogamer.net/inxile-office-shooting-tustin-suspect-arrested",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 4.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/inxile-office-shooting-tustin-suspect-arrested",
-          "titre": "Police arrest suspect after drive-by shooting at office campus housing Xbox studio inXile"
-        }
-      ]
-    },
-    {
-      "id": "playstation-black-friday-sale-knocks-up-to-100-off-ps5-acces",
-      "titre": "PlayStation Black Friday Sale Knocks Up to $100 Off PS5 Accessories, PSVR2",
-      "url": "https://www.pushsquare.com/news/2026/11/playstation-black-friday-sale-knocks-up-to-usd100-off-ps5-accessories-psvr2",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 9.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/playstation-black-friday-sale-knocks-up-to-usd100-off-ps5-accessories-psvr2",
-          "titre": "PlayStation Black Friday Sale Knocks Up to $100 Off PS5 Accessories, PSVR2"
-        }
-      ]
-    },
-    {
       "id": "what-s-the-best-gta",
       "titre": "What's the best GTA?",
       "url": "https://www.eurogamer.net/the-big-question-whats-the-best-gta",
@@ -119,7 +77,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.7,
+      "heures": 20.2,
       "chaleur": 6,
       "liens": [
         {
@@ -137,7 +95,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 22.7,
+      "heures": 30.2,
       "chaleur": 6,
       "liens": [
         {
@@ -155,13 +113,49 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 27.7,
+      "heures": 35.2,
       "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/congratulations-to-people-who-feel-mean-shooting-random-npcs-because-gta-6-tries-to-provide-mechanisms-that-encourage-empathy",
           "titre": "Congratulations to people who feel mean shooting random NPCs, because GTA 6 tries \"to provide mechanisms that encourage\" empathy"
+        }
+      ]
+    },
+    {
+      "id": "police-arrest-suspect-after-drive-by-shooting-at-office-camp",
+      "titre": "Police arrest suspect after drive-by shooting at office campus housing Xbox studio inXile",
+      "url": "https://www.eurogamer.net/inxile-office-shooting-tustin-suspect-arrested",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 12.4,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/inxile-office-shooting-tustin-suspect-arrested",
+          "titre": "Police arrest suspect after drive-by shooting at office campus housing Xbox studio inXile"
+        }
+      ]
+    },
+    {
+      "id": "playstation-black-friday-sale-knocks-up-to-100-off-ps5-acces",
+      "titre": "PlayStation Black Friday Sale Knocks Up to $100 Off PS5 Accessories, PSVR2",
+      "url": "https://www.pushsquare.com/news/2026/11/playstation-black-friday-sale-knocks-up-to-usd100-off-ps5-accessories-psvr2",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 17.2,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/playstation-black-friday-sale-knocks-up-to-usd100-off-ps5-accessories-psvr2",
+          "titre": "PlayStation Black Friday Sale Knocks Up to $100 Off PS5 Accessories, PSVR2"
         }
       ]
     },
@@ -173,7 +167,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.2,
+      "heures": 22.7,
       "chaleur": 5,
       "liens": [
         {
@@ -191,7 +185,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.2,
+      "heures": 23.7,
       "chaleur": 5,
       "liens": [
         {
@@ -202,38 +196,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "mini-review-tape-to-tape-switch-a-great-roguelite-for-unders",
-      "titre": "Mini Review: Tape To Tape (Switch) - A Great Roguelite For Underserved Hockey Lovers",
-      "url": "https://www.nintendolife.com/reviews/switch-eshop/tape-to-tape",
+      "id": "minecraft-dungeons-ii-first-dlc-the-humblers-awaken-arrives",
+      "titre": "Minecraft Dungeons II First DLC 'The Humblers Awaken' Arrives Next Month",
+      "url": "https://www.nintendolife.com/news/2026/11/minecraft-dungeons-ii-first-dlc-the-humblers-awaken-arrives-next-month",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 30.7,
-      "chaleur": 5,
+      "heures": 6.3,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/switch-eshop/tape-to-tape",
-          "titre": "Mini Review: Tape To Tape (Switch) - A Great Roguelite For Underserved Hockey Lovers"
-        }
-      ]
-    },
-    {
-      "id": "opinion-nintendo-made-ocarina-of-time-s-best-moment-even-bet",
-      "titre": "Opinion: Nintendo Made Ocarina Of Time's Best Moment Even Better",
-      "url": "https://www.nintendolife.com/features/opinion-nintendo-made-ocarina-of-times-best-moment-even-better",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 32.7,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/opinion-nintendo-made-ocarina-of-times-best-moment-even-better",
-          "titre": "Opinion: Nintendo Made Ocarina Of Time's Best Moment Even Better"
+          "url": "https://www.nintendolife.com/news/2026/11/minecraft-dungeons-ii-first-dlc-the-humblers-awaken-arrives-next-month",
+          "titre": "Minecraft Dungeons II First DLC 'The Humblers Awaken' Arrives Next Month"
         }
       ]
     },
@@ -245,8 +221,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.7,
-      "chaleur": 4,
+      "heures": 12.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -263,8 +239,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.0,
-      "chaleur": 4,
+      "heures": 12.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -281,8 +257,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.1,
-      "chaleur": 4,
+      "heures": 12.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -299,8 +275,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.2,
-      "chaleur": 4,
+      "heures": 12.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -317,8 +293,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.7,
-      "chaleur": 4,
+      "heures": 13.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -335,8 +311,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.7,
-      "chaleur": 4,
+      "heures": 14.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -353,8 +329,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.5,
-      "chaleur": 4,
+      "heures": 15.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -371,8 +347,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.0,
-      "chaleur": 4,
+      "heures": 15.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -389,8 +365,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.2,
-      "chaleur": 4,
+      "heures": 15.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -407,8 +383,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.7,
-      "chaleur": 4,
+      "heures": 17.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -425,8 +401,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 4,
+      "heures": 17.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -443,8 +419,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 4,
+      "heures": 18.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -461,8 +437,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 4,
+      "heures": 18.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -479,7 +455,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.7,
+      "heures": 20.2,
       "chaleur": 3,
       "liens": [
         {
@@ -497,7 +473,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.2,
+      "heures": 21.7,
       "chaleur": 3,
       "liens": [
         {
@@ -515,7 +491,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 15.4,
+      "heures": 22.8,
       "chaleur": 3,
       "liens": [
         {
@@ -533,7 +509,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 22.9,
+      "heures": 30.4,
       "chaleur": 3,
       "liens": [
         {
@@ -551,7 +527,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 23.9,
+      "heures": 31.3,
       "chaleur": 3,
       "liens": [
         {
@@ -569,7 +545,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 24.4,
+      "heures": 31.9,
       "chaleur": 3,
       "liens": [
         {
@@ -587,139 +563,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 26.0,
+      "heures": 33.4,
       "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/is-the-game-funny-or-just-the-players-jackbox-ceo-says-they-get-a-lot-of-false-positives-with-a-staff-of-comedy-writers/",
           "titre": "Is the game funny, or just the players? Jackbox CEO says they get 'a lot of false positives' with a staff of comedy writers"
-        }
-      ]
-    },
-    {
-      "id": "from-2d-to-3d-and-back-to-2d-again-the-original-platforming",
-      "titre": "From 2D to 3D and back to 2D again, the original platforming classic Super Meat Boy returns with a slick remaster complete with new levels and too many old saws",
-      "url": "https://www.rockpapershotgun.com/from-2d-to-3d-and-back-to-2d-again-the-original-platforming-classic-super-meat-boy-returns-with-a-slick-remaster-complete-with-new-levels-and-too-many-old-saws",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 28.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/from-2d-to-3d-and-back-to-2d-again-the-original-platforming-classic-super-meat-boy-returns-with-a-slick-remaster-complete-with-new-levels-and-too-many-old-saws",
-          "titre": "From 2D to 3D and back to 2D again, the original platforming classic Super Meat Boy returns with a slick remaster complete with new levels and too many old saws"
-        }
-      ]
-    },
-    {
-      "id": "do-you-like-mob-tagging-in-oldschool-mmos-or-are-you-done-wi",
-      "titre": "Do you like mob tagging in oldschool MMOs, or are you done with fighting for quest credit?",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/do-you-like-mob-tagging-in-oldschool-mmos-or-are-you-done-with-fighting-for-quest-credit/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 29.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/do-you-like-mob-tagging-in-oldschool-mmos-or-are-you-done-with-fighting-for-quest-credit/",
-          "titre": "Do you like mob tagging in oldschool MMOs, or are you done with fighting for quest credit?"
-        }
-      ]
-    },
-    {
-      "id": "missed-something-on-your-first-go-around-the-blood-of-dawnwa",
-      "titre": "Missed something on your first go around The Blood of Dawnwalker? I've got good news, as next week's update adds in new game plus",
-      "url": "https://www.rockpapershotgun.com/missed-something-on-your-first-go-around-the-blood-of-dawnwalker-ive-got-good-news-as-next-weeks-update-adds-in-new-game-plus",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 29.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/missed-something-on-your-first-go-around-the-blood-of-dawnwalker-ive-got-good-news-as-next-weeks-update-adds-in-new-game-plus",
-          "titre": "Missed something on your first go around The Blood of Dawnwalker? I've got good news, as next week's update adds in new game plus"
-        }
-      ]
-    },
-    {
-      "id": "crazy-taxi-makes-a-stop-in-india-for-the-final-leg-of-its-wo",
-      "titre": "Crazy Taxi Makes a Stop in India for the Final Leg of Its World Tour",
-      "url": "https://www.pushsquare.com/news/2026/11/crazy-taxi-makes-a-stop-in-india-for-the-final-leg-of-its-world-tour",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 32.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/crazy-taxi-makes-a-stop-in-india-for-the-final-leg-of-its-world-tour",
-          "titre": "Crazy Taxi Makes a Stop in India for the Final Leg of Its World Tour"
-        }
-      ]
-    },
-    {
-      "id": "poll-are-you-hyped-for-november-s-10-new-ps-plus-games",
-      "titre": "Poll: Are You Hyped for November's 10 New PS Plus Games?",
-      "url": "https://www.pushsquare.com/features/poll-are-you-hyped-for-novembers-10-new-ps-plus-games",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 33.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/poll-are-you-hyped-for-novembers-10-new-ps-plus-games",
-          "titre": "Poll: Are You Hyped for November's 10 New PS Plus Games?"
-        }
-      ]
-    },
-    {
-      "id": "guide-these-13-ps5-and-ps-plus-games-are-coming-out-next-wee",
-      "titre": "Guide: These 13+ PS5 and PS Plus Games Are Coming Out Next Week (16th-22nd November)",
-      "url": "https://www.pushsquare.com/guides/these-13plus-ps5-and-ps-plus-games-are-coming-out-next-week-16th-22nd-november",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 34.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/guides/these-13plus-ps5-and-ps-plus-games-are-coming-out-next-week-16th-22nd-november",
-          "titre": "Guide: These 13+ PS5 and PS Plus Games Are Coming Out Next Week (16th-22nd November)"
-        }
-      ]
-    },
-    {
-      "id": "call-of-duty-endowment-marks-remembrance-day-with-veterans-v",
-      "titre": "Call of Duty Endowment marks Remembrance Day with veterans' Valor Pack push",
-      "url": "https://www.eurogamer.net/call-of-duty-endowment-valor-pack-remembrance-day-veterans",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 35.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/call-of-duty-endowment-valor-pack-remembrance-day-veterans",
-          "titre": "Call of Duty Endowment marks Remembrance Day with veterans' Valor Pack push"
         }
       ]
     }
