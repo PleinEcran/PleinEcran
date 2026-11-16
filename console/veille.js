@@ -1,71 +1,773 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "16/11/2026 à 06h12",
+  "collecte": "16/11/2026 à 18h22",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "xbox-teases-project-helix-as-a-console-that-is-also-capable",
+      "titre": "Xbox teases Project Helix as 'a console that is also capable of playing games from your PC'",
+      "url": "https://www.gamedeveloper.com/console/new-xbox-codenamed-helix-gets-a-few-new-details",
+      "sources": [
+        "Eurogamer",
+        "Game Developer",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 1.8,
+      "chaleur": 14,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/console/new-xbox-codenamed-helix-gets-a-few-new-details",
+          "titre": "Xbox teases Project Helix as 'a console that is also capable of playing games from your PC'"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/microsoft-project-helix-interview-details",
+          "titre": "The next Xbox, Project Helix, is a console and \"not a PC\" says Microsoft, as it clarifies that computational power isn't sole focus this time"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/xbox-says-project-helix-is-a-console-that-can-play-pc-games-not-a-pc-that-can-play-console-games/",
+          "titre": "Xbox says Project Helix is a console that can play PC games, not a PC that can play console games"
+        }
+      ]
+    },
+    {
+      "id": "nba-2k27-is-getting-a-vice-city-edition-as-well-as-numerous",
+      "titre": "NBA 2K27 is getting a Vice City Edition, as well as numerous GTA 6 themed items in Season 3",
+      "url": "https://www.videogameschronicle.com/news/nba-2k27-is-getting-a-vice-city-edition-as-well-as-numerous-gta-6-themed-items-in-season-3/",
+      "sources": [
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 1.6,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/nba-2k27-is-getting-a-vice-city-edition-as-well-as-numerous-gta-6-themed-items-in-season-3/",
+          "titre": "NBA 2K27 is getting a Vice City Edition, as well as numerous GTA 6 themed items in Season 3"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-subscription-will-include-nba-2k27-for-free-on-ps5",
+          "titre": "GTA 6 Subscription Will Include NBA 2K27 for Free on PS5"
+        }
+      ]
+    },
+    {
+      "id": "it-s-common-for-there-to-be-speculation-and-headlines-unity",
+      "titre": "'It's common for there to be speculation and headlines:' Unity exec addresses acquisition rumors",
+      "url": "https://www.gamedeveloper.com/business/-it-s-common-for-there-to-be-speculation-and-headlines-unity-exec-addresses-acquisition-rumors",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/-it-s-common-for-there-to-be-speculation-and-headlines-unity-exec-addresses-acquisition-rumors",
+          "titre": "'It's common for there to be speculation and headlines:' Unity exec addresses acquisition rumors"
+        }
+      ]
+    },
+    {
+      "id": "shigeru-miyamoto-to-receive-the-inaugural-legend-award-at-th",
+      "titre": "Shigeru Miyamoto To Receive The Inaugural 'Legend Award' At The 30th D.I.C.E. Awards",
+      "url": "https://www.nintendolife.com/news/2026/11/shigeru-miyamoto-to-receive-the-inaugural-legend-award-at-the-30th-d-i-c-e-awards",
+      "sources": [
+        "Nintendo Life",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 0.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/shigeru-miyamoto-to-receive-the-inaugural-legend-award-at-the-30th-d-i-c-e-awards",
+          "titre": "Shigeru Miyamoto To Receive The Inaugural 'Legend Award' At The 30th D.I.C.E. Awards"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/shigeru-miyamoto-to-be-honored-with-first-aias-legend-award-in-las-vegas/",
+          "titre": "Shigeru Miyamoto to be honored with first AIAS Legend Award in Las Vegas"
+        }
+      ]
+    },
+    {
+      "id": "grammy-awards-reveal-this-year-s-nominees-for-best-video-gam",
+      "titre": "Grammy Awards Reveal This Year's Nominees for Best Video Game Soundtrack",
+      "url": "https://www.pushsquare.com/news/2026/11/grammy-awards-reveal-this-years-nominees-for-best-video-game-soundtrack",
+      "sources": [
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 0.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/grammy-awards-reveal-this-years-nominees-for-best-video-game-soundtrack",
+          "titre": "Grammy Awards Reveal This Year's Nominees for Best Video Game Soundtrack"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/this-years-video-game-soundtrack-grammy-nominations-include-bond-star-wars-and-wolverine/",
+          "titre": "This year’s video game soundtrack Grammy nominations include Bond, Star Wars and Wolverine"
+        }
+      ]
+    },
+    {
+      "id": "i-installed-a-gta-5-drag-racing-mod-that-got-derailed-by-my",
+      "titre": "I installed a GTA 5 drag racing mod that got derailed by my roving band of hitmen mod",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-installed-a-gta-5-drag-racing-mod-that-got-derailed-by-my-roving-band-of-hitmen-mod/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-installed-a-gta-5-drag-racing-mod-that-got-derailed-by-my-roving-band-of-hitmen-mod/",
+          "titre": "I installed a GTA 5 drag racing mod that got derailed by my roving band of hitmen mod"
+        }
+      ]
+    },
+    {
+      "id": "uk-conservative-leader-kemi-badenoch-is-more-worried-about-t",
+      "titre": "UK Conservative leader Kemi Badenoch is more worried \"about the amount of time\" people will spend on GTA 6 than the game's violent content",
+      "url": "https://www.eurogamer.net/uk-conservative-kemi-badenoch-gta-6",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/uk-conservative-kemi-badenoch-gta-6",
+          "titre": "UK Conservative leader Kemi Badenoch is more worried \"about the amount of time\" people will spend on GTA 6 than the game's violent content"
+        }
+      ]
+    },
+    {
+      "id": "each-new-gta-moves-the-series-closer-and-closer-to-the-origi",
+      "titre": "Each new GTA moves the series closer and closer to the original Mafia, the open-world game that bettered Rockstar",
+      "url": "https://www.rockpapershotgun.com/each-new-gta-moves-the-series-closer-and-closer-to-the-original-mafia-the-open-world-game-that-bettered-rockstar",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/each-new-gta-moves-the-series-closer-and-closer-to-the-original-mafia-the-open-world-game-that-bettered-rockstar",
+          "titre": "Each new GTA moves the series closer and closer to the original Mafia, the open-world game that bettered Rockstar"
+        }
+      ]
+    },
+    {
+      "id": "that-was-very-tough-indiana-jones-dev-struggled-to-transiti",
+      "titre": "\"That Was Very Tough\" - Indiana Jones Dev Struggled To Transition From Gunplay",
+      "url": "https://www.nintendolife.com/news/2026/11/that-was-very-tough-indiana-jones-dev-struggled-to-transition-from-gunplay",
+      "sources": [
+        "Nintendo Life",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 1.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/that-was-very-tough-indiana-jones-dev-struggled-to-transition-from-gunplay",
+          "titre": "\"That Was Very Tough\" - Indiana Jones Dev Struggled To Transition From Gunplay"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/indiana-jones-and-the-great-circle-designer-says-it-was-very-tough-to-make-a-machinegames-title-that-didnt-focus-on-guns/",
+          "titre": "Indiana Jones and the Great Circle designer says it was ‘very tough’ to make a MachineGames title that didn’t focus on guns"
+        }
+      ]
+    },
+    {
+      "id": "guide-gta-6-release-times-when-can-you-start-playing",
+      "titre": "Guide: GTA 6 Release Times: When Can You Start Playing?",
+      "url": "https://www.pushsquare.com/guides/gta-6-release-times-when-can-you-start-playing",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 2.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/guides/gta-6-release-times-when-can-you-start-playing",
+          "titre": "Guide: GTA 6 Release Times: When Can You Start Playing?"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-hacker-pleads-guilty-to-2022-rockstar-games-breach-whi",
+      "titre": "GTA 6 hacker pleads guilty to 2022 Rockstar Games breach which the company claim cost them $5 million",
+      "url": "https://www.rockpapershotgun.com/gta-6-hacker-pleads-guilty-to-2022-rockstar-games-breach-which-the-company-claim-cost-them-5-million",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 2.8,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/gta-6-hacker-pleads-guilty-to-2022-rockstar-games-breach-which-the-company-claim-cost-them-5-million",
+          "titre": "GTA 6 hacker pleads guilty to 2022 Rockstar Games breach which the company claim cost them $5 million"
+        }
+      ]
+    },
+    {
+      "id": "xbox-gem-the-chronicles-of-riddick-escape-from-butcher-bay-w",
+      "titre": "Xbox gem The Chronicles of Riddick: Escape from Butcher Bay was briefly cancelled, but nobody told its developer",
+      "url": "https://www.videogameschronicle.com/news/xbox-gem-the-chronicles-of-riddick-escape-from-butcher-bay-was-briefly-cancelled-but-nobody-told-its-developer/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 5.8,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/xbox-gem-the-chronicles-of-riddick-escape-from-butcher-bay-was-briefly-cancelled-but-nobody-told-its-developer/",
+          "titre": "Xbox gem The Chronicles of Riddick: Escape from Butcher Bay was briefly cancelled, but nobody told its developer"
+        }
+      ]
+    },
+    {
+      "id": "nobody-was-hurt-in-shooting-near-clockwork-revolution-devs",
+      "titre": "\"Nobody was hurt\" in shooting near Clockwork Revolution devs InXile Entertainment's office, the Xbox-owned studio and police confirm",
+      "url": "https://www.rockpapershotgun.com/nobody-was-hurt-in-shooting-near-clockwork-revolution-devs-inxile-entertainments-office-the-xbox-owned-studio-and-police-confirm",
+      "sources": [
+        "Eurogamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 6.2,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/nobody-was-hurt-in-shooting-near-clockwork-revolution-devs-inxile-entertainments-office-the-xbox-owned-studio-and-police-confirm",
+          "titre": "\"Nobody was hurt\" in shooting near Clockwork Revolution devs InXile Entertainment's office, the Xbox-owned studio and police confirm"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/inxile-office-shooting-tustin-suspect-arrested",
+          "titre": "Police arrest suspect after drive-by shooting at office campus housing Xbox studio inXile"
+        }
+      ]
+    },
+    {
+      "id": "spirit-crossing-the-new-zelda-ish-hangout-mmo-from-the-creat",
+      "titre": "Spirit Crossing, the new Zelda-ish hangout MMO from the creators of Cozy Grove, understands that sometimes you just want to be alone",
+      "url": "https://www.rockpapershotgun.com/spirit-crossing-the-new-zelda-ish-hangout-mmo-from-the-creators-of-cozy-grove-understands-that-sometimes-you-just-want-to-be-alone",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/spirit-crossing-the-new-zelda-ish-hangout-mmo-from-the-creators-of-cozy-grove-understands-that-sometimes-you-just-want-to-be-alone",
+          "titre": "Spirit Crossing, the new Zelda-ish hangout MMO from the creators of Cozy Grove, understands that sometimes you just want to be alone"
+        }
+      ]
+    },
+    {
+      "id": "uk-charts-after-a-stellar-start-zelda-ocarina-of-time-slips",
+      "titre": "UK Charts: After A Stellar Start, Zelda: Ocarina Of Time Slips From The Top Spot",
+      "url": "https://www.nintendolife.com/news/2026/11/uk-charts-after-a-stellar-start-zelda-ocarina-of-time-slips-from-the-top-spot",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/uk-charts-after-a-stellar-start-zelda-ocarina-of-time-slips-from-the-top-spot",
+          "titre": "UK Charts: After A Stellar Start, Zelda: Ocarina Of Time Slips From The Top Spot"
+        }
+      ]
+    },
+    {
+      "id": "judge-throws-out-ram-makers-attempt-to-dismiss-lawsuit-accus",
+      "titre": "Judge throws out RAM makers’ attempt to dismiss lawsuit accusing them of fixing prices and supply",
+      "url": "https://www.videogameschronicle.com/news/judge-throws-out-ram-makers-attempt-to-dismiss-lawsuit-accusing-them-of-fixing-prices-and-supply/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 2.0,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/judge-throws-out-ram-makers-attempt-to-dismiss-lawsuit-accusing-them-of-fixing-prices-and-supply/",
+          "titre": "Judge throws out RAM makers’ attempt to dismiss lawsuit accusing them of fixing prices and supply"
+        }
+      ]
+    },
+    {
+      "id": "review-mobapad-m12-pro-joy-con-for-switch-2-the-best-option",
+      "titre": "Review: Mobapad M12 Pro Joy-Con For Switch 2 - The Best Option For Handheld",
+      "url": "https://www.nintendolife.com/reviews/mobapad-m12-pro-joy-con-for-switch-2-the-best-option-for-handheld",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 3.4,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/mobapad-m12-pro-joy-con-for-switch-2-the-best-option-for-handheld",
+          "titre": "Review: Mobapad M12 Pro Joy-Con For Switch 2 - The Best Option For Handheld"
+        }
+      ]
+    },
+    {
+      "id": "can-gta-6-make-2-billion-in-its-opening-weekend-one-industry",
+      "titre": "Can GTA 6 make $2 billion in its opening weekend? One industry analyst has run the numbers, and seems to think so",
+      "url": "https://www.eurogamer.net/can-gta-6-make-2-billion-in-its-opening-weekend-one-industry-analyst-has-run-the-numbers-and-seems-to-think-so",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.0,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/can-gta-6-make-2-billion-in-its-opening-weekend-one-industry-analyst-has-run-the-numbers-and-seems-to-think-so",
+          "titre": "Can GTA 6 make $2 billion in its opening weekend? One industry analyst has run the numbers, and seems to think so"
+        }
+      ]
+    },
+    {
+      "id": "mega-man-dual-override-s-boss-design-contest-winner-has-been",
+      "titre": "Mega Man: Dual Override's Boss Design Contest Winner Has Been Decided",
+      "url": "https://www.pushsquare.com/news/2026/11/mega-man-dual-overrides-boss-design-contest-winner-has-been-decided",
+      "sources": [
+        "Nintendo Life",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 6.4,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/mega-man-dual-overrides-boss-design-contest-winner-has-been-decided",
+          "titre": "Mega Man: Dual Override's Boss Design Contest Winner Has Been Decided"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/mega-man-dual-override-reveals-robot-master-design-contest-winner",
+          "titre": "Mega Man: Dual Override Reveals Robot Master Design Contest Winner"
+        }
+      ]
+    },
+    {
+      "id": "coffee-stain-acquires-chronicles-medieval-ip-from-bankrupt-r",
+      "titre": "Coffee Stain acquires Chronicles: Medieval IP from bankrupt Raw Power Games",
+      "url": "https://www.gamesindustry.biz/coffee-stain-acquires-chronicles-medieval-ip-from-bankrupt-raw-power-games",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 0.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/coffee-stain-acquires-chronicles-medieval-ip-from-bankrupt-raw-power-games",
+          "titre": "Coffee Stain acquires Chronicles: Medieval IP from bankrupt Raw Power Games"
+        }
+      ]
+    },
+    {
+      "id": "someone-hijacked-old-bitly-links-to-redirect-big-brands-to-s",
+      "titre": "Someone hijacked old Bitly links to redirect big brands to Skibidi Toilet and the Epstein files wiki",
+      "url": "https://www.pcgamer.com/software/security/someone-hijacked-old-bitly-links-to-redirect-big-brands-to-skibidi-toilet-and-the-epstein-files-wiki/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/security/someone-hijacked-old-bitly-links-to-redirect-big-brands-to-skibidi-toilet-and-the-epstein-files-wiki/",
+          "titre": "Someone hijacked old Bitly links to redirect big brands to Skibidi Toilet and the Epstein files wiki"
+        }
+      ]
+    },
+    {
+      "id": "paradox-interactive-names-new-ceo",
+      "titre": "Paradox Interactive names new CEO",
+      "url": "https://www.gamedeveloper.com/business/paradox-interactive-names-a-new-ceo",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/paradox-interactive-names-a-new-ceo",
+          "titre": "Paradox Interactive names new CEO"
+        }
+      ]
+    },
+    {
+      "id": "my-murderous-wine-merchant-whines-for-a-chance-at-republican",
+      "titre": "My murderous wine merchant whines for a chance at republican rule in Crusader Kings 3’s Silk and Silver expansion, which isn't only about the money",
+      "url": "https://www.rockpapershotgun.com/my-murderous-wine-merchant-whines-for-a-chance-at-republican-rule-in-crusader-kings-3s-silk-and-silver-expansion-which-isnt-only-about-the-money-1",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/my-murderous-wine-merchant-whines-for-a-chance-at-republican-rule-in-crusader-kings-3s-silk-and-silver-expansion-which-isnt-only-about-the-money-1",
+          "titre": "My murderous wine merchant whines for a chance at republican rule in Crusader Kings 3’s Silk and Silver expansion, which isn't only about the money"
+        }
+      ]
+    },
+    {
+      "id": "wolverine-ps5-slashes-its-price-for-the-first-time-in-black",
+      "titre": "Wolverine PS5 Slashes Its Price for the First Time in Black Friday Sales",
+      "url": "https://www.pushsquare.com/news/2026/11/wolverine-ps5-slashes-its-price-for-the-first-time-in-black-friday-sales",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/wolverine-ps5-slashes-its-price-for-the-first-time-in-black-friday-sales",
+          "titre": "Wolverine PS5 Slashes Its Price for the First Time in Black Friday Sales"
+        }
+      ]
+    },
+    {
+      "id": "final-fantasy-14-s-ongoing-pursuit-in-making-its-500-hour-st",
+      "titre": "Final Fantasy 14's ongoing pursuit in making its 500-hour story less daunting almost manifested into something in August, but Yoshi-P decided to postpone it",
+      "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-14s-ongoing-pursuit-in-making-its-500-hour-story-less-daunting-almost-manifested-into-something-in-august-but-yoshi-p-decided-to-postpone-it/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-14s-ongoing-pursuit-in-making-its-500-hour-story-less-daunting-almost-manifested-into-something-in-august-but-yoshi-p-decided-to-postpone-it/",
+          "titre": "Final Fantasy 14's ongoing pursuit in making its 500-hour story less daunting almost manifested into something in August, but Yoshi-P decided to postpone it"
+        }
+      ]
+    },
+    {
+      "id": "world-of-warcraft-forever-completionists-push-back-as-blizza",
+      "titre": "World of Warcraft: Forever completionists push back as Blizzard gives them a powerful toy and then prepares to take it away",
+      "url": "https://www.eurogamer.net/world-of-warcraft-forever-toy-pouch-of-violent-dust",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/world-of-warcraft-forever-toy-pouch-of-violent-dust",
+          "titre": "World of Warcraft: Forever completionists push back as Blizzard gives them a powerful toy and then prepares to take it away"
+        }
+      ]
+    },
+    {
+      "id": "we-almost-got-a-medieval-call-of-duty-with-knights-and-sword",
+      "titre": "We almost got a medieval Call of Duty with knights and swords: 'If it's a war story, sure, it can be Call of Duty'",
+      "url": "https://www.pcgamer.com/games/call-of-duty/we-almost-got-a-medieval-call-of-duty-with-knights-and-swords-if-its-a-war-story-sure-it-can-be-call-of-duty/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/call-of-duty/we-almost-got-a-medieval-call-of-duty-with-knights-and-swords-if-its-a-war-story-sure-it-can-be-call-of-duty/",
+          "titre": "We almost got a medieval Call of Duty with knights and swords: 'If it's a war story, sure, it can be Call of Duty'"
+        }
+      ]
+    },
+    {
+      "id": "intel-are-being-sued-for-misleading-investors-about-a-massiv",
+      "titre": "Intel are being sued for \"misleading\" investors about \"a massive glut of unwanted PC inventory\" thanks to AI-fuelled price hikes",
+      "url": "https://www.rockpapershotgun.com/intel-are-being-sued-for-misleading-investors-about-a-massive-glut-of-unwanted-pc-inventory-thanks-to-ai-fuelled-price-hikes",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 2.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/intel-are-being-sued-for-misleading-investors-about-a-massive-glut-of-unwanted-pc-inventory-thanks-to-ai-fuelled-price-hikes",
+          "titre": "Intel are being sued for \"misleading\" investors about \"a massive glut of unwanted PC inventory\" thanks to AI-fuelled price hikes"
+        }
+      ]
+    },
+    {
+      "id": "biostar-announces-the-first-intel-panther-lake-motherboard-a",
+      "titre": "Biostar announces the first Intel Panther Lake motherboard and it's tiny, but don't get your hopes up for cramming it into a mini gaming PC",
+      "url": "https://www.pcgamer.com/hardware/motherboards/biostar-announces-the-first-intel-panther-lake-motherboard-and-its-tiny-but-dont-get-your-hopes-up-for-cramming-it-into-a-mini-gaming-pc/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/motherboards/biostar-announces-the-first-intel-panther-lake-motherboard-and-its-tiny-but-dont-get-your-hopes-up-for-cramming-it-into-a-mini-gaming-pc/",
+          "titre": "Biostar announces the first Intel Panther Lake motherboard and it's tiny, but don't get your hopes up for cramming it into a mini gaming PC"
+        }
+      ]
+    },
+    {
+      "id": "final-fantasy-14-really-wants-evercold-to-be-the-expansion-e",
+      "titre": "Final Fantasy 14 really wants Evercold to be the expansion everyone comes back to, so much so it's giving you 30 days free gametime if you've been gone long enough",
+      "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-really-wants-evercold-to-be-the-expansion-everyone-comes-back-to-so-much-so-its-giving-you-30-days-free-gametime-if-youve-been-gone-long-enough/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-really-wants-evercold-to-be-the-expansion-everyone-comes-back-to-so-much-so-its-giving-you-30-days-free-gametime-if-youve-been-gone-long-enough/",
+          "titre": "Final Fantasy 14 really wants Evercold to be the expansion everyone comes back to, so much so it's giving you 30 days free gametime if you've been gone long enough"
+        }
+      ]
+    },
+    {
+      "id": "dave-the-diver-s-latest-crossover-update-sees-another-belove",
+      "titre": "Dave The Diver's Latest Crossover Update Sees Another Beloved Indie Join The Fray",
+      "url": "https://www.nintendolife.com/news/2026/11/dave-the-divers-latest-crossover-update-sees-another-beloved-indie-join-the-fray",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 2.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/dave-the-divers-latest-crossover-update-sees-another-beloved-indie-join-the-fray",
+          "titre": "Dave The Diver's Latest Crossover Update Sees Another Beloved Indie Join The Fray"
+        }
+      ]
+    },
+    {
+      "id": "rumour-persona-6-blowout-primed-for-the-game-awards",
+      "titre": "Rumour: Persona 6 Blowout Primed for The Game Awards",
+      "url": "https://www.pushsquare.com/news/2026/11/rumour-persona-6-blowout-primed-for-the-game-awards",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 2.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/rumour-persona-6-blowout-primed-for-the-game-awards",
+          "titre": "Rumour: Persona 6 Blowout Primed for The Game Awards"
+        }
+      ]
+    },
+    {
+      "id": "god-of-war-sons-of-sparta-out-now-on-ps4-new-modes-for-ps5-t",
+      "titre": "God of War: Sons of Sparta Out Now on PS4, New Modes for PS5 Too",
+      "url": "https://www.pushsquare.com/news/2026/11/god-of-war-sons-of-sparta-out-now-on-ps4-new-modes-for-ps5-too",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 3.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/god-of-war-sons-of-sparta-out-now-on-ps4-new-modes-for-ps5-too",
+          "titre": "God of War: Sons of Sparta Out Now on PS4, New Modes for PS5 Too"
+        }
+      ]
+    },
+    {
+      "id": "world-of-warcraft-forever-player-turns-their-paladin-into-a",
+      "titre": "World of Warcraft: Forever player turns their paladin into a near-unkillable healbot, solos a level 60 monster at level 30, and swims into the ocean",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-player-turns-their-paladin-into-a-near-unkillable-healbot-solos-a-level-60-monster-at-level-30-and-swims-into-the-ocean/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 3.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-player-turns-their-paladin-into-a-near-unkillable-healbot-solos-a-level-60-monster-at-level-30-and-swims-into-the-ocean/",
+          "titre": "World of Warcraft: Forever player turns their paladin into a near-unkillable healbot, solos a level 60 monster at level 30, and swims into the ocean"
+        }
+      ]
+    },
+    {
+      "id": "gamers-don-t-hate-ads-they-hate-bad-ads-why-ea-and-xbox-are",
+      "titre": "\"Gamers don't hate ads; they hate bad ads\" – Why EA and Xbox are putting adverts in their games",
+      "url": "https://www.gamesindustry.biz/gamers-dont-hate-ads-they-hate-bad-ads-why-ea-and-xbox-are-putting-adverts-in-their-games",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/gamers-dont-hate-ads-they-hate-bad-ads-why-ea-and-xbox-are-putting-adverts-in-their-games",
+          "titre": "\"Gamers don't hate ads; they hate bad ads\" – Why EA and Xbox are putting adverts in their games"
+        }
+      ]
+    },
+    {
+      "id": "jensen-huang-reportedly-eyeing-up-return-to-nvidia-as-friend",
+      "titre": "Jensen Huang reportedly eyeing up return to Nvidia as friendly tech execs form 'war room' to fight for him and over 175,000 people sign #bringjensenback petition",
+      "url": "https://www.pcgamer.com/software/ai/jensen-huang-reportedly-eyeing-up-return-to-nvidia-as-friendly-tech-execs-form-war-room-to-fight-for-him-and-over-175-000-people-sign-bringjensenback-petition/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/jensen-huang-reportedly-eyeing-up-return-to-nvidia-as-friendly-tech-execs-form-war-room-to-fight-for-him-and-over-175-000-people-sign-bringjensenback-petition/",
+          "titre": "Jensen Huang reportedly eyeing up return to Nvidia as friendly tech execs form 'war room' to fight for him and over 175,000 people sign #bringjensenback petition"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-store-app-receives-a-small-but-worthwhile-update-he",
+      "titre": "Nintendo Store App Receives A Small But Worthwhile Update, Here Are The Patch Notes",
+      "url": "https://www.nintendolife.com/news/2026/11/nintendo-store-app-receives-a-small-but-worthwhile-update-here-are-the-patch-notes",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/nintendo-store-app-receives-a-small-but-worthwhile-update-here-are-the-patch-notes",
+          "titre": "Nintendo Store App Receives A Small But Worthwhile Update, Here Are The Patch Notes"
+        }
+      ]
+    },
+    {
+      "id": "playstation-black-friday-sale-is-live-now-up-to-100-off-ps5",
+      "titre": "PlayStation Black Friday Sale Is Live Now, Up to $100 Off PS5 Accessories, PSVR2",
+      "url": "https://www.pushsquare.com/news/2026/11/playstation-black-friday-sale-is-live-now-up-to-usd100-off-ps5-accessories-psvr2",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/playstation-black-friday-sale-is-live-now-up-to-usd100-off-ps5-accessories-psvr2",
+          "titre": "PlayStation Black Friday Sale Is Live Now, Up to $100 Off PS5 Accessories, PSVR2"
+        }
+      ]
+    },
+    {
+      "id": "the-latest-steamos-update-improves-support-on-nvidia-powered",
+      "titre": "The latest SteamOS update improves support on Nvidia-powered PCs: makes swapping your rig to the OS less painful",
+      "url": "https://www.pcgamer.com/hardware/steam-machines/the-latest-steamos-update-improves-support-on-nvidia-powered-pcs-makes-swapping-your-rig-to-the-os-less-painful/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/steam-machines/the-latest-steamos-update-improves-support-on-nvidia-powered-pcs-makes-swapping-your-rig-to-the-os-less-painful/",
+          "titre": "The latest SteamOS update improves support on Nvidia-powered PCs: makes swapping your rig to the OS less painful"
+        }
+      ]
+    },
     {
       "id": "the-latest-gta-6-leak-comes-in-the-form-of-a-34-song-trackli",
       "titre": "The latest GTA 6 leak comes in the form of a 34-song tracklist for GTA 6: The Album, featuring Dua Lipa, Lana Del Rey, Rina Sawayama, and more",
       "url": "https://www.eurogamer.net/gta-6-tracklist-leak",
       "sources": [
-        "Eurogamer",
-        "PC Gamer"
+        "Eurogamer"
       ],
-      "reprises": 2,
-      "heures": 16.1,
-      "chaleur": 9,
+      "reprises": 1,
+      "heures": 28.3,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/gta-6-tracklist-leak",
           "titre": "The latest GTA 6 leak comes in the form of a 34-song tracklist for GTA 6: The Album, featuring Dua Lipa, Lana Del Rey, Rina Sawayama, and more"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-soundtrack-leak-confirmed-accurate-with-new-songs-from-lana-del-rey-playboi-carti-and-keith-richards/",
-          "titre": "GTA 6 soundtrack leak confirmed accurate with new songs from Lana Del Rey, Playboi Carti, and Keith Richards"
-        }
-      ]
-    },
-    {
-      "id": "influential-warhammer-miniature-designer-aly-morrison-has-di",
-      "titre": "Influential Warhammer miniature designer Aly Morrison has died",
-      "url": "https://www.pcgamer.com/games/board-games/influential-warhammer-miniature-designer-aly-morrison-has-died/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 0.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/board-games/influential-warhammer-miniature-designer-aly-morrison-has-died/",
-          "titre": "Influential Warhammer miniature designer Aly Morrison has died"
-        }
-      ]
-    },
-    {
-      "id": "queen-s-domain-is-the-best-dark-souls-1-since-dark-souls-1",
-      "titre": "Queen's Domain is the best Dark Souls 1 since Dark Souls 1",
-      "url": "https://www.pcgamer.com/games/rpg/queens-domain-is-the-best-dark-souls-1-since-dark-souls-1/",
-      "sources": [
-        "PC Gamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 15.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/queens-domain-is-the-best-dark-souls-1-since-dark-souls-1/",
-          "titre": "Queen's Domain is the best Dark Souls 1 since Dark Souls 1"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/rasen-out-in-early-access-now-is-a-pvp-focused-take-on-dark-souls-that-borrows-one-of-fighting-games-best-techy-tricks",
-          "titre": "Rasen, out in early access now, is a PvP focused take on Dark Souls that borrows one of fighting games' best techy tricks"
         }
       ]
     },
@@ -77,103 +779,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 20.2,
+      "heures": 32.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/the-big-question-whats-the-best-gta",
           "titre": "What's the best GTA?"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-s-212gb-ps5-file-size-prompts-madden-nfl-27-to-beg-you",
-      "titre": "GTA 6's 212GB PS5 File Size Prompts Madden NFL 27 to Beg You Not to Delete It",
-      "url": "https://www.pushsquare.com/news/2026/11/gta-6s-212gb-ps5-file-size-prompts-madden-nfl-27-to-beg-you-not-to-delete-it",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 30.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/gta-6s-212gb-ps5-file-size-prompts-madden-nfl-27-to-beg-you-not-to-delete-it",
-          "titre": "GTA 6's 212GB PS5 File Size Prompts Madden NFL 27 to Beg You Not to Delete It"
-        }
-      ]
-    },
-    {
-      "id": "congratulations-to-people-who-feel-mean-shooting-random-npcs",
-      "titre": "Congratulations to people who feel mean shooting random NPCs, because GTA 6 tries \"to provide mechanisms that encourage\" empathy",
-      "url": "https://www.rockpapershotgun.com/congratulations-to-people-who-feel-mean-shooting-random-npcs-because-gta-6-tries-to-provide-mechanisms-that-encourage-empathy",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 35.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/congratulations-to-people-who-feel-mean-shooting-random-npcs-because-gta-6-tries-to-provide-mechanisms-that-encourage-empathy",
-          "titre": "Congratulations to people who feel mean shooting random NPCs, because GTA 6 tries \"to provide mechanisms that encourage\" empathy"
-        }
-      ]
-    },
-    {
-      "id": "police-arrest-suspect-after-drive-by-shooting-at-office-camp",
-      "titre": "Police arrest suspect after drive-by shooting at office campus housing Xbox studio inXile",
-      "url": "https://www.eurogamer.net/inxile-office-shooting-tustin-suspect-arrested",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 12.4,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/inxile-office-shooting-tustin-suspect-arrested",
-          "titre": "Police arrest suspect after drive-by shooting at office campus housing Xbox studio inXile"
-        }
-      ]
-    },
-    {
-      "id": "playstation-black-friday-sale-knocks-up-to-100-off-ps5-acces",
-      "titre": "PlayStation Black Friday Sale Knocks Up to $100 Off PS5 Accessories, PSVR2",
-      "url": "https://www.pushsquare.com/news/2026/11/playstation-black-friday-sale-knocks-up-to-usd100-off-ps5-accessories-psvr2",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 17.2,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/playstation-black-friday-sale-knocks-up-to-usd100-off-ps5-accessories-psvr2",
-          "titre": "PlayStation Black Friday Sale Knocks Up to $100 Off PS5 Accessories, PSVR2"
-        }
-      ]
-    },
-    {
-      "id": "zelda-notes-reveals-top-game-over-causes-and-more-global-pla",
-      "titre": "Zelda Notes Reveals Top 'Game Over Causes' And More Global Play Data In Ocarina Of Time Remake",
-      "url": "https://www.nintendolife.com/news/2026/11/zelda-notes-reveals-top-game-over-causes-and-more-global-play-data-in-ocarina-of-time-remake",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 22.7,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/zelda-notes-reveals-top-game-over-causes-and-more-global-play-data-in-ocarina-of-time-remake",
-          "titre": "Zelda Notes Reveals Top 'Game Over Causes' And More Global Play Data In Ocarina Of Time Remake"
         }
       ]
     },
@@ -185,7 +797,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.7,
+      "heures": 35.9,
       "chaleur": 5,
       "liens": [
         {
@@ -196,383 +808,331 @@ const VEILLE = {
       ]
     },
     {
-      "id": "minecraft-dungeons-ii-first-dlc-the-humblers-awaken-arrives",
-      "titre": "Minecraft Dungeons II First DLC 'The Humblers Awaken' Arrives Next Month",
-      "url": "https://www.nintendolife.com/news/2026/11/minecraft-dungeons-ii-first-dlc-the-humblers-awaken-arrives-next-month",
+      "id": "ever-wanted-to-play-a-multiplayer-version-of-cyberpunk-2077",
+      "titre": "Ever wanted to play a multiplayer version of Cyberpunk 2077 with your friends? Well, thanks to a mod now in beta, you can",
+      "url": "https://www.eurogamer.net/cyberpunk-2077-multiplayer-mod-open-beta",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/cyberpunk-2077-multiplayer-mod-open-beta",
+          "titre": "Ever wanted to play a multiplayer version of Cyberpunk 2077 with your friends? Well, thanks to a mod now in beta, you can"
+        }
+      ]
+    },
+    {
+      "id": "ashes-of-the-singularity-2-review-some-neat-ideas-undermined",
+      "titre": "Ashes of the Singularity 2 review: Some neat ideas undermined by a rubbish campaign and obtrusive generative AI",
+      "url": "https://www.pcgamer.com/games/rts/ashes-of-the-singularity-2-review/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rts/ashes-of-the-singularity-2-review/",
+          "titre": "Ashes of the Singularity 2 review: Some neat ideas undermined by a rubbish campaign and obtrusive generative AI"
+        }
+      ]
+    },
+    {
+      "id": "game-dev-isn-t-always-straightforward-overwatch-s-director",
+      "titre": "'Game dev isn't always straightforward': Overwatch's director responds to players upset about season 6's hero being a DPS",
+      "url": "https://www.pcgamer.com/games/fps/game-dev-isnt-always-straightforward-overwatchs-director-responds-to-players-upset-about-season-6s-hero-being-a-dps/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/game-dev-isnt-always-straightforward-overwatchs-director-responds-to-players-upset-about-season-6s-hero-being-a-dps/",
+          "titre": "'Game dev isn't always straightforward': Overwatch's director responds to players upset about season 6's hero being a DPS"
+        }
+      ]
+    },
+    {
+      "id": "intel-hit-with-class-action-alleging-it-misled-investors-com",
+      "titre": "Intel hit with class action alleging it 'misled investors' – company's recent downturn due in part to how darn expensive PCs are right now",
+      "url": "https://www.pcgamer.com/hardware/processors/intel-hit-with-class-action-alleging-it-misled-investors-companys-recent-downturn-due-in-part-to-how-darn-expensive-pcs-are-right-now/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/processors/intel-hit-with-class-action-alleging-it-misled-investors-companys-recent-downturn-due-in-part-to-how-darn-expensive-pcs-are-right-now/",
+          "titre": "Intel hit with class action alleging it 'misled investors' – company's recent downturn due in part to how darn expensive PCs are right now"
+        }
+      ]
+    },
+    {
+      "id": "new-asus-beta-bios-patches-now-include-a-fresh-amd-feature-t",
+      "titre": "New Asus beta BIOS patches now include a fresh AMD feature to stop you thinking your PC's b0rked",
+      "url": "https://www.pcgamer.com/hardware/motherboards/new-asus-beta-bios-patches-now-include-a-fresh-amd-feature-to-stop-you-thinking-your-pcs-b0rked/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/motherboards/new-asus-beta-bios-patches-now-include-a-fresh-amd-feature-to-stop-you-thinking-your-pcs-b0rked/",
+          "titre": "New Asus beta BIOS patches now include a fresh AMD feature to stop you thinking your PC's b0rked"
+        }
+      ]
+    },
+    {
+      "id": "unity-s-new-fellowship-program-offers-cash-and-dedicated-sup",
+      "titre": "Unity's new fellowship program offers cash and dedicated support for indie devs",
+      "url": "https://www.gamedeveloper.com/business/unity-to-support-indies-with-cash-and-dedicated-support-through-new-fellowship-program",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/unity-to-support-indies-with-cash-and-dedicated-support-through-new-fellowship-program",
+          "titre": "Unity's new fellowship program offers cash and dedicated support for indie devs"
+        }
+      ]
+    },
+    {
+      "id": "unity-launches-50-000-grant-for-indie-developers-with-no-equ",
+      "titre": "Unity launches $50,000 grant for indie developers with no equity or repayment",
+      "url": "https://www.gamesindustry.biz/unity-launches-50000-grant-for-indie-developers-with-no-equity-or-repayment",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/unity-launches-50000-grant-for-indie-developers-with-no-equity-or-repayment",
+          "titre": "Unity launches $50,000 grant for indie developers with no equity or repayment"
+        }
+      ]
+    },
+    {
+      "id": "this-week-in-pc-games-start-a-new-life-in-vice-city-escape-a",
+      "titre": "This week in PC games: start a new life in Vice City, escape a dying universe before the last black hole evaporates, and avenge your pigeon with a sledgehammer",
+      "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-start-a-new-life-in-vice-city-escape-a-dying-universe-before-the-last-black-hole-evaporates-and-avenge-your-pigeon-with-a-sledgehammer",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-start-a-new-life-in-vice-city-escape-a-dying-universe-before-the-last-black-hole-evaporates-and-avenge-your-pigeon-with-a-sledgehammer",
+          "titre": "This week in PC games: start a new life in Vice City, escape a dying universe before the last black hole evaporates, and avenge your pigeon with a sledgehammer"
+        }
+      ]
+    },
+    {
+      "id": "guide-pok-mon-pokopia-apples-to-applin-event-guide-from-syru",
+      "titre": "Guide: Pokémon Pokopia Apples to Applin Event Guide, From Syrupy Apples To A Kitchen Table",
+      "url": "https://www.nintendolife.com/guides/pokemon-pokopia-apples-to-applin-event-guide",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.3,
+      "heures": 6.4,
       "chaleur": 4,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/minecraft-dungeons-ii-first-dlc-the-humblers-awaken-arrives-next-month",
-          "titre": "Minecraft Dungeons II First DLC 'The Humblers Awaken' Arrives Next Month"
+          "url": "https://www.nintendolife.com/guides/pokemon-pokopia-apples-to-applin-event-guide",
+          "titre": "Guide: Pokémon Pokopia Apples to Applin Event Guide, From Syrupy Apples To A Kitchen Table"
         }
       ]
     },
     {
-      "id": "are-you-more-of-an-ambient-music-enjoyer-or-theatrical-atmos",
-      "titre": "Are you more of an ambient music enjoyer or theatrical atmosphere appreciator?",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/are-you-more-of-an-ambient-music-enjoyer-or-theatrical-atmosphere-appreciator/",
+      "id": "wow-forever-s-continued-to-wrestle-with-dungeons-as-blizzard",
+      "titre": "WoW: Forever's continued to wrestle with dungeons, as Blizzard admits it briefly 'missed the mark' on hotfixes over the weekend",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-continued-to-wrestle-with-dungeons-as-blizzard-admits-it-briefly-missed-the-mark-on-hotfixes-over-the-weekend/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.2,
-      "chaleur": 3,
+      "heures": 6.5,
+      "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/are-you-more-of-an-ambient-music-enjoyer-or-theatrical-atmosphere-appreciator/",
-          "titre": "Are you more of an ambient music enjoyer or theatrical atmosphere appreciator?"
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-continued-to-wrestle-with-dungeons-as-blizzard-admits-it-briefly-missed-the-mark-on-hotfixes-over-the-weekend/",
+          "titre": "WoW: Forever's continued to wrestle with dungeons, as Blizzard admits it briefly 'missed the mark' on hotfixes over the weekend"
         }
       ]
     },
     {
-      "id": "league-of-legends-will-get-an-overhaul-called-new-dawn-with",
-      "titre": "League of Legends will get an overhaul called New Dawn with new visuals, build options, and an updated client",
-      "url": "https://www.pcgamer.com/games/moba/league-of-legends-will-get-an-overhaul-called-new-dawn-with-new-visuals-build-options-and-an-updated-client/",
+      "id": "splatoon-raiders-is-getting-its-very-own-336-page-art-book-n",
+      "titre": "Splatoon Raiders Is Getting Its Very Own 336-Page Art Book Next Year",
+      "url": "https://www.nintendolife.com/news/2026/11/splatoon-raiders-is-getting-its-very-own-336-page-art-book-next-year",
       "sources": [
-        "PC Gamer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.4,
-      "chaleur": 3,
+      "heures": 6.9,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/moba/league-of-legends-will-get-an-overhaul-called-new-dawn-with-new-visuals-build-options-and-an-updated-client/",
-          "titre": "League of Legends will get an overhaul called New Dawn with new visuals, build options, and an updated client"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/splatoon-raiders-is-getting-its-very-own-336-page-art-book-next-year",
+          "titre": "Splatoon Raiders Is Getting Its Very Own 336-Page Art Book Next Year"
         }
       ]
     },
     {
-      "id": "cyberpunk-2077-mod-torrent-adds-3d-rain-lightning-storms-and",
-      "titre": "Cyberpunk 2077 mod Torrent adds 3D rain, lightning storms, and tyre spray to Night City",
-      "url": "https://www.eurogamer.net/cyberpunk-2077-torrent-rain-weather-mod",
+      "id": "umamusume-pretty-derby-parent-company-plans-to-release-seven",
+      "titre": "Umamusume: Pretty Derby parent company plans to release seven new games by 2030 as it boasts an \"88 percent hit rate\" on its mobile titles",
+      "url": "https://www.eurogamer.net/umamusume-dev-seven-new-games-2030",
       "sources": [
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.6,
-      "chaleur": 3,
+      "heures": 7.0,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/cyberpunk-2077-torrent-rain-weather-mod",
-          "titre": "Cyberpunk 2077 mod Torrent adds 3D rain, lightning storms, and tyre spray to Night City"
+          "url": "https://www.eurogamer.net/umamusume-dev-seven-new-games-2030",
+          "titre": "Umamusume: Pretty Derby parent company plans to release seven new games by 2030 as it boasts an \"88 percent hit rate\" on its mobile titles"
         }
       ]
     },
     {
-      "id": "the-pandemic-was-transformative-for-jackbox-we-went-from-a-g",
-      "titre": "The pandemic was transformative for Jackbox: 'We went from a gamer name to a household name'",
-      "url": "https://www.pcgamer.com/games/the-pandemic-was-transformative-for-jackbox-we-went-from-a-gamer-name-to-a-household-name/",
+      "id": "crimson-desert-studio-pearl-abyss-says-it-now-uses-ai-across",
+      "titre": "Crimson Desert studio Pearl Abyss says it now uses AI ‘across various stages of development’",
+      "url": "https://www.videogameschronicle.com/news/crimson-desert-studio-pearl-abyss-says-it-now-uses-ai-across-various-stages-of-development/",
       "sources": [
-        "PC Gamer"
+        "VGC"
       ],
       "reprises": 1,
-      "heures": 12.7,
-      "chaleur": 3,
+      "heures": 7.1,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-pandemic-was-transformative-for-jackbox-we-went-from-a-gamer-name-to-a-household-name/",
-          "titre": "The pandemic was transformative for Jackbox: 'We went from a gamer name to a household name'"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/crimson-desert-studio-pearl-abyss-says-it-now-uses-ai-across-various-stages-of-development/",
+          "titre": "Crimson Desert studio Pearl Abyss says it now uses AI ‘across various stages of development’"
         }
       ]
     },
     {
-      "id": "youtuber-and-comedian-ashens-has-1-000-hours-in-baldur-s-gat",
-      "titre": "YouTuber and comedian Ashens has 1,000 hours in Baldur's Gate 3 and reveals the worst retro game he's ever played: 'By the time you've hacked it to work, it's just no fun whatsoever'",
-      "url": "https://www.pcgamer.com/gaming-industry/youtuber-and-comedian-ashens-has-1-000-hours-in-baldurs-gate-3-and-reveals-the-worst-retro-game-hes-ever-played-by-the-time-youve-hacked-it-to-work-its-just-no-fun-whatsoever/",
+      "id": "random-modder-transforms-ds-into-a-home-console-and-it-s-sup",
+      "titre": "Random: Modder Transforms DS Into A Home Console, And It's Super Cool",
+      "url": "https://www.nintendolife.com/news/2026/11/random-modder-transforms-ds-into-a-home-console-and-its-super-cool",
       "sources": [
-        "PC Gamer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.2,
-      "chaleur": 3,
+      "heures": 7.6,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/youtuber-and-comedian-ashens-has-1-000-hours-in-baldurs-gate-3-and-reveals-the-worst-retro-game-hes-ever-played-by-the-time-youve-hacked-it-to-work-its-just-no-fun-whatsoever/",
-          "titre": "YouTuber and comedian Ashens has 1,000 hours in Baldur's Gate 3 and reveals the worst retro game he's ever played: 'By the time you've hacked it to work, it's just no fun whatsoever'"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/random-modder-transforms-ds-into-a-home-console-and-its-super-cool",
+          "titre": "Random: Modder Transforms DS Into A Home Console, And It's Super Cool"
         }
       ]
     },
     {
-      "id": "slay-the-spire-2-has-a-new-character-in-testing-and-she-s-re",
-      "titre": "Slay the Spire 2 has a new character in testing, and she's really quite busted",
-      "url": "https://www.pcgamer.com/games/roguelike/slay-the-spire-2-has-a-new-character-in-testing-and-shes-really-quite-busted/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 14.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/roguelike/slay-the-spire-2-has-a-new-character-in-testing-and-shes-really-quite-busted/",
-          "titre": "Slay the Spire 2 has a new character in testing, and she's really quite busted"
-        }
-      ]
-    },
-    {
-      "id": "treyarch-lays-off-lead-call-of-duty-writer-and-zombies-veter",
-      "titre": "Treyarch lays off lead Call of Duty writer and Zombies veteran after \"approximately 20 years\" of service",
-      "url": "https://www.eurogamer.net/craig-houston-layoff-treyarch-call-of-duty-layoffs",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 15.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/craig-houston-layoff-treyarch-call-of-duty-layoffs",
-          "titre": "Treyarch lays off lead Call of Duty writer and Zombies veteran after \"approximately 20 years\" of service"
-        }
-      ]
-    },
-    {
-      "id": "blade-runner-2099-bosses-hint-at-a-possible-triple-a-blade-r",
-      "titre": "Blade Runner 2099 bosses hint at a possible \"triple-A\" Blade Runner game in the future - just don't expect it any time soon",
-      "url": "https://www.eurogamer.net/blade-runner-2099-triple-a-talks",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 15.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/blade-runner-2099-triple-a-talks",
-          "titre": "Blade Runner 2099 bosses hint at a possible \"triple-A\" Blade Runner game in the future - just don't expect it any time soon"
-        }
-      ]
-    },
-    {
-      "id": "this-rts-inspired-by-star-wars-empire-at-war-promises-coloss",
-      "titre": "This RTS inspired by Star Wars: Empire at War promises colossal space encounters and planetary battles with 'hundreds of thousands of units'",
-      "url": "https://www.pcgamer.com/games/rts/this-rts-inspired-by-star-wars-empire-at-war-promises-colossal-space-encounters-and-planetary-battles-with-hundreds-of-thousands-of-units/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 15.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rts/this-rts-inspired-by-star-wars-empire-at-war-promises-colossal-space-encounters-and-planetary-battles-with-hundreds-of-thousands-of-units/",
-          "titre": "This RTS inspired by Star Wars: Empire at War promises colossal space encounters and planetary battles with 'hundreds of thousands of units'"
-        }
-      ]
-    },
-    {
-      "id": "the-sunday-papers",
-      "titre": "The Sunday Papers",
-      "url": "https://www.rockpapershotgun.com/the-sunday-papers-836",
+      "id": "we-ve-finally-reached-this-milestone-cyberpunk-2077-multipl",
+      "titre": "\"We've finally reached this milestone\": Cyberpunk 2077 multiplayer mod CyberMP kicks off open beta after around six years preparing for cybermayhem",
+      "url": "https://www.rockpapershotgun.com/weve-finally-reached-this-milestone-cyberpunk-2077-multiplayer-mod-cybermp-kicks-off-open-beta-after-around-six-years-preparing-for-cybermayhem",
       "sources": [
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 17.2,
-      "chaleur": 3,
+      "heures": 7.9,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-sunday-papers-836",
-          "titre": "The Sunday Papers"
+          "url": "https://www.rockpapershotgun.com/weve-finally-reached-this-milestone-cyberpunk-2077-multiplayer-mod-cybermp-kicks-off-open-beta-after-around-six-years-preparing-for-cybermayhem",
+          "titre": "\"We've finally reached this milestone\": Cyberpunk 2077 multiplayer mod CyberMP kicks off open beta after around six years preparing for cybermayhem"
         }
       ]
     },
     {
-      "id": "former-survival-mmo-dune-awakening-can-now-be-played-without",
-      "titre": "Former survival MMO Dune: Awakening can now be played 'without requiring an Internet connection at any point' as its much requested offline mode arrives",
-      "url": "https://www.pcgamer.com/games/survival-crafting/former-survival-mmo-dune-awakening-can-now-be-played-without-requiring-an-internet-connection-at-any-point-as-its-much-requested-offline-mode-arrives/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 17.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/survival-crafting/former-survival-mmo-dune-awakening-can-now-be-played-without-requiring-an-internet-connection-at-any-point-as-its-much-requested-offline-mode-arrives/",
-          "titre": "Former survival MMO Dune: Awakening can now be played 'without requiring an Internet connection at any point' as its much requested offline mode arrives"
-        }
-      ]
-    },
-    {
-      "id": "ps-plus-subscriptions-on-sale-from-tomorrow-but-there-s-a-bi",
-      "titre": "PS Plus Subscriptions on Sale from Tomorrow, But There's a Big Catch",
-      "url": "https://www.pushsquare.com/news/2026/11/ps-plus-subscriptions-on-sale-from-tomorrow-but-theres-a-big-catch",
+      "id": "ps-plus-subscriptions-on-sale-now-but-there-s-a-big-catch",
+      "titre": "PS Plus Subscriptions on Sale Now, But There's a Big Catch",
+      "url": "https://www.pushsquare.com/news/2026/11/ps-plus-subscriptions-on-sale-now-but-theres-a-big-catch",
       "sources": [
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.0,
-      "chaleur": 3,
+      "heures": 8.1,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/ps-plus-subscriptions-on-sale-from-tomorrow-but-theres-a-big-catch",
-          "titre": "PS Plus Subscriptions on Sale from Tomorrow, But There's a Big Catch"
+          "url": "https://www.pushsquare.com/news/2026/11/ps-plus-subscriptions-on-sale-now-but-theres-a-big-catch",
+          "titre": "PS Plus Subscriptions on Sale Now, But There's a Big Catch"
         }
       ]
     },
     {
-      "id": "chronicles-medieval-developer-declared-bankruptcy-on-the-day",
-      "titre": "Chronicles: Medieval developer declared bankruptcy on the day it announced it was in trouble, but development will continue after a $5 million reprieve from Coffee Stain",
-      "url": "https://www.pcgamer.com/games/strategy/chronicles-medieval-developer-declared-bankruptcy-on-the-day-it-announced-it-was-in-trouble-but-development-will-continue-after-a-usd5-million-reprieve-from-coffee-stain/",
+      "id": "ea-hires-another-former-call-of-duty-boss-to-take-the-lead-o",
+      "titre": "EA hires another former Call of Duty boss to take the lead on all Battlefield Studios' projects",
+      "url": "https://www.eurogamer.net/battlefield-call-of-duty-sam-cooper-byron-beede-live-service",
       "sources": [
-        "PC Gamer"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 18.7,
-      "chaleur": 3,
+      "heures": 9.0,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/strategy/chronicles-medieval-developer-declared-bankruptcy-on-the-day-it-announced-it-was-in-trouble-but-development-will-continue-after-a-usd5-million-reprieve-from-coffee-stain/",
-          "titre": "Chronicles: Medieval developer declared bankruptcy on the day it announced it was in trouble, but development will continue after a $5 million reprieve from Coffee Stain"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/battlefield-call-of-duty-sam-cooper-byron-beede-live-service",
+          "titre": "EA hires another former Call of Duty boss to take the lead on all Battlefield Studios' projects"
         }
       ]
     },
     {
-      "id": "poll-which-dr-mario-puzzle-league-box-art-is-the-best",
-      "titre": "Poll: Which Dr. Mario & Puzzle League Box Art Is The Best?",
-      "url": "https://www.nintendolife.com/features/poll-which-dr-mario-and-puzzle-league-box-art-is-the-best",
+      "id": "guide-these-13-ps5-and-ps-plus-games-are-coming-out-this-wee",
+      "titre": "Guide: These 13+ PS5 and PS Plus Games Are Coming Out This Week (16th-22nd November)",
+      "url": "https://www.pushsquare.com/guides/these-13plus-ps5-and-ps-plus-games-are-coming-out-this-week-16th-22nd-november",
       "sources": [
-        "Nintendo Life"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 20.2,
-      "chaleur": 3,
+      "heures": 9.4,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/poll-which-dr-mario-and-puzzle-league-box-art-is-the-best",
-          "titre": "Poll: Which Dr. Mario & Puzzle League Box Art Is The Best?"
-        }
-      ]
-    },
-    {
-      "id": "fatal-fury-city-of-the-wolves-is-adding-laocorn-from-the-mot",
-      "titre": "Fatal Fury: City Of The Wolves Is Adding Laocorn From The Motion Picture",
-      "url": "https://www.nintendolife.com/news/2026/11/fatal-fury-city-of-the-wolves-is-adding-laocorn-from-the-motion-picture",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 21.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/fatal-fury-city-of-the-wolves-is-adding-laocorn-from-the-motion-picture",
-          "titre": "Fatal Fury: City Of The Wolves Is Adding Laocorn From The Motion Picture"
-        }
-      ]
-    },
-    {
-      "id": "the-most-annoying-questgivers-in-pc-games",
-      "titre": "The most annoying questgivers in PC games",
-      "url": "https://www.pcgamer.com/games/the-most-annoying-questgivers-in-pc-games/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 22.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-most-annoying-questgivers-in-pc-games/",
-          "titre": "The most annoying questgivers in PC games"
-        }
-      ]
-    },
-    {
-      "id": "planeswalker-netflix-s-magic-the-gathering-animated-series-w",
-      "titre": "Planeswalker, Netflix's Magic: The Gathering animated series, will have a different art style for each plane",
-      "url": "https://www.pcgamer.com/movies-tv/planeswalker-netflixs-magic-the-gathering-animated-series-will-have-a-different-art-style-for-each-plane/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 30.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/movies-tv/planeswalker-netflixs-magic-the-gathering-animated-series-will-have-a-different-art-style-for-each-plane/",
-          "titre": "Planeswalker, Netflix's Magic: The Gathering animated series, will have a different art style for each plane"
-        }
-      ]
-    },
-    {
-      "id": "forage-and-fight-for-ingredients-in-a-magical-1960s-italy-an",
-      "titre": "Forage and fight for ingredients in a magical 1960s Italy and whip up some tasty meals Cooking Mama style in The Snackbar at the End of the World",
-      "url": "https://www.rockpapershotgun.com/forage-and-fight-for-ingredients-in-a-magical-1960s-italy-and-whip-up-some-tasty-meals-cooking-mama-style-in-the-snackbar-at-the-end-of-the-world",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 31.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/forage-and-fight-for-ingredients-in-a-magical-1960s-italy-and-whip-up-some-tasty-meals-cooking-mama-style-in-the-snackbar-at-the-end-of-the-world",
-          "titre": "Forage and fight for ingredients in a magical 1960s Italy and whip up some tasty meals Cooking Mama style in The Snackbar at the End of the World"
-        }
-      ]
-    },
-    {
-      "id": "wow-forever-dungeon-mobs-no-longer-give-exp-if-they-re-trivi",
-      "titre": "WoW: Forever dungeon mobs no longer give EXP if they're trivial for anyone in the party",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-dungeon-mobs-no-longer-give-exp-if-theyre-trivial-for-anyone-in-the-party/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 31.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-dungeon-mobs-no-longer-give-exp-if-theyre-trivial-for-anyone-in-the-party/",
-          "titre": "WoW: Forever dungeon mobs no longer give EXP if they're trivial for anyone in the party"
-        }
-      ]
-    },
-    {
-      "id": "is-the-game-funny-or-just-the-players-jackbox-ceo-says-they",
-      "titre": "Is the game funny, or just the players? Jackbox CEO says they get 'a lot of false positives' with a staff of comedy writers",
-      "url": "https://www.pcgamer.com/games/is-the-game-funny-or-just-the-players-jackbox-ceo-says-they-get-a-lot-of-false-positives-with-a-staff-of-comedy-writers/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 33.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/is-the-game-funny-or-just-the-players-jackbox-ceo-says-they-get-a-lot-of-false-positives-with-a-staff-of-comedy-writers/",
-          "titre": "Is the game funny, or just the players? Jackbox CEO says they get 'a lot of false positives' with a staff of comedy writers"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/guides/these-13plus-ps5-and-ps-plus-games-are-coming-out-this-week-16th-22nd-november",
+          "titre": "Guide: These 13+ PS5 and PS Plus Games Are Coming Out This Week (16th-22nd November)"
         }
       ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "Xbox teases Project Helix as 'a console that is also capable of playing games from your PC'"
+  ]
 };
