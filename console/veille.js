@@ -1,8 +1,146 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "17/11/2026 à 02h52",
+  "collecte": "17/11/2026 à 13h08",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "star-wars-galactic-racer-is-getting-split-screen-multiplayer",
+      "titre": "Star Wars Galactic Racer is getting split-screen multiplayer and a new Free Play mode",
+      "url": "https://www.videogameschronicle.com/news/star-wars-galactic-racer-is-getting-split-screen-multiplayer-and-a-new-free-play-mode/",
+      "sources": [
+        "Eurogamer",
+        "Push Square",
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "reprises": 4,
+      "heures": 1.9,
+      "chaleur": 15,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/star-wars-galactic-racer-is-getting-split-screen-multiplayer-and-a-new-free-play-mode/",
+          "titre": "Star Wars Galactic Racer is getting split-screen multiplayer and a new Free Play mode"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/star-wars-galactic-racer-will-get-local-split-screen-multiplayer-in-early-2027-with-new-free-play-mode-finally-letting-racers-yell-at-one-another-in-a-tangible-space",
+          "titre": "Star Wars Galactic Racer will get local split-screen multiplayer in early 2027 with new 'Free Play' mode, finally letting racers yell at one another in a tangible space"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/the-great-star-wars-galactic-racer-will-soon-be-even-better-major-new-features-announced",
+          "titre": "The Great Star Wars: Galactic Racer Will Soon Be Even Better, Major New Features Announced"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/star-wars-galactic-racer-split-screen-multiplayer",
+          "titre": "Star Wars: Galactic Racer is getting much-requested split-screen multiplayer and new mode in 2027"
+        }
+      ]
+    },
+    {
+      "id": "unity-launches-new-fellowship-program-offering-a-no-recoup-5",
+      "titre": "Unity launches new Fellowship program, offering a \"no recoup\" $50,000 grant to indie developers planning to launch their game in the next 12 months",
+      "url": "https://www.rockpapershotgun.com/unity-launches-new-fellowship-program-offering-a-no-recoup-50000-grant-to-indie-developers-planning-to-launch-their-game-in-the-next-12-months",
+      "sources": [
+        "Game Developer",
+        "GamesIndustry.biz",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 3,
+      "heures": 1.1,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/unity-launches-new-fellowship-program-offering-a-no-recoup-50000-grant-to-indie-developers-planning-to-launch-their-game-in-the-next-12-months",
+          "titre": "Unity launches new Fellowship program, offering a \"no recoup\" $50,000 grant to indie developers planning to launch their game in the next 12 months"
+        },
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/unity-to-support-indies-with-cash-and-dedicated-support-through-new-fellowship-program",
+          "titre": "Unity's new fellowship program offers cash and dedicated support for indie devs"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/unity-launches-50000-grant-for-indie-developers-with-no-equity-or-repayment",
+          "titre": "Unity launches $50,000 grant for indie developers with no equity or repayment"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-ultimate-edition-vs-standard-edition-all-ultimate-edit",
+      "titre": "GTA 6 Ultimate Edition vs Standard Edition: All Ultimate Edition & pre-order benefits",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-ultimate-edition-vs-standard-edition-all-ultimate-edition-pre-order-benefits/",
+      "sources": [
+        "GamesIndustry.biz",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 1.3,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-ultimate-edition-vs-standard-edition-all-ultimate-edition-pre-order-benefits/",
+          "titre": "GTA 6 Ultimate Edition vs Standard Edition: All Ultimate Edition & pre-order benefits"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-exceed-14bn-with-87-for-the-ultimate-edition",
+          "titre": "Sensor Tower: GTA 6 pre-orders exceed $1.4bn, with 87% for the Ultimate Edition"
+        }
+      ]
+    },
+    {
+      "id": "sony-squeezes-out-a-playstation-5-firmware-update-before-the",
+      "titre": "Sony squeezes out a PlayStation 5 firmware update before the release of GTA 6",
+      "url": "https://www.eurogamer.net/ps5-firmware-update-gta-6",
+      "sources": [
+        "Eurogamer",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 2.3,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/ps5-firmware-update-gta-6",
+          "titre": "Sony squeezes out a PlayStation 5 firmware update before the release of GTA 6"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/yet-another-ps5-firmware-update-is-ready-to-download-now-as-gta-6-approaches",
+          "titre": "Yet Another PS5 Firmware Update Is Ready to Download Now as GTA 6 Approaches"
+        }
+      ]
+    },
+    {
+      "id": "grand-theft-auto-san-andreas-is-gta-5-without-the-finesse-so",
+      "titre": "Grand Theft Auto: San Andreas is GTA 5 without the finesse - so why is the 2004 classic such a strange delight to return to?",
+      "url": "https://www.eurogamer.net/returning-to-gta-san-andreas-grand-theft-auto-5-6",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 3.0,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/returning-to-gta-san-andreas-grand-theft-auto-5-6",
+          "titre": "Grand Theft Auto: San Andreas is GTA 5 without the finesse - so why is the 2004 classic such a strange delight to return to?"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-hacker-pleads-guilty-to-all-charges/",
+          "titre": "Grand Theft Auto 6 hacker pleads guilty to all charges"
+        }
+      ]
+    },
     {
       "id": "shigeru-miyamoto-selected-as-inaugural-legend-award-inductee",
       "titre": "Shigeru Miyamoto selected as inaugural Legend Award inductee at DICE Awards",
@@ -14,8 +152,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 6.6,
-      "chaleur": 13,
+      "heures": 16.9,
+      "chaleur": 12,
       "liens": [
         {
           "source": "Game Developer",
@@ -49,8 +187,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 8.1,
-      "chaleur": 13,
+      "heures": 18.4,
+      "chaleur": 12,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -70,51 +208,273 @@ const VEILLE = {
       ]
     },
     {
-      "id": "xbox-teases-project-helix-as-a-console-that-is-also-capable",
-      "titre": "Xbox teases Project Helix as 'a console that is also capable of playing games from your PC'",
-      "url": "https://www.gamedeveloper.com/console/new-xbox-codenamed-helix-gets-a-few-new-details",
+      "id": "xbox-s-project-helix-is-not-a-pc-that-can-also-play-console",
+      "titre": "Xbox's Project Helix \"is not a PC that can also play console games\"",
+      "url": "https://www.gamesindustry.biz/xboxs-project-helix-is-not-a-pc-that-can-also-play-console-games",
       "sources": [
-        "Eurogamer",
         "Game Developer",
-        "VGC"
+        "GamesIndustry.biz"
       ],
-      "reprises": 3,
-      "heures": 10.3,
-      "chaleur": 12,
+      "reprises": 2,
+      "heures": 1.4,
+      "chaleur": 11,
       "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/xboxs-project-helix-is-not-a-pc-that-can-also-play-console-games",
+          "titre": "Xbox's Project Helix \"is not a PC that can also play console games\""
+        },
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/console/new-xbox-codenamed-helix-gets-a-few-new-details",
           "titre": "Xbox teases Project Helix as 'a console that is also capable of playing games from your PC'"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/microsoft-project-helix-interview-details",
-          "titre": "The next Xbox, Project Helix, is a console and \"not a PC\" says Microsoft, as it clarifies that computational power isn't sole focus this time"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/xbox-says-project-helix-is-a-console-that-can-play-pc-games-not-a-pc-that-can-play-console-games/",
-          "titre": "Xbox says Project Helix is a console that can play PC games, not a PC that can play console games"
         }
       ]
     },
     {
-      "id": "grand-theft-auto-6-hacker-pleads-guilty-to-all-charges",
-      "titre": "Grand Theft Auto 6 hacker pleads guilty to all charges",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-hacker-pleads-guilty-to-all-charges/",
+      "id": "a-free-demo-for-splatoon-raiders-is-now-available-on-switch",
+      "titre": "A free demo for Splatoon Raiders is now available on Switch 2",
+      "url": "https://www.videogameschronicle.com/news/a-free-demo-for-splatoon-raiders-is-now-available-on-switch-2/",
       "sources": [
-        "PC Gamer",
-        "Rock Paper Shotgun"
+        "Nintendo Life",
+        "VGC"
       ],
       "reprises": 2,
-      "heures": 7.2,
-      "chaleur": 10,
+      "heures": 2.6,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/a-free-demo-for-splatoon-raiders-is-now-available-on-switch-2/",
+          "titre": "A free demo for Splatoon Raiders is now available on Switch 2"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/psa-splatoon-raiders-demo-splashes-onto-the-switch-2-eshop-today",
+          "titre": "PSA: Splatoon Raiders Demo Splashes Onto The Switch 2 eShop Today"
+        }
+      ]
+    },
+    {
+      "id": "judge-denies-motion-to-dismiss-lawsuit-accusing-samsung-sk-h",
+      "titre": "Judge denies motion to dismiss lawsuit accusing Samsung, SK Hynix and Micron of worsening RAM crisis by fixing memory prices and supply",
+      "url": "https://www.rockpapershotgun.com/judge-denies-motion-to-dismiss-lawsuit-accusing-samsung-sk-hynix-and-micron-of-worsening-ram-crisis-by-fixing-memory-prices-and-supply",
+      "sources": [
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 2.7,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/judge-denies-motion-to-dismiss-lawsuit-accusing-samsung-sk-hynix-and-micron-of-worsening-ram-crisis-by-fixing-memory-prices-and-supply",
+          "titre": "Judge denies motion to dismiss lawsuit accusing Samsung, SK Hynix and Micron of worsening RAM crisis by fixing memory prices and supply"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/judge-throws-out-ram-makers-attempt-to-dismiss-lawsuit-accusing-them-of-fixing-prices-and-supply/",
+          "titre": "Judge throws out RAM makers’ attempt to dismiss lawsuit accusing them of fixing prices and supply"
+        }
+      ]
+    },
+    {
+      "id": "zelda-ocarina-of-time-remake-is-the-best-selling-physical-ga",
+      "titre": "Zelda Ocarina of Time remake is the best-selling physical game in the US in 2026 so far, passing 1 million in its first week",
+      "url": "https://www.videogameschronicle.com/news/zelda-ocarina-of-time-remake-is-the-best-selling-physical-game-in-the-us-in-2026-so-far-passing-1-million-in-its-first-week/",
+      "sources": [
+        "Nintendo Life",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 3.7,
+      "chaleur": 11,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/zelda-ocarina-of-time-remake-is-the-best-selling-physical-game-in-the-us-in-2026-so-far-passing-1-million-in-its-first-week/",
+          "titre": "Zelda Ocarina of Time remake is the best-selling physical game in the US in 2026 so far, passing 1 million in its first week"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/zelda-ocarina-of-time-remake-crowned-2026s-best-selling-physical-video-game-in-the-us",
+          "titre": "Zelda: Ocarina Of Time Remake Crowned 2026's \"Best-Selling Physical Video Game In The US\""
+        }
+      ]
+    },
+    {
+      "id": "random-kfc-australia-staging-fake-funeral-to-give-gta-6-fans",
+      "titre": "Random: KFC Australia Staging Fake Funeral to Give GTA 6 Fans a 'Legit' Reason to Skip Work",
+      "url": "https://www.pushsquare.com/news/2026/11/random-kfc-australia-staging-fake-funeral-to-give-gta-6-fans-a-legit-reason-to-skip-work",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/random-kfc-australia-staging-fake-funeral-to-give-gta-6-fans-a-legit-reason-to-skip-work",
+          "titre": "Random: KFC Australia Staging Fake Funeral to Give GTA 6 Fans a 'Legit' Reason to Skip Work"
+        }
+      ]
+    },
+    {
+      "id": "is-it-time-to-retire-dragon-quest-as-a-series-chrono-trigger",
+      "titre": "Is it time to retire Dragon Quest as a series? Chrono Trigger composer Yasunori Mitsuda thinks it might be",
+      "url": "https://www.eurogamer.net/dragon-quest-series-composer-akira-toriyama",
+      "sources": [
+        "Eurogamer",
+        "Nintendo Life"
+      ],
+      "reprises": 2,
+      "heures": 0.7,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/dragon-quest-series-composer-akira-toriyama",
+          "titre": "Is it time to retire Dragon Quest as a series? Chrono Trigger composer Yasunori Mitsuda thinks it might be"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/i-dont-feel-this-is-a-good-direction-chrono-trigger-composer-thinks-its-time-to-end-dragon-quest",
+          "titre": "\"I Don't Feel This Is A Good Direction\" - Chrono Trigger Composer Thinks It's Time To End Dragon Quest"
+        }
+      ]
+    },
+    {
+      "id": "as-blockbuster-game-releases-run-scared-from-gta-6-meet-the",
+      "titre": "As blockbuster game releases run scared from GTA 6, meet the brave devs tackling Rockstar's behemoth head-on",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-meet-the-developers-tackling-it-head-on",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/grand-theft-auto-6-meet-the-developers-tackling-it-head-on",
+          "titre": "As blockbuster game releases run scared from GTA 6, meet the brave devs tackling Rockstar's behemoth head-on"
+        }
+      ]
+    },
+    {
+      "id": "wow-forever-s-economy-has-a-problem-as-a-now-hotfixed-grind",
+      "titre": "WoW: Forever's economy has a problem, as a now-hotfixed grind rakes in thousands of gold for the people who got in early",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-economy-has-a-problem-as-a-now-hotfixed-grind-rakes-in-thousands-of-gold-for-the-people-who-got-in-early/",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 1.2,
+      "chaleur": 9,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-hacker-pleads-guilty-to-all-charges/",
-          "titre": "Grand Theft Auto 6 hacker pleads guilty to all charges"
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-economy-has-a-problem-as-a-now-hotfixed-grind-rakes-in-thousands-of-gold-for-the-people-who-got-in-early/",
+          "titre": "WoW: Forever's economy has a problem, as a now-hotfixed grind rakes in thousands of gold for the people who got in early"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/world-of-warcraft-forever-gold-farm-exploit",
+          "titre": "World of Warcraft: Forever's in-game economy has been ravaged by an exploit that allowed players to farm thousands of gold"
+        }
+      ]
+    },
+    {
+      "id": "they-would-never-stop-working-on-this-game-gta-6-s-developm",
+      "titre": "'They would never stop working on this game': GTA 6's development could've gone on for longer just because 'it's really hard to close it down'",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/they-would-never-stop-working-on-this-game-gta-6s-development-couldve-gone-on-for-longer-just-because-its-really-hard-to-close-it-down/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/they-would-never-stop-working-on-this-game-gta-6s-development-couldve-gone-on-for-longer-just-because-its-really-hard-to-close-it-down/",
+          "titre": "'They would never stop working on this game': GTA 6's development could've gone on for longer just because 'it's really hard to close it down'"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-release-times-how-far-behind-the-first-launch-will-gta",
+      "titre": "GTA 6 release times: How far behind the first launch will GTA 6 unlock in your time zone?",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-release-time-date/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.1,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-release-time-date/",
+          "titre": "GTA 6 release times: How far behind the first launch will GTA 6 unlock in your time zone?"
+        }
+      ]
+    },
+    {
+      "id": "after-gta-6-s-original-soundtrack-justice-probably-won-t-wor",
+      "titre": "After GTA 6's original soundtrack, Justice probably won't work on any other video game ever again",
+      "url": "https://www.eurogamer.net/gta-6-justice-ost-only-game",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 2.2,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-justice-ost-only-game",
+          "titre": "After GTA 6's original soundtrack, Justice probably won't work on any other video game ever again"
+        }
+      ]
+    },
+    {
+      "id": "ea-really-doesn-t-want-you-to-delete-madden-nfl-27-to-make-r",
+      "titre": "EA really doesn't want you to delete Madden NFL 27 to make room for GTA 6",
+      "url": "https://www.eurogamer.net/ea-madden-nfl-27-dont-delete-gta-6",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 3.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/ea-madden-nfl-27-dont-delete-gta-6",
+          "titre": "EA really doesn't want you to delete Madden NFL 27 to make room for GTA 6"
+        }
+      ]
+    },
+    {
+      "id": "original-gta-6-leaker-pleads-guilty-to-hacking-rockstar-game",
+      "titre": "Original GTA 6 leaker pleads guilty to hacking Rockstar Games, years after first revealing Lucia",
+      "url": "https://www.eurogamer.net/gta-6-leaker-pleads-guilty",
+      "sources": [
+        "Eurogamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 18.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-leaker-pleads-guilty",
+          "titre": "Original GTA 6 leaker pleads guilty to hacking Rockstar Games, years after first revealing Lucia"
         },
         {
           "source": "Rock Paper Shotgun",
@@ -124,74 +484,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "sensor-tower-gta-6-pre-orders-exceed-1-4bn-with-87-for-the-u",
-      "titre": "Sensor Tower: GTA 6 pre-orders exceed $1.4bn, with 87% for the Ultimate Edition",
-      "url": "https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-exceed-14bn-with-87-for-the-ultimate-edition",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 1.9,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-exceed-14bn-with-87-for-the-ultimate-edition",
-          "titre": "Sensor Tower: GTA 6 pre-orders exceed $1.4bn, with 87% for the Ultimate Edition"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-s-unpredictable-microclimate-revealed-by-the-weather-c",
-      "titre": "GTA 6's 'Unpredictable' Microclimate Revealed by The Weather Channel, with New PS5 Screenshots",
-      "url": "https://www.pushsquare.com/news/2026/11/gta-6s-unpredictable-microclimate-revealed-by-the-weather-channel-with-new-ps5-screenshots",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/gta-6s-unpredictable-microclimate-revealed-by-the-weather-channel-with-new-ps5-screenshots",
-          "titre": "GTA 6's 'Unpredictable' Microclimate Revealed by The Weather Channel, with New PS5 Screenshots"
-        }
-      ]
-    },
-    {
-      "id": "psa-splatoon-raiders-demo-splashes-onto-the-switch-2-eshop-t",
-      "titre": "PSA: Splatoon Raiders Demo Splashes Onto The Switch 2 eShop Today",
-      "url": "https://www.nintendolife.com/news/2026/11/psa-splatoon-raiders-demo-splashes-onto-the-switch-2-eshop-today",
+      "id": "review-tanuki-pon-s-summer-switch-2-cosy-postie-delivers-sic",
+      "titre": "Review: TANUKI: Pon's Summer (Switch 2) - Cosy Postie Delivers Sick BMX Tricks & Minigames",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/tanuki-pons-summer",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 0.1,
       "chaleur": 8,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/psa-splatoon-raiders-demo-splashes-onto-the-switch-2-eshop-today",
-          "titre": "PSA: Splatoon Raiders Demo Splashes Onto The Switch 2 eShop Today"
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/tanuki-pons-summer",
+          "titre": "Review: TANUKI: Pon's Summer (Switch 2) - Cosy Postie Delivers Sick BMX Tricks & Minigames"
         }
       ]
     },
     {
-      "id": "zelda-ocarina-of-time-remake-crowned-2026-s-best-selling-phy",
-      "titre": "Zelda: Ocarina Of Time Remake Crowned 2026's \"Best-Selling Physical Video Game In The US\"",
-      "url": "https://www.nintendolife.com/news/2026/11/zelda-ocarina-of-time-remake-crowned-2026s-best-selling-physical-video-game-in-the-us",
+      "id": "modder-beats-valve-to-the-punch-adding-steam-controller-trac",
+      "titre": "Modder beats Valve to the punch adding Steam Controller tracking for the Steam Frame",
+      "url": "https://www.pcgamer.com/hardware/vr-hardware/modder-beats-valve-to-the-punch-adding-steam-controller-tracking-for-the-steam-frame/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer"
       ],
       "reprises": 1,
       "heures": 1.6,
       "chaleur": 8,
       "liens": [
         {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/vr-hardware/modder-beats-valve-to-the-punch-adding-steam-controller-tracking-for-the-steam-frame/",
+          "titre": "Modder beats Valve to the punch adding Steam Controller tracking for the Steam Frame"
+        }
+      ]
+    },
+    {
+      "id": "essentially-worthless-disgruntled-fans-are-review-bombing-p",
+      "titre": "\"Essentially Worthless\" - Disgruntled Fans Are Review Bombing Pikmin 4 On Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/11/essentially-worthless-disgruntled-fans-are-review-bombing-pikmin-4-on-switch-2",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 2.4,
+      "chaleur": 8,
+      "liens": [
+        {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/zelda-ocarina-of-time-remake-crowned-2026s-best-selling-physical-video-game-in-the-us",
-          "titre": "Zelda: Ocarina Of Time Remake Crowned 2026's \"Best-Selling Physical Video Game In The US\""
+          "url": "https://www.nintendolife.com/news/2026/11/essentially-worthless-disgruntled-fans-are-review-bombing-pikmin-4-on-switch-2",
+          "titre": "\"Essentially Worthless\" - Disgruntled Fans Are Review Bombing Pikmin 4 On Switch 2"
         }
       ]
     },
@@ -203,7 +545,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 24.6,
       "chaleur": 8,
       "liens": [
         {
@@ -214,26 +556,218 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nobody-was-hurt-in-shooting-near-clockwork-revolution-devs",
-      "titre": "\"Nobody was hurt\" in shooting near Clockwork Revolution devs InXile Entertainment's office, the Xbox-owned studio and police confirm",
-      "url": "https://www.rockpapershotgun.com/nobody-was-hurt-in-shooting-near-clockwork-revolution-devs-inxile-entertainments-office-the-xbox-owned-studio-and-police-confirm",
+      "id": "newzoo-gta-6-pre-orders-are-archetypal-console-players-but-o",
+      "titre": "Newzoo: GTA 6 pre-orders are archetypal console players but overwhelmingly male; game will \"grow the market rather than simply redistribute it\"",
+      "url": "https://www.gamesindustry.biz/newzoo-gta-6-pre-orders-are-archetypal-console-players-but-overwhelmingly-male-game-will-grow-the-market-rather-than-simply-redistribute-it",
       "sources": [
-        "Eurogamer",
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 6.1,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/newzoo-gta-6-pre-orders-are-archetypal-console-players-but-overwhelmingly-male-game-will-grow-the-market-rather-than-simply-redistribute-it",
+          "titre": "Newzoo: GTA 6 pre-orders are archetypal console players but overwhelmingly male; game will \"grow the market rather than simply redistribute it\""
+        }
+      ]
+    },
+    {
+      "id": "nvidia-tightens-up-control-of-its-own-national-security-poli",
+      "titre": "Nvidia tightens up control of its own national security policies as it cozies up to US government with new board-controlled committee",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-tightens-up-control-of-its-own-national-security-policies-as-it-cozies-up-to-us-government-with-new-board-controlled-committee/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 0.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-tightens-up-control-of-its-own-national-security-policies-as-it-cozies-up-to-us-government-with-new-board-controlled-committee/",
+          "titre": "Nvidia tightens up control of its own national security policies as it cozies up to US government with new board-controlled committee"
+        }
+      ]
+    },
+    {
+      "id": "call-of-duty-might-have-swapped-guns-and-tanks-for-knights-a",
+      "titre": "Call of Duty might have swapped guns and tanks for knights and swords if an Infinity Ward experiment had panned out",
+      "url": "https://www.eurogamer.net/call-of-duty-medieval-prototype-infinity-ward",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/call-of-duty-medieval-prototype-infinity-ward",
+          "titre": "Call of Duty might have swapped guns and tanks for knights and swords if an Infinity Ward experiment had panned out"
+        }
+      ]
+    },
+    {
+      "id": "games-are-best-made-by-people-the-iwgb-and-other-european-u",
+      "titre": "\"Games are best made by people\": The IWGB and other European unions publish joint manifesto calling on workers, employers and consumers to reject genAI",
+      "url": "https://www.rockpapershotgun.com/games-are-best-made-by-people-the-iwgb-and-other-european-unions-publish-joint-manifesto-calling-on-workers-employers-and-consumers-to-reject-genai",
+      "sources": [
         "Rock Paper Shotgun"
       ],
-      "reprises": 2,
-      "heures": 14.7,
-      "chaleur": 8,
+      "reprises": 1,
+      "heures": 0.6,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/nobody-was-hurt-in-shooting-near-clockwork-revolution-devs-inxile-entertainments-office-the-xbox-owned-studio-and-police-confirm",
-          "titre": "\"Nobody was hurt\" in shooting near Clockwork Revolution devs InXile Entertainment's office, the Xbox-owned studio and police confirm"
-        },
+          "url": "https://www.rockpapershotgun.com/games-are-best-made-by-people-the-iwgb-and-other-european-unions-publish-joint-manifesto-calling-on-workers-employers-and-consumers-to-reject-genai",
+          "titre": "\"Games are best made by people\": The IWGB and other European unions publish joint manifesto calling on workers, employers and consumers to reject genAI"
+        }
+      ]
+    },
+    {
+      "id": "us-agencies-confirm-criminal-investigation-into-megaspeed-da",
+      "titre": "US agencies confirm criminal investigation into Megaspeed - datacenter company is in a colossal tangle over Nvidia chips",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/us-agencies-confirm-criminal-investigation-into-megaspeed-datacenter-company-is-in-a-colossal-tangle-over-nvidia-chips/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/us-agencies-confirm-criminal-investigation-into-megaspeed-datacenter-company-is-in-a-colossal-tangle-over-nvidia-chips/",
+          "titre": "US agencies confirm criminal investigation into Megaspeed - datacenter company is in a colossal tangle over Nvidia chips"
+        }
+      ]
+    },
+    {
+      "id": "encouraging-players-to-return-is-no-mean-feat-square-enix-t",
+      "titre": "\"Encouraging players to return is no mean feat\" - Square Enix tempts Final Fantasy 14 players back with free game-time to fill void before new expansion",
+      "url": "https://www.eurogamer.net/final-fantasy-14-free--game-time-expansion-evercold",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 6,
+      "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/inxile-office-shooting-tustin-suspect-arrested",
-          "titre": "Police arrest suspect after drive-by shooting at office campus housing Xbox studio inXile"
+          "url": "https://www.eurogamer.net/final-fantasy-14-free--game-time-expansion-evercold",
+          "titre": "\"Encouraging players to return is no mean feat\" - Square Enix tempts Final Fantasy 14 players back with free game-time to fill void before new expansion"
+        }
+      ]
+    },
+    {
+      "id": "break-up-and-re-commodify-a-fallen-earth-in-steel-gullet-a-s",
+      "titre": "Break up and re-commodify a fallen Earth in Steel Gullet, a satisfyingly funereal factory puzzler that really loves thermodynamics",
+      "url": "https://www.rockpapershotgun.com/break-up-and-re-commodify-a-fallen-earth-in-steel-gullet-a-satisfyingly-funereal-factory-puzzler-that-really-loves-thermodynamics",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/break-up-and-re-commodify-a-fallen-earth-in-steel-gullet-a-satisfyingly-funereal-factory-puzzler-that-really-loves-thermodynamics",
+          "titre": "Break up and re-commodify a fallen Earth in Steel Gullet, a satisfyingly funereal factory puzzler that really loves thermodynamics"
+        }
+      ]
+    },
+    {
+      "id": "5-more-november-2026-ps-plus-extra-premium-games-available-t",
+      "titre": "5 More November 2026 PS Plus Extra, Premium Games Available to Download Now",
+      "url": "https://www.pushsquare.com/news/2026/11/5-more-november-2026-ps-plus-extra-premium-games-available-to-download-now",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 3.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/5-more-november-2026-ps-plus-extra-premium-games-available-to-download-now",
+          "titre": "5 More November 2026 PS Plus Extra, Premium Games Available to Download Now"
+        }
+      ]
+    },
+    {
+      "id": "ex-call-of-duty-live-service-manager-joins-ea-as-the-new-gm",
+      "titre": "Ex-Call of Duty live service manager joins EA as the new GM of Battlefield",
+      "url": "https://www.pcgamer.com/games/fps/ex-call-of-duty-live-service-manager-joins-ea-as-the-new-gm-of-battlefield/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 3.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/ex-call-of-duty-live-service-manager-joins-ea-as-the-new-gm-of-battlefield/",
+          "titre": "Ex-Call of Duty live service manager joins EA as the new GM of Battlefield"
+        }
+      ]
+    },
+    {
+      "id": "unity-acquires-3d-asset-creator-synty-studios-artist-created",
+      "titre": "Unity acquires 3D asset creator Synty Studios; artist-created content to be integrated into AI game-creation platform Unity Spark",
+      "url": "https://www.gamesindustry.biz/unity-acquires-3d-asset-creator-synty-studios-artist-created-content-to-be-integrated-into-ai-game-creation-platform-unity-spark",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 3.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/unity-acquires-3d-asset-creator-synty-studios-artist-created-content-to-be-integrated-into-ai-game-creation-platform-unity-spark",
+          "titre": "Unity acquires 3D asset creator Synty Studios; artist-created content to be integrated into AI game-creation platform Unity Spark"
+        }
+      ]
+    },
+    {
+      "id": "microsoft-s-sidewinder-strategic-commander-was-a-failed-atte",
+      "titre": "Microsoft's SideWinder Strategic Commander was a failed attempt to reimagine RTS controls. 23 years later, why are some players still using it?",
+      "url": "https://www.rockpapershotgun.com/microsofts-sidewinder-strategic-commander-was-a-failed-attempt-to-reimagine-rts-controls-23-years-later-why-are-some-players-still-using-it",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 3.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/microsofts-sidewinder-strategic-commander-was-a-failed-attempt-to-reimagine-rts-controls-23-years-later-why-are-some-players-still-using-it",
+          "titre": "Microsoft's SideWinder Strategic Commander was a failed attempt to reimagine RTS controls. 23 years later, why are some players still using it?"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-s-unpredictable-microclimate-revealed-by-the-weather-c",
+      "titre": "GTA 6's 'Unpredictable' Microclimate Revealed by The Weather Channel, with New PS5 Screenshots",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6s-unpredictable-microclimate-revealed-by-the-weather-channel-with-new-ps5-screenshots",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 13.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6s-unpredictable-microclimate-revealed-by-the-weather-channel-with-new-ps5-screenshots",
+          "titre": "GTA 6's 'Unpredictable' Microclimate Revealed by The Weather Channel, with New PS5 Screenshots"
         }
       ]
     },
@@ -245,8 +779,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.9,
-      "chaleur": 7,
+      "heures": 16.2,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
@@ -264,8 +798,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 7.4,
-      "chaleur": 7,
+      "heures": 17.6,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -280,24 +814,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "original-gta-6-leaker-pleads-guilty-to-hacking-rockstar-game",
-      "titre": "Original GTA 6 leaker pleads guilty to hacking Rockstar Games, years after first revealing Lucia",
-      "url": "https://www.eurogamer.net/gta-6-leaker-pleads-guilty",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 8.0,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-leaker-pleads-guilty",
-          "titre": "Original GTA 6 leaker pleads guilty to hacking Rockstar Games, years after first revealing Lucia"
-        }
-      ]
-    },
-    {
       "id": "it-s-common-for-there-to-be-speculation-and-headlines-unity",
       "titre": "'It's common for there to be speculation and headlines:' Unity exec addresses acquisition rumors",
       "url": "https://www.gamedeveloper.com/business/-it-s-common-for-there-to-be-speculation-and-headlines-unity-exec-addresses-acquisition-rumors",
@@ -305,8 +821,8 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 8.6,
-      "chaleur": 7,
+      "heures": 18.9,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Game Developer",
@@ -324,8 +840,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 8.9,
-      "chaleur": 7,
+      "heures": 19.1,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
@@ -347,8 +863,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.9,
-      "chaleur": 7,
+      "heures": 19.1,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
@@ -365,8 +881,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.1,
-      "chaleur": 7,
+      "heures": 19.3,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
@@ -383,8 +899,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 7,
+      "heures": 20.5,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -402,8 +918,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 10.4,
-      "chaleur": 7,
+      "heures": 20.6,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -425,8 +941,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 7,
+      "heures": 21.1,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
@@ -436,38 +952,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "splatoon-3-version-12-0-0-announced-here-are-the-full-patch",
-      "titre": "Splatoon 3 Version 12.0.0 Announced, Here Are The Full Patch Notes",
-      "url": "https://www.nintendolife.com/news/2026/11/splatoon-3-version-12-0-0-announced-here-are-the-full-patch-notes",
+      "id": "can-gta-6-make-2-billion-in-its-opening-weekend-one-industry",
+      "titre": "Can GTA 6 make $2 billion in its opening weekend? One industry analyst has run the numbers, and seems to think so",
+      "url": "https://www.eurogamer.net/can-gta-6-make-2-billion-in-its-opening-weekend-one-industry-analyst-has-run-the-numbers-and-seems-to-think-so",
       "sources": [
-        "Nintendo Life"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.8,
+      "heures": 23.8,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/splatoon-3-version-12-0-0-announced-here-are-the-full-patch-notes",
-          "titre": "Splatoon 3 Version 12.0.0 Announced, Here Are The Full Patch Notes"
-        }
-      ]
-    },
-    {
-      "id": "castlevania-belmont-s-curse-has-been-updated-to-version-1-1",
-      "titre": "Castlevania: Belmont's Curse Has Been Updated To Version 1.1.4",
-      "url": "https://www.nintendolife.com/news/2026/11/castlevania-belmonts-curse-has-been-updated-to-version-1-1-4",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 0.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/castlevania-belmonts-curse-has-been-updated-to-version-1-1-4",
-          "titre": "Castlevania: Belmont's Curse Has Been Updated To Version 1.1.4"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/can-gta-6-make-2-billion-in-its-opening-weekend-one-industry-analyst-has-run-the-numbers-and-seems-to-think-so",
+          "titre": "Can GTA 6 make $2 billion in its opening weekend? One industry analyst has run the numbers, and seems to think so"
         }
       ]
     },
@@ -479,8 +977,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.9,
-      "chaleur": 6,
+      "heures": 19.2,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -497,31 +995,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.6,
-      "chaleur": 6,
+      "heures": 19.9,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/11/uk-charts-after-a-stellar-start-zelda-ocarina-of-time-slips-from-the-top-spot",
           "titre": "UK Charts: After A Stellar Start, Zelda: Ocarina Of Time Slips From The Top Spot"
-        }
-      ]
-    },
-    {
-      "id": "judge-throws-out-ram-makers-attempt-to-dismiss-lawsuit-accus",
-      "titre": "Judge throws out RAM makers’ attempt to dismiss lawsuit accusing them of fixing prices and supply",
-      "url": "https://www.videogameschronicle.com/news/judge-throws-out-ram-makers-attempt-to-dismiss-lawsuit-accusing-them-of-fixing-prices-and-supply/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/judge-throws-out-ram-makers-attempt-to-dismiss-lawsuit-accusing-them-of-fixing-prices-and-supply/",
-          "titre": "Judge throws out RAM makers’ attempt to dismiss lawsuit accusing them of fixing prices and supply"
         }
       ]
     },
@@ -533,31 +1013,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 6,
+      "heures": 22.1,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/reviews/mobapad-m12-pro-joy-con-for-switch-2-the-best-option-for-handheld",
           "titre": "Review: Mobapad M12 Pro Joy-Con For Switch 2 - The Best Option For Handheld"
-        }
-      ]
-    },
-    {
-      "id": "can-gta-6-make-2-billion-in-its-opening-weekend-one-industry",
-      "titre": "Can GTA 6 make $2 billion in its opening weekend? One industry analyst has run the numbers, and seems to think so",
-      "url": "https://www.eurogamer.net/can-gta-6-make-2-billion-in-its-opening-weekend-one-industry-analyst-has-run-the-numbers-and-seems-to-think-so",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 13.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/can-gta-6-make-2-billion-in-its-opening-weekend-one-industry-analyst-has-run-the-numbers-and-seems-to-think-so",
-          "titre": "Can GTA 6 make $2 billion in its opening weekend? One industry analyst has run the numbers, and seems to think so"
         }
       ]
     },
@@ -569,7 +1031,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 13.4,
+      "heures": 23.6,
       "chaleur": 5,
       "liens": [
         {
@@ -587,13 +1049,85 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 24.1,
       "chaleur": 5,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/11/playstation-black-friday-sale-is-live-now-up-to-usd100-off-ps5-accessories-psvr2",
           "titre": "PlayStation Black Friday Sale Is Live Now, Up to $100 Off PS5 Accessories, PSVR2"
+        }
+      ]
+    },
+    {
+      "id": "nobody-was-hurt-in-shooting-near-clockwork-revolution-devs",
+      "titre": "\"Nobody was hurt\" in shooting near Clockwork Revolution devs InXile Entertainment's office, the Xbox-owned studio and police confirm",
+      "url": "https://www.rockpapershotgun.com/nobody-was-hurt-in-shooting-near-clockwork-revolution-devs-inxile-entertainments-office-the-xbox-owned-studio-and-police-confirm",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 25.0,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/nobody-was-hurt-in-shooting-near-clockwork-revolution-devs-inxile-entertainments-office-the-xbox-owned-studio-and-police-confirm",
+          "titre": "\"Nobody was hurt\" in shooting near Clockwork Revolution devs InXile Entertainment's office, the Xbox-owned studio and police confirm"
+        }
+      ]
+    },
+    {
+      "id": "lisbon-based-studio-bravarda-closes-down-after-failing-to-re",
+      "titre": "Lisbon-based Studio Bravarda closes down after failing to recoup dev costs on its most recent title, Extremely Powerful Capybaras",
+      "url": "https://www.gamesindustry.biz/lisbon-based-studio-bravarda-closes-down-after-failing-to-recoup-dev-costs-on-its-most-recent-title-extremely-powerful-capybaras",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 4.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/lisbon-based-studio-bravarda-closes-down-after-failing-to-recoup-dev-costs-on-its-most-recent-title-extremely-powerful-capybaras",
+          "titre": "Lisbon-based Studio Bravarda closes down after failing to recoup dev costs on its most recent title, Extremely Powerful Capybaras"
+        }
+      ]
+    },
+    {
+      "id": "splatoon-3-version-12-0-0-announced-here-are-the-full-patch",
+      "titre": "Splatoon 3 Version 12.0.0 Announced, Here Are The Full Patch Notes",
+      "url": "https://www.nintendolife.com/news/2026/11/splatoon-3-version-12-0-0-announced-here-are-the-full-patch-notes",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 10.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/splatoon-3-version-12-0-0-announced-here-are-the-full-patch-notes",
+          "titre": "Splatoon 3 Version 12.0.0 Announced, Here Are The Full Patch Notes"
+        }
+      ]
+    },
+    {
+      "id": "castlevania-belmont-s-curse-has-been-updated-to-version-1-1",
+      "titre": "Castlevania: Belmont's Curse Has Been Updated To Version 1.1.4",
+      "url": "https://www.nintendolife.com/news/2026/11/castlevania-belmonts-curse-has-been-updated-to-version-1-1-4",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 11.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/castlevania-belmonts-curse-has-been-updated-to-version-1-1-4",
+          "titre": "Castlevania: Belmont's Curse Has Been Updated To Version 1.1.4"
         }
       ]
     },
@@ -605,8 +1139,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
-      "chaleur": 4,
+      "heures": 14.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -623,8 +1157,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.8,
-      "chaleur": 4,
+      "heures": 15.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -641,8 +1175,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.7,
-      "chaleur": 4,
+      "heures": 15.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -659,8 +1193,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.9,
-      "chaleur": 4,
+      "heures": 16.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -677,8 +1211,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 6.8,
-      "chaleur": 4,
+      "heures": 17.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -686,475 +1220,9 @@ const VEILLE = {
           "titre": "Monster Hunter Outlanders passes $10.2 million in IAP revenue in two weeks"
         }
       ]
-    },
-    {
-      "id": "the-great-star-wars-galactic-racer-will-soon-be-even-better",
-      "titre": "The Great Star Wars: Galactic Racer Will Soon Be Even Better, Major New Features Announced",
-      "url": "https://www.pushsquare.com/news/2026/11/the-great-star-wars-galactic-racer-will-soon-be-even-better-major-new-features-announced",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 6.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/the-great-star-wars-galactic-racer-will-soon-be-even-better-major-new-features-announced",
-          "titre": "The Great Star Wars: Galactic Racer Will Soon Be Even Better, Major New Features Announced"
-        }
-      ]
-    },
-    {
-      "id": "star-wars-galactic-racer-is-getting-much-requested-split-scr",
-      "titre": "Star Wars: Galactic Racer is getting much-requested split-screen multiplayer and new mode in 2027",
-      "url": "https://www.eurogamer.net/star-wars-galactic-racer-split-screen-multiplayer",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 7.2,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/star-wars-galactic-racer-split-screen-multiplayer",
-          "titre": "Star Wars: Galactic Racer is getting much-requested split-screen multiplayer and new mode in 2027"
-        }
-      ]
-    },
-    {
-      "id": "riot-unveils-new-dawn-a-major-overhaul-for-league-of-legends",
-      "titre": "Riot unveils New Dawn, a major overhaul for League of Legends",
-      "url": "https://www.gamedeveloper.com/pc/riot-unveils-new-dawn-the-next-evolution-of-league-of-legends",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 7.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/pc/riot-unveils-new-dawn-the-next-evolution-of-league-of-legends",
-          "titre": "Riot unveils New Dawn, a major overhaul for League of Legends"
-        }
-      ]
-    },
-    {
-      "id": "mini-review-tanuki-pon-s-summer-ps5-easily-one-of-2026-s-mos",
-      "titre": "Mini Review: Tanuki: Pon's Summer (PS5) - Easily One of 2026's Most Charming Adventures",
-      "url": "https://www.pushsquare.com/reviews/ps5/tanuki-pons-summer",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 8.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/reviews/ps5/tanuki-pons-summer",
-          "titre": "Mini Review: Tanuki: Pon's Summer (PS5) - Easily One of 2026's Most Charming Adventures"
-        }
-      ]
-    },
-    {
-      "id": "coffee-stain-acquires-chronicles-medieval-ip-from-bankrupt-r",
-      "titre": "Coffee Stain acquires Chronicles: Medieval IP from bankrupt Raw Power Games",
-      "url": "https://www.gamesindustry.biz/coffee-stain-acquires-chronicles-medieval-ip-from-bankrupt-raw-power-games",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 8.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/coffee-stain-acquires-chronicles-medieval-ip-from-bankrupt-raw-power-games",
-          "titre": "Coffee Stain acquires Chronicles: Medieval IP from bankrupt Raw Power Games"
-        }
-      ]
-    },
-    {
-      "id": "someone-hijacked-old-bitly-links-to-redirect-big-brands-to-s",
-      "titre": "Someone hijacked old Bitly links to redirect big brands to Skibidi Toilet and the Epstein files wiki",
-      "url": "https://www.pcgamer.com/software/security/someone-hijacked-old-bitly-links-to-redirect-big-brands-to-skibidi-toilet-and-the-epstein-files-wiki/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 9.5,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/security/someone-hijacked-old-bitly-links-to-redirect-big-brands-to-skibidi-toilet-and-the-epstein-files-wiki/",
-          "titre": "Someone hijacked old Bitly links to redirect big brands to Skibidi Toilet and the Epstein files wiki"
-        }
-      ]
-    },
-    {
-      "id": "paradox-interactive-names-new-ceo",
-      "titre": "Paradox Interactive names new CEO",
-      "url": "https://www.gamedeveloper.com/business/paradox-interactive-names-a-new-ceo",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 9.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/paradox-interactive-names-a-new-ceo",
-          "titre": "Paradox Interactive names new CEO"
-        }
-      ]
-    },
-    {
-      "id": "my-murderous-wine-merchant-whines-for-a-chance-at-republican",
-      "titre": "My murderous wine merchant whines for a chance at republican rule in Crusader Kings 3’s Silk and Silver expansion, which isn't only about the money",
-      "url": "https://www.rockpapershotgun.com/my-murderous-wine-merchant-whines-for-a-chance-at-republican-rule-in-crusader-kings-3s-silk-and-silver-expansion-which-isnt-only-about-the-money-1",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 9.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/my-murderous-wine-merchant-whines-for-a-chance-at-republican-rule-in-crusader-kings-3s-silk-and-silver-expansion-which-isnt-only-about-the-money-1",
-          "titre": "My murderous wine merchant whines for a chance at republican rule in Crusader Kings 3’s Silk and Silver expansion, which isn't only about the money"
-        }
-      ]
-    },
-    {
-      "id": "wolverine-ps5-slashes-its-price-for-the-first-time-in-black",
-      "titre": "Wolverine PS5 Slashes Its Price for the First Time in Black Friday Sales",
-      "url": "https://www.pushsquare.com/news/2026/11/wolverine-ps5-slashes-its-price-for-the-first-time-in-black-friday-sales",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 9.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/wolverine-ps5-slashes-its-price-for-the-first-time-in-black-friday-sales",
-          "titre": "Wolverine PS5 Slashes Its Price for the First Time in Black Friday Sales"
-        }
-      ]
-    },
-    {
-      "id": "final-fantasy-14-s-ongoing-pursuit-in-making-its-500-hour-st",
-      "titre": "Final Fantasy 14's ongoing pursuit in making its 500-hour story less daunting almost manifested into something in August, but Yoshi-P decided to postpone it",
-      "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-14s-ongoing-pursuit-in-making-its-500-hour-story-less-daunting-almost-manifested-into-something-in-august-but-yoshi-p-decided-to-postpone-it/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 9.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-14s-ongoing-pursuit-in-making-its-500-hour-story-less-daunting-almost-manifested-into-something-in-august-but-yoshi-p-decided-to-postpone-it/",
-          "titre": "Final Fantasy 14's ongoing pursuit in making its 500-hour story less daunting almost manifested into something in August, but Yoshi-P decided to postpone it"
-        }
-      ]
-    },
-    {
-      "id": "world-of-warcraft-forever-completionists-push-back-as-blizza",
-      "titre": "World of Warcraft: Forever completionists push back as Blizzard gives them a powerful toy and then prepares to take it away",
-      "url": "https://www.eurogamer.net/world-of-warcraft-forever-toy-pouch-of-violent-dust",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/world-of-warcraft-forever-toy-pouch-of-violent-dust",
-          "titre": "World of Warcraft: Forever completionists push back as Blizzard gives them a powerful toy and then prepares to take it away"
-        }
-      ]
-    },
-    {
-      "id": "we-almost-got-a-medieval-call-of-duty-with-knights-and-sword",
-      "titre": "We almost got a medieval Call of Duty with knights and swords: 'If it's a war story, sure, it can be Call of Duty'",
-      "url": "https://www.pcgamer.com/games/call-of-duty/we-almost-got-a-medieval-call-of-duty-with-knights-and-swords-if-its-a-war-story-sure-it-can-be-call-of-duty/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/call-of-duty/we-almost-got-a-medieval-call-of-duty-with-knights-and-swords-if-its-a-war-story-sure-it-can-be-call-of-duty/",
-          "titre": "We almost got a medieval Call of Duty with knights and swords: 'If it's a war story, sure, it can be Call of Duty'"
-        }
-      ]
-    },
-    {
-      "id": "intel-are-being-sued-for-misleading-investors-about-a-massiv",
-      "titre": "Intel are being sued for \"misleading\" investors about \"a massive glut of unwanted PC inventory\" thanks to AI-fuelled price hikes",
-      "url": "https://www.rockpapershotgun.com/intel-are-being-sued-for-misleading-investors-about-a-massive-glut-of-unwanted-pc-inventory-thanks-to-ai-fuelled-price-hikes",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 10.7,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/intel-are-being-sued-for-misleading-investors-about-a-massive-glut-of-unwanted-pc-inventory-thanks-to-ai-fuelled-price-hikes",
-          "titre": "Intel are being sued for \"misleading\" investors about \"a massive glut of unwanted PC inventory\" thanks to AI-fuelled price hikes"
-        }
-      ]
-    },
-    {
-      "id": "biostar-announces-the-first-intel-panther-lake-motherboard-a",
-      "titre": "Biostar announces the first Intel Panther Lake motherboard and it's tiny, but don't get your hopes up for cramming it into a mini gaming PC",
-      "url": "https://www.pcgamer.com/hardware/motherboards/biostar-announces-the-first-intel-panther-lake-motherboard-and-its-tiny-but-dont-get-your-hopes-up-for-cramming-it-into-a-mini-gaming-pc/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 10.7,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/motherboards/biostar-announces-the-first-intel-panther-lake-motherboard-and-its-tiny-but-dont-get-your-hopes-up-for-cramming-it-into-a-mini-gaming-pc/",
-          "titre": "Biostar announces the first Intel Panther Lake motherboard and it's tiny, but don't get your hopes up for cramming it into a mini gaming PC"
-        }
-      ]
-    },
-    {
-      "id": "final-fantasy-14-really-wants-evercold-to-be-the-expansion-e",
-      "titre": "Final Fantasy 14 really wants Evercold to be the expansion everyone comes back to, so much so it's giving you 30 days free gametime if you've been gone long enough",
-      "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-really-wants-evercold-to-be-the-expansion-everyone-comes-back-to-so-much-so-its-giving-you-30-days-free-gametime-if-youve-been-gone-long-enough/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 11.0,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-really-wants-evercold-to-be-the-expansion-everyone-comes-back-to-so-much-so-its-giving-you-30-days-free-gametime-if-youve-been-gone-long-enough/",
-          "titre": "Final Fantasy 14 really wants Evercold to be the expansion everyone comes back to, so much so it's giving you 30 days free gametime if you've been gone long enough"
-        }
-      ]
-    },
-    {
-      "id": "dave-the-diver-s-latest-crossover-update-sees-another-belove",
-      "titre": "Dave The Diver's Latest Crossover Update Sees Another Beloved Indie Join The Fray",
-      "url": "https://www.nintendolife.com/news/2026/11/dave-the-divers-latest-crossover-update-sees-another-beloved-indie-join-the-fray",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/dave-the-divers-latest-crossover-update-sees-another-beloved-indie-join-the-fray",
-          "titre": "Dave The Diver's Latest Crossover Update Sees Another Beloved Indie Join The Fray"
-        }
-      ]
-    },
-    {
-      "id": "god-of-war-sons-of-sparta-out-now-on-ps4-new-modes-for-ps5-t",
-      "titre": "God of War: Sons of Sparta Out Now on PS4, New Modes for PS5 Too",
-      "url": "https://www.pushsquare.com/news/2026/11/god-of-war-sons-of-sparta-out-now-on-ps4-new-modes-for-ps5-too",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/god-of-war-sons-of-sparta-out-now-on-ps4-new-modes-for-ps5-too",
-          "titre": "God of War: Sons of Sparta Out Now on PS4, New Modes for PS5 Too"
-        }
-      ]
-    },
-    {
-      "id": "world-of-warcraft-forever-player-turns-their-paladin-into-a",
-      "titre": "World of Warcraft: Forever player turns their paladin into a near-unkillable healbot, solos a level 60 monster at level 30, and swims into the ocean",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-player-turns-their-paladin-into-a-near-unkillable-healbot-solos-a-level-60-monster-at-level-30-and-swims-into-the-ocean/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 12.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-player-turns-their-paladin-into-a-near-unkillable-healbot-solos-a-level-60-monster-at-level-30-and-swims-into-the-ocean/",
-          "titre": "World of Warcraft: Forever player turns their paladin into a near-unkillable healbot, solos a level 60 monster at level 30, and swims into the ocean"
-        }
-      ]
-    },
-    {
-      "id": "ever-wanted-to-play-a-multiplayer-version-of-cyberpunk-2077",
-      "titre": "Ever wanted to play a multiplayer version of Cyberpunk 2077 with your friends? Well, thanks to a mod now in beta, you can",
-      "url": "https://www.eurogamer.net/cyberpunk-2077-multiplayer-mod-open-beta",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 12.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/cyberpunk-2077-multiplayer-mod-open-beta",
-          "titre": "Ever wanted to play a multiplayer version of Cyberpunk 2077 with your friends? Well, thanks to a mod now in beta, you can"
-        }
-      ]
-    },
-    {
-      "id": "ashes-of-the-singularity-2-review-some-neat-ideas-undermined",
-      "titre": "Ashes of the Singularity 2 review: Some neat ideas undermined by a rubbish campaign and obtrusive generative AI",
-      "url": "https://www.pcgamer.com/games/rts/ashes-of-the-singularity-2-review/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 12.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rts/ashes-of-the-singularity-2-review/",
-          "titre": "Ashes of the Singularity 2 review: Some neat ideas undermined by a rubbish campaign and obtrusive generative AI"
-        }
-      ]
-    },
-    {
-      "id": "game-dev-isn-t-always-straightforward-overwatch-s-director",
-      "titre": "'Game dev isn't always straightforward': Overwatch's director responds to players upset about season 6's hero being a DPS",
-      "url": "https://www.pcgamer.com/games/fps/game-dev-isnt-always-straightforward-overwatchs-director-responds-to-players-upset-about-season-6s-hero-being-a-dps/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 13.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/game-dev-isnt-always-straightforward-overwatchs-director-responds-to-players-upset-about-season-6s-hero-being-a-dps/",
-          "titre": "'Game dev isn't always straightforward': Overwatch's director responds to players upset about season 6's hero being a DPS"
-        }
-      ]
-    },
-    {
-      "id": "intel-hit-with-class-action-alleging-it-misled-investors-com",
-      "titre": "Intel hit with class action alleging it 'misled investors' – company's recent downturn due in part to how darn expensive PCs are right now",
-      "url": "https://www.pcgamer.com/hardware/processors/intel-hit-with-class-action-alleging-it-misled-investors-companys-recent-downturn-due-in-part-to-how-darn-expensive-pcs-are-right-now/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 13.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/processors/intel-hit-with-class-action-alleging-it-misled-investors-companys-recent-downturn-due-in-part-to-how-darn-expensive-pcs-are-right-now/",
-          "titre": "Intel hit with class action alleging it 'misled investors' – company's recent downturn due in part to how darn expensive PCs are right now"
-        }
-      ]
-    },
-    {
-      "id": "unity-s-new-fellowship-program-offers-cash-and-dedicated-sup",
-      "titre": "Unity's new fellowship program offers cash and dedicated support for indie devs",
-      "url": "https://www.gamedeveloper.com/business/unity-to-support-indies-with-cash-and-dedicated-support-through-new-fellowship-program",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 13.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/unity-to-support-indies-with-cash-and-dedicated-support-through-new-fellowship-program",
-          "titre": "Unity's new fellowship program offers cash and dedicated support for indie devs"
-        }
-      ]
-    },
-    {
-      "id": "unity-launches-50-000-grant-for-indie-developers-with-no-equ",
-      "titre": "Unity launches $50,000 grant for indie developers with no equity or repayment",
-      "url": "https://www.gamesindustry.biz/unity-launches-50000-grant-for-indie-developers-with-no-equity-or-repayment",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 13.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/unity-launches-50000-grant-for-indie-developers-with-no-equity-or-repayment",
-          "titre": "Unity launches $50,000 grant for indie developers with no equity or repayment"
-        }
-      ]
-    },
-    {
-      "id": "this-week-in-pc-games-start-a-new-life-in-vice-city-escape-a",
-      "titre": "This week in PC games: start a new life in Vice City, escape a dying universe before the last black hole evaporates, and avenge your pigeon with a sledgehammer",
-      "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-start-a-new-life-in-vice-city-escape-a-dying-universe-before-the-last-black-hole-evaporates-and-avenge-your-pigeon-with-a-sledgehammer",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 14.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-start-a-new-life-in-vice-city-escape-a-dying-universe-before-the-last-black-hole-evaporates-and-avenge-your-pigeon-with-a-sledgehammer",
-          "titre": "This week in PC games: start a new life in Vice City, escape a dying universe before the last black hole evaporates, and avenge your pigeon with a sledgehammer"
-        }
-      ]
-    },
-    {
-      "id": "mega-man-dual-override-s-boss-design-contest-winner-has-been",
-      "titre": "Mega Man: Dual Override's Boss Design Contest Winner Has Been Decided",
-      "url": "https://www.pushsquare.com/news/2026/11/mega-man-dual-overrides-boss-design-contest-winner-has-been-decided",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 14.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/mega-man-dual-overrides-boss-design-contest-winner-has-been-decided",
-          "titre": "Mega Man: Dual Override's Boss Design Contest Winner Has Been Decided"
-        }
-      ]
     }
   ],
-  "alertes": []
+  "alertes": [
+    "Star Wars Galactic Racer is getting split-screen multiplayer and a new Free Play mode"
+  ]
 };
