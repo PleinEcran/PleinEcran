@@ -1,8 +1,74 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "16/11/2026 à 18h22",
+  "collecte": "17/11/2026 à 02h52",
   "seuil": 14,
   "sujets": [
+    {
+      "id": "shigeru-miyamoto-selected-as-inaugural-legend-award-inductee",
+      "titre": "Shigeru Miyamoto selected as inaugural Legend Award inductee at DICE Awards",
+      "url": "https://www.gamedeveloper.com/console/shigeru-miyamoto-selected-as-inaugural-legend-award-inductee-at-d-i-c-e-awards",
+      "sources": [
+        "Game Developer",
+        "GamesIndustry.biz",
+        "Nintendo Life",
+        "VGC"
+      ],
+      "reprises": 4,
+      "heures": 6.6,
+      "chaleur": 13,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/console/shigeru-miyamoto-selected-as-inaugural-legend-award-inductee-at-d-i-c-e-awards",
+          "titre": "Shigeru Miyamoto selected as inaugural Legend Award inductee at DICE Awards"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/shigeru-miyamoto-to-receive-inaugural-legend-award-at-the-30th-dice-awards",
+          "titre": "Shigeru Miyamoto to receive inaugural Legend Award at the 30th DICE Awards"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/shigeru-miyamoto-to-receive-the-inaugural-legend-award-at-the-30th-d-i-c-e-awards",
+          "titre": "Shigeru Miyamoto To Receive The Inaugural 'Legend Award' At The 30th D.I.C.E. Awards"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/shigeru-miyamoto-to-be-honored-with-first-aias-legend-award-in-las-vegas/",
+          "titre": "Shigeru Miyamoto to be honored with first AIAS Legend Award in Las Vegas"
+        }
+      ]
+    },
+    {
+      "id": "nba-2k27-brings-a-slice-of-gta-6-s-vice-city-to-switch-2-thi",
+      "titre": "NBA 2K27 Brings A Slice Of GTA 6's Vice City To Switch 2 This Month",
+      "url": "https://www.nintendolife.com/news/2026/11/nba-2k27-brings-a-slice-of-gta-6s-vice-city-to-switch-2-this-month",
+      "sources": [
+        "Nintendo Life",
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 8.1,
+      "chaleur": 13,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/nba-2k27-brings-a-slice-of-gta-6s-vice-city-to-switch-2-this-month",
+          "titre": "NBA 2K27 Brings A Slice Of GTA 6's Vice City To Switch 2 This Month"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/nba-2k27-is-getting-a-vice-city-edition-as-well-as-numerous-gta-6-themed-items-in-season-3/",
+          "titre": "NBA 2K27 is getting a Vice City Edition, as well as numerous GTA 6 themed items in Season 3"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-subscription-will-include-nba-2k27-for-free-on-ps5",
+          "titre": "GTA 6 Subscription Will Include NBA 2K27 for Free on PS5"
+        }
+      ]
+    },
     {
       "id": "xbox-teases-project-helix-as-a-console-that-is-also-capable",
       "titre": "Xbox teases Project Helix as 'a console that is also capable of playing games from your PC'",
@@ -13,8 +79,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 1.8,
-      "chaleur": 14,
+      "heures": 10.3,
+      "chaleur": 12,
       "liens": [
         {
           "source": "Game Developer",
@@ -34,26 +100,200 @@ const VEILLE = {
       ]
     },
     {
-      "id": "nba-2k27-is-getting-a-vice-city-edition-as-well-as-numerous",
-      "titre": "NBA 2K27 is getting a Vice City Edition, as well as numerous GTA 6 themed items in Season 3",
-      "url": "https://www.videogameschronicle.com/news/nba-2k27-is-getting-a-vice-city-edition-as-well-as-numerous-gta-6-themed-items-in-season-3/",
+      "id": "grand-theft-auto-6-hacker-pleads-guilty-to-all-charges",
+      "titre": "Grand Theft Auto 6 hacker pleads guilty to all charges",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-hacker-pleads-guilty-to-all-charges/",
       "sources": [
-        "Push Square",
-        "VGC"
+        "PC Gamer",
+        "Rock Paper Shotgun"
       ],
       "reprises": 2,
+      "heures": 7.2,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-hacker-pleads-guilty-to-all-charges/",
+          "titre": "Grand Theft Auto 6 hacker pleads guilty to all charges"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/gta-6-hacker-pleads-guilty-to-2022-rockstar-games-breach-which-the-company-claim-cost-them-5-million",
+          "titre": "GTA 6 hacker pleads guilty to 2022 Rockstar Games breach which the company claim cost them $5 million"
+        }
+      ]
+    },
+    {
+      "id": "sensor-tower-gta-6-pre-orders-exceed-1-4bn-with-87-for-the-u",
+      "titre": "Sensor Tower: GTA 6 pre-orders exceed $1.4bn, with 87% for the Ultimate Edition",
+      "url": "https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-exceed-14bn-with-87-for-the-ultimate-edition",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-exceed-14bn-with-87-for-the-ultimate-edition",
+          "titre": "Sensor Tower: GTA 6 pre-orders exceed $1.4bn, with 87% for the Ultimate Edition"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-s-unpredictable-microclimate-revealed-by-the-weather-c",
+      "titre": "GTA 6's 'Unpredictable' Microclimate Revealed by The Weather Channel, with New PS5 Screenshots",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6s-unpredictable-microclimate-revealed-by-the-weather-channel-with-new-ps5-screenshots",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 2.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6s-unpredictable-microclimate-revealed-by-the-weather-channel-with-new-ps5-screenshots",
+          "titre": "GTA 6's 'Unpredictable' Microclimate Revealed by The Weather Channel, with New PS5 Screenshots"
+        }
+      ]
+    },
+    {
+      "id": "psa-splatoon-raiders-demo-splashes-onto-the-switch-2-eshop-t",
+      "titre": "PSA: Splatoon Raiders Demo Splashes Onto The Switch 2 eShop Today",
+      "url": "https://www.nintendolife.com/news/2026/11/psa-splatoon-raiders-demo-splashes-onto-the-switch-2-eshop-today",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/psa-splatoon-raiders-demo-splashes-onto-the-switch-2-eshop-today",
+          "titre": "PSA: Splatoon Raiders Demo Splashes Onto The Switch 2 eShop Today"
+        }
+      ]
+    },
+    {
+      "id": "zelda-ocarina-of-time-remake-crowned-2026-s-best-selling-phy",
+      "titre": "Zelda: Ocarina Of Time Remake Crowned 2026's \"Best-Selling Physical Video Game In The US\"",
+      "url": "https://www.nintendolife.com/news/2026/11/zelda-ocarina-of-time-remake-crowned-2026s-best-selling-physical-video-game-in-the-us",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
       "heures": 1.6,
-      "chaleur": 12,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/zelda-ocarina-of-time-remake-crowned-2026s-best-selling-physical-video-game-in-the-us",
+          "titre": "Zelda: Ocarina Of Time Remake Crowned 2026's \"Best-Selling Physical Video Game In The US\""
+        }
+      ]
+    },
+    {
+      "id": "xbox-gem-the-chronicles-of-riddick-escape-from-butcher-bay-w",
+      "titre": "Xbox gem The Chronicles of Riddick: Escape from Butcher Bay was briefly cancelled, but nobody told its developer",
+      "url": "https://www.videogameschronicle.com/news/xbox-gem-the-chronicles-of-riddick-escape-from-butcher-bay-was-briefly-cancelled-but-nobody-told-its-developer/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 14.4,
+      "chaleur": 8,
       "liens": [
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/nba-2k27-is-getting-a-vice-city-edition-as-well-as-numerous-gta-6-themed-items-in-season-3/",
-          "titre": "NBA 2K27 is getting a Vice City Edition, as well as numerous GTA 6 themed items in Season 3"
+          "url": "https://www.videogameschronicle.com/news/xbox-gem-the-chronicles-of-riddick-escape-from-butcher-bay-was-briefly-cancelled-but-nobody-told-its-developer/",
+          "titre": "Xbox gem The Chronicles of Riddick: Escape from Butcher Bay was briefly cancelled, but nobody told its developer"
+        }
+      ]
+    },
+    {
+      "id": "nobody-was-hurt-in-shooting-near-clockwork-revolution-devs",
+      "titre": "\"Nobody was hurt\" in shooting near Clockwork Revolution devs InXile Entertainment's office, the Xbox-owned studio and police confirm",
+      "url": "https://www.rockpapershotgun.com/nobody-was-hurt-in-shooting-near-clockwork-revolution-devs-inxile-entertainments-office-the-xbox-owned-studio-and-police-confirm",
+      "sources": [
+        "Eurogamer",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 2,
+      "heures": 14.7,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/nobody-was-hurt-in-shooting-near-clockwork-revolution-devs-inxile-entertainments-office-the-xbox-owned-studio-and-police-confirm",
+          "titre": "\"Nobody was hurt\" in shooting near Clockwork Revolution devs InXile Entertainment's office, the Xbox-owned studio and police confirm"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/inxile-office-shooting-tustin-suspect-arrested",
+          "titre": "Police arrest suspect after drive-by shooting at office campus housing Xbox studio inXile"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-online-rumors-when-might-the-inevitable-multiplayer-la",
+      "titre": "GTA 6 online rumors: When might the inevitable multiplayer launch happen?",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-online-multiplayer/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-online-multiplayer/",
+          "titre": "GTA 6 online rumors: When might the inevitable multiplayer launch happen?"
+        }
+      ]
+    },
+    {
+      "id": "rumour-atlus-may-be-gearing-up-for-a-huge-persona-6-reveal",
+      "titre": "Rumour: Atlus May Be Gearing Up For A Huge Persona 6 Reveal",
+      "url": "https://www.nintendolife.com/news/2026/11/rumour-atlus-may-be-gearing-up-for-a-huge-persona-6-reveal",
+      "sources": [
+        "Nintendo Life",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 7.4,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/rumour-atlus-may-be-gearing-up-for-a-huge-persona-6-reveal",
+          "titre": "Rumour: Atlus May Be Gearing Up For A Huge Persona 6 Reveal"
         },
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/gta-6-subscription-will-include-nba-2k27-for-free-on-ps5",
-          "titre": "GTA 6 Subscription Will Include NBA 2K27 for Free on PS5"
+          "url": "https://www.pushsquare.com/news/2026/11/rumour-persona-6-blowout-primed-for-the-game-awards",
+          "titre": "Rumour: Persona 6 Blowout Primed for The Game Awards"
+        }
+      ]
+    },
+    {
+      "id": "original-gta-6-leaker-pleads-guilty-to-hacking-rockstar-game",
+      "titre": "Original GTA 6 leaker pleads guilty to hacking Rockstar Games, years after first revealing Lucia",
+      "url": "https://www.eurogamer.net/gta-6-leaker-pleads-guilty",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 8.0,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-leaker-pleads-guilty",
+          "titre": "Original GTA 6 leaker pleads guilty to hacking Rockstar Games, years after first revealing Lucia"
         }
       ]
     },
@@ -65,37 +305,13 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 0.1,
-      "chaleur": 9,
+      "heures": 8.6,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/business/-it-s-common-for-there-to-be-speculation-and-headlines-unity-exec-addresses-acquisition-rumors",
           "titre": "'It's common for there to be speculation and headlines:' Unity exec addresses acquisition rumors"
-        }
-      ]
-    },
-    {
-      "id": "shigeru-miyamoto-to-receive-the-inaugural-legend-award-at-th",
-      "titre": "Shigeru Miyamoto To Receive The Inaugural 'Legend Award' At The 30th D.I.C.E. Awards",
-      "url": "https://www.nintendolife.com/news/2026/11/shigeru-miyamoto-to-receive-the-inaugural-legend-award-at-the-30th-d-i-c-e-awards",
-      "sources": [
-        "Nintendo Life",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 0.4,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/shigeru-miyamoto-to-receive-the-inaugural-legend-award-at-the-30th-d-i-c-e-awards",
-          "titre": "Shigeru Miyamoto To Receive The Inaugural 'Legend Award' At The 30th D.I.C.E. Awards"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/shigeru-miyamoto-to-be-honored-with-first-aias-legend-award-in-las-vegas/",
-          "titre": "Shigeru Miyamoto to be honored with first AIAS Legend Award in Las Vegas"
         }
       ]
     },
@@ -108,8 +324,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 0.4,
-      "chaleur": 9,
+      "heures": 8.9,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Push Square",
@@ -131,8 +347,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.4,
-      "chaleur": 9,
+      "heures": 8.9,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
@@ -149,8 +365,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.6,
-      "chaleur": 9,
+      "heures": 9.1,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Eurogamer",
@@ -167,8 +383,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.7,
-      "chaleur": 9,
+      "heures": 10.2,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -186,8 +402,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 1.9,
-      "chaleur": 9,
+      "heures": 10.4,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -209,8 +425,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 9,
+      "heures": 10.9,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Push Square",
@@ -220,62 +436,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-6-hacker-pleads-guilty-to-2022-rockstar-games-breach-whi",
-      "titre": "GTA 6 hacker pleads guilty to 2022 Rockstar Games breach which the company claim cost them $5 million",
-      "url": "https://www.rockpapershotgun.com/gta-6-hacker-pleads-guilty-to-2022-rockstar-games-breach-which-the-company-claim-cost-them-5-million",
+      "id": "splatoon-3-version-12-0-0-announced-here-are-the-full-patch",
+      "titre": "Splatoon 3 Version 12.0.0 Announced, Here Are The Full Patch Notes",
+      "url": "https://www.nintendolife.com/news/2026/11/splatoon-3-version-12-0-0-announced-here-are-the-full-patch-notes",
       "sources": [
-        "Rock Paper Shotgun"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 9,
+      "heures": 0.8,
+      "chaleur": 6,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/gta-6-hacker-pleads-guilty-to-2022-rockstar-games-breach-which-the-company-claim-cost-them-5-million",
-          "titre": "GTA 6 hacker pleads guilty to 2022 Rockstar Games breach which the company claim cost them $5 million"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/splatoon-3-version-12-0-0-announced-here-are-the-full-patch-notes",
+          "titre": "Splatoon 3 Version 12.0.0 Announced, Here Are The Full Patch Notes"
         }
       ]
     },
     {
-      "id": "xbox-gem-the-chronicles-of-riddick-escape-from-butcher-bay-w",
-      "titre": "Xbox gem The Chronicles of Riddick: Escape from Butcher Bay was briefly cancelled, but nobody told its developer",
-      "url": "https://www.videogameschronicle.com/news/xbox-gem-the-chronicles-of-riddick-escape-from-butcher-bay-was-briefly-cancelled-but-nobody-told-its-developer/",
+      "id": "castlevania-belmont-s-curse-has-been-updated-to-version-1-1",
+      "titre": "Castlevania: Belmont's Curse Has Been Updated To Version 1.1.4",
+      "url": "https://www.nintendolife.com/news/2026/11/castlevania-belmonts-curse-has-been-updated-to-version-1-1-4",
       "sources": [
-        "VGC"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.8,
-      "chaleur": 9,
+      "heures": 0.9,
+      "chaleur": 6,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/xbox-gem-the-chronicles-of-riddick-escape-from-butcher-bay-was-briefly-cancelled-but-nobody-told-its-developer/",
-          "titre": "Xbox gem The Chronicles of Riddick: Escape from Butcher Bay was briefly cancelled, but nobody told its developer"
-        }
-      ]
-    },
-    {
-      "id": "nobody-was-hurt-in-shooting-near-clockwork-revolution-devs",
-      "titre": "\"Nobody was hurt\" in shooting near Clockwork Revolution devs InXile Entertainment's office, the Xbox-owned studio and police confirm",
-      "url": "https://www.rockpapershotgun.com/nobody-was-hurt-in-shooting-near-clockwork-revolution-devs-inxile-entertainments-office-the-xbox-owned-studio-and-police-confirm",
-      "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 6.2,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/nobody-was-hurt-in-shooting-near-clockwork-revolution-devs-inxile-entertainments-office-the-xbox-owned-studio-and-police-confirm",
-          "titre": "\"Nobody was hurt\" in shooting near Clockwork Revolution devs InXile Entertainment's office, the Xbox-owned studio and police confirm"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/inxile-office-shooting-tustin-suspect-arrested",
-          "titre": "Police arrest suspect after drive-by shooting at office campus housing Xbox studio inXile"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/castlevania-belmonts-curse-has-been-updated-to-version-1-1-4",
+          "titre": "Castlevania: Belmont's Curse Has Been Updated To Version 1.1.4"
         }
       ]
     },
@@ -287,8 +479,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.4,
-      "chaleur": 8,
+      "heures": 8.9,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -305,8 +497,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.1,
-      "chaleur": 8,
+      "heures": 9.6,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -323,8 +515,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 2.0,
-      "chaleur": 8,
+      "heures": 10.5,
+      "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
@@ -341,8 +533,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 8,
+      "heures": 11.9,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -359,8 +551,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.0,
-      "chaleur": 7,
+      "heures": 13.5,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
@@ -370,26 +562,200 @@ const VEILLE = {
       ]
     },
     {
-      "id": "mega-man-dual-override-s-boss-design-contest-winner-has-been",
-      "titre": "Mega Man: Dual Override's Boss Design Contest Winner Has Been Decided",
-      "url": "https://www.pushsquare.com/news/2026/11/mega-man-dual-overrides-boss-design-contest-winner-has-been-decided",
+      "id": "gamers-don-t-hate-ads-they-hate-bad-ads-why-ea-and-xbox-are",
+      "titre": "\"Gamers don't hate ads; they hate bad ads\" – Why EA and Xbox are putting adverts in their games",
+      "url": "https://www.gamesindustry.biz/gamers-dont-hate-ads-they-hate-bad-ads-why-ea-and-xbox-are-putting-adverts-in-their-games",
       "sources": [
-        "Nintendo Life",
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 13.4,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/gamers-dont-hate-ads-they-hate-bad-ads-why-ea-and-xbox-are-putting-adverts-in-their-games",
+          "titre": "\"Gamers don't hate ads; they hate bad ads\" – Why EA and Xbox are putting adverts in their games"
+        }
+      ]
+    },
+    {
+      "id": "playstation-black-friday-sale-is-live-now-up-to-100-off-ps5",
+      "titre": "PlayStation Black Friday Sale Is Live Now, Up to $100 Off PS5 Accessories, PSVR2",
+      "url": "https://www.pushsquare.com/news/2026/11/playstation-black-friday-sale-is-live-now-up-to-usd100-off-ps5-accessories-psvr2",
+      "sources": [
         "Push Square"
       ],
-      "reprises": 2,
-      "heures": 6.4,
-      "chaleur": 7,
+      "reprises": 1,
+      "heures": 13.9,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/mega-man-dual-overrides-boss-design-contest-winner-has-been-decided",
-          "titre": "Mega Man: Dual Override's Boss Design Contest Winner Has Been Decided"
-        },
+          "url": "https://www.pushsquare.com/news/2026/11/playstation-black-friday-sale-is-live-now-up-to-usd100-off-ps5-accessories-psvr2",
+          "titre": "PlayStation Black Friday Sale Is Live Now, Up to $100 Off PS5 Accessories, PSVR2"
+        }
+      ]
+    },
+    {
+      "id": "that-007-first-light-theme-song-i-didn-t-like-is-up-for-a-gr",
+      "titre": "That 007 First Light theme song I didn't like is up for a Grammy Award",
+      "url": "https://www.pcgamer.com/games/action/that-007-first-light-theme-song-i-didnt-like-is-up-for-a-grammy-award/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 4,
+      "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/mega-man-dual-override-reveals-robot-master-design-contest-winner",
-          "titre": "Mega Man: Dual Override Reveals Robot Master Design Contest Winner"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/action/that-007-first-light-theme-song-i-didnt-like-is-up-for-a-grammy-award/",
+          "titre": "That 007 First Light theme song I didn't like is up for a Grammy Award"
+        }
+      ]
+    },
+    {
+      "id": "gabe-newell-stuns-superyacht-enthusiasts-by-treating-crew-li",
+      "titre": "Gabe Newell stuns superyacht enthusiasts by treating crew like human beings: 'That is something we've never really seen before in our industry'",
+      "url": "https://www.pcgamer.com/gaming-industry/gabe-newell-stuns-superyacht-enthusiasts-by-treating-crew-like-human-beings-that-is-something-weve-never-really-seen-before-in-our-industry/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/gabe-newell-stuns-superyacht-enthusiasts-by-treating-crew-like-human-beings-that-is-something-weve-never-really-seen-before-in-our-industry/",
+          "titre": "Gabe Newell stuns superyacht enthusiasts by treating crew like human beings: 'That is something we've never really seen before in our industry'"
+        }
+      ]
+    },
+    {
+      "id": "trump-supports-jensen-huang-s-return-as-nvidia-ceo-but-it-do",
+      "titre": "Trump supports Jensen Huang's return as Nvidia CEO, but it doesn't sound like the board is interested",
+      "url": "https://www.pcgamer.com/software/ai/trump-supports-jensen-huangs-return-as-nvidia-ceo-but-it-doesnt-sound-like-the-board-is-interested/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/trump-supports-jensen-huangs-return-as-nvidia-ceo-but-it-doesnt-sound-like-the-board-is-interested/",
+          "titre": "Trump supports Jensen Huang's return as Nvidia CEO, but it doesn't sound like the board is interested"
+        }
+      ]
+    },
+    {
+      "id": "play-4-hours-of-the-fantastic-control-resonant-on-ps-plus-pr",
+      "titre": "Play 4 Hours of the Fantastic Control Resonant on PS Plus Premium",
+      "url": "https://www.pushsquare.com/news/2026/11/play-4-hours-of-the-fantastic-control-resonant-on-ps-plus-premium",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/play-4-hours-of-the-fantastic-control-resonant-on-ps-plus-premium",
+          "titre": "Play 4 Hours of the Fantastic Control Resonant on PS Plus Premium"
+        }
+      ]
+    },
+    {
+      "id": "monster-hunter-outlanders-passes-10-2-million-in-iap-revenue",
+      "titre": "Monster Hunter Outlanders passes $10.2 million in IAP revenue in two weeks",
+      "url": "https://www.gamesindustry.biz/monster-hunter-outlanders-passes-102-million-in-iap-revenue-in-two-weeks",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 6.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/monster-hunter-outlanders-passes-102-million-in-iap-revenue-in-two-weeks",
+          "titre": "Monster Hunter Outlanders passes $10.2 million in IAP revenue in two weeks"
+        }
+      ]
+    },
+    {
+      "id": "the-great-star-wars-galactic-racer-will-soon-be-even-better",
+      "titre": "The Great Star Wars: Galactic Racer Will Soon Be Even Better, Major New Features Announced",
+      "url": "https://www.pushsquare.com/news/2026/11/the-great-star-wars-galactic-racer-will-soon-be-even-better-major-new-features-announced",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 6.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/the-great-star-wars-galactic-racer-will-soon-be-even-better-major-new-features-announced",
+          "titre": "The Great Star Wars: Galactic Racer Will Soon Be Even Better, Major New Features Announced"
+        }
+      ]
+    },
+    {
+      "id": "star-wars-galactic-racer-is-getting-much-requested-split-scr",
+      "titre": "Star Wars: Galactic Racer is getting much-requested split-screen multiplayer and new mode in 2027",
+      "url": "https://www.eurogamer.net/star-wars-galactic-racer-split-screen-multiplayer",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 7.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/star-wars-galactic-racer-split-screen-multiplayer",
+          "titre": "Star Wars: Galactic Racer is getting much-requested split-screen multiplayer and new mode in 2027"
+        }
+      ]
+    },
+    {
+      "id": "riot-unveils-new-dawn-a-major-overhaul-for-league-of-legends",
+      "titre": "Riot unveils New Dawn, a major overhaul for League of Legends",
+      "url": "https://www.gamedeveloper.com/pc/riot-unveils-new-dawn-the-next-evolution-of-league-of-legends",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 7.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/pc/riot-unveils-new-dawn-the-next-evolution-of-league-of-legends",
+          "titre": "Riot unveils New Dawn, a major overhaul for League of Legends"
+        }
+      ]
+    },
+    {
+      "id": "mini-review-tanuki-pon-s-summer-ps5-easily-one-of-2026-s-mos",
+      "titre": "Mini Review: Tanuki: Pon's Summer (PS5) - Easily One of 2026's Most Charming Adventures",
+      "url": "https://www.pushsquare.com/reviews/ps5/tanuki-pons-summer",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 8.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/reviews/ps5/tanuki-pons-summer",
+          "titre": "Mini Review: Tanuki: Pon's Summer (PS5) - Easily One of 2026's Most Charming Adventures"
         }
       ]
     },
@@ -401,8 +767,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 0.4,
-      "chaleur": 6,
+      "heures": 8.9,
+      "chaleur": 4,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -419,8 +785,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.0,
-      "chaleur": 6,
+      "heures": 9.5,
+      "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
@@ -437,8 +803,8 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 1.1,
-      "chaleur": 6,
+      "heures": 9.6,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Game Developer",
@@ -455,8 +821,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 1.3,
-      "chaleur": 6,
+      "heures": 9.9,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -473,8 +839,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.4,
-      "chaleur": 6,
+      "heures": 9.9,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Push Square",
@@ -491,8 +857,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
-      "chaleur": 6,
+      "heures": 9.9,
+      "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
@@ -509,8 +875,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.6,
-      "chaleur": 6,
+      "heures": 10.2,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Eurogamer",
@@ -527,8 +893,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.9,
-      "chaleur": 6,
+      "heures": 10.4,
+      "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
@@ -545,8 +911,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 6,
+      "heures": 10.7,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -563,8 +929,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 6,
+      "heures": 10.7,
+      "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
@@ -581,8 +947,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 6,
+      "heures": 11.0,
+      "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
@@ -599,31 +965,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 6,
+      "heures": 11.1,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/11/dave-the-divers-latest-crossover-update-sees-another-beloved-indie-join-the-fray",
           "titre": "Dave The Diver's Latest Crossover Update Sees Another Beloved Indie Join The Fray"
-        }
-      ]
-    },
-    {
-      "id": "rumour-persona-6-blowout-primed-for-the-game-awards",
-      "titre": "Rumour: Persona 6 Blowout Primed for The Game Awards",
-      "url": "https://www.pushsquare.com/news/2026/11/rumour-persona-6-blowout-primed-for-the-game-awards",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/rumour-persona-6-blowout-primed-for-the-game-awards",
-          "titre": "Rumour: Persona 6 Blowout Primed for The Game Awards"
         }
       ]
     },
@@ -635,8 +983,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 6,
+      "heures": 11.9,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Push Square",
@@ -653,157 +1001,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 6,
+      "heures": 12.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-player-turns-their-paladin-into-a-near-unkillable-healbot-solos-a-level-60-monster-at-level-30-and-swims-into-the-ocean/",
           "titre": "World of Warcraft: Forever player turns their paladin into a near-unkillable healbot, solos a level 60 monster at level 30, and swims into the ocean"
-        }
-      ]
-    },
-    {
-      "id": "gamers-don-t-hate-ads-they-hate-bad-ads-why-ea-and-xbox-are",
-      "titre": "\"Gamers don't hate ads; they hate bad ads\" – Why EA and Xbox are putting adverts in their games",
-      "url": "https://www.gamesindustry.biz/gamers-dont-hate-ads-they-hate-bad-ads-why-ea-and-xbox-are-putting-adverts-in-their-games",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 4.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/gamers-dont-hate-ads-they-hate-bad-ads-why-ea-and-xbox-are-putting-adverts-in-their-games",
-          "titre": "\"Gamers don't hate ads; they hate bad ads\" – Why EA and Xbox are putting adverts in their games"
-        }
-      ]
-    },
-    {
-      "id": "jensen-huang-reportedly-eyeing-up-return-to-nvidia-as-friend",
-      "titre": "Jensen Huang reportedly eyeing up return to Nvidia as friendly tech execs form 'war room' to fight for him and over 175,000 people sign #bringjensenback petition",
-      "url": "https://www.pcgamer.com/software/ai/jensen-huang-reportedly-eyeing-up-return-to-nvidia-as-friendly-tech-execs-form-war-room-to-fight-for-him-and-over-175-000-people-sign-bringjensenback-petition/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 5.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/jensen-huang-reportedly-eyeing-up-return-to-nvidia-as-friendly-tech-execs-form-war-room-to-fight-for-him-and-over-175-000-people-sign-bringjensenback-petition/",
-          "titre": "Jensen Huang reportedly eyeing up return to Nvidia as friendly tech execs form 'war room' to fight for him and over 175,000 people sign #bringjensenback petition"
-        }
-      ]
-    },
-    {
-      "id": "nintendo-store-app-receives-a-small-but-worthwhile-update-he",
-      "titre": "Nintendo Store App Receives A Small But Worthwhile Update, Here Are The Patch Notes",
-      "url": "https://www.nintendolife.com/news/2026/11/nintendo-store-app-receives-a-small-but-worthwhile-update-here-are-the-patch-notes",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 5.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/nintendo-store-app-receives-a-small-but-worthwhile-update-here-are-the-patch-notes",
-          "titre": "Nintendo Store App Receives A Small But Worthwhile Update, Here Are The Patch Notes"
-        }
-      ]
-    },
-    {
-      "id": "playstation-black-friday-sale-is-live-now-up-to-100-off-ps5",
-      "titre": "PlayStation Black Friday Sale Is Live Now, Up to $100 Off PS5 Accessories, PSVR2",
-      "url": "https://www.pushsquare.com/news/2026/11/playstation-black-friday-sale-is-live-now-up-to-usd100-off-ps5-accessories-psvr2",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 5.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/playstation-black-friday-sale-is-live-now-up-to-usd100-off-ps5-accessories-psvr2",
-          "titre": "PlayStation Black Friday Sale Is Live Now, Up to $100 Off PS5 Accessories, PSVR2"
-        }
-      ]
-    },
-    {
-      "id": "the-latest-steamos-update-improves-support-on-nvidia-powered",
-      "titre": "The latest SteamOS update improves support on Nvidia-powered PCs: makes swapping your rig to the OS less painful",
-      "url": "https://www.pcgamer.com/hardware/steam-machines/the-latest-steamos-update-improves-support-on-nvidia-powered-pcs-makes-swapping-your-rig-to-the-os-less-painful/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 6.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/steam-machines/the-latest-steamos-update-improves-support-on-nvidia-powered-pcs-makes-swapping-your-rig-to-the-os-less-painful/",
-          "titre": "The latest SteamOS update improves support on Nvidia-powered PCs: makes swapping your rig to the OS less painful"
-        }
-      ]
-    },
-    {
-      "id": "the-latest-gta-6-leak-comes-in-the-form-of-a-34-song-trackli",
-      "titre": "The latest GTA 6 leak comes in the form of a 34-song tracklist for GTA 6: The Album, featuring Dua Lipa, Lana Del Rey, Rina Sawayama, and more",
-      "url": "https://www.eurogamer.net/gta-6-tracklist-leak",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 28.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-tracklist-leak",
-          "titre": "The latest GTA 6 leak comes in the form of a 34-song tracklist for GTA 6: The Album, featuring Dua Lipa, Lana Del Rey, Rina Sawayama, and more"
-        }
-      ]
-    },
-    {
-      "id": "what-s-the-best-gta",
-      "titre": "What's the best GTA?",
-      "url": "https://www.eurogamer.net/the-big-question-whats-the-best-gta",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 32.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/the-big-question-whats-the-best-gta",
-          "titre": "What's the best GTA?"
-        }
-      ]
-    },
-    {
-      "id": "minecraft-is-getting-joy-con-mouse-controls-on-switch-2-in-a",
-      "titre": "Minecraft Is Getting Joy-Con Mouse Controls On Switch 2 In A Future Update",
-      "url": "https://www.nintendolife.com/news/2026/11/minecraft-is-getting-joy-con-mouse-controls-on-switch-2-in-a-future-update",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 35.9,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/minecraft-is-getting-joy-con-mouse-controls-on-switch-2-in-a-future-update",
-          "titre": "Minecraft Is Getting Joy-Con Mouse Controls On Switch 2 In A Future Update"
         }
       ]
     },
@@ -815,8 +1019,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.0,
-      "chaleur": 4,
+      "heures": 12.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -833,8 +1037,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
-      "chaleur": 4,
+      "heures": 12.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -851,8 +1055,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.8,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -869,31 +1073,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.9,
-      "chaleur": 4,
+      "heures": 13.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/processors/intel-hit-with-class-action-alleging-it-misled-investors-companys-recent-downturn-due-in-part-to-how-darn-expensive-pcs-are-right-now/",
           "titre": "Intel hit with class action alleging it 'misled investors' – company's recent downturn due in part to how darn expensive PCs are right now"
-        }
-      ]
-    },
-    {
-      "id": "new-asus-beta-bios-patches-now-include-a-fresh-amd-feature-t",
-      "titre": "New Asus beta BIOS patches now include a fresh AMD feature to stop you thinking your PC's b0rked",
-      "url": "https://www.pcgamer.com/hardware/motherboards/new-asus-beta-bios-patches-now-include-a-fresh-amd-feature-to-stop-you-thinking-your-pcs-b0rked/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 5.1,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/motherboards/new-asus-beta-bios-patches-now-include-a-fresh-amd-feature-to-stop-you-thinking-your-pcs-b0rked/",
-          "titre": "New Asus beta BIOS patches now include a fresh AMD feature to stop you thinking your PC's b0rked"
         }
       ]
     },
@@ -905,8 +1091,8 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 5.4,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Game Developer",
@@ -923,8 +1109,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 5.4,
-      "chaleur": 4,
+      "heures": 13.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -941,8 +1127,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.5,
-      "chaleur": 4,
+      "heures": 14.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -952,187 +1138,23 @@ const VEILLE = {
       ]
     },
     {
-      "id": "guide-pok-mon-pokopia-apples-to-applin-event-guide-from-syru",
-      "titre": "Guide: Pokémon Pokopia Apples to Applin Event Guide, From Syrupy Apples To A Kitchen Table",
-      "url": "https://www.nintendolife.com/guides/pokemon-pokopia-apples-to-applin-event-guide",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 6.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/guides/pokemon-pokopia-apples-to-applin-event-guide",
-          "titre": "Guide: Pokémon Pokopia Apples to Applin Event Guide, From Syrupy Apples To A Kitchen Table"
-        }
-      ]
-    },
-    {
-      "id": "wow-forever-s-continued-to-wrestle-with-dungeons-as-blizzard",
-      "titre": "WoW: Forever's continued to wrestle with dungeons, as Blizzard admits it briefly 'missed the mark' on hotfixes over the weekend",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-continued-to-wrestle-with-dungeons-as-blizzard-admits-it-briefly-missed-the-mark-on-hotfixes-over-the-weekend/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 6.5,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-continued-to-wrestle-with-dungeons-as-blizzard-admits-it-briefly-missed-the-mark-on-hotfixes-over-the-weekend/",
-          "titre": "WoW: Forever's continued to wrestle with dungeons, as Blizzard admits it briefly 'missed the mark' on hotfixes over the weekend"
-        }
-      ]
-    },
-    {
-      "id": "splatoon-raiders-is-getting-its-very-own-336-page-art-book-n",
-      "titre": "Splatoon Raiders Is Getting Its Very Own 336-Page Art Book Next Year",
-      "url": "https://www.nintendolife.com/news/2026/11/splatoon-raiders-is-getting-its-very-own-336-page-art-book-next-year",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 6.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/splatoon-raiders-is-getting-its-very-own-336-page-art-book-next-year",
-          "titre": "Splatoon Raiders Is Getting Its Very Own 336-Page Art Book Next Year"
-        }
-      ]
-    },
-    {
-      "id": "umamusume-pretty-derby-parent-company-plans-to-release-seven",
-      "titre": "Umamusume: Pretty Derby parent company plans to release seven new games by 2030 as it boasts an \"88 percent hit rate\" on its mobile titles",
-      "url": "https://www.eurogamer.net/umamusume-dev-seven-new-games-2030",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 7.0,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/umamusume-dev-seven-new-games-2030",
-          "titre": "Umamusume: Pretty Derby parent company plans to release seven new games by 2030 as it boasts an \"88 percent hit rate\" on its mobile titles"
-        }
-      ]
-    },
-    {
-      "id": "crimson-desert-studio-pearl-abyss-says-it-now-uses-ai-across",
-      "titre": "Crimson Desert studio Pearl Abyss says it now uses AI ‘across various stages of development’",
-      "url": "https://www.videogameschronicle.com/news/crimson-desert-studio-pearl-abyss-says-it-now-uses-ai-across-various-stages-of-development/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 7.1,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/crimson-desert-studio-pearl-abyss-says-it-now-uses-ai-across-various-stages-of-development/",
-          "titre": "Crimson Desert studio Pearl Abyss says it now uses AI ‘across various stages of development’"
-        }
-      ]
-    },
-    {
-      "id": "random-modder-transforms-ds-into-a-home-console-and-it-s-sup",
-      "titre": "Random: Modder Transforms DS Into A Home Console, And It's Super Cool",
-      "url": "https://www.nintendolife.com/news/2026/11/random-modder-transforms-ds-into-a-home-console-and-its-super-cool",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 7.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/random-modder-transforms-ds-into-a-home-console-and-its-super-cool",
-          "titre": "Random: Modder Transforms DS Into A Home Console, And It's Super Cool"
-        }
-      ]
-    },
-    {
-      "id": "we-ve-finally-reached-this-milestone-cyberpunk-2077-multipl",
-      "titre": "\"We've finally reached this milestone\": Cyberpunk 2077 multiplayer mod CyberMP kicks off open beta after around six years preparing for cybermayhem",
-      "url": "https://www.rockpapershotgun.com/weve-finally-reached-this-milestone-cyberpunk-2077-multiplayer-mod-cybermp-kicks-off-open-beta-after-around-six-years-preparing-for-cybermayhem",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 7.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/weve-finally-reached-this-milestone-cyberpunk-2077-multiplayer-mod-cybermp-kicks-off-open-beta-after-around-six-years-preparing-for-cybermayhem",
-          "titre": "\"We've finally reached this milestone\": Cyberpunk 2077 multiplayer mod CyberMP kicks off open beta after around six years preparing for cybermayhem"
-        }
-      ]
-    },
-    {
-      "id": "ps-plus-subscriptions-on-sale-now-but-there-s-a-big-catch",
-      "titre": "PS Plus Subscriptions on Sale Now, But There's a Big Catch",
-      "url": "https://www.pushsquare.com/news/2026/11/ps-plus-subscriptions-on-sale-now-but-theres-a-big-catch",
+      "id": "mega-man-dual-override-s-boss-design-contest-winner-has-been",
+      "titre": "Mega Man: Dual Override's Boss Design Contest Winner Has Been Decided",
+      "url": "https://www.pushsquare.com/news/2026/11/mega-man-dual-overrides-boss-design-contest-winner-has-been-decided",
       "sources": [
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.1,
-      "chaleur": 4,
+      "heures": 14.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/ps-plus-subscriptions-on-sale-now-but-theres-a-big-catch",
-          "titre": "PS Plus Subscriptions on Sale Now, But There's a Big Catch"
-        }
-      ]
-    },
-    {
-      "id": "ea-hires-another-former-call-of-duty-boss-to-take-the-lead-o",
-      "titre": "EA hires another former Call of Duty boss to take the lead on all Battlefield Studios' projects",
-      "url": "https://www.eurogamer.net/battlefield-call-of-duty-sam-cooper-byron-beede-live-service",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 9.0,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/battlefield-call-of-duty-sam-cooper-byron-beede-live-service",
-          "titre": "EA hires another former Call of Duty boss to take the lead on all Battlefield Studios' projects"
-        }
-      ]
-    },
-    {
-      "id": "guide-these-13-ps5-and-ps-plus-games-are-coming-out-this-wee",
-      "titre": "Guide: These 13+ PS5 and PS Plus Games Are Coming Out This Week (16th-22nd November)",
-      "url": "https://www.pushsquare.com/guides/these-13plus-ps5-and-ps-plus-games-are-coming-out-this-week-16th-22nd-november",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 9.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/guides/these-13plus-ps5-and-ps-plus-games-are-coming-out-this-week-16th-22nd-november",
-          "titre": "Guide: These 13+ PS5 and PS Plus Games Are Coming Out This Week (16th-22nd November)"
+          "url": "https://www.pushsquare.com/news/2026/11/mega-man-dual-overrides-boss-design-contest-winner-has-been-decided",
+          "titre": "Mega Man: Dual Override's Boss Design Contest Winner Has Been Decided"
         }
       ]
     }
   ],
-  "alertes": [
-    "Xbox teases Project Helix as 'a console that is also capable of playing games from your PC'"
-  ]
+  "alertes": []
 };
