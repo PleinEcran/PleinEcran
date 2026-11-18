@@ -1,6 +1,6 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "17/11/2026 à 22h11",
+  "collecte": "18/11/2026 à 07h12",
   "seuil": 14,
   "sujets": [
     {
@@ -9,7 +9,6 @@ const VEILLE = {
       "url": "https://www.pushsquare.com/news/2026/11/layoffs-hit-xcom-dev-as-it-struggles-with-production-of-third-entry",
       "sources": [
         "Eurogamer",
-        "Game Developer",
         "GamesIndustry.biz",
         "Nintendo Life",
         "PC Gamer",
@@ -17,9 +16,9 @@ const VEILLE = {
         "Rock Paper Shotgun",
         "VGC"
       ],
-      "reprises": 8,
-      "heures": 1.7,
-      "chaleur": 35,
+      "reprises": 7,
+      "heures": 10.7,
+      "chaleur": 30,
       "liens": [
         {
           "source": "Push Square",
@@ -54,28 +53,34 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-game-awards-2026-nominees-announced-and-gta-6-leads-with",
-      "titre": "The Game Awards 2026 nominees announced, and GTA 6 leads with eight nods before it's even out",
-      "url": "https://www.eurogamer.net/game-awards-2026-nominees-full-list-gta-6",
+      "id": "newzoo-analyst-expects-grand-theft-auto-to-turn-around-a-rou",
+      "titre": "Newzoo analyst expects Grand Theft Auto to turn around a rough year for console gaming: 'without GTA 6 the console market would likely be down year-over-year in 2026'",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/newzoo-analyst-expects-grand-theft-auto-to-turn-around-a-rough-year-for-console-gaming-without-gta-6-the-console-market-would-likely-be-down-year-over-year-in-2026/",
       "sources": [
         "Eurogamer",
+        "Game Developer",
         "PC Gamer",
         "Push Square",
         "VGC"
       ],
-      "reprises": 4,
-      "heures": 3.2,
-      "chaleur": 18,
+      "reprises": 5,
+      "heures": 6.6,
+      "chaleur": 19,
       "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/newzoo-analyst-expects-grand-theft-auto-to-turn-around-a-rough-year-for-console-gaming-without-gta-6-the-console-market-would-likely-be-down-year-over-year-in-2026/",
+          "titre": "Newzoo analyst expects Grand Theft Auto to turn around a rough year for console gaming: 'without GTA 6 the console market would likely be down year-over-year in 2026'"
+        },
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/marketing/zelda-and-grand-theft-auto-headline-the-nominees-for-the-2027-game-awards",
+          "titre": "Zelda and Grand Theft Auto headline the nominees for the 2027 Game Awards"
+        },
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/game-awards-2026-nominees-full-list-gta-6",
           "titre": "The Game Awards 2026 nominees announced, and GTA 6 leads with eight nods before it's even out"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/events-conferences/we-got-8-game-awards-nominations-for-gta-6-before-gta-6/",
-          "titre": "We got 8 Game Awards nominations for GTA 6 before GTA 6"
         },
         {
           "source": "VGC",
@@ -100,8 +105,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 5.7,
-      "chaleur": 17,
+      "heures": 14.7,
+      "chaleur": 16,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -126,22 +131,22 @@ const VEILLE = {
       ]
     },
     {
-      "id": "zelda-and-grand-theft-auto-headline-the-nominees-for-the-202",
-      "titre": "Zelda and Grand Theft Auto headline the nominees for the 2027 Game Awards",
-      "url": "https://www.gamedeveloper.com/marketing/zelda-and-grand-theft-auto-headline-the-nominees-for-the-2027-game-awards",
+      "id": "spyro-s-new-adventure-seemingly-teased-for-the-game-awards-2",
+      "titre": "Spyro's New Adventure Seemingly Teased For The Game Awards 2026",
+      "url": "https://www.nintendolife.com/news/2026/11/spyros-new-adventure-seemingly-teased-for-the-game-awards-2026",
       "sources": [
-        "Eurogamer",
-        "Game Developer",
-        "Push Square"
+        "Nintendo Life",
+        "Push Square",
+        "VGC"
       ],
       "reprises": 3,
-      "heures": 2.7,
+      "heures": 1.3,
       "chaleur": 15,
       "liens": [
         {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/marketing/zelda-and-grand-theft-auto-headline-the-nominees-for-the-2027-game-awards",
-          "titre": "Zelda and Grand Theft Auto headline the nominees for the 2027 Game Awards"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/spyros-new-adventure-seemingly-teased-for-the-game-awards-2026",
+          "titre": "Spyro's New Adventure Seemingly Teased For The Game Awards 2026"
         },
         {
           "source": "Push Square",
@@ -149,33 +154,57 @@ const VEILLE = {
           "titre": "The Game Awards 2026 Nominees Revealed, GTA 6 Up for 8 Awards"
         },
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/returning-to-gta-san-andreas-grand-theft-auto-5-6",
-          "titre": "Grand Theft Auto: San Andreas is GTA 5 without the finesse - so why is the 2004 classic such a strange delight to return to?"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-game-awards-2026-nominations/",
+          "titre": "GTA 6 is the most nominated game at The Game Awards 2026"
         }
       ]
     },
     {
-      "id": "gta-6-nominated-for-game-of-the-year-before-ps5-reviews-are",
-      "titre": "GTA 6 Nominated for Game of the Year Before PS5 Reviews Are Released",
-      "url": "https://www.pushsquare.com/news/2026/11/gta-6-nominated-for-game-of-the-year-before-ps5-reviews-are-released",
+      "id": "gta-6-requires-new-ps5-firmware-update-to-play",
+      "titre": "GTA 6 Requires New PS5 Firmware Update to Play",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6-requires-new-ps5-firmware-update-to-play",
+      "sources": [
+        "Eurogamer",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 5.2,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-requires-new-ps5-firmware-update-to-play",
+          "titre": "GTA 6 Requires New PS5 Firmware Update to Play"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/ps5-firmware-update-gta-6",
+          "titre": "Sony squeezes out a PlayStation 5 firmware update before the release of GTA 6"
+        }
+      ]
+    },
+    {
+      "id": "guide-gta-6-release-times-when-can-you-start-playing",
+      "titre": "Guide: GTA 6 Release Times: When Can You Start Playing?",
+      "url": "https://www.pushsquare.com/guides/gta-6-release-times-when-can-you-start-playing",
       "sources": [
         "Push Square",
         "VGC"
       ],
       "reprises": 2,
-      "heures": 1.2,
-      "chaleur": 12,
+      "heures": 7.2,
+      "chaleur": 10,
       "liens": [
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/gta-6-nominated-for-game-of-the-year-before-ps5-reviews-are-released",
-          "titre": "GTA 6 Nominated for Game of the Year Before PS5 Reviews Are Released"
+          "url": "https://www.pushsquare.com/guides/gta-6-release-times-when-can-you-start-playing",
+          "titre": "Guide: GTA 6 Release Times: When Can You Start Playing?"
         },
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/gta-6-is-the-most-nominated-game-at-the-game-awards-2026/",
-          "titre": "GTA 6 is the most nominated game at The Game Awards 2026"
+          "url": "https://www.videogameschronicle.com/news/you-can-win-a-free-devolver-digital-game-if-you-delete-gta-6/",
+          "titre": "You can win a free Devolver Digital game – if you delete GTA 6"
         }
       ]
     },
@@ -188,8 +217,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 1.2,
-      "chaleur": 12,
+      "heures": 10.2,
+      "chaleur": 10,
       "liens": [
         {
           "source": "PC Gamer",
@@ -212,8 +241,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 2.9,
-      "chaleur": 11,
+      "heures": 11.9,
+      "chaleur": 9,
       "liens": [
         {
           "source": "VGC",
@@ -228,44 +257,44 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-legend-of-zelda-ocarina-of-time-on-switch-2-is-the-us-be",
-      "titre": "The Legend of Zelda: Ocarina of Time on Switch 2 is the US' best-selling physical game so far this year",
-      "url": "https://www.eurogamer.net/the-legend-of-zelda-ocarina-of-time-remake-physical-sales-us-1-million",
+      "id": "avatar-fighting-game-s-new-update-improves-performance-on-sw",
+      "titre": "Avatar Fighting Game's New Update Improves Performance On Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/11/avatar-fighting-games-new-update-improves-performance-on-switch-2",
       "sources": [
-        "Eurogamer",
         "Nintendo Life"
       ],
-      "reprises": 2,
-      "heures": 7.9,
-      "chaleur": 10,
+      "reprises": 1,
+      "heures": 3.3,
+      "chaleur": 8,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/the-legend-of-zelda-ocarina-of-time-remake-physical-sales-us-1-million",
-          "titre": "The Legend of Zelda: Ocarina of Time on Switch 2 is the US' best-selling physical game so far this year"
-        },
-        {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/zelda-ocarina-of-time-remake-crowned-2026s-best-selling-physical-video-game-in-the-us",
-          "titre": "Zelda: Ocarina Of Time Remake Crowned 2026's \"Best-Selling Physical Video Game In The US\""
+          "url": "https://www.nintendolife.com/news/2026/11/avatar-fighting-games-new-update-improves-performance-on-switch-2",
+          "titre": "Avatar Fighting Game's New Update Improves Performance On Switch 2"
         }
       ]
     },
     {
-      "id": "you-can-win-a-free-devolver-digital-game-if-you-delete-gta-6",
-      "titre": "You can win a free Devolver Digital game – if you delete GTA 6",
-      "url": "https://www.videogameschronicle.com/news/you-can-win-a-free-devolver-digital-game-if-you-delete-gta-6/",
+      "id": "miami-heat-shows-off-its-vice-city-hardwood-ahead-of-the-big",
+      "titre": "Miami Heat shows off its 'Vice City hardwood' ahead of the big Grand Theft Auto 6 basketball game",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/miami-heat-shows-off-its-vice-city-hardwood-ahead-of-the-big-grand-theft-auto-6-basketball-game/",
       "sources": [
-        "VGC"
+        "Game Developer",
+        "PC Gamer"
       ],
-      "reprises": 1,
-      "heures": 0.0,
-      "chaleur": 9,
+      "reprises": 2,
+      "heures": 8.1,
+      "chaleur": 7,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/you-can-win-a-free-devolver-digital-game-if-you-delete-gta-6/",
-          "titre": "You can win a free Devolver Digital game – if you delete GTA 6"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/miami-heat-shows-off-its-vice-city-hardwood-ahead-of-the-big-grand-theft-auto-6-basketball-game/",
+          "titre": "Miami Heat shows off its 'Vice City hardwood' ahead of the big Grand Theft Auto 6 basketball game"
+        },
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/take-two-lays-off-firaxis-employees-on-eve-of-grand-theft-auto-vi-launch",
+          "titre": "Take-Two lays off Firaxis employees on eve of Grand Theft Auto VI launch"
         }
       ]
     },
@@ -277,8 +306,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.8,
-      "chaleur": 9,
+      "heures": 9.8,
+      "chaleur": 7,
       "liens": [
         {
           "source": "VGC",
@@ -296,8 +325,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 0.8,
-      "chaleur": 9,
+      "heures": 9.9,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Game Developer",
@@ -312,6 +341,42 @@ const VEILLE = {
       ]
     },
     {
+      "id": "gta-6-nominated-for-game-of-the-year-before-ps5-reviews-are",
+      "titre": "GTA 6 Nominated for Game of the Year Before PS5 Reviews Are Released",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6-nominated-for-game-of-the-year-before-ps5-reviews-are-released",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 10.2,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-nominated-for-game-of-the-year-before-ps5-reviews-are-released",
+          "titre": "GTA 6 Nominated for Game of the Year Before PS5 Reviews Are Released"
+        }
+      ]
+    },
+    {
+      "id": "darktide-s-new-sister-novitiate-class-gets-a-holy-hand-grena",
+      "titre": "Darktide's new Sister Novitiate class gets a holy hand grenade and a crossbow that can pin enemies to walls",
+      "url": "https://www.pcgamer.com/games/fps/darktides-new-sister-novitiate-class-gets-a-holy-hand-grenade-and-a-crossbow-that-can-pin-enemies-to-walls/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 3.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/darktides-new-sister-novitiate-class-gets-a-holy-hand-grenade-and-a-crossbow-that-can-pin-enemies-to-walls/",
+          "titre": "Darktide's new Sister Novitiate class gets a holy hand grenade and a crossbow that can pin enemies to walls"
+        }
+      ]
+    },
+    {
       "id": "sci-fi-rpg-exodus-gets-even-more-mass-effect-like-with-its-f",
       "titre": "Sci-fi RPG Exodus gets even more Mass Effect-like with its female lead, who they are calling Femjun",
       "url": "https://www.pcgamer.com/games/rpg/sci-fi-rpg-exodus-gets-even-more-mass-effect-like-with-its-female-lead-who-they-are-calling-femjun/",
@@ -320,8 +385,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 3.3,
-      "chaleur": 9,
+      "heures": 12.3,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
@@ -343,73 +408,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 9,
+      "heures": 12.7,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/11/uks-health-service-issues-warning-over-gta-6-urges-players-to-take-care-of-their-hands",
           "titre": "UK's Health Service Issues Warning Over GTA 6, Urges Players to Take Care of Their Hands"
-        }
-      ]
-    },
-    {
-      "id": "xbox-s-project-helix-is-not-a-pc-that-can-also-play-console",
-      "titre": "Xbox's Project Helix \"is not a PC that can also play console games\"",
-      "url": "https://www.gamesindustry.biz/xboxs-project-helix-is-not-a-pc-that-can-also-play-console-games",
-      "sources": [
-        "Game Developer",
-        "GamesIndustry.biz"
-      ],
-      "reprises": 2,
-      "heures": 10.5,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/xboxs-project-helix-is-not-a-pc-that-can-also-play-console-games",
-          "titre": "Xbox's Project Helix \"is not a PC that can also play console games\""
-        },
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/console/new-xbox-codenamed-helix-gets-a-few-new-details",
-          "titre": "Xbox teases Project Helix as 'a console that is also capable of playing games from your PC'"
-        }
-      ]
-    },
-    {
-      "id": "sea-of-stars-is-getting-a-sunset-edition-switch-2-physical-a",
-      "titre": "Sea Of Stars Is Getting A 'Sunset Edition' Switch 2 Physical And A Gorgeous Final Merch Drop",
-      "url": "https://www.nintendolife.com/news/2026/11/sea-of-stars-is-getting-a-sunset-edition-switch-2-physical-and-a-gorgeous-final-merch-drop",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.2,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/sea-of-stars-is-getting-a-sunset-edition-switch-2-physical-and-a-gorgeous-final-merch-drop",
-          "titre": "Sea Of Stars Is Getting A 'Sunset Edition' Switch 2 Physical And A Gorgeous Final Merch Drop"
-        }
-      ]
-    },
-    {
-      "id": "video-long-journey-coming-up-here-are-our-favourite-switch-2",
-      "titre": "Video: Long Journey Coming Up? Here Are Our Favourite Switch 2 Travel Accessories",
-      "url": "https://www.nintendolife.com/news/2026/11/video-long-journey-coming-up-here-are-our-favourite-switch-2-travel-accessories",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/video-long-journey-coming-up-here-are-our-favourite-switch-2-travel-accessories",
-          "titre": "Video: Long Journey Coming Up? Here Are Our Favourite Switch 2 Travel Accessories"
         }
       ]
     },
@@ -421,8 +426,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.2,
-      "chaleur": 7,
+      "heures": 13.2,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
@@ -439,8 +444,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.5,
-      "chaleur": 7,
+      "heures": 13.5,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
@@ -457,8 +462,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.7,
-      "chaleur": 7,
+      "heures": 13.7,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -475,8 +480,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 6.4,
-      "chaleur": 7,
+      "heures": 15.5,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -493,8 +498,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.5,
-      "chaleur": 7,
+      "heures": 15.5,
+      "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
@@ -511,8 +516,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 7.2,
-      "chaleur": 7,
+      "heures": 16.2,
+      "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -529,8 +534,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 7.4,
-      "chaleur": 7,
+      "heures": 16.5,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -547,8 +552,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.6,
-      "chaleur": 7,
+      "heures": 16.6,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
@@ -558,20 +563,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "random-kfc-australia-staging-fake-funeral-to-give-gta-6-fans",
-      "titre": "Random: KFC Australia Staging Fake Funeral to Give GTA 6 Fans a 'Legit' Reason to Skip Work",
-      "url": "https://www.pushsquare.com/news/2026/11/random-kfc-australia-staging-fake-funeral-to-give-gta-6-fans-a-legit-reason-to-skip-work",
+      "id": "the-legend-of-zelda-ocarina-of-time-on-switch-2-is-the-us-be",
+      "titre": "The Legend of Zelda: Ocarina of Time on Switch 2 is the US' best-selling physical game so far this year",
+      "url": "https://www.eurogamer.net/the-legend-of-zelda-ocarina-of-time-remake-physical-sales-us-1-million",
       "sources": [
-        "Push Square"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.2,
-      "chaleur": 7,
+      "heures": 16.9,
+      "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/random-kfc-australia-staging-fake-funeral-to-give-gta-6-fans-a-legit-reason-to-skip-work",
-          "titre": "Random: KFC Australia Staging Fake Funeral to Give GTA 6 Fans a 'Legit' Reason to Skip Work"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/the-legend-of-zelda-ocarina-of-time-remake-physical-sales-us-1-million",
+          "titre": "The Legend of Zelda: Ocarina of Time on Switch 2 is the US' best-selling physical game so far this year"
         }
       ]
     },
@@ -584,8 +589,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 2,
-      "heures": 9.7,
-      "chaleur": 7,
+      "heures": 18.8,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
@@ -607,55 +612,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 7,
+      "heures": 19.2,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/grand-theft-auto-6-meet-the-developers-tackling-it-head-on",
           "titre": "As blockbuster game releases run scared from GTA 6, meet the brave devs tackling Rockstar's behemoth head-on"
-        }
-      ]
-    },
-    {
-      "id": "unity-launches-new-fellowship-program-offering-a-no-recoup-5",
-      "titre": "Unity launches new Fellowship program, offering a \"no recoup\" $50,000 grant to indie developers planning to launch their game in the next 12 months",
-      "url": "https://www.rockpapershotgun.com/unity-launches-new-fellowship-program-offering-a-no-recoup-50000-grant-to-indie-developers-planning-to-launch-their-game-in-the-next-12-months",
-      "sources": [
-        "Game Developer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 10.2,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/unity-launches-new-fellowship-program-offering-a-no-recoup-50000-grant-to-indie-developers-planning-to-launch-their-game-in-the-next-12-months",
-          "titre": "Unity launches new Fellowship program, offering a \"no recoup\" $50,000 grant to indie developers planning to launch their game in the next 12 months"
-        },
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/unity-to-support-indies-with-cash-and-dedicated-support-through-new-fellowship-program",
-          "titre": "Unity's new fellowship program offers cash and dedicated support for indie devs"
-        }
-      ]
-    },
-    {
-      "id": "they-would-never-stop-working-on-this-game-gta-6-s-developm",
-      "titre": "'They would never stop working on this game': GTA 6's development could've gone on for longer just because 'it's really hard to close it down'",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/they-would-never-stop-working-on-this-game-gta-6s-development-couldve-gone-on-for-longer-just-because-its-really-hard-to-close-it-down/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/they-would-never-stop-working-on-this-game-gta-6s-development-couldve-gone-on-for-longer-just-because-its-really-hard-to-close-it-down/",
-          "titre": "'They would never stop working on this game': GTA 6's development could've gone on for longer just because 'it's really hard to close it down'"
         }
       ]
     },
@@ -667,8 +630,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.2,
-      "chaleur": 7,
+      "heures": 20.2,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
@@ -678,200 +641,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "sony-squeezes-out-a-playstation-5-firmware-update-before-the",
-      "titre": "Sony squeezes out a PlayStation 5 firmware update before the release of GTA 6",
-      "url": "https://www.eurogamer.net/ps5-firmware-update-gta-6",
+      "id": "grand-theft-auto-san-andreas-is-gta-5-without-the-finesse-so",
+      "titre": "Grand Theft Auto: San Andreas is GTA 5 without the finesse - so why is the 2004 classic such a strange delight to return to?",
+      "url": "https://www.eurogamer.net/returning-to-gta-san-andreas-grand-theft-auto-5-6",
       "sources": [
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.3,
-      "chaleur": 7,
+      "heures": 21.0,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/ps5-firmware-update-gta-6",
-          "titre": "Sony squeezes out a PlayStation 5 firmware update before the release of GTA 6"
-        }
-      ]
-    },
-    {
-      "id": "the-siren-call-of-user-generated-content-has-caught-dead-by",
-      "titre": "The siren call of user-generated content has caught Dead by Daylight in its snare, as Behaviour Interactive outline a big revamp update slated for next year",
-      "url": "https://www.rockpapershotgun.com/the-siren-call-of-user-generated-content-has-caught-dead-by-daylight-in-its-snare-as-behaviour-interactive-outline-a-big-revamp-update-slated-for-next-year",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 0.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-siren-call-of-user-generated-content-has-caught-dead-by-daylight-in-its-snare-as-behaviour-interactive-outline-a-big-revamp-update-slated-for-next-year",
-          "titre": "The siren call of user-generated content has caught Dead by Daylight in its snare, as Behaviour Interactive outline a big revamp update slated for next year"
-        }
-      ]
-    },
-    {
-      "id": "mondrayn-is-a-putrid-crunchy-pixel-art-rpg-about-escaping-fr",
-      "titre": "Mondrayn is a putrid, crunchy pixel art RPG about escaping from limbo where \"dying doesn't mean the end of your suffering\"",
-      "url": "https://www.rockpapershotgun.com/mondrayn-is-a-putrid-crunchy-pixel-art-rpg-about-escaping-from-limbo-where-dying-doesnt-mean-the-end-of-your-suffering",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/mondrayn-is-a-putrid-crunchy-pixel-art-rpg-about-escaping-from-limbo-where-dying-doesnt-mean-the-end-of-your-suffering",
-          "titre": "Mondrayn is a putrid, crunchy pixel art RPG about escaping from limbo where \"dying doesn't mean the end of your suffering\""
-        }
-      ]
-    },
-    {
-      "id": "walton-goggins-suggests-fallout-season-4-isn-t-guaranteed",
-      "titre": "Walton Goggins suggests Fallout season 4 isn’t guaranteed",
-      "url": "https://www.videogameschronicle.com/news/walton-goggins-suggests-fallout-season-4-isnt-guaranteed/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/walton-goggins-suggests-fallout-season-4-isnt-guaranteed/",
-          "titre": "Walton Goggins suggests Fallout season 4 isn’t guaranteed"
-        }
-      ]
-    },
-    {
-      "id": "archetype-go-all-in-on-the-mass-effect-vibes-with-a-femjun-r",
-      "titre": "Archetype go all in on the Mass Effect vibes with a FemJun reveal, but I'm just left hoping they'll call the alternative option MascJun to balance it out",
-      "url": "https://www.rockpapershotgun.com/archetype-go-all-in-on-the-mass-effect-vibes-with-a-femjun-reveal-but-im-just-left-hoping-theyll-call-the-alternative-option-mascjun-to-balance-it-out",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/archetype-go-all-in-on-the-mass-effect-vibes-with-a-femjun-reveal-but-im-just-left-hoping-theyll-call-the-alternative-option-mascjun-to-balance-it-out",
-          "titre": "Archetype go all in on the Mass Effect vibes with a FemJun reveal, but I'm just left hoping they'll call the alternative option MascJun to balance it out"
-        }
-      ]
-    },
-    {
-      "id": "hardware-review-nacon-revolution-5-unlimited-solid-xbox-styl",
-      "titre": "Hardware Review: Nacon Revolution 5 Unlimited - Solid Xbox-Style PS5 Controller Undercuts Its Competition",
-      "url": "https://www.pushsquare.com/features/hardware-review-nacon-revolution-5-unlimited-solid-xbox-style-ps5-controller-undercuts-its-competition",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 4.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/hardware-review-nacon-revolution-5-unlimited-solid-xbox-style-ps5-controller-undercuts-its-competition",
-          "titre": "Hardware Review: Nacon Revolution 5 Unlimited - Solid Xbox-Style PS5 Controller Undercuts Its Competition"
-        }
-      ]
-    },
-    {
-      "id": "valve-sanctioned-half-life-remake-black-mesa-gets-a-mondo-up",
-      "titre": "Valve-sanctioned Half-Life remake Black Mesa gets a mondo update and a Steam Deck verified badge",
-      "url": "https://www.pcgamer.com/games/fps/valve-sanctioned-half-life-remake-black-mesa-gets-a-mondo-update-and-a-steam-deck-verified-badge/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 4.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fps/valve-sanctioned-half-life-remake-black-mesa-gets-a-mondo-update-and-a-steam-deck-verified-badge/",
-          "titre": "Valve-sanctioned Half-Life remake Black Mesa gets a mondo update and a Steam Deck verified badge"
-        }
-      ]
-    },
-    {
-      "id": "ps5-does-not-have-a-monopoly-on-digital-games-as-2-billion-l",
-      "titre": "PS5 Does Not Have a 'Monopoly' on Digital Games as £2 Billion Lawsuit Falls Through",
-      "url": "https://www.pushsquare.com/news/2026/11/ps5-does-not-have-a-monopoly-on-digital-games-as-p2-billion-lawsuit-falls-through",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 6.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/ps5-does-not-have-a-monopoly-on-digital-games-as-p2-billion-lawsuit-falls-through",
-          "titre": "PS5 Does Not Have a 'Monopoly' on Digital Games as £2 Billion Lawsuit Falls Through"
-        }
-      ]
-    },
-    {
-      "id": "review-tanuki-pon-s-summer-switch-2-cosy-postie-delivers-sic",
-      "titre": "Review: TANUKI: Pon's Summer (Switch 2) - Cosy Postie Delivers Sick BMX Tricks & Minigames",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/tanuki-pons-summer",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 9.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/tanuki-pons-summer",
-          "titre": "Review: TANUKI: Pon's Summer (Switch 2) - Cosy Postie Delivers Sick BMX Tricks & Minigames"
-        }
-      ]
-    },
-    {
-      "id": "essentially-worthless-disgruntled-fans-are-review-bombing-p",
-      "titre": "\"Essentially Worthless\" - Disgruntled Fans Are Review Bombing Pikmin 4 On Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/11/essentially-worthless-disgruntled-fans-are-review-bombing-pikmin-4-on-switch-2",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/essentially-worthless-disgruntled-fans-are-review-bombing-pikmin-4-on-switch-2",
-          "titre": "\"Essentially Worthless\" - Disgruntled Fans Are Review Bombing Pikmin 4 On Switch 2"
-        }
-      ]
-    },
-    {
-      "id": "judge-denies-motion-to-dismiss-lawsuit-accusing-samsung-sk-h",
-      "titre": "Judge denies motion to dismiss lawsuit accusing Samsung, SK Hynix and Micron of worsening RAM crisis by fixing memory prices and supply",
-      "url": "https://www.rockpapershotgun.com/judge-denies-motion-to-dismiss-lawsuit-accusing-samsung-sk-hynix-and-micron-of-worsening-ram-crisis-by-fixing-memory-prices-and-supply",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 11.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/judge-denies-motion-to-dismiss-lawsuit-accusing-samsung-sk-hynix-and-micron-of-worsening-ram-crisis-by-fixing-memory-prices-and-supply",
-          "titre": "Judge denies motion to dismiss lawsuit accusing Samsung, SK Hynix and Micron of worsening RAM crisis by fixing memory prices and supply"
+          "url": "https://www.eurogamer.net/returning-to-gta-san-andreas-grand-theft-auto-5-6",
+          "titre": "Grand Theft Auto: San Andreas is GTA 5 without the finesse - so why is the 2004 classic such a strange delight to return to?"
         }
       ]
     },
@@ -883,7 +666,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.9,
+      "heures": 21.9,
       "chaleur": 6,
       "liens": [
         {
@@ -901,7 +684,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 15.2,
+      "heures": 24.2,
       "chaleur": 6,
       "liens": [
         {
@@ -919,7 +702,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 21.2,
+      "heures": 30.2,
       "chaleur": 6,
       "liens": [
         {
@@ -930,80 +713,326 @@ const VEILLE = {
       ]
     },
     {
-      "id": "shigeru-miyamoto-selected-as-inaugural-legend-award-inductee",
-      "titre": "Shigeru Miyamoto selected as inaugural Legend Award inductee at DICE Awards",
-      "url": "https://www.gamedeveloper.com/console/shigeru-miyamoto-selected-as-inaugural-legend-award-inductee-at-d-i-c-e-awards",
-      "sources": [
-        "Game Developer",
-        "GamesIndustry.biz"
-      ],
-      "reprises": 2,
-      "heures": 25.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/console/shigeru-miyamoto-selected-as-inaugural-legend-award-inductee-at-d-i-c-e-awards",
-          "titre": "Shigeru Miyamoto selected as inaugural Legend Award inductee at DICE Awards"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/shigeru-miyamoto-to-receive-inaugural-legend-award-at-the-30th-dice-awards",
-          "titre": "Shigeru Miyamoto to receive inaugural Legend Award at the 30th DICE Awards"
-        }
-      ]
-    },
-    {
-      "id": "it-s-common-for-there-to-be-speculation-and-headlines-unity",
-      "titre": "'It's common for there to be speculation and headlines:' Unity exec addresses acquisition rumors",
-      "url": "https://www.gamedeveloper.com/business/-it-s-common-for-there-to-be-speculation-and-headlines-unity-exec-addresses-acquisition-rumors",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 28.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/-it-s-common-for-there-to-be-speculation-and-headlines-unity-exec-addresses-acquisition-rumors",
-          "titre": "'It's common for there to be speculation and headlines:' Unity exec addresses acquisition rumors"
-        }
-      ]
-    },
-    {
-      "id": "psa-splatoon-raiders-demo-splashes-onto-the-switch-2-eshop-t",
-      "titre": "PSA: Splatoon Raiders Demo Splashes Onto The Switch 2 eShop Today",
-      "url": "https://www.nintendolife.com/news/2026/11/psa-splatoon-raiders-demo-splashes-onto-the-switch-2-eshop-today",
+      "id": "sea-of-stars-is-getting-a-sunset-edition-switch-2-physical-a",
+      "titre": "Sea Of Stars Is Getting A 'Sunset Edition' Switch 2 Physical And A Gorgeous Final Merch Drop",
+      "url": "https://www.nintendolife.com/news/2026/11/sea-of-stars-is-getting-a-sunset-edition-switch-2-physical-and-a-gorgeous-final-merch-drop",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.1,
+      "heures": 12.2,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/psa-splatoon-raiders-demo-splashes-onto-the-switch-2-eshop-today",
-          "titre": "PSA: Splatoon Raiders Demo Splashes Onto The Switch 2 eShop Today"
+          "url": "https://www.nintendolife.com/news/2026/11/sea-of-stars-is-getting-a-sunset-edition-switch-2-physical-and-a-gorgeous-final-merch-drop",
+          "titre": "Sea Of Stars Is Getting A 'Sunset Edition' Switch 2 Physical And A Gorgeous Final Merch Drop"
         }
       ]
     },
     {
-      "id": "gamers-don-t-hate-ads-they-hate-bad-ads-why-ea-and-xbox-are",
-      "titre": "\"Gamers don't hate ads; they hate bad ads\" – Why EA and Xbox are putting adverts in their games",
-      "url": "https://www.gamesindustry.biz/gamers-dont-hate-ads-they-hate-bad-ads-why-ea-and-xbox-are-putting-adverts-in-their-games",
+      "id": "video-long-journey-coming-up-here-are-our-favourite-switch-2",
+      "titre": "Video: Long Journey Coming Up? Here Are Our Favourite Switch 2 Travel Accessories",
+      "url": "https://www.nintendolife.com/news/2026/11/video-long-journey-coming-up-here-are-our-favourite-switch-2-travel-accessories",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 12.7,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/video-long-journey-coming-up-here-are-our-favourite-switch-2-travel-accessories",
+          "titre": "Video: Long Journey Coming Up? Here Are Our Favourite Switch 2 Travel Accessories"
+        }
+      ]
+    },
+    {
+      "id": "hardware-review-nacon-revolution-5-unlimited-solid-xbox-styl",
+      "titre": "Hardware Review: Nacon Revolution 5 Unlimited - Solid Xbox-Style PS5 Controller Undercuts Its Competition",
+      "url": "https://www.pushsquare.com/features/hardware-review-nacon-revolution-5-unlimited-solid-xbox-style-ps5-controller-undercuts-its-competition",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 13.2,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/hardware-review-nacon-revolution-5-unlimited-solid-xbox-style-ps5-controller-undercuts-its-competition",
+          "titre": "Hardware Review: Nacon Revolution 5 Unlimited - Solid Xbox-Style PS5 Controller Undercuts Its Competition"
+        }
+      ]
+    },
+    {
+      "id": "valve-sanctioned-half-life-remake-black-mesa-gets-a-mondo-up",
+      "titre": "Valve-sanctioned Half-Life remake Black Mesa gets a mondo update and a Steam Deck verified badge",
+      "url": "https://www.pcgamer.com/games/fps/valve-sanctioned-half-life-remake-black-mesa-gets-a-mondo-update-and-a-steam-deck-verified-badge/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 13.4,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/valve-sanctioned-half-life-remake-black-mesa-gets-a-mondo-update-and-a-steam-deck-verified-badge/",
+          "titre": "Valve-sanctioned Half-Life remake Black Mesa gets a mondo update and a Steam Deck verified badge"
+        }
+      ]
+    },
+    {
+      "id": "ps5-does-not-have-a-monopoly-on-digital-games-as-2-billion-l",
+      "titre": "PS5 Does Not Have a 'Monopoly' on Digital Games as £2 Billion Lawsuit Falls Through",
+      "url": "https://www.pushsquare.com/news/2026/11/ps5-does-not-have-a-monopoly-on-digital-games-as-p2-billion-lawsuit-falls-through",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 15.5,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/ps5-does-not-have-a-monopoly-on-digital-games-as-p2-billion-lawsuit-falls-through",
+          "titre": "PS5 Does Not Have a 'Monopoly' on Digital Games as £2 Billion Lawsuit Falls Through"
+        }
+      ]
+    },
+    {
+      "id": "review-tanuki-pon-s-summer-switch-2-cosy-postie-delivers-sic",
+      "titre": "Review: TANUKI: Pon's Summer (Switch 2) - Cosy Postie Delivers Sick BMX Tricks & Minigames",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/tanuki-pons-summer",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 18.2,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/tanuki-pons-summer",
+          "titre": "Review: TANUKI: Pon's Summer (Switch 2) - Cosy Postie Delivers Sick BMX Tricks & Minigames"
+        }
+      ]
+    },
+    {
+      "id": "xbox-s-project-helix-is-not-a-pc-that-can-also-play-console",
+      "titre": "Xbox's Project Helix \"is not a PC that can also play console games\"",
+      "url": "https://www.gamesindustry.biz/xboxs-project-helix-is-not-a-pc-that-can-also-play-console-games",
       "sources": [
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 32.7,
+      "heures": 19.5,
       "chaleur": 5,
       "liens": [
         {
           "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/gamers-dont-hate-ads-they-hate-bad-ads-why-ea-and-xbox-are-putting-adverts-in-their-games",
-          "titre": "\"Gamers don't hate ads; they hate bad ads\" – Why EA and Xbox are putting adverts in their games"
+          "url": "https://www.gamesindustry.biz/xboxs-project-helix-is-not-a-pc-that-can-also-play-console-games",
+          "titre": "Xbox's Project Helix \"is not a PC that can also play console games\""
+        }
+      ]
+    },
+    {
+      "id": "judge-denies-motion-to-dismiss-lawsuit-accusing-samsung-sk-h",
+      "titre": "Judge denies motion to dismiss lawsuit accusing Samsung, SK Hynix and Micron of worsening RAM crisis by fixing memory prices and supply",
+      "url": "https://www.rockpapershotgun.com/judge-denies-motion-to-dismiss-lawsuit-accusing-samsung-sk-hynix-and-micron-of-worsening-ram-crisis-by-fixing-memory-prices-and-supply",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 20.8,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/judge-denies-motion-to-dismiss-lawsuit-accusing-samsung-sk-hynix-and-micron-of-worsening-ram-crisis-by-fixing-memory-prices-and-supply",
+          "titre": "Judge denies motion to dismiss lawsuit accusing Samsung, SK Hynix and Micron of worsening RAM crisis by fixing memory prices and supply"
+        }
+      ]
+    },
+    {
+      "id": "pok-mon-champions-is-getting-a-balance-patch-next-month",
+      "titre": "Pokémon Champions Is Getting A Balance Patch Next Month",
+      "url": "https://www.nintendolife.com/news/2026/11/pokemon-champions-is-getting-a-balance-patch-next-month",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/pokemon-champions-is-getting-a-balance-patch-next-month",
+          "titre": "Pokémon Champions Is Getting A Balance Patch Next Month"
+        }
+      ]
+    },
+    {
+      "id": "sonic-racing-crossworlds-free-mclaren-racing-update-adds-new",
+      "titre": "Sonic Racing: CrossWorlds Free McLaren Racing Update Adds New Sonic Skin And Machine",
+      "url": "https://www.nintendolife.com/news/2026/11/sonic-racing-crossworlds-free-mclaren-racing-update-adds-new-sonic-skin-and-machine",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 6.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/sonic-racing-crossworlds-free-mclaren-racing-update-adds-new-sonic-skin-and-machine",
+          "titre": "Sonic Racing: CrossWorlds Free McLaren Racing Update Adds New Sonic Skin And Machine"
+        }
+      ]
+    },
+    {
+      "id": "splatoon-3-version-12-0-0-update-out-now-here-are-the-full-p",
+      "titre": "Splatoon 3 Version 12.0.0 Update Out Now, Here Are The Full Patch Notes",
+      "url": "https://www.nintendolife.com/news/2026/11/splatoon-3-version-12-0-0-update-out-now-here-are-the-full-patch-notes",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 7.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/splatoon-3-version-12-0-0-update-out-now-here-are-the-full-patch-notes",
+          "titre": "Splatoon 3 Version 12.0.0 Update Out Now, Here Are The Full Patch Notes"
+        }
+      ]
+    },
+    {
+      "id": "slow-down-a-bit-and-help-a-cow-find-a-friend-in-the-lush-loo",
+      "titre": "Slow down a bit and help a cow find a friend in the lush-looking, hand-drawn, milk deliver-em-up Milki Delivery, which is out now",
+      "url": "https://www.rockpapershotgun.com/slow-down-a-bit-and-help-a-cow-find-a-friend-in-the-lush-looking-hand-drawn-milk-deliver-em-up-milki-delivery-which-is-out-now",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 8.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/slow-down-a-bit-and-help-a-cow-find-a-friend-in-the-lush-looking-hand-drawn-milk-deliver-em-up-milki-delivery-which-is-out-now",
+          "titre": "Slow down a bit and help a cow find a friend in the lush-looking, hand-drawn, milk deliver-em-up Milki Delivery, which is out now"
+        }
+      ]
+    },
+    {
+      "id": "caves-of-qud-s-first-dlc-is-forcing-its-devs-to-ask-importan",
+      "titre": "Caves of Qud's first DLC is forcing its devs to ask important questions: 'How does a crab get high?'",
+      "url": "https://www.pcgamer.com/games/roguelike/caves-of-quds-first-dlc-is-forcing-its-devs-to-ask-important-questions-how-does-a-crab-get-high/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 8.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/roguelike/caves-of-quds-first-dlc-is-forcing-its-devs-to-ask-important-questions-how-does-a-crab-get-high/",
+          "titre": "Caves of Qud's first DLC is forcing its devs to ask important questions: 'How does a crab get high?'"
+        }
+      ]
+    },
+    {
+      "id": "jensen-huang-isn-t-coming-back-says-nvidia-board",
+      "titre": "Jensen Huang isn't coming back, says Nvidia board",
+      "url": "https://www.pcgamer.com/software/ai/jensen-huang-isnt-coming-back-says-nvidia-board/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 8.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/jensen-huang-isnt-coming-back-says-nvidia-board/",
+          "titre": "Jensen Huang isn't coming back, says Nvidia board"
+        }
+      ]
+    },
+    {
+      "id": "the-siren-call-of-user-generated-content-has-caught-dead-by",
+      "titre": "The siren call of user-generated content has caught Dead by Daylight in its snare, as Behaviour Interactive outline a big revamp update slated for next year",
+      "url": "https://www.rockpapershotgun.com/the-siren-call-of-user-generated-content-has-caught-dead-by-daylight-in-its-snare-as-behaviour-interactive-outline-a-big-revamp-update-slated-for-next-year",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 9.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-siren-call-of-user-generated-content-has-caught-dead-by-daylight-in-its-snare-as-behaviour-interactive-outline-a-big-revamp-update-slated-for-next-year",
+          "titre": "The siren call of user-generated content has caught Dead by Daylight in its snare, as Behaviour Interactive outline a big revamp update slated for next year"
+        }
+      ]
+    },
+    {
+      "id": "mondrayn-is-a-putrid-crunchy-pixel-art-rpg-about-escaping-fr",
+      "titre": "Mondrayn is a putrid, crunchy pixel art RPG about escaping from limbo where \"dying doesn't mean the end of your suffering\"",
+      "url": "https://www.rockpapershotgun.com/mondrayn-is-a-putrid-crunchy-pixel-art-rpg-about-escaping-from-limbo-where-dying-doesnt-mean-the-end-of-your-suffering",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 11.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/mondrayn-is-a-putrid-crunchy-pixel-art-rpg-about-escaping-from-limbo-where-dying-doesnt-mean-the-end-of-your-suffering",
+          "titre": "Mondrayn is a putrid, crunchy pixel art RPG about escaping from limbo where \"dying doesn't mean the end of your suffering\""
+        }
+      ]
+    },
+    {
+      "id": "walton-goggins-suggests-fallout-season-4-isn-t-guaranteed",
+      "titre": "Walton Goggins suggests Fallout season 4 isn’t guaranteed",
+      "url": "https://www.videogameschronicle.com/news/walton-goggins-suggests-fallout-season-4-isnt-guaranteed/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 11.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/walton-goggins-suggests-fallout-season-4-isnt-guaranteed/",
+          "titre": "Walton Goggins suggests Fallout season 4 isn’t guaranteed"
+        }
+      ]
+    },
+    {
+      "id": "archetype-go-all-in-on-the-mass-effect-vibes-with-a-femjun-r",
+      "titre": "Archetype go all in on the Mass Effect vibes with a FemJun reveal, but I'm just left hoping they'll call the alternative option MascJun to balance it out",
+      "url": "https://www.rockpapershotgun.com/archetype-go-all-in-on-the-mass-effect-vibes-with-a-femjun-reveal-but-im-just-left-hoping-theyll-call-the-alternative-option-mascjun-to-balance-it-out",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 12.7,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/archetype-go-all-in-on-the-mass-effect-vibes-with-a-femjun-reveal-but-im-just-left-hoping-theyll-call-the-alternative-option-mascjun-to-balance-it-out",
+          "titre": "Archetype go all in on the Mass Effect vibes with a FemJun reveal, but I'm just left hoping they'll call the alternative option MascJun to balance it out"
         }
       ]
     },
@@ -1015,8 +1044,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.2,
-      "chaleur": 4,
+      "heures": 13.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -1033,8 +1062,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.6,
-      "chaleur": 4,
+      "heures": 13.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -1051,31 +1080,13 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 4.7,
-      "chaleur": 4,
+      "heures": 13.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/audio/grammy-nominations-for-video-games-announced-unbeatable-developers-lament-the-preference-against-vocal-songs",
           "titre": "This year's video game Grammy nominations reveal Academy's potential favor against songs with vocals"
-        }
-      ]
-    },
-    {
-      "id": "jensen-huang-says-he-would-come-back-as-nvidia-s-ceo-if-amer",
-      "titre": "Jensen Huang says he would come back as Nvidia's CEO if America needs him – a technique I now intend to use at my next job interview",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/jensen-huang-would-come-back-as-nvidias-ceo-if-america-needs-him-a-technique-i-now-intend-to-use-at-my-next-job-interview/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 5.2,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/jensen-huang-would-come-back-as-nvidias-ceo-if-america-needs-him-a-technique-i-now-intend-to-use-at-my-next-job-interview/",
-          "titre": "Jensen Huang says he would come back as Nvidia's CEO if America needs him – a technique I now intend to use at my next job interview"
         }
       ]
     },
@@ -1087,8 +1098,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.7,
-      "chaleur": 4,
+      "heures": 14.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -1105,8 +1116,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.7,
-      "chaleur": 4,
+      "heures": 14.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1123,8 +1134,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 5.8,
-      "chaleur": 4,
+      "heures": 14.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -1141,8 +1152,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.2,
-      "chaleur": 4,
+      "heures": 15.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1159,8 +1170,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.4,
-      "chaleur": 4,
+      "heures": 15.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1177,8 +1188,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 6.7,
-      "chaleur": 4,
+      "heures": 15.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1195,8 +1206,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.7,
-      "chaleur": 4,
+      "heures": 15.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1204,30 +1215,10 @@ const VEILLE = {
           "titre": "'We Don't Take Your Support for Granted': MLB The Show 27 Revealed for PS5 After Tough Year"
         }
       ]
-    },
-    {
-      "id": "tcl-csot-s-new-oled-panels-might-not-only-be-cheaper-but-als",
-      "titre": "TCL CSOT's new OLED panels might not only be cheaper, but also have high refresh rates and hassle-free pixel burn-in compensation",
-      "url": "https://www.pcgamer.com/hardware/gaming-monitors/tcl-csots-new-oled-panels-might-not-only-be-cheaper-but-also-have-high-refresh-rates-and-hassle-free-pixel-burn-in-compensation/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 6.8,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/gaming-monitors/tcl-csots-new-oled-panels-might-not-only-be-cheaper-but-also-have-high-refresh-rates-and-hassle-free-pixel-burn-in-compensation/",
-          "titre": "TCL CSOT's new OLED panels might not only be cheaper, but also have high refresh rates and hassle-free pixel burn-in compensation"
-        }
-      ]
     }
   ],
   "alertes": [
-    "Layoffs Hit XCOM Dev as It Struggles with Production of Third Entry",
-    "The Game Awards 2026 nominees announced, and GTA 6 leads with eight nods before it's even out",
-    "Sony defeat $2.6 billion UK class action lawsuit which argued PlayStation's dominant market position fuels \"excessive and unfair\" game prices",
-    "Zelda and Grand Theft Auto headline the nominees for the 2027 Game Awards"
+    "Newzoo analyst expects Grand Theft Auto to turn around a rough year for console gaming: 'without GTA 6 the console market would likely be down year-over-year in 2026'",
+    "Spyro's New Adventure Seemingly Teased For The Game Awards 2026"
   ]
 };
