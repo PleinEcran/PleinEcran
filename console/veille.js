@@ -1,174 +1,156 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "18/11/2026 à 17h10",
+  "collecte": "19/11/2026 à 00h15",
   "seuil": 14,
   "sujets": [
     {
-      "id": "layoffs-hit-xcom-dev-as-it-struggles-with-production-of-thir",
-      "titre": "Layoffs Hit XCOM Dev as It Struggles with Production of Third Entry",
-      "url": "https://www.pushsquare.com/news/2026/11/layoffs-hit-xcom-dev-as-it-struggles-with-production-of-third-entry",
+      "id": "can-you-replay-missions-in-gta-6",
+      "titre": "Can you replay missions in GTA 6?",
+      "url": "https://www.videogameschronicle.com/guide/can-you-replay-missions-in-gta-6/",
       "sources": [
         "Eurogamer",
-        "Game Developer",
-        "GamesIndustry.biz",
-        "Nintendo Life",
-        "Push Square",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 6,
-      "heures": 20.7,
-      "chaleur": 26,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/layoffs-hit-xcom-dev-as-it-struggles-with-production-of-third-entry",
-          "titre": "Layoffs Hit XCOM Dev as It Struggles with Production of Third Entry"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/firaxis-layoffs-civilization-xcom-heather-hazen",
-          "titre": "Firaxis reportedly cuts a third of its staff as studio head departs and new XCOM struggles"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/report-civilization-dev-firaxis-lays-off-a-third-of-its-staff-following-development-difficulties-with-xcom-sequel",
-          "titre": "Report: Civilization dev Firaxis lays off a third of its staff"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/civilization-developer-firaxis-games-cuts-a-third-of-its-staff-studio-head-departs",
-          "titre": "Civilization Developer Firaxis Games Cuts A Third Of Its Staff, Studio Head Departs"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/only-two-days-out-from-gta-6-its-publisher-take-two-lay-off-staff-at-xcom-and-civilization-developer-firaxis",
-          "titre": "Only two days out from GTA 6, its publisher Take-Two lay off staff at XCOM and Civilization developer Firaxis"
-        },
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/take-two-lays-off-firaxis-employees-on-eve-of-grand-theft-auto-vi-launch",
-          "titre": "Take-Two lays off Firaxis employees on eve of Grand Theft Auto VI launch"
-        }
-      ]
-    },
-    {
-      "id": "grand-theft-auto-6-critical-consensus",
-      "titre": "Grand Theft Auto 6 | Critical Consensus",
-      "url": "https://www.gamesindustry.biz/grand-theft-auto-6-critical-consensus",
-      "sources": [
-        "Eurogamer",
-        "Game Developer",
-        "GamesIndustry.biz",
-        "PC Gamer"
-      ],
-      "reprises": 4,
-      "heures": 2.5,
-      "chaleur": 17,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/grand-theft-auto-6-critical-consensus",
-          "titre": "Grand Theft Auto 6 | Critical Consensus"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-review-roundup-rockstars-magnum-opus-a-great-love-story-and-a-new-bar-for-open-worlds/",
-          "titre": "Grand Theft Auto 6 review roundup: Rockstar's 'magnum opus', a great love story, and a new bar for open worlds"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/grand-theft-auto-6-review",
-          "titre": "Grand Theft Auto 6 review"
-        },
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/marketing/zelda-and-grand-theft-auto-headline-the-nominees-for-the-2027-game-awards",
-          "titre": "Zelda and Grand Theft Auto headline the nominees for the 2027 Game Awards"
-        }
-      ]
-    },
-    {
-      "id": "nba-players-receive-this-special-gta-6-ps5-pro-console-and-w",
-      "titre": "NBA Players Receive This Special GTA 6 PS5 Pro Console, and We're Not Jealous at All",
-      "url": "https://www.pushsquare.com/news/2026/11/nba-players-receive-this-special-gta-6-ps5-pro-console-and-were-not-jealous-at-all",
-      "sources": [
-        "GamesIndustry.biz",
+        "PC Gamer",
         "Push Square",
         "VGC"
       ],
+      "reprises": 4,
+      "heures": 0.4,
+      "chaleur": 18,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/can-you-replay-missions-in-gta-6/",
+          "titre": "Can you replay missions in GTA 6?"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/guides/gta-6-guide",
+          "titre": "Guide: GTA 6 Guide: All Guides & Collectibles"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-snap-gun/",
+          "titre": "How to get a snap gun in GTA 6"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-multiple-save-files-replay-missions",
+          "titre": "You cannot replay missions in GTA 6, but you can use multiple save files, as Rockstar explains how it made missions \"harder to fail\""
+        }
+      ]
+    },
+    {
+      "id": "rockstar-says-a-ps5-pro-is-simply-not-powerful-enough-for-60",
+      "titre": "Rockstar says a PS5 Pro is simply 'not powerful enough' for 60 fps GTA 6, as I crack a smile at my 5090",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-says-a-ps5-pro-is-simply-not-powerful-enough-for-60-fps-gta-6-as-i-crack-a-smile-at-my-5090/",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer",
+        "Push Square"
+      ],
       "reprises": 3,
-      "heures": 0.2,
+      "heures": 2.4,
       "chaleur": 15,
       "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-says-a-ps5-pro-is-simply-not-powerful-enough-for-60-fps-gta-6-as-i-crack-a-smile-at-my-5090/",
+          "titre": "Rockstar says a PS5 Pro is simply 'not powerful enough' for 60 fps GTA 6, as I crack a smile at my 5090"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/ps5-pro-not-powerful-enough-gta-6-60fps",
+          "titre": "Even the PS5 Pro is \"not powerful enough\" to run GTA 6 at 60FPS or 40FPS, Rockstar says"
+        },
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/11/nba-players-receive-this-special-gta-6-ps5-pro-console-and-were-not-jealous-at-all",
           "titre": "NBA Players Receive This Special GTA 6 PS5 Pro Console, and We're Not Jealous at All"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/rockstar-says-ps5-pro-cant-handle-gta-6-at-60-fps/",
-          "titre": "Rockstar says PS5 Pro can’t handle GTA 6 at 60 FPS"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/xboxs-project-helix-is-not-a-pc-that-can-also-play-console-games",
-          "titre": "Xbox's Project Helix \"is not a PC that can also play console games\""
         }
       ]
     },
     {
-      "id": "just-how-detailed-is-the-audio-in-gta-6-well-even-convenienc",
-      "titre": "Just how detailed is the audio in GTA 6? Well, even convenience store refrigerators \"all have their own unique sounds\", says Rockstar dev",
-      "url": "https://www.eurogamer.net/gta-6-detailed-fridge-noise",
+      "id": "gta-6-obliterates-all-time-streaming-record-before-it-s-even",
+      "titre": "GTA 6 Obliterates All-Time Streaming Record Before It's Even Fully Released",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6-obliterates-all-time-streaming-record-before-its-even-fully-released",
       "sources": [
         "Eurogamer",
-        "PC Gamer",
-        "VGC"
+        "GamesIndustry.biz",
+        "Push Square"
       ],
       "reprises": 3,
-      "heures": 2.0,
+      "heures": 5.3,
       "chaleur": 15,
       "liens": [
         {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-obliterates-all-time-streaming-record-before-its-even-fully-released",
+          "titre": "GTA 6 Obliterates All-Time Streaming Record Before It's Even Fully Released"
+        },
+        {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-detailed-fridge-noise",
-          "titre": "Just how detailed is the audio in GTA 6? Well, even convenience store refrigerators \"all have their own unique sounds\", says Rockstar dev"
+          "url": "https://www.eurogamer.net/grand-theft-auto-6-streaming-record-broken",
+          "titre": "GTA 6 breaks the all-time livestream viewer record hours before it's available to play for most of the world"
         },
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/how-to-change-clothes-in-gta-6/",
-          "titre": "How to change clothes in GTA 6"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-cheats-list/",
-          "titre": "All GTA 6 cheats and how to unlock them"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/gta-6-arrives-to-record-review-scores-and-streaming-audiences",
+          "titre": "GTA 6 arrives to record review scores and streaming audiences"
         }
       ]
     },
     {
-      "id": "clair-obscur-expedition-33-writer-has-parted-ways-with-sandf",
-      "titre": "Clair Obscur: Expedition 33 writer has ‘parted ways’ with Sandfall",
-      "url": "https://www.videogameschronicle.com/news/clair-obscur-expedition-33-writer-has-parted-ways-with-sandfall/",
+      "id": "round-up-gta-6-is-not-just-the-most-acclaimed-game-of-2026-i",
+      "titre": "Round Up: GTA 6 Is Not Just the Most Acclaimed Game of 2026, It's the Highest-Rated Game of All Time",
+      "url": "https://www.pushsquare.com/features/round-up-gta-6-is-not-just-the-most-acclaimed-game-of-2026-its-the-highest-rated-game-of-all-time",
       "sources": [
         "Eurogamer",
-        "Push Square",
-        "VGC"
+        "Nintendo Life",
+        "Push Square"
       ],
       "reprises": 3,
-      "heures": 0.3,
+      "heures": 6.3,
+      "chaleur": 13,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/round-up-gta-6-is-not-just-the-most-acclaimed-game-of-2026-its-the-highest-rated-game-of-all-time",
+          "titre": "Round Up: GTA 6 Is Not Just the Most Acclaimed Game of 2026, It's the Highest-Rated Game of All Time"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/fired-rockstar-employees-named-gta-6-credits-tribunal",
+          "titre": "Most, though not quite all, of the 34 fired Rockstar employees are named in the GTA 6 credits"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/gta-6-ties-with-zelda-ocarina-of-time-as-the-highest-rated-game-ever",
+          "titre": "GTA 6 Ties With Zelda: Ocarina Of Time As The Highest-Rated Game Ever"
+        }
+      ]
+    },
+    {
+      "id": "clair-obscur-expedition-33-lead-writer-left-sandfall-interac",
+      "titre": "Clair Obscur: Expedition 33 lead writer left Sandfall Interactive last summer: 'We've parted ways'",
+      "url": "https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33-lead-writer-left-sandfall-interactive-last-summer-weve-parted-ways/",
+      "sources": [
+        "Eurogamer",
+        "Game Developer",
+        "PC Gamer"
+      ],
+      "reprises": 3,
+      "heures": 1.8,
       "chaleur": 12,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/clair-obscur-expedition-33-writer-has-parted-ways-with-sandfall/",
-          "titre": "Clair Obscur: Expedition 33 writer has ‘parted ways’ with Sandfall"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33-lead-writer-left-sandfall-interactive-last-summer-weve-parted-ways/",
+          "titre": "Clair Obscur: Expedition 33 lead writer left Sandfall Interactive last summer: 'We've parted ways'"
         },
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/clair-obscur-studio-has-lost-one-of-its-most-important-developers",
-          "titre": "Clair Obscur Studio Has Lost One of Its Most Important Developers"
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/design/clair-obscur-expedition-33-s-narrative-lead-wants-to-change-game-funding",
+          "titre": "Clair Obscur: Expedition 33's narrative lead wants to change game funding"
         },
         {
           "source": "Eurogamer",
@@ -178,50 +160,50 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-6-base-ps5-performance-suffers-minor-and-sustained-frame",
-      "titre": "GTA 6 Base PS5 Performance Suffers 'Minor' and 'Sustained' Frame Rate Drops, But It's 'Unwavering' on PS5 Pro",
-      "url": "https://www.pushsquare.com/news/2026/11/gta-6-base-ps5-performance-suffers-minor-and-sustained-frame-rate-drops-but-its-unwavering-on-ps5-pro",
+      "id": "gta-6-changes-the-way-you-steal-cars-here-s-everything-you-n",
+      "titre": "GTA 6 changes the way you steal cars: here's everything you need to know about slim jims, key cloners, and tracking devices",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-how-to-steal-cars/",
       "sources": [
-        "Push Square",
-        "VGC"
+        "Nintendo Life",
+        "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 1.2,
-      "chaleur": 12,
+      "heures": 4.9,
+      "chaleur": 10,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/gta-6-base-ps5-performance-suffers-minor-and-sustained-frame-rate-drops-but-its-unwavering-on-ps5-pro",
-          "titre": "GTA 6 Base PS5 Performance Suffers 'Minor' and 'Sustained' Frame Rate Drops, But It's 'Unwavering' on PS5 Pro"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-how-to-steal-cars/",
+          "titre": "GTA 6 changes the way you steal cars: here's everything you need to know about slim jims, key cloners, and tracking devices"
         },
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/gta-6-xbox-series-s-performance-analysis-admires-the-effort-but-says-significant-frame-drops-are-a-problem/",
-          "titre": "GTA 6 Xbox Series S performance analysis admires the effort but says ‘significant frame drops’ are a problem"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/video-need-a-break-between-gta-reviews-watch-us-rave-about-zeldas-switch-2-changes",
+          "titre": "Video: Need A Break Between GTA Reviews? Watch Us Rave About Zelda's Switch 2 Changes"
         }
       ]
     },
     {
-      "id": "gta-6-ps5-trophies-revealed-100-completion-needed-for-the-pl",
-      "titre": "GTA 6 PS5 Trophies Revealed, 100% Completion Needed for the Platinum",
-      "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum",
+      "id": "what-s-the-first-thing-you-re-gonna-do-in-gta-6",
+      "titre": "What's the first thing you're gonna do in GTA 6?",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/whats-the-first-thing-youre-gonna-do-in-gta-6/",
       "sources": [
-        "PC Gamer",
-        "Push Square"
+        "Eurogamer",
+        "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 2.2,
-      "chaleur": 12,
+      "heures": 5.8,
+      "chaleur": 10,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum",
-          "titre": "GTA 6 PS5 Trophies Revealed, 100% Completion Needed for the Platinum"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/whats-the-first-thing-youre-gonna-do-in-gta-6/",
+          "titre": "What's the first thing you're gonna do in GTA 6?"
         },
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-achievements-list/",
-          "titre": "GTA 6 achievement list: Every unlawful challenge standing between you and 100% completion"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-ultimate-edition-unlock-details-temporary-content",
+          "titre": "PSA: Some GTA 6 Ultimate Edition content is only available for the first chapter, and you'll have to put in hard graft to unlock more"
         }
       ]
     },
@@ -234,8 +216,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 2.2,
-      "chaleur": 12,
+      "heures": 9.3,
+      "chaleur": 10,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -250,110 +232,320 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-6-breaks-the-all-time-livestream-viewer-record-hours-bef",
-      "titre": "GTA 6 breaks the all-time livestream viewer record hours before it's available to play for most of the world",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-streaming-record-broken",
+      "id": "feature-gta-6-launch-hub-share-your-first-impressions-of-roc",
+      "titre": "Feature: GTA 6 Launch Hub - Share Your First Impressions of Rockstar's PS5 Masterpiece",
+      "url": "https://www.pushsquare.com/features/gta-6-launch-hub-share-your-first-impressions-of-rockstars-ps5-masterpiece",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/gta-6-launch-hub-share-your-first-impressions-of-rockstars-ps5-masterpiece",
+          "titre": "Feature: GTA 6 Launch Hub - Share Your First Impressions of Rockstar's PS5 Masterpiece"
+        }
+      ]
+    },
+    {
+      "id": "psn-down-sporadically-for-some-as-gta-6-launches-around-the",
+      "titre": "PSN Down Sporadically for Some as GTA 6 Launches Around the World",
+      "url": "https://www.pushsquare.com/news/2026/11/psn-down-sporadically-for-some-as-gta-6-launches-around-the-world",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.8,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/psn-down-sporadically-for-some-as-gta-6-launches-around-the-world",
+          "titre": "PSN Down Sporadically for Some as GTA 6 Launches Around the World"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-where-to-find-your-first-plane-and-helicopter-right-aw",
+      "titre": "GTA 6: Where to find your first plane and helicopter right away",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-first-plane-and-helicopter/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-first-plane-and-helicopter/",
+          "titre": "GTA 6: Where to find your first plane and helicopter right away"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-discharge-time-mission-walkthrough",
+      "titre": "GTA 6 Discharge Time Mission Walkthrough",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-discharge-time-mission-walkthrough/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-discharge-time-mission-walkthrough/",
+          "titre": "GTA 6 Discharge Time Mission Walkthrough"
+        }
+      ]
+    },
+    {
+      "id": "devolver-s-not-just-launching-a-game-on-the-same-day-as-gta",
+      "titre": "Devolver's not just launching a game on the same day as GTA 6, it's using a shot-by-shot remake of the GTA 6 launch trailer too",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/devolvers-not-just-launching-a-game-on-the-same-day-as-gta-6-its-using-a-shot-by-shot-remake-of-the-gta-6-launch-trailer-too/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.1,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/devolvers-not-just-launching-a-game-on-the-same-day-as-gta-6-its-using-a-shot-by-shot-remake-of-the-gta-6-launch-trailer-too/",
+          "titre": "Devolver's not just launching a game on the same day as GTA 6, it's using a shot-by-shot remake of the GTA 6 launch trailer too"
+        }
+      ]
+    },
+    {
+      "id": "guide-gta-6-how-to-get-ultimate-editon-items-pre-order-bonus",
+      "titre": "Guide: GTA 6: How to Get Ultimate Editon Items & Pre-Order Bonuses",
+      "url": "https://www.pushsquare.com/guides/gta-6-how-to-get-ultimate-editon-items-and-pre-order-bonuses",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 2.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/guides/gta-6-how-to-get-ultimate-editon-items-and-pre-order-bonuses",
+          "titre": "Guide: GTA 6: How to Get Ultimate Editon Items & Pre-Order Bonuses"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-airport-location-here-s-where-to-earn-your-wings-less",
+      "titre": "GTA 6 airport location: Here's where to earn your wings less than legally",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-airport-location/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-airport-location/",
+          "titre": "GTA 6 airport location: Here's where to earn your wings less than legally"
+        }
+      ]
+    },
+    {
+      "id": "befuddled-japanese-player-fights-gta-6-controls-loses-become",
+      "titre": "Befuddled Japanese player fights GTA 6 controls, loses, becomes 'guy chugging two shakes I accidentally bought while walking around in a squat'",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/befuddled-japanese-player-fights-gta-6-controls-loses-becomes-guy-chugging-two-shakes-i-accidentally-bought-while-walking-around-in-a-squat/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/befuddled-japanese-player-fights-gta-6-controls-loses-becomes-guy-chugging-two-shakes-i-accidentally-bought-while-walking-around-in-a-squat/",
+          "titre": "Befuddled Japanese player fights GTA 6 controls, loses, becomes 'guy chugging two shakes I accidentally bought while walking around in a squat'"
+        }
+      ]
+    },
+    {
+      "id": "republican-congressman-says-you-re-a-bad-parent-if-you-let-y",
+      "titre": "Republican Congressman says you’re a ‘bad parent’ if you let your child play GTA 6",
+      "url": "https://www.videogameschronicle.com/news/republican-congressman-says-youre-a-bad-parent-if-you-let-your-child-play-gta-6/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 3.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/republican-congressman-says-youre-a-bad-parent-if-you-let-your-child-play-gta-6/",
+          "titre": "Republican Congressman says you’re a ‘bad parent’ if you let your child play GTA 6"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-s-japanese-version-only-partially-obscures-male-nudity",
+      "titre": "GTA 6's Japanese version only partially obscures male nudity by putting Jason in a thong, seemingly due to regional censorship",
+      "url": "https://www.eurogamer.net/gta-6-japanese-jason-thong-regional-censorship",
       "sources": [
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.5,
-      "chaleur": 11,
+      "heures": 3.6,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/grand-theft-auto-6-streaming-record-broken",
-          "titre": "GTA 6 breaks the all-time livestream viewer record hours before it's available to play for most of the world"
+          "url": "https://www.eurogamer.net/gta-6-japanese-jason-thong-regional-censorship",
+          "titre": "GTA 6's Japanese version only partially obscures male nudity by putting Jason in a thong, seemingly due to regional censorship"
         }
       ]
     },
     {
-      "id": "gta-6-arrives-to-record-review-scores-and-streaming-audience",
-      "titre": "GTA 6 arrives to record review scores and streaming audiences",
-      "url": "https://www.gamesindustry.biz/gta-6-arrives-to-record-review-scores-and-streaming-audiences",
+      "id": "i-finished-gta-6-s-main-story-ask-me-anything-except-for-maj",
+      "titre": "I finished GTA 6's main story: Ask me anything! (except for major spoilers)",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-finished-gta-6s-main-story-ask-me-anything-except-for-major-spoilers/",
       "sources": [
-        "GamesIndustry.biz"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.8,
-      "chaleur": 11,
+      "heures": 3.9,
+      "chaleur": 9,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/gta-6-arrives-to-record-review-scores-and-streaming-audiences",
-          "titre": "GTA 6 arrives to record review scores and streaming audiences"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-finished-gta-6s-main-story-ask-me-anything-except-for-major-spoilers/",
+          "titre": "I finished GTA 6's main story: Ask me anything! (except for major spoilers)"
         }
       ]
     },
     {
-      "id": "playstation-has-no-game-of-the-year-nominations-at-the-game",
-      "titre": "PlayStation has no Game of the Year nominations at The Game Awards for the first time in 11 years",
-      "url": "https://www.eurogamer.net/playstation-sony-game-awards-no-nominations",
+      "id": "grand-theft-auto-6-critical-consensus",
+      "titre": "Grand Theft Auto 6 | Critical Consensus",
+      "url": "https://www.gamesindustry.biz/grand-theft-auto-6-critical-consensus",
       "sources": [
-        "Eurogamer",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 1.9,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/playstation-sony-game-awards-no-nominations",
-          "titre": "PlayStation has no Game of the Year nominations at The Game Awards for the first time in 11 years"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/playstation-has-no-goty-nominee-at-the-game-awards-for-first-time-in-12-years",
-          "titre": "PlayStation Has No GOTY Nominee at The Game Awards for First Time in 12 Years"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-ties-with-zelda-ocarina-of-time-as-the-highest-rated-g",
-      "titre": "GTA 6 Ties With Zelda: Ocarina Of Time As The Highest-Rated Game Ever",
-      "url": "https://www.nintendolife.com/news/2026/11/gta-6-ties-with-zelda-ocarina-of-time-as-the-highest-rated-game-ever",
-      "sources": [
-        "GamesIndustry.biz",
-        "Nintendo Life"
-      ],
-      "reprises": 2,
-      "heures": 5.4,
-      "chaleur": 10,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/gta-6-ties-with-zelda-ocarina-of-time-as-the-highest-rated-game-ever",
-          "titre": "GTA 6 Ties With Zelda: Ocarina Of Time As The Highest-Rated Game Ever"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/tanuki-pons-summer-is-hoping-to-be-a-lovely-little-underdog-between-ocarina-of-time-and-gta-6",
-          "titre": "Tanuki: Pon's Summer is hoping to be a \"lovely little underdog\" between Ocarina of Time and GTA 6"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-leads-the-game-awards-2026-with-eight-nominations",
-      "titre": "GTA 6 leads The Game Awards 2026 with eight nominations",
-      "url": "https://www.gamesindustry.biz/gta-6-leads-the-game-awards-2026-with-eight-nominations",
-      "sources": [
-        "Eurogamer",
+        "Game Developer",
         "GamesIndustry.biz"
       ],
       "reprises": 2,
-      "heures": 8.0,
-      "chaleur": 10,
+      "heures": 9.6,
+      "chaleur": 9,
       "liens": [
         {
           "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/gta-6-leads-the-game-awards-2026-with-eight-nominations",
-          "titre": "GTA 6 leads The Game Awards 2026 with eight nominations"
+          "url": "https://www.gamesindustry.biz/grand-theft-auto-6-critical-consensus",
+          "titre": "Grand Theft Auto 6 | Critical Consensus"
         },
         {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/marketing/zelda-and-grand-theft-auto-headline-the-nominees-for-the-2027-game-awards",
+          "titre": "Zelda and Grand Theft Auto headline the nominees for the 2027 Game Awards"
+        }
+      ]
+    },
+    {
+      "id": "playstation-emerges-victorious-in-a-2-6-billion-lawsuit-alle",
+      "titre": "PlayStation emerges victorious in a $2.6 billion lawsuit alleging a digital monopoly",
+      "url": "https://www.gamedeveloper.com/console/playstation-emerges-victorious-in-a-2-6-billion-lawsuit-alleging-a-digital-monopoly",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 6.0,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/console/playstation-emerges-victorious-in-a-2-6-billion-lawsuit-alleging-a-digital-monopoly",
+          "titre": "PlayStation emerges victorious in a $2.6 billion lawsuit alleging a digital monopoly"
+        }
+      ]
+    },
+    {
+      "id": "report-civilization-dev-firaxis-lays-off-a-third-of-its-staf",
+      "titre": "Report: Civilization dev Firaxis lays off a third of its staff",
+      "url": "https://www.gamesindustry.biz/report-civilization-dev-firaxis-lays-off-a-third-of-its-staff-following-development-difficulties-with-xcom-sequel",
+      "sources": [
+        "Game Developer",
+        "GamesIndustry.biz"
+      ],
+      "reprises": 2,
+      "heures": 30.7,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/report-civilization-dev-firaxis-lays-off-a-third-of-its-staff-following-development-difficulties-with-xcom-sequel",
+          "titre": "Report: Civilization dev Firaxis lays off a third of its staff"
+        },
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/take-two-lays-off-firaxis-employees-on-eve-of-grand-theft-auto-vi-launch",
+          "titre": "Take-Two lays off Firaxis employees on eve of Grand Theft Auto VI launch"
+        }
+      ]
+    },
+    {
+      "id": "delete-gta-6-from-your-hard-drive-and-indie-publisher-devolv",
+      "titre": "Delete GTA 6 from your hard drive and indie publisher Devolver Digital might give you a free game",
+      "url": "https://www.eurogamer.net/delete-gta-6-free-game-devolver-digital",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.1,
+      "chaleur": 7,
+      "liens": [
+        {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/game-awards-2026-nominees-full-list-gta-6",
-          "titre": "The Game Awards 2026 nominees announced, and GTA 6 leads with eight nods before it's even out"
+          "url": "https://www.eurogamer.net/delete-gta-6-free-game-devolver-digital",
+          "titre": "Delete GTA 6 from your hard drive and indie publisher Devolver Digital might give you a free game"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-won-t-let-you-use-cheats-until-you-complete-the-main-s",
+      "titre": "GTA 6 won't let you use cheats until you complete the main story, and locks progression when you do",
+      "url": "https://www.eurogamer.net/gta-6-no-cheats-until-completing-main-story",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-no-cheats-until-completing-main-story",
+          "titre": "GTA 6 won't let you use cheats until you complete the main story, and locks progression when you do"
+        }
+      ]
+    },
+    {
+      "id": "i-just-hope-gta-6-is-the-last-of-its-kind-warren-spector-co",
+      "titre": "'I just hope GTA 6 is the last of its kind': Warren Spector congratulates Rockstar on its landmark accomplishment but says the industry can't keep this up",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-just-hope-gta-6-is-the-last-of-its-kind-warren-spector-congratulates-rockstar-on-its-landmark-accomplishment-but-says-the-industry-cant-keep-this-up/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-just-hope-gta-6-is-the-last-of-its-kind-warren-spector-congratulates-rockstar-on-its-landmark-accomplishment-but-says-the-industry-cant-keep-this-up/",
+          "titre": "'I just hope GTA 6 is the last of its kind': Warren Spector congratulates Rockstar on its landmark accomplishment but says the industry can't keep this up"
         }
       ]
     },
@@ -365,31 +557,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 0.1,
-      "chaleur": 9,
+      "heures": 7.2,
+      "chaleur": 7,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/18-unsolicited-third-party-statistics-about-gta-6",
           "titre": "18 unsolicited third-party statistics about GTA 6"
-        }
-      ]
-    },
-    {
-      "id": "we-need-to-come-together-on-the-eve-of-gta-6-1-600-rockstar",
-      "titre": "'We need to come together': On the eve of GTA 6, 1,600 Rockstar workers are voting on unionization",
-      "url": "https://www.pcgamer.com/gaming-industry/we-need-to-come-together-on-the-eve-of-gta-6-1-600-rockstar-workers-are-voting-on-unionization/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 0.2,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/we-need-to-come-together-on-the-eve-of-gta-6-1-600-rockstar-workers-are-voting-on-unionization/",
-          "titre": "'We need to come together': On the eve of GTA 6, 1,600 Rockstar workers are voting on unionization"
         }
       ]
     },
@@ -401,8 +575,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.9,
-      "chaleur": 9,
+      "heures": 8.0,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -419,13 +593,31 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.0,
-      "chaleur": 9,
+      "heures": 8.1,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/grand-theft-auto-6-breaks-reddit-not-out-yet",
           "titre": "GTA 6 is so big, it managed to break Reddit - and it isn't even actually out yet"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-base-ps5-performance-suffers-minor-and-sustained-frame",
+      "titre": "GTA 6 Base PS5 Performance Suffers 'Minor' and 'Sustained' Frame Rate Drops, But It's 'Unwavering' on PS5 Pro",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6-base-ps5-performance-suffers-minor-and-sustained-frame-rate-drops-but-its-unwavering-on-ps5-pro",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 8.3,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-base-ps5-performance-suffers-minor-and-sustained-frame-rate-drops-but-its-unwavering-on-ps5-pro",
+          "titre": "GTA 6 Base PS5 Performance Suffers 'Minor' and 'Sustained' Frame Rate Drops, But It's 'Unwavering' on PS5 Pro"
         }
       ]
     },
@@ -437,8 +629,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 1.2,
-      "chaleur": 9,
+      "heures": 8.3,
+      "chaleur": 7,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -455,8 +647,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 1.7,
-      "chaleur": 9,
+      "heures": 8.8,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Push Square",
@@ -466,92 +658,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-6-looks-gorgeous-and-seeing-it-run-at-a-stable-30-fps-on",
-      "titre": "GTA 6 looks gorgeous, and seeing it run at a stable 30 fps on ageing PS5 Pro hardware makes me hopeful for PC performance",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-looks-gorgeous-and-seeing-it-run-at-a-stable-30-fps-on-ageing-ps5-pro-hardware-makes-me-hopeful-for-pc-performance/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.8,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-looks-gorgeous-and-seeing-it-run-at-a-stable-30-fps-on-ageing-ps5-pro-hardware-makes-me-hopeful-for-pc-performance/",
-          "titre": "GTA 6 looks gorgeous, and seeing it run at a stable 30 fps on ageing PS5 Pro hardware makes me hopeful for PC performance"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-island-dreams-walkthrough",
-      "titre": "GTA 6 Island Dreams Walkthrough",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-island-dreams-walkthrough/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/gta-6-island-dreams-walkthrough/",
-          "titre": "GTA 6 Island Dreams Walkthrough"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-guide-a-full-walkthrough-of-all-our-tips-and-advice-on",
-      "titre": "GTA 6 guide: A full walkthrough of all our tips and advice on Vice City systems",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-guide/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-guide/",
-          "titre": "GTA 6 guide: A full walkthrough of all our tips and advice on Vice City systems"
-        }
-      ]
-    },
-    {
-      "id": "you-cannot-replay-missions-in-gta-6-but-you-can-use-multiple",
-      "titre": "You cannot replay missions in GTA 6, but you can use multiple save files, as Rockstar explains how it made missions \"harder to fail\"",
-      "url": "https://www.eurogamer.net/gta-6-multiple-save-files-replay-missions",
+      "id": "just-how-detailed-is-the-audio-in-gta-6-well-even-convenienc",
+      "titre": "Just how detailed is the audio in GTA 6? Well, even convenience store refrigerators \"all have their own unique sounds\", says Rockstar dev",
+      "url": "https://www.eurogamer.net/gta-6-detailed-fridge-noise",
       "sources": [
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 9,
+      "heures": 9.1,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-multiple-save-files-replay-missions",
-          "titre": "You cannot replay missions in GTA 6, but you can use multiple save files, as Rockstar explains how it made missions \"harder to fail\""
+          "url": "https://www.eurogamer.net/gta-6-detailed-fridge-noise",
+          "titre": "Just how detailed is the audio in GTA 6? Well, even convenience store refrigerators \"all have their own unique sounds\", says Rockstar dev"
         }
       ]
     },
     {
-      "id": "aaa-is-under-the-most-amount-of-threat-ex-take-two-boss-exp",
-      "titre": "'AAA is under the most amount of threat': Ex-Take Two boss explains why making big games is unsustainable—except for GTA 6",
-      "url": "https://www.pcgamer.com/gaming-industry/aaa-is-under-the-most-amount-of-threat-ex-take-two-boss-explains-why-making-big-games-is-unsustainable-except-for-gta-6/",
+      "id": "gta-6-ps5-trophies-revealed-100-completion-needed-for-the-pl",
+      "titre": "GTA 6 PS5 Trophies Revealed, 100% Completion Needed for the Platinum",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum",
       "sources": [
-        "PC Gamer"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 9,
+      "heures": 9.3,
+      "chaleur": 7,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/aaa-is-under-the-most-amount-of-threat-ex-take-two-boss-explains-why-making-big-games-is-unsustainable-except-for-gta-6/",
-          "titre": "'AAA is under the most amount of threat': Ex-Take Two boss explains why making big games is unsustainable—except for GTA 6"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum",
+          "titre": "GTA 6 PS5 Trophies Revealed, 100% Completion Needed for the Platinum"
         }
       ]
     },
@@ -563,13 +701,67 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 9,
+      "heures": 10.2,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/its-hard-not-to-worry-even-as-gta-6-launches-on-console-amid-glowing-reviews-rockstar-devs-are-already-concerned-about-getting-laid-off",
           "titre": "\"It’s hard not to worry\": Even as GTA 6 launches on console amid glowing reviews, Rockstar devs are already concerned about getting laid off"
+        }
+      ]
+    },
+    {
+      "id": "set-phasers-to-stun-the-contents-of-my-wallet-magic-s-star-t",
+      "titre": "Set phasers to stun (the contents of my wallet): Magic's Star Trek crossover is one of the good ones",
+      "url": "https://www.pcgamer.com/games/card-games/set-phasers-to-stun-the-contents-of-my-wallet-magics-star-trek-crossover-is-one-of-the-good-ones/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/card-games/set-phasers-to-stun-the-contents-of-my-wallet-magics-star-trek-crossover-is-one-of-the-good-ones/",
+          "titre": "Set phasers to stun (the contents of my wallet): Magic's Star Trek crossover is one of the good ones"
+        }
+      ]
+    },
+    {
+      "id": "mindseye-studio-wants-to-sue-saboteurs-to-pay-off-62-million",
+      "titre": "MindsEye studio wants to sue ‘saboteurs’ to pay off £62 million debt",
+      "url": "https://www.videogameschronicle.com/news/mindseye-studio-wants-to-sue-saboteurs-to-pay-off-62-million-debt/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 2.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/mindseye-studio-wants-to-sue-saboteurs-to-pay-off-62-million-debt/",
+          "titre": "MindsEye studio wants to sue ‘saboteurs’ to pay off £62 million debt"
+        }
+      ]
+    },
+    {
+      "id": "wow-forever-is-huge-players-have-created-over-15-million-cha",
+      "titre": "WoW: Forever is huge: Players have created over 15 million characters so far",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-is-huge-players-have-created-over-15-million-characters-so-far/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-is-huge-players-have-created-over-15-million-characters-so-far/",
+          "titre": "WoW: Forever is huge: Players have created over 15 million characters so far"
         }
       ]
     },
@@ -581,8 +773,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.2,
-      "chaleur": 8,
+      "heures": 8.3,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -599,8 +791,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.7,
-      "chaleur": 8,
+      "heures": 8.8,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -610,20 +802,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "fanatical-s-mystery-birthday-bundle-lets-you-buy-up-to-25-st",
-      "titre": "Fanatical’s Mystery Birthday Bundle lets you buy up to 25 Steam games for $17.50, with a chance to win a Steam Deck",
-      "url": "https://www.videogameschronicle.com/news/fanaticals-mystery-birthday-bundle-lets-you-buy-up-to-25-steam-games-for-17-50-with-a-chance-to-win-a-steam-deck/",
+      "id": "playstation-has-no-game-of-the-year-nominations-at-the-game",
+      "titre": "PlayStation has no Game of the Year nominations at The Game Awards for the first time in 11 years",
+      "url": "https://www.eurogamer.net/playstation-sony-game-awards-no-nominations",
       "sources": [
-        "VGC"
+        "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.9,
-      "chaleur": 8,
+      "heures": 9.0,
+      "chaleur": 6,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/fanaticals-mystery-birthday-bundle-lets-you-buy-up-to-25-steam-games-for-17-50-with-a-chance-to-win-a-steam-deck/",
-          "titre": "Fanatical’s Mystery Birthday Bundle lets you buy up to 25 Steam games for $17.50, with a chance to win a Steam Deck"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/playstation-sony-game-awards-no-nominations",
+          "titre": "PlayStation has no Game of the Year nominations at The Game Awards for the first time in 11 years"
         }
       ]
     },
@@ -635,8 +827,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 8,
+      "heures": 10.8,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -653,8 +845,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.1,
-      "chaleur": 7,
+      "heures": 12.2,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -664,272 +856,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-6-honor-system-how-your-criminal-profile-works",
-      "titre": "GTA 6 honor system: how your 'criminal profile' works",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-criminal-profile-honor-system-explained/",
+      "id": "gta-6-leads-the-game-awards-2026-with-eight-nominations",
+      "titre": "GTA 6 leads The Game Awards 2026 with eight nominations",
+      "url": "https://www.gamesindustry.biz/gta-6-leads-the-game-awards-2026-with-eight-nominations",
       "sources": [
-        "PC Gamer"
+        "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 6.1,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-criminal-profile-honor-system-explained/",
-          "titre": "GTA 6 honor system: how your 'criminal profile' works"
-        }
-      ]
-    },
-    {
-      "id": "review-gta-6-ps5-the-greatest-open-world-game-ever-made",
-      "titre": "Review: GTA 6 (PS5) - The Greatest Open World Game Ever Made",
-      "url": "https://www.pushsquare.com/reviews/ps5/grand-theft-auto-6",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 6.2,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/reviews/ps5/grand-theft-auto-6",
-          "titre": "Review: GTA 6 (PS5) - The Greatest Open World Game Ever Made"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-romance-guide-how-jason-and-lucia-s-relationship-actua",
-      "titre": "GTA 6 romance guide: How Jason and Lucia's relationship actually works",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-romance-jason-lucia/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 6.2,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-romance-jason-lucia/",
-          "titre": "GTA 6 romance guide: How Jason and Lucia's relationship actually works"
-        }
-      ]
-    },
-    {
-      "id": "how-to-collect-the-vintage-vice-city-pack-pre-order-bonus-in",
-      "titre": "How to collect the Vintage Vice City Pack pre-order bonus in GTA 6",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-pre-order-bonus-vintage-vice-city-pack/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 6.2,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-pre-order-bonus-vintage-vice-city-pack/",
-          "titre": "How to collect the Vintage Vice City Pack pre-order bonus in GTA 6"
-        }
-      ]
-    },
-    {
-      "id": "former-gta-4-and-red-dead-boss-thinks-we-are-one-toy-story-m",
-      "titre": "Former GTA 4 and Red Dead boss thinks \"we are one Toy Story moment away\" from people accepting gen-AI in game development in the West",
-      "url": "https://www.eurogamer.net/gta-4-red-dead-redemption-take-two-ben-feder-ai-toy-story",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 7.9,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-4-red-dead-redemption-take-two-ben-feder-ai-toy-story",
-          "titre": "Former GTA 4 and Red Dead boss thinks \"we are one Toy Story moment away\" from people accepting gen-AI in game development in the West"
-        }
-      ]
-    },
-    {
-      "id": "korridor-turns-those-youtube-ads-for-vertical-mobile-shooter",
-      "titre": "Korridor turns those Youtube ads for vertical mobile shooters into a new, \"deeply strategic\" genre, and I can't decide if it's lying",
-      "url": "https://www.rockpapershotgun.com/korridor-turns-those-youtube-ads-for-vertical-mobile-shooters-into-a-new-deeply-strategic-genre-and-i-cant-decide-if-its-lying",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 0.0,
+      "heures": 15.1,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/korridor-turns-those-youtube-ads-for-vertical-mobile-shooters-into-a-new-deeply-strategic-genre-and-i-cant-decide-if-its-lying",
-          "titre": "Korridor turns those Youtube ads for vertical mobile shooters into a new, \"deeply strategic\" genre, and I can't decide if it's lying"
-        }
-      ]
-    },
-    {
-      "id": "abducting-your-own-lover-no-longer-gives-you-opinion-of-you",
-      "titre": "\"Abducting your own lover no longer gives you opinion of yourself\" declare the notes for Crusader Kings 3's free Florin update, released alongside Silk and Silver",
-      "url": "https://www.rockpapershotgun.com/abducting-your-own-lover-no-longer-gives-you-opinion-of-yourself-declare-the-notes-for-crusader-kings-3s-free-florin-update-released-alongside-silk-and-silver",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 0.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/abducting-your-own-lover-no-longer-gives-you-opinion-of-yourself-declare-the-notes-for-crusader-kings-3s-free-florin-update-released-alongside-silk-and-silver",
-          "titre": "\"Abducting your own lover no longer gives you opinion of yourself\" declare the notes for Crusader Kings 3's free Florin update, released alongside Silk and Silver"
-        }
-      ]
-    },
-    {
-      "id": "chinese-ai-firms-and-other-restricted-entities-blocked-from",
-      "titre": "Chinese AI firms and 'other restricted entities' blocked from remotely accessing American AI chips, which I'm surprised wasn't already a thing",
-      "url": "https://www.pcgamer.com/software/ai/chinese-ai-firms-and-other-restricted-entities-blocked-from-remotely-accessing-american-ai-chips-which-im-surprised-wasnt-already-a-thing/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/chinese-ai-firms-and-other-restricted-entities-blocked-from-remotely-accessing-american-ai-chips-which-im-surprised-wasnt-already-a-thing/",
-          "titre": "Chinese AI firms and 'other restricted entities' blocked from remotely accessing American AI chips, which I'm surprised wasn't already a thing"
-        }
-      ]
-    },
-    {
-      "id": "lego-batman-legacy-of-the-dark-knight-update-adds-gameshare",
-      "titre": "Lego Batman: Legacy Of The Dark Knight Update Adds GameShare Support",
-      "url": "https://www.nintendolife.com/news/2026/11/lego-batman-legacy-of-the-dark-knight-update-adds-gameshare-support",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/lego-batman-legacy-of-the-dark-knight-update-adds-gameshare-support",
-          "titre": "Lego Batman: Legacy Of The Dark Knight Update Adds GameShare Support"
-        }
-      ]
-    },
-    {
-      "id": "spyro-s-new-ps5-game-teases-appearance-at-this-year-s-game-a",
-      "titre": "Spyro's New PS5 Game Teases Appearance at This Year's Game Awards",
-      "url": "https://www.pushsquare.com/news/2026/11/spyros-new-ps5-game-teases-appearance-at-this-years-game-awards",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/spyros-new-ps5-game-teases-appearance-at-this-years-game-awards",
-          "titre": "Spyro's New PS5 Game Teases Appearance at This Year's Game Awards"
-        }
-      ]
-    },
-    {
-      "id": "infinity-nikki-fans-threaten-to-boycott-game-after-promotion",
-      "titre": "Infinity Nikki fans threaten to boycott game after promotion by Elon Musk's mother, but there may be a genuine reason for her involvement",
-      "url": "https://www.eurogamer.net/infinity-nikki-elon-musk-maye-mother-fan-reaction",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/infinity-nikki-elon-musk-maye-mother-fan-reaction",
-          "titre": "Infinity Nikki fans threaten to boycott game after promotion by Elon Musk's mother, but there may be a genuine reason for her involvement"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-requires-new-ps5-firmware-update-to-play",
-      "titre": "GTA 6 Requires New PS5 Firmware Update to Play",
-      "url": "https://www.pushsquare.com/news/2026/11/gta-6-requires-new-ps5-firmware-update-to-play",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 15.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/gta-6-requires-new-ps5-firmware-update-to-play",
-          "titre": "GTA 6 Requires New PS5 Firmware Update to Play"
-        }
-      ]
-    },
-    {
-      "id": "guide-gta-6-release-times-when-can-you-start-playing",
-      "titre": "Guide: GTA 6 Release Times: When Can You Start Playing?",
-      "url": "https://www.pushsquare.com/guides/gta-6-release-times-when-can-you-start-playing",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 17.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/guides/gta-6-release-times-when-can-you-start-playing",
-          "titre": "Guide: GTA 6 Release Times: When Can You Start Playing?"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-nominated-for-game-of-the-year-before-ps5-reviews-are",
-      "titre": "GTA 6 Nominated for Game of the Year Before PS5 Reviews Are Released",
-      "url": "https://www.pushsquare.com/news/2026/11/gta-6-nominated-for-game-of-the-year-before-ps5-reviews-are-released",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 20.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/gta-6-nominated-for-game-of-the-year-before-ps5-reviews-are-released",
-          "titre": "GTA 6 Nominated for Game of the Year Before PS5 Reviews Are Released"
-        }
-      ]
-    },
-    {
-      "id": "uk-s-health-service-issues-warning-over-gta-6-urges-players",
-      "titre": "UK's Health Service Issues Warning Over GTA 6, Urges Players to Take Care of Their Hands",
-      "url": "https://www.pushsquare.com/news/2026/11/uks-health-service-issues-warning-over-gta-6-urges-players-to-take-care-of-their-hands",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 22.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/uks-health-service-issues-warning-over-gta-6-urges-players-to-take-care-of-their-hands",
-          "titre": "UK's Health Service Issues Warning Over GTA 6, Urges Players to Take Care of Their Hands"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/gta-6-leads-the-game-awards-2026-with-eight-nominations",
+          "titre": "GTA 6 leads The Game Awards 2026 with eight nominations"
         }
       ]
     },
@@ -941,13 +881,31 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 23.7,
+      "heures": 30.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/what-would-rockstar-have-done-if-gta-hadnt-taken-off-former-tech-director-obbe-vermeij-on-scottish-zombies-james-bond-and-the-curse-of-success",
           "titre": "What would Rockstar have done if GTA hadn't taken off? Former tech director Obbe Vermeij on Scottish zombies, James Bond and the \"curse\" of success"
+        }
+      ]
+    },
+    {
+      "id": "tanuki-pon-s-summer-is-hoping-to-be-a-lovely-little-underdog",
+      "titre": "Tanuki: Pon's Summer is hoping to be a \"lovely little underdog\" between Ocarina of Time and GTA 6",
+      "url": "https://www.gamesindustry.biz/tanuki-pons-summer-is-hoping-to-be-a-lovely-little-underdog-between-ocarina-of-time-and-gta-6",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 33.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/tanuki-pons-summer-is-hoping-to-be-a-lovely-little-underdog-between-ocarina-of-time-and-gta-6",
+          "titre": "Tanuki: Pon's Summer is hoping to be a \"lovely little underdog\" between Ocarina of Time and GTA 6"
         }
       ]
     },
@@ -959,7 +917,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.3,
+      "heures": 20.3,
       "chaleur": 5,
       "liens": [
         {
@@ -977,7 +935,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.2,
+      "heures": 29.3,
       "chaleur": 5,
       "liens": [
         {
@@ -995,7 +953,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.7,
+      "heures": 29.8,
       "chaleur": 5,
       "liens": [
         {
@@ -1013,7 +971,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 24.9,
+      "heures": 32.0,
       "chaleur": 5,
       "liens": [
         {
@@ -1024,20 +982,182 @@ const VEILLE = {
       ]
     },
     {
-      "id": "amd-says-it-loves-gamers-only-weeks-after-proclaiming-it-is",
-      "titre": "AMD says it 'loves gamers' only weeks after proclaiming it is a datacenter-first company",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-says-it-loves-gamers-only-weeks-after-proclaiming-it-is-a-datacenter-first-company/",
+      "id": "embark-studios-apologizes-for-replacing-esports-casters-with",
+      "titre": "Embark Studios apologizes for replacing esports casters with AI voices in now-deleted The Finals video",
+      "url": "https://www.pcgamer.com/software/ai/embark-studios-apologizes-for-replacing-esports-casters-with-ai-voices-in-now-deleted-the-finals-video/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 5.1,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-says-it-loves-gamers-only-weeks-after-proclaiming-it-is-a-datacenter-first-company/",
-          "titre": "AMD says it 'loves gamers' only weeks after proclaiming it is a datacenter-first company"
+          "url": "https://www.pcgamer.com/software/ai/embark-studios-apologizes-for-replacing-esports-casters-with-ai-voices-in-now-deleted-the-finals-video/",
+          "titre": "Embark Studios apologizes for replacing esports casters with AI voices in now-deleted The Finals video"
+        }
+      ]
+    },
+    {
+      "id": "world-of-warcraft-forever-isn-t-mere-nostalgia-bait-it-s-reb",
+      "titre": "World of Warcraft: Forever isn't mere nostalgia bait - it's rebuilding the MMO social architecture that Blizzard spent years dismantling",
+      "url": "https://www.rockpapershotgun.com/world-of-warcraft-forever-isnt-mere-nostalgia-bait-its-rebuilding-the-mmo-social-architecture-that-blizzard-spent-years-dismantling",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 6.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/world-of-warcraft-forever-isnt-mere-nostalgia-bait-its-rebuilding-the-mmo-social-architecture-that-blizzard-spent-years-dismantling",
+          "titre": "World of Warcraft: Forever isn't mere nostalgia bait - it's rebuilding the MMO social architecture that Blizzard spent years dismantling"
+        }
+      ]
+    },
+    {
+      "id": "arknights-endfield-named-google-play-s-best-game-of-2026",
+      "titre": "Arknights: Endfield named Google Play's best game of 2026",
+      "url": "https://www.gamesindustry.biz/arknights-endfield-named-google-plays-best-game-of-2026",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 6.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/arknights-endfield-named-google-plays-best-game-of-2026",
+          "titre": "Arknights: Endfield named Google Play's best game of 2026"
+        }
+      ]
+    },
+    {
+      "id": "rayman-legends-retold-reveals-another-musical-level-and-uhh",
+      "titre": "Rayman Legends Retold Reveals Another Musical Level, And Uhh... Just Watch",
+      "url": "https://www.nintendolife.com/news/2026/11/rayman-legends-retold-reveals-another-musical-level-and-uhh-just-watch",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 6.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/rayman-legends-retold-reveals-another-musical-level-and-uhh-just-watch",
+          "titre": "Rayman Legends Retold Reveals Another Musical Level, And Uhh... Just Watch"
+        }
+      ]
+    },
+    {
+      "id": "korridor-turns-those-youtube-ads-for-vertical-mobile-shooter",
+      "titre": "Korridor turns those Youtube ads for vertical mobile shooters into a new, \"deeply strategic\" genre, and I can't decide if it's lying",
+      "url": "https://www.rockpapershotgun.com/korridor-turns-those-youtube-ads-for-vertical-mobile-shooters-into-a-new-deeply-strategic-genre-and-i-cant-decide-if-its-lying",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 7.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/korridor-turns-those-youtube-ads-for-vertical-mobile-shooters-into-a-new-deeply-strategic-genre-and-i-cant-decide-if-its-lying",
+          "titre": "Korridor turns those Youtube ads for vertical mobile shooters into a new, \"deeply strategic\" genre, and I can't decide if it's lying"
+        }
+      ]
+    },
+    {
+      "id": "abducting-your-own-lover-no-longer-gives-you-opinion-of-you",
+      "titre": "\"Abducting your own lover no longer gives you opinion of yourself\" declare the notes for Crusader Kings 3's free Florin update, released alongside Silk and Silver",
+      "url": "https://www.rockpapershotgun.com/abducting-your-own-lover-no-longer-gives-you-opinion-of-yourself-declare-the-notes-for-crusader-kings-3s-free-florin-update-released-alongside-silk-and-silver",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 7.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/abducting-your-own-lover-no-longer-gives-you-opinion-of-yourself-declare-the-notes-for-crusader-kings-3s-free-florin-update-released-alongside-silk-and-silver",
+          "titre": "\"Abducting your own lover no longer gives you opinion of yourself\" declare the notes for Crusader Kings 3's free Florin update, released alongside Silk and Silver"
+        }
+      ]
+    },
+    {
+      "id": "lego-batman-legacy-of-the-dark-knight-update-adds-gameshare",
+      "titre": "Lego Batman: Legacy Of The Dark Knight Update Adds GameShare Support",
+      "url": "https://www.nintendolife.com/news/2026/11/lego-batman-legacy-of-the-dark-knight-update-adds-gameshare-support",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 9.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/lego-batman-legacy-of-the-dark-knight-update-adds-gameshare-support",
+          "titre": "Lego Batman: Legacy Of The Dark Knight Update Adds GameShare Support"
+        }
+      ]
+    },
+    {
+      "id": "spyro-s-new-ps5-game-teases-appearance-at-this-year-s-game-a",
+      "titre": "Spyro's New PS5 Game Teases Appearance at This Year's Game Awards",
+      "url": "https://www.pushsquare.com/news/2026/11/spyros-new-ps5-game-teases-appearance-at-this-years-game-awards",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 9.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/spyros-new-ps5-game-teases-appearance-at-this-years-game-awards",
+          "titre": "Spyro's New PS5 Game Teases Appearance at This Year's Game Awards"
+        }
+      ]
+    },
+    {
+      "id": "infinity-nikki-fans-threaten-to-boycott-game-after-promotion",
+      "titre": "Infinity Nikki fans threaten to boycott game after promotion by Elon Musk's mother, but there may be a genuine reason for her involvement",
+      "url": "https://www.eurogamer.net/infinity-nikki-elon-musk-maye-mother-fan-reaction",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 10.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/infinity-nikki-elon-musk-maye-mother-fan-reaction",
+          "titre": "Infinity Nikki fans threaten to boycott game after promotion by Elon Musk's mother, but there may be a genuine reason for her involvement"
+        }
+      ]
+    },
+    {
+      "id": "clair-obscur-studio-has-lost-one-of-its-most-important-devel",
+      "titre": "Clair Obscur Studio Has Lost One of Its Most Important Developers",
+      "url": "https://www.pushsquare.com/news/2026/11/clair-obscur-studio-has-lost-one-of-its-most-important-developers",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 10.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/clair-obscur-studio-has-lost-one-of-its-most-important-developers",
+          "titre": "Clair Obscur Studio Has Lost One of Its Most Important Developers"
         }
       ]
     },
@@ -1049,7 +1169,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -1058,155 +1178,11 @@ const VEILLE = {
           "titre": "Chronicles: Medieval devs Raw Power are bankrupt, but their sandbox RPG lives on at a new studio co-founded by Satisfactory devs Coffee Stain"
         }
       ]
-    },
-    {
-      "id": "if-you-don-t-bring-jensen-back-i-would-not-hire-an-outsider",
-      "titre": "'If you don't bring Jensen back, I would not hire an outsider,' says Amazon boss Jeff Bezos, but Nvidia says it's going to look at internal and external candidates",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/if-you-dont-bring-jensen-back-i-would-not-hire-an-outsider-says-amazon-boss-jeff-bezos-but-nvidia-says-its-going-to-look-at-internal-and-external-candidates/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 5.5,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/if-you-dont-bring-jensen-back-i-would-not-hire-an-outsider-says-amazon-boss-jeff-bezos-but-nvidia-says-its-going-to-look-at-internal-and-external-candidates/",
-          "titre": "'If you don't bring Jensen back, I would not hire an outsider,' says Amazon boss Jeff Bezos, but Nvidia says it's going to look at internal and external candidates"
-        }
-      ]
-    },
-    {
-      "id": "slay-the-spire-2-is-one-of-this-year-s-best-selling-games-de",
-      "titre": "Slay the Spire 2 is one of this year's best selling games despite only being available on PC, and its players are \"obsessed\"",
-      "url": "https://www.eurogamer.net/slay-the-spire-2-8-million-sales-steam-estimates",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 5.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/slay-the-spire-2-8-million-sales-steam-estimates",
-          "titre": "Slay the Spire 2 is one of this year's best selling games despite only being available on PC, and its players are \"obsessed\""
-        }
-      ]
-    },
-    {
-      "id": "despite-being-61-7-million-in-debt-bankrupt-mindseye-devs-bu",
-      "titre": "Despite being £61.7 million in debt, bankrupt MindsEye devs Build a Rocket Boy are splurging on legal action against \"a coordinated campaign of negative online reviews\"",
-      "url": "https://www.rockpapershotgun.com/despite-being-617-million-in-debt-bankrupt-mindseye-devs-build-a-rocket-boy-are-splurging-on-legal-action-against-a-coordinated-campaign-of-negative-online-reviews",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 5.7,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/despite-being-617-million-in-debt-bankrupt-mindseye-devs-build-a-rocket-boy-are-splurging-on-legal-action-against-a-coordinated-campaign-of-negative-online-reviews",
-          "titre": "Despite being £61.7 million in debt, bankrupt MindsEye devs Build a Rocket Boy are splurging on legal action against \"a coordinated campaign of negative online reviews\""
-        }
-      ]
-    },
-    {
-      "id": "analyst-console-shipments-drop-36-5-to-6-4m-units-during-q3",
-      "titre": "Analyst: Console shipments drop 36.5% to 6.4m units during Q3 on run-up to major releases",
-      "url": "https://www.gamesindustry.biz/analyst-console-shipments-drop-365-to-64m-units-during-q3-on-run-up-to-major-releases",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 6.2,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/analyst-console-shipments-drop-365-to-64m-units-during-q3-on-run-up-to-major-releases",
-          "titre": "Analyst: Console shipments drop 36.5% to 6.4m units during Q3 on run-up to major releases"
-        }
-      ]
-    },
-    {
-      "id": "we-d-love-to-have-you-new-zealand-s-tourist-board-gives-a-n",
-      "titre": "\"We'd love to have you\" - New Zealand's tourist board gives a nod to those hopping timezones to play Grand Theft Auto 6 early",
-      "url": "https://www.eurogamer.net/new-zealand-tourist-board-gives-nod-grand-theft-auto-timezone-trick",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 6.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/new-zealand-tourist-board-gives-nod-grand-theft-auto-timezone-trick",
-          "titre": "\"We'd love to have you\" - New Zealand's tourist board gives a nod to those hopping timezones to play Grand Theft Auto 6 early"
-        }
-      ]
-    },
-    {
-      "id": "ex-nvidia-boss-jensen-huang-offers-to-return-if-that-s-best",
-      "titre": "Ex-Nvidia boss Jensen Huang offers to return if that's best for the company and America, Nvidia board essentially say 'nah, we're all good'",
-      "url": "https://www.rockpapershotgun.com/ex-nvidia-boss-jensen-huang-offers-to-return-if-thats-best-for-the-company-and-america-nvidia-board-essentially-say-nah-were-all-good",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 6.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/ex-nvidia-boss-jensen-huang-offers-to-return-if-thats-best-for-the-company-and-america-nvidia-board-essentially-say-nah-were-all-good",
-          "titre": "Ex-Nvidia boss Jensen Huang offers to return if that's best for the company and America, Nvidia board essentially say 'nah, we're all good'"
-        }
-      ]
-    },
-    {
-      "id": "blizzard-suspends-world-of-warcraft-forever-gold-exploit-abu",
-      "titre": "Blizzard suspends World of Warcraft: Forever gold exploit abusers, puts trading blocks on their accounts and removes ill-gotten funds for good measure",
-      "url": "https://www.eurogamer.net/world-of-warcraft-forever-gold-exploit-abusers-suspended-trade-blocked",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 7.3,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/world-of-warcraft-forever-gold-exploit-abusers-suspended-trade-blocked",
-          "titre": "Blizzard suspends World of Warcraft: Forever gold exploit abusers, puts trading blocks on their accounts and removes ill-gotten funds for good measure"
-        }
-      ]
-    },
-    {
-      "id": "how-to-build-a-welcoming-company-culture-in-times-of-turmoil",
-      "titre": "How to build a welcoming company culture in times of turmoil",
-      "url": "https://www.gamesindustry.biz/how-to-build-a-welcoming-company-culture-in-times-of-turmoil",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 8.7,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/how-to-build-a-welcoming-company-culture-in-times-of-turmoil",
-          "titre": "How to build a welcoming company culture in times of turmoil"
-        }
-      ]
     }
   ],
   "alertes": [
-    "Grand Theft Auto 6 | Critical Consensus",
-    "NBA Players Receive This Special GTA 6 PS5 Pro Console, and We're Not Jealous at All",
-    "Just how detailed is the audio in GTA 6? Well, even convenience store refrigerators \"all have their own unique sounds\", says Rockstar dev"
+    "Can you replay missions in GTA 6?",
+    "Rockstar says a PS5 Pro is simply 'not powerful enough' for 60 fps GTA 6, as I crack a smile at my 5090",
+    "GTA 6 Obliterates All-Time Streaming Record Before It's Even Fully Released"
   ]
 };
