@@ -1,121 +1,31 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "20/11/2026 à 12h44",
+  "collecte": "20/11/2026 à 21h45",
   "seuil": 14,
   "sujets": [
     {
-      "id": "gta-6-leaker-claims-to-have-lobbed-a-near-complete-xbox-buil",
-      "titre": "GTA 6 leaker claims to have lobbed a near-complete Xbox build of Rockstar's crimsim onto the net, shouts that the \"community will have it emulated inside a week\"",
-      "url": "https://www.rockpapershotgun.com/gta-6-leaker-claims-to-have-lobbed-a-near-complete-xbox-build-of-rockstars-crimsim-onto-the-net-shouts-that-the-community-will-have-it-emulated-inside-a-week",
+      "id": "gta-6-hits-3-79-billion-in-its-first-day-on-sale-becoming-th",
+      "titre": "GTA 6 hits $3.79 billion in its first day on sale, becoming \"the biggest entertainment launch in history\"",
+      "url": "https://www.gamesindustry.biz/gta-6-hits-379-billion-in-its-first-day-on-sale-becoming-the-biggest-entertainment-launch-in-history",
       "sources": [
         "Eurogamer",
-        "PC Gamer",
-        "Rock Paper Shotgun",
-        "VGC"
-      ],
-      "reprises": 4,
-      "heures": 2.0,
-      "chaleur": 18,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/gta-6-leaker-claims-to-have-lobbed-a-near-complete-xbox-build-of-rockstars-crimsim-onto-the-net-shouts-that-the-community-will-have-it-emulated-inside-a-week",
-          "titre": "GTA 6 leaker claims to have lobbed a near-complete Xbox build of Rockstar's crimsim onto the net, shouts that the \"community will have it emulated inside a week\""
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/modders-reckon-gta-6-will-be-playable-on-pc-within-a-week/",
-          "titre": "Modders reckon GTA 6 will be playable on PC within a week"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/cyberleek-gta-6-dev-build",
-          "titre": "Infamous GTA 6 leaker CyberLeek is back, and this time the group claims to have leaked a full development build of the game"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/cyberleek-claims-to-release-development-build-of-gta-6/",
-          "titre": "Cyberleek claims to release development build of GTA 6"
-        }
-      ]
-    },
-    {
-      "id": "playing-gta-6-this-weekend-here-s-16-spoiler-free-tips-for-y",
-      "titre": "Playing GTA 6 this weekend? Here's 16 spoiler-free tips for your first playthrough",
-      "url": "https://www.eurogamer.net/gta-6-spoiler-free-advice",
-      "sources": [
-        "Eurogamer",
-        "PC Gamer",
-        "VGC"
-      ],
-      "reprises": 3,
-      "heures": 0.2,
-      "chaleur": 15,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-spoiler-free-advice",
-          "titre": "Playing GTA 6 this weekend? Here's 16 spoiler-free tips for your first playthrough"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-is-playable-in-first-person-heres-how-to-activate-it/",
-          "titre": "GTA 6 is playable in first-person, here's how to activate it"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/gta-6-chapters-and-mission-list-how-many-chapters-in-gta-6-spoiler-free/",
-          "titre": "GTA 6 Chapters and Mission List: How many chapters in GTA 6? (Spoiler-Free)"
-        }
-      ]
-    },
-    {
-      "id": "assassin-s-creed-black-flag-resynced-drives-ubisoft-q2-net-b",
-      "titre": "Assassin's Creed Black Flag Resynced drives Ubisoft Q2 net bookings above guidance; H1 results decline 16.5% to €644.7m",
-      "url": "https://www.gamesindustry.biz/assassins-creed-black-flag-resynced-drives-ubisoft-q2-net-bookings-above-guidance-h1-results-decline-165-to-6447m",
-      "sources": [
-        "GamesIndustry.biz",
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 3,
-      "heures": 1.0,
-      "chaleur": 15,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/assassins-creed-black-flag-resynced-drives-ubisoft-q2-net-bookings-above-guidance-h1-results-decline-165-to-6447m",
-          "titre": "Assassin's Creed Black Flag Resynced drives Ubisoft Q2 net bookings above guidance; H1 results decline 16.5% to €644.7m"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/ubisoft-pins-strong-assassins-creed-sales-on-black-flag-resynced-and-nolans-odyssey/",
-          "titre": "Ubisoft pins strong Assassin’s Creed sales on Black Flag Resynced, and Nolan’s Odyssey"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/ubisoft-confirms-166-layoffs-at-key-assassins-creed-studios",
-          "titre": "Ubisoft Confirms 166 Layoffs at Key Assassin's Creed Studios"
-        }
-      ]
-    },
-    {
-      "id": "ign-partners-with-rockstar-to-host-official-strategy-guide-f",
-      "titre": "IGN partners with Rockstar to host Official Strategy Guide for GTA 6",
-      "url": "https://www.gamesindustry.biz/ign-partners-with-rockstar-to-host-official-strategy-guide-for-gta-6",
-      "sources": [
         "GamesIndustry.biz",
         "Nintendo Life",
         "Push Square"
       ],
-      "reprises": 3,
-      "heures": 2.6,
-      "chaleur": 15,
+      "reprises": 4,
+      "heures": 1.4,
+      "chaleur": 18,
       "liens": [
         {
           "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/ign-partners-with-rockstar-to-host-official-strategy-guide-for-gta-6",
-          "titre": "IGN partners with Rockstar to host Official Strategy Guide for GTA 6"
+          "url": "https://www.gamesindustry.biz/gta-6-hits-379-billion-in-its-first-day-on-sale-becoming-the-biggest-entertainment-launch-in-history",
+          "titre": "GTA 6 hits $3.79 billion in its first day on sale, becoming \"the biggest entertainment launch in history\""
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-biggest-entertainment-launch",
+          "titre": "GTA 6 is officially the biggest entertainment launch of all time, selling 32.5 million pre-sale copies and a bonkers $3.79 billion in its first day"
         },
         {
           "source": "Push Square",
@@ -124,32 +34,56 @@ const VEILLE = {
         },
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/guides/50-best-wii-games-of-all-time",
-          "titre": "Guide: 50 Best Wii Games Of All Time"
+          "url": "https://www.nintendolife.com/news/2026/11/top-20-best-selling-wii-games-of-all-time-revealed-us",
+          "titre": "Top 20 Best-Selling Wii Games Of All Time Revealed (US)"
         }
       ]
     },
     {
-      "id": "gta-6-too-dark-here-s-how-to-fix-it-on-ps5",
-      "titre": "GTA 6 Too Dark? Here's How to Fix It on PS5",
-      "url": "https://www.pushsquare.com/news/2026/11/gta-6-too-dark-heres-how-to-fix-it-on-ps5",
+      "id": "21-of-rockstar-staff-have-been-employed-by-the-company-for-o",
+      "titre": "21% of Rockstar staff have been employed by the company for over 10 years, which explains a lot about GTA 6's record-breaking launch",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/21-percent-of-rockstar-staff-have-been-employed-by-the-company-for-over-10-years-which-explains-a-lot-about-gta-6s-record-breaking-launch/",
       "sources": [
         "PC Gamer",
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 0.2,
+      "heures": 1.1,
+      "chaleur": 14,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/21-percent-of-rockstar-staff-have-been-employed-by-the-company-for-over-10-years-which-explains-a-lot-about-gta-6s-record-breaking-launch/",
+          "titre": "21% of Rockstar staff have been employed by the company for over 10 years, which explains a lot about GTA 6's record-breaking launch"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-sells-a-record-breaking-32-5-million-copies",
+          "titre": "GTA 6 Sells a Record-Breaking 32.5 Million Copies"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-full-cast-confirmed-every-actor-in-grand-theft-auto-6",
+      "titre": "GTA 6 full cast confirmed – Every actor in Grand Theft Auto 6",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-full-cast-confirmed-every-actor-in-grand-theft-auto-6/",
+      "sources": [
+        "PC Gamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 0.4,
       "chaleur": 12,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/gta-6-too-dark-heres-how-to-fix-it-on-ps5",
-          "titre": "GTA 6 Too Dark? Here's How to Fix It on PS5"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-full-cast-confirmed-every-actor-in-grand-theft-auto-6/",
+          "titre": "GTA 6 full cast confirmed – Every actor in Grand Theft Auto 6"
         },
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-fix-railing-house-repairs/",
-          "titre": "How to fix the railing in GTA 6"
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-earned-usd3-79-billion-on-launch-day/",
+          "titre": "Grand Theft Auto 6 earned $3.79 billion on launch day"
         }
       ]
     },
@@ -162,8 +96,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 0.6,
-      "chaleur": 12,
+      "heures": 9.6,
+      "chaleur": 10,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -178,26 +112,140 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-6-day-one-sales-are-enormous-estimates-suggest-making-pr",
-      "titre": "GTA 6 day-one sales are enormous, estimates suggest, making previous $2 billion opening weekend predictions seem conservative",
-      "url": "https://www.eurogamer.net/gta-6-sales-estimate-rockstar-grand-theft-auto",
+      "id": "ubisoft-merges-two-creative-houses-as-h1-results-decline-16",
+      "titre": "Ubisoft merges two Creative Houses as H1 results decline 16.5%; Q2 net bookings above guidance thanks to Assassin's Creed Black Flag remake",
+      "url": "https://www.gamesindustry.biz/assassins-creed-black-flag-resynced-drives-ubisoft-q2-net-bookings-above-guidance-h1-results-decline-165-to-6447m",
       "sources": [
-        "Eurogamer",
-        "VGC"
+        "GamesIndustry.biz",
+        "Push Square"
       ],
       "reprises": 2,
-      "heures": 1.1,
-      "chaleur": 12,
+      "heures": 10.0,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/assassins-creed-black-flag-resynced-drives-ubisoft-q2-net-bookings-above-guidance-h1-results-decline-165-to-6447m",
+          "titre": "Ubisoft merges two Creative Houses as H1 results decline 16.5%; Q2 net bookings above guidance thanks to Assassin's Creed Black Flag remake"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/ubisoft-confirms-166-layoffs-at-key-assassins-creed-studios",
+          "titre": "Ubisoft Confirms 166 Layoffs at Key Assassin's Creed Studios"
+        }
+      ]
+    },
+    {
+      "id": "how-to-open-the-gta-6-kingpin-bowling-alley-safe",
+      "titre": "How to open the GTA 6 Kingpin Bowling Alley safe",
+      "url": "https://www.videogameschronicle.com/guide/how-to-open-the-gta-6-kingpin-bowling-alley-safe/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/how-to-open-the-gta-6-kingpin-bowling-alley-safe/",
+          "titre": "How to open the GTA 6 Kingpin Bowling Alley safe"
+        }
+      ]
+    },
+    {
+      "id": "podcast-gta-6-deep-ish-dive-with-jeff-gerstmann",
+      "titre": "Podcast: GTA 6 Deep (ish) Dive with Jeff Gerstmann",
+      "url": "https://www.videogameschronicle.com/blog/podcast/podcast-gta-6-deep-ish-dive-with-jeff-gerstmann/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/blog/podcast/podcast-gta-6-deep-ish-dive-with-jeff-gerstmann/",
+          "titre": "Podcast: GTA 6 Deep (ish) Dive with Jeff Gerstmann"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-slam-dunk-mission-walkthrough",
+      "titre": "GTA 6 Slam Dunk Mission Walkthrough",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-slam-dunk-mission-walkthrough/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 3.0,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-slam-dunk-mission-walkthrough/",
+          "titre": "GTA 6 Slam Dunk Mission Walkthrough"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-credits-actually-include-florida-joker-the-viral-inter",
+      "titre": "GTA 6 credits actually include 'Florida Joker', the viral internet personality who once demanded $10 million from Rockstar Games",
+      "url": "https://www.eurogamer.net/gta-6-credits-florida-joker-rockstar",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 3.4,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-sales-estimate-rockstar-grand-theft-auto",
-          "titre": "GTA 6 day-one sales are enormous, estimates suggest, making previous $2 billion opening weekend predictions seem conservative"
+          "url": "https://www.eurogamer.net/gta-6-credits-florida-joker-rockstar",
+          "titre": "GTA 6 credits actually include 'Florida Joker', the viral internet personality who once demanded $10 million from Rockstar Games"
+        }
+      ]
+    },
+    {
+      "id": "feature-gta-6-made-me-want-to-be-a-good-guy-or-girl",
+      "titre": "Feature: GTA 6 Made Me Want to Be a Good Guy (or Girl)",
+      "url": "https://www.pushsquare.com/features/gta-6-made-me-want-to-be-a-good-guy-or-girl",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 3.8,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/gta-6-made-me-want-to-be-a-good-guy-or-girl",
+          "titre": "Feature: GTA 6 Made Me Want to Be a Good Guy (or Girl)"
+        }
+      ]
+    },
+    {
+      "id": "nvidia-co-founder-jensen-huang-accused-of-decades-of-bullyin",
+      "titre": "Nvidia co-founder Jensen Huang accused of decades of bullying and workplace abuse in new investigation",
+      "url": "https://www.eurogamer.net/jensen-huang-nvidia-investigation-harassment",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 4.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/jensen-huang-nvidia-investigation-harassment",
+          "titre": "Nvidia co-founder Jensen Huang accused of decades of bullying and workplace abuse in new investigation"
         },
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/gta-6-sold-around-25-million-copies-and-made-2-36-billion-in-its-first-day-estimates-suggest/",
-          "titre": "GTA 6 sold around 25 million copies and made $2.36 billion in its first day, estimates suggest"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/nyt-report-documents-ex-nvidia-ceo-jensen-huangs-decades-of-berating-employees-he-said-he-would-rip-both-arms-off-a-subordinate-and-beat-the-person-over-the-head-to-death-with-them/",
+          "titre": "NYT report documents ex-Nvidia CEO Jensen Huang's decades of berating employees: 'He said he would rip both arms off a subordinate and beat the person over the head to death with them'"
         }
       ]
     },
@@ -211,8 +259,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 3,
-      "heures": 11.2,
-      "chaleur": 10,
+      "heures": 20.3,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -232,6 +280,354 @@ const VEILLE = {
       ]
     },
     {
+      "id": "persona-6-doesn-t-have-a-date-yet-but-atlus-says-you-won-t-h",
+      "titre": "Persona 6 Doesn't Have A Date Yet, But Atlus Says You Won't Have To Wait As Long For Persona 7",
+      "url": "https://www.nintendolife.com/news/2026/11/persona-6-doesnt-have-a-date-yet-but-atlus-says-you-wont-have-to-wait-as-long-for-persona-7",
+      "sources": [
+        "Nintendo Life",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 4.8,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/persona-6-doesnt-have-a-date-yet-but-atlus-says-you-wont-have-to-wait-as-long-for-persona-7",
+          "titre": "Persona 6 Doesn't Have A Date Yet, But Atlus Says You Won't Have To Wait As Long For Persona 7"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/atlus-doesnt-want-you-to-wait-yet-another-10-years-for-persona-7",
+          "titre": "Atlus Doesn't Want You to Wait Yet Another 10 Years for Persona 7"
+        }
+      ]
+    },
+    {
+      "id": "gamestop-boss-calls-for-return-of-physical-discs-just-as-gta",
+      "titre": "GameStop boss calls for return of physical discs just as GTA 6 does digital gangbusters",
+      "url": "https://www.pcgamer.com/gaming-industry/gamestop-boss-calls-for-return-of-physical-discs-just-as-gta-6-does-digital-gangbusters/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.0,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/gamestop-boss-calls-for-return-of-physical-discs-just-as-gta-6-does-digital-gangbusters/",
+          "titre": "GameStop boss calls for return of physical discs just as GTA 6 does digital gangbusters"
+        }
+      ]
+    },
+    {
+      "id": "want-to-stay-anonymous-when-doing-crimes-in-gta-6-grab-yours",
+      "titre": "Want to stay anonymous when doing crimes in GTA 6? Grab yourself a mask",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-mask-location/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-mask-location/",
+          "titre": "Want to stay anonymous when doing crimes in GTA 6? Grab yourself a mask"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-players-are-already-pulling-off-high-flying-tricks-and",
+      "titre": "GTA 6 players are already pulling off high-flying tricks and other impressive stunts, just days after launch",
+      "url": "https://www.eurogamer.net/gta-6-plane-vehicle-stunts-impressive",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.8,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-plane-vehicle-stunts-impressive",
+          "titre": "GTA 6 players are already pulling off high-flying tricks and other impressive stunts, just days after launch"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-wrestling-how-to-become-a-backyard-wrestler-in-gta-6",
+      "titre": "GTA 6 Wrestling: How to become a backyard wrestler in GTA 6",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-wrestling-how-to-become-a-backyard-wrestler-in-gta-6/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 5.8,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-wrestling-how-to-become-a-backyard-wrestler-in-gta-6/",
+          "titre": "GTA 6 Wrestling: How to become a backyard wrestler in GTA 6"
+        }
+      ]
+    },
+    {
+      "id": "podcast-should-your-teenager-play-gta-6",
+      "titre": "Podcast: Should your teenager play GTA 6?",
+      "url": "https://www.videogameschronicle.com/blog/podcast/podcast-should-your-teenager-play-gta-6/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 6.1,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/blog/podcast/podcast-should-your-teenager-play-gta-6/",
+          "titre": "Podcast: Should your teenager play GTA 6?"
+        }
+      ]
+    },
+    {
+      "id": "ampere-analysis-over-2m-uk-and-us-xbox-players-accessed-gta",
+      "titre": "Ampere Analysis: Over 2m UK and US Xbox players accessed GTA 6 before official launch by switching location to New Zealand",
+      "url": "https://www.gamesindustry.biz/ampere-analysis-over-1m-uk-and-us-xbox-players-accessed-gta-6-before-official-launch-by-switching-location-to-new-zealand",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 6.4,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/ampere-analysis-over-1m-uk-and-us-xbox-players-accessed-gta-6-before-official-launch-by-switching-location-to-new-zealand",
+          "titre": "Ampere Analysis: Over 2m UK and US Xbox players accessed GTA 6 before official launch by switching location to New Zealand"
+        }
+      ]
+    },
+    {
+      "id": "it-took-me-less-than-an-hour-to-find-my-first-incredibly-min",
+      "titre": "It took me less than an hour to find my first incredibly minor Rockstar easter egg in GTA 6 - but it has some big implications for Leonida",
+      "url": "https://www.eurogamer.net/gta-6-early-game-connection-rockstar-gta-5",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 6.4,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-early-game-connection-rockstar-gta-5",
+          "titre": "It took me less than an hour to find my first incredibly minor Rockstar easter egg in GTA 6 - but it has some big implications for Leonida"
+        }
+      ]
+    },
+    {
+      "id": "the-5-year-long-mystery-of-the-ufo-house-has-finally-been-so",
+      "titre": "The 5 year-long mystery of the UFO house has finally been solved in GTA 6, but one NPC knows too much",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/the-5-year-long-mystery-of-the-ufo-house-has-finally-been-solved-in-gta-6-but-one-npc-knows-too-much/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.6,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/the-5-year-long-mystery-of-the-ufo-house-has-finally-been-solved-in-gta-6-but-one-npc-knows-too-much/",
+          "titre": "The 5 year-long mystery of the UFO house has finally been solved in GTA 6, but one NPC knows too much"
+        }
+      ]
+    },
+    {
+      "id": "these-7-ps5-games-launched-on-the-same-day-as-gta-6-like-mad",
+      "titre": "These 7 PS5 Games Launched on the Same Day as GTA 6 Like Mad Men",
+      "url": "https://www.pushsquare.com/news/2026/11/these-7-ps5-games-launched-on-the-same-day-as-gta-6-like-mad-men",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 6.8,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/these-7-ps5-games-launched-on-the-same-day-as-gta-6-like-mad-men",
+          "titre": "These 7 PS5 Games Launched on the Same Day as GTA 6 Like Mad Men"
+        }
+      ]
+    },
+    {
+      "id": "it-s-unbelievably-hard-to-achieve-cyberpunk-2077-boss-pours",
+      "titre": "'It's Unbelievably Hard to Achieve': Cyberpunk 2077 Boss Pours Praise on 'Masterpiece' GTA 6",
+      "url": "https://www.pushsquare.com/news/2026/11/its-unbelievably-hard-to-achieve-cyberpunk-2077-boss-pours-praise-on-masterpiece-gta-6",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 7.3,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/its-unbelievably-hard-to-achieve-cyberpunk-2077-boss-pours-praise-on-masterpiece-gta-6",
+          "titre": "'It's Unbelievably Hard to Achieve': Cyberpunk 2077 Boss Pours Praise on 'Masterpiece' GTA 6"
+        }
+      ]
+    },
+    {
+      "id": "a-gta-6-pc-scam-kit-using-a-fake-pc-port-as-bait-is-availabl",
+      "titre": "A 'GTA 6 PC scam kit' using a fake PC port as bait is available for $200 on the dark web, says NordVPN, so watch what you click",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/a-gta-6-pc-scam-kit-using-a-fake-pc-port-as-bait-is-available-for-usd200-on-the-dark-web-says-nordvpn-so-watch-what-you-click/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 7.3,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/a-gta-6-pc-scam-kit-using-a-fake-pc-port-as-bait-is-available-for-usd200-on-the-dark-web-says-nordvpn-so-watch-what-you-click/",
+          "titre": "A 'GTA 6 PC scam kit' using a fake PC port as bait is available for $200 on the dark web, says NordVPN, so watch what you click"
+        }
+      ]
+    },
+    {
+      "id": "guide-43-switch-1-2-games-you-should-check-out-in-nintendo-s",
+      "titre": "Guide: 43 Switch 1 & 2 Games You Should Check Out In Nintendo's 'Adventure Awaits' eShop Sale (US)",
+      "url": "https://www.nintendolife.com/guides/43-switch-1-and-2-games-you-should-check-out-in-nintendos-adventure-awaits-eshop-sale-us",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 7.8,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/guides/43-switch-1-and-2-games-you-should-check-out-in-nintendos-adventure-awaits-eshop-sale-us",
+          "titre": "Guide: 43 Switch 1 & 2 Games You Should Check Out In Nintendo's 'Adventure Awaits' eShop Sale (US)"
+        }
+      ]
+    },
+    {
+      "id": "i-completed-gta-6-s-indie-game-darling-pastiche-tenebrae-lux",
+      "titre": "I completed GTA 6's indie game darling pastiche, Tenebrae Lux, and all I got was this lousy sense of accomplishment",
+      "url": "https://www.eurogamer.net/tenebrae-lux-gta-6-now-playing",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 8.4,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/tenebrae-lux-gta-6-now-playing",
+          "titre": "I completed GTA 6's indie game darling pastiche, Tenebrae Lux, and all I got was this lousy sense of accomplishment"
+        }
+      ]
+    },
+    {
+      "id": "zelda-switch-2-console-is-back-in-stock-soon-if-you-missed-o",
+      "titre": "Zelda Switch 2 Console Is Back In Stock Soon If You Missed Out (US)",
+      "url": "https://www.nintendolife.com/news/2026/11/zelda-switch-2-console-is-back-in-stock-soon-if-you-missed-out-us",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 8.5,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/zelda-switch-2-console-is-back-in-stock-soon-if-you-missed-out-us",
+          "titre": "Zelda Switch 2 Console Is Back In Stock Soon If You Missed Out (US)"
+        }
+      ]
+    },
+    {
+      "id": "uk-prime-minister-won-t-be-playing-gta-6-government-says-whi",
+      "titre": "UK Prime Minister won't be playing GTA 6, government says, while hailing Rockstar Games a \"British success story\"",
+      "url": "https://www.eurogamer.net/gta-6-uk-prime-minister-andy-burnham",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 8.6,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-uk-prime-minister-andy-burnham",
+          "titre": "UK Prime Minister won't be playing GTA 6, government says, while hailing Rockstar Games a \"British success story\""
+        }
+      ]
+    },
+    {
+      "id": "is-niko-bellic-in-gta-6",
+      "titre": "Is Niko Bellic in GTA 6?",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-niko-bellic/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 9.0,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-niko-bellic/",
+          "titre": "Is Niko Bellic in GTA 6?"
+        }
+      ]
+    },
+    {
+      "id": "playing-gta-6-this-weekend-here-s-16-spoiler-free-tips-for-y",
+      "titre": "Playing GTA 6 this weekend? Here's 16 spoiler-free tips for your first playthrough",
+      "url": "https://www.eurogamer.net/gta-6-spoiler-free-advice",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 9.2,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-spoiler-free-advice",
+          "titre": "Playing GTA 6 this weekend? Here's 16 spoiler-free tips for your first playthrough"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-too-dark-here-s-how-to-fix-it-on-ps5",
+      "titre": "GTA 6 Too Dark? Here's How to Fix It on PS5",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6-too-dark-heres-how-to-fix-it-on-ps5",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 9.3,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-too-dark-heres-how-to-fix-it-on-ps5",
+          "titre": "GTA 6 Too Dark? Here's How to Fix It on PS5"
+        }
+      ]
+    },
+    {
       "id": "the-actress-who-plays-mandy-in-gta-6-has-revealed-herself-if",
       "titre": "The actress who plays Mandy in GTA 6 has revealed herself: 'If you play the game, let me know if you find me'",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/the-actress-who-plays-mandy-in-gta-6-has-revealed-herself-if-you-play-the-game-let-me-know-if-you-find-me/",
@@ -239,8 +635,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 0.3,
-      "chaleur": 9,
+      "heures": 9.3,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
@@ -258,8 +654,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 0.6,
-      "chaleur": 9,
+      "heures": 9.6,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
@@ -274,74 +670,146 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-5-s-steam-concurrents-have-gone-up-rather-than-down-now",
-      "titre": "GTA 5's Steam concurrents have gone up rather than down now that GTA 6 is out, suggesting a lot of PC players are waiting",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-5s-steam-concurrents-have-gone-up-rather-than-down-now-that-gta-6-is-out-suggesting-a-lot-of-pc-players-are-waiting/",
+      "id": "gta-6-day-one-sales-are-enormous-estimates-suggest-making-pr",
+      "titre": "GTA 6 day-one sales are enormous, estimates suggest, making previous $2 billion opening weekend predictions seem conservative",
+      "url": "https://www.eurogamer.net/gta-6-sales-estimate-rockstar-grand-theft-auto",
       "sources": [
-        "Eurogamer",
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 10.1,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-sales-estimate-rockstar-grand-theft-auto",
+          "titre": "GTA 6 day-one sales are enormous, estimates suggest, making previous $2 billion opening weekend predictions seem conservative"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-leaker-claims-to-have-lobbed-a-near-complete-xbox-buil",
+      "titre": "GTA 6 leaker claims to have lobbed a near-complete Xbox build of Rockstar's crimsim onto the net, shouts that the \"community will have it emulated inside a week\"",
+      "url": "https://www.rockpapershotgun.com/gta-6-leaker-claims-to-have-lobbed-a-near-complete-xbox-build-of-rockstars-crimsim-onto-the-net-shouts-that-the-community-will-have-it-emulated-inside-a-week",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 11.1,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/gta-6-leaker-claims-to-have-lobbed-a-near-complete-xbox-build-of-rockstars-crimsim-onto-the-net-shouts-that-the-community-will-have-it-emulated-inside-a-week",
+          "titre": "GTA 6 leaker claims to have lobbed a near-complete Xbox build of Rockstar's crimsim onto the net, shouts that the \"community will have it emulated inside a week\""
+        }
+      ]
+    },
+    {
+      "id": "ign-partners-with-rockstar-to-host-official-strategy-guide-f",
+      "titre": "IGN partners with Rockstar to host Official Strategy Guide for GTA 6",
+      "url": "https://www.gamesindustry.biz/ign-partners-with-rockstar-to-host-official-strategy-guide-for-gta-6",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 11.6,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/ign-partners-with-rockstar-to-host-official-strategy-guide-for-gta-6",
+          "titre": "IGN partners with Rockstar to host Official Strategy Guide for GTA 6"
+        }
+      ]
+    },
+    {
+      "id": "after-taking-seven-years-to-make-persona-6-and-four-years-to",
+      "titre": "After taking seven years to make Persona 6 and four years to make Persona 5, Atlus promises future games will come quicker",
+      "url": "https://www.eurogamer.net/persona-6-games-come-quicker-atlus",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 2.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/persona-6-games-come-quicker-atlus",
+          "titre": "After taking seven years to make Persona 6 and four years to make Persona 5, Atlus promises future games will come quicker"
+        }
+      ]
+    },
+    {
+      "id": "etsy-sellers-are-closing-their-stores-in-response-to-the-pla",
+      "titre": "Etsy sellers are closing their stores in response to the platform's new AI training policy",
+      "url": "https://www.pcgamer.com/software/ai/etsy-sellers-are-closing-their-stores-in-response-to-the-platforms-new-ai-training-policy/",
+      "sources": [
         "PC Gamer"
       ],
-      "reprises": 2,
-      "heures": 14.7,
-      "chaleur": 9,
+      "reprises": 1,
+      "heures": 2.7,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-5s-steam-concurrents-have-gone-up-rather-than-down-now-that-gta-6-is-out-suggesting-a-lot-of-pc-players-are-waiting/",
-          "titre": "GTA 5's Steam concurrents have gone up rather than down now that GTA 6 is out, suggesting a lot of PC players are waiting"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-ufo-bigfoot-easter-eggs",
-          "titre": "GTA 6 players are being abducted by aliens and knocked out by Bigfoot"
+          "url": "https://www.pcgamer.com/software/ai/etsy-sellers-are-closing-their-stores-in-response-to-the-platforms-new-ai-training-policy/",
+          "titre": "Etsy sellers are closing their stores in response to the platform's new AI training policy"
         }
       ]
     },
     {
-      "id": "guide-gta-6-who-is-the-real-actor-jason-is-based-on",
-      "titre": "Guide: GTA 6: Who Is the Real Actor Jason Is Based On?",
-      "url": "https://www.pushsquare.com/guides/gta-6-who-is-the-real-actor-jason-is-based-on",
+      "id": "ubisoft-misses-forecast-and-bets-big-on-ai-development",
+      "titre": "Ubisoft misses forecast and bets big on AI development",
+      "url": "https://www.gamedeveloper.com/business/ubisoft-misses-forecast-and-bets-big-on-ai-development",
       "sources": [
-        "Eurogamer",
-        "Push Square"
+        "Game Developer"
       ],
-      "reprises": 2,
-      "heures": 19.2,
-      "chaleur": 9,
+      "reprises": 1,
+      "heures": 3.1,
+      "chaleur": 6,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/guides/gta-6-who-is-the-real-actor-jason-is-based-on",
-          "titre": "Guide: GTA 6: Who Is the Real Actor Jason Is Based On?"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-full-cast-list-jason-duval-actor",
-          "titre": "Rockstar reveals full GTA 6 cast list, finally ending speculation about who plays Jason Duval in the game"
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/ubisoft-misses-forecast-and-bets-big-on-ai-development",
+          "titre": "Ubisoft misses forecast and bets big on AI development"
         }
       ]
     },
     {
-      "id": "as-rockstar-s-alleged-union-busting-tribunal-hearing-comes-t",
-      "titre": "As Rockstar's alleged \"union busting\" tribunal hearing comes to a close amid GTA 6 launch, judge pledges to deliver verdict \"as quickly as I possibly can\"",
-      "url": "https://www.eurogamer.net/gta-6-rockstar-tribunal-awaits-verdict",
+      "id": "zelda-playable-electric-ocarinas-will-initially-be-sold-on-a",
+      "titre": "Zelda Playable & Electric Ocarinas Will Initially Be Sold On An Invite-Only Basis (Europe)",
+      "url": "https://www.nintendolife.com/news/2026/11/zelda-playable-and-electric-ocarinas-will-initially-be-sold-on-an-invite-only-basis-europe",
       "sources": [
-        "Eurogamer",
-        "Rock Paper Shotgun"
+        "Nintendo Life"
       ],
-      "reprises": 2,
-      "heures": 22.6,
-      "chaleur": 9,
+      "reprises": 1,
+      "heures": 6.3,
+      "chaleur": 6,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-rockstar-tribunal-awaits-verdict",
-          "titre": "As Rockstar's alleged \"union busting\" tribunal hearing comes to a close amid GTA 6 launch, judge pledges to deliver verdict \"as quickly as I possibly can\""
-        },
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/zelda-playable-and-electric-ocarinas-will-initially-be-sold-on-an-invite-only-basis-europe",
+          "titre": "Zelda Playable & Electric Ocarinas Will Initially Be Sold On An Invite-Only Basis (Europe)"
+        }
+      ]
+    },
+    {
+      "id": "pok-mon-like-temtem-s-bullet-heaven-spin-off-arrives-on-swit",
+      "titre": "Pokémon-Like Temtem's Bullet Heaven Spin-Off Arrives On Switch Next Year",
+      "url": "https://www.nintendolife.com/news/2026/11/pokemon-like-temtems-bullet-heaven-spin-off-arrives-on-switch-next-year",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 7.0,
+      "chaleur": 6,
+      "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/rockstar-firings-tribunal-hears-closing-statements-with-judge-promising-to-deliver-a-verdict-as-quickly-as-i-possibly-can-though-it-may-take-a-while",
-          "titre": "Rockstar firings tribunal hears closing statements, with judge promising to deliver a verdict \"as quickly as I possibly can\" - though it may take a while"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/pokemon-like-temtems-bullet-heaven-spin-off-arrives-on-switch-next-year",
+          "titre": "Pokémon-Like Temtem's Bullet Heaven Spin-Off Arrives On Switch Next Year"
         }
       ]
     },
@@ -353,8 +821,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.6,
-      "chaleur": 8,
+      "heures": 10.6,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
@@ -371,49 +839,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 8,
+      "heures": 11.7,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/valve-are-pausing-steam-machine-2tb-orders-over-supply-constraints-though-the-512gb-model-is-free-of-its-waitlist",
           "titre": "Valve are pausing Steam Machine 2TB orders over \"supply constraints,\" though the 512GB model is free of its waitlist"
-        }
-      ]
-    },
-    {
-      "id": "over-2-million-xbox-players-in-the-uk-and-us-reportedly-used",
-      "titre": "Over 2 million Xbox players in the UK and US reportedly used the 'New Zealand trick' to play GTA 6 early - that's more than a third of the country's population",
-      "url": "https://www.eurogamer.net/gta-6-new-zealand-trick-2m-players-early",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 21.1,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-new-zealand-trick-2m-players-early",
-          "titre": "Over 2 million Xbox players in the UK and US reportedly used the 'New Zealand trick' to play GTA 6 early - that's more than a third of the country's population"
-        }
-      ]
-    },
-    {
-      "id": "gta-for-gta-6-singleplayer-is-like-subscription-based-horse",
-      "titre": "GTA+ for GTA 6 singleplayer is like subscription-based horse armor",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-for-gta-6-singleplayer-is-like-subscription-based-horse-armor/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 11.7,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-for-gta-6-singleplayer-is-like-subscription-based-horse-armor/",
-          "titre": "GTA+ for GTA 6 singleplayer is like subscription-based horse armor"
         }
       ]
     },
@@ -425,193 +857,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.7,
-      "chaleur": 7,
+      "heures": 12.8,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/guides/gta-6-radio-songs-all-music-radio-stations-and-artists",
           "titre": "Guide: GTA 6: Radio Songs - All Music, Radio Stations, & Artists"
-        }
-      ]
-    },
-    {
-      "id": "openai-says-it-redesigned-an-amd-gpu-and-amd-is-using-some-o",
-      "titre": "OpenAI says it redesigned an AMD GPU and AMD is using some of those tweaks ‘for use in future products’",
-      "url": "https://www.pcgamer.com/hardware/openai-says-it-redesigned-an-amd-gpu-and-amd-is-using-some-of-those-tweaks-for-use-in-future-products/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 0.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/openai-says-it-redesigned-an-amd-gpu-and-amd-is-using-some-of-those-tweaks-for-use-in-future-products/",
-          "titre": "OpenAI says it redesigned an AMD GPU and AMD is using some of those tweaks ‘for use in future products’"
-        }
-      ]
-    },
-    {
-      "id": "how-the-eu-s-digital-fairness-act-will-impact-game-design-an",
-      "titre": "How the EU's Digital Fairness Act will impact game design, and why it hits European indies particularly hard",
-      "url": "https://www.gamesindustry.biz/how-the-eus-digital-fairness-act-will-impact-game-design-and-why-it-hits-european-indies-particularly-hard",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 0.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/how-the-eus-digital-fairness-act-will-impact-game-design-and-why-it-hits-european-indies-particularly-hard",
-          "titre": "How the EU's Digital Fairness Act will impact game design, and why it hits European indies particularly hard"
-        }
-      ]
-    },
-    {
-      "id": "total-war-warhammer-40-000-breaks-the-game-into-star-system",
-      "titre": "Total War: Warhammer 40,000 breaks the game into star system mini-campaigns, each with their own stories and objectives",
-      "url": "https://www.eurogamer.net/total-war-warhammer-40000-campaign-space-marines",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 0.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/total-war-warhammer-40000-campaign-space-marines",
-          "titre": "Total War: Warhammer 40,000 breaks the game into star system mini-campaigns, each with their own stories and objectives"
-        }
-      ]
-    },
-    {
-      "id": "i-ve-done-some-stupid-stuff-says-wow-forever-dev-who-s-addi",
-      "titre": "'I've done some stupid stuff', says WoW: Forever dev who's adding unique, fun items to the game: 'There's a lot they've not seen that I'm very happy with'",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/ive-done-some-stupid-stuff-says-wow-forever-dev-whos-adding-unique-fun-items-to-the-game-theres-a-lot-theyve-not-seen-that-im-very-happy-with/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 0.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/ive-done-some-stupid-stuff-says-wow-forever-dev-whos-adding-unique-fun-items-to-the-game-theres-a-lot-theyve-not-seen-that-im-very-happy-with/",
-          "titre": "'I've done some stupid stuff', says WoW: Forever dev who's adding unique, fun items to the game: 'There's a lot they've not seen that I'm very happy with'"
-        }
-      ]
-    },
-    {
-      "id": "the-creator-of-e-t-on-the-atari-2600-likens-the-deluge-of-ai",
-      "titre": "The creator of E.T. on the Atari 2600 likens the deluge of AI-made games to the glut of poor-quality titles released ahead of the US video game crash of 1983",
-      "url": "https://www.gamesindustry.biz/the-creator-of-et-on-the-atari-2600-likens-the-deluge-of-ai-made-games-to-the-glut-of-poor-quality-titles-released-ahead-of-the-us-video-game-crash-of-1983",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 1.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/the-creator-of-et-on-the-atari-2600-likens-the-deluge-of-ai-made-games-to-the-glut-of-poor-quality-titles-released-ahead-of-the-us-video-game-crash-of-1983",
-          "titre": "The creator of E.T. on the Atari 2600 likens the deluge of AI-made games to the glut of poor-quality titles released ahead of the US video game crash of 1983"
-        }
-      ]
-    },
-    {
-      "id": "pc-gamers-notice-nvidia-s-drivers-hammering-their-ssds-with",
-      "titre": "PC gamers notice Nvidia's drivers hammering their SSDs with tens of GB/hr of unnecessary writes – revert to 621.01 ASAP",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/pc-gamers-notice-nvidias-drivers-hammering-their-ssds-with-tens-of-gb-hr-of-unnecessary-writes-revert-to-621-01-asap/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/pc-gamers-notice-nvidias-drivers-hammering-their-ssds-with-tens-of-gb-hr-of-unnecessary-writes-revert-to-621-01-asap/",
-          "titre": "PC gamers notice Nvidia's drivers hammering their SSDs with tens of GB/hr of unnecessary writes – revert to 621.01 ASAP"
-        }
-      ]
-    },
-    {
-      "id": "now-more-than-ever-it-s-about-design-john-romero-loves-that",
-      "titre": "‘Now, more than ever, it’s about design’: John Romero loves that games are easier to make but warns ‘most are trash’",
-      "url": "https://www.videogameschronicle.com/news/now-more-than-ever-its-about-design-john-romero-loves-that-games-are-easier-to-make-but-warns-most-are-trash/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 1.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/now-more-than-ever-its-about-design-john-romero-loves-that-games-are-easier-to-make-but-warns-most-are-trash/",
-          "titre": "‘Now, more than ever, it’s about design’: John Romero loves that games are easier to make but warns ‘most are trash’"
-        }
-      ]
-    },
-    {
-      "id": "you-broke-my-heart-popular-artist-doja-cat-gutted-to-not-ha",
-      "titre": "\"You broke my heart\" - popular artist Doja Cat gutted to not have her music in Grand Theft Auto 6",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-doja-cat-gutted-not-in-soundtrack",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/grand-theft-auto-6-doja-cat-gutted-not-in-soundtrack",
-          "titre": "\"You broke my heart\" - popular artist Doja Cat gutted to not have her music in Grand Theft Auto 6"
-        }
-      ]
-    },
-    {
-      "id": "phonopolis-from-amanita-design-wins-grand-prize-at-the-devga",
-      "titre": "Phonopolis from Amanita Design wins Grand Prize at the DevGAMM Awards",
-      "url": "https://www.gamesindustry.biz/phonopolis-from-amanita-design-wins-grand-prize-at-the-devgamm-awards",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/phonopolis-from-amanita-design-wins-grand-prize-at-the-devgamm-awards",
-          "titre": "Phonopolis from Amanita Design wins Grand Prize at the DevGAMM Awards"
-        }
-      ]
-    },
-    {
-      "id": "dynasty-warriors-3-complete-edition-remastered-gets-a-new-sw",
-      "titre": "Dynasty Warriors 3: Complete Edition Remastered Gets A New Switch 2 Update",
-      "url": "https://www.nintendolife.com/news/2026/11/dynasty-warriors-3-complete-edition-remastered-gets-a-new-switch-2-update",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 7.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/dynasty-warriors-3-complete-edition-remastered-gets-a-new-switch-2-update",
-          "titre": "Dynasty Warriors 3: Complete Edition Remastered Gets A New Switch 2 Update"
         }
       ]
     },
@@ -623,67 +875,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.7,
+      "heures": 21.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/11/gta-6s-mandy-is-a-lot-of-fun-says-real-life-actress-as-ps5-players-are-smitten",
           "titre": "GTA 6's Mandy 'Is a Lot of Fun' Says Real-Life Actress as PS5 Players Are Smitten"
-        }
-      ]
-    },
-    {
-      "id": "help-i-can-t-stop-obeying-traffic-laws-in-gta-6",
-      "titre": "Help: I can't stop obeying traffic laws in GTA 6",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/help-i-cant-stop-obeying-traffic-laws-in-gta-6/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 14.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/help-i-cant-stop-obeying-traffic-laws-in-gta-6/",
-          "titre": "Help: I can't stop obeying traffic laws in GTA 6"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-has-the-best-use-of-the-ps5-controller-i-ve-ever-seen",
-      "titre": "GTA 6 has the best use of the PS5 controller I've ever seen",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-has-the-best-use-of-the-ps5-controller-ive-ever-seen/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 14.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-has-the-best-use-of-the-ps5-controller-ive-ever-seen/",
-          "titre": "GTA 6 has the best use of the PS5 controller I've ever seen"
-        }
-      ]
-    },
-    {
-      "id": "these-30-games-are-coming-to-nintendo-switch-eshop-this-week",
-      "titre": "These 30+ Games Are Coming To Nintendo Switch eShop This Week (November 19)",
-      "url": "https://www.nintendolife.com/news/2026/11/these-30plus-games-are-coming-to-nintendo-switch-eshop-this-week-november-19",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 17.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/these-30plus-games-are-coming-to-nintendo-switch-eshop-this-week-november-19",
-          "titre": "These 30+ Games Are Coming To Nintendo Switch eShop This Week (November 19)"
         }
       ]
     },
@@ -695,7 +893,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.2,
+      "heures": 27.3,
       "chaleur": 6,
       "liens": [
         {
@@ -714,7 +912,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 18.7,
+      "heures": 27.8,
       "chaleur": 6,
       "liens": [
         {
@@ -730,20 +928,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "ubisoft-cuts-jobs-at-major-assassin-s-creed-and-far-cry-stud",
-      "titre": "Ubisoft cuts jobs at major Assassin's Creed and Far Cry studios as its year of layoffs continues",
-      "url": "https://www.eurogamer.net/ubisoft-layoffs-166-assassins-creed-far-cry-montreal-quebec",
+      "id": "guide-gta-6-who-is-the-real-actor-jason-is-based-on",
+      "titre": "Guide: GTA 6: Who Is the Real Actor Jason Is Based On?",
+      "url": "https://www.pushsquare.com/guides/gta-6-who-is-the-real-actor-jason-is-based-on",
       "sources": [
-        "Eurogamer"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 19.0,
+      "heures": 28.3,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/ubisoft-layoffs-166-assassins-creed-far-cry-montreal-quebec",
-          "titre": "Ubisoft cuts jobs at major Assassin's Creed and Far Cry studios as its year of layoffs continues"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/guides/gta-6-who-is-the-real-actor-jason-is-based-on",
+          "titre": "Guide: GTA 6: Who Is the Real Actor Jason Is Based On?"
         }
       ]
     },
@@ -755,7 +953,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.5,
+      "heures": 28.5,
       "chaleur": 6,
       "liens": [
         {
@@ -773,49 +971,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 19.7,
+      "heures": 28.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/11/gta-6-doesnt-have-any-sex-workers-and-rockstar-has-explained-why",
           "titre": "GTA 6 Doesn't Have Any Sex Workers, and Rockstar Has Explained Why"
-        }
-      ]
-    },
-    {
-      "id": "does-gta-6-have-an-easy-mode-not-officially-but-there-are-tw",
-      "titre": "Does GTA 6 have an 'easy mode'? Not officially, but there are two very important settings you can change to make the game less difficult",
-      "url": "https://www.eurogamer.net/gta-6-easy-mode-accessibility-options",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 22.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-easy-mode-accessibility-options",
-          "titre": "Does GTA 6 have an 'easy mode'? Not officially, but there are two very important settings you can change to make the game less difficult"
-        }
-      ]
-    },
-    {
-      "id": "warren-spector-lambasts-gta-6-s-billion-dollar-development-i",
-      "titre": "Warren Spector lambasts GTA 6's \"billion dollar\" development - 'I just hope it's is the last of its kind even if it's the best we have to offer'",
-      "url": "https://www.eurogamer.net/gta-6-warren-spector-lambasts-billion-dollar-development",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 22.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-warren-spector-lambasts-billion-dollar-development",
-          "titre": "Warren Spector lambasts GTA 6's \"billion dollar\" development - 'I just hope it's is the last of its kind even if it's the best we have to offer'"
         }
       ]
     },
@@ -827,31 +989,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.0,
+      "heures": 32.0,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/11/japanese-charts-pikmin-4-makes-a-lukewarm-debut-on-switch-2-as-zelda-dominates",
           "titre": "Japanese Charts: Pikmin 4 Makes A Lukewarm Debut On Switch 2 As Zelda Dominates"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-has-an-easy-mode-buried-in-an-impressive-range-of-acce",
-      "titre": "GTA 6 Has an Easy Mode Buried in an Impressive Range of Accessibility Options",
-      "url": "https://www.pushsquare.com/news/2026/11/gta-6-has-an-easy-mode-buried-in-an-impressive-range-of-accessibility-options",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 23.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/gta-6-has-an-easy-mode-buried-in-an-impressive-range-of-accessibility-options",
-          "titre": "GTA 6 Has an Easy Mode Buried in an Impressive Range of Accessibility Options"
         }
       ]
     },
@@ -864,7 +1008,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 23.7,
+      "heures": 32.8,
       "chaleur": 6,
       "liens": [
         {
@@ -880,334 +1024,152 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-6-takes-over-ps5-s-welcome-page-including-a-new-set-of-w",
-      "titre": "GTA 6 Takes Over PS5's Welcome Page, Including a New Set of Wallpapers",
-      "url": "https://www.pushsquare.com/news/2026/11/gta-6-takes-over-ps5s-welcome-page-including-a-new-set-of-wallpapers",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 24.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/gta-6-takes-over-ps5s-welcome-page-including-a-new-set-of-wallpapers",
-          "titre": "GTA 6 Takes Over PS5's Welcome Page, Including a New Set of Wallpapers"
-        }
-      ]
-    },
-    {
-      "id": "round-up-spare-a-thought-for-these-games-launching-on-gta-6",
-      "titre": "Round Up: Spare A Thought For These Games Launching On 'GTA 6 Day'",
-      "url": "https://www.nintendolife.com/news/2026/11/round-up-spare-a-thought-for-these-games-launching-on-gta-6-day",
+      "id": "dynasty-warriors-3-complete-edition-remastered-gets-a-new-sw",
+      "titre": "Dynasty Warriors 3: Complete Edition Remastered Gets A New Switch 2 Update",
+      "url": "https://www.nintendolife.com/news/2026/11/dynasty-warriors-3-complete-edition-remastered-gets-a-new-switch-2-update",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 25.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/round-up-spare-a-thought-for-these-games-launching-on-gta-6-day",
-          "titre": "Round Up: Spare A Thought For These Games Launching On 'GTA 6 Day'"
-        }
-      ]
-    },
-    {
-      "id": "bmxing-tanuki-game-was-prepared-for-gta-6-s-launch-but-wasn",
-      "titre": "\"BMXing Tanuki Game\" Was Prepared For GTA 6's Launch, But Wasn't Expecting Zelda",
-      "url": "https://www.nintendolife.com/news/2026/11/bmxing-tanuki-game-was-prepared-for-gta-6s-launch-but-wasnt-expecting-zelda",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 31.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/bmxing-tanuki-game-was-prepared-for-gta-6s-launch-but-wasnt-expecting-zelda",
-          "titre": "\"BMXing Tanuki Game\" Was Prepared For GTA 6's Launch, But Wasn't Expecting Zelda"
-        }
-      ]
-    },
-    {
-      "id": "new-gta-6-players-be-careful-when-claiming-your-gta-pre-orde",
-      "titre": "New GTA 6 Players, Be Careful When Claiming Your GTA+ Pre-Order Bonus",
-      "url": "https://www.pushsquare.com/news/2026/11/new-gta-6-players-be-careful-when-claiming-your-gtaplus-pre-order-bonus",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 35.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/new-gta-6-players-be-careful-when-claiming-your-gtaplus-pre-order-bonus",
-          "titre": "New GTA 6 Players, Be Careful When Claiming Your GTA+ Pre-Order Bonus"
-        }
-      ]
-    },
-    {
-      "id": "trails-in-the-sky-switch-2-updates-add-30fps-lock-option-in",
-      "titre": "Trails In The Sky Switch 2 Updates Add 30fps Lock Option In Graphics Mode",
-      "url": "https://www.nintendolife.com/news/2026/11/trails-in-the-sky-switch-2-updates-add-30fps-lock-option-in-graphics-mode",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 29.8,
+      "heures": 16.3,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/trails-in-the-sky-switch-2-updates-add-30fps-lock-option-in-graphics-mode",
-          "titre": "Trails In The Sky Switch 2 Updates Add 30fps Lock Option In Graphics Mode"
+          "url": "https://www.nintendolife.com/news/2026/11/dynasty-warriors-3-complete-edition-remastered-gets-a-new-switch-2-update",
+          "titre": "Dynasty Warriors 3: Complete Edition Remastered Gets A New Switch 2 Update"
         }
       ]
     },
     {
-      "id": "xenoblade-chronicles-3-version-3-0-0-is-now-live-here-are-th",
-      "titre": "Xenoblade Chronicles 3 Version 3.0.0 Is Now Live, Here Are The Patch Notes",
-      "url": "https://www.nintendolife.com/news/2026/11/xenoblade-chronicles-3-version-3-0-0-is-now-live-here-are-the-patch-notes",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 9.5,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/xenoblade-chronicles-3-version-3-0-0-is-now-live-here-are-the-patch-notes",
-          "titre": "Xenoblade Chronicles 3 Version 3.0.0 Is Now Live, Here Are The Patch Notes"
-        }
-      ]
-    },
-    {
-      "id": "toby-fox-shares-deltarune-chapter-6-and-7-development-update",
-      "titre": "Toby Fox Shares Deltarune Chapter 6 And 7 Development Update",
-      "url": "https://www.nintendolife.com/news/2026/11/toby-fox-shares-deltarune-chapter-6-and-7-development-update",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/toby-fox-shares-deltarune-chapter-6-and-7-development-update",
-          "titre": "Toby Fox Shares Deltarune Chapter 6 And 7 Development Update"
-        }
-      ]
-    },
-    {
-      "id": "wolverine-ps5-s-sales-absolutely-plunged-in-october",
-      "titre": "Wolverine PS5's Sales Absolutely Plunged in October",
-      "url": "https://www.pushsquare.com/news/2026/11/wolverine-ps5s-sales-absolutely-plunged-in-october",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 10.7,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/wolverine-ps5s-sales-absolutely-plunged-in-october",
-          "titre": "Wolverine PS5's Sales Absolutely Plunged in October"
-        }
-      ]
-    },
-    {
-      "id": "lego-city-undercover-s-developer-is-teasing-something",
-      "titre": "LEGO City Undercover's Developer Is Teasing \"Something\"",
-      "url": "https://www.nintendolife.com/news/2026/11/lego-city-undercovers-developer-is-teasing-something",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 12.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/lego-city-undercovers-developer-is-teasing-something",
-          "titre": "LEGO City Undercover's Developer Is Teasing \"Something\""
-        }
-      ]
-    },
-    {
-      "id": "jennifer-hale-says-she-felt-sad-when-bioware-was-sold-to-ea",
-      "titre": "Jennifer Hale says she ‘felt sad when BioWare was sold to EA’",
-      "url": "https://www.videogameschronicle.com/news/jennifer-hale-says-she-felt-sad-when-bioware-was-sold-to-ea/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 14.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/jennifer-hale-says-she-felt-sad-when-bioware-was-sold-to-ea/",
-          "titre": "Jennifer Hale says she ‘felt sad when BioWare was sold to EA’"
-        }
-      ]
-    },
-    {
-      "id": "don-t-stress-about-collectathon-completionism-in-queen-s-dom",
-      "titre": "Don't stress about collectathon completionism in Queen's Domain: It eventually gives you tools to help find hidden treasures",
-      "url": "https://www.pcgamer.com/games/rpg/dont-stress-about-collectathon-completionism-in-queens-domain-it-eventually-gives-you-tools-to-help-find-hidden-treasures/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 14.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/dont-stress-about-collectathon-completionism-in-queens-domain-it-eventually-gives-you-tools-to-help-find-hidden-treasures/",
-          "titre": "Don't stress about collectathon completionism in Queen's Domain: It eventually gives you tools to help find hidden treasures"
-        }
-      ]
-    },
-    {
-      "id": "ubisoft-says-assassin-s-creed-jade-is-still-alive-as-it-merg",
-      "titre": "Ubisoft says Assassin's Creed Jade is still alive as it merges two of its Creative Houses",
-      "url": "https://www.eurogamer.net/ubisoft-assassins-creed-jade-still-in-development-creative-houses-merge",
+      "id": "13-arrested-in-shanghai-as-police-crackdown-on-bootleg-final",
+      "titre": "13 arrested in Shanghai as police crackdown on bootleg Final Fantasy 7 Tifa figurine operation",
+      "url": "https://www.eurogamer.net/final-fantasy-7-bootleg-tifa-figurine-china-13-arrested",
       "sources": [
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.6,
-      "chaleur": 3,
+      "heures": 5.1,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/ubisoft-assassins-creed-jade-still-in-development-creative-houses-merge",
-          "titre": "Ubisoft says Assassin's Creed Jade is still alive as it merges two of its Creative Houses"
+          "url": "https://www.eurogamer.net/final-fantasy-7-bootleg-tifa-figurine-china-13-arrested",
+          "titre": "13 arrested in Shanghai as police crackdown on bootleg Final Fantasy 7 Tifa figurine operation"
         }
       ]
     },
     {
-      "id": "top-20-best-selling-wii-games-of-all-time-revealed-us",
-      "titre": "Top 20 Best-Selling Wii Games Of All Time Revealed (US)",
-      "url": "https://www.nintendolife.com/news/2026/11/top-20-best-selling-wii-games-of-all-time-revealed-us",
+      "id": "fanatical-s-black-friday-build-your-own-capcom-collection-bu",
+      "titre": "Fanatical’s Black Friday Build Your Own Capcom Collection bundle lets you stock up on classics from $6.20 per game",
+      "url": "https://www.videogameschronicle.com/news/fanaticals-black-friday-build-your-own-capcom-collection-bundle-lets-you-stock-up-on-classics-from-6-20-per-game/",
       "sources": [
-        "Nintendo Life"
+        "VGC"
       ],
       "reprises": 1,
-      "heures": 18.0,
-      "chaleur": 3,
+      "heures": 5.6,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/top-20-best-selling-wii-games-of-all-time-revealed-us",
-          "titre": "Top 20 Best-Selling Wii Games Of All Time Revealed (US)"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/fanaticals-black-friday-build-your-own-capcom-collection-bundle-lets-you-stock-up-on-classics-from-6-20-per-game/",
+          "titre": "Fanatical’s Black Friday Build Your Own Capcom Collection bundle lets you stock up on classics from $6.20 per game"
         }
       ]
     },
     {
-      "id": "ubisoft-lays-off-166-in-canada-across-montr-al-and-quebec-ci",
-      "titre": "Ubisoft lays off 166 in Canada across Montréal and Quebec City",
-      "url": "https://www.gamedeveloper.com/business/ubiosft-lays-off-166-in-canada",
+      "id": "nvidia-s-latest-graphics-card-driver-appears-to-be-unnecessa",
+      "titre": "Nvidia's latest graphics card driver appears to be unnecessarily writing to PC SSDs, something that's dumb, annoying and definitely warrants reverting",
+      "url": "https://www.rockpapershotgun.com/nvidias-latest-graphics-card-driver-appears-to-be-unnecessarily-writing-to-pc-ssds-something-thats-dumb-annoying-and-definitely-warrants-reverting",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 5.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/nvidias-latest-graphics-card-driver-appears-to-be-unnecessarily-writing-to-pc-ssds-something-thats-dumb-annoying-and-definitely-warrants-reverting",
+          "titre": "Nvidia's latest graphics card driver appears to be unnecessarily writing to PC SSDs, something that's dumb, annoying and definitely warrants reverting"
+        }
+      ]
+    },
+    {
+      "id": "star-wars-galactic-racer-studio-didn-t-dream-biddy-blas-woul",
+      "titre": "Star Wars: Galactic Racer studio \"didn't dream\" Biddy Blas would be as popular as he is",
+      "url": "https://www.eurogamer.net/biddy-blas-star-wars-galactic-racer-viral-scrib-doon",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/biddy-blas-star-wars-galactic-racer-viral-scrib-doon",
+          "titre": "Star Wars: Galactic Racer studio \"didn't dream\" Biddy Blas would be as popular as he is"
+        }
+      ]
+    },
+    {
+      "id": "is-control-resonant-s-protagonist-a-sad-wet-man-ft-mikael-ka",
+      "titre": "Is Control Resonant's protagonist a 'sad wet man?' ft. Mikael Kasurinen",
+      "url": "https://www.gamedeveloper.com/design/is-control-resonant-s-protagonist-a-sad-wet-man-ft-mikael-kasurinen",
       "sources": [
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 18.9,
-      "chaleur": 3,
+      "heures": 6.5,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/ubiosft-lays-off-166-in-canada",
-          "titre": "Ubisoft lays off 166 in Canada across Montréal and Quebec City"
+          "url": "https://www.gamedeveloper.com/design/is-control-resonant-s-protagonist-a-sad-wet-man-ft-mikael-kasurinen",
+          "titre": "Is Control Resonant's protagonist a 'sad wet man?' ft. Mikael Kasurinen"
         }
       ]
     },
     {
-      "id": "space-station-horror-fps-derelikt-is-a-lively-retro-throwbac",
-      "titre": "Space station horror-FPS Derelikt is a lively retro throwback to Alien: Resurrection, though it's better at shooting than scaring",
-      "url": "https://www.rockpapershotgun.com/space-station-horror-fps-derelikt-is-a-lively-retro-throwback-to-alien-resurrection-though-its-better-at-shooting-than-scaring",
+      "id": "vote-now-for-2026-s-rps-100-reader-edition",
+      "titre": "Vote now for 2026's RPS 100: Reader Edition",
+      "url": "https://www.rockpapershotgun.com/vote-now-for-2026s-rps-100-reader-edition",
       "sources": [
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 19.1,
-      "chaleur": 3,
+      "heures": 7.8,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/space-station-horror-fps-derelikt-is-a-lively-retro-throwback-to-alien-resurrection-though-its-better-at-shooting-than-scaring",
-          "titre": "Space station horror-FPS Derelikt is a lively retro throwback to Alien: Resurrection, though it's better at shooting than scaring"
+          "url": "https://www.rockpapershotgun.com/vote-now-for-2026s-rps-100-reader-edition",
+          "titre": "Vote now for 2026's RPS 100: Reader Edition"
         }
       ]
     },
     {
-      "id": "ignore-that-other-game-about-crime-that-s-out-and-burgle-som",
-      "titre": "Ignore that other game about crime that's out and burgle some ugly farmhouses in Keepsake County, a \"midwestern stealth game\" with a 2000s Cartoon Network vibe",
-      "url": "https://www.rockpapershotgun.com/ignore-that-other-game-about-crime-thats-out-and-burgle-some-ugly-farmhouses-in-keepsake-county-a-midwestern-stealth-game-with-a-2000s-cartoon-network-vibe",
+      "id": "akira-kurabayashi-company-director-at-arika-and-developer-on",
+      "titre": "Akira Kurabayashi, company director at Arika and developer on Street Fighter EX, Tetris 99, Fighting EX Layer and more, has sadly passed away due to heart failure",
+      "url": "https://www.rockpapershotgun.com/akira-kurabayashi-company-director-at-arika-and-developer-on-street-fighter-ex-tetris-99-fighting-ex-layer-and-more-has-sadly-passed-away-due-to-heart-failure",
       "sources": [
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 19.6,
-      "chaleur": 3,
+      "heures": 8.8,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/ignore-that-other-game-about-crime-thats-out-and-burgle-some-ugly-farmhouses-in-keepsake-county-a-midwestern-stealth-game-with-a-2000s-cartoon-network-vibe",
-          "titre": "Ignore that other game about crime that's out and burgle some ugly farmhouses in Keepsake County, a \"midwestern stealth game\" with a 2000s Cartoon Network vibe"
-        }
-      ]
-    },
-    {
-      "id": "why-greenlighting-dressmaker-wasn-t-an-easy-decision-to-make",
-      "titre": "Why greenlighting Dressmaker wasn't an easy decision to make",
-      "url": "https://www.gamedeveloper.com/marketing/why-greenlighting-dressmaker-wasn-t-an-easy-decision-to-make",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 20.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/marketing/why-greenlighting-dressmaker-wasn-t-an-easy-decision-to-make",
-          "titre": "Why greenlighting Dressmaker wasn't an easy decision to make"
-        }
-      ]
-    },
-    {
-      "id": "fish-with-a-sniper-rifle-takes-aim-at-tim-sweeney-s-hopes-an",
-      "titre": "Fish with a sniper rifle takes aim at Tim Sweeney's hopes and dreams, as genAI-free meme game tops Epic Games' vibe-coding megajam",
-      "url": "https://www.rockpapershotgun.com/fish-with-a-sniper-rifle-takes-aim-at-tim-sweeneys-hopes-and-dreams-as-genai-free-meme-game-tops-epic-games-vibe-coding-megajam",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 21.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/fish-with-a-sniper-rifle-takes-aim-at-tim-sweeneys-hopes-and-dreams-as-genai-free-meme-game-tops-epic-games-vibe-coding-megajam",
-          "titre": "Fish with a sniper rifle takes aim at Tim Sweeney's hopes and dreams, as genAI-free meme game tops Epic Games' vibe-coding megajam"
+          "url": "https://www.rockpapershotgun.com/akira-kurabayashi-company-director-at-arika-and-developer-on-street-fighter-ex-tetris-99-fighting-ex-layer-and-more-has-sadly-passed-away-due-to-heart-failure",
+          "titre": "Akira Kurabayashi, company director at Arika and developer on Street Fighter EX, Tetris 99, Fighting EX Layer and more, has sadly passed away due to heart failure"
         }
       ]
     }
   ],
   "alertes": [
-    "GTA 6 leaker claims to have lobbed a near-complete Xbox build of Rockstar's crimsim onto the net, shouts that the \"community will have it emulated inside a week\"",
-    "Playing GTA 6 this weekend? Here's 16 spoiler-free tips for your first playthrough",
-    "Assassin's Creed Black Flag Resynced drives Ubisoft Q2 net bookings above guidance; H1 results decline 16.5% to €644.7m",
-    "IGN partners with Rockstar to host Official Strategy Guide for GTA 6"
+    "GTA 6 hits $3.79 billion in its first day on sale, becoming \"the biggest entertainment launch in history\"",
+    "21% of Rockstar staff have been employed by the company for over 10 years, which explains a lot about GTA 6's record-breaking launch"
   ]
 };
