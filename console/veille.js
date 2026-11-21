@@ -1,73 +1,33 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "21/11/2026 à 03h07",
+  "collecte": "21/11/2026 à 12h29",
   "seuil": 14,
   "sujets": [
     {
-      "id": "61-of-all-us-ps5-owners-played-gta-6-on-launch-day-averaging",
-      "titre": "61% of All US PS5 Owners Played GTA 6 on Launch Day, Averaging 8 Hours",
-      "url": "https://www.pushsquare.com/news/2026/11/61percent-of-all-us-ps5-owners-played-gta-6-on-launch-day-averaging-8-hours",
+      "id": "expedition-33-lead-writer-says-grand-theft-auto-6-layoff-con",
+      "titre": "Expedition 33 lead writer says Grand Theft Auto 6 layoff concerns show that 'people creating the value do not receive a proportionate amount of that value'",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/expedition-33-lead-writer-says-grand-theft-auto-6-layoff-concerns-show-that-people-creating-the-value-do-not-receive-a-proportionate-amount-of-that-value/",
       "sources": [
         "Eurogamer",
-        "GamesIndustry.biz",
-        "Nintendo Life",
-        "PC Gamer",
-        "Push Square"
-      ],
-      "reprises": 5,
-      "heures": 1.1,
-      "chaleur": 21,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/61percent-of-all-us-ps5-owners-played-gta-6-on-launch-day-averaging-8-hours",
-          "titre": "61% of All US PS5 Owners Played GTA 6 on Launch Day, Averaging 8 Hours"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-biggest-entertainment-launch",
-          "titre": "GTA 6 is officially the biggest entertainment launch of all time, selling 32.5 million pre-sale copies and a bonkers $3.79 billion in its first day"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-earned-usd3-79-billion-on-launch-day/",
-          "titre": "Grand Theft Auto 6 earned $3.79 billion on launch day"
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/gta-6-the-first-billion-dollar-game-may-also-be-the-last",
-          "titre": "GTA 6: the first billion-dollar game may also be the last | Opinion"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/top-20-best-selling-wii-games-of-all-time-revealed-us",
-          "titre": "Top 20 Best-Selling Wii Games Of All Time Revealed (US)"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-pc-release-date-is-grand-theft-auto-6-coming-to-pc",
-      "titre": "GTA 6 PC release date: Is Grand Theft Auto 6 coming to PC?",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-pc-version/",
-      "sources": [
         "Game Developer",
         "GamesIndustry.biz",
         "PC Gamer",
+        "Push Square",
         "VGC"
       ],
-      "reprises": 4,
-      "heures": 4.7,
-      "chaleur": 16,
+      "reprises": 6,
+      "heures": 0.6,
+      "chaleur": 29,
       "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/expedition-33-lead-writer-says-grand-theft-auto-6-layoff-concerns-show-that-people-creating-the-value-do-not-receive-a-proportionate-amount-of-that-value/",
+          "titre": "Expedition 33 lead writer says Grand Theft Auto 6 layoff concerns show that 'people creating the value do not receive a proportionate amount of that value'"
+        },
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/guide/gta-6-pc-version/",
           "titre": "GTA 6 PC release date: Is Grand Theft Auto 6 coming to PC?"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/florida-joker-gets-his-wish-hes-a-special-voice-actor-in-grand-theft-auto-6/",
-          "titre": "Florida Joker gets his wish: He's a 'special voice actor' in Grand Theft Auto 6"
         },
         {
           "source": "Game Developer",
@@ -78,6 +38,46 @@ const VEILLE = {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/gta-6-hits-379-billion-in-its-first-day-on-sale-becoming-the-biggest-entertainment-launch-in-history",
           "titre": "GTA 6 hits $3.79 billion in its first day on sale, becoming \"the biggest entertainment launch in history\""
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-biggest-entertainment-launch",
+          "titre": "GTA 6 is officially the biggest entertainment launch of all time, selling 32.5 million pre-sale copies and a bonkers $3.79 billion in its first day"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-sells-a-record-breaking-32-5-million-copies",
+          "titre": "GTA 6 Sells a Record-Breaking 32.5 Million Copies"
+        }
+      ]
+    },
+    {
+      "id": "what-are-we-all-playing-this-weekend",
+      "titre": "What are we all playing this weekend?",
+      "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-409",
+      "sources": [
+        "Nintendo Life",
+        "Push Square",
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 3,
+      "heures": 1.5,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-409",
+          "titre": "What are we all playing this weekend?"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-21st-november",
+          "titre": "Talking Point: What Are You Playing This Weekend? (21st November)"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/talking-point-what-are-you-playing-this-weekend-issue-659",
+          "titre": "Talking Point: What Are You Playing This Weekend? - Issue 659"
         }
       ]
     },
@@ -89,8 +89,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.1,
-      "chaleur": 11,
+      "heures": 9.5,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Push Square",
@@ -100,110 +100,44 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-6-twist-wrist-smash-grab-walkthrough-how-to-rob-the-armo",
-      "titre": "GTA 6 Twist Wrist, Smash, Grab walkthrough: How to rob the armoured van",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-twist-wrist-smash-grab-walkthrough/",
+      "id": "amid-a-year-of-layoffs-ubisoft-yank-the-cover-off-motherbrai",
+      "titre": "Amid a year of layoffs, Ubisoft yank the cover off Motherbrain, their new studio \"focused on AI for gameplay innovation\"",
+      "url": "https://www.rockpapershotgun.com/amid-a-year-of-layoffs-ubisoft-yank-the-cover-off-motherbrain-their-new-studio-focused-on-ai-for-gameplay-innovation",
       "sources": [
-        "VGC"
+        "GamesIndustry.biz",
+        "Rock Paper Shotgun"
       ],
-      "reprises": 1,
-      "heures": 1.3,
+      "reprises": 2,
+      "heures": 24.3,
       "chaleur": 9,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/gta-6-twist-wrist-smash-grab-walkthrough/",
-          "titre": "GTA 6 Twist Wrist, Smash, Grab walkthrough: How to rob the armoured van"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/amid-a-year-of-layoffs-ubisoft-yank-the-cover-off-motherbrain-their-new-studio-focused-on-ai-for-gameplay-innovation",
+          "titre": "Amid a year of layoffs, Ubisoft yank the cover off Motherbrain, their new studio \"focused on AI for gameplay innovation\""
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/ubisoft-launches-motherbrain-a-new-subsidiary-focused-on-ai-driven-gameplay-innovation",
+          "titre": "Ubisoft launches Motherbrain, a new subsidiary focused on AI-driven \"gameplay innovation\""
         }
       ]
     },
     {
-      "id": "gta-6-thrillbillies-walkthrough-how-to-beat-billy-s-dirt-bik",
-      "titre": "GTA 6 Thrillbillies walkthrough: How to beat Billy’s dirt bike race",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-thrillbillies-walkthrough/",
+      "id": "the-wolf-among-us-remastered-has-been-delayed-for-switch",
+      "titre": "The Wolf Among Us Remastered Has Been Delayed For Switch",
+      "url": "https://www.nintendolife.com/news/2026/11/the-wolf-among-us-remastered-has-been-delayed-for-switch",
       "sources": [
-        "VGC"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.3,
-      "chaleur": 9,
+      "heures": 9.0,
+      "chaleur": 8,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/gta-6-thrillbillies-walkthrough/",
-          "titre": "GTA 6 Thrillbillies walkthrough: How to beat Billy’s dirt bike race"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-checking-out-walkthrough-chapter-2-point-of-no-return",
-      "titre": "GTA 6 Checking Out walkthrough: Chapter 2 point of no return explained",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-checking-out-walkthrough/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 1.8,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/gta-6-checking-out-walkthrough/",
-          "titre": "GTA 6 Checking Out walkthrough: Chapter 2 point of no return explained"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-has-secret-playlists-and-all-you-have-to-do-is-scan-a",
-      "titre": "GTA 6 has secret playlists, and all you have to do is scan a few posters to unlock them",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-unique-playlists/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-unique-playlists/",
-          "titre": "GTA 6 has secret playlists, and all you have to do is scan a few posters to unlock them"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-afternoon-delight-walkthrough-safe-code-jason-s-dance",
-      "titre": "GTA 6 Afternoon Delight walkthrough: Safe code, Jason’s dance choice and rewards",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-afternoon-delight-walkthrough-safe-code-jasons-dance-choice-and-rewards/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/gta-6-afternoon-delight-walkthrough-safe-code-jasons-dance-choice-and-rewards/",
-          "titre": "GTA 6 Afternoon Delight walkthrough: Safe code, Jason’s dance choice and rewards"
-        }
-      ]
-    },
-    {
-      "id": "guide-gta-6-how-to-get-ultimate-edition-items-pre-order-bonu",
-      "titre": "Guide: GTA 6: How to Get Ultimate Edition Items & Pre-Order Bonuses",
-      "url": "https://www.pushsquare.com/guides/gta-6-how-to-get-ultimate-edition-items-and-pre-order-bonuses",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 3.4,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/guides/gta-6-how-to-get-ultimate-edition-items-and-pre-order-bonuses",
-          "titre": "Guide: GTA 6: How to Get Ultimate Edition Items & Pre-Order Bonuses"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/the-wolf-among-us-remastered-has-been-delayed-for-switch",
+          "titre": "The Wolf Among Us Remastered Has Been Delayed For Switch"
         }
       ]
     },
@@ -215,8 +149,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.4,
-      "chaleur": 9,
+      "heures": 15.8,
+      "chaleur": 8,
       "liens": [
         {
           "source": "PC Gamer",
@@ -234,8 +168,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 9.8,
-      "chaleur": 9,
+      "heures": 19.2,
+      "chaleur": 8,
       "liens": [
         {
           "source": "Eurogamer",
@@ -250,56 +184,218 @@ const VEILLE = {
       ]
     },
     {
-      "id": "amid-a-year-of-layoffs-ubisoft-yank-the-cover-off-motherbrai",
-      "titre": "Amid a year of layoffs, Ubisoft yank the cover off Motherbrain, their new studio \"focused on AI for gameplay innovation\"",
-      "url": "https://www.rockpapershotgun.com/amid-a-year-of-layoffs-ubisoft-yank-the-cover-off-motherbrain-their-new-studio-focused-on-ai-for-gameplay-innovation",
+      "id": "guide-zelda-ocarina-of-time-walkthrough-switch-2-remake-guid",
+      "titre": "Guide: Zelda: Ocarina Of Time Walkthrough (Switch 2 Remake): Guide To The Main Quest, Side Quests & Collectables",
+      "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-walkthrough-switch-2-remake",
       "sources": [
-        "GamesIndustry.biz",
-        "Rock Paper Shotgun"
+        "Nintendo Life"
       ],
-      "reprises": 2,
-      "heures": 15.0,
-      "chaleur": 9,
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 7,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/amid-a-year-of-layoffs-ubisoft-yank-the-cover-off-motherbrain-their-new-studio-focused-on-ai-for-gameplay-innovation",
-          "titre": "Amid a year of layoffs, Ubisoft yank the cover off Motherbrain, their new studio \"focused on AI for gameplay innovation\""
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/ubisoft-launches-motherbrain-a-new-subsidiary-focused-on-ai-driven-gameplay-innovation",
-          "titre": "Ubisoft launches Motherbrain, a new subsidiary focused on AI-driven \"gameplay innovation\""
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-walkthrough-switch-2-remake",
+          "titre": "Guide: Zelda: Ocarina Of Time Walkthrough (Switch 2 Remake): Guide To The Main Quest, Side Quests & Collectables"
         }
       ]
     },
     {
-      "id": "ubisoft-is-laying-off-staff-from-two-of-its-biggest-studios",
-      "titre": "Ubisoft Is Laying Off Staff From Two Of Its Biggest Studios",
-      "url": "https://www.nintendolife.com/news/2026/11/ubisoft-is-laying-off-staff-from-two-of-its-biggest-studios",
+      "id": "61-of-all-us-ps5-owners-played-gta-6-on-launch-day-averaging",
+      "titre": "61% of All US PS5 Owners Played GTA 6 on Launch Day, Averaging 8 Hours",
+      "url": "https://www.pushsquare.com/news/2026/11/61percent-of-all-us-ps5-owners-played-gta-6-on-launch-day-averaging-8-hours",
       "sources": [
-        "GamesIndustry.biz",
-        "Nintendo Life",
-        "Rock Paper Shotgun"
+        "Push Square"
       ],
-      "reprises": 3,
-      "heures": 33.1,
-      "chaleur": 9,
+      "reprises": 1,
+      "heures": 10.5,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/61percent-of-all-us-ps5-owners-played-gta-6-on-launch-day-averaging-8-hours",
+          "titre": "61% of All US PS5 Owners Played GTA 6 on Launch Day, Averaging 8 Hours"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-twist-wrist-smash-grab-walkthrough-how-to-rob-the-armo",
+      "titre": "GTA 6 Twist Wrist, Smash, Grab walkthrough: How to rob the armoured van",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-twist-wrist-smash-grab-walkthrough/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 10.7,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-twist-wrist-smash-grab-walkthrough/",
+          "titre": "GTA 6 Twist Wrist, Smash, Grab walkthrough: How to rob the armoured van"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-thrillbillies-walkthrough-how-to-beat-billy-s-dirt-bik",
+      "titre": "GTA 6 Thrillbillies walkthrough: How to beat Billy’s dirt bike race",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-thrillbillies-walkthrough/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 10.7,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-thrillbillies-walkthrough/",
+          "titre": "GTA 6 Thrillbillies walkthrough: How to beat Billy’s dirt bike race"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-checking-out-walkthrough-chapter-2-point-of-no-return",
+      "titre": "GTA 6 Checking Out walkthrough: Chapter 2 point of no return explained",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-checking-out-walkthrough/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 11.1,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-checking-out-walkthrough/",
+          "titre": "GTA 6 Checking Out walkthrough: Chapter 2 point of no return explained"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-has-secret-playlists-and-all-you-have-to-do-is-scan-a",
+      "titre": "GTA 6 has secret playlists, and all you have to do is scan a few posters to unlock them",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-unique-playlists/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 11.7,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-unique-playlists/",
+          "titre": "GTA 6 has secret playlists, and all you have to do is scan a few posters to unlock them"
+        }
+      ]
+    },
+    {
+      "id": "guide-these-11-ps5-and-ps-plus-games-are-coming-out-next-wee",
+      "titre": "Guide: These 11+ PS5 and PS Plus Games Are Coming Out Next Week (23rd-29th November)",
+      "url": "https://www.pushsquare.com/guides/these-11plus-ps5-and-ps-plus-games-are-coming-out-next-week-23rd-29th-november",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/guides/these-11plus-ps5-and-ps-plus-games-are-coming-out-next-week-23rd-29th-november",
+          "titre": "Guide: These 11+ PS5 and PS Plus Games Are Coming Out Next Week (23rd-29th November)"
+        }
+      ]
+    },
+    {
+      "id": "what-if-vampire-survivors-met-grand-theft-auto-2-maniac-is-a",
+      "titre": "What if Vampire Survivors met Grand Theft Auto 2? Maniac is a brilliant mash-up that dares to ask that question",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-vampire-survivors-maniac-interview",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 2.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/grand-theft-auto-6-vampire-survivors-maniac-interview",
+          "titre": "What if Vampire Survivors met Grand Theft Auto 2? Maniac is a brilliant mash-up that dares to ask that question"
+        }
+      ]
+    },
+    {
+      "id": "sakurai-celebrates-kirby-air-riders-first-anniversary-and-se",
+      "titre": "Sakurai Celebrates Kirby Air Riders' First Anniversary And Seemingly Ponders His Future As A Game Creator",
+      "url": "https://www.nintendolife.com/news/2026/11/sakurai-celebrates-kirby-air-riders-first-anniversary-and-seemingly-ponders-his-future-as-a-game-creator",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 4.0,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/ubisoft-is-laying-off-staff-from-two-of-its-biggest-studios",
-          "titre": "Ubisoft Is Laying Off Staff From Two Of Its Biggest Studios"
-        },
+          "url": "https://www.nintendolife.com/news/2026/11/sakurai-celebrates-kirby-air-riders-first-anniversary-and-seemingly-ponders-his-future-as-a-game-creator",
+          "titre": "Sakurai Celebrates Kirby Air Riders' First Anniversary And Seemingly Ponders His Future As A Game Creator"
+        }
+      ]
+    },
+    {
+      "id": "zelda-s-ocarina-remake-is-one-of-metacritic-s-highest-rated",
+      "titre": "Zelda's Ocarina Remake Is One Of Metacritic's Highest-Rated Games In 2026, According To User Scores",
+      "url": "https://www.nintendolife.com/news/2026/11/zeldas-ocarina-remake-is-one-of-metacritics-highest-rated-games-in-2026-according-to-user-scores",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 7.0,
+      "chaleur": 6,
+      "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/ubisoft-lay-off-166-more-staff-this-time-at-their-montreal-and-quebec-city-studios-while-mumbling-about-current-production-priorities-and-business-needs",
-          "titre": "Ubisoft lay off 166 more staff, this time at their Montreal and Quebec City studios, while mumbling about \"current production priorities and business needs\""
-        },
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/zeldas-ocarina-remake-is-one-of-metacritics-highest-rated-games-in-2026-according-to-user-scores",
+          "titre": "Zelda's Ocarina Remake Is One Of Metacritic's Highest-Rated Games In 2026, According To User Scores"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-afternoon-delight-walkthrough-safe-code-jason-s-dance",
+      "titre": "GTA 6 Afternoon Delight walkthrough: Safe code, Jason’s dance choice and rewards",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-afternoon-delight-walkthrough-safe-code-jasons-dance-choice-and-rewards/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 12.1,
+      "chaleur": 6,
+      "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/ubisoft-lays-off-166-staff-in-montreal-and-quebec-studios",
-          "titre": "Ubisoft lays off 166 staff in Montreal and Quebec studios"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-afternoon-delight-walkthrough-safe-code-jasons-dance-choice-and-rewards/",
+          "titre": "GTA 6 Afternoon Delight walkthrough: Safe code, Jason’s dance choice and rewards"
+        }
+      ]
+    },
+    {
+      "id": "guide-gta-6-how-to-get-ultimate-edition-items-pre-order-bonu",
+      "titre": "Guide: GTA 6: How to Get Ultimate Edition Items & Pre-Order Bonuses",
+      "url": "https://www.pushsquare.com/guides/gta-6-how-to-get-ultimate-edition-items-and-pre-order-bonuses",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 12.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/guides/gta-6-how-to-get-ultimate-edition-items-and-pre-order-bonuses",
+          "titre": "Guide: GTA 6: How to Get Ultimate Edition Items & Pre-Order Bonuses"
         }
       ]
     },
@@ -311,8 +407,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.6,
-      "chaleur": 7,
+      "heures": 13.9,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
@@ -329,8 +425,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.3,
-      "chaleur": 7,
+      "heures": 14.6,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
@@ -347,8 +443,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.3,
-      "chaleur": 7,
+      "heures": 15.6,
+      "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
@@ -365,8 +461,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.9,
-      "chaleur": 7,
+      "heures": 16.2,
+      "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
@@ -383,8 +479,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.7,
-      "chaleur": 7,
+      "heures": 18.1,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
@@ -401,8 +497,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 9.1,
-      "chaleur": 7,
+      "heures": 18.5,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
@@ -420,8 +516,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 10.1,
-      "chaleur": 7,
+      "heures": 19.5,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -443,8 +539,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.4,
-      "chaleur": 7,
+      "heures": 19.7,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
@@ -461,8 +557,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.7,
-      "chaleur": 7,
+      "heures": 20.1,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
@@ -479,8 +575,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 7,
+      "heures": 20.5,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
@@ -497,8 +593,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 7,
+      "heures": 21.1,
+      "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -515,8 +611,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 7,
+      "heures": 21.2,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
@@ -533,85 +629,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.0,
-      "chaleur": 7,
+      "heures": 21.3,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/the-5-year-long-mystery-of-the-ufo-house-has-finally-been-solved-in-gta-6-but-one-npc-knows-too-much/",
           "titre": "The 5 year-long mystery of the UFO house has finally been solved in GTA 6, but one NPC knows too much"
-        }
-      ]
-    },
-    {
-      "id": "anniversary-super-smash-bros-melee-has-now-been-duking-it-ou",
-      "titre": "Anniversary: Super Smash Bros. Melee Has Now Been Duking It Out For 25 Years",
-      "url": "https://www.nintendolife.com/news/2026/11/anniversary-super-smash-bros-melee-has-now-been-duking-it-out-for-25-years",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 0.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/anniversary-super-smash-bros-melee-has-now-been-duking-it-out-for-25-years",
-          "titre": "Anniversary: Super Smash Bros. Melee Has Now Been Duking It Out For 25 Years"
-        }
-      ]
-    },
-    {
-      "id": "talking-point-what-are-you-playing-this-weekend-issue-659",
-      "titre": "Talking Point: What Are You Playing This Weekend? - Issue 659",
-      "url": "https://www.pushsquare.com/news/2026/11/talking-point-what-are-you-playing-this-weekend-issue-659",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/talking-point-what-are-you-playing-this-weekend-issue-659",
-          "titre": "Talking Point: What Are You Playing This Weekend? - Issue 659"
-        }
-      ]
-    },
-    {
-      "id": "i-didn-t-realize-etsy-was-selling-bridges-now",
-      "titre": "I didn't realize Etsy was selling bridges now",
-      "url": "https://www.pcgamer.com/software/ai/i-didnt-realize-etsy-was-selling-bridges-now/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/i-didnt-realize-etsy-was-selling-bridges-now/",
-          "titre": "I didn't realize Etsy was selling bridges now"
-        }
-      ]
-    },
-    {
-      "id": "zelda-playable-electric-ocarinas-will-initially-be-sold-on-a",
-      "titre": "Zelda Playable & Electric Ocarinas Will Initially Be Sold On An Invite-Only Basis (Europe)",
-      "url": "https://www.nintendolife.com/news/2026/11/zelda-playable-and-electric-ocarinas-will-initially-be-sold-on-an-invite-only-basis-europe",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 11.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/zelda-playable-and-electric-ocarinas-will-initially-be-sold-on-an-invite-only-basis-europe",
-          "titre": "Zelda Playable & Electric Ocarinas Will Initially Be Sold On An Invite-Only Basis (Europe)"
         }
       ]
     },
@@ -623,7 +647,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.1,
+      "heures": 21.5,
       "chaleur": 6,
       "liens": [
         {
@@ -641,7 +665,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 22.0,
       "chaleur": 6,
       "liens": [
         {
@@ -659,7 +683,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 12.6,
+      "heures": 22.0,
       "chaleur": 6,
       "liens": [
         {
@@ -677,7 +701,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.1,
+      "heures": 22.5,
       "chaleur": 6,
       "liens": [
         {
@@ -695,7 +719,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 13.8,
+      "heures": 23.1,
       "chaleur": 6,
       "liens": [
         {
@@ -713,7 +737,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.9,
+      "heures": 23.2,
       "chaleur": 6,
       "liens": [
         {
@@ -731,7 +755,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.0,
+      "heures": 23.4,
       "chaleur": 6,
       "liens": [
         {
@@ -749,7 +773,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 14.4,
+      "heures": 23.8,
       "chaleur": 6,
       "liens": [
         {
@@ -767,7 +791,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 14.6,
+      "heures": 23.9,
       "chaleur": 6,
       "liens": [
         {
@@ -785,7 +809,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.6,
+      "heures": 24.0,
       "chaleur": 6,
       "liens": [
         {
@@ -803,7 +827,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 15.5,
+      "heures": 24.8,
       "chaleur": 6,
       "liens": [
         {
@@ -821,7 +845,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 16.4,
+      "heures": 25.8,
       "chaleur": 6,
       "liens": [
         {
@@ -839,7 +863,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 17.0,
+      "heures": 26.4,
       "chaleur": 6,
       "liens": [
         {
@@ -857,7 +881,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.1,
+      "heures": 27.5,
       "chaleur": 6,
       "liens": [
         {
@@ -868,56 +892,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-6-s-mandy-is-a-lot-of-fun-says-real-life-actress-as-ps5",
-      "titre": "GTA 6's Mandy 'Is a Lot of Fun' Says Real-Life Actress as PS5 Players Are Smitten",
-      "url": "https://www.pushsquare.com/news/2026/11/gta-6s-mandy-is-a-lot-of-fun-says-real-life-actress-as-ps5-players-are-smitten",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 27.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/gta-6s-mandy-is-a-lot-of-fun-says-real-life-actress-as-ps5-players-are-smitten",
-          "titre": "GTA 6's Mandy 'Is a Lot of Fun' Says Real-Life Actress as PS5 Players Are Smitten"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-censorship-in-japan-sees-characters-shower-in-underwea",
-      "titre": "GTA 6 Censorship in Japan Sees Characters Shower in Underwear, as Sex and Violence Are Toned Down",
-      "url": "https://www.pushsquare.com/news/2026/11/gta-6-censorship-in-japan-sees-characters-shower-in-underwear-as-sex-and-violence-are-toned-down",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 32.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/gta-6-censorship-in-japan-sees-characters-shower-in-underwear-as-sex-and-violence-are-toned-down",
-          "titre": "GTA 6 Censorship in Japan Sees Characters Shower in Underwear, as Sex and Violence Are Toned Down"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-on-switch-2-digital-foundry-weighs-in-on-the-possibili",
-      "titre": "GTA 6 On Switch 2? Digital Foundry Weighs In On The Possibility",
-      "url": "https://www.nintendolife.com/news/2026/11/gta-6-on-switch-2-digital-foundry-weighs-in-on-the-possibility",
+      "id": "zelda-playable-electric-ocarinas-will-initially-be-sold-on-a",
+      "titre": "Zelda Playable & Electric Ocarinas Will Initially Be Sold On An Invite-Only Basis (Europe)",
+      "url": "https://www.nintendolife.com/news/2026/11/zelda-playable-and-electric-ocarinas-will-initially-be-sold-on-an-invite-only-basis-europe",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 33.9,
-      "chaleur": 6,
+      "heures": 21.0,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/gta-6-on-switch-2-digital-foundry-weighs-in-on-the-possibility",
-          "titre": "GTA 6 On Switch 2? Digital Foundry Weighs In On The Possibility"
+          "url": "https://www.nintendolife.com/news/2026/11/zelda-playable-and-electric-ocarinas-will-initially-be-sold-on-an-invite-only-basis-europe",
+          "titre": "Zelda Playable & Electric Ocarinas Will Initially Be Sold On An Invite-Only Basis (Europe)"
         }
       ]
     },
@@ -929,7 +917,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.4,
+      "heures": 21.7,
       "chaleur": 5,
       "liens": [
         {
@@ -947,7 +935,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 17.0,
+      "heures": 26.4,
       "chaleur": 5,
       "liens": [
         {
@@ -965,13 +953,85 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 21.6,
+      "heures": 31.0,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/11/dynasty-warriors-3-complete-edition-remastered-gets-a-new-switch-2-update",
           "titre": "Dynasty Warriors 3: Complete Edition Remastered Gets A New Switch 2 Update"
+        }
+      ]
+    },
+    {
+      "id": "what-we-ve-been-playing-it-s-slow-it-s-awkward-it-s-weird-an",
+      "titre": "What we've been playing - \"It's slow, it's awkward, it's weird, and it's hard\"",
+      "url": "https://www.eurogamer.net/what-weve-been-playing-its-slow-its-awkward-its-weird-and-its-hard",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/what-weve-been-playing-its-slow-its-awkward-its-weird-and-its-hard",
+          "titre": "What we've been playing - \"It's slow, it's awkward, it's weird, and it's hard\""
+        }
+      ]
+    },
+    {
+      "id": "anniversary-super-smash-bros-melee-has-now-been-duking-it-ou",
+      "titre": "Anniversary: Super Smash Bros. Melee Has Now Been Duking It Out For 25 Years",
+      "url": "https://www.nintendolife.com/news/2026/11/anniversary-super-smash-bros-melee-has-now-been-duking-it-out-for-25-years",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 10.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/anniversary-super-smash-bros-melee-has-now-been-duking-it-out-for-25-years",
+          "titre": "Anniversary: Super Smash Bros. Melee Has Now Been Duking It Out For 25 Years"
+        }
+      ]
+    },
+    {
+      "id": "i-didn-t-realize-etsy-was-selling-bridges-now",
+      "titre": "I didn't realize Etsy was selling bridges now",
+      "url": "https://www.pcgamer.com/software/ai/i-didnt-realize-etsy-was-selling-bridges-now/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 12.5,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/i-didnt-realize-etsy-was-selling-bridges-now/",
+          "titre": "I didn't realize Etsy was selling bridges now"
+        }
+      ]
+    },
+    {
+      "id": "florida-joker-gets-his-wish-he-s-a-special-voice-actor-in-gr",
+      "titre": "Florida Joker gets his wish: He's a 'special voice actor' in Grand Theft Auto 6",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/florida-joker-gets-his-wish-hes-a-special-voice-actor-in-grand-theft-auto-6/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 14.5,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/florida-joker-gets-his-wish-hes-a-special-voice-actor-in-grand-theft-auto-6/",
+          "titre": "Florida Joker gets his wish: He's a 'special voice actor' in Grand Theft Auto 6"
         }
       ]
     },
@@ -983,8 +1043,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.7,
-      "chaleur": 4,
+      "heures": 17.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -1001,8 +1061,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.1,
-      "chaleur": 4,
+      "heures": 17.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1019,8 +1079,8 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 8.5,
-      "chaleur": 4,
+      "heures": 17.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Game Developer",
@@ -1037,8 +1097,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 4,
+      "heures": 19.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -1055,8 +1115,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 4,
+      "heures": 20.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1073,8 +1133,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.2,
-      "chaleur": 4,
+      "heures": 20.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -1082,82 +1142,9 @@ const VEILLE = {
           "titre": "Star Wars: Galactic Racer studio \"didn't dream\" Biddy Blas would be as popular as he is"
         }
       ]
-    },
-    {
-      "id": "is-control-resonant-s-protagonist-a-sad-wet-man-ft-mikael-ka",
-      "titre": "Is Control Resonant's protagonist a 'sad wet man?' ft. Mikael Kasurinen",
-      "url": "https://www.gamedeveloper.com/design/is-control-resonant-s-protagonist-a-sad-wet-man-ft-mikael-kasurinen",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 11.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/design/is-control-resonant-s-protagonist-a-sad-wet-man-ft-mikael-kasurinen",
-          "titre": "Is Control Resonant's protagonist a 'sad wet man?' ft. Mikael Kasurinen"
-        }
-      ]
-    },
-    {
-      "id": "vote-now-for-2026-s-rps-100-reader-edition",
-      "titre": "Vote now for 2026's RPS 100: Reader Edition",
-      "url": "https://www.rockpapershotgun.com/vote-now-for-2026s-rps-100-reader-edition",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 13.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/vote-now-for-2026s-rps-100-reader-edition",
-          "titre": "Vote now for 2026's RPS 100: Reader Edition"
-        }
-      ]
-    },
-    {
-      "id": "akira-kurabayashi-company-director-at-arika-and-developer-on",
-      "titre": "Akira Kurabayashi, company director at Arika and developer on Street Fighter EX, Tetris 99, Fighting EX Layer and more, has sadly passed away due to heart failure",
-      "url": "https://www.rockpapershotgun.com/akira-kurabayashi-company-director-at-arika-and-developer-on-street-fighter-ex-tetris-99-fighting-ex-layer-and-more-has-sadly-passed-away-due-to-heart-failure",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 14.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/akira-kurabayashi-company-director-at-arika-and-developer-on-street-fighter-ex-tetris-99-fighting-ex-layer-and-more-has-sadly-passed-away-due-to-heart-failure",
-          "titre": "Akira Kurabayashi, company director at Arika and developer on Street Fighter EX, Tetris 99, Fighting EX Layer and more, has sadly passed away due to heart failure"
-        }
-      ]
-    },
-    {
-      "id": "openai-says-it-redesigned-an-amd-gpu-and-amd-is-using-some-o",
-      "titre": "OpenAI says it redesigned an AMD GPU and AMD is using some of those tweaks ‘for use in future products’",
-      "url": "https://www.pcgamer.com/hardware/openai-says-it-redesigned-an-amd-gpu-and-amd-is-using-some-of-those-tweaks-for-use-in-future-products/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 14.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/openai-says-it-redesigned-an-amd-gpu-and-amd-is-using-some-of-those-tweaks-for-use-in-future-products/",
-          "titre": "OpenAI says it redesigned an AMD GPU and AMD is using some of those tweaks ‘for use in future products’"
-        }
-      ]
     }
   ],
   "alertes": [
-    "61% of All US PS5 Owners Played GTA 6 on Launch Day, Averaging 8 Hours",
-    "GTA 6 PC release date: Is Grand Theft Auto 6 coming to PC?"
+    "Expedition 33 lead writer says Grand Theft Auto 6 layoff concerns show that 'people creating the value do not receive a proportionate amount of that value'"
   ]
 };
