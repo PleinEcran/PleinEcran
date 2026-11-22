@@ -1,59 +1,65 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "22/11/2026 à 02h06",
+  "collecte": "22/11/2026 à 12h28",
   "seuil": 14,
   "sujets": [
     {
-      "id": "gta-6-hits-3-79-billion-in-its-first-day-on-sale-becoming-th",
-      "titre": "GTA 6 hits $3.79 billion in its first day on sale, becoming \"the biggest entertainment launch in history\"",
-      "url": "https://www.gamesindustry.biz/gta-6-hits-379-billion-in-its-first-day-on-sale-becoming-the-biggest-entertainment-launch-in-history",
+      "id": "over-half-of-all-console-players-active-on-gta-6-s-launch-da",
+      "titre": "Over half of all console players active on GTA 6's launch day played it, says Circana",
+      "url": "https://www.eurogamer.net/gta-6-launch-day-engagement-circana",
       "sources": [
         "Eurogamer",
-        "GamesIndustry.biz",
-        "Push Square"
-      ],
-      "reprises": 3,
-      "heures": 29.7,
-      "chaleur": 14,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/gta-6-hits-379-billion-in-its-first-day-on-sale-becoming-the-biggest-entertainment-launch-in-history",
-          "titre": "GTA 6 hits $3.79 billion in its first day on sale, becoming \"the biggest entertainment launch in history\""
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-biggest-entertainment-launch",
-          "titre": "GTA 6 is officially the biggest entertainment launch of all time, selling 32.5 million pre-sale copies and a bonkers $3.79 billion in its first day"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/gta-6-sells-a-record-breaking-32-5-million-copies",
-          "titre": "GTA 6 Sells a Record-Breaking 32.5 Million Copies"
-        }
-      ]
-    },
-    {
-      "id": "guide-gta-6-guide-all-guides-collectibles",
-      "titre": "Guide: GTA 6 Guide: All Guides & Collectibles",
-      "url": "https://www.pushsquare.com/guides/gta-6-guide",
-      "sources": [
-        "PC Gamer",
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 2.1,
+      "heures": 0.4,
       "chaleur": 12,
       "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-launch-day-engagement-circana",
+          "titre": "Over half of all console players active on GTA 6's launch day played it, says Circana"
+        },
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/guides/gta-6-guide",
           "titre": "Guide: GTA 6 Guide: All Guides & Collectibles"
-        },
+        }
+      ]
+    },
+    {
+      "id": "gta-6-player-gets-30-day-psn-ban-for-sharing-in-game-nudist",
+      "titre": "GTA 6 player gets 30-day PSN ban for sharing in-game nudist photo with a friend",
+      "url": "https://www.eurogamer.net/gta-6-psn-ban-nude-photos-nudist-resort",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 9,
+      "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/comcast-at-peak-gta6-accounted-for-nearly-a-quarter-of-all-internet-traffic/",
-          "titre": "Comcast: 'At peak, GTA 6 accounted for nearly a quarter of all internet traffic'"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-psn-ban-nude-photos-nudist-resort",
+          "titre": "GTA 6 player gets 30-day PSN ban for sharing in-game nudist photo with a friend"
+        }
+      ]
+    },
+    {
+      "id": "it-stayed-alive-for-so-long-behind-the-wheel-with-the-last",
+      "titre": "\"It stayed alive for so long\" - Behind the wheel with the Last Riders saying goodbye to GTA Online, amidst GTA 6's world-changing launch",
+      "url": "https://www.eurogamer.net/gta-6-grand-theft-auto-online-last-ride",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 2.5,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-grand-theft-auto-online-last-ride",
+          "titre": "\"It stayed alive for so long\" - Behind the wheel with the Last Riders saying goodbye to GTA Online, amidst GTA 6's world-changing launch"
         }
       ]
     },
@@ -66,8 +72,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 3.2,
-      "chaleur": 12,
+      "heures": 13.6,
+      "chaleur": 9,
       "liens": [
         {
           "source": "VGC",
@@ -90,8 +96,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 2,
-      "heures": 5.6,
-      "chaleur": 10,
+      "heures": 15.9,
+      "chaleur": 9,
       "liens": [
         {
           "source": "PC Gamer",
@@ -106,60 +112,6 @@ const VEILLE = {
       ]
     },
     {
-      "id": "naughty-dog-dev-says-gta-6-is-like-a-bugatti-veyron-to-a-ner",
-      "titre": "Naughty Dog Dev Says GTA 6 Is Like a 'Bugatti Veyron to a Nervous Victorian Child'",
-      "url": "https://www.pushsquare.com/news/2026/11/naughty-dog-dev-says-gta-6-is-like-a-bugatti-veyron-to-a-nervous-victorian-child",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 0.1,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/naughty-dog-dev-says-gta-6-is-like-a-bugatti-veyron-to-a-nervous-victorian-child",
-          "titre": "Naughty Dog Dev Says GTA 6 Is Like a 'Bugatti Veyron to a Nervous Victorian Child'"
-        }
-      ]
-    },
-    {
-      "id": "move-aside-mandy-gta-6-s-goth-girl-vicki-is-ps5-players-new",
-      "titre": "'Move Aside, Mandy': GTA 6's Goth Girl Vicki Is PS5 Players' New Fave",
-      "url": "https://www.pushsquare.com/news/2026/11/move-aside-mandy-gta-6s-goth-girl-vicki-is-ps5-players-new-fave",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 1.1,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/move-aside-mandy-gta-6s-goth-girl-vicki-is-ps5-players-new-fave",
-          "titre": "'Move Aside, Mandy': GTA 6's Goth Girl Vicki Is PS5 Players' New Fave"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-radio-djs-and-podcast-hosts-every-famous-voice-on-gta",
-      "titre": "GTA 6 radio DJs and podcast hosts: Every famous voice on GTA 6’s radio",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-radio-djs-and-podcast-hosts-every-famous-voice-on-gta-6s-radio/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/gta-6-radio-djs-and-podcast-hosts-every-famous-voice-on-gta-6s-radio/",
-          "titre": "GTA 6 radio DJs and podcast hosts: Every famous voice on GTA 6’s radio"
-        }
-      ]
-    },
-    {
       "id": "what-are-we-all-playing-this-weekend",
       "titre": "What are we all playing this weekend?",
       "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-409",
@@ -169,7 +121,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 15.1,
+      "heures": 25.5,
       "chaleur": 9,
       "liens": [
         {
@@ -190,6 +142,168 @@ const VEILLE = {
       ]
     },
     {
+      "id": "gta-6-is-blowing-away-gaming-s-greatest-devs-including-naugh",
+      "titre": "GTA 6 Is Blowing Away Gaming's Greatest Devs, Including Naughty Dog",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6-is-blowing-away-gamings-greatest-devs-including-naughty-dog",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 10.5,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-is-blowing-away-gamings-greatest-devs-including-naughty-dog",
+          "titre": "GTA 6 Is Blowing Away Gaming's Greatest Devs, Including Naughty Dog"
+        }
+      ]
+    },
+    {
+      "id": "move-aside-mandy-gta-6-s-goth-girl-vicki-is-ps5-players-new",
+      "titre": "'Move Aside, Mandy': GTA 6's Goth Girl Vicki Is PS5 Players' New Fave",
+      "url": "https://www.pushsquare.com/news/2026/11/move-aside-mandy-gta-6s-goth-girl-vicki-is-ps5-players-new-fave",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 11.5,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/move-aside-mandy-gta-6s-goth-girl-vicki-is-ps5-players-new-fave",
+          "titre": "'Move Aside, Mandy': GTA 6's Goth Girl Vicki Is PS5 Players' New Fave"
+        }
+      ]
+    },
+    {
+      "id": "the-wolf-among-us-remastered-has-been-delayed-for-switch",
+      "titre": "The Wolf Among Us Remastered Has Been Delayed For Switch",
+      "url": "https://www.nintendolife.com/news/2026/11/the-wolf-among-us-remastered-has-been-delayed-for-switch",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 33.0,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/the-wolf-among-us-remastered-has-been-delayed-for-switch",
+          "titre": "The Wolf Among Us Remastered Has Been Delayed For Switch"
+        }
+      ]
+    },
+    {
+      "id": "the-sunday-papers",
+      "titre": "The Sunday Papers",
+      "url": "https://www.rockpapershotgun.com/the-sunday-papers-837",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 1.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-sunday-papers-837",
+          "titre": "The Sunday Papers"
+        }
+      ]
+    },
+    {
+      "id": "jason-s-stoic-character-in-grand-theft-auto-6-was-inspired-b",
+      "titre": "Jason's stoic character in Grand Theft Auto 6 was inspired by Steve McQueen and research into Army veterans: 'These guys typically aren't running their mouths'",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/jasons-stoic-character-in-grand-theft-auto-6-was-inspired-by-steve-mcqueen-and-research-into-army-veterans-these-guys-typically-arent-running-their-mouths/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 1.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/jasons-stoic-character-in-grand-theft-auto-6-was-inspired-by-steve-mcqueen-and-research-into-army-veterans-these-guys-typically-arent-running-their-mouths/",
+          "titre": "Jason's stoic character in Grand Theft Auto 6 was inspired by Steve McQueen and research into Army veterans: 'These guys typically aren't running their mouths'"
+        }
+      ]
+    },
+    {
+      "id": "poll-which-mario-luigi-superstar-saga-box-art-is-the-best",
+      "titre": "Poll: Which Mario & Luigi: Superstar Saga Box Art Is The Best?",
+      "url": "https://www.nintendolife.com/features/poll-which-mario-and-luigi-superstar-saga-box-art-is-the-best",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 2.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/poll-which-mario-and-luigi-superstar-saga-box-art-is-the-best",
+          "titre": "Poll: Which Mario & Luigi: Superstar Saga Box Art Is The Best?"
+        }
+      ]
+    },
+    {
+      "id": "i-ve-never-known-a-moment-like-this-in-video-games",
+      "titre": "I've never known a moment like this in video games",
+      "url": "https://www.eurogamer.net/gta-6-video-games-biggest-moment",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 3.5,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-video-games-biggest-moment",
+          "titre": "I've never known a moment like this in video games"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-radio-djs-and-podcast-hosts-every-famous-voice-on-gta",
+      "titre": "GTA 6 radio DJs and podcast hosts: Every famous voice on GTA 6’s radio",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-radio-djs-and-podcast-hosts-every-famous-voice-on-gta-6s-radio/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 14.2,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-radio-djs-and-podcast-hosts-every-famous-voice-on-gta-6s-radio/",
+          "titre": "GTA 6 radio DJs and podcast hosts: Every famous voice on GTA 6’s radio"
+        }
+      ]
+    },
+    {
+      "id": "comcast-at-peak-gta-6-accounted-for-nearly-a-quarter-of-all",
+      "titre": "Comcast: 'At peak, GTA 6 accounted for nearly a quarter of all internet traffic'",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/comcast-at-peak-gta6-accounted-for-nearly-a-quarter-of-all-internet-traffic/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 14.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/comcast-at-peak-gta6-accounted-for-nearly-a-quarter-of-all-internet-traffic/",
+          "titre": "Comcast: 'At peak, GTA 6 accounted for nearly a quarter of all internet traffic'"
+        }
+      ]
+    },
+    {
       "id": "gta-6-slim-jim-location-how-to-get-it-and-unlock-cars-quietl",
       "titre": "GTA 6 Slim Jim Location: How to Get It and Unlock Cars Quietly",
       "url": "https://www.videogameschronicle.com/guide/gta-6-car-alarms-explained-how-to-steal-cars-with-alarms-in-gta-6/",
@@ -197,8 +311,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.1,
-      "chaleur": 7,
+      "heures": 16.5,
+      "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
@@ -215,8 +329,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 8.4,
-      "chaleur": 7,
+      "heures": 18.8,
+      "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
@@ -233,8 +347,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.8,
-      "chaleur": 7,
+      "heures": 20.2,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
@@ -251,8 +365,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.6,
-      "chaleur": 7,
+      "heures": 21.0,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
@@ -269,8 +383,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 10.7,
-      "chaleur": 7,
+      "heures": 21.1,
+      "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
@@ -287,8 +401,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.0,
-      "chaleur": 7,
+      "heures": 21.4,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
@@ -305,31 +419,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 7,
+      "heures": 21.5,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/11/ps5-survives-gta-6s-unfathomably-humongous-launch-without-a-hitch",
           "titre": "PS5 Survives GTA 6's Unfathomably Humongous Launch without a Hitch"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-transgressor-locations-how-to-restore-the-first-car-fo",
-      "titre": "GTA 6 Transgressor locations: How to restore the first car for Wyman",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-transgressor-locations/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-transgressor-locations/",
-          "titre": "GTA 6 Transgressor locations: How to restore the first car for Wyman"
         }
       ]
     },
@@ -341,8 +437,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.8,
-      "chaleur": 7,
+      "heures": 22.2,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
@@ -352,20 +448,92 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-wolf-among-us-remastered-has-been-delayed-for-switch",
-      "titre": "The Wolf Among Us Remastered Has Been Delayed For Switch",
-      "url": "https://www.nintendolife.com/news/2026/11/the-wolf-among-us-remastered-has-been-delayed-for-switch",
+      "id": "gta-6-features-the-series-first-non-binary-character-says-ac",
+      "titre": "GTA 6 features the series' first non-binary character, says actor Jesse James Rose, and players can't hurt them",
+      "url": "https://www.eurogamer.net/gta-6-first-non-binary-character-jesse-james-rose",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 23.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-first-non-binary-character-jesse-james-rose",
+          "titre": "GTA 6 features the series' first non-binary character, says actor Jesse James Rose, and players can't hurt them"
+        }
+      ]
+    },
+    {
+      "id": "guide-zelda-ocarina-of-time-walkthrough-switch-2-remake-guid",
+      "titre": "Guide: Zelda: Ocarina Of Time Walkthrough (Switch 2 Remake): Guide To The Main Quest, Side Quests & Collectables",
+      "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-walkthrough-switch-2-remake",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.6,
-      "chaleur": 7,
+      "heures": 28.5,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/the-wolf-among-us-remastered-has-been-delayed-for-switch",
-          "titre": "The Wolf Among Us Remastered Has Been Delayed For Switch"
+          "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-walkthrough-switch-2-remake",
+          "titre": "Guide: Zelda: Ocarina Of Time Walkthrough (Switch 2 Remake): Guide To The Main Quest, Side Quests & Collectables"
+        }
+      ]
+    },
+    {
+      "id": "feature-don-t-have-your-wii-set-up-here-are-20-wii-games-you",
+      "titre": "Feature: Don't Have Your Wii Set Up? Here Are 20 Wii Games You Can Play On Switch",
+      "url": "https://www.nintendolife.com/features/dont-have-your-wii-set-up-here-are-20-wii-games-you-can-play-on-switch",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 20.5,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/dont-have-your-wii-set-up-here-are-20-wii-games-you-can-play-on-switch",
+          "titre": "Feature: Don't Have Your Wii Set Up? Here Are 20 Wii Games You Can Play On Switch"
+        }
+      ]
+    },
+    {
+      "id": "katsuhiro-harada-reveals-the-pok-mon-he-wanted-to-add-to-pok",
+      "titre": "Katsuhiro Harada Reveals The Pokémon He Wanted To Add To Pokken Tournament",
+      "url": "https://www.nintendolife.com/news/2026/11/katsuhiro-harada-reveals-the-pokemon-he-wanted-to-add-to-pokken-tournament",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/katsuhiro-harada-reveals-the-pokemon-he-wanted-to-add-to-pokken-tournament",
+          "titre": "Katsuhiro Harada Reveals The Pokémon He Wanted To Add To Pokken Tournament"
+        }
+      ]
+    },
+    {
+      "id": "astarion-s-baldur-s-gate-3-prequel-novel-infuriated-fans-now",
+      "titre": "Astarion's Baldur's Gate 3 prequel novel infuriated fans, now it's Shadowheart's turn",
+      "url": "https://www.pcgamer.com/games/baldurs-gate/astarions-baldurs-gate-3-prequel-novel-infuriated-fans-now-its-shadowhearts-turn/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 9.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/baldurs-gate/astarions-baldurs-gate-3-prequel-novel-infuriated-fans-now-its-shadowhearts-turn/",
+          "titre": "Astarion's Baldur's Gate 3 prequel novel infuriated fans, now it's Shadowheart's turn"
         }
       ]
     },
@@ -377,8 +545,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 6,
+      "heures": 12.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -395,8 +563,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
+      "heures": 12.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -413,295 +581,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 3.3,
-      "chaleur": 6,
+      "heures": 13.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/alt-video-is-a-digital-faux-blockbuster-video-store-that-you-can-fill-with-movies-from-your-letterboxd-watchlist-and-plex-server",
           "titre": "Alt Video is a digital, faux Blockbuster video store that you can fill with movies from your Letterboxd watchlist and Plex server"
-        }
-      ]
-    },
-    {
-      "id": "feature-don-t-have-your-wii-set-up-here-are-20-wii-games-you",
-      "titre": "Feature: Don't Have Your Wii Set Up? Here Are 20 Wii Games You Can Play On Switch",
-      "url": "https://www.nintendolife.com/features/dont-have-your-wii-set-up-here-are-20-wii-games-you-can-play-on-switch",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/dont-have-your-wii-set-up-here-are-20-wii-games-you-can-play-on-switch",
-          "titre": "Feature: Don't Have Your Wii Set Up? Here Are 20 Wii Games You Can Play On Switch"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-features-the-series-first-non-binary-character-says-ac",
-      "titre": "GTA 6 features the series' first non-binary character, says actor Jesse James Rose, and players can't hurt them",
-      "url": "https://www.eurogamer.net/gta-6-first-non-binary-character-jesse-james-rose",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 13.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-first-non-binary-character-jesse-james-rose",
-          "titre": "GTA 6 features the series' first non-binary character, says actor Jesse James Rose, and players can't hurt them"
-        }
-      ]
-    },
-    {
-      "id": "what-if-vampire-survivors-met-grand-theft-auto-2-maniac-is-a",
-      "titre": "What if Vampire Survivors met Grand Theft Auto 2? Maniac is a brilliant mash-up that dares to ask that question",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-vampire-survivors-maniac-interview",
-      "sources": [
-        "Eurogamer",
-        "Game Developer"
-      ],
-      "reprises": 2,
-      "heures": 16.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/grand-theft-auto-6-vampire-survivors-maniac-interview",
-          "titre": "What if Vampire Survivors met Grand Theft Auto 2? Maniac is a brilliant mash-up that dares to ask that question"
-        },
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/grand-theft-auto-vi-is-officially-the-biggest-video-game-launch-ever",
-          "titre": "Grand Theft Auto VI is now the biggest video game launch in history"
-        }
-      ]
-    },
-    {
-      "id": "guide-zelda-ocarina-of-time-walkthrough-switch-2-remake-guid",
-      "titre": "Guide: Zelda: Ocarina Of Time Walkthrough (Switch 2 Remake): Guide To The Main Quest, Side Quests & Collectables",
-      "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-walkthrough-switch-2-remake",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 18.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-walkthrough-switch-2-remake",
-          "titre": "Guide: Zelda: Ocarina Of Time Walkthrough (Switch 2 Remake): Guide To The Main Quest, Side Quests & Collectables"
-        }
-      ]
-    },
-    {
-      "id": "guide-gta-6-how-to-get-ultimate-edition-items-pre-order-bonu",
-      "titre": "Guide: GTA 6: How to Get Ultimate Edition Items & Pre-Order Bonuses",
-      "url": "https://www.pushsquare.com/guides/gta-6-how-to-get-ultimate-edition-items-and-pre-order-bonuses",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 26.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/guides/gta-6-how-to-get-ultimate-edition-items-and-pre-order-bonuses",
-          "titre": "Guide: GTA 6: How to Get Ultimate Edition Items & Pre-Order Bonuses"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-credits-actually-include-florida-joker-the-viral-inter",
-      "titre": "GTA 6 credits actually include 'Florida Joker', the viral internet personality who once demanded $10 million from Rockstar Games",
-      "url": "https://www.eurogamer.net/gta-6-credits-florida-joker-rockstar",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 31.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-credits-florida-joker-rockstar",
-          "titre": "GTA 6 credits actually include 'Florida Joker', the viral internet personality who once demanded $10 million from Rockstar Games"
-        }
-      ]
-    },
-    {
-      "id": "feature-gta-6-made-me-want-to-be-a-good-guy-or-girl",
-      "titre": "Feature: GTA 6 Made Me Want to Be a Good Guy (or Girl)",
-      "url": "https://www.pushsquare.com/features/gta-6-made-me-want-to-be-a-good-guy-or-girl",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 32.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/gta-6-made-me-want-to-be-a-good-guy-or-girl",
-          "titre": "Feature: GTA 6 Made Me Want to Be a Good Guy (or Girl)"
-        }
-      ]
-    },
-    {
-      "id": "persona-6-doesn-t-have-a-date-yet-but-atlus-says-you-won-t-h",
-      "titre": "Persona 6 Doesn't Have A Date Yet, But Atlus Says You Won't Have To Wait As Long For Persona 7",
-      "url": "https://www.nintendolife.com/news/2026/11/persona-6-doesnt-have-a-date-yet-but-atlus-says-you-wont-have-to-wait-as-long-for-persona-7",
-      "sources": [
-        "Nintendo Life",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 33.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/persona-6-doesnt-have-a-date-yet-but-atlus-says-you-wont-have-to-wait-as-long-for-persona-7",
-          "titre": "Persona 6 Doesn't Have A Date Yet, But Atlus Says You Won't Have To Wait As Long For Persona 7"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/atlus-doesnt-want-you-to-wait-yet-another-10-years-for-persona-7",
-          "titre": "Atlus Doesn't Want You to Wait Yet Another 10 Years for Persona 7"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-players-are-already-pulling-off-high-flying-tricks-and",
-      "titre": "GTA 6 players are already pulling off high-flying tricks and other impressive stunts, just days after launch",
-      "url": "https://www.eurogamer.net/gta-6-plane-vehicle-stunts-impressive",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 34.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-plane-vehicle-stunts-impressive",
-          "titre": "GTA 6 players are already pulling off high-flying tricks and other impressive stunts, just days after launch"
-        }
-      ]
-    },
-    {
-      "id": "ampere-analysis-over-2m-uk-and-us-xbox-players-accessed-gta",
-      "titre": "Ampere Analysis: Over 2m UK and US Xbox players accessed GTA 6 before official launch by switching location to New Zealand",
-      "url": "https://www.gamesindustry.biz/ampere-analysis-over-1m-uk-and-us-xbox-players-accessed-gta-6-before-official-launch-by-switching-location-to-new-zealand",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 34.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/ampere-analysis-over-1m-uk-and-us-xbox-players-accessed-gta-6-before-official-launch-by-switching-location-to-new-zealand",
-          "titre": "Ampere Analysis: Over 2m UK and US Xbox players accessed GTA 6 before official launch by switching location to New Zealand"
-        }
-      ]
-    },
-    {
-      "id": "it-took-me-less-than-an-hour-to-find-my-first-incredibly-min",
-      "titre": "It took me less than an hour to find my first incredibly minor Rockstar easter egg in GTA 6 - but it has some big implications for Leonida",
-      "url": "https://www.eurogamer.net/gta-6-early-game-connection-rockstar-gta-5",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 34.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-early-game-connection-rockstar-gta-5",
-          "titre": "It took me less than an hour to find my first incredibly minor Rockstar easter egg in GTA 6 - but it has some big implications for Leonida"
-        }
-      ]
-    },
-    {
-      "id": "these-7-ps5-games-launched-on-the-same-day-as-gta-6-like-mad",
-      "titre": "These 7 PS5 Games Launched on the Same Day as GTA 6 Like Mad Men",
-      "url": "https://www.pushsquare.com/news/2026/11/these-7-ps5-games-launched-on-the-same-day-as-gta-6-like-mad-men",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 35.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/these-7-ps5-games-launched-on-the-same-day-as-gta-6-like-mad-men",
-          "titre": "These 7 PS5 Games Launched on the Same Day as GTA 6 Like Mad Men"
-        }
-      ]
-    },
-    {
-      "id": "it-s-unbelievably-hard-to-achieve-cyberpunk-2077-boss-pours",
-      "titre": "'It's Unbelievably Hard to Achieve': Cyberpunk 2077 Boss Pours Praise on 'Masterpiece' GTA 6",
-      "url": "https://www.pushsquare.com/news/2026/11/its-unbelievably-hard-to-achieve-cyberpunk-2077-boss-pours-praise-on-masterpiece-gta-6",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 35.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/its-unbelievably-hard-to-achieve-cyberpunk-2077-boss-pours-praise-on-masterpiece-gta-6",
-          "titre": "'It's Unbelievably Hard to Achieve': Cyberpunk 2077 Boss Pours Praise on 'Masterpiece' GTA 6"
-        }
-      ]
-    },
-    {
-      "id": "zelda-playable-electric-ocarinas-will-initially-be-sold-on-a",
-      "titre": "Zelda Playable & Electric Ocarinas Will Initially Be Sold On An Invite-Only Basis (Europe)",
-      "url": "https://www.nintendolife.com/news/2026/11/zelda-playable-and-electric-ocarinas-will-initially-be-sold-on-an-invite-only-basis-europe",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 34.6,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/zelda-playable-and-electric-ocarinas-will-initially-be-sold-on-an-invite-only-basis-europe",
-          "titre": "Zelda Playable & Electric Ocarinas Will Initially Be Sold On An Invite-Only Basis (Europe)"
-        }
-      ]
-    },
-    {
-      "id": "pok-mon-like-temtem-s-bullet-heaven-spin-off-arrives-on-swit",
-      "titre": "Pokémon-Like Temtem's Bullet Heaven Spin-Off Arrives On Switch Next Year",
-      "url": "https://www.nintendolife.com/news/2026/11/pokemon-like-temtems-bullet-heaven-spin-off-arrives-on-switch-next-year",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 35.4,
-      "chaleur": 5,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/pokemon-like-temtems-bullet-heaven-spin-off-arrives-on-switch-next-year",
-          "titre": "Pokémon-Like Temtem's Bullet Heaven Spin-Off Arrives On Switch Next Year"
         }
       ]
     },
@@ -713,8 +599,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.6,
-      "chaleur": 4,
+      "heures": 15.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -731,8 +617,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.8,
-      "chaleur": 4,
+      "heures": 15.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -749,8 +635,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.2,
-      "chaleur": 4,
+      "heures": 17.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -767,8 +653,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.1,
-      "chaleur": 4,
+      "heures": 18.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -785,8 +671,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.2,
-      "chaleur": 4,
+      "heures": 18.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -803,8 +689,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.8,
-      "chaleur": 4,
+      "heures": 19.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -821,8 +707,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.0,
-      "chaleur": 4,
+      "heures": 19.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -839,8 +725,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 9.1,
-      "chaleur": 4,
+      "heures": 19.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -857,8 +743,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.2,
-      "chaleur": 4,
+      "heures": 19.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -875,8 +761,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 4,
+      "heures": 20.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -893,31 +779,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.2,
-      "chaleur": 4,
+      "heures": 20.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/phasmophobia-resonance-update-release-date-dowsing-rods-unity-6",
           "titre": "Phasmophobia's next update lets you ask ghosts to throw things and it's out next week"
-        }
-      ]
-    },
-    {
-      "id": "while-you-wait-for-the-elder-scrolls-6-sentinel-you-owe-it-t",
-      "titre": "While you wait for The Elder Scrolls 6: Sentinel, you owe it to yourself to play Tainted Grail",
-      "url": "https://www.pcgamer.com/games/rpg/while-you-wait-for-the-elder-scrolls-6-sentinel-you-owe-it-to-yourself-to-play-tainted-grail/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 11.1,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/while-you-wait-for-the-elder-scrolls-6-sentinel-you-owe-it-to-yourself-to-play-tainted-grail/",
-          "titre": "While you wait for The Elder Scrolls 6: Sentinel, you owe it to yourself to play Tainted Grail"
         }
       ]
     },
@@ -929,13 +797,31 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 14.1,
+      "heures": 24.5,
       "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/guides/these-11plus-ps5-and-ps-plus-games-are-coming-out-next-week-23rd-29th-november",
           "titre": "Guide: These 11+ PS5 and PS Plus Games Are Coming Out Next Week (23rd-29th November)"
+        }
+      ]
+    },
+    {
+      "id": "what-if-vampire-survivors-met-grand-theft-auto-2-maniac-is-a",
+      "titre": "What if Vampire Survivors met Grand Theft Auto 2? Maniac is a brilliant mash-up that dares to ask that question",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-vampire-survivors-maniac-interview",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 26.5,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/grand-theft-auto-6-vampire-survivors-maniac-interview",
+          "titre": "What if Vampire Survivors met Grand Theft Auto 2? Maniac is a brilliant mash-up that dares to ask that question"
         }
       ]
     },
@@ -947,7 +833,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.6,
+      "heures": 28.0,
       "chaleur": 3,
       "liens": [
         {
@@ -965,7 +851,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 18.1,
+      "heures": 28.5,
       "chaleur": 3,
       "liens": [
         {
@@ -983,7 +869,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.6,
+      "heures": 31.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1001,7 +887,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.7,
+      "heures": 34.1,
       "chaleur": 3,
       "liens": [
         {
@@ -1010,135 +896,7 @@ const VEILLE = {
           "titre": "Anniversary: Super Smash Bros. Melee Has Now Been Duking It Out For 25 Years"
         }
       ]
-    },
-    {
-      "id": "after-taking-seven-years-to-make-persona-6-and-four-years-to",
-      "titre": "After taking seven years to make Persona 6 and four years to make Persona 5, Atlus promises future games will come quicker",
-      "url": "https://www.eurogamer.net/persona-6-games-come-quicker-atlus",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 30.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/persona-6-games-come-quicker-atlus",
-          "titre": "After taking seven years to make Persona 6 and four years to make Persona 5, Atlus promises future games will come quicker"
-        }
-      ]
-    },
-    {
-      "id": "ubisoft-misses-forecast-and-bets-big-on-ai-development",
-      "titre": "Ubisoft misses forecast and bets big on AI development",
-      "url": "https://www.gamedeveloper.com/business/ubisoft-misses-forecast-and-bets-big-on-ai-development",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 31.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/ubisoft-misses-forecast-and-bets-big-on-ai-development",
-          "titre": "Ubisoft misses forecast and bets big on AI development"
-        }
-      ]
-    },
-    {
-      "id": "nvidia-co-founder-jensen-huang-accused-of-decades-of-bullyin",
-      "titre": "Nvidia co-founder Jensen Huang accused of decades of bullying and workplace abuse in new investigation",
-      "url": "https://www.eurogamer.net/jensen-huang-nvidia-investigation-harassment",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 32.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/jensen-huang-nvidia-investigation-harassment",
-          "titre": "Nvidia co-founder Jensen Huang accused of decades of bullying and workplace abuse in new investigation"
-        }
-      ]
-    },
-    {
-      "id": "13-arrested-in-shanghai-as-police-crackdown-on-bootleg-final",
-      "titre": "13 arrested in Shanghai as police crackdown on bootleg Final Fantasy 7 Tifa figurine operation",
-      "url": "https://www.eurogamer.net/final-fantasy-7-bootleg-tifa-figurine-china-13-arrested",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 33.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/final-fantasy-7-bootleg-tifa-figurine-china-13-arrested",
-          "titre": "13 arrested in Shanghai as police crackdown on bootleg Final Fantasy 7 Tifa figurine operation"
-        }
-      ]
-    },
-    {
-      "id": "nvidia-s-latest-graphics-card-driver-appears-to-be-unnecessa",
-      "titre": "Nvidia's latest graphics card driver appears to be unnecessarily writing to PC SSDs, something that's dumb, annoying and definitely warrants reverting",
-      "url": "https://www.rockpapershotgun.com/nvidias-latest-graphics-card-driver-appears-to-be-unnecessarily-writing-to-pc-ssds-something-thats-dumb-annoying-and-definitely-warrants-reverting",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 34.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/nvidias-latest-graphics-card-driver-appears-to-be-unnecessarily-writing-to-pc-ssds-something-thats-dumb-annoying-and-definitely-warrants-reverting",
-          "titre": "Nvidia's latest graphics card driver appears to be unnecessarily writing to PC SSDs, something that's dumb, annoying and definitely warrants reverting"
-        }
-      ]
-    },
-    {
-      "id": "star-wars-galactic-racer-studio-didn-t-dream-biddy-blas-woul",
-      "titre": "Star Wars: Galactic Racer studio \"didn't dream\" Biddy Blas would be as popular as he is",
-      "url": "https://www.eurogamer.net/biddy-blas-star-wars-galactic-racer-viral-scrib-doon",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 34.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/biddy-blas-star-wars-galactic-racer-viral-scrib-doon",
-          "titre": "Star Wars: Galactic Racer studio \"didn't dream\" Biddy Blas would be as popular as he is"
-        }
-      ]
-    },
-    {
-      "id": "is-control-resonant-s-protagonist-a-sad-wet-man-ft-mikael-ka",
-      "titre": "Is Control Resonant's protagonist a 'sad wet man?' ft. Mikael Kasurinen",
-      "url": "https://www.gamedeveloper.com/design/is-control-resonant-s-protagonist-a-sad-wet-man-ft-mikael-kasurinen",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 34.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/design/is-control-resonant-s-protagonist-a-sad-wet-man-ft-mikael-kasurinen",
-          "titre": "Is Control Resonant's protagonist a 'sad wet man?' ft. Mikael Kasurinen"
-        }
-      ]
     }
   ],
-  "alertes": [
-    "GTA 6 hits $3.79 billion in its first day on sale, becoming \"the biggest entertainment launch in history\""
-  ]
+  "alertes": []
 };
