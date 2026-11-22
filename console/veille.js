@@ -1,42 +1,30 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "21/11/2026 à 20h28",
+  "collecte": "22/11/2026 à 02h06",
   "seuil": 14,
   "sujets": [
     {
-      "id": "gta-6-all-meditation-spot-locations-in-grand-theft-auto-6",
-      "titre": "GTA 6: All Meditation Spot locations in Grand Theft Auto 6",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-all-meditation-spot-locations-grand-theft-auto/",
+      "id": "gta-6-hits-3-79-billion-in-its-first-day-on-sale-becoming-th",
+      "titre": "GTA 6 hits $3.79 billion in its first day on sale, becoming \"the biggest entertainment launch in history\"",
+      "url": "https://www.gamesindustry.biz/gta-6-hits-379-billion-in-its-first-day-on-sale-becoming-the-biggest-entertainment-launch-in-history",
       "sources": [
         "Eurogamer",
-        "Game Developer",
         "GamesIndustry.biz",
-        "Push Square",
-        "VGC"
+        "Push Square"
       ],
-      "reprises": 5,
-      "heures": 7.9,
-      "chaleur": 21,
+      "reprises": 3,
+      "heures": 29.7,
+      "chaleur": 14,
       "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/gta-6-all-meditation-spot-locations-grand-theft-auto/",
-          "titre": "GTA 6: All Meditation Spot locations in Grand Theft Auto 6"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/grand-theft-auto-6-vampire-survivors-maniac-interview",
-          "titre": "What if Vampire Survivors met Grand Theft Auto 2? Maniac is a brilliant mash-up that dares to ask that question"
-        },
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/business/grand-theft-auto-vi-is-officially-the-biggest-video-game-launch-ever",
-          "titre": "Grand Theft Auto VI is now the biggest video game launch in history"
-        },
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/gta-6-hits-379-billion-in-its-first-day-on-sale-becoming-the-biggest-entertainment-launch-in-history",
           "titre": "GTA 6 hits $3.79 billion in its first day on sale, becoming \"the biggest entertainment launch in history\""
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-biggest-entertainment-launch",
+          "titre": "GTA 6 is officially the biggest entertainment launch of all time, selling 32.5 million pre-sale copies and a bonkers $3.79 billion in its first day"
         },
         {
           "source": "Push Square",
@@ -46,21 +34,45 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-6-chapter-3-laptop-password-how-to-unlock-the-laptop-in",
-      "titre": "GTA 6 Chapter 3 laptop password: How to unlock the laptop in Boobie’s apartment",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-chapter-3-laptop-password-how-to-unlock-the-laptop-in-boobies-apartment/",
+      "id": "guide-gta-6-guide-all-guides-collectibles",
+      "titre": "Guide: GTA 6 Guide: All Guides & Collectibles",
+      "url": "https://www.pushsquare.com/guides/gta-6-guide",
+      "sources": [
+        "PC Gamer",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 2.1,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/guides/gta-6-guide",
+          "titre": "Guide: GTA 6 Guide: All Guides & Collectibles"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/comcast-at-peak-gta6-accounted-for-nearly-a-quarter-of-all-internet-traffic/",
+          "titre": "Comcast: 'At peak, GTA 6 accounted for nearly a quarter of all internet traffic'"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-meet-the-heders-walkthrough-find-and-open-the-scoop-co",
+      "titre": "GTA 6 Meet the Heders walkthrough: Find and open the SCOOP container",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-meet-the-heders-walkthrough-find-and-open-the-scoop-container/",
       "sources": [
         "PC Gamer",
         "VGC"
       ],
       "reprises": 2,
-      "heures": 2.6,
+      "heures": 3.2,
       "chaleur": 12,
       "liens": [
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/gta-6-chapter-3-laptop-password-how-to-unlock-the-laptop-in-boobies-apartment/",
-          "titre": "GTA 6 Chapter 3 laptop password: How to unlock the laptop in Boobie’s apartment"
+          "url": "https://www.videogameschronicle.com/guide/gta-6-meet-the-heders-walkthrough-find-and-open-the-scoop-container/",
+          "titre": "GTA 6 Meet the Heders walkthrough: Find and open the SCOOP container"
         },
         {
           "source": "PC Gamer",
@@ -70,56 +82,80 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-6-kingpin-bowling-alley-safe-code-and-location-how-to-fi",
-      "titre": "GTA 6 Kingpin Bowling Alley safe code and location: How to find and open the safe",
-      "url": "https://www.videogameschronicle.com/guide/how-to-open-the-gta-6-kingpin-bowling-alley-safe/",
+      "id": "gta-6-protective-custody-should-you-choose-proceed-or-postpo",
+      "titre": "GTA 6 Protective Custody: Should you choose proceed or postpone when you go to meet Abe?",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-protective-custody-choice-proceed-or-postpone-meet-abe/",
       "sources": [
         "PC Gamer",
         "VGC"
       ],
       "reprises": 2,
-      "heures": 3.5,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/how-to-open-the-gta-6-kingpin-bowling-alley-safe/",
-          "titre": "GTA 6 Kingpin Bowling Alley safe code and location: How to find and open the safe"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-la-cascara-motel-safe-code/",
-          "titre": "GTA 6 La Cascara Motel safe code"
-        }
-      ]
-    },
-    {
-      "id": "seven-years-on-since-persona-5-royal-atlus-says-people-won-t",
-      "titre": "Seven years on since Persona 5 Royal, Atlus says 'people won't have to wait as long as they have previously' for the next game after Persona 6",
-      "url": "https://www.pcgamer.com/games/rpg/seven-years-on-since-persona-5-royal-atlus-says-people-wont-have-to-wait-as-long-as-they-have-previously-for-the-next-game-after-persona-6/",
-      "sources": [
-        "Nintendo Life",
-        "PC Gamer",
-        "Push Square"
-      ],
-      "reprises": 3,
-      "heures": 6.0,
+      "heures": 5.6,
       "chaleur": 10,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/seven-years-on-since-persona-5-royal-atlus-says-people-wont-have-to-wait-as-long-as-they-have-previously-for-the-next-game-after-persona-6/",
-          "titre": "Seven years on since Persona 5 Royal, Atlus says 'people won't have to wait as long as they have previously' for the next game after Persona 6"
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-protective-custody-choice-proceed-or-postpone-meet-abe/",
+          "titre": "GTA 6 Protective Custody: Should you choose proceed or postpone when you go to meet Abe?"
         },
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/persona-6-doesnt-have-a-date-yet-but-atlus-says-you-wont-have-to-wait-as-long-for-persona-7",
-          "titre": "Persona 6 Doesn't Have A Date Yet, But Atlus Says You Won't Have To Wait As Long For Persona 7"
-        },
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-dealers-choice-walkthrough-should-you-choose-cut-or-pure/",
+          "titre": "GTA 6 Dealer’s Choice walkthrough: Should you choose Cut or Pure?"
+        }
+      ]
+    },
+    {
+      "id": "naughty-dog-dev-says-gta-6-is-like-a-bugatti-veyron-to-a-ner",
+      "titre": "Naughty Dog Dev Says GTA 6 Is Like a 'Bugatti Veyron to a Nervous Victorian Child'",
+      "url": "https://www.pushsquare.com/news/2026/11/naughty-dog-dev-says-gta-6-is-like-a-bugatti-veyron-to-a-nervous-victorian-child",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 9,
+      "liens": [
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/atlus-doesnt-want-you-to-wait-yet-another-10-years-for-persona-7",
-          "titre": "Atlus Doesn't Want You to Wait Yet Another 10 Years for Persona 7"
+          "url": "https://www.pushsquare.com/news/2026/11/naughty-dog-dev-says-gta-6-is-like-a-bugatti-veyron-to-a-nervous-victorian-child",
+          "titre": "Naughty Dog Dev Says GTA 6 Is Like a 'Bugatti Veyron to a Nervous Victorian Child'"
+        }
+      ]
+    },
+    {
+      "id": "move-aside-mandy-gta-6-s-goth-girl-vicki-is-ps5-players-new",
+      "titre": "'Move Aside, Mandy': GTA 6's Goth Girl Vicki Is PS5 Players' New Fave",
+      "url": "https://www.pushsquare.com/news/2026/11/move-aside-mandy-gta-6s-goth-girl-vicki-is-ps5-players-new-fave",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/move-aside-mandy-gta-6s-goth-girl-vicki-is-ps5-players-new-fave",
+          "titre": "'Move Aside, Mandy': GTA 6's Goth Girl Vicki Is PS5 Players' New Fave"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-radio-djs-and-podcast-hosts-every-famous-voice-on-gta",
+      "titre": "GTA 6 radio DJs and podcast hosts: Every famous voice on GTA 6’s radio",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-radio-djs-and-podcast-hosts-every-famous-voice-on-gta-6s-radio/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 3.8,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-radio-djs-and-podcast-hosts-every-famous-voice-on-gta-6s-radio/",
+          "titre": "GTA 6 radio DJs and podcast hosts: Every famous voice on GTA 6’s radio"
         }
       ]
     },
@@ -133,8 +169,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 9.5,
-      "chaleur": 10,
+      "heures": 15.1,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -154,20 +190,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-6-dealer-s-choice-walkthrough-should-you-choose-cut-or-p",
-      "titre": "GTA 6 Dealer’s Choice walkthrough: Should you choose Cut or Pure?",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-dealers-choice-walkthrough-should-you-choose-cut-or-pure/",
+      "id": "gta-6-slim-jim-location-how-to-get-it-and-unlock-cars-quietl",
+      "titre": "GTA 6 Slim Jim Location: How to Get It and Unlock Cars Quietly",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-car-alarms-explained-how-to-steal-cars-with-alarms-in-gta-6/",
       "sources": [
         "VGC"
       ],
       "reprises": 1,
-      "heures": 0.3,
-      "chaleur": 9,
+      "heures": 6.1,
+      "chaleur": 7,
       "liens": [
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/gta-6-dealers-choice-walkthrough-should-you-choose-cut-or-pure/",
-          "titre": "GTA 6 Dealer’s Choice walkthrough: Should you choose Cut or Pure?"
+          "url": "https://www.videogameschronicle.com/guide/gta-6-car-alarms-explained-how-to-steal-cars-with-alarms-in-gta-6/",
+          "titre": "GTA 6 Slim Jim Location: How to Get It and Unlock Cars Quietly"
         }
       ]
     },
@@ -179,37 +215,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 9,
+      "heures": 8.4,
+      "chaleur": 7,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/guide/gta-6-welcome-to-vice-city-mission-walkthrough/",
           "titre": "GTA 6 Welcome to Vice City mission walkthrough"
-        }
-      ]
-    },
-    {
-      "id": "amid-a-year-of-layoffs-ubisoft-yank-the-cover-off-motherbrai",
-      "titre": "Amid a year of layoffs, Ubisoft yank the cover off Motherbrain, their new studio \"focused on AI for gameplay innovation\"",
-      "url": "https://www.rockpapershotgun.com/amid-a-year-of-layoffs-ubisoft-yank-the-cover-off-motherbrain-their-new-studio-focused-on-ai-for-gameplay-innovation",
-      "sources": [
-        "GamesIndustry.biz",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 32.3,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/amid-a-year-of-layoffs-ubisoft-yank-the-cover-off-motherbrain-their-new-studio-focused-on-ai-for-gameplay-innovation",
-          "titre": "Amid a year of layoffs, Ubisoft yank the cover off Motherbrain, their new studio \"focused on AI for gameplay innovation\""
-        },
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/ubisoft-launches-motherbrain-a-new-subsidiary-focused-on-ai-driven-gameplay-innovation",
-          "titre": "Ubisoft launches Motherbrain, a new subsidiary focused on AI-driven \"gameplay innovation\""
         }
       ]
     },
@@ -221,7 +233,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.2,
+      "heures": 9.8,
       "chaleur": 7,
       "liens": [
         {
@@ -239,7 +251,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.0,
+      "heures": 10.6,
       "chaleur": 7,
       "liens": [
         {
@@ -257,7 +269,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 10.7,
       "chaleur": 7,
       "liens": [
         {
@@ -275,7 +287,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 11.0,
       "chaleur": 7,
       "liens": [
         {
@@ -293,7 +305,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 11.1,
       "chaleur": 7,
       "liens": [
         {
@@ -311,7 +323,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.8,
+      "heures": 11.4,
       "chaleur": 7,
       "liens": [
         {
@@ -329,67 +341,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.1,
+      "heures": 11.8,
       "chaleur": 7,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/gta-6-review-bombed-metacritic-user-score",
           "titre": "GTA 6 has a 99 Metascore from critics, but players are review bombing it"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-is-a-cozy-game",
-      "titre": "GTA 6 is a cozy game",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-is-a-cozy-game/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 6.7,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-is-a-cozy-game/",
-          "titre": "GTA 6 is a cozy game"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-features-the-series-first-non-binary-character-says-ac",
-      "titre": "GTA 6 features the series' first non-binary character, says actor Jesse James Rose, and players can't hurt them",
-      "url": "https://www.eurogamer.net/gta-6-first-non-binary-character-jesse-james-rose",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 7.6,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-first-non-binary-character-jesse-james-rose",
-          "titre": "GTA 6 features the series' first non-binary character, says actor Jesse James Rose, and players can't hurt them"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-door-code-for-moses-declasse-vamos-vehicle-mission",
-      "titre": "GTA 6: Door code for Moses’ Declasse Vamos vehicle mission",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-moses-declasse-vamos-door-code/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 7.7,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/gta-6-moses-declasse-vamos-door-code/",
-          "titre": "GTA 6: Door code for Moses’ Declasse Vamos vehicle mission"
         }
       ]
     },
@@ -401,7 +359,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 17.0,
+      "heures": 22.6,
       "chaleur": 7,
       "liens": [
         {
@@ -412,128 +370,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "eldritch-empathy-is-a-papers-please-esque-roguelite-about-di",
-      "titre": "Eldritch Empathy is a Papers Please-esque roguelite about diagnosing cosmic horror creatures and trying not to lose your marbles as you do",
-      "url": "https://www.rockpapershotgun.com/eldritch-empathy-is-a-papers-please-esque-roguelite-about-diagnosing-cosmic-horror-creatures-and-trying-not-to-lose-your-marbles-as-you-do",
+      "id": "we-re-going-bananas-for-our-newest-furry-friend-donkey-kong",
+      "titre": "\"We're Going Bananas For Our Newest Furry Friend\" - Donkey Kong Out Now On Build-A-Bear Workshop",
+      "url": "https://www.nintendolife.com/news/2026/11/were-going-bananas-for-our-newest-furry-friend-donkey-kong-out-now-on-build-a-bear-workshop",
       "sources": [
-        "Rock Paper Shotgun"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.5,
+      "heures": 2.1,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/eldritch-empathy-is-a-papers-please-esque-roguelite-about-diagnosing-cosmic-horror-creatures-and-trying-not-to-lose-your-marbles-as-you-do",
-          "titre": "Eldritch Empathy is a Papers Please-esque roguelite about diagnosing cosmic horror creatures and trying not to lose your marbles as you do"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/were-going-bananas-for-our-newest-furry-friend-donkey-kong-out-now-on-build-a-bear-workshop",
+          "titre": "\"We're Going Bananas For Our Newest Furry Friend\" - Donkey Kong Out Now On Build-A-Bear Workshop"
         }
       ]
     },
     {
-      "id": "skyrim-lead-chats-about-the-fallout-diehards-who-hated-that",
-      "titre": "Skyrim lead chats about the Fallout diehards who hated that Bethesda got the series: 'We had to prove them wrong, and fortunately we did'",
-      "url": "https://www.pcgamer.com/games/fallout/skyrim-lead-chats-about-the-fallout-diehards-who-hated-that-bethesda-got-the-series-we-had-to-prove-them-wrong-and-fortunately-we-did/",
+      "id": "wizards-of-the-coast-to-pass-full-ai-copyright-payout-to-d-d",
+      "titre": "Wizards of the Coast to pass full AI copyright payout to D&D writers",
+      "url": "https://www.pcgamer.com/games/rpg/wizards-of-the-coast-to-pass-full-ai-copyright-payout-to-d-and-d-writers/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.5,
+      "heures": 2.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fallout/skyrim-lead-chats-about-the-fallout-diehards-who-hated-that-bethesda-got-the-series-we-had-to-prove-them-wrong-and-fortunately-we-did/",
-          "titre": "Skyrim lead chats about the Fallout diehards who hated that Bethesda got the series: 'We had to prove them wrong, and fortunately we did'"
+          "url": "https://www.pcgamer.com/games/rpg/wizards-of-the-coast-to-pass-full-ai-copyright-payout-to-d-and-d-writers/",
+          "titre": "Wizards of the Coast to pass full AI copyright payout to D&D writers"
         }
       ]
     },
     {
-      "id": "everyone-agrees-it-s-more-fun-this-way-toby-fox-won-t-tell",
-      "titre": "\"Everyone agrees it's more fun this way\": Toby Fox won't tell his team how Deltarune ends until they've built enough of it",
-      "url": "https://www.rockpapershotgun.com/everyone-agrees-its-more-fun-this-way-toby-fox-wont-tell-his-team-how-deltarune-ends-until-theyve-built-enough-of-it",
+      "id": "alt-video-is-a-digital-faux-blockbuster-video-store-that-you",
+      "titre": "Alt Video is a digital, faux Blockbuster video store that you can fill with movies from your Letterboxd watchlist and Plex server",
+      "url": "https://www.rockpapershotgun.com/alt-video-is-a-digital-faux-blockbuster-video-store-that-you-can-fill-with-movies-from-your-letterboxd-watchlist-and-plex-server",
       "sources": [
         "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/everyone-agrees-its-more-fun-this-way-toby-fox-wont-tell-his-team-how-deltarune-ends-until-theyve-built-enough-of-it",
-          "titre": "\"Everyone agrees it's more fun this way\": Toby Fox won't tell his team how Deltarune ends until they've built enough of it"
-        }
-      ]
-    },
-    {
-      "id": "unannounced-nioh-3-complete-edition-has-been-rated-in-korea",
-      "titre": "Unannounced Nioh 3 Complete Edition has been rated in Korea",
-      "url": "https://www.eurogamer.net/nioh-3-complete-edition-rated-korea",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/nioh-3-complete-edition-rated-korea",
-          "titre": "Unannounced Nioh 3 Complete Edition has been rated in Korea"
-        }
-      ]
-    },
-    {
-      "id": "fake-figures-seized-from-dishonest-dealer-in-shanghai-sting",
-      "titre": "Fake figures seized from dishonest dealer in Shanghai sting spurred by tacky Tifa tchotchke",
-      "url": "https://www.pcgamer.com/games/final-fantasy/fake-figures-seized-from-dishonest-dealer-in-shanghai-sting-spurred-by-tacky-tifa-tchotchke/",
-      "sources": [
-        "PC Gamer"
       ],
       "reprises": 1,
       "heures": 3.3,
       "chaleur": 6,
       "liens": [
         {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/final-fantasy/fake-figures-seized-from-dishonest-dealer-in-shanghai-sting-spurred-by-tacky-tifa-tchotchke/",
-          "titre": "Fake figures seized from dishonest dealer in Shanghai sting spurred by tacky Tifa tchotchke"
-        }
-      ]
-    },
-    {
-      "id": "world-of-warcraft-forever-has-turned-me-into-a-big-friendly",
-      "titre": "World of Warcraft: Forever has turned me into a big, friendly golden retriever that says hello to everybody",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-has-turned-me-into-a-big-friendly-golden-retriever-that-says-hello-to-everybody/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-has-turned-me-into-a-big-friendly-golden-retriever-that-says-hello-to-everybody/",
-          "titre": "World of Warcraft: Forever has turned me into a big, friendly golden retriever that says hello to everybody"
-        }
-      ]
-    },
-    {
-      "id": "darkest-dungeon-2-s-next-bit-of-dlc-is-a-short-run-combat-fo",
-      "titre": "Darkest Dungeon 2's next bit of DLC is a short run, combat focused gauntlet where you must do everything in your power to please the audience",
-      "url": "https://www.rockpapershotgun.com/darkest-dungeon-2s-next-bit-of-dlc-is-a-short-run-combat-focused-gauntlet-where-you-must-do-everything-in-your-power-to-please-the-audience",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/darkest-dungeon-2s-next-bit-of-dlc-is-a-short-run-combat-focused-gauntlet-where-you-must-do-everything-in-your-power-to-please-the-audience",
-          "titre": "Darkest Dungeon 2's next bit of DLC is a short run, combat focused gauntlet where you must do everything in your power to please the audience"
+          "url": "https://www.rockpapershotgun.com/alt-video-is-a-digital-faux-blockbuster-video-store-that-you-can-fill-with-movies-from-your-letterboxd-watchlist-and-plex-server",
+          "titre": "Alt Video is a digital, faux Blockbuster video store that you can fill with movies from your Letterboxd watchlist and Plex server"
         }
       ]
     },
@@ -545,13 +431,55 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 10.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/features/dont-have-your-wii-set-up-here-are-20-wii-games-you-can-play-on-switch",
           "titre": "Feature: Don't Have Your Wii Set Up? Here Are 20 Wii Games You Can Play On Switch"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-features-the-series-first-non-binary-character-says-ac",
+      "titre": "GTA 6 features the series' first non-binary character, says actor Jesse James Rose, and players can't hurt them",
+      "url": "https://www.eurogamer.net/gta-6-first-non-binary-character-jesse-james-rose",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 13.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-first-non-binary-character-jesse-james-rose",
+          "titre": "GTA 6 features the series' first non-binary character, says actor Jesse James Rose, and players can't hurt them"
+        }
+      ]
+    },
+    {
+      "id": "what-if-vampire-survivors-met-grand-theft-auto-2-maniac-is-a",
+      "titre": "What if Vampire Survivors met Grand Theft Auto 2? Maniac is a brilliant mash-up that dares to ask that question",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-vampire-survivors-maniac-interview",
+      "sources": [
+        "Eurogamer",
+        "Game Developer"
+      ],
+      "reprises": 2,
+      "heures": 16.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/grand-theft-auto-6-vampire-survivors-maniac-interview",
+          "titre": "What if Vampire Survivors met Grand Theft Auto 2? Maniac is a brilliant mash-up that dares to ask that question"
+        },
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/grand-theft-auto-vi-is-officially-the-biggest-video-game-launch-ever",
+          "titre": "Grand Theft Auto VI is now the biggest video game launch in history"
         }
       ]
     },
@@ -563,31 +491,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 18.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-walkthrough-switch-2-remake",
           "titre": "Guide: Zelda: Ocarina Of Time Walkthrough (Switch 2 Remake): Guide To The Main Quest, Side Quests & Collectables"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-twist-wrist-smash-grab-walkthrough-how-to-rob-the-armo",
-      "titre": "GTA 6 Twist Wrist, Smash, Grab walkthrough: How to rob the armoured van",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-twist-wrist-smash-grab-walkthrough/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 18.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/gta-6-twist-wrist-smash-grab-walkthrough/",
-          "titre": "GTA 6 Twist Wrist, Smash, Grab walkthrough: How to rob the armoured van"
         }
       ]
     },
@@ -599,7 +509,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 20.7,
+      "heures": 26.4,
       "chaleur": 6,
       "liens": [
         {
@@ -617,7 +527,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 26.1,
+      "heures": 31.7,
       "chaleur": 6,
       "liens": [
         {
@@ -635,13 +545,37 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 26.5,
+      "heures": 32.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/features/gta-6-made-me-want-to-be-a-good-guy-or-girl",
           "titre": "Feature: GTA 6 Made Me Want to Be a Good Guy (or Girl)"
+        }
+      ]
+    },
+    {
+      "id": "persona-6-doesn-t-have-a-date-yet-but-atlus-says-you-won-t-h",
+      "titre": "Persona 6 Doesn't Have A Date Yet, But Atlus Says You Won't Have To Wait As Long For Persona 7",
+      "url": "https://www.nintendolife.com/news/2026/11/persona-6-doesnt-have-a-date-yet-but-atlus-says-you-wont-have-to-wait-as-long-for-persona-7",
+      "sources": [
+        "Nintendo Life",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 33.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/persona-6-doesnt-have-a-date-yet-but-atlus-says-you-wont-have-to-wait-as-long-for-persona-7",
+          "titre": "Persona 6 Doesn't Have A Date Yet, But Atlus Says You Won't Have To Wait As Long For Persona 7"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/atlus-doesnt-want-you-to-wait-yet-another-10-years-for-persona-7",
+          "titre": "Atlus Doesn't Want You to Wait Yet Another 10 Years for Persona 7"
         }
       ]
     },
@@ -653,7 +587,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 28.5,
+      "heures": 34.1,
       "chaleur": 6,
       "liens": [
         {
@@ -671,7 +605,7 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 29.1,
+      "heures": 34.8,
       "chaleur": 6,
       "liens": [
         {
@@ -689,7 +623,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.1,
+      "heures": 34.8,
       "chaleur": 6,
       "liens": [
         {
@@ -707,7 +641,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 29.5,
+      "heures": 35.1,
       "chaleur": 6,
       "liens": [
         {
@@ -725,121 +659,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 30.0,
+      "heures": 35.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/11/its-unbelievably-hard-to-achieve-cyberpunk-2077-boss-pours-praise-on-masterpiece-gta-6",
           "titre": "'It's Unbelievably Hard to Achieve': Cyberpunk 2077 Boss Pours Praise on 'Masterpiece' GTA 6"
-        }
-      ]
-    },
-    {
-      "id": "guide-43-switch-1-2-games-you-should-check-out-in-nintendo-s",
-      "titre": "Guide: 43 Switch 1 & 2 Games You Should Check Out In Nintendo's 'Adventure Awaits' eShop Sale (US)",
-      "url": "https://www.nintendolife.com/guides/43-switch-1-and-2-games-you-should-check-out-in-nintendos-adventure-awaits-eshop-sale-us",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 30.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/guides/43-switch-1-and-2-games-you-should-check-out-in-nintendos-adventure-awaits-eshop-sale-us",
-          "titre": "Guide: 43 Switch 1 & 2 Games You Should Check Out In Nintendo's 'Adventure Awaits' eShop Sale (US)"
-        }
-      ]
-    },
-    {
-      "id": "zelda-switch-2-console-is-back-in-stock-soon-if-you-missed-o",
-      "titre": "Zelda Switch 2 Console Is Back In Stock Soon If You Missed Out (US)",
-      "url": "https://www.nintendolife.com/news/2026/11/zelda-switch-2-console-is-back-in-stock-soon-if-you-missed-out-us",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 31.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/zelda-switch-2-console-is-back-in-stock-soon-if-you-missed-out-us",
-          "titre": "Zelda Switch 2 Console Is Back In Stock Soon If You Missed Out (US)"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-too-dark-here-s-how-to-fix-it-on-ps5",
-      "titre": "GTA 6 Too Dark? Here's How to Fix It on PS5",
-      "url": "https://www.pushsquare.com/news/2026/11/gta-6-too-dark-heres-how-to-fix-it-on-ps5",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 32.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/gta-6-too-dark-heres-how-to-fix-it-on-ps5",
-          "titre": "GTA 6 Too Dark? Here's How to Fix It on PS5"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-leaker-claims-to-have-lobbed-a-near-complete-xbox-buil",
-      "titre": "GTA 6 leaker claims to have lobbed a near-complete Xbox build of Rockstar's crimsim onto the net, shouts that the \"community will have it emulated inside a week\"",
-      "url": "https://www.rockpapershotgun.com/gta-6-leaker-claims-to-have-lobbed-a-near-complete-xbox-build-of-rockstars-crimsim-onto-the-net-shouts-that-the-community-will-have-it-emulated-inside-a-week",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 33.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/gta-6-leaker-claims-to-have-lobbed-a-near-complete-xbox-build-of-rockstars-crimsim-onto-the-net-shouts-that-the-community-will-have-it-emulated-inside-a-week",
-          "titre": "GTA 6 leaker claims to have lobbed a near-complete Xbox build of Rockstar's crimsim onto the net, shouts that the \"community will have it emulated inside a week\""
-        }
-      ]
-    },
-    {
-      "id": "ign-partners-with-rockstar-to-host-official-strategy-guide-f",
-      "titre": "IGN partners with Rockstar to host Official Strategy Guide for GTA 6",
-      "url": "https://www.gamesindustry.biz/ign-partners-with-rockstar-to-host-official-strategy-guide-for-gta-6",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 34.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/ign-partners-with-rockstar-to-host-official-strategy-guide-for-gta-6",
-          "titre": "IGN partners with Rockstar to host Official Strategy Guide for GTA 6"
-        }
-      ]
-    },
-    {
-      "id": "guide-gta-6-radio-songs-all-music-radio-stations-artists",
-      "titre": "Guide: GTA 6: Radio Songs - All Music, Radio Stations, & Artists",
-      "url": "https://www.pushsquare.com/guides/gta-6-radio-songs-all-music-radio-stations-and-artists",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 35.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/guides/gta-6-radio-songs-all-music-radio-stations-and-artists",
-          "titre": "Guide: GTA 6: Radio Songs - All Music, Radio Stations, & Artists"
         }
       ]
     },
@@ -851,7 +677,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.0,
+      "heures": 34.6,
       "chaleur": 5,
       "liens": [
         {
@@ -869,7 +695,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 29.7,
+      "heures": 35.4,
       "chaleur": 5,
       "liens": [
         {
@@ -880,20 +706,164 @@ const VEILLE = {
       ]
     },
     {
-      "id": "valve-are-pausing-steam-machine-2tb-orders-over-supply-const",
-      "titre": "Valve are pausing Steam Machine 2TB orders over \"supply constraints,\" though the 512GB model is free of its waitlist",
-      "url": "https://www.rockpapershotgun.com/valve-are-pausing-steam-machine-2tb-orders-over-supply-constraints-though-the-512gb-model-is-free-of-its-waitlist",
+      "id": "public-access-television-is-born-anew-in-night-eye-tv-a-digi",
+      "titre": "Public-access television is born anew in NIGHT EYE TV, a digital goggle box filled with art game curios",
+      "url": "https://www.rockpapershotgun.com/public-access-television-is-born-anew-in-night-eye-tv-a-digital-goggle-box-filled-with-art-game-curios",
       "sources": [
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 34.4,
-      "chaleur": 5,
+      "heures": 4.6,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/valve-are-pausing-steam-machine-2tb-orders-over-supply-constraints-though-the-512gb-model-is-free-of-its-waitlist",
-          "titre": "Valve are pausing Steam Machine 2TB orders over \"supply constraints,\" though the 512GB model is free of its waitlist"
+          "url": "https://www.rockpapershotgun.com/public-access-television-is-born-anew-in-night-eye-tv-a-digital-goggle-box-filled-with-art-game-curios",
+          "titre": "Public-access television is born anew in NIGHT EYE TV, a digital goggle box filled with art game curios"
+        }
+      ]
+    },
+    {
+      "id": "the-team-behind-ubisoft-s-first-playable-ai-based-r-d-projec",
+      "titre": "The team behind Ubisoft's 'first playable AI-based R&D project' has been established as its own subsidiary called Motherbrain",
+      "url": "https://www.pcgamer.com/gaming-industry/the-team-behind-ubisofts-first-playable-ai-based-r-and-d-project-has-been-established-as-its-own-subsidiary-called-motherbrain/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/the-team-behind-ubisofts-first-playable-ai-based-r-and-d-project-has-been-established-as-its-own-subsidiary-called-motherbrain/",
+          "titre": "The team behind Ubisoft's 'first playable AI-based R&D project' has been established as its own subsidiary called Motherbrain"
+        }
+      ]
+    },
+    {
+      "id": "eldritch-empathy-is-a-papers-please-esque-roguelite-about-di",
+      "titre": "Eldritch Empathy is a Papers Please-esque roguelite about diagnosing cosmic horror creatures and trying not to lose your marbles as you do",
+      "url": "https://www.rockpapershotgun.com/eldritch-empathy-is-a-papers-please-esque-roguelite-about-diagnosing-cosmic-horror-creatures-and-trying-not-to-lose-your-marbles-as-you-do",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 7.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/eldritch-empathy-is-a-papers-please-esque-roguelite-about-diagnosing-cosmic-horror-creatures-and-trying-not-to-lose-your-marbles-as-you-do",
+          "titre": "Eldritch Empathy is a Papers Please-esque roguelite about diagnosing cosmic horror creatures and trying not to lose your marbles as you do"
+        }
+      ]
+    },
+    {
+      "id": "skyrim-lead-chats-about-the-fallout-diehards-who-hated-that",
+      "titre": "Skyrim lead chats about the Fallout diehards who hated that Bethesda got the series: 'We had to prove them wrong, and fortunately we did'",
+      "url": "https://www.pcgamer.com/games/fallout/skyrim-lead-chats-about-the-fallout-diehards-who-hated-that-bethesda-got-the-series-we-had-to-prove-them-wrong-and-fortunately-we-did/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 8.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fallout/skyrim-lead-chats-about-the-fallout-diehards-who-hated-that-bethesda-got-the-series-we-had-to-prove-them-wrong-and-fortunately-we-did/",
+          "titre": "Skyrim lead chats about the Fallout diehards who hated that Bethesda got the series: 'We had to prove them wrong, and fortunately we did'"
+        }
+      ]
+    },
+    {
+      "id": "everyone-agrees-it-s-more-fun-this-way-toby-fox-won-t-tell",
+      "titre": "\"Everyone agrees it's more fun this way\": Toby Fox won't tell his team how Deltarune ends until they've built enough of it",
+      "url": "https://www.rockpapershotgun.com/everyone-agrees-its-more-fun-this-way-toby-fox-wont-tell-his-team-how-deltarune-ends-until-theyve-built-enough-of-it",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 8.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/everyone-agrees-its-more-fun-this-way-toby-fox-wont-tell-his-team-how-deltarune-ends-until-theyve-built-enough-of-it",
+          "titre": "\"Everyone agrees it's more fun this way\": Toby Fox won't tell his team how Deltarune ends until they've built enough of it"
+        }
+      ]
+    },
+    {
+      "id": "unannounced-nioh-3-complete-edition-has-been-rated-in-korea",
+      "titre": "Unannounced Nioh 3 Complete Edition has been rated in Korea",
+      "url": "https://www.eurogamer.net/nioh-3-complete-edition-rated-korea",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 8.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/nioh-3-complete-edition-rated-korea",
+          "titre": "Unannounced Nioh 3 Complete Edition has been rated in Korea"
+        }
+      ]
+    },
+    {
+      "id": "fake-figures-seized-from-dishonest-dealer-in-shanghai-sting",
+      "titre": "Fake figures seized from dishonest dealer in Shanghai sting spurred by tacky Tifa tchotchke",
+      "url": "https://www.pcgamer.com/games/final-fantasy/fake-figures-seized-from-dishonest-dealer-in-shanghai-sting-spurred-by-tacky-tifa-tchotchke/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 9.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/final-fantasy/fake-figures-seized-from-dishonest-dealer-in-shanghai-sting-spurred-by-tacky-tifa-tchotchke/",
+          "titre": "Fake figures seized from dishonest dealer in Shanghai sting spurred by tacky Tifa tchotchke"
+        }
+      ]
+    },
+    {
+      "id": "world-of-warcraft-forever-has-turned-me-into-a-big-friendly",
+      "titre": "World of Warcraft: Forever has turned me into a big, friendly golden retriever that says hello to everybody",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-has-turned-me-into-a-big-friendly-golden-retriever-that-says-hello-to-everybody/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 9.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-has-turned-me-into-a-big-friendly-golden-retriever-that-says-hello-to-everybody/",
+          "titre": "World of Warcraft: Forever has turned me into a big, friendly golden retriever that says hello to everybody"
+        }
+      ]
+    },
+    {
+      "id": "darkest-dungeon-2-s-next-bit-of-dlc-is-a-short-run-combat-fo",
+      "titre": "Darkest Dungeon 2's next bit of DLC is a short run, combat focused gauntlet where you must do everything in your power to please the audience",
+      "url": "https://www.rockpapershotgun.com/darkest-dungeon-2s-next-bit-of-dlc-is-a-short-run-combat-focused-gauntlet-where-you-must-do-everything-in-your-power-to-please-the-audience",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 9.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/darkest-dungeon-2s-next-bit-of-dlc-is-a-short-run-combat-focused-gauntlet-where-you-must-do-everything-in-your-power-to-please-the-audience",
+          "titre": "Darkest Dungeon 2's next bit of DLC is a short run, combat focused gauntlet where you must do everything in your power to please the audience"
         }
       ]
     },
@@ -905,7 +875,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 10.1,
       "chaleur": 4,
       "liens": [
         {
@@ -923,7 +893,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 10.2,
       "chaleur": 4,
       "liens": [
         {
@@ -941,31 +911,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.5,
+      "heures": 11.1,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/rpg/while-you-wait-for-the-elder-scrolls-6-sentinel-you-owe-it-to-yourself-to-play-tainted-grail/",
           "titre": "While you wait for The Elder Scrolls 6: Sentinel, you owe it to yourself to play Tainted Grail"
-        }
-      ]
-    },
-    {
-      "id": "deltarune-chapter-6-is-structurally-complete-while-developme",
-      "titre": "Deltarune chapter 6 is 'structurally complete' while development has begun on chapter 7, according to Toby Fox",
-      "url": "https://www.pcgamer.com/games/rpg/deltarune-chapter-6-is-structurally-complete-while-development-has-begun-on-chapter-7-according-to-toby-fox/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 7.3,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/deltarune-chapter-6-is-structurally-complete-while-development-has-begun-on-chapter-7-according-to-toby-fox/",
-          "titre": "Deltarune chapter 6 is 'structurally complete' while development has begun on chapter 7, according to Toby Fox"
         }
       ]
     },
@@ -977,8 +929,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 8.5,
-      "chaleur": 4,
+      "heures": 14.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -995,8 +947,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.0,
-      "chaleur": 4,
+      "heures": 17.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -1013,7 +965,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 18.1,
       "chaleur": 3,
       "liens": [
         {
@@ -1031,7 +983,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.0,
+      "heures": 20.6,
       "chaleur": 3,
       "liens": [
         {
@@ -1049,7 +1001,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.1,
+      "heures": 23.7,
       "chaleur": 3,
       "liens": [
         {
@@ -1067,7 +1019,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 25.1,
+      "heures": 30.7,
       "chaleur": 3,
       "liens": [
         {
@@ -1085,7 +1037,7 @@ const VEILLE = {
         "Game Developer"
       ],
       "reprises": 1,
-      "heures": 25.8,
+      "heures": 31.5,
       "chaleur": 3,
       "liens": [
         {
@@ -1103,7 +1055,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 27.1,
+      "heures": 32.8,
       "chaleur": 3,
       "liens": [
         {
@@ -1121,7 +1073,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 27.8,
+      "heures": 33.4,
       "chaleur": 3,
       "liens": [
         {
@@ -1139,7 +1091,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 28.4,
+      "heures": 34.0,
       "chaleur": 3,
       "liens": [
         {
@@ -1148,9 +1100,45 @@ const VEILLE = {
           "titre": "Nvidia's latest graphics card driver appears to be unnecessarily writing to PC SSDs, something that's dumb, annoying and definitely warrants reverting"
         }
       ]
+    },
+    {
+      "id": "star-wars-galactic-racer-studio-didn-t-dream-biddy-blas-woul",
+      "titre": "Star Wars: Galactic Racer studio \"didn't dream\" Biddy Blas would be as popular as he is",
+      "url": "https://www.eurogamer.net/biddy-blas-star-wars-galactic-racer-viral-scrib-doon",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 34.2,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/biddy-blas-star-wars-galactic-racer-viral-scrib-doon",
+          "titre": "Star Wars: Galactic Racer studio \"didn't dream\" Biddy Blas would be as popular as he is"
+        }
+      ]
+    },
+    {
+      "id": "is-control-resonant-s-protagonist-a-sad-wet-man-ft-mikael-ka",
+      "titre": "Is Control Resonant's protagonist a 'sad wet man?' ft. Mikael Kasurinen",
+      "url": "https://www.gamedeveloper.com/design/is-control-resonant-s-protagonist-a-sad-wet-man-ft-mikael-kasurinen",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 34.9,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/design/is-control-resonant-s-protagonist-a-sad-wet-man-ft-mikael-kasurinen",
+          "titre": "Is Control Resonant's protagonist a 'sad wet man?' ft. Mikael Kasurinen"
+        }
+      ]
     }
   ],
   "alertes": [
-    "GTA 6: All Meditation Spot locations in Grand Theft Auto 6"
+    "GTA 6 hits $3.79 billion in its first day on sale, becoming \"the biggest entertainment launch in history\""
   ]
 };
