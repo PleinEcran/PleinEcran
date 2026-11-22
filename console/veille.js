@@ -1,14 +1,14 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "22/11/2026 à 12h28",
+  "collecte": "22/11/2026 à 20h40",
   "seuil": 14,
   "sujets": [
     {
-      "id": "over-half-of-all-console-players-active-on-gta-6-s-launch-da",
-      "titre": "Over half of all console players active on GTA 6's launch day played it, says Circana",
-      "url": "https://www.eurogamer.net/gta-6-launch-day-engagement-circana",
+      "id": "gta-6-needed-a-dedicated-team-to-make-sure-all-its-different",
+      "titre": "GTA 6 needed a dedicated team to make sure all its different body types could share animations: 'It was a huge team effort'",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-needed-a-dedicated-team-to-make-sure-all-its-different-body-types-could-share-animations-it-was-a-huge-team-effort/",
       "sources": [
-        "Eurogamer",
+        "PC Gamer",
         "Push Square"
       ],
       "reprises": 2,
@@ -16,14 +16,272 @@ const VEILLE = {
       "chaleur": 12,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-launch-day-engagement-circana",
-          "titre": "Over half of all console players active on GTA 6's launch day played it, says Circana"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-needed-a-dedicated-team-to-make-sure-all-its-different-body-types-could-share-animations-it-was-a-huge-team-effort/",
+          "titre": "GTA 6 needed a dedicated team to make sure all its different body types could share animations: 'It was a huge team effort'"
         },
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/guides/gta-6-guide",
           "titre": "Guide: GTA 6 Guide: All Guides & Collectibles"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-bad-luck-i-guess-trophy-guide-how-to-rob-the-payday-lo",
+      "titre": "GTA 6 Bad Luck, I Guess trophy guide: How to rob the Payday Loans store",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-bad-luck-i-guess-trophy-guide-how-to-rob-the-payday-loans-store/",
+      "sources": [
+        "PC Gamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 0.7,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-bad-luck-i-guess-trophy-guide-how-to-rob-the-payday-loans-store/",
+          "titre": "GTA 6 Bad Luck, I Guess trophy guide: How to rob the Payday Loans store"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-declasse-vamos-code/",
+          "titre": "How to steal the Declasse Vamos in GTA 6"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-arthur-morgan-s-hat-location-from-red-dead-redemption",
+      "titre": "GTA 6: Arthur Morgan’s hat location from Red Dead Redemption 2",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-arthur-morgan-hat-location/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.1,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-arthur-morgan-hat-location/",
+          "titre": "GTA 6: Arthur Morgan’s hat location from Red Dead Redemption 2"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-discourse-is-suffering-from-the-flat-earther-effect",
+      "titre": "GTA 6 discourse is suffering from the flat earther effect",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-discourse-is-already-suffering-from-the-flat-earther-effect/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.0,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-discourse-is-already-suffering-from-the-flat-earther-effect/",
+          "titre": "GTA 6 discourse is suffering from the flat earther effect"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-full-alien-ufo-questline-walkthrough",
+      "titre": "GTA 6: Full Alien UFO questline walkthrough",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-full-alien-ufo-questline-walkthrough/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 2.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-full-alien-ufo-questline-walkthrough/",
+          "titre": "GTA 6: Full Alien UFO questline walkthrough"
+        }
+      ]
+    },
+    {
+      "id": "which-gta-6-radio-station-is-your-favourite-so-far",
+      "titre": "Which GTA 6 radio station is your favourite so far?",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/which-gta-6-radio-station-is-your-favourite-so-far/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.7,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/which-gta-6-radio-station-is-your-favourite-so-far/",
+          "titre": "Which GTA 6 radio station is your favourite so far?"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-s-massive-casino-and-sick-go-kart-track-are-currently",
+      "titre": "GTA 6's massive casino and sick go-kart track are currently closed, but I'm hoping we can trust those 'coming soon' signs 🙏",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-massive-casino-and-sick-go-kart-track-are-currently-closed-but-im-hoping-we-can-trust-those-coming-soon-signs/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.8,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-massive-casino-and-sick-go-kart-track-are-currently-closed-but-im-hoping-we-can-trust-those-coming-soon-signs/",
+          "titre": "GTA 6's massive casino and sick go-kart track are currently closed, but I'm hoping we can trust those 'coming soon' signs 🙏"
+        }
+      ]
+    },
+    {
+      "id": "former-rockstar-environment-artist-breaks-silence-gta-6-is-g",
+      "titre": "Former Rockstar environment artist breaks silence: GTA 6 is 'generally stunning,' but Red Dead 2 might have had better rivers",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/former-rockstar-environment-artist-breaks-silence-gta-6-is-generally-stunning-but-red-dead-2-might-have-had-better-rivers/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 3.8,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/former-rockstar-environment-artist-breaks-silence-gta-6-is-generally-stunning-but-red-dead-2-might-have-had-better-rivers/",
+          "titre": "Former Rockstar environment artist breaks silence: GTA 6 is 'generally stunning,' but Red Dead 2 might have had better rivers"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-just-can-t-stop-breaking-records-it-seems",
+      "titre": "GTA 6 Just Can't Stop Breaking Records It Seems",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6-just-cant-stop-breaking-records-it-seems",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 7.7,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-just-cant-stop-breaking-records-it-seems",
+          "titre": "GTA 6 Just Can't Stop Breaking Records It Seems"
+        }
+      ]
+    },
+    {
+      "id": "scott-lynch-author-of-the-lies-of-locke-lamora-has-1-493-hou",
+      "titre": "Scott Lynch, author of The Lies of Locke Lamora, has 1,493 hours in Star Wars: Rebellion and 1,564 in BattleTech: 'If J.R.R. Tolkien had had a Steam account, his numbers would be pretty embarrassing too'",
+      "url": "https://www.pcgamer.com/gaming-industry/scott-lynch-author-of-the-lies-of-locke-lamora-has-1-493-hours-in-star-wars-rebellion-and-1-564-in-battletech-if-j-r-r-tolkien-had-had-a-steam-account-his-numbers-would-be-pretty-embarrassing-too/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 3.7,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/scott-lynch-author-of-the-lies-of-locke-lamora-has-1-493-hours-in-star-wars-rebellion-and-1-564-in-battletech-if-j-r-r-tolkien-had-had-a-steam-account-his-numbers-would-be-pretty-embarrassing-too/",
+          "titre": "Scott Lynch, author of The Lies of Locke Lamora, has 1,493 hours in Star Wars: Rebellion and 1,564 in BattleTech: 'If J.R.R. Tolkien had had a Steam account, his numbers would be pretty embarrassing too'"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-s-strong-and-silent-jason-was-inspired-by-steve-mcquee",
+      "titre": "GTA 6's strong and silent Jason was inspired by Steve McQueen and former Army Rangers, says Rockstar",
+      "url": "https://www.eurogamer.net/gta-6-jason-steve-mcqueen-army-rangers",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 4.5,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-jason-steve-mcqueen-army-rangers",
+          "titre": "GTA 6's strong and silent Jason was inspired by Steve McQueen and former Army Rangers, says Rockstar"
+        }
+      ]
+    },
+    {
+      "id": "the-gtas-that-are-still-worth-playing-while-you-wait-for-gta",
+      "titre": "The GTAs that are still worth playing while you wait for GTA 6 on PC",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/the-gtas-that-are-still-worth-playing-while-you-wait-for-gta-6-on-pc/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.7,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/the-gtas-that-are-still-worth-playing-while-you-wait-for-gta-6-on-pc/",
+          "titre": "The GTAs that are still worth playing while you wait for GTA 6 on PC"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-mamba-gt-locations-how-to-restore-the-third-car-for-wy",
+      "titre": "GTA 6 Mamba GT locations: How to restore the third car for Wyman",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-mamba-gt-locations/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.8,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-mamba-gt-locations/",
+          "titre": "GTA 6 Mamba GT locations: How to restore the third car for Wyman"
+        }
+      ]
+    },
+    {
+      "id": "should-you-shoot-halifax-in-gta-6-kill-or-spare-him-in-dubio",
+      "titre": "Should you shoot Halifax in GTA 6? Kill or spare him in Dubious Provenance",
+      "url": "https://www.videogameschronicle.com/guide/should-you-shoot-halifax-in-gta-6-kill-or-spare-him-in-dubious-provenance/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 6.2,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/should-you-shoot-halifax-in-gta-6-kill-or-spare-him-in-dubious-provenance/",
+          "titre": "Should you shoot Halifax in GTA 6? Kill or spare him in Dubious Provenance"
+        }
+      ]
+    },
+    {
+      "id": "over-half-of-all-console-players-active-on-gta-6-s-launch-da",
+      "titre": "Over half of all console players active on GTA 6's launch day played it, says Circana",
+      "url": "https://www.eurogamer.net/gta-6-launch-day-engagement-circana",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 8.6,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-launch-day-engagement-circana",
+          "titre": "Over half of all console players active on GTA 6's launch day played it, says Circana"
         }
       ]
     },
@@ -35,8 +293,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.1,
-      "chaleur": 9,
+      "heures": 9.3,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Eurogamer",
@@ -53,8 +311,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 9,
+      "heures": 10.7,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Eurogamer",
@@ -64,80 +322,74 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-6-meet-the-heders-walkthrough-find-and-open-the-scoop-co",
-      "titre": "GTA 6 Meet the Heders walkthrough: Find and open the SCOOP container",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-meet-the-heders-walkthrough-find-and-open-the-scoop-container/",
+      "id": "unreal-engine-6-to-jettison-key-scripting-feature-earlier-th",
+      "titre": "Unreal Engine 6 to jettison key scripting feature earlier than planned in favor of AI coding",
+      "url": "https://www.pcgamer.com/gaming-industry/unreal-engine-6-to-jettison-key-scripting-feature-earlier-than-planned-in-favor-of-ai-coding/",
       "sources": [
-        "PC Gamer",
-        "VGC"
+        "PC Gamer"
       ],
-      "reprises": 2,
-      "heures": 13.6,
-      "chaleur": 9,
+      "reprises": 1,
+      "heures": 0.1,
+      "chaleur": 6,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/gta-6-meet-the-heders-walkthrough-find-and-open-the-scoop-container/",
-          "titre": "GTA 6 Meet the Heders walkthrough: Find and open the SCOOP container"
-        },
-        {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bf-bandito-location/",
-          "titre": "How to steal the BF Bandito in GTA 6"
+          "url": "https://www.pcgamer.com/gaming-industry/unreal-engine-6-to-jettison-key-scripting-feature-earlier-than-planned-in-favor-of-ai-coding/",
+          "titre": "Unreal Engine 6 to jettison key scripting feature earlier than planned in favor of AI coding"
         }
       ]
     },
     {
-      "id": "gta-6-protective-custody-should-you-choose-proceed-or-postpo",
-      "titre": "GTA 6 Protective Custody: Should you choose proceed or postpone when you go to meet Abe?",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-protective-custody-choice-proceed-or-postpone-meet-abe/",
+      "id": "new-dota-2-patch-tries-to-help-games-end-faster-adds-an-item",
+      "titre": "New Dota 2 patch tries to help games end faster, adds an item that summons super creeps in every lane at once",
+      "url": "https://www.pcgamer.com/games/moba/new-dota-2-patch-tries-to-help-games-end-faster-adds-an-item-that-summons-super-creeps-in-every-lane-at-once/",
       "sources": [
-        "PC Gamer",
-        "VGC"
+        "PC Gamer"
       ],
-      "reprises": 2,
-      "heures": 15.9,
-      "chaleur": 9,
+      "reprises": 1,
+      "heures": 0.5,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-protective-custody-choice-proceed-or-postpone-meet-abe/",
-          "titre": "GTA 6 Protective Custody: Should you choose proceed or postpone when you go to meet Abe?"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/gta-6-dealers-choice-walkthrough-should-you-choose-cut-or-pure/",
-          "titre": "GTA 6 Dealer’s Choice walkthrough: Should you choose Cut or Pure?"
+          "url": "https://www.pcgamer.com/games/moba/new-dota-2-patch-tries-to-help-games-end-faster-adds-an-item-that-summons-super-creeps-in-every-lane-at-once/",
+          "titre": "New Dota 2 patch tries to help games end faster, adds an item that summons super creeps in every lane at once"
         }
       ]
     },
     {
-      "id": "what-are-we-all-playing-this-weekend",
-      "titre": "What are we all playing this weekend?",
-      "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-409",
+      "id": "feature-a-lost-box-restored-my-faith-in-zelda-s-staying-powe",
+      "titre": "Feature: A Lost Box Restored My Faith In Zelda's Staying Power",
+      "url": "https://www.nintendolife.com/features/a-lost-box-restored-my-faith-in-zeldas-staying-power",
       "sources": [
-        "Nintendo Life",
-        "Push Square",
-        "Rock Paper Shotgun"
+        "Nintendo Life"
       ],
-      "reprises": 3,
-      "heures": 25.5,
-      "chaleur": 9,
+      "reprises": 1,
+      "heures": 4.7,
+      "chaleur": 6,
       "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-409",
-          "titre": "What are we all playing this weekend?"
-        },
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-21st-november",
-          "titre": "Talking Point: What Are You Playing This Weekend? (21st November)"
-        },
+          "url": "https://www.nintendolife.com/features/a-lost-box-restored-my-faith-in-zeldas-staying-power",
+          "titre": "Feature: A Lost Box Restored My Faith In Zelda's Staying Power"
+        }
+      ]
+    },
+    {
+      "id": "mailbox-ocarina-intruders-pikmin-day-too-many-humans-nintend",
+      "titre": "Mailbox: Ocarina Intruders, Pikmin Day, Too Many Humans - Nintendo Life Letters",
+      "url": "https://www.nintendolife.com/news/2026/11/mailbox-ocarina-intruders-pikmin-day-too-many-humans-nintendo-life-letters",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 6.7,
+      "chaleur": 6,
+      "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/talking-point-what-are-you-playing-this-weekend-issue-659",
-          "titre": "Talking Point: What Are You Playing This Weekend? - Issue 659"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/mailbox-ocarina-intruders-pikmin-day-too-many-humans-nintendo-life-letters",
+          "titre": "Mailbox: Ocarina Intruders, Pikmin Day, Too Many Humans - Nintendo Life Letters"
         }
       ]
     },
@@ -149,8 +401,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 10.5,
-      "chaleur": 7,
+      "heures": 18.7,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
@@ -167,8 +419,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 11.5,
-      "chaleur": 7,
+      "heures": 19.7,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
@@ -178,92 +430,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "the-wolf-among-us-remastered-has-been-delayed-for-switch",
-      "titre": "The Wolf Among Us Remastered Has Been Delayed For Switch",
-      "url": "https://www.nintendolife.com/news/2026/11/the-wolf-among-us-remastered-has-been-delayed-for-switch",
+      "id": "gta-6-meet-the-heders-walkthrough-find-and-open-the-scoop-co",
+      "titre": "GTA 6 Meet the Heders walkthrough: Find and open the SCOOP container",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-meet-the-heders-walkthrough-find-and-open-the-scoop-container/",
       "sources": [
-        "Nintendo Life"
+        "VGC"
       ],
       "reprises": 1,
-      "heures": 33.0,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/the-wolf-among-us-remastered-has-been-delayed-for-switch",
-          "titre": "The Wolf Among Us Remastered Has Been Delayed For Switch"
-        }
-      ]
-    },
-    {
-      "id": "the-sunday-papers",
-      "titre": "The Sunday Papers",
-      "url": "https://www.rockpapershotgun.com/the-sunday-papers-837",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 1.5,
+      "heures": 21.7,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-sunday-papers-837",
-          "titre": "The Sunday Papers"
-        }
-      ]
-    },
-    {
-      "id": "jason-s-stoic-character-in-grand-theft-auto-6-was-inspired-b",
-      "titre": "Jason's stoic character in Grand Theft Auto 6 was inspired by Steve McQueen and research into Army veterans: 'These guys typically aren't running their mouths'",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/jasons-stoic-character-in-grand-theft-auto-6-was-inspired-by-steve-mcqueen-and-research-into-army-veterans-these-guys-typically-arent-running-their-mouths/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/jasons-stoic-character-in-grand-theft-auto-6-was-inspired-by-steve-mcqueen-and-research-into-army-veterans-these-guys-typically-arent-running-their-mouths/",
-          "titre": "Jason's stoic character in Grand Theft Auto 6 was inspired by Steve McQueen and research into Army veterans: 'These guys typically aren't running their mouths'"
-        }
-      ]
-    },
-    {
-      "id": "poll-which-mario-luigi-superstar-saga-box-art-is-the-best",
-      "titre": "Poll: Which Mario & Luigi: Superstar Saga Box Art Is The Best?",
-      "url": "https://www.nintendolife.com/features/poll-which-mario-and-luigi-superstar-saga-box-art-is-the-best",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 2.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/poll-which-mario-and-luigi-superstar-saga-box-art-is-the-best",
-          "titre": "Poll: Which Mario & Luigi: Superstar Saga Box Art Is The Best?"
-        }
-      ]
-    },
-    {
-      "id": "i-ve-never-known-a-moment-like-this-in-video-games",
-      "titre": "I've never known a moment like this in video games",
-      "url": "https://www.eurogamer.net/gta-6-video-games-biggest-moment",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-video-games-biggest-moment",
-          "titre": "I've never known a moment like this in video games"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-meet-the-heders-walkthrough-find-and-open-the-scoop-container/",
+          "titre": "GTA 6 Meet the Heders walkthrough: Find and open the SCOOP container"
         }
       ]
     },
@@ -275,31 +455,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 14.2,
+      "heures": 22.4,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/guide/gta-6-radio-djs-and-podcast-hosts-every-famous-voice-on-gta-6s-radio/",
           "titre": "GTA 6 radio DJs and podcast hosts: Every famous voice on GTA 6’s radio"
-        }
-      ]
-    },
-    {
-      "id": "comcast-at-peak-gta-6-accounted-for-nearly-a-quarter-of-all",
-      "titre": "Comcast: 'At peak, GTA 6 accounted for nearly a quarter of all internet traffic'",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/comcast-at-peak-gta6-accounted-for-nearly-a-quarter-of-all-internet-traffic/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 14.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/comcast-at-peak-gta6-accounted-for-nearly-a-quarter-of-all-internet-traffic/",
-          "titre": "Comcast: 'At peak, GTA 6 accounted for nearly a quarter of all internet traffic'"
         }
       ]
     },
@@ -311,49 +473,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 16.5,
+      "heures": 24.7,
       "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/guide/gta-6-car-alarms-explained-how-to-steal-cars-with-alarms-in-gta-6/",
           "titre": "GTA 6 Slim Jim Location: How to Get It and Unlock Cars Quietly"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-welcome-to-vice-city-mission-walkthrough",
-      "titre": "GTA 6 Welcome to Vice City mission walkthrough",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-welcome-to-vice-city-mission-walkthrough/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 18.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/gta-6-welcome-to-vice-city-mission-walkthrough/",
-          "titre": "GTA 6 Welcome to Vice City mission walkthrough"
-        }
-      ]
-    },
-    {
-      "id": "the-most-unforgivable-crime-in-gta-6-is-that-tv-placement",
-      "titre": "The most unforgivable crime in GTA 6 is that TV placement",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/the-most-unforgivable-crime-in-gta-6-is-that-tv-placement/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 20.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/the-most-unforgivable-crime-in-gta-6-is-that-tv-placement/",
-          "titre": "The most unforgivable crime in GTA 6 is that TV placement"
         }
       ]
     },
@@ -365,31 +491,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 21.0,
+      "heures": 29.2,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-review-bombing-out-of-control-as-zelda-receives-revenge-ratings",
           "titre": "GTA 6 PS5 Review Bombing Out of Control as Zelda Receives Revenge Ratings"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-xbox-psa-how-to-stop-automatic-clip-uploads-and-avoid",
-      "titre": "GTA 6 Xbox PSA: How to Stop Automatic Clip Uploads and Avoid Bans",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-xbox-psa-how-to-stop-automatic-clip-uploads-and-avoid-bans/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 21.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/gta-6-xbox-psa-how-to-stop-automatic-clip-uploads-and-avoid-bans/",
-          "titre": "GTA 6 Xbox PSA: How to Stop Automatic Clip Uploads and Avoid Bans"
         }
       ]
     },
@@ -401,7 +509,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.4,
+      "heures": 29.6,
       "chaleur": 6,
       "liens": [
         {
@@ -419,7 +527,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 21.5,
+      "heures": 29.7,
       "chaleur": 6,
       "liens": [
         {
@@ -437,7 +545,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 22.2,
+      "heures": 30.3,
       "chaleur": 6,
       "liens": [
         {
@@ -455,7 +563,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 23.6,
+      "heures": 31.8,
       "chaleur": 6,
       "liens": [
         {
@@ -466,20 +574,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "guide-zelda-ocarina-of-time-walkthrough-switch-2-remake-guid",
-      "titre": "Guide: Zelda: Ocarina Of Time Walkthrough (Switch 2 Remake): Guide To The Main Quest, Side Quests & Collectables",
-      "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-walkthrough-switch-2-remake",
+      "id": "what-are-we-all-playing-this-weekend",
+      "titre": "What are we all playing this weekend?",
+      "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-409",
       "sources": [
-        "Nintendo Life"
+        "Nintendo Life",
+        "Rock Paper Shotgun"
       ],
-      "reprises": 1,
-      "heures": 28.5,
+      "reprises": 2,
+      "heures": 33.7,
       "chaleur": 6,
       "liens": [
         {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-409",
+          "titre": "What are we all playing this weekend?"
+        },
+        {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-walkthrough-switch-2-remake",
-          "titre": "Guide: Zelda: Ocarina Of Time Walkthrough (Switch 2 Remake): Guide To The Main Quest, Side Quests & Collectables"
+          "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-21st-november",
+          "titre": "Talking Point: What Are You Playing This Weekend? (21st November)"
         }
       ]
     },
@@ -491,13 +605,139 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.5,
+      "heures": 28.7,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/features/dont-have-your-wii-set-up-here-are-20-wii-games-you-can-play-on-switch",
           "titre": "Feature: Don't Have Your Wii Set Up? Here Are 20 Wii Games You Can Play On Switch"
+        }
+      ]
+    },
+    {
+      "id": "this-90s-inspired-horror-game-has-one-of-the-coolest-post-ap",
+      "titre": "This '90s-inspired horror game has one of the coolest post-apocalyptic worlds I've ever seen",
+      "url": "https://www.pcgamer.com/games/horror/this-90s-inspired-horror-game-has-one-of-the-coolest-post-apocalyptic-worlds-ive-ever-seen/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/horror/this-90s-inspired-horror-game-has-one-of-the-coolest-post-apocalyptic-worlds-ive-ever-seen/",
+          "titre": "This '90s-inspired horror game has one of the coolest post-apocalyptic worlds I've ever seen"
+        }
+      ]
+    },
+    {
+      "id": "grand-theft-auto-6-has-a-complex-drug-network-that-tracks-ev",
+      "titre": "Grand Theft Auto 6 has a 'complex drug network' that tracks everything from where drugs come from to 'how they eventually reach the street-level buyer'",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-has-a-complex-drug-network-that-tracks-everything-from-where-drugs-come-from-to-how-they-eventually-reach-the-street-level-buyer/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 7.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-has-a-complex-drug-network-that-tracks-everything-from-where-drugs-come-from-to-how-they-eventually-reach-the-street-level-buyer/",
+          "titre": "Grand Theft Auto 6 has a 'complex drug network' that tracks everything from where drugs come from to 'how they eventually reach the street-level buyer'"
+        }
+      ]
+    },
+    {
+      "id": "binding-of-isaac-dev-pulls-ai-generated-music-from-repentanc",
+      "titre": "Binding of Isaac dev pulls AI-generated music from Repentance+ after players expose it",
+      "url": "https://www.eurogamer.net/binding-of-isaac-repentance-plus-ai-music-removed",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 7.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/binding-of-isaac-repentance-plus-ai-music-removed",
+          "titre": "Binding of Isaac dev pulls AI-generated music from Repentance+ after players expose it"
+        }
+      ]
+    },
+    {
+      "id": "the-designer-of-atari-s-notorious-e-t-likens-the-deluge-of-a",
+      "titre": "The designer of Atari's notorious E.T. likens the deluge of AI games to events that preceded the '80s industry crash: 'There was a glut of crap on the market'",
+      "url": "https://www.pcgamer.com/gaming-industry/game-development/the-designer-of-ataris-notorious-e-t-likens-the-deluge-of-ai-games-to-events-that-preceded-the-80s-industry-crash-there-was-a-glut-of-crap-on-the-market/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 7.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/game-development/the-designer-of-ataris-notorious-e-t-likens-the-deluge-of-ai-games-to-events-that-preceded-the-80s-industry-crash-there-was-a-glut-of-crap-on-the-market/",
+          "titre": "The designer of Atari's notorious E.T. likens the deluge of AI games to events that preceded the '80s industry crash: 'There was a glut of crap on the market'"
+        }
+      ]
+    },
+    {
+      "id": "the-sunday-papers",
+      "titre": "The Sunday Papers",
+      "url": "https://www.rockpapershotgun.com/the-sunday-papers-837",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 9.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-sunday-papers-837",
+          "titre": "The Sunday Papers"
+        }
+      ]
+    },
+    {
+      "id": "poll-which-mario-luigi-superstar-saga-box-art-is-the-best",
+      "titre": "Poll: Which Mario & Luigi: Superstar Saga Box Art Is The Best?",
+      "url": "https://www.nintendolife.com/features/poll-which-mario-and-luigi-superstar-saga-box-art-is-the-best",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 10.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/poll-which-mario-and-luigi-superstar-saga-box-art-is-the-best",
+          "titre": "Poll: Which Mario & Luigi: Superstar Saga Box Art Is The Best?"
+        }
+      ]
+    },
+    {
+      "id": "i-ve-never-known-a-moment-like-this-in-video-games",
+      "titre": "I've never known a moment like this in video games",
+      "url": "https://www.eurogamer.net/gta-6-video-games-biggest-moment",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 11.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-video-games-biggest-moment",
+          "titre": "I've never known a moment like this in video games"
         }
       ]
     },
@@ -509,31 +749,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 5.5,
-      "chaleur": 4,
+      "heures": 13.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/11/katsuhiro-harada-reveals-the-pokemon-he-wanted-to-add-to-pokken-tournament",
           "titre": "Katsuhiro Harada Reveals The Pokémon He Wanted To Add To Pokken Tournament"
-        }
-      ]
-    },
-    {
-      "id": "astarion-s-baldur-s-gate-3-prequel-novel-infuriated-fans-now",
-      "titre": "Astarion's Baldur's Gate 3 prequel novel infuriated fans, now it's Shadowheart's turn",
-      "url": "https://www.pcgamer.com/games/baldurs-gate/astarions-baldurs-gate-3-prequel-novel-infuriated-fans-now-its-shadowhearts-turn/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 9.4,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/baldurs-gate/astarions-baldurs-gate-3-prequel-novel-infuriated-fans-now-its-shadowhearts-turn/",
-          "titre": "Astarion's Baldur's Gate 3 prequel novel infuriated fans, now it's Shadowheart's turn"
         }
       ]
     },
@@ -545,31 +767,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.5,
+      "heures": 20.7,
       "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/11/were-going-bananas-for-our-newest-furry-friend-donkey-kong-out-now-on-build-a-bear-workshop",
           "titre": "\"We're Going Bananas For Our Newest Furry Friend\" - Donkey Kong Out Now On Build-A-Bear Workshop"
-        }
-      ]
-    },
-    {
-      "id": "wizards-of-the-coast-to-pass-full-ai-copyright-payout-to-d-d",
-      "titre": "Wizards of the Coast to pass full AI copyright payout to D&D writers",
-      "url": "https://www.pcgamer.com/games/rpg/wizards-of-the-coast-to-pass-full-ai-copyright-payout-to-d-and-d-writers/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 12.8,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/wizards-of-the-coast-to-pass-full-ai-copyright-payout-to-d-and-d-writers/",
-          "titre": "Wizards of the Coast to pass full AI copyright payout to D&D writers"
         }
       ]
     },
@@ -581,7 +785,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 13.6,
+      "heures": 21.8,
       "chaleur": 3,
       "liens": [
         {
@@ -599,31 +803,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 15.0,
+      "heures": 23.2,
       "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/public-access-television-is-born-anew-in-night-eye-tv-a-digital-goggle-box-filled-with-art-game-curios",
           "titre": "Public-access television is born anew in NIGHT EYE TV, a digital goggle box filled with art game curios"
-        }
-      ]
-    },
-    {
-      "id": "the-team-behind-ubisoft-s-first-playable-ai-based-r-d-projec",
-      "titre": "The team behind Ubisoft's 'first playable AI-based R&D project' has been established as its own subsidiary called Motherbrain",
-      "url": "https://www.pcgamer.com/gaming-industry/the-team-behind-ubisofts-first-playable-ai-based-r-and-d-project-has-been-established-as-its-own-subsidiary-called-motherbrain/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 15.2,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/the-team-behind-ubisofts-first-playable-ai-based-r-and-d-project-has-been-established-as-its-own-subsidiary-called-motherbrain/",
-          "titre": "The team behind Ubisoft's 'first playable AI-based R&D project' has been established as its own subsidiary called Motherbrain"
         }
       ]
     },
@@ -635,31 +821,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 17.5,
+      "heures": 25.7,
       "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/eldritch-empathy-is-a-papers-please-esque-roguelite-about-diagnosing-cosmic-horror-creatures-and-trying-not-to-lose-your-marbles-as-you-do",
           "titre": "Eldritch Empathy is a Papers Please-esque roguelite about diagnosing cosmic horror creatures and trying not to lose your marbles as you do"
-        }
-      ]
-    },
-    {
-      "id": "skyrim-lead-chats-about-the-fallout-diehards-who-hated-that",
-      "titre": "Skyrim lead chats about the Fallout diehards who hated that Bethesda got the series: 'We had to prove them wrong, and fortunately we did'",
-      "url": "https://www.pcgamer.com/games/fallout/skyrim-lead-chats-about-the-fallout-diehards-who-hated-that-bethesda-got-the-series-we-had-to-prove-them-wrong-and-fortunately-we-did/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 18.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/fallout/skyrim-lead-chats-about-the-fallout-diehards-who-hated-that-bethesda-got-the-series-we-had-to-prove-them-wrong-and-fortunately-we-did/",
-          "titre": "Skyrim lead chats about the Fallout diehards who hated that Bethesda got the series: 'We had to prove them wrong, and fortunately we did'"
         }
       ]
     },
@@ -671,7 +839,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 18.6,
+      "heures": 26.8,
       "chaleur": 3,
       "liens": [
         {
@@ -689,49 +857,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 19.1,
+      "heures": 27.3,
       "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/nioh-3-complete-edition-rated-korea",
           "titre": "Unannounced Nioh 3 Complete Edition has been rated in Korea"
-        }
-      ]
-    },
-    {
-      "id": "fake-figures-seized-from-dishonest-dealer-in-shanghai-sting",
-      "titre": "Fake figures seized from dishonest dealer in Shanghai sting spurred by tacky Tifa tchotchke",
-      "url": "https://www.pcgamer.com/games/final-fantasy/fake-figures-seized-from-dishonest-dealer-in-shanghai-sting-spurred-by-tacky-tifa-tchotchke/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 19.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/final-fantasy/fake-figures-seized-from-dishonest-dealer-in-shanghai-sting-spurred-by-tacky-tifa-tchotchke/",
-          "titre": "Fake figures seized from dishonest dealer in Shanghai sting spurred by tacky Tifa tchotchke"
-        }
-      ]
-    },
-    {
-      "id": "world-of-warcraft-forever-has-turned-me-into-a-big-friendly",
-      "titre": "World of Warcraft: Forever has turned me into a big, friendly golden retriever that says hello to everybody",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-has-turned-me-into-a-big-friendly-golden-retriever-that-says-hello-to-everybody/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 19.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-has-turned-me-into-a-big-friendly-golden-retriever-that-says-hello-to-everybody/",
-          "titre": "World of Warcraft: Forever has turned me into a big, friendly golden retriever that says hello to everybody"
         }
       ]
     },
@@ -743,31 +875,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 19.6,
+      "heures": 27.8,
       "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/darkest-dungeon-2s-next-bit-of-dlc-is-a-short-run-combat-focused-gauntlet-where-you-must-do-everything-in-your-power-to-please-the-audience",
           "titre": "Darkest Dungeon 2's next bit of DLC is a short run, combat focused gauntlet where you must do everything in your power to please the audience"
-        }
-      ]
-    },
-    {
-      "id": "as-a-kid-i-didn-t-have-a-monster-in-my-attic-i-had-a-lan",
-      "titre": "As a kid, I didn't have a monster in my attic, I had a LAN",
-      "url": "https://www.pcgamer.com/games/as-a-kid-i-didnt-have-a-monster-in-my-attic-i-had-a-lan/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 20.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/as-a-kid-i-didnt-have-a-monster-in-my-attic-i-had-a-lan/",
-          "titre": "As a kid, I didn't have a monster in my attic, I had a LAN"
         }
       ]
     },
@@ -779,7 +893,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 20.5,
+      "heures": 28.7,
       "chaleur": 3,
       "liens": [
         {
@@ -797,7 +911,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 24.5,
+      "heures": 32.7,
       "chaleur": 3,
       "liens": [
         {
@@ -815,85 +929,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 26.5,
+      "heures": 34.7,
       "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/grand-theft-auto-6-vampire-survivors-maniac-interview",
           "titre": "What if Vampire Survivors met Grand Theft Auto 2? Maniac is a brilliant mash-up that dares to ask that question"
-        }
-      ]
-    },
-    {
-      "id": "sakurai-celebrates-kirby-air-riders-first-anniversary-and-se",
-      "titre": "Sakurai Celebrates Kirby Air Riders' First Anniversary And Seemingly Ponders His Future As A Game Creator",
-      "url": "https://www.nintendolife.com/news/2026/11/sakurai-celebrates-kirby-air-riders-first-anniversary-and-seemingly-ponders-his-future-as-a-game-creator",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 28.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/sakurai-celebrates-kirby-air-riders-first-anniversary-and-seemingly-ponders-his-future-as-a-game-creator",
-          "titre": "Sakurai Celebrates Kirby Air Riders' First Anniversary And Seemingly Ponders His Future As A Game Creator"
-        }
-      ]
-    },
-    {
-      "id": "what-we-ve-been-playing-it-s-slow-it-s-awkward-it-s-weird-an",
-      "titre": "What we've been playing - \"It's slow, it's awkward, it's weird, and it's hard\"",
-      "url": "https://www.eurogamer.net/what-weve-been-playing-its-slow-its-awkward-its-weird-and-its-hard",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 28.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/what-weve-been-playing-its-slow-its-awkward-its-weird-and-its-hard",
-          "titre": "What we've been playing - \"It's slow, it's awkward, it's weird, and it's hard\""
-        }
-      ]
-    },
-    {
-      "id": "ocarina-remake-s-positive-user-review-score-is-now-under-fir",
-      "titre": "Ocarina Remake's 'Positive' User Review Score Is Now Under Fire",
-      "url": "https://www.nintendolife.com/news/2026/11/ocarina-remakes-positive-user-review-score-is-now-under-fire",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 31.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/ocarina-remakes-positive-user-review-score-is-now-under-fire",
-          "titre": "Ocarina Remake's 'Positive' User Review Score Is Now Under Fire"
-        }
-      ]
-    },
-    {
-      "id": "anniversary-super-smash-bros-melee-has-now-been-duking-it-ou",
-      "titre": "Anniversary: Super Smash Bros. Melee Has Now Been Duking It Out For 25 Years",
-      "url": "https://www.nintendolife.com/news/2026/11/anniversary-super-smash-bros-melee-has-now-been-duking-it-out-for-25-years",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 34.1,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/anniversary-super-smash-bros-melee-has-now-been-duking-it-out-for-25-years",
-          "titre": "Anniversary: Super Smash Bros. Melee Has Now Been Duking It Out For 25 Years"
         }
       ]
     }
