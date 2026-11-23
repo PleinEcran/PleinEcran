@@ -1,24 +1,90 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "22/11/2026 à 20h40",
+  "collecte": "23/11/2026 à 02h33",
   "seuil": 14,
   "sujets": [
     {
-      "id": "gta-6-needed-a-dedicated-team-to-make-sure-all-its-different",
-      "titre": "GTA 6 needed a dedicated team to make sure all its different body types could share animations: 'It was a huge team effort'",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-needed-a-dedicated-team-to-make-sure-all-its-different-body-types-could-share-animations-it-was-a-huge-team-effort/",
+      "id": "binding-of-isaac-dlc-adds-ai-music-in-gta-6-parodying-update",
+      "titre": "Binding of Isaac DLC adds AI music in GTA 6-parodying update despite not having an AI disclosure, Steam reviews drop to Overwhelmingly Negative, music gets pulled",
+      "url": "https://www.pcgamer.com/games/roguelike/binding-of-isaac-dlc-adds-ai-music-in-gta-6-parodying-update-despite-not-having-an-ai-disclosure-steam-reviews-drop-to-overwhelmingly-negative-music-gets-pulled/",
       "sources": [
-        "PC Gamer",
-        "Push Square"
+        "PC Gamer"
       ],
-      "reprises": 2,
-      "heures": 0.4,
+      "reprises": 1,
+      "heures": 1.4,
       "chaleur": 12,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-needed-a-dedicated-team-to-make-sure-all-its-different-body-types-could-share-animations-it-was-a-huge-team-effort/",
-          "titre": "GTA 6 needed a dedicated team to make sure all its different body types could share animations: 'It was a huge team effort'"
+          "url": "https://www.pcgamer.com/games/roguelike/binding-of-isaac-dlc-adds-ai-music-in-gta-6-parodying-update-despite-not-having-an-ai-disclosure-steam-reviews-drop-to-overwhelmingly-negative-music-gets-pulled/",
+          "titre": "Binding of Isaac DLC adds AI music in GTA 6-parodying update despite not having an AI disclosure, Steam reviews drop to Overwhelmingly Negative, music gets pulled"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-mami-knows-best-mission-walkthrough",
+      "titre": "GTA 6 Mami Knows Best mission walkthrough",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-mami-knows-best-mission-walkthrough/",
+      "sources": [
+        "PC Gamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 3.6,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-mami-knows-best-mission-walkthrough/",
+          "titre": "GTA 6 Mami Knows Best mission walkthrough"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-declasse-vamos-code/",
+          "titre": "How to steal the Declasse Vamos in GTA 6"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-the-end-of-the-road-should-you-swim-for-it-or-choose-n",
+      "titre": "GTA 6 The End of the Road: Should you swim for it, or choose no surrender?",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-endings-end-of-the-road-swim-for-it-no-surrender/",
+      "sources": [
+        "PC Gamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 4.6,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-endings-end-of-the-road-swim-for-it-no-surrender/",
+          "titre": "GTA 6 The End of the Road: Should you swim for it, or choose no surrender?"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/shoot-kirk-or-mr-mangrove-gta-6/",
+          "titre": "GTA 6: Should you shoot Kirk or Mr Mangrove?"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-skunk-ape-questline-walkthrough-all-effigy-locations-a",
+      "titre": "GTA 6 Skunk Ape questline walkthrough: All effigy locations and choices",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-skunk-ape-questline-walkthrough-all-effigy-locations-and-choices/",
+      "sources": [
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 5.8,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-skunk-ape-questline-walkthrough-all-effigy-locations-and-choices/",
+          "titre": "GTA 6 Skunk Ape questline walkthrough: All effigy locations and choices"
         },
         {
           "source": "Push Square",
@@ -28,26 +94,110 @@ const VEILLE = {
       ]
     },
     {
+      "id": "i-mean-guys-really-gta-7-questions-batted-aside-by-take-two",
+      "titre": "'I Mean, Guys, Really?!': GTA 7 Questions Batted Aside by Take-Two Boss",
+      "url": "https://www.pushsquare.com/news/2026/11/i-mean-guys-really-gta-7-questions-batted-aside-by-take-two-boss",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.8,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/i-mean-guys-really-gta-7-questions-batted-aside-by-take-two-boss",
+          "titre": "'I Mean, Guys, Really?!': GTA 7 Questions Batted Aside by Take-Two Boss"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-chapter-2-mission-list-every-missions-in-order-point-o",
+      "titre": "GTA 6 Chapter 2 Mission List: Every Missions in Order & Point Of No Return",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-chapter-2-mission-list/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 2.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-chapter-2-mission-list/",
+          "titre": "GTA 6 Chapter 2 Mission List: Every Missions in Order & Point Of No Return"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-ride-or-die-walkthrough-where-to-find-the-dwnply-sneak",
+      "titre": "GTA 6 Ride or Die walkthrough: Where to find the DWNPLY sneakers and get them for free",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-ride-or-die-walkthrough-where-to-find-the-dwnply-sneakers-and-get-them-for-free/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 2.8,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-ride-or-die-walkthrough-where-to-find-the-dwnply-sneakers-and-get-them-for-free/",
+          "titre": "GTA 6 Ride or Die walkthrough: Where to find the DWNPLY sneakers and get them for free"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-just-can-t-stop-breaking-records-it-seems",
+      "titre": "GTA 6 Just Can't Stop Breaking Records It Seems",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6-just-cant-stop-breaking-records-it-seems",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 13.6,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-just-cant-stop-breaking-records-it-seems",
+          "titre": "GTA 6 Just Can't Stop Breaking Records It Seems"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-needed-a-dedicated-team-to-make-sure-all-its-different",
+      "titre": "GTA 6 needed a dedicated team to make sure all its different body types could share animations: 'It was a huge team effort'",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-needed-a-dedicated-team-to-make-sure-all-its-different-body-types-could-share-animations-it-was-a-huge-team-effort/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.3,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-needed-a-dedicated-team-to-make-sure-all-its-different-body-types-could-share-animations-it-was-a-huge-team-effort/",
+          "titre": "GTA 6 needed a dedicated team to make sure all its different body types could share animations: 'It was a huge team effort'"
+        }
+      ]
+    },
+    {
       "id": "gta-6-bad-luck-i-guess-trophy-guide-how-to-rob-the-payday-lo",
       "titre": "GTA 6 Bad Luck, I Guess trophy guide: How to rob the Payday Loans store",
       "url": "https://www.videogameschronicle.com/guide/gta-6-bad-luck-i-guess-trophy-guide-how-to-rob-the-payday-loans-store/",
       "sources": [
-        "PC Gamer",
         "VGC"
       ],
-      "reprises": 2,
-      "heures": 0.7,
-      "chaleur": 12,
+      "reprises": 1,
+      "heures": 6.6,
+      "chaleur": 7,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/guide/gta-6-bad-luck-i-guess-trophy-guide-how-to-rob-the-payday-loans-store/",
           "titre": "GTA 6 Bad Luck, I Guess trophy guide: How to rob the Payday Loans store"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-declasse-vamos-code/",
-          "titre": "How to steal the Declasse Vamos in GTA 6"
         }
       ]
     },
@@ -59,8 +209,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 1.1,
-      "chaleur": 9,
+      "heures": 7.0,
+      "chaleur": 7,
       "liens": [
         {
           "source": "VGC",
@@ -77,31 +227,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.0,
-      "chaleur": 9,
+      "heures": 7.8,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-discourse-is-already-suffering-from-the-flat-earther-effect/",
           "titre": "GTA 6 discourse is suffering from the flat earther effect"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-full-alien-ufo-questline-walkthrough",
-      "titre": "GTA 6: Full Alien UFO questline walkthrough",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-full-alien-ufo-questline-walkthrough/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/gta-6-full-alien-ufo-questline-walkthrough/",
-          "titre": "GTA 6: Full Alien UFO questline walkthrough"
         }
       ]
     },
@@ -113,8 +245,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 9,
+      "heures": 8.6,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
@@ -131,8 +263,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 9,
+      "heures": 8.7,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
@@ -149,49 +281,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 3.8,
-      "chaleur": 9,
+      "heures": 9.6,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/former-rockstar-environment-artist-breaks-silence-gta-6-is-generally-stunning-but-red-dead-2-might-have-had-better-rivers/",
           "titre": "Former Rockstar environment artist breaks silence: GTA 6 is 'generally stunning,' but Red Dead 2 might have had better rivers"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-just-can-t-stop-breaking-records-it-seems",
-      "titre": "GTA 6 Just Can't Stop Breaking Records It Seems",
-      "url": "https://www.pushsquare.com/news/2026/11/gta-6-just-cant-stop-breaking-records-it-seems",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 7.7,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/gta-6-just-cant-stop-breaking-records-it-seems",
-          "titre": "GTA 6 Just Can't Stop Breaking Records It Seems"
-        }
-      ]
-    },
-    {
-      "id": "scott-lynch-author-of-the-lies-of-locke-lamora-has-1-493-hou",
-      "titre": "Scott Lynch, author of The Lies of Locke Lamora, has 1,493 hours in Star Wars: Rebellion and 1,564 in BattleTech: 'If J.R.R. Tolkien had had a Steam account, his numbers would be pretty embarrassing too'",
-      "url": "https://www.pcgamer.com/gaming-industry/scott-lynch-author-of-the-lies-of-locke-lamora-has-1-493-hours-in-star-wars-rebellion-and-1-564-in-battletech-if-j-r-r-tolkien-had-had-a-steam-account-his-numbers-would-be-pretty-embarrassing-too/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/scott-lynch-author-of-the-lies-of-locke-lamora-has-1-493-hours-in-star-wars-rebellion-and-1-564-in-battletech-if-j-r-r-tolkien-had-had-a-steam-account-his-numbers-would-be-pretty-embarrassing-too/",
-          "titre": "Scott Lynch, author of The Lies of Locke Lamora, has 1,493 hours in Star Wars: Rebellion and 1,564 in BattleTech: 'If J.R.R. Tolkien had had a Steam account, his numbers would be pretty embarrassing too'"
         }
       ]
     },
@@ -203,7 +299,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 10.4,
       "chaleur": 7,
       "liens": [
         {
@@ -221,7 +317,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.7,
+      "heures": 11.6,
       "chaleur": 7,
       "liens": [
         {
@@ -232,38 +328,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-6-mamba-gt-locations-how-to-restore-the-third-car-for-wy",
-      "titre": "GTA 6 Mamba GT locations: How to restore the third car for Wyman",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-mamba-gt-locations/",
+      "id": "sneg-has-re-released-three-more-venerable-pc-strategy-games",
+      "titre": "SNEG has re-released three more venerable PC strategy games including Warlords 4: Heroes of Etheria",
+      "url": "https://www.pcgamer.com/games/strategy/sneg-has-re-released-three-more-venerable-pc-strategy-games-including-warlords-4-heroes-of-etheria/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 5.8,
-      "chaleur": 7,
+      "heures": 2.4,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-mamba-gt-locations/",
-          "titre": "GTA 6 Mamba GT locations: How to restore the third car for Wyman"
+          "url": "https://www.pcgamer.com/games/strategy/sneg-has-re-released-three-more-venerable-pc-strategy-games-including-warlords-4-heroes-of-etheria/",
+          "titre": "SNEG has re-released three more venerable PC strategy games including Warlords 4: Heroes of Etheria"
         }
       ]
     },
     {
-      "id": "should-you-shoot-halifax-in-gta-6-kill-or-spare-him-in-dubio",
-      "titre": "Should you shoot Halifax in GTA 6? Kill or spare him in Dubious Provenance",
-      "url": "https://www.videogameschronicle.com/guide/should-you-shoot-halifax-in-gta-6-kill-or-spare-him-in-dubious-provenance/",
+      "id": "scott-lynch-author-of-the-lies-of-locke-lamora-has-1-493-hou",
+      "titre": "Scott Lynch, author of The Lies of Locke Lamora, has 1,493 hours in Star Wars: Rebellion and 1,564 in BattleTech: 'If J.R.R. Tolkien had had a Steam account, his numbers would be pretty embarrassing too'",
+      "url": "https://www.pcgamer.com/gaming-industry/scott-lynch-author-of-the-lies-of-locke-lamora-has-1-493-hours-in-star-wars-rebellion-and-1-564-in-battletech-if-j-r-r-tolkien-had-had-a-steam-account-his-numbers-would-be-pretty-embarrassing-too/",
       "sources": [
-        "VGC"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.2,
-      "chaleur": 7,
+      "heures": 9.6,
+      "chaleur": 6,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/should-you-shoot-halifax-in-gta-6-kill-or-spare-him-in-dubious-provenance/",
-          "titre": "Should you shoot Halifax in GTA 6? Kill or spare him in Dubious Provenance"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/scott-lynch-author-of-the-lies-of-locke-lamora-has-1-493-hours-in-star-wars-rebellion-and-1-564-in-battletech-if-j-r-r-tolkien-had-had-a-steam-account-his-numbers-would-be-pretty-embarrassing-too/",
+          "titre": "Scott Lynch, author of The Lies of Locke Lamora, has 1,493 hours in Star Wars: Rebellion and 1,564 in BattleTech: 'If J.R.R. Tolkien had had a Steam account, his numbers would be pretty embarrassing too'"
+        }
+      ]
+    },
+    {
+      "id": "feature-a-lost-box-restored-my-faith-in-zelda-s-staying-powe",
+      "titre": "Feature: A Lost Box Restored My Faith In Zelda's Staying Power",
+      "url": "https://www.nintendolife.com/features/a-lost-box-restored-my-faith-in-zeldas-staying-power",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 10.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/a-lost-box-restored-my-faith-in-zeldas-staying-power",
+          "titre": "Feature: A Lost Box Restored My Faith In Zelda's Staying Power"
         }
       ]
     },
@@ -275,8 +389,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.6,
-      "chaleur": 7,
+      "heures": 14.5,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
@@ -293,8 +407,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.3,
-      "chaleur": 7,
+      "heures": 15.2,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
@@ -311,85 +425,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 10.7,
-      "chaleur": 7,
+      "heures": 16.6,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/gta-6-grand-theft-auto-online-last-ride",
           "titre": "\"It stayed alive for so long\" - Behind the wheel with the Last Riders saying goodbye to GTA Online, amidst GTA 6's world-changing launch"
-        }
-      ]
-    },
-    {
-      "id": "unreal-engine-6-to-jettison-key-scripting-feature-earlier-th",
-      "titre": "Unreal Engine 6 to jettison key scripting feature earlier than planned in favor of AI coding",
-      "url": "https://www.pcgamer.com/gaming-industry/unreal-engine-6-to-jettison-key-scripting-feature-earlier-than-planned-in-favor-of-ai-coding/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 0.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/unreal-engine-6-to-jettison-key-scripting-feature-earlier-than-planned-in-favor-of-ai-coding/",
-          "titre": "Unreal Engine 6 to jettison key scripting feature earlier than planned in favor of AI coding"
-        }
-      ]
-    },
-    {
-      "id": "new-dota-2-patch-tries-to-help-games-end-faster-adds-an-item",
-      "titre": "New Dota 2 patch tries to help games end faster, adds an item that summons super creeps in every lane at once",
-      "url": "https://www.pcgamer.com/games/moba/new-dota-2-patch-tries-to-help-games-end-faster-adds-an-item-that-summons-super-creeps-in-every-lane-at-once/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 0.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/moba/new-dota-2-patch-tries-to-help-games-end-faster-adds-an-item-that-summons-super-creeps-in-every-lane-at-once/",
-          "titre": "New Dota 2 patch tries to help games end faster, adds an item that summons super creeps in every lane at once"
-        }
-      ]
-    },
-    {
-      "id": "feature-a-lost-box-restored-my-faith-in-zelda-s-staying-powe",
-      "titre": "Feature: A Lost Box Restored My Faith In Zelda's Staying Power",
-      "url": "https://www.nintendolife.com/features/a-lost-box-restored-my-faith-in-zeldas-staying-power",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 4.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/a-lost-box-restored-my-faith-in-zeldas-staying-power",
-          "titre": "Feature: A Lost Box Restored My Faith In Zelda's Staying Power"
-        }
-      ]
-    },
-    {
-      "id": "mailbox-ocarina-intruders-pikmin-day-too-many-humans-nintend",
-      "titre": "Mailbox: Ocarina Intruders, Pikmin Day, Too Many Humans - Nintendo Life Letters",
-      "url": "https://www.nintendolife.com/news/2026/11/mailbox-ocarina-intruders-pikmin-day-too-many-humans-nintendo-life-letters",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 6.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/mailbox-ocarina-intruders-pikmin-day-too-many-humans-nintendo-life-letters",
-          "titre": "Mailbox: Ocarina Intruders, Pikmin Day, Too Many Humans - Nintendo Life Letters"
         }
       ]
     },
@@ -401,7 +443,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 18.7,
+      "heures": 24.6,
       "chaleur": 6,
       "liens": [
         {
@@ -419,67 +461,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 19.7,
+      "heures": 25.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/11/move-aside-mandy-gta-6s-goth-girl-vicki-is-ps5-players-new-fave",
           "titre": "'Move Aside, Mandy': GTA 6's Goth Girl Vicki Is PS5 Players' New Fave"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-meet-the-heders-walkthrough-find-and-open-the-scoop-co",
-      "titre": "GTA 6 Meet the Heders walkthrough: Find and open the SCOOP container",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-meet-the-heders-walkthrough-find-and-open-the-scoop-container/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 21.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/gta-6-meet-the-heders-walkthrough-find-and-open-the-scoop-container/",
-          "titre": "GTA 6 Meet the Heders walkthrough: Find and open the SCOOP container"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-radio-djs-and-podcast-hosts-every-famous-voice-on-gta",
-      "titre": "GTA 6 radio DJs and podcast hosts: Every famous voice on GTA 6’s radio",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-radio-djs-and-podcast-hosts-every-famous-voice-on-gta-6s-radio/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 22.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/gta-6-radio-djs-and-podcast-hosts-every-famous-voice-on-gta-6s-radio/",
-          "titre": "GTA 6 radio DJs and podcast hosts: Every famous voice on GTA 6’s radio"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-slim-jim-location-how-to-get-it-and-unlock-cars-quietl",
-      "titre": "GTA 6 Slim Jim Location: How to Get It and Unlock Cars Quietly",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-car-alarms-explained-how-to-steal-cars-with-alarms-in-gta-6/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 24.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/gta-6-car-alarms-explained-how-to-steal-cars-with-alarms-in-gta-6/",
-          "titre": "GTA 6 Slim Jim Location: How to Get It and Unlock Cars Quietly"
         }
       ]
     },
@@ -491,7 +479,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 29.2,
+      "heures": 35.1,
       "chaleur": 6,
       "liens": [
         {
@@ -509,7 +497,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.6,
+      "heures": 35.5,
       "chaleur": 6,
       "liens": [
         {
@@ -527,7 +515,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 29.7,
+      "heures": 35.6,
       "chaleur": 6,
       "liens": [
         {
@@ -538,62 +526,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-6-has-a-99-metascore-from-critics-but-players-are-review",
-      "titre": "GTA 6 has a 99 Metascore from critics, but players are review bombing it",
-      "url": "https://www.eurogamer.net/gta-6-review-bombed-metacritic-user-score",
+      "id": "mailbox-ocarina-intruders-pikmin-day-too-many-humans-nintend",
+      "titre": "Mailbox: Ocarina Intruders, Pikmin Day, Too Many Humans - Nintendo Life Letters",
+      "url": "https://www.nintendolife.com/news/2026/11/mailbox-ocarina-intruders-pikmin-day-too-many-humans-nintendo-life-letters",
       "sources": [
-        "Eurogamer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 30.3,
-      "chaleur": 6,
+      "heures": 12.6,
+      "chaleur": 5,
       "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-review-bombed-metacritic-user-score",
-          "titre": "GTA 6 has a 99 Metascore from critics, but players are review bombing it"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-features-the-series-first-non-binary-character-says-ac",
-      "titre": "GTA 6 features the series' first non-binary character, says actor Jesse James Rose, and players can't hurt them",
-      "url": "https://www.eurogamer.net/gta-6-first-non-binary-character-jesse-james-rose",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 31.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-first-non-binary-character-jesse-james-rose",
-          "titre": "GTA 6 features the series' first non-binary character, says actor Jesse James Rose, and players can't hurt them"
-        }
-      ]
-    },
-    {
-      "id": "what-are-we-all-playing-this-weekend",
-      "titre": "What are we all playing this weekend?",
-      "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-409",
-      "sources": [
-        "Nintendo Life",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 33.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-409",
-          "titre": "What are we all playing this weekend?"
-        },
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-21st-november",
-          "titre": "Talking Point: What Are You Playing This Weekend? (21st November)"
+          "url": "https://www.nintendolife.com/news/2026/11/mailbox-ocarina-intruders-pikmin-day-too-many-humans-nintendo-life-letters",
+          "titre": "Mailbox: Ocarina Intruders, Pikmin Day, Too Many Humans - Nintendo Life Letters"
         }
       ]
     },
@@ -605,13 +551,67 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 28.7,
+      "heures": 34.6,
       "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/features/dont-have-your-wii-set-up-here-are-20-wii-games-you-can-play-on-switch",
           "titre": "Feature: Don't Have Your Wii Set Up? Here Are 20 Wii Games You Can Play On Switch"
+        }
+      ]
+    },
+    {
+      "id": "nvidia-released-a-hotfix-for-its-driver-hammering-your-ssd-b",
+      "titre": "Nvidia released a hotfix for its driver hammering your SSD, but it doesn't actually work",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-released-a-hotfix-for-its-driver-hammering-your-ssd-but-it-doesnt-actually-work/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-released-a-hotfix-for-its-driver-hammering-your-ssd-but-it-doesnt-actually-work/",
+          "titre": "Nvidia released a hotfix for its driver hammering your SSD, but it doesn't actually work"
+        }
+      ]
+    },
+    {
+      "id": "unreal-engine-6-to-jettison-key-scripting-feature-earlier-th",
+      "titre": "Unreal Engine 6 to jettison key scripting feature earlier than planned in favor of AI coding",
+      "url": "https://www.pcgamer.com/gaming-industry/unreal-engine-6-to-jettison-key-scripting-feature-earlier-than-planned-in-favor-of-ai-coding/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/unreal-engine-6-to-jettison-key-scripting-feature-earlier-than-planned-in-favor-of-ai-coding/",
+          "titre": "Unreal Engine 6 to jettison key scripting feature earlier than planned in favor of AI coding"
+        }
+      ]
+    },
+    {
+      "id": "new-dota-2-patch-tries-to-help-games-end-faster-adds-an-item",
+      "titre": "New Dota 2 patch tries to help games end faster, adds an item that summons super creeps in every lane at once",
+      "url": "https://www.pcgamer.com/games/moba/new-dota-2-patch-tries-to-help-games-end-faster-adds-an-item-that-summons-super-creeps-in-every-lane-at-once/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/moba/new-dota-2-patch-tries-to-help-games-end-faster-adds-an-item-that-summons-super-creeps-in-every-lane-at-once/",
+          "titre": "New Dota 2 patch tries to help games end faster, adds an item that summons super creeps in every lane at once"
         }
       ]
     },
@@ -623,31 +623,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.7,
+      "heures": 10.6,
       "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/games/horror/this-90s-inspired-horror-game-has-one-of-the-coolest-post-apocalyptic-worlds-ive-ever-seen/",
           "titre": "This '90s-inspired horror game has one of the coolest post-apocalyptic worlds I've ever seen"
-        }
-      ]
-    },
-    {
-      "id": "grand-theft-auto-6-has-a-complex-drug-network-that-tracks-ev",
-      "titre": "Grand Theft Auto 6 has a 'complex drug network' that tracks everything from where drugs come from to 'how they eventually reach the street-level buyer'",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-has-a-complex-drug-network-that-tracks-everything-from-where-drugs-come-from-to-how-they-eventually-reach-the-street-level-buyer/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 7.2,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-has-a-complex-drug-network-that-tracks-everything-from-where-drugs-come-from-to-how-they-eventually-reach-the-street-level-buyer/",
-          "titre": "Grand Theft Auto 6 has a 'complex drug network' that tracks everything from where drugs come from to 'how they eventually reach the street-level buyer'"
         }
       ]
     },
@@ -659,31 +641,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.4,
-      "chaleur": 4,
+      "heures": 13.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/binding-of-isaac-repentance-plus-ai-music-removed",
           "titre": "Binding of Isaac dev pulls AI-generated music from Repentance+ after players expose it"
-        }
-      ]
-    },
-    {
-      "id": "the-designer-of-atari-s-notorious-e-t-likens-the-deluge-of-a",
-      "titre": "The designer of Atari's notorious E.T. likens the deluge of AI games to events that preceded the '80s industry crash: 'There was a glut of crap on the market'",
-      "url": "https://www.pcgamer.com/gaming-industry/game-development/the-designer-of-ataris-notorious-e-t-likens-the-deluge-of-ai-games-to-events-that-preceded-the-80s-industry-crash-there-was-a-glut-of-crap-on-the-market/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 7.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/game-development/the-designer-of-ataris-notorious-e-t-likens-the-deluge-of-ai-games-to-events-that-preceded-the-80s-industry-crash-there-was-a-glut-of-crap-on-the-market/",
-          "titre": "The designer of Atari's notorious E.T. likens the deluge of AI games to events that preceded the '80s industry crash: 'There was a glut of crap on the market'"
         }
       ]
     },
@@ -695,8 +659,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.7,
-      "chaleur": 4,
+      "heures": 15.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -713,8 +677,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 10.7,
-      "chaleur": 4,
+      "heures": 16.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -731,8 +695,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 11.7,
-      "chaleur": 4,
+      "heures": 17.6,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -749,13 +713,31 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 13.7,
+      "heures": 19.6,
       "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/11/katsuhiro-harada-reveals-the-pokemon-he-wanted-to-add-to-pokken-tournament",
           "titre": "Katsuhiro Harada Reveals The Pokémon He Wanted To Add To Pokken Tournament"
+        }
+      ]
+    },
+    {
+      "id": "fatal-fury-city-of-the-wolves-adds-laocorn-from-the-motion-p",
+      "titre": "Fatal Fury: City Of The Wolves Adds Laocorn From The Motion Picture",
+      "url": "https://www.nintendolife.com/news/2026/11/fatal-fury-city-of-the-wolves-adds-laocorn-from-the-motion-picture",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 22.6,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/fatal-fury-city-of-the-wolves-adds-laocorn-from-the-motion-picture",
+          "titre": "Fatal Fury: City Of The Wolves Adds Laocorn From The Motion Picture"
         }
       ]
     },
@@ -767,7 +749,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 20.7,
+      "heures": 26.6,
       "chaleur": 3,
       "liens": [
         {
@@ -785,7 +767,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 21.8,
+      "heures": 27.7,
       "chaleur": 3,
       "liens": [
         {
@@ -803,7 +785,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 23.2,
+      "heures": 29.1,
       "chaleur": 3,
       "liens": [
         {
@@ -821,7 +803,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 25.7,
+      "heures": 31.6,
       "chaleur": 3,
       "liens": [
         {
@@ -839,7 +821,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 26.8,
+      "heures": 32.7,
       "chaleur": 3,
       "liens": [
         {
@@ -857,7 +839,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 27.3,
+      "heures": 33.2,
       "chaleur": 3,
       "liens": [
         {
@@ -875,7 +857,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 27.8,
+      "heures": 33.7,
       "chaleur": 3,
       "liens": [
         {
@@ -893,49 +875,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 28.7,
+      "heures": 34.6,
       "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/phasmophobia-resonance-update-release-date-dowsing-rods-unity-6",
           "titre": "Phasmophobia's next update lets you ask ghosts to throw things and it's out next week"
-        }
-      ]
-    },
-    {
-      "id": "guide-these-11-ps5-and-ps-plus-games-are-coming-out-next-wee",
-      "titre": "Guide: These 11+ PS5 and PS Plus Games Are Coming Out Next Week (23rd-29th November)",
-      "url": "https://www.pushsquare.com/guides/these-11plus-ps5-and-ps-plus-games-are-coming-out-next-week-23rd-29th-november",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 32.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/guides/these-11plus-ps5-and-ps-plus-games-are-coming-out-next-week-23rd-29th-november",
-          "titre": "Guide: These 11+ PS5 and PS Plus Games Are Coming Out Next Week (23rd-29th November)"
-        }
-      ]
-    },
-    {
-      "id": "what-if-vampire-survivors-met-grand-theft-auto-2-maniac-is-a",
-      "titre": "What if Vampire Survivors met Grand Theft Auto 2? Maniac is a brilliant mash-up that dares to ask that question",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-vampire-survivors-maniac-interview",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 34.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/grand-theft-auto-6-vampire-survivors-maniac-interview",
-          "titre": "What if Vampire Survivors met Grand Theft Auto 2? Maniac is a brilliant mash-up that dares to ask that question"
         }
       ]
     }
