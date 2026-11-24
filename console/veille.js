@@ -1,21 +1,122 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "23/11/2026 à 14h31",
+  "collecte": "24/11/2026 à 02h51",
   "seuil": 14,
   "sujets": [
     {
-      "id": "undisclosed-ai-generated-music-pulled-from-the-binding-of-is",
-      "titre": "Undisclosed AI-generated music pulled from The Binding of Isaac Repentance+ update, as attempt to get satirical on GTA 6 launch day goes awry",
-      "url": "https://www.rockpapershotgun.com/undisclosed-ai-generated-music-pulled-from-the-binding-of-isaac-repentance-update-as-attempt-to-get-satirical-on-gta-6-launch-day-goes-awry",
+      "id": "trump-claims-credit-for-jensen-huang-s-return-to-nvidia-post",
+      "titre": "Trump claims credit for Jensen Huang's return to Nvidia, posts meme depicting Huang holding up a bra victoriously",
+      "url": "https://www.pcgamer.com/software/ai/trump-claims-credit-for-jensen-huangs-return-to-nvidia-posts-meme-depicting-huang-holding-up-a-bra-victoriously/",
       "sources": [
         "Eurogamer",
+        "Game Developer",
+        "GamesIndustry.biz",
+        "Nintendo Life",
+        "PC Gamer"
+      ],
+      "reprises": 5,
+      "heures": 1.7,
+      "chaleur": 18,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/trump-claims-credit-for-jensen-huangs-return-to-nvidia-posts-meme-depicting-huang-holding-up-a-bra-victoriously/",
+          "titre": "Trump claims credit for Jensen Huang's return to Nvidia, posts meme depicting Huang holding up a bra victoriously"
+        },
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/business/nvidia-reinstates-jensen-huang-as-ceo",
+          "titre": "Nvidia reinstates Jensen Huang as CEO weeks after his resignation"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/nvidia-jensen-huang-ceo-reinstated-affair",
+          "titre": "Nvidia makes stunning decision to reinstate Jensen Huang as CEO"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/jensen-huang-reinstated-as-nvidia-ceo-and-president-following-affair-allegations",
+          "titre": "Jensen Huang reinstated as Nvidia CEO and president following affair allegations"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/jensen-huang-has-been-reinstated-as-nvidias-president-and-ceo",
+          "titre": "Jensen Huang Has Been Reinstated As Nvidia's President And CEO"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-is-probably-the-greatest-artistic-achievement-in-histo",
+      "titre": "GTA 6 Is 'Probably the Greatest Artistic Achievement in History', Says Cyberpunk 2 Director",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6-is-probably-the-greatest-artistic-achievement-in-history-says-cyberpunk-2-director",
+      "sources": [
+        "PC Gamer",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 0.9,
+      "chaleur": 15,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-is-probably-the-greatest-artistic-achievement-in-history-says-cyberpunk-2-director",
+          "titre": "GTA 6 Is 'Probably the Greatest Artistic Achievement in History', Says Cyberpunk 2 Director"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/cyberpunk-2-creative-director-says-hes-suffering-from-gta-6-induced-open-world-game-dev-depression-jokes-that-cyberpunk-2-is-cancelled/",
+          "titre": "Cyberpunk 2 creative director says he's suffering from 'GTA 6-induced-open-world-game-dev-depression,' jokes that 'Cyberpunk 2 is cancelled'"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-officially-the-biggest-launch-in-playstation-history-w",
+      "titre": "GTA 6 Officially the 'Biggest Launch in PlayStation History' with Over 39 Million Players",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6-officially-the-biggest-launch-in-playstation-history-with-over-39-million-players",
+      "sources": [
+        "GamesIndustry.biz",
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 2.9,
+      "chaleur": 15,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-officially-the-biggest-launch-in-playstation-history-with-over-39-million-players",
+          "titre": "GTA 6 Officially the 'Biggest Launch in PlayStation History' with Over 39 Million Players"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/gta-6-was-the-biggest-launch-in-playstation-history-with-over-39-million-players/",
+          "titre": "GTA 6 was the ‘biggest launch in PlayStation history’ with over 39 million players"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/over-half-of-console-players-in-the-us-played-gta-6-on-launch-day-according-to-circana",
+          "titre": "Over half of console players in the US played GTA 6 on launch day, according to Circana"
+        }
+      ]
+    },
+    {
+      "id": "nicalis-removes-ai-generated-music-from-the-binding-of-isaac",
+      "titre": "Nicalis removes AI-generated music from The Binding of Isaac: Repentance+ after player backlash",
+      "url": "https://www.gamesindustry.biz/nicalis-removes-ai-generated-music-from-the-binding-of-isaac-repentance-after-player-backlash",
+      "sources": [
+        "GamesIndustry.biz",
         "Nintendo Life",
         "Rock Paper Shotgun"
       ],
       "reprises": 3,
-      "heures": 2.8,
-      "chaleur": 15,
+      "heures": 5.9,
+      "chaleur": 13,
       "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/nicalis-removes-ai-generated-music-from-the-binding-of-isaac-repentance-after-player-backlash",
+          "titre": "Nicalis removes AI-generated music from The Binding of Isaac: Repentance+ after player backlash"
+        },
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/undisclosed-ai-generated-music-pulled-from-the-binding-of-isaac-repentance-update-as-attempt-to-get-satirical-on-gta-6-launch-day-goes-awry",
@@ -25,59 +126,204 @@ const VEILLE = {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/11/woke-up-to-a-st-show-binding-of-isaac-dev-shocked-to-find-genai-music-in-repentanceplus",
           "titre": "\"Woke Up To A S**t Show\" - Binding Of Isaac Dev Shocked To Find GenAI Music In 'Repentance+'"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/binding-of-isaac-repentance-plus-ai-music-removed",
-          "titre": "Binding of Isaac dev pulls AI-generated music from Repentance+ after players expose it"
         }
       ]
     },
     {
-      "id": "metacritic-s-user-review-problem-worsens-as-gta-6-s-launch-p",
-      "titre": "Metacritic's user review problem worsens, as GTA 6's launch prompts review-bombing for completely unrelated games like Soul Calibur and The Ocarina of Time",
-      "url": "https://www.eurogamer.net/gta-6-metacritic-review-bomb",
+      "id": "gta-6-leaker-reportedly-releases-file-needed-to-run-leaked-x",
+      "titre": "GTA 6 leaker reportedly releases file needed to run leaked Xbox build",
+      "url": "https://www.gamesindustry.biz/gta-6-leaker-reportedly-releases-file-needed-to-run-leaked-xbox-build",
       "sources": [
-        "Eurogamer",
-        "VGC"
+        "GamesIndustry.biz",
+        "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 1.7,
+      "heures": 7.1,
       "chaleur": 12,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-metacritic-review-bomb",
-          "titre": "Metacritic's user review problem worsens, as GTA 6's launch prompts review-bombing for completely unrelated games like Soul Calibur and The Ocarina of Time"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/gta-6-leaker-reportedly-releases-file-needed-to-run-leaked-xbox-build",
+          "titre": "GTA 6 leaker reportedly releases file needed to run leaked Xbox build"
         },
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/as-gta-6-gets-review-bombed-on-metacritic-gta-fans-have-started-review-bombing-ocarina-of-time-in-response/",
-          "titre": "As GTA 6 gets review-bombed on Metacritic, GTA fans have started review-bombing Ocarina of Time in response"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/cyberleek-releases-executable-for-gta-6-xbox-build-leaked-last-week-the-torch-passes-to-the-open-source-recomp-and-emulation-projects/",
+          "titre": "Cyberleek releases executable for GTA 6 Xbox build leaked last week: 'The torch passes to the open source recomp and emulation projects'"
         }
       ]
     },
     {
-      "id": "gta-6-laptop-password-and-where-to-find-auntie-s-place-in-la",
-      "titre": "GTA 6 laptop password and where to find Auntie's Place in La Perle",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-laptop-password-aunties-place-la-perle/",
+      "id": "sony-gta-6-set-record-for-highest-number-of-concurrent-playe",
+      "titre": "Sony: GTA 6 set record for 'highest number of concurrent players for any game on PlayStation' ever",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/sony-gta-6-set-record-for-highest-number-of-concurrent-players-for-any-game-on-playstation-ever/",
       "sources": [
-        "PC Gamer",
-        "VGC"
+        "PC Gamer"
       ],
-      "reprises": 2,
-      "heures": 2.3,
-      "chaleur": 12,
+      "reprises": 1,
+      "heures": 2.6,
+      "chaleur": 11,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-laptop-password-aunties-place-la-perle/",
-          "titre": "GTA 6 laptop password and where to find Auntie's Place in La Perle"
-        },
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/sony-gta-6-set-record-for-highest-number-of-concurrent-players-for-any-game-on-playstation-ever/",
+          "titre": "Sony: GTA 6 set record for 'highest number of concurrent players for any game on PlayStation' ever"
+        }
+      ]
+    },
+    {
+      "id": "who-plays-mandy-in-gta-6",
+      "titre": "Who Plays Mandy in GTA 6?",
+      "url": "https://www.videogameschronicle.com/guide/who-plays-mandy-in-gta-6/",
+      "sources": [
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 7.0,
+      "chaleur": 10,
+      "liens": [
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/ocean-view-hotel-gta-6-location-guide-where-to-find-the-vapid-55-stainer/",
-          "titre": "Ocean View Hotel GTA 6 Location Guide: Where to find the Vapid ’55 Stainer"
+          "url": "https://www.videogameschronicle.com/guide/who-plays-mandy-in-gta-6/",
+          "titre": "Who Plays Mandy in GTA 6?"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/dont-let-this-happen-again-gta-6-hacker-who-pleaded-guilty-to-2022-rockstar-games-breach-released-under-supervision",
+          "titre": "\"Don't let this happen again\": GTA 6 hacker who pleaded guilty to 2022 Rockstar Games breach released under supervision"
+        }
+      ]
+    },
+    {
+      "id": "poll-has-gta-6-lived-up-to-the-hype-over-its-first-weekend",
+      "titre": "Poll: Has GTA 6 Lived Up to the Hype Over Its First Weekend?",
+      "url": "https://www.pushsquare.com/features/poll-has-gta-6-lived-up-to-the-hype-over-its-first-weekend",
+      "sources": [
+        "Eurogamer",
+        "Push Square"
+      ],
+      "reprises": 2,
+      "heures": 9.9,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/poll-has-gta-6-lived-up-to-the-hype-over-its-first-weekend",
+          "titre": "Poll: Has GTA 6 Lived Up to the Hype Over Its First Weekend?"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-car-theft-gamified",
+          "titre": "Has Rockstar taken the \"Grand Theft Auto\" out of GTA 6? Or has it just gamified car-jacking properly for the first time?"
+        }
+      ]
+    },
+    {
+      "id": "where-to-find-cut-off-tool-in-gta-6-to-open-containers",
+      "titre": "Where To Find Cut-Off Tool in GTA 6 To Open Containers",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-cut-off-tool/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.3,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-cut-off-tool/",
+          "titre": "Where To Find Cut-Off Tool in GTA 6 To Open Containers"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-expands-switch-2-s-gamecube-library-with-another-ga",
+      "titre": "Nintendo Expands Switch 2's GameCube Library With Another Game This Week",
+      "url": "https://www.nintendolife.com/news/2026/11/nintendo-expands-switch-2s-gamecube-library-with-another-game-this-week",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 1.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/nintendo-expands-switch-2s-gamecube-library-with-another-game-this-week",
+          "titre": "Nintendo Expands Switch 2's GameCube Library With Another Game This Week"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-car-service-walkthrough-how-to-steal-the-schafter-v12",
+      "titre": "GTA 6 Car Service walkthrough: How to steal the Schafter V12",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-car-service-walkthrough-how-to-steal-the-schafter-v12/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 1.7,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-car-service-walkthrough-how-to-steal-the-schafter-v12/",
+          "titre": "GTA 6 Car Service walkthrough: How to steal the Schafter V12"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-owners-can-now-stream-the-game-to-ps5-ps-portal-with-p",
+      "titre": "GTA 6 Owners Can Now Stream the Game to PS5, PS Portal with PS Plus Premium",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6-owners-can-now-stream-the-game-to-ps5-ps-portal-with-ps-plus-premium",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 1.9,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-owners-can-now-stream-the-game-to-ps5-ps-portal-with-ps-plus-premium",
+          "titre": "GTA 6 Owners Can Now Stream the Game to PS5, PS Portal with PS Plus Premium"
+        }
+      ]
+    },
+    {
+      "id": "one-of-gta-6-s-most-elaborate-easter-eggs-has-been-solved",
+      "titre": "One of GTA 6’s most elaborate Easter eggs has been solved",
+      "url": "https://www.videogameschronicle.com/news/one-of-gta-6s-most-elaborate-easter-eggs-has-been-solved/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 3.5,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/one-of-gta-6s-most-elaborate-easter-eggs-has-been-solved/",
+          "titre": "One of GTA 6’s most elaborate Easter eggs has been solved"
+        }
+      ]
+    },
+    {
+      "id": "final-fantasy-vii-revelation-has-been-rated-for-switch-2-by",
+      "titre": "Final Fantasy VII Revelation Has Been Rated For Switch 2 By The ESRB",
+      "url": "https://www.nintendolife.com/news/2026/11/final-fantasy-vii-revelation-has-been-rated-for-switch-2-by-the-esrb",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 0.9,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/final-fantasy-vii-revelation-has-been-rated-for-switch-2-by-the-esrb",
+          "titre": "Final Fantasy VII Revelation Has Been Rated For Switch 2 By The ESRB"
         }
       ]
     },
@@ -90,8 +336,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 1.5,
-      "chaleur": 11,
+      "heures": 13.9,
+      "chaleur": 8,
       "liens": [
         {
           "source": "Push Square",
@@ -106,62 +352,236 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-6-can-run-at-60fps-on-xbox-series-x-if-you-use-a-glitch",
-      "titre": "GTA 6 can run at 60fps on Xbox Series X if you use a glitch, but there's a catch",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-60-fps-glitch-xbox",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 0.3,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/grand-theft-auto-6-60-fps-glitch-xbox",
-          "titre": "GTA 6 can run at 60fps on Xbox Series X if you use a glitch, but there's a catch"
-        }
-      ]
-    },
-    {
-      "id": "how-to-steal-the-schafter-v12-in-gta-6",
-      "titre": "How to steal the Schafter V12 in GTA 6",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-schafter-v12/",
+      "id": "gta-6-players-found-a-60-fps-glitch-but-it-s-too-unstable-to",
+      "titre": "GTA 6 players found a '60 fps glitch', but it’s too unstable to stop me from wishing it was on PC already",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-players-found-a-60-fps-glitch-but-its-too-unstable-to-stop-me-from-wishing-it-was-on-pc-already/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 1.4,
-      "chaleur": 9,
+      "heures": 4.1,
+      "chaleur": 7,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-schafter-v12/",
-          "titre": "How to steal the Schafter V12 in GTA 6"
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-players-found-a-60-fps-glitch-but-its-too-unstable-to-stop-me-from-wishing-it-was-on-pc-already/",
+          "titre": "GTA 6 players found a '60 fps glitch', but it’s too unstable to stop me from wishing it was on PC already"
         }
       ]
     },
     {
-      "id": "nvidia-release-hotfix-for-latest-graphics-card-driver-batter",
-      "titre": "Nvidia release hotfix for latest graphics card driver battering SSDs with excessive writes, but it looks like reverting may still be the better option",
-      "url": "https://www.rockpapershotgun.com/nvidia-release-hotfix-for-latest-graphics-card-driver-battering-ssds-with-excessive-writes-but-it-looks-like-reverting-may-still-be-the-better-option",
+      "id": "god-of-war-laufey-star-deborah-ann-woll-will-reprise-the-rol",
+      "titre": "God of War: Laufey star Deborah Ann Woll will reprise the role in Amazon's God of War show",
+      "url": "https://www.pcgamer.com/movies-tv/god-of-war-laufey-star-deborah-ann-woll-will-reprise-the-role-in-amazons-god-of-war-show/",
       "sources": [
-        "PC Gamer",
-        "Rock Paper Shotgun"
+        "Eurogamer",
+        "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 1.5,
-      "chaleur": 9,
+      "heures": 4.5,
+      "chaleur": 7,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/nvidia-release-hotfix-for-latest-graphics-card-driver-battering-ssds-with-excessive-writes-but-it-looks-like-reverting-may-still-be-the-better-option",
-          "titre": "Nvidia release hotfix for latest graphics card driver battering SSDs with excessive writes, but it looks like reverting may still be the better option"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/movies-tv/god-of-war-laufey-star-deborah-ann-woll-will-reprise-the-role-in-amazons-god-of-war-show/",
+          "titre": "God of War: Laufey star Deborah Ann Woll will reprise the role in Amazon's God of War show"
         },
         {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/god-of-war-laufey-faye-amazon-series",
+          "titre": "God of War Laufey's Faye actor jumps from games to live-action, as Amazon casts Deborah Ann Woll in upcoming series"
+        }
+      ]
+    },
+    {
+      "id": "every-gta-6-ending-and-how-to-get-them",
+      "titre": "Every GTA 6 ending and how to get them",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-endings/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.3,
+      "chaleur": 7,
+      "liens": [
+        {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-released-a-hotfix-for-its-driver-hammering-your-ssd-but-it-doesnt-actually-work/",
-          "titre": "Nvidia released a hotfix for its driver hammering your SSD, but it doesn't actually work"
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-endings/",
+          "titre": "Every GTA 6 ending and how to get them"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-chapter-4-mission-list-every-mission-in-order-point-of",
+      "titre": "GTA 6 Chapter 4 Mission List: Every Mission in Order & Point of No Return",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-chapter-4-mission-list-every-mission-in-order-point-of-no-return/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 6.3,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-chapter-4-mission-list-every-mission-in-order-point-of-no-return/",
+          "titre": "GTA 6 Chapter 4 Mission List: Every Mission in Order & Point of No Return"
+        }
+      ]
+    },
+    {
+      "id": "guide-gta-6-tenebrae-lux-walkthrough-puzzle-solutions",
+      "titre": "Guide: GTA 6: Tenebrae Lux Walkthrough & Puzzle Solutions",
+      "url": "https://www.pushsquare.com/guides/gta-6-tenebrae-lux-walkthrough-and-puzzle-solutions",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 6.9,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/guides/gta-6-tenebrae-lux-walkthrough-and-puzzle-solutions",
+          "titre": "Guide: GTA 6: Tenebrae Lux Walkthrough & Puzzle Solutions"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-players-swore-the-weather-system-was-broken-and-the-la",
+      "titre": "GTA 6 players swore the weather system was broken and the latest patch has confirmed those suspicions",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-players-swore-the-weather-system-was-broken-and-the-latest-patch-has-confirmed-those-suspicions/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 7.0,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-players-swore-the-weather-system-was-broken-and-the-latest-patch-has-confirmed-those-suspicions/",
+          "titre": "GTA 6 players swore the weather system was broken and the latest patch has confirmed those suspicions"
+        }
+      ]
+    },
+    {
+      "id": "we-cannot-believe-we-are-reaching-milestones-like-this-quee",
+      "titre": "\"We Cannot Believe We Are Reaching Milestones Like This\" - Queen's Domain Dev Celebrates Opening Sales",
+      "url": "https://www.nintendolife.com/news/2026/11/we-cannot-believe-we-are-reaching-milestones-like-this-queens-domain-dev-celebrates-opening-sales",
+      "sources": [
+        "Eurogamer",
+        "Nintendo Life"
+      ],
+      "reprises": 2,
+      "heures": 8.1,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/we-cannot-believe-we-are-reaching-milestones-like-this-queens-domain-dev-celebrates-opening-sales",
+          "titre": "\"We Cannot Believe We Are Reaching Milestones Like This\" - Queen's Domain Dev Celebrates Opening Sales"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/queens-domain-review",
+          "titre": "Queen's Domain review"
+        }
+      ]
+    },
+    {
+      "id": "random-gta-6-hides-an-adorable-mario-luigi-easter-egg-in-its",
+      "titre": "Random: GTA 6 Hides An Adorable Mario & Luigi Easter Egg In Its Massive World",
+      "url": "https://www.nintendolife.com/news/2026/11/random-gta-6-hides-an-adorable-mario-and-luigi-easter-egg-in-its-massive-world",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 9.6,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/random-gta-6-hides-an-adorable-mario-and-luigi-easter-egg-in-its-massive-world",
+          "titre": "Random: GTA 6 Hides An Adorable Mario & Luigi Easter Egg In Its Massive World"
+        }
+      ]
+    },
+    {
+      "id": "60-hours-in-gta-6-has-me-yearning-for-an-online-leonida",
+      "titre": "60 hours in GTA 6 has me yearning for an online Leonida",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/60-hours-in-gta-6-has-me-yearning-for-an-online-leonida/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 10.8,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/60-hours-in-gta-6-has-me-yearning-for-an-online-leonida/",
+          "titre": "60 hours in GTA 6 has me yearning for an online Leonida"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-just-got-a-patch-that-fixed-a-progression-bug-on-ps5-a",
+      "titre": "GTA 6 just got a patch that fixed a progression bug on PS5 and Xbox Series X/S",
+      "url": "https://www.eurogamer.net/gta-6-xbox-playstation-patch-autosave-vignette",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 11.5,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-xbox-playstation-patch-autosave-vignette",
+          "titre": "GTA 6 just got a patch that fixed a progression bug on PS5 and Xbox Series X/S"
+        }
+      ]
+    },
+    {
+      "id": "activision-files-patent-for-neural-network-to-train-npcs-fro",
+      "titre": "Activision files patent for neural network to train NPCs from in-game voice chat",
+      "url": "https://www.gamesindustry.biz/activision-files-patent-for-neural-network-to-train-npcs-from-in-game-voice-chat",
+      "sources": [
+        "Eurogamer",
+        "GamesIndustry.biz"
+      ],
+      "reprises": 2,
+      "heures": 11.7,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/activision-files-patent-for-neural-network-to-train-npcs-from-in-game-voice-chat",
+          "titre": "Activision files patent for neural network to train NPCs from in-game voice chat"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/activision-ai-voice-chat-npc-patent",
+          "titre": "Activision patents AI voice system that learns from in-game chat and creates audio for NPCs who can even speak in place of you"
+        }
+      ]
+    },
+    {
+      "id": "2026-steam-awards-pit-the-goty-winners-of-the-past-10-years",
+      "titre": "2026 Steam Awards pit the GOTY winners of the past 10 years against each other in an all-out battle for supremacy",
+      "url": "https://www.pcgamer.com/games/2026-steam-awards-pit-the-goty-winners-of-the-past-10-years-against-each-other-in-an-all-out-battle-for-supremacy/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.4,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/2026-steam-awards-pit-the-goty-winners-of-the-past-10-years-against-each-other-in-an-all-out-battle-for-supremacy/",
+          "titre": "2026 Steam Awards pit the GOTY winners of the past 10 years against each other in an all-out battle for supremacy"
         }
       ]
     },
@@ -173,8 +593,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 2.0,
-      "chaleur": 9,
+      "heures": 12.0,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
@@ -184,110 +604,56 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-s-treatment-of-women-has-not-been-good-says-rockstar-vet",
-      "titre": "GTA's treatment of women 'has not been good', says Rockstar vet delighted by 'long overdue' female protagonist in GTA 6",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gtas-treatment-of-women-has-not-been-good-says-rockstar-vet-delighted-by-long-overdue-female-protagonist-in-gta-6/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.3,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gtas-treatment-of-women-has-not-been-good-says-rockstar-vet-delighted-by-long-overdue-female-protagonist-in-gta-6/",
-          "titre": "GTA's treatment of women 'has not been good', says Rockstar vet delighted by 'long overdue' female protagonist in GTA 6"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-chapter-3-mission-list-every-mission-in-order-point-of",
-      "titre": "GTA 6 Chapter 3 Mission List: Every Mission in Order & Point of No Return",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-chapter-3-mission-list/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 3.1,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/gta-6-chapter-3-mission-list/",
-          "titre": "GTA 6 Chapter 3 Mission List: Every Mission in Order & Point of No Return"
-        }
-      ]
-    },
-    {
-      "id": "over-half-of-console-players-in-the-us-played-gta-6-on-launc",
-      "titre": "Over half of console players in the US played GTA 6 on launch day, according to Circana",
-      "url": "https://www.gamesindustry.biz/over-half-of-console-players-in-the-us-played-gta-6-on-launch-day-according-to-circana",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/over-half-of-console-players-in-the-us-played-gta-6-on-launch-day-according-to-circana",
-          "titre": "Over half of console players in the US played GTA 6 on launch day, according to Circana"
-        }
-      ]
-    },
-    {
-      "id": "binding-of-isaac-dlc-adds-ai-music-in-gta-6-parodying-update",
-      "titre": "Binding of Isaac DLC adds AI music in GTA 6-parodying update despite not having an AI disclosure, Steam reviews drop to Overwhelmingly Negative, music gets pulled",
-      "url": "https://www.pcgamer.com/games/roguelike/binding-of-isaac-dlc-adds-ai-music-in-gta-6-parodying-update-despite-not-having-an-ai-disclosure-steam-reviews-drop-to-overwhelmingly-negative-music-gets-pulled/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 13.3,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/roguelike/binding-of-isaac-dlc-adds-ai-music-in-gta-6-parodying-update-despite-not-having-an-ai-disclosure-steam-reviews-drop-to-overwhelmingly-negative-music-gets-pulled/",
-          "titre": "Binding of Isaac DLC adds AI music in GTA 6-parodying update despite not having an AI disclosure, Steam reviews drop to Overwhelmingly Negative, music gets pulled"
-        }
-      ]
-    },
-    {
-      "id": "fantasy-rpg-sovereign-tower-brings-some-round-table-manageme",
-      "titre": "Fantasy RPG 'Sovereign Tower' Brings Some Round Table Management To Switch Next Year",
-      "url": "https://www.nintendolife.com/news/2026/11/fantasy-rpg-sovereign-tower-brings-some-round-table-management-to-switch-next-year",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 0.5,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/fantasy-rpg-sovereign-tower-brings-some-round-table-management-to-switch-next-year",
-          "titre": "Fantasy RPG 'Sovereign Tower' Brings Some Round Table Management To Switch Next Year"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-just-can-t-stop-breaking-records-it-seems",
-      "titre": "GTA 6 Just Can't Stop Breaking Records It Seems",
-      "url": "https://www.pushsquare.com/news/2026/11/gta-6-just-cant-stop-breaking-records-it-seems",
+      "id": "how-old-are-gta-6-s-jason-lucia-now-we-officially-know",
+      "titre": "How Old Are GTA 6's Jason & Lucia? Now We Officially Know",
+      "url": "https://www.pushsquare.com/news/2026/11/how-old-are-gta-6s-jason-and-lucia-now-we-officially-know",
       "sources": [
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 25.5,
-      "chaleur": 8,
+      "heures": 12.4,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/gta-6-just-cant-stop-breaking-records-it-seems",
-          "titre": "GTA 6 Just Can't Stop Breaking Records It Seems"
+          "url": "https://www.pushsquare.com/news/2026/11/how-old-are-gta-6s-jason-and-lucia-now-we-officially-know",
+          "titre": "How Old Are GTA 6's Jason & Lucia? Now We Officially Know"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-can-run-at-60fps-on-xbox-series-x-if-you-use-a-glitch",
+      "titre": "GTA 6 can run at 60fps on Xbox Series X if you use a glitch, but there's a catch",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-60-fps-glitch-xbox",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 12.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/grand-theft-auto-6-60-fps-glitch-xbox",
+          "titre": "GTA 6 can run at 60fps on Xbox Series X if you use a glitch, but there's a catch"
+        }
+      ]
+    },
+    {
+      "id": "metacritic-s-user-review-problem-worsens-as-gta-6-s-launch-p",
+      "titre": "Metacritic's user review problem worsens, as GTA 6's launch prompts review-bombing for completely unrelated games like Soul Calibur and The Ocarina of Time",
+      "url": "https://www.eurogamer.net/gta-6-metacritic-review-bomb",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 14.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-metacritic-review-bomb",
+          "titre": "Metacritic's user review problem worsens, as GTA 6's launch prompts review-bombing for completely unrelated games like Soul Calibur and The Ocarina of Time"
         }
       ]
     },
@@ -299,175 +665,13 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.7,
-      "chaleur": 7,
+      "heures": 17.0,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/grand-theft-auto-6-no-darts-didnt-have-resources",
           "titre": "Why can't you play darts in GTA 6 when you could in previous games? Because Rockstar \"didn't have the resources\" to do it to a standard it'd be happy with"
-        }
-      ]
-    },
-    {
-      "id": "jensen-huang-has-been-reinstated-as-nvidia-s-president-and-c",
-      "titre": "Jensen Huang Has Been Reinstated As Nvidia's President And CEO",
-      "url": "https://www.nintendolife.com/news/2026/11/jensen-huang-has-been-reinstated-as-nvidias-president-and-ceo",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 0.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/jensen-huang-has-been-reinstated-as-nvidias-president-and-ceo",
-          "titre": "Jensen Huang Has Been Reinstated As Nvidia's President And CEO"
-        }
-      ]
-    },
-    {
-      "id": "rumour-la-noire-2-is-rockstar-s-next-game",
-      "titre": "Rumour: LA Noire 2 Is Rockstar's Next Game",
-      "url": "https://www.pushsquare.com/news/2026/11/rumour-la-noire-2-is-rockstars-next-game",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 0.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/rumour-la-noire-2-is-rockstars-next-game",
-          "titre": "Rumour: LA Noire 2 Is Rockstar's Next Game"
-        }
-      ]
-    },
-    {
-      "id": "nightdive-s-thief-remaster-will-make-the-most-infamous-thief",
-      "titre": "Nightdive's Thief remaster will make the most \"infamous\" Thief Gold level a little less maddening, by \"just kind of pointing the player in the right direction\"",
-      "url": "https://www.rockpapershotgun.com/nightdives-thief-remaster-will-make-the-most-infamous-thief-gold-level-a-little-less-maddening-by-just-kind-of-pointing-the-player-in-the-right-direction",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 1.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/nightdives-thief-remaster-will-make-the-most-infamous-thief-gold-level-a-little-less-maddening-by-just-kind-of-pointing-the-player-in-the-right-direction",
-          "titre": "Nightdive's Thief remaster will make the most \"infamous\" Thief Gold level a little less maddening, by \"just kind of pointing the player in the right direction\""
-        }
-      ]
-    },
-    {
-      "id": "i-ll-be-skipping-zenless-zone-zero-s-new-meta-unit-in-favour",
-      "titre": "I'll Be Skipping Zenless Zone Zero's New Meta Unit in Favour of My All-Time Fave Waifu",
-      "url": "https://www.pushsquare.com/news/2026/11/ill-be-skipping-zenless-zone-zeros-new-meta-unit-in-favour-of-my-all-time-fave-waifu",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 1.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/ill-be-skipping-zenless-zone-zeros-new-meta-unit-in-favour-of-my-all-time-fave-waifu",
-          "titre": "I'll Be Skipping Zenless Zone Zero's New Meta Unit in Favour of My All-Time Fave Waifu"
-        }
-      ]
-    },
-    {
-      "id": "resident-evil-creator-shinji-mikami-says-he-wishes-ai-would",
-      "titre": "Resident Evil creator Shinji Mikami says he wishes AI would disappear entirely, but that he experiments with it as a tool",
-      "url": "https://www.videogameschronicle.com/news/resident-evil-creator-shinji-mikami-says-he-wishes-ai-would-disappear-entirely-but-that-he-experiments-with-it-as-a-tool/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 1.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/resident-evil-creator-shinji-mikami-says-he-wishes-ai-would-disappear-entirely-but-that-he-experiments-with-it-as-a-tool/",
-          "titre": "Resident Evil creator Shinji Mikami says he wishes AI would disappear entirely, but that he experiments with it as a tool"
-        }
-      ]
-    },
-    {
-      "id": "it-was-the-coolest-thing-i-d-ever-seen-the-story-of-rez-25",
-      "titre": "‘It was the coolest thing I’d ever seen’: The story of Rez, 25 years on",
-      "url": "https://www.videogameschronicle.com/features/the-story-of-rez-25-years-on/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 1.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/features/the-story-of-rez-25-years-on/",
-          "titre": "‘It was the coolest thing I’d ever seen’: The story of Rez, 25 years on"
-        }
-      ]
-    },
-    {
-      "id": "christoph-hartmann-wants-ubisoft-s-massive-entertainment-to",
-      "titre": "Christoph Hartmann wants Ubisoft's Massive Entertainment to go beyond shooters and be the \"A24 of gaming\"",
-      "url": "https://www.gamesindustry.biz/christoph-hartmann-wants-ubisofts-massive-entertainment-to-go-beyond-shooters-and-be-the-a24-of-gaming",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 1.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/christoph-hartmann-wants-ubisofts-massive-entertainment-to-go-beyond-shooters-and-be-the-a24-of-gaming",
-          "titre": "Christoph Hartmann wants Ubisoft's Massive Entertainment to go beyond shooters and be the \"A24 of gaming\""
-        }
-      ]
-    },
-    {
-      "id": "grand-theft-auto-6-complete-walkthrough-hub",
-      "titre": "Grand Theft Auto 6 complete walkthrough hub",
-      "url": "https://www.videogameschronicle.com/guide/grand-theft-auto-6-complete-walkthrough-hub/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 2.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/grand-theft-auto-6-complete-walkthrough-hub/",
-          "titre": "Grand Theft Auto 6 complete walkthrough hub"
-        }
-      ]
-    },
-    {
-      "id": "kirby-and-the-world-beyond-details-revealed-in-nintendo-cata",
-      "titre": "Kirby And The World Beyond Details Revealed In Nintendo Catalogue",
-      "url": "https://www.nintendolife.com/news/2026/11/kirby-and-the-world-beyond-details-revealed-in-nintendo-catalogue",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 4.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/kirby-and-the-world-beyond-details-revealed-in-nintendo-catalogue",
-          "titre": "Kirby And The World Beyond Details Revealed In Nintendo Catalogue"
         }
       ]
     },
@@ -479,103 +683,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 13.8,
+      "heures": 26.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/11/i-mean-guys-really-gta-7-questions-batted-aside-by-take-two-boss",
           "titre": "'I Mean, Guys, Really?!': GTA 7 Questions Batted Aside by Take-Two Boss"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-the-end-of-the-road-should-you-swim-for-it-or-choose-n",
-      "titre": "GTA 6 The End of the Road: Should you swim for it, or choose no surrender?",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-endings-end-of-the-road-swim-for-it-no-surrender/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 16.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-endings-end-of-the-road-swim-for-it-no-surrender/",
-          "titre": "GTA 6 The End of the Road: Should you swim for it, or choose no surrender?"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-needed-a-dedicated-team-to-make-sure-all-its-different",
-      "titre": "GTA 6 needed a dedicated team to make sure all its different body types could share animations: 'It was a huge team effort'",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-needed-a-dedicated-team-to-make-sure-all-its-different-body-types-could-share-animations-it-was-a-huge-team-effort/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 18.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-needed-a-dedicated-team-to-make-sure-all-its-different-body-types-could-share-animations-it-was-a-huge-team-effort/",
-          "titre": "GTA 6 needed a dedicated team to make sure all its different body types could share animations: 'It was a huge team effort'"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-discourse-is-suffering-from-the-flat-earther-effect",
-      "titre": "GTA 6 discourse is suffering from the flat earther effect",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-discourse-is-already-suffering-from-the-flat-earther-effect/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 19.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-discourse-is-already-suffering-from-the-flat-earther-effect/",
-          "titre": "GTA 6 discourse is suffering from the flat earther effect"
-        }
-      ]
-    },
-    {
-      "id": "which-gta-6-radio-station-is-your-favourite-so-far",
-      "titre": "Which GTA 6 radio station is your favourite so far?",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/which-gta-6-radio-station-is-your-favourite-so-far/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 20.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/which-gta-6-radio-station-is-your-favourite-so-far/",
-          "titre": "Which GTA 6 radio station is your favourite so far?"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-s-massive-casino-and-sick-go-kart-track-are-currently",
-      "titre": "GTA 6's massive casino and sick go-kart track are currently closed, but I'm hoping we can trust those 'coming soon' signs 🙏",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-massive-casino-and-sick-go-kart-track-are-currently-closed-but-im-hoping-we-can-trust-those-coming-soon-signs/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 20.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-massive-casino-and-sick-go-kart-track-are-currently-closed-but-im-hoping-we-can-trust-those-coming-soon-signs/",
-          "titre": "GTA 6's massive casino and sick go-kart track are currently closed, but I'm hoping we can trust those 'coming soon' signs 🙏"
         }
       ]
     },
@@ -587,7 +701,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 22.3,
+      "heures": 34.7,
       "chaleur": 6,
       "liens": [
         {
@@ -598,38 +712,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-6-player-gets-30-day-psn-ban-for-sharing-in-game-nudist",
-      "titre": "GTA 6 player gets 30-day PSN ban for sharing in-game nudist photo with a friend",
-      "url": "https://www.eurogamer.net/gta-6-psn-ban-nude-photos-nudist-resort",
+      "id": "fantasy-rpg-sovereign-tower-brings-some-round-table-manageme",
+      "titre": "Fantasy RPG 'Sovereign Tower' Brings Some Round Table Management To Switch Next Year",
+      "url": "https://www.nintendolife.com/news/2026/11/fantasy-rpg-sovereign-tower-brings-some-round-table-management-to-switch-next-year",
       "sources": [
-        "Eurogamer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 27.2,
-      "chaleur": 6,
+      "heures": 12.9,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-psn-ban-nude-photos-nudist-resort",
-          "titre": "GTA 6 player gets 30-day PSN ban for sharing in-game nudist photo with a friend"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/fantasy-rpg-sovereign-tower-brings-some-round-table-management-to-switch-next-year",
+          "titre": "Fantasy RPG 'Sovereign Tower' Brings Some Round Table Management To Switch Next Year"
         }
       ]
     },
     {
-      "id": "it-stayed-alive-for-so-long-behind-the-wheel-with-the-last",
-      "titre": "\"It stayed alive for so long\" - Behind the wheel with the Last Riders saying goodbye to GTA Online, amidst GTA 6's world-changing launch",
-      "url": "https://www.eurogamer.net/gta-6-grand-theft-auto-online-last-ride",
+      "id": "kirby-and-the-world-beyond-details-revealed-in-nintendo-cata",
+      "titre": "Kirby And The World Beyond Details Revealed In Nintendo Catalogue",
+      "url": "https://www.nintendolife.com/news/2026/11/kirby-and-the-world-beyond-details-revealed-in-nintendo-catalogue",
       "sources": [
-        "Eurogamer"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 28.5,
-      "chaleur": 6,
+      "heures": 16.6,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-grand-theft-auto-online-last-ride",
-          "titre": "\"It stayed alive for so long\" - Behind the wheel with the Last Riders saying goodbye to GTA Online, amidst GTA 6's world-changing launch"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/kirby-and-the-world-beyond-details-revealed-in-nintendo-catalogue",
+          "titre": "Kirby And The World Beyond Details Revealed In Nintendo Catalogue"
         }
       ]
     },
@@ -641,7 +755,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 22.5,
+      "heures": 34.9,
       "chaleur": 5,
       "liens": [
         {
@@ -652,241 +766,423 @@ const VEILLE = {
       ]
     },
     {
-      "id": "mailbox-ocarina-intruders-pikmin-day-too-many-humans-nintend",
-      "titre": "Mailbox: Ocarina Intruders, Pikmin Day, Too Many Humans - Nintendo Life Letters",
-      "url": "https://www.nintendolife.com/news/2026/11/mailbox-ocarina-intruders-pikmin-day-too-many-humans-nintendo-life-letters",
+      "id": "the-grand-theft-auto-6-hacker-who-was-hospitalized-in-2023-h",
+      "titre": "The Grand Theft Auto 6 hacker who was hospitalized in 2023 has been released on parole with a warning not to do it again",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/the-grand-theft-auto-6-hacker-who-was-hospitalized-in-2023-has-been-released-on-parole-with-a-warning-not-to-do-it-again/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 24.5,
-      "chaleur": 5,
+      "heures": 5.6,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/mailbox-ocarina-intruders-pikmin-day-too-many-humans-nintendo-life-letters",
-          "titre": "Mailbox: Ocarina Intruders, Pikmin Day, Too Many Humans - Nintendo Life Letters"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/the-grand-theft-auto-6-hacker-who-was-hospitalized-in-2023-has-been-released-on-parole-with-a-warning-not-to-do-it-again/",
+          "titre": "The Grand Theft Auto 6 hacker who was hospitalized in 2023 has been released on parole with a warning not to do it again"
         }
       ]
     },
     {
-      "id": "queen-s-domain-review",
-      "titre": "Queen's Domain review",
-      "url": "https://www.eurogamer.net/queens-domain-review",
+      "id": "deltarune-chapter-6-is-playable-from-the-beginning-to-the-en",
+      "titre": "Deltarune Chapter 6 is playable \"from the beginning to the end,\" Toby Fox says, but the RPG's final part has \"only just started\"",
+      "url": "https://www.eurogamer.net/deltarune-chapter-6-playable-toby-fox",
       "sources": [
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.4,
+      "heures": 6.8,
       "chaleur": 4,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/queens-domain-review",
-          "titre": "Queen's Domain review"
+          "url": "https://www.eurogamer.net/deltarune-chapter-6-playable-toby-fox",
+          "titre": "Deltarune Chapter 6 is playable \"from the beginning to the end,\" Toby Fox says, but the RPG's final part has \"only just started\""
         }
       ]
     },
     {
-      "id": "guide-these-11-ps5-and-ps-plus-games-are-coming-out-this-wee",
-      "titre": "Guide: These 11+ PS5 and PS Plus Games Are Coming Out This Week (23rd-29th November)",
-      "url": "https://www.pushsquare.com/guides/these-11plus-ps5-and-ps-plus-games-are-coming-out-this-week-23rd-29th-november",
+      "id": "epic-games-no-longer-plans-to-include-blueprints-or-actor-ga",
+      "titre": "Epic Games no longer plans to include Blueprints or Actor Gameplay Framework in Unreal Engine 6",
+      "url": "https://www.gamedeveloper.com/programming/unreal-engine-6-to-remove-blueprints-and-actor-gameplay-framework-from-the-beginning",
       "sources": [
-        "Push Square"
+        "Game Developer"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 7.0,
       "chaleur": 4,
       "liens": [
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/guides/these-11plus-ps5-and-ps-plus-games-are-coming-out-this-week-23rd-29th-november",
-          "titre": "Guide: These 11+ PS5 and PS Plus Games Are Coming Out This Week (23rd-29th November)"
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/programming/unreal-engine-6-to-remove-blueprints-and-actor-gameplay-framework-from-the-beginning",
+          "titre": "Epic Games no longer plans to include Blueprints or Actor Gameplay Framework in Unreal Engine 6"
         }
       ]
     },
     {
-      "id": "activision-refers-itself-as-the-home-of-banjo-kazooie-in-new",
-      "titre": "Activision refers itself as the home of Banjo-Kazooie in new job listing",
-      "url": "https://www.videogameschronicle.com/news/activision-refers-itself-as-the-home-of-banjo-kazooie-in-new-job-listing/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 4.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/activision-refers-itself-as-the-home-of-banjo-kazooie-in-new-job-listing/",
-          "titre": "Activision refers itself as the home of Banjo-Kazooie in new job listing"
-        }
-      ]
-    },
-    {
-      "id": "activision-patents-ai-voice-system-that-learns-from-in-game",
-      "titre": "Activision patents AI voice system that learns from in-game chat and creates audio for NPCs who can even speak in place of you",
-      "url": "https://www.eurogamer.net/activision-ai-voice-chat-npc-patent",
+      "id": "activision-calls-banjo-kazooie-one-of-its-iconic-gaming-fran",
+      "titre": "Activision calls Banjo-Kazooie one of its \"iconic gaming franchises,\" raising hopes for long-awaited new game",
+      "url": "https://www.eurogamer.net/activision-banjo-kazooie-iconic-gaming-franchise",
       "sources": [
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 7.5,
       "chaleur": 4,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/activision-ai-voice-chat-npc-patent",
-          "titre": "Activision patents AI voice system that learns from in-game chat and creates audio for NPCs who can even speak in place of you"
+          "url": "https://www.eurogamer.net/activision-banjo-kazooie-iconic-gaming-franchise",
+          "titre": "Activision calls Banjo-Kazooie one of its \"iconic gaming franchises,\" raising hopes for long-awaited new game"
         }
       ]
     },
     {
-      "id": "sneg-has-re-released-three-more-venerable-pc-strategy-games",
-      "titre": "SNEG has re-released three more venerable PC strategy games including Warlords 4: Heroes of Etheria",
-      "url": "https://www.pcgamer.com/games/strategy/sneg-has-re-released-three-more-venerable-pc-strategy-games-including-warlords-4-heroes-of-etheria/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 14.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/strategy/sneg-has-re-released-three-more-venerable-pc-strategy-games-including-warlords-4-heroes-of-etheria/",
-          "titre": "SNEG has re-released three more venerable PC strategy games including Warlords 4: Heroes of Etheria"
-        }
-      ]
-    },
-    {
-      "id": "unreal-engine-6-to-jettison-key-scripting-feature-earlier-th",
-      "titre": "Unreal Engine 6 to jettison key scripting feature earlier than planned in favor of AI coding",
-      "url": "https://www.pcgamer.com/gaming-industry/unreal-engine-6-to-jettison-key-scripting-feature-earlier-than-planned-in-favor-of-ai-coding/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 18.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/unreal-engine-6-to-jettison-key-scripting-feature-earlier-than-planned-in-favor-of-ai-coding/",
-          "titre": "Unreal Engine 6 to jettison key scripting feature earlier than planned in favor of AI coding"
-        }
-      ]
-    },
-    {
-      "id": "new-dota-2-patch-tries-to-help-games-end-faster-adds-an-item",
-      "titre": "New Dota 2 patch tries to help games end faster, adds an item that summons super creeps in every lane at once",
-      "url": "https://www.pcgamer.com/games/moba/new-dota-2-patch-tries-to-help-games-end-faster-adds-an-item-that-summons-super-creeps-in-every-lane-at-once/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 18.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/moba/new-dota-2-patch-tries-to-help-games-end-faster-adds-an-item-that-summons-super-creeps-in-every-lane-at-once/",
-          "titre": "New Dota 2 patch tries to help games end faster, adds an item that summons super creeps in every lane at once"
-        }
-      ]
-    },
-    {
-      "id": "the-sunday-papers",
-      "titre": "The Sunday Papers",
-      "url": "https://www.rockpapershotgun.com/the-sunday-papers-837",
+      "id": "28-years-later-grizzled-xcom-style-ww2-tactics-game-soldiers",
+      "titre": "28 years later, grizzled XCOM-style WW2 tactics game Soldiers at War gets a fresh tour of duty on modern PCs",
+      "url": "https://www.rockpapershotgun.com/28-years-later-grizzled-xcom-style-ww2-tactics-game-soldiers-at-war-gets-a-fresh-tour-of-duty-on-modern-pcs",
       "sources": [
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 27.5,
-      "chaleur": 3,
+      "heures": 8.7,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-sunday-papers-837",
-          "titre": "The Sunday Papers"
+          "url": "https://www.rockpapershotgun.com/28-years-later-grizzled-xcom-style-ww2-tactics-game-soldiers-at-war-gets-a-fresh-tour-of-duty-on-modern-pcs",
+          "titre": "28 years later, grizzled XCOM-style WW2 tactics game Soldiers at War gets a fresh tour of duty on modern PCs"
         }
       ]
     },
     {
-      "id": "poll-which-mario-luigi-superstar-saga-box-art-is-the-best",
-      "titre": "Poll: Which Mario & Luigi: Superstar Saga Box Art Is The Best?",
-      "url": "https://www.nintendolife.com/features/poll-which-mario-and-luigi-superstar-saga-box-art-is-the-best",
+      "id": "think-you-know-games-that-we-liked-this-year-then-join-the-r",
+      "titre": "Think you know games? That we liked? This year? Then join the RPS Advent Calendar Guessing Game 2026",
+      "url": "https://www.rockpapershotgun.com/rps-advent-calendar-guessing-game-2026",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 8.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/rps-advent-calendar-guessing-game-2026",
+          "titre": "Think you know games? That we liked? This year? Then join the RPS Advent Calendar Guessing Game 2026"
+        }
+      ]
+    },
+    {
+      "id": "former-dragon-age-boss-questions-whether-bioware-should-have",
+      "titre": "Former Dragon Age boss questions whether BioWare should have become 'a one project studio' dropping either Mass Effect or Dragon Age to survive EA",
+      "url": "https://www.pcgamer.com/gaming-industry/former-dragon-age-boss-questions-whether-bioware-should-have-become-a-one-project-studio-dropping-either-mass-effect-or-dragon-age-to-survive-ea/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 8.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/former-dragon-age-boss-questions-whether-bioware-should-have-become-a-one-project-studio-dropping-either-mass-effect-or-dragon-age-to-survive-ea/",
+          "titre": "Former Dragon Age boss questions whether BioWare should have become 'a one project studio' dropping either Mass Effect or Dragon Age to survive EA"
+        }
+      ]
+    },
+    {
+      "id": "opinion-after-finishing-ocarina-of-time-i-m-left-jonesing-fo",
+      "titre": "Opinion: After Finishing Ocarina Of Time, I'm Left Jonesing For A Proper Sequel",
+      "url": "https://www.nintendolife.com/features/opinion-after-finishing-ocarina-of-time-im-left-jonesing-for-a-proper-sequel",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 28.5,
-      "chaleur": 3,
+      "heures": 8.9,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/poll-which-mario-and-luigi-superstar-saga-box-art-is-the-best",
-          "titre": "Poll: Which Mario & Luigi: Superstar Saga Box Art Is The Best?"
+          "url": "https://www.nintendolife.com/features/opinion-after-finishing-ocarina-of-time-im-left-jonesing-for-a-proper-sequel",
+          "titre": "Opinion: After Finishing Ocarina Of Time, I'm Left Jonesing For A Proper Sequel"
         }
       ]
     },
     {
-      "id": "i-ve-never-known-a-moment-like-this-in-video-games",
-      "titre": "I've never known a moment like this in video games",
-      "url": "https://www.eurogamer.net/gta-6-video-games-biggest-moment",
+      "id": "eu-opens-consultation-on-digital-fairness-act",
+      "titre": "EU opens consultation on Digital Fairness Act",
+      "url": "https://www.gamesindustry.biz/eu-opens-consultation-on-digital-fairness-act",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 9.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/eu-opens-consultation-on-digital-fairness-act",
+          "titre": "EU opens consultation on Digital Fairness Act"
+        }
+      ]
+    },
+    {
+      "id": "might-and-magic-meets-er-paper-in-sunny-new-rpg-rise-of-fura",
+      "titre": "Might and Magic meets, er, paper in sunny new RPG Rise of Furax, a turn-based island tale that is entirely drawn by hand",
+      "url": "https://www.rockpapershotgun.com/might-and-magic-meets-er-paper-in-sunny-new-rpg-rise-of-furax-a-turn-based-island-tale-that-is-entirely-drawn-by-hand",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 9.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/might-and-magic-meets-er-paper-in-sunny-new-rpg-rise-of-furax-a-turn-based-island-tale-that-is-entirely-drawn-by-hand",
+          "titre": "Might and Magic meets, er, paper in sunny new RPG Rise of Furax, a turn-based island tale that is entirely drawn by hand"
+        }
+      ]
+    },
+    {
+      "id": "dawn-of-war-4-s-newest-trailer-teases-the-appearance-of-a-fa",
+      "titre": "Dawn of War 4's newest trailer teases the appearance of a fan-favourite character in the game's post-launch DLC",
+      "url": "https://www.eurogamer.net/dawn-of-war-4-trailer-vashtorr-chaos-tease",
       "sources": [
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 29.5,
-      "chaleur": 3,
+      "heures": 9.8,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-video-games-biggest-moment",
-          "titre": "I've never known a moment like this in video games"
+          "url": "https://www.eurogamer.net/dawn-of-war-4-trailer-vashtorr-chaos-tease",
+          "titre": "Dawn of War 4's newest trailer teases the appearance of a fan-favourite character in the game's post-launch DLC"
         }
       ]
     },
     {
-      "id": "katsuhiro-harada-reveals-the-pok-mon-he-wanted-to-add-to-pok",
-      "titre": "Katsuhiro Harada Reveals The Pokémon He Wanted To Add To Pokken Tournament",
-      "url": "https://www.nintendolife.com/news/2026/11/katsuhiro-harada-reveals-the-pokemon-he-wanted-to-add-to-pokken-tournament",
+      "id": "fanatical-s-black-friday-sale-includes-daily-flash-deals-res",
+      "titre": "Fanatical’s Black Friday sale includes daily flash deals: Resident Evil Requiem is currently 42% off",
+      "url": "https://www.videogameschronicle.com/news/fanaticals-black-friday-sale-includes-daily-flash-deals-resident-evil-requiem-is-currently-42-off/",
       "sources": [
-        "Nintendo Life"
+        "VGC"
       ],
       "reprises": 1,
-      "heures": 31.5,
-      "chaleur": 3,
+      "heures": 10.6,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/katsuhiro-harada-reveals-the-pokemon-he-wanted-to-add-to-pokken-tournament",
-          "titre": "Katsuhiro Harada Reveals The Pokémon He Wanted To Add To Pokken Tournament"
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/fanaticals-black-friday-sale-includes-daily-flash-deals-resident-evil-requiem-is-currently-42-off/",
+          "titre": "Fanatical’s Black Friday sale includes daily flash deals: Resident Evil Requiem is currently 42% off"
         }
       ]
     },
     {
-      "id": "fatal-fury-city-of-the-wolves-adds-laocorn-from-the-motion-p",
-      "titre": "Fatal Fury: City Of The Wolves Adds Laocorn From The Motion Picture",
-      "url": "https://www.nintendolife.com/news/2026/11/fatal-fury-city-of-the-wolves-adds-laocorn-from-the-motion-picture",
+      "id": "this-fan-made-map-shows-why-queen-s-domain-is-the-true-goty",
+      "titre": "This fan-made map shows why Queen's Domain is the true GOTY, and you can even upload your save to it to track the things you have left to find",
+      "url": "https://www.pcgamer.com/games/rpg/this-fan-made-map-shows-why-queens-domain-is-the-true-goty-and-you-can-even-upload-your-save-to-it-to-track-the-things-you-have-left-to-find/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 34.5,
+      "heures": 10.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/this-fan-made-map-shows-why-queens-domain-is-the-true-goty-and-you-can-even-upload-your-save-to-it-to-track-the-things-you-have-left-to-find/",
+          "titre": "This fan-made map shows why Queen's Domain is the true GOTY, and you can even upload your save to it to track the things you have left to find"
+        }
+      ]
+    },
+    {
+      "id": "finally-some-former-valorant-and-sky-devs-have-answered-the",
+      "titre": "Finally, some former Valorant and Sky devs have answered the call for a Peak-style platformer about throwing a cat through a hole in spacetime",
+      "url": "https://www.rockpapershotgun.com/finally-some-former-valorant-and-sky-devs-have-answered-the-call-for-a-peak-style-platformer-about-throwing-a-cat-through-a-hole-in-spacetime",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 10.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/finally-some-former-valorant-and-sky-devs-have-answered-the-call-for-a-peak-style-platformer-about-throwing-a-cat-through-a-hole-in-spacetime",
+          "titre": "Finally, some former Valorant and Sky devs have answered the call for a Peak-style platformer about throwing a cat through a hole in spacetime"
+        }
+      ]
+    },
+    {
+      "id": "this-week-in-pc-games-raise-a-psychedelic-baby-invent-terrib",
+      "titre": "This week in PC games: Raise a psychedelic baby, invent terrible new religions, and run your own PC hardware business",
+      "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-raise-a-psychedelic-baby-invent-terrible-new-religions-and-run-your-own-pc-hardware-business",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 11.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-raise-a-psychedelic-baby-invent-terrible-new-religions-and-run-your-own-pc-hardware-business",
+          "titre": "This week in PC games: Raise a psychedelic baby, invent terrible new religions, and run your own PC hardware business"
+        }
+      ]
+    },
+    {
+      "id": "world-of-warcraft-forever-review-the-first-proper-mmo-advent",
+      "titre": "World of Warcraft: Forever review: The first proper MMO adventure I've been on in years",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-review/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 11.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-review/",
+          "titre": "World of Warcraft: Forever review: The first proper MMO adventure I've been on in years"
+        }
+      ]
+    },
+    {
+      "id": "plug-in-digital-acquires-news-tower-publisher-twin-sails-int",
+      "titre": "Plug in Digital acquires News Tower publisher Twin Sails Interactive, creating new publishing group to \"compete in a highly competitive market\"",
+      "url": "https://www.gamesindustry.biz/plug-in-digital-acquires-news-tower-publisher-twin-sails-interactive-creating-new-publishing-group-to-compete-in-a-highly-competitive-market",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 11.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/plug-in-digital-acquires-news-tower-publisher-twin-sails-interactive-creating-new-publishing-group-to-compete-in-a-highly-competitive-market",
+          "titre": "Plug in Digital acquires News Tower publisher Twin Sails Interactive, creating new publishing group to \"compete in a highly competitive market\""
+        }
+      ]
+    },
+    {
+      "id": "nvidia-reinstate-jensen-huang-as-ceo-following-alleged-affai",
+      "titre": "Nvidia reinstate Jensen Huang as CEO following alleged affairs, as US government support renders 'please give me my job back, go USA' a highly persuasive plea",
+      "url": "https://www.rockpapershotgun.com/nvidia-reinstate-jensen-huang-as-ceo-following-alleged-affairs-as-us-government-support-renders-please-give-me-my-job-back-go-usa-a-highly-persuasive-plea",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 11.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/nvidia-reinstate-jensen-huang-as-ceo-following-alleged-affairs-as-us-government-support-renders-please-give-me-my-job-back-go-usa-a-highly-persuasive-plea",
+          "titre": "Nvidia reinstate Jensen Huang as CEO following alleged affairs, as US government support renders 'please give me my job back, go USA' a highly persuasive plea"
+        }
+      ]
+    },
+    {
+      "id": "devs-can-now-utilize-the-high-end-ambient-occlusion-techniqu",
+      "titre": "Devs can now utilize the high-end ambient occlusion technique seen in EVE: Frontier",
+      "url": "https://www.gamedeveloper.com/programming/devs-can-now-utilize-high-end-ambient-occlusion-technique-seen-in-eve-frontier",
+      "sources": [
+        "Game Developer"
+      ],
+      "reprises": 1,
+      "heures": 11.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/programming/devs-can-now-utilize-high-end-ambient-occlusion-technique-seen-in-eve-frontier",
+          "titre": "Devs can now utilize the high-end ambient occlusion technique seen in EVE: Frontier"
+        }
+      ]
+    },
+    {
+      "id": "trump-praises-jensen-huang-s-reinstatement-as-nvidia-ceo-cal",
+      "titre": "Trump praises Jensen Huang's reinstatement as Nvidia CEO, calls him a 'great patriot and national treasure,' while Musk says 'the mistake has been corrected'",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/trump-praises-jensen-huangs-reinstatement-as-nvidia-ceo-calls-him-a-great-patriot-and-national-treasure-while-musk-says-the-mistake-has-been-corrected/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 11.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/trump-praises-jensen-huangs-reinstatement-as-nvidia-ceo-calls-him-a-great-patriot-and-national-treasure-while-musk-says-the-mistake-has-been-corrected/",
+          "titre": "Trump praises Jensen Huang's reinstatement as Nvidia CEO, calls him a 'great patriot and national treasure,' while Musk says 'the mistake has been corrected'"
+        }
+      ]
+    },
+    {
+      "id": "one-way-to-stave-off-ai-clones-minimise-the-gap-between-anno",
+      "titre": "One way to stave off AI clones? Minimise the gap between announcement and launch",
+      "url": "https://www.gamesindustry.biz/one-way-to-stave-off-ai-clones-minimise-the-gap-between-announcement-and-launch",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 11.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/one-way-to-stave-off-ai-clones-minimise-the-gap-between-announcement-and-launch",
+          "titre": "One way to stave off AI clones? Minimise the gap between announcement and launch"
+        }
+      ]
+    },
+    {
+      "id": "ps5-s-ultimate-cosy-game-infinity-nikki-is-adding-a-cute-lit",
+      "titre": "PS5's Ultimate Cosy Game Infinity Nikki Is Adding a Cute Little Car",
+      "url": "https://www.pushsquare.com/news/2026/11/ps5s-ultimate-cosy-game-infinity-nikki-is-adding-a-cute-little-car",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 11.9,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/ps5s-ultimate-cosy-game-infinity-nikki-is-adding-a-cute-little-car",
+          "titre": "PS5's Ultimate Cosy Game Infinity Nikki Is Adding a Cute Little Car"
+        }
+      ]
+    },
+    {
+      "id": "rumour-la-noire-2-is-rockstar-s-next-game",
+      "titre": "Rumour: LA Noire 2 Is Rockstar's Next Game",
+      "url": "https://www.pushsquare.com/news/2026/11/rumour-la-noire-2-is-rockstars-next-game",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 12.9,
       "chaleur": 3,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/fatal-fury-city-of-the-wolves-adds-laocorn-from-the-motion-picture",
-          "titre": "Fatal Fury: City Of The Wolves Adds Laocorn From The Motion Picture"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/rumour-la-noire-2-is-rockstars-next-game",
+          "titre": "Rumour: LA Noire 2 Is Rockstar's Next Game"
         }
       ]
     }
   ],
   "alertes": [
-    "Undisclosed AI-generated music pulled from The Binding of Isaac Repentance+ update, as attempt to get satirical on GTA 6 launch day goes awry"
+    "Trump claims credit for Jensen Huang's return to Nvidia, posts meme depicting Huang holding up a bra victoriously",
+    "GTA 6 Is 'Probably the Greatest Artistic Achievement in History', Says Cyberpunk 2 Director",
+    "GTA 6 Officially the 'Biggest Launch in PlayStation History' with Over 39 Million Players"
   ]
 };
