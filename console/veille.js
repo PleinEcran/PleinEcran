@@ -1,35 +1,185 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "24/11/2026 à 14h45",
+  "collecte": "25/11/2026 à 00h33",
   "seuil": 14,
   "sujets": [
     {
-      "id": "the-torch-passes-to-the-open-source-recomp-and-emulation-pr",
-      "titre": "\"The torch passes to the open source recomp and emulation projects\": GTA 6 leaker Cyberleek claims to have released crimsim's Xbox executable and denies crypto grifting",
-      "url": "https://www.rockpapershotgun.com/the-torch-passes-to-the-open-source-recomp-and-emulation-projects-gta-6-leaker-cyberleek-claims-to-have-released-crimsims-xbox-executable-and-denies-crypto-grifting",
+      "id": "the-difference-between-the-witcher-3-and-witcher-4-will-be-c",
+      "titre": "The difference between The Witcher 3 and Witcher 4 will be 'comparable' to that of GTA 5 and GTA 6, CD Projekt boss says: 'I mean, it's been 11 years'",
+      "url": "https://www.pcgamer.com/games/the-witcher/the-difference-between-the-witcher-3-and-witcher-4-will-be-comparable-to-that-of-gta-5-and-gta-6-cd-projekt-boss-says-i-mean-its-been-11-years/",
       "sources": [
         "Eurogamer",
-        "GamesIndustry.biz",
-        "Rock Paper Shotgun"
+        "PC Gamer",
+        "Push Square",
+        "VGC"
       ],
-      "reprises": 3,
-      "heures": 3.1,
-      "chaleur": 17,
+      "reprises": 4,
+      "heures": 1.5,
+      "chaleur": 18,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-torch-passes-to-the-open-source-recomp-and-emulation-projects-gta-6-leaker-cyberleek-claims-to-have-released-crimsims-xbox-executable-and-denies-crypto-grifting",
-          "titre": "\"The torch passes to the open source recomp and emulation projects\": GTA 6 leaker Cyberleek claims to have released crimsim's Xbox executable and denies crypto grifting"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-witcher/the-difference-between-the-witcher-3-and-witcher-4-will-be-comparable-to-that-of-gta-5-and-gta-6-cd-projekt-boss-says-i-mean-its-been-11-years/",
+          "titre": "The difference between The Witcher 3 and Witcher 4 will be 'comparable' to that of GTA 5 and GTA 6, CD Projekt boss says: 'I mean, it's been 11 years'"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/cdpr-claims-leap-to-witcher-4-is-comparable-to-leap-from-gta-5-to-gta-6/",
+          "titre": "CDPR claims leap to Witcher 4 is ‘comparable’ to leap from GTA 5 to GTA 6"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/sony-will-support-the-witcher-4s-marketing-much-like-gta-6",
+          "titre": "Sony Will Support The Witcher 4's Marketing, Much Like GTA 6"
         },
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-cyberleek-leaked-xbox-build-ported-pc",
-          "titre": "Modders already have GTA 6 running on PC, after CyberLeek released a full Xbox build of the game"
+          "url": "https://www.eurogamer.net/cd-projekt-red-cdpr-witcher-3-4-gta-5-6",
+          "titre": "You can expect a similar leap between The Witcher 3 and The Witcher 4 as there is between GTA 5 and GTA 6, CD Projekt Red says"
+        }
+      ]
+    },
+    {
+      "id": "ps5-rpg-lords-of-the-fallen-2-locks-on-to-april-2027-release",
+      "titre": "PS5 RPG Lords of the Fallen 2 Locks on to April 2027 Release Date Following Lengthy Delay",
+      "url": "https://www.pushsquare.com/news/2026/11/ps5-rpg-lords-of-the-fallen-2-locks-on-to-april-2027-release-date-following-lengthy-delay",
+      "sources": [
+        "Eurogamer",
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 0.6,
+      "chaleur": 17,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/ps5-rpg-lords-of-the-fallen-2-locks-on-to-april-2027-release-date-following-lengthy-delay",
+          "titre": "PS5 RPG Lords of the Fallen 2 Locks on to April 2027 Release Date Following Lengthy Delay"
         },
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/gta-6-leaker-reportedly-releases-file-needed-to-run-leaked-xbox-build",
-          "titre": "GTA 6 leaker reportedly releases file needed to run leaked Xbox build"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/lords-of-the-fallen-2-delayed-april-2027",
+          "titre": "Lords of the Fallen 2 delayed to April 2027, exact release date coming next month"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/official-gta-6-trading-cards-are-coming-next-month/",
+          "titre": "Official GTA 6 trading cards are coming next month"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-safe-word-mission-walkthrough-how-to-steal-the-practic",
+      "titre": "GTA 6 Safe Word Mission Walkthrough: How to Steal the Practice Safe",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-safe-word-mission-walkthrough-how-to-steal-the-practice-safe/",
+      "sources": [
+        "PC Gamer",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 2.3,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-safe-word-mission-walkthrough-how-to-steal-the-practice-safe/",
+          "titre": "GTA 6 Safe Word Mission Walkthrough: How to Steal the Practice Safe"
+        },
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-ocelot-bloodless-jugular-location/",
+          "titre": "How to steal the Ocelot Bloodless Jugular in GTA 6"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-has-more-framerate-drops-on-ps5-than-xbox-series-x-acc",
+      "titre": "GTA 6 has more framerate drops on PS5 than Xbox Series X, according to analysis",
+      "url": "https://www.videogameschronicle.com/news/gta-6-has-more-framerate-drops-on-ps5-than-xbox-series-x-according-to-analysis/",
+      "sources": [
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 2.7,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/gta-6-has-more-framerate-drops-on-ps5-than-xbox-series-x-according-to-analysis/",
+          "titre": "GTA 6 has more framerate drops on PS5 than Xbox Series X, according to analysis"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-performs-better-on-xbox-series-x-than-base-ps5-despite-all-of-sonys-marketing",
+          "titre": "GTA 6 Performs Better on Xbox Series X Than Base PS5, Despite All of Sony's Marketing"
+        }
+      ]
+    },
+    {
+      "id": "the-race-to-port-gta-6-to-pc-explained",
+      "titre": "The race to port GTA 6 to PC, explained",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-recomp-explained/",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 2.8,
+      "chaleur": 12,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-recomp-explained/",
+          "titre": "The race to port GTA 6 to PC, explained"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/grand-theft-auto-6-project-leonida-discord-github-vanish",
+          "titre": "Unofficial GTA 6 PC port effort suffers setback as Rockstar seemingly takes down Project Leonida, one of the internet's biggest recompilation projects"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-full-vice-city-retro-easter-egg-walkthrough-all-reward",
+      "titre": "GTA 6: Full Vice City retro easter egg walkthrough, all rewards",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-vice-city-retro-easter-egg-walkthrough-rewards/",
+      "sources": [
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 5.0,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-vice-city-retro-easter-egg-walkthrough-rewards/",
+          "titre": "GTA 6: Full Vice City retro easter egg walkthrough, all rewards"
+        },
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/guides/gta-6-vice-city-easter-egg-walkthrough",
+          "titre": "Guide: GTA 6: Vice City Easter Egg Walkthrough & Tommy Vercetti Shirt Unlock"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-chapter-5-mission-list-every-mission-in-order-point-of",
+      "titre": "GTA 6 Chapter 5 Mission List: Every Mission in Order & Point Of No Return",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-chapter-5-mission-list-every-mission-in-order-point-of-no-return/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 3.4,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-chapter-5-mission-list-every-mission-in-order-point-of-no-return/",
+          "titre": "GTA 6 Chapter 5 Mission List: Every Mission in Order & Point Of No Return"
         }
       ]
     },
@@ -39,12 +189,11 @@ const VEILLE = {
       "url": "https://www.gamesindustry.biz/gta-6-was-the-biggest-launch-in-playstation-history-with-the-highest-number-of-concurrent-players-ever",
       "sources": [
         "GamesIndustry.biz",
-        "Push Square",
-        "VGC"
+        "Push Square"
       ],
-      "reprises": 3,
-      "heures": 3.0,
-      "chaleur": 15,
+      "reprises": 2,
+      "heures": 12.8,
+      "chaleur": 9,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -55,35 +204,6 @@ const VEILLE = {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/11/gta-6-officially-the-biggest-launch-in-playstation-history-with-over-39-million-players",
           "titre": "GTA 6 Officially the 'Biggest Launch in PlayStation History' with Over 39 Million Players"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/gta-6-was-the-biggest-launch-in-playstation-history-with-over-39-million-players/",
-          "titre": "GTA 6 was the ‘biggest launch in PlayStation history’ with over 39 million players"
-        }
-      ]
-    },
-    {
-      "id": "guide-gta-6-vice-city-easter-egg-walkthrough-tommy-vercetti",
-      "titre": "Guide: GTA 6: Vice City Easter Egg Walkthrough & Tommy Vercetti Shirt Unlock",
-      "url": "https://www.pushsquare.com/guides/gta-6-vice-city-easter-egg-walkthrough",
-      "sources": [
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 1.3,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/guides/gta-6-vice-city-easter-egg-walkthrough",
-          "titre": "Guide: GTA 6: Vice City Easter Egg Walkthrough & Tommy Vercetti Shirt Unlock"
-        },
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/gta-6-credit-check-walkthrough/",
-          "titre": "GTA 6 Credit Check mission walkthrough"
         }
       ]
     },
@@ -94,22 +214,16 @@ const VEILLE = {
       "sources": [
         "Game Developer",
         "GamesIndustry.biz",
-        "Nintendo Life",
-        "Rock Paper Shotgun"
+        "Nintendo Life"
       ],
-      "reprises": 4,
-      "heures": 17.6,
-      "chaleur": 12,
+      "reprises": 3,
+      "heures": 27.4,
+      "chaleur": 9,
       "liens": [
         {
           "source": "Game Developer",
           "url": "https://www.gamedeveloper.com/business/nvidia-reinstates-jensen-huang-as-ceo",
           "titre": "Nvidia reinstates Jensen Huang as CEO weeks after his resignation"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/nvidia-reinstate-jensen-huang-as-ceo-following-alleged-affairs-as-us-government-support-renders-please-give-me-my-job-back-go-usa-a-highly-persuasive-plea",
-          "titre": "Nvidia reinstate Jensen Huang as CEO following alleged affairs, as US government support renders 'please give me my job back, go USA' a highly persuasive plea"
         },
         {
           "source": "GamesIndustry.biz",
@@ -124,50 +238,224 @@ const VEILLE = {
       ]
     },
     {
-      "id": "cyberpunk-2-creative-director-jokes-that-he-s-cancelling-the",
-      "titre": "Cyberpunk 2 creative director jokes that he’s cancelling the game after playing GTA 6",
-      "url": "https://www.videogameschronicle.com/news/cyberpunk-2-creative-director-jokes-that-hes-cancelling-the-game-after-playing-gta-6/",
+      "id": "gta-6-leaker-reportedly-releases-file-needed-to-run-leaked-x",
+      "titre": "GTA 6 leaker reportedly releases file needed to run leaked Xbox build",
+      "url": "https://www.gamesindustry.biz/gta-6-leaker-reportedly-releases-file-needed-to-run-leaked-xbox-build",
       "sources": [
-        "Push Square",
-        "VGC"
+        "GamesIndustry.biz"
       ],
-      "reprises": 2,
-      "heures": 4.2,
-      "chaleur": 10,
+      "reprises": 1,
+      "heures": 28.8,
+      "chaleur": 8,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/cyberpunk-2-creative-director-jokes-that-hes-cancelling-the-game-after-playing-gta-6/",
-          "titre": "Cyberpunk 2 creative director jokes that he’s cancelling the game after playing GTA 6"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/gta-6-is-probably-the-greatest-artistic-achievement-in-history-says-cyberpunk-2-director",
-          "titre": "GTA 6 Is 'Probably the Greatest Artistic Achievement in History', Says Cyberpunk 2 Director"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/gta-6-leaker-reportedly-releases-file-needed-to-run-leaked-xbox-build",
+          "titre": "GTA 6 leaker reportedly releases file needed to run leaked Xbox build"
         }
       ]
     },
     {
-      "id": "wave-race-blue-storm-is-the-12th-gamecube-game-to-be-added-t",
-      "titre": "Wave Race Blue Storm is the 12th GameCube game to be added to Switch Online’s library",
-      "url": "https://www.videogameschronicle.com/news/wave-race-blue-storm-is-the-12th-gamecube-game-to-be-added-to-switch-onlines-library/",
+      "id": "best-unique-weapons-to-grab-early-in-gta-6-get-yourself-some",
+      "titre": "Best unique weapons to grab early in GTA 6: Get yourself some silenced weapons without the price tag",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-unique-weapons/",
       "sources": [
-        "Nintendo Life",
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 4.3,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-unique-weapons/",
+          "titre": "Best unique weapons to grab early in GTA 6: Get yourself some silenced weapons without the price tag"
+        }
+      ]
+    },
+    {
+      "id": "grand-theft-auto-6-complete-walkthrough-hub",
+      "titre": "Grand Theft Auto 6 complete walkthrough hub",
+      "url": "https://www.videogameschronicle.com/guide/grand-theft-auto-6-complete-walkthrough-hub/",
+      "sources": [
+        "Game Developer",
         "VGC"
       ],
       "reprises": 2,
-      "heures": 5.2,
-      "chaleur": 10,
+      "heures": 5.6,
+      "chaleur": 7,
       "liens": [
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/wave-race-blue-storm-is-the-12th-gamecube-game-to-be-added-to-switch-onlines-library/",
-          "titre": "Wave Race Blue Storm is the 12th GameCube game to be added to Switch Online’s library"
+          "url": "https://www.videogameschronicle.com/guide/grand-theft-auto-6-complete-walkthrough-hub/",
+          "titre": "Grand Theft Auto 6 complete walkthrough hub"
         },
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/nintendo-expands-switch-2s-gamecube-library-with-another-game-this-week",
-          "titre": "Nintendo Expands Switch 2's GameCube Library With Another Game This Week"
+          "source": "Game Developer",
+          "url": "https://www.gamedeveloper.com/design/grand-theft-auto-vi-and-world-of-warcraft-forever-show-that-mundanity-is-having-a-moment",
+          "titre": "Opinion: Grand Theft Auto VI and World of Warcraft: Forever show that mundanity is having a moment"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-launch-knocked-call-of-duty-s-daily-players-down-42-pe",
+      "titre": "GTA 6 launch knocked Call of Duty's daily players down 42 percent, Alinea estimates",
+      "url": "https://www.eurogamer.net/gta-6-call-of-duty-fortnite-fc-27-daily-players-alinea",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 6.6,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-call-of-duty-fortnite-fc-27-daily-players-alinea",
+          "titre": "GTA 6 launch knocked Call of Duty's daily players down 42 percent, Alinea estimates"
+        }
+      ]
+    },
+    {
+      "id": "that-philosophy-has-not-changed-for-us-because-of-gta-6-cd",
+      "titre": "\"That philosophy has not changed for us because of GTA 6\": CD Projekt Red are staying the course on The Witcher 4 and Cyberpunk 2 after Rockstar's smash success",
+      "url": "https://www.rockpapershotgun.com/that-philosophy-has-not-changed-for-us-because-of-gta-6-cd-projekt-red-are-staying-the-course-on-the-witcher-4-and-cyberpunk-2-after-rockstars-smash-success",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 6.7,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/that-philosophy-has-not-changed-for-us-because-of-gta-6-cd-projekt-red-are-staying-the-course-on-the-witcher-4-and-cyberpunk-2-after-rockstars-smash-success",
+          "titre": "\"That philosophy has not changed for us because of GTA 6\": CD Projekt Red are staying the course on The Witcher 4 and Cyberpunk 2 after Rockstar's smash success"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-recomp-leaders-bail-out-as-take-two-cracks-down-on-ill",
+      "titre": "GTA 6 recomp leaders bail out as Take-Two cracks down on illicit efforts to get the game running on PC",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-recomp-leaders-bail-out-as-take-two-cracks-down-on-illicit-efforts-to-get-the-game-running-on-pc/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.9,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-recomp-leaders-bail-out-as-take-two-cracks-down-on-illicit-efforts-to-get-the-game-running-on-pc/",
+          "titre": "GTA 6 recomp leaders bail out as Take-Two cracks down on illicit efforts to get the game running on PC"
+        }
+      ]
+    },
+    {
+      "id": "ex-respawn-studio-gravity-well-announces-hibernation-followi",
+      "titre": "Ex-Respawn studio Gravity Well announces \"hibernation\" following previous failure to secure funding and layoffs, but insists \"we still believe in the IP and game we were building\"",
+      "url": "https://www.rockpapershotgun.com/ex-respawn-studio-gravity-well-announces-hibernation-following-previous-failure-to-secure-funding-and-layoffs-but-insists-we-still-believe-in-the-ip-and-game-we-were-building",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 7.5,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/ex-respawn-studio-gravity-well-announces-hibernation-following-previous-failure-to-secure-funding-and-layoffs-but-insists-we-still-believe-in-the-ip-and-game-we-were-building",
+          "titre": "Ex-Respawn studio Gravity Well announces \"hibernation\" following previous failure to secure funding and layoffs, but insists \"we still believe in the IP and game we were building\""
+        }
+      ]
+    },
+    {
+      "id": "gta-6-is-great-because-of-all-its-murderous-npcs-not-in-spit",
+      "titre": "GTA 6 is great because of all its murderous NPCs, not in spite of them",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-is-great-because-of-all-its-murderous-npcs-not-in-spite-of-them/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 7.9,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-is-great-because-of-all-its-murderous-npcs-not-in-spite-of-them/",
+          "titre": "GTA 6 is great because of all its murderous NPCs, not in spite of them"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-players-are-discovering-who-needs-a-gun-when-it-s-easi",
+      "titre": "GTA 6 players are discovering, who needs a gun when it's easier to rob a store with a crate of beer?",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-beer-robberies",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 8.0,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/grand-theft-auto-6-beer-robberies",
+          "titre": "GTA 6 players are discovering, who needs a gun when it's easier to rob a store with a crate of beer?"
+        }
+      ]
+    },
+    {
+      "id": "all-gta-6-kitty-litter-lab-locations",
+      "titre": "All GTA 6 Kitty Litter lab locations",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-kitty-litter-lab-locations/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 8.1,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-kitty-litter-lab-locations/",
+          "titre": "All GTA 6 Kitty Litter lab locations"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-might-play-best-when-it-hits-pc-but-it-ll-be-best-play",
+      "titre": "GTA 6 might play best when it hits PC, but it'll be best played with a controller",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-might-play-best-when-it-hits-pc-but-itll-be-best-played-with-a-controller/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 8.7,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-might-play-best-when-it-hits-pc-but-itll-be-best-played-with-a-controller/",
+          "titre": "GTA 6 might play best when it hits PC, but it'll be best played with a controller"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-fashion-is-taking-social-media-by-storm",
+      "titre": "GTA 6 Fashion Is Taking Social Media by Storm",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6-fashion-is-taking-social-media-by-storm",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 9.6,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-fashion-is-taking-social-media-by-storm",
+          "titre": "GTA 6 Fashion Is Taking Social Media by Storm"
         }
       ]
     },
@@ -179,8 +467,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 0.7,
-      "chaleur": 9,
+      "heures": 10.5,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Eurogamer",
@@ -190,80 +478,200 @@ const VEILLE = {
       ]
     },
     {
-      "id": "unofficial-gta-6-pc-port-effort-suffers-setback-as-rockstar",
-      "titre": "Unofficial GTA 6 PC port effort suffers setback as Rockstar seemingly takes down Project Leonida, one of the internet's biggest recompilation projects",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-project-leonida-discord-github-vanish",
+      "id": "microsoft-reportedly-looked-into-killing-paid-multiplayer-fo",
+      "titre": "Microsoft reportedly looked into killing paid multiplayer for next-gen Xbox Helix consoles",
+      "url": "https://www.eurogamer.net/xbox-live-helix-killing-paid-membership",
       "sources": [
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 1.1,
-      "chaleur": 9,
+      "heures": 14.5,
+      "chaleur": 7,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/grand-theft-auto-6-project-leonida-discord-github-vanish",
-          "titre": "Unofficial GTA 6 PC port effort suffers setback as Rockstar seemingly takes down Project Leonida, one of the internet's biggest recompilation projects"
+          "url": "https://www.eurogamer.net/xbox-live-helix-killing-paid-membership",
+          "titre": "Microsoft reportedly looked into killing paid multiplayer for next-gen Xbox Helix consoles"
         }
       ]
     },
     {
-      "id": "gta-6-players-are-already-starting-to-get-very-good-at-heist",
-      "titre": "GTA 6 players are already starting to get very good at heists, despite all the new challenges Rockstar has added to the game",
-      "url": "https://www.eurogamer.net/gta-6-players-getting-very-good-at-heists-despite-challenges",
+      "id": "i-m-not-smart-enough-for-the-blocky-factorio-esque-spaceship",
+      "titre": "I'm not smart enough for the blocky, Factorio-esque spaceship and -station building sim Astario, but now that it's out in early access maybe you could be",
+      "url": "https://www.rockpapershotgun.com/im-not-smart-enough-for-the-blocky-factorio-esque-spaceship-and-station-building-sim-astario-but-now-that-its-out-in-early-access-maybe-you-could-be",
       "sources": [
-        "Eurogamer"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 9,
+      "heures": 1.7,
+      "chaleur": 6,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-players-getting-very-good-at-heists-despite-challenges",
-          "titre": "GTA 6 players are already starting to get very good at heists, despite all the new challenges Rockstar has added to the game"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/im-not-smart-enough-for-the-blocky-factorio-esque-spaceship-and-station-building-sim-astario-but-now-that-its-out-in-early-access-maybe-you-could-be",
+          "titre": "I'm not smart enough for the blocky, Factorio-esque spaceship and -station building sim Astario, but now that it's out in early access maybe you could be"
         }
       ]
     },
     {
-      "id": "gta-6-where-to-find-the-mario-luigi-hats",
-      "titre": "GTA 6: Where to find the Mario & Luigi hats",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-where-to-find-the-mario-luigi-hats/",
+      "id": "cyberpunk-2-s-development-team-has-grown-with-plans-to-get-e",
+      "titre": "Cyberpunk 2’s development team has grown, with plans to get even bigger next year",
+      "url": "https://www.videogameschronicle.com/news/cyberpunk-2s-development-team-has-grown-with-plans-to-get-even-bigger-next-year/",
       "sources": [
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.0,
-      "chaleur": 9,
+      "heures": 2.3,
+      "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/gta-6-where-to-find-the-mario-luigi-hats/",
-          "titre": "GTA 6: Where to find the Mario & Luigi hats"
+          "url": "https://www.videogameschronicle.com/news/cyberpunk-2s-development-team-has-grown-with-plans-to-get-even-bigger-next-year/",
+          "titre": "Cyberpunk 2’s development team has grown, with plans to get even bigger next year"
         }
       ]
     },
     {
-      "id": "nicalis-removes-ai-generated-music-from-the-binding-of-isaac",
-      "titre": "Nicalis removes AI-generated music from The Binding of Isaac: Repentance+ after player backlash",
-      "url": "https://www.gamesindustry.biz/nicalis-removes-ai-generated-music-from-the-binding-of-isaac-repentance-after-player-backlash",
+      "id": "nvidia-patch-finally-eradicates-the-ssd-hammering-bug-its-la",
+      "titre": "Nvidia patch finally eradicates the SSD-hammering bug its last hotfix didn't actually fix",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-patch-finally-eradicates-the-ssd-hammering-bug-its-last-hotfix-didnt-actually-fix/",
       "sources": [
-        "GamesIndustry.biz",
-        "Rock Paper Shotgun"
+        "PC Gamer"
       ],
-      "reprises": 2,
-      "heures": 17.8,
-      "chaleur": 9,
+      "reprises": 1,
+      "heures": 2.5,
+      "chaleur": 6,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/nicalis-removes-ai-generated-music-from-the-binding-of-isaac-repentance-after-player-backlash",
-          "titre": "Nicalis removes AI-generated music from The Binding of Isaac: Repentance+ after player backlash"
-        },
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-patch-finally-eradicates-the-ssd-hammering-bug-its-last-hotfix-didnt-actually-fix/",
+          "titre": "Nvidia patch finally eradicates the SSD-hammering bug its last hotfix didn't actually fix"
+        }
+      ]
+    },
+    {
+      "id": "fan-favorite-diablo-2-anniversary-bosses-and-items-won-t-dis",
+      "titre": "Fan-favorite Diablo 2 anniversary bosses and items won't disappear when Diablo 4's next season starts",
+      "url": "https://www.pcgamer.com/games/rpg/fan-favorite-diablo-2-anniversary-bosses-and-items-wont-disappear-when-diablo-4s-next-season-starts/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 2.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/fan-favorite-diablo-2-anniversary-bosses-and-items-wont-disappear-when-diablo-4s-next-season-starts/",
+          "titre": "Fan-favorite Diablo 2 anniversary bosses and items won't disappear when Diablo 4's next season starts"
+        }
+      ]
+    },
+    {
+      "id": "bitmap-brothers-iconic-robotic-rts-game-z-is-unofficially-ba",
+      "titre": "Bitmap Brothers' iconic, robotic RTS game Z is unofficially back thanks to an open source, 3D remake",
+      "url": "https://www.rockpapershotgun.com/bitmap-brothers-iconic-robotic-rts-game-z-is-unofficially-back-thanks-to-an-open-source-3d-remake",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 3.0,
+      "chaleur": 6,
+      "liens": [
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/undisclosed-ai-generated-music-pulled-from-the-binding-of-isaac-repentance-update-as-attempt-to-get-satirical-on-gta-6-launch-day-goes-awry",
-          "titre": "Undisclosed AI-generated music pulled from The Binding of Isaac Repentance+ update, as attempt to get satirical on GTA 6 launch day goes awry"
+          "url": "https://www.rockpapershotgun.com/bitmap-brothers-iconic-robotic-rts-game-z-is-unofficially-back-thanks-to-an-open-source-3d-remake",
+          "titre": "Bitmap Brothers' iconic, robotic RTS game Z is unofficially back thanks to an open source, 3D remake"
+        }
+      ]
+    },
+    {
+      "id": "marathon-s-new-runner-shell-is-a-jet-propelled-robot-samurai",
+      "titre": "Marathon's new runner shell is a jet-propelled robot samurai who wants to hurt you",
+      "url": "https://www.pcgamer.com/games/fps/marathons-new-runner-shell-is-a-jet-propelled-robot-samurai-who-wants-to-hurt-you/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 3.1,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/marathons-new-runner-shell-is-a-jet-propelled-robot-samurai-who-wants-to-hurt-you/",
+          "titre": "Marathon's new runner shell is a jet-propelled robot samurai who wants to hurt you"
+        }
+      ]
+    },
+    {
+      "id": "an-among-us-player-and-his-mom-helped-rescue-a-kidnapped-gir",
+      "titre": "An Among Us player and his mom helped rescue a kidnapped girl who'd been missing for more than a year",
+      "url": "https://www.pcgamer.com/games/an-among-us-player-and-his-mom-helped-rescue-a-kidnapped-girl-whod-been-missing-for-more-than-a-year/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 3.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/an-among-us-player-and-his-mom-helped-rescue-a-kidnapped-girl-whod-been-missing-for-more-than-a-year/",
+          "titre": "An Among Us player and his mom helped rescue a kidnapped girl who'd been missing for more than a year"
+        }
+      ]
+    },
+    {
+      "id": "the-steam-awards-turn-10-with-throwback-categories-and-a-gam",
+      "titre": "The Steam Awards turn 10 with throwback categories and a Game of the Year Hall of Fame",
+      "url": "https://www.eurogamer.net/steam-awards-2026-nominations-open-hall-of-fame",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 5.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/steam-awards-2026-nominations-open-hall-of-fame",
+          "titre": "The Steam Awards turn 10 with throwback categories and a Game of the Year Hall of Fame"
+        }
+      ]
+    },
+    {
+      "id": "valve-push-on-with-their-steam-improvements-by-revamping-the",
+      "titre": "Valve push on with their Steam improvements by revamping the Community Market home page and adding a watchlist to it so you're bookmarks will be a lot lighter",
+      "url": "https://www.rockpapershotgun.com/valve-push-on-with-their-steam-improvements-by-revamping-the-community-market-home-page-and-adding-a-watchlist-to-it-so-youre-bookmarks-will-be-a-lot-lighter",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 7.0,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/valve-push-on-with-their-steam-improvements-by-revamping-the-community-market-home-page-and-adding-a-watchlist-to-it-so-youre-bookmarks-will-be-a-lot-lighter",
+          "titre": "Valve push on with their Steam improvements by revamping the Community Market home page and adding a watchlist to it so you're bookmarks will be a lot lighter"
+        }
+      ]
+    },
+    {
+      "id": "we-re-giving-away-warhammer-40-000-dawn-of-war-4-commander-e",
+      "titre": "We're giving away Warhammer 40,000: Dawn of War 4 Commander Edition Steam codes",
+      "url": "https://www.pcgamer.com/games/rts/were-giving-away-warhammer-40-000-dawn-of-war-4-commander-edition-steam-codes/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 7.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rts/were-giving-away-warhammer-40-000-dawn-of-war-4-commander-edition-steam-codes/",
+          "titre": "We're giving away Warhammer 40,000: Dawn of War 4 Commander Edition Steam codes"
         }
       ]
     },
@@ -275,8 +683,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 0.8,
-      "chaleur": 8,
+      "heures": 10.6,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -293,8 +701,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 0.9,
-      "chaleur": 8,
+      "heures": 10.7,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -304,20 +712,38 @@ const VEILLE = {
       ]
     },
     {
-      "id": "microsoft-reportedly-looked-into-killing-paid-multiplayer-fo",
-      "titre": "Microsoft reportedly looked into killing paid multiplayer for next-gen Xbox Helix consoles",
-      "url": "https://www.eurogamer.net/xbox-live-helix-killing-paid-membership",
+      "id": "gta-6-players-are-already-starting-to-get-very-good-at-heist",
+      "titre": "GTA 6 players are already starting to get very good at heists, despite all the new challenges Rockstar has added to the game",
+      "url": "https://www.eurogamer.net/gta-6-players-getting-very-good-at-heists-despite-challenges",
       "sources": [
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.7,
-      "chaleur": 8,
+      "heures": 12.8,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/xbox-live-helix-killing-paid-membership",
-          "titre": "Microsoft reportedly looked into killing paid multiplayer for next-gen Xbox Helix consoles"
+          "url": "https://www.eurogamer.net/gta-6-players-getting-very-good-at-heists-despite-challenges",
+          "titre": "GTA 6 players are already starting to get very good at heists, despite all the new challenges Rockstar has added to the game"
+        }
+      ]
+    },
+    {
+      "id": "the-torch-passes-to-the-open-source-recomp-and-emulation-pr",
+      "titre": "\"The torch passes to the open source recomp and emulation projects\": GTA 6 leaker Cyberleek claims to have released crimsim's Xbox executable and denies crypto grifting",
+      "url": "https://www.rockpapershotgun.com/the-torch-passes-to-the-open-source-recomp-and-emulation-projects-gta-6-leaker-cyberleek-claims-to-have-released-crimsims-xbox-executable-and-denies-crypto-grifting",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 12.9,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-torch-passes-to-the-open-source-recomp-and-emulation-projects-gta-6-leaker-cyberleek-claims-to-have-released-crimsims-xbox-executable-and-denies-crypto-grifting",
+          "titre": "\"The torch passes to the open source recomp and emulation projects\": GTA 6 leaker Cyberleek claims to have released crimsim's Xbox executable and denies crypto grifting"
         }
       ]
     },
@@ -329,8 +755,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.5,
-      "chaleur": 7,
+      "heures": 14.3,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -347,8 +773,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.6,
-      "chaleur": 7,
+      "heures": 14.4,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
@@ -365,8 +791,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.7,
-      "chaleur": 7,
+      "heures": 14.5,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
@@ -383,8 +809,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.2,
-      "chaleur": 7,
+      "heures": 19.0,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -394,242 +820,74 @@ const VEILLE = {
       ]
     },
     {
-      "id": "god-of-war-laufey-star-will-reprise-role-for-live-action-tv",
-      "titre": "God of War Laufey Star Will Reprise Role for Live-Action TV Show",
-      "url": "https://www.pushsquare.com/news/2026/11/god-of-war-laufey-star-will-reprise-role-for-live-action-tv-show",
-      "sources": [
-        "Eurogamer",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 11.8,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/god-of-war-laufey-star-will-reprise-role-for-live-action-tv-show",
-          "titre": "God of War Laufey Star Will Reprise Role for Live-Action TV Show"
-        },
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/god-of-war-laufey-faye-amazon-series",
-          "titre": "God of War Laufey's Faye actor jumps from games to live-action, as Amazon casts Deborah Ann Woll in upcoming series"
-        }
-      ]
-    },
-    {
-      "id": "as-blizzard-whacks-one-world-of-warcraft-forever-gold-farmin",
-      "titre": "As Blizzard whacks one World of Warcraft: Forever gold farming exploit, it struggles to contain all of the alternatives popping up",
-      "url": "https://www.eurogamer.net/blizzard-world-of-warcraft-forever-gold-exploits",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 0.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/blizzard-world-of-warcraft-forever-gold-exploits",
-          "titre": "As Blizzard whacks one World of Warcraft: Forever gold farming exploit, it struggles to contain all of the alternatives popping up"
-        }
-      ]
-    },
-    {
-      "id": "ace-combat-8-s-online-season-2-adds-new-missions-aircraft-ne",
-      "titre": "Ace Combat 8's Online Season 2 Adds New Missions & Aircraft Next Month on PS5",
-      "url": "https://www.pushsquare.com/news/2026/11/ace-combat-8s-online-season-2-adds-new-missions-and-aircraft-next-month-on-ps5",
+      "id": "gta-6-is-probably-the-greatest-artistic-achievement-in-histo",
+      "titre": "GTA 6 Is 'Probably the Greatest Artistic Achievement in History', Says Cyberpunk 2 Director",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6-is-probably-the-greatest-artistic-achievement-in-history-says-cyberpunk-2-director",
       "sources": [
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 0.3,
+      "heures": 22.6,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/ace-combat-8s-online-season-2-adds-new-missions-and-aircraft-next-month-on-ps5",
-          "titre": "Ace Combat 8's Online Season 2 Adds New Missions & Aircraft Next Month on PS5"
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-is-probably-the-greatest-artistic-achievement-in-history-says-cyberpunk-2-director",
+          "titre": "GTA 6 Is 'Probably the Greatest Artistic Achievement in History', Says Cyberpunk 2 Director"
         }
       ]
     },
     {
-      "id": "hooded-horse-s-latest-tactics-rpg-is-a-sequel-to-symphony-of",
-      "titre": "Hooded Horse's latest tactics RPG is a sequel to Symphony of War, one of 2022's undersung favourites",
-      "url": "https://www.rockpapershotgun.com/hooded-horses-latest-tactics-rpg-is-a-sequel-to-symphony-of-war-one-of-2022s-undersung-favourites",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 0.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/hooded-horses-latest-tactics-rpg-is-a-sequel-to-symphony-of-war-one-of-2022s-undersung-favourites",
-          "titre": "Hooded Horse's latest tactics RPG is a sequel to Symphony of War, one of 2022's undersung favourites"
-        }
-      ]
-    },
-    {
-      "id": "dragon-age-producer-says-bioware-struggled-under-ea-because",
-      "titre": "Dragon Age producer says BioWare struggled under EA because it had to keep choosing ‘the least terrible of the options’",
-      "url": "https://www.videogameschronicle.com/news/dragon-age-producer-says-bioware-struggled-under-ea-because-it-had-to-keep-choosing-the-least-terrible-of-the-options/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 1.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/dragon-age-producer-says-bioware-struggled-under-ea-because-it-had-to-keep-choosing-the-least-terrible-of-the-options/",
-          "titre": "Dragon Age producer says BioWare struggled under EA because it had to keep choosing ‘the least terrible of the options’"
-        }
-      ]
-    },
-    {
-      "id": "gdq-releases-schedule-for-awesome-games-done-quick-2027-in-j",
-      "titre": "GDQ releases schedule for Awesome Games Done Quick 2027 in January, featuring new runs like Queen's Domain, Big Walk, Galactic Racer, and the incongruously not-new Yakuza 5",
-      "url": "https://www.rockpapershotgun.com/gdq-releases-schedule-for-awesome-games-done-quick-2027-in-january-featuring-new-runs-like-queens-domain-big-walk-galactic-racer-and-the-incongruously-not-new-yakuza-5",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 2.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/gdq-releases-schedule-for-awesome-games-done-quick-2027-in-january-featuring-new-runs-like-queens-domain-big-walk-galactic-racer-and-the-incongruously-not-new-yakuza-5",
-          "titre": "GDQ releases schedule for Awesome Games Done Quick 2027 in January, featuring new runs like Queen's Domain, Big Walk, Galactic Racer, and the incongruously not-new Yakuza 5"
-        }
-      ]
-    },
-    {
-      "id": "splitscreen-croatia-conference-offers-free-travel-packages-f",
-      "titre": "Splitscreen Croatia conference offers free travel packages for developers looking to showcase unreleased games to publishers and investors",
-      "url": "https://www.gamesindustry.biz/splitscreen-croatia-conference-offers-free-travel-packages-for-developers-looking-to-showcase-unreleased-games-to-publishers-and-investors",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 2.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/splitscreen-croatia-conference-offers-free-travel-packages-for-developers-looking-to-showcase-unreleased-games-to-publishers-and-investors",
-          "titre": "Splitscreen Croatia conference offers free travel packages for developers looking to showcase unreleased games to publishers and investors"
-        }
-      ]
-    },
-    {
-      "id": "today-is-your-last-chance-to-play-destruction-allstars-on-ps",
-      "titre": "Today Is Your Last Chance to Play Destruction AllStars on PS5",
-      "url": "https://www.pushsquare.com/news/2026/11/today-is-your-last-chance-to-play-destruction-allstars-on-ps5",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/today-is-your-last-chance-to-play-destruction-allstars-on-ps5",
-          "titre": "Today Is Your Last Chance to Play Destruction AllStars on PS5"
-        }
-      ]
-    },
-    {
-      "id": "rockstar-is-actively-shopping-read-dead-redemption-movie-and",
-      "titre": "Rockstar is actively shopping Read Dead Redemption movie and TV rights around, just don't expect the same for Grand Theft Auto",
-      "url": "https://www.eurogamer.net/red-dead-redemption-movie-tv-rights-100-million-usd-no-gta",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/red-dead-redemption-movie-tv-rights-100-million-usd-no-gta",
-          "titre": "Rockstar is actively shopping Read Dead Redemption movie and TV rights around, just don't expect the same for Grand Theft Auto"
-        }
-      ]
-    },
-    {
-      "id": "pok-mon-teams-up-with-casetify-on-a-new-line-of-phone-cases",
-      "titre": "Pokémon Teams Up With Casetify On A New Line Of Phone Cases And Accessories",
-      "url": "https://www.nintendolife.com/news/2026/11/pokemon-teams-up-with-casetify-on-a-new-line-of-phone-cases-and-accessories",
+      "id": "nintendo-expands-switch-2-s-gamecube-library-with-another-ga",
+      "titre": "Nintendo Expands Switch 2's GameCube Library With Another Game This Week",
+      "url": "https://www.nintendolife.com/news/2026/11/nintendo-expands-switch-2s-gamecube-library-with-another-game-this-week",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.0,
+      "heures": 23.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/pokemon-teams-up-with-casetify-on-a-new-line-of-phone-cases-and-accessories",
-          "titre": "Pokémon Teams Up With Casetify On A New Line Of Phone Cases And Accessories"
+          "url": "https://www.nintendolife.com/news/2026/11/nintendo-expands-switch-2s-gamecube-library-with-another-game-this-week",
+          "titre": "Nintendo Expands Switch 2's GameCube Library With Another Game This Week"
         }
       ]
     },
     {
-      "id": "warhammer-40-000-boltgun-2-captures-the-franchise-s-bloody-a",
-      "titre": "Warhammer 40,000: Boltgun 2 captures the franchise's bloody absurdity like nothing else",
-      "url": "https://www.eurogamer.net/warhammer-40000-boltgun-2-now-playing",
+      "id": "gta-6-owners-can-now-stream-the-game-to-ps5-ps-portal-with-p",
+      "titre": "GTA 6 Owners Can Now Stream the Game to PS5, PS Portal with PS Plus Premium",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6-owners-can-now-stream-the-game-to-ps5-ps-portal-with-ps-plus-premium",
       "sources": [
-        "Eurogamer"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 3.2,
+      "heures": 23.6,
       "chaleur": 6,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/warhammer-40000-boltgun-2-now-playing",
-          "titre": "Warhammer 40,000: Boltgun 2 captures the franchise's bloody absurdity like nothing else"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-owners-can-now-stream-the-game-to-ps5-ps-portal-with-ps-plus-premium",
+          "titre": "GTA 6 Owners Can Now Stream the Game to PS5, PS Portal with PS Plus Premium"
         }
       ]
     },
     {
-      "id": "tiny-bookshop-sells-1-million-copies-new-dlc-expansion-annou",
-      "titre": "Tiny Bookshop Sells 1 Million Copies, New DLC Expansion Announced",
-      "url": "https://www.nintendolife.com/news/2026/11/tiny-bookshop-sells-1-million-copies-new-dlc-expansion-announced",
+      "id": "random-gta-6-hides-an-adorable-mario-luigi-easter-egg-in-its",
+      "titre": "Random: GTA 6 Hides An Adorable Mario & Luigi Easter Egg In Its Massive World",
+      "url": "https://www.nintendolife.com/news/2026/11/random-gta-6-hides-an-adorable-mario-and-luigi-easter-egg-in-its-massive-world",
       "sources": [
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 3.8,
+      "heures": 31.3,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/tiny-bookshop-sells-1-million-copies-new-dlc-expansion-announced",
-          "titre": "Tiny Bookshop Sells 1 Million Copies, New DLC Expansion Announced"
-        }
-      ]
-    },
-    {
-      "id": "uk-mobile-developers-can-now-apply-for-their-share-of-a-260",
-      "titre": "UK mobile developers can now apply for their share of a £260 million Google settlement",
-      "url": "https://www.gamesindustry.biz/uk-mobile-developers-can-now-apply-for-their-share-of-a-260-million-google-settlement",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 3.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/uk-mobile-developers-can-now-apply-for-their-share-of-a-260-million-google-settlement",
-          "titre": "UK mobile developers can now apply for their share of a £260 million Google settlement"
+          "url": "https://www.nintendolife.com/news/2026/11/random-gta-6-hides-an-adorable-mario-and-luigi-easter-egg-in-its-massive-world",
+          "titre": "Random: GTA 6 Hides An Adorable Mario & Luigi Easter Egg In Its Massive World"
         }
       ]
     },
@@ -641,8 +899,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 10.7,
-      "chaleur": 6,
+      "heures": 20.5,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -659,175 +917,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 11.7,
-      "chaleur": 6,
+      "heures": 21.5,
+      "chaleur": 5,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/11/psa-you-can-now-turn-off-the-border-graphic-in-switch-onlines-gamecube-app",
           "titre": "PSA: You Can Now Turn Off The Border Graphic In Switch Online's GameCube App"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-car-service-walkthrough-how-to-steal-the-schafter-v12",
-      "titre": "GTA 6 Car Service walkthrough: How to steal the Schafter V12",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-car-service-walkthrough-how-to-steal-the-schafter-v12/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 13.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/gta-6-car-service-walkthrough-how-to-steal-the-schafter-v12/",
-          "titre": "GTA 6 Car Service walkthrough: How to steal the Schafter V12"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-owners-can-now-stream-the-game-to-ps5-ps-portal-with-p",
-      "titre": "GTA 6 Owners Can Now Stream the Game to PS5, PS Portal with PS Plus Premium",
-      "url": "https://www.pushsquare.com/news/2026/11/gta-6-owners-can-now-stream-the-game-to-ps5-ps-portal-with-ps-plus-premium",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 13.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/gta-6-owners-can-now-stream-the-game-to-ps5-ps-portal-with-ps-plus-premium",
-          "titre": "GTA 6 Owners Can Now Stream the Game to PS5, PS Portal with PS Plus Premium"
-        }
-      ]
-    },
-    {
-      "id": "one-of-gta-6-s-most-elaborate-easter-eggs-has-been-solved",
-      "titre": "One of GTA 6’s most elaborate Easter eggs has been solved",
-      "url": "https://www.videogameschronicle.com/news/one-of-gta-6s-most-elaborate-easter-eggs-has-been-solved/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 15.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/one-of-gta-6s-most-elaborate-easter-eggs-has-been-solved/",
-          "titre": "One of GTA 6’s most elaborate Easter eggs has been solved"
-        }
-      ]
-    },
-    {
-      "id": "random-gta-6-hides-an-adorable-mario-luigi-easter-egg-in-its",
-      "titre": "Random: GTA 6 Hides An Adorable Mario & Luigi Easter Egg In Its Massive World",
-      "url": "https://www.nintendolife.com/news/2026/11/random-gta-6-hides-an-adorable-mario-and-luigi-easter-egg-in-its-massive-world",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 21.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/random-gta-6-hides-an-adorable-mario-and-luigi-easter-egg-in-its-massive-world",
-          "titre": "Random: GTA 6 Hides An Adorable Mario & Luigi Easter Egg In Its Massive World"
-        }
-      ]
-    },
-    {
-      "id": "poll-has-gta-6-lived-up-to-the-hype-over-its-first-weekend",
-      "titre": "Poll: Has GTA 6 Lived Up to the Hype Over Its First Weekend?",
-      "url": "https://www.pushsquare.com/features/poll-has-gta-6-lived-up-to-the-hype-over-its-first-weekend",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 21.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/features/poll-has-gta-6-lived-up-to-the-hype-over-its-first-weekend",
-          "titre": "Poll: Has GTA 6 Lived Up to the Hype Over Its First Weekend?"
-        }
-      ]
-    },
-    {
-      "id": "don-t-let-this-happen-again-gta-6-hacker-who-pleaded-guilty",
-      "titre": "\"Don't let this happen again\": GTA 6 hacker who pleaded guilty to 2022 Rockstar Games breach released under supervision",
-      "url": "https://www.rockpapershotgun.com/dont-let-this-happen-again-gta-6-hacker-who-pleaded-guilty-to-2022-rockstar-games-breach-released-under-supervision",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 22.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/dont-let-this-happen-again-gta-6-hacker-who-pleaded-guilty-to-2022-rockstar-games-breach-released-under-supervision",
-          "titre": "\"Don't let this happen again\": GTA 6 hacker who pleaded guilty to 2022 Rockstar Games breach released under supervision"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-just-got-a-patch-that-fixed-a-progression-bug-on-ps5-a",
-      "titre": "GTA 6 just got a patch that fixed a progression bug on PS5 and Xbox Series X/S",
-      "url": "https://www.eurogamer.net/gta-6-xbox-playstation-patch-autosave-vignette",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 23.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-xbox-playstation-patch-autosave-vignette",
-          "titre": "GTA 6 just got a patch that fixed a progression bug on PS5 and Xbox Series X/S"
-        }
-      ]
-    },
-    {
-      "id": "first-gta-6-ps5-patch-live-now-get-all-the-details-here",
-      "titre": "First GTA 6 PS5 Patch Live Now, Get All the Details Here",
-      "url": "https://www.pushsquare.com/news/2026/11/first-gta-6-ps5-patch-live-now-get-all-the-details-here",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 23.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/first-gta-6-ps5-patch-live-now-get-all-the-details-here",
-          "titre": "First GTA 6 PS5 Patch Live Now, Get All the Details Here"
-        }
-      ]
-    },
-    {
-      "id": "how-old-are-gta-6-s-jason-lucia-now-we-officially-know",
-      "titre": "How Old Are GTA 6's Jason & Lucia? Now We Officially Know",
-      "url": "https://www.pushsquare.com/news/2026/11/how-old-are-gta-6s-jason-and-lucia-now-we-officially-know",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 24.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/how-old-are-gta-6s-jason-and-lucia-now-we-officially-know",
-          "titre": "How Old Are GTA 6's Jason & Lucia? Now We Officially Know"
         }
       ]
     },
@@ -839,7 +935,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 12.8,
+      "heures": 22.6,
       "chaleur": 5,
       "liens": [
         {
@@ -857,7 +953,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 24.8,
+      "heures": 34.6,
       "chaleur": 5,
       "liens": [
         {
@@ -868,296 +964,206 @@ const VEILLE = {
       ]
     },
     {
-      "id": "unsettling-silent-hill-inspired-horror-game-confirmed-for-sw",
-      "titre": "Unsettling Silent Hill-Inspired Horror Game Confirmed For Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/11/unsettling-silent-hill-inspired-horror-game-confirmed-for-switch-2",
+      "id": "bare-fist-megastructure-climbing-roguelike-white-knuckle-get",
+      "titre": "Bare fist, megastructure climbing roguelike White Knuckle gets its penultimate region in The Core, a sterile, hostile reactor sector that you'll probably die in",
+      "url": "https://www.rockpapershotgun.com/bare-fist-megastructure-climbing-roguelike-white-knuckle-gets-its-penultimate-region-in-the-core-a-sterile-hostile-reactor-sector-that-youll-probably-die-in",
       "sources": [
-        "Nintendo Life"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 27.0,
-      "chaleur": 5,
+      "heures": 5.4,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/unsettling-silent-hill-inspired-horror-game-confirmed-for-switch-2",
-          "titre": "Unsettling Silent Hill-Inspired Horror Game Confirmed For Switch 2"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/bare-fist-megastructure-climbing-roguelike-white-knuckle-gets-its-penultimate-region-in-the-core-a-sterile-hostile-reactor-sector-that-youll-probably-die-in",
+          "titre": "Bare fist, megastructure climbing roguelike White Knuckle gets its penultimate region in The Core, a sterile, hostile reactor sector that you'll probably die in"
         }
       ]
     },
     {
-      "id": "final-4-ps-plus-extra-games-for-november-2026-available-to-d",
-      "titre": "Final 4 PS Plus Extra Games for November 2026 Available to Download Now",
-      "url": "https://www.pushsquare.com/news/2026/11/final-4-ps-plus-extra-games-for-november-2026-available-to-download-now",
+      "id": "studio-founded-by-former-apex-legends-leaders-is-closing-wit",
+      "titre": "Studio founded by former Apex Legends leaders is closing without releasing a game",
+      "url": "https://www.pcgamer.com/gaming-industry/studio-founded-by-former-apex-legends-leaders-is-closing-without-releasing-a-game/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/studio-founded-by-former-apex-legends-leaders-is-closing-without-releasing-a-game/",
+          "titre": "Studio founded by former Apex Legends leaders is closing without releasing a game"
+        }
+      ]
+    },
+    {
+      "id": "attention-strategy-rpg-sickos-the-fire-emblem-style-game-tha",
+      "titre": "Attention strategy RPG sickos: The Fire-Emblem-style game that captured our hearts 4 years ago is back with a sequel",
+      "url": "https://www.pcgamer.com/games/rpg/attention-strategy-rpg-sickos-the-fire-emblem-style-game-that-captured-our-hearts-4-years-ago-is-back-with-a-sequel/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 7.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/attention-strategy-rpg-sickos-the-fire-emblem-style-game-that-captured-our-hearts-4-years-ago-is-back-with-a-sequel/",
+          "titre": "Attention strategy RPG sickos: The Fire-Emblem-style game that captured our hearts 4 years ago is back with a sequel"
+        }
+      ]
+    },
+    {
+      "id": "you-ve-basically-got-to-wait-an-entire-year-to-play-showa-am",
+      "titre": "You've Basically Got to Wait an Entire Year to Play Showa American Story",
+      "url": "https://www.pushsquare.com/news/2026/11/youve-basically-got-to-wait-an-entire-year-to-play-showa-american-story",
       "sources": [
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 8.1,
       "chaleur": 4,
       "liens": [
         {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/final-4-ps-plus-extra-games-for-november-2026-available-to-download-now",
-          "titre": "Final 4 PS Plus Extra Games for November 2026 Available to Download Now"
+          "url": "https://www.pushsquare.com/news/2026/11/youve-basically-got-to-wait-an-entire-year-to-play-showa-american-story",
+          "titre": "You've Basically Got to Wait an Entire Year to Play Showa American Story"
         }
       ]
     },
     {
-      "id": "deltarune-chapter-6-is-playable-from-the-beginning-to-the-en",
-      "titre": "Deltarune Chapter 6 is playable \"from the beginning to the end,\" Toby Fox says, but the RPG's final part has \"only just started\"",
-      "url": "https://www.eurogamer.net/deltarune-chapter-6-playable-toby-fox",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 18.7,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/deltarune-chapter-6-playable-toby-fox",
-          "titre": "Deltarune Chapter 6 is playable \"from the beginning to the end,\" Toby Fox says, but the RPG's final part has \"only just started\""
-        }
-      ]
-    },
-    {
-      "id": "epic-games-no-longer-plans-to-include-blueprints-or-actor-ga",
-      "titre": "Epic Games no longer plans to include Blueprints or Actor Gameplay Framework in Unreal Engine 6",
-      "url": "https://www.gamedeveloper.com/programming/unreal-engine-6-to-remove-blueprints-and-actor-gameplay-framework-from-the-beginning",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 18.9,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/programming/unreal-engine-6-to-remove-blueprints-and-actor-gameplay-framework-from-the-beginning",
-          "titre": "Epic Games no longer plans to include Blueprints or Actor Gameplay Framework in Unreal Engine 6"
-        }
-      ]
-    },
-    {
-      "id": "activision-calls-banjo-kazooie-one-of-its-iconic-gaming-fran",
-      "titre": "Activision calls Banjo-Kazooie one of its \"iconic gaming franchises,\" raising hopes for long-awaited new game",
-      "url": "https://www.eurogamer.net/activision-banjo-kazooie-iconic-gaming-franchise",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 19.4,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/activision-banjo-kazooie-iconic-gaming-franchise",
-          "titre": "Activision calls Banjo-Kazooie one of its \"iconic gaming franchises,\" raising hopes for long-awaited new game"
-        }
-      ]
-    },
-    {
-      "id": "we-cannot-believe-we-are-reaching-milestones-like-this-quee",
-      "titre": "\"We Cannot Believe We Are Reaching Milestones Like This\" - Queen's Domain Dev Celebrates Opening Sales",
-      "url": "https://www.nintendolife.com/news/2026/11/we-cannot-believe-we-are-reaching-milestones-like-this-queens-domain-dev-celebrates-opening-sales",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 20.0,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/we-cannot-believe-we-are-reaching-milestones-like-this-queens-domain-dev-celebrates-opening-sales",
-          "titre": "\"We Cannot Believe We Are Reaching Milestones Like This\" - Queen's Domain Dev Celebrates Opening Sales"
-        }
-      ]
-    },
-    {
-      "id": "28-years-later-grizzled-xcom-style-ww2-tactics-game-soldiers",
-      "titre": "28 years later, grizzled XCOM-style WW2 tactics game Soldiers at War gets a fresh tour of duty on modern PCs",
-      "url": "https://www.rockpapershotgun.com/28-years-later-grizzled-xcom-style-ww2-tactics-game-soldiers-at-war-gets-a-fresh-tour-of-duty-on-modern-pcs",
+      "id": "it-would-end-up-appealing-to-no-one-the-witcher-4-narrative",
+      "titre": "\"It would end up appealing to no one\": The Witcher 4 narrative leads aren't willing to strip away the series' \"distinct edge\" in the name of chasing a broader audience",
+      "url": "https://www.rockpapershotgun.com/it-would-end-up-appealing-to-no-one-the-witcher-4-narrative-leads-arent-willing-to-strip-away-the-series-distinct-edge-in-the-name-of-chasing-a-broader-audience",
       "sources": [
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 20.6,
-      "chaleur": 3,
+      "heures": 8.3,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/28-years-later-grizzled-xcom-style-ww2-tactics-game-soldiers-at-war-gets-a-fresh-tour-of-duty-on-modern-pcs",
-          "titre": "28 years later, grizzled XCOM-style WW2 tactics game Soldiers at War gets a fresh tour of duty on modern PCs"
+          "url": "https://www.rockpapershotgun.com/it-would-end-up-appealing-to-no-one-the-witcher-4-narrative-leads-arent-willing-to-strip-away-the-series-distinct-edge-in-the-name-of-chasing-a-broader-audience",
+          "titre": "\"It would end up appealing to no one\": The Witcher 4 narrative leads aren't willing to strip away the series' \"distinct edge\" in the name of chasing a broader audience"
         }
       ]
     },
     {
-      "id": "think-you-know-games-that-we-liked-this-year-then-join-the-r",
-      "titre": "Think you know games? That we liked? This year? Then join the RPS Advent Calendar Guessing Game 2026",
-      "url": "https://www.rockpapershotgun.com/rps-advent-calendar-guessing-game-2026",
+      "id": "wuthering-waves-becomes-a-stealth-iron-man-game-in-next-ps5",
+      "titre": "Wuthering Waves Becomes a Stealth Iron Man Game in Next PS5 Update",
+      "url": "https://www.pushsquare.com/news/2026/11/wuthering-waves-becomes-a-stealth-iron-man-game-in-next-ps5-update",
       "sources": [
-        "Rock Paper Shotgun"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 20.7,
-      "chaleur": 3,
+      "heures": 8.6,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/rps-advent-calendar-guessing-game-2026",
-          "titre": "Think you know games? That we liked? This year? Then join the RPS Advent Calendar Guessing Game 2026"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/wuthering-waves-becomes-a-stealth-iron-man-game-in-next-ps5-update",
+          "titre": "Wuthering Waves Becomes a Stealth Iron Man Game in Next PS5 Update"
         }
       ]
     },
     {
-      "id": "opinion-after-finishing-ocarina-of-time-i-m-left-jonesing-fo",
-      "titre": "Opinion: After Finishing Ocarina Of Time, I'm Left Jonesing For A Proper Sequel",
-      "url": "https://www.nintendolife.com/features/opinion-after-finishing-ocarina-of-time-im-left-jonesing-for-a-proper-sequel",
+      "id": "mandalorian-and-han-solo-vehicles-in-star-wars-galactic-race",
+      "titre": "Mandalorian and Han Solo Vehicles in Star Wars: Galactic Racer Next Month",
+      "url": "https://www.pushsquare.com/news/2026/11/mandalorian-and-han-solo-vehicles-in-star-wars-galactic-racer-next-month",
       "sources": [
-        "Nintendo Life"
+        "Push Square"
       ],
       "reprises": 1,
-      "heures": 20.8,
-      "chaleur": 3,
+      "heures": 9.1,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/opinion-after-finishing-ocarina-of-time-im-left-jonesing-for-a-proper-sequel",
-          "titre": "Opinion: After Finishing Ocarina Of Time, I'm Left Jonesing For A Proper Sequel"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/mandalorian-and-han-solo-vehicles-in-star-wars-galactic-racer-next-month",
+          "titre": "Mandalorian and Han Solo Vehicles in Star Wars: Galactic Racer Next Month"
         }
       ]
     },
     {
-      "id": "eu-opens-consultation-on-digital-fairness-act",
-      "titre": "EU opens consultation on Digital Fairness Act",
-      "url": "https://www.gamesindustry.biz/eu-opens-consultation-on-digital-fairness-act",
+      "id": "you-are-still-taking-100-of-the-risk-why-cairn-dev-the-game",
+      "titre": "\"You are still taking 100% of the risk\" – Why Cairn dev The Game Bakers backs self-publishing for all but the smallest developers",
+      "url": "https://www.gamesindustry.biz/you-are-still-taking-100-of-the-risk-why-cairn-dev-the-game-bakers-backs-self-publishing-for-all-but-the-smallest-developers",
       "sources": [
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 21.2,
-      "chaleur": 3,
+      "heures": 9.1,
+      "chaleur": 4,
       "liens": [
         {
           "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/eu-opens-consultation-on-digital-fairness-act",
-          "titre": "EU opens consultation on Digital Fairness Act"
+          "url": "https://www.gamesindustry.biz/you-are-still-taking-100-of-the-risk-why-cairn-dev-the-game-bakers-backs-self-publishing-for-all-but-the-smallest-developers",
+          "titre": "\"You are still taking 100% of the risk\" – Why Cairn dev The Game Bakers backs self-publishing for all but the smallest developers"
         }
       ]
     },
     {
-      "id": "might-and-magic-meets-er-paper-in-sunny-new-rpg-rise-of-fura",
-      "titre": "Might and Magic meets, er, paper in sunny new RPG Rise of Furax, a turn-based island tale that is entirely drawn by hand",
-      "url": "https://www.rockpapershotgun.com/might-and-magic-meets-er-paper-in-sunny-new-rpg-rise-of-furax-a-turn-based-island-tale-that-is-entirely-drawn-by-hand",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 21.3,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/might-and-magic-meets-er-paper-in-sunny-new-rpg-rise-of-furax-a-turn-based-island-tale-that-is-entirely-drawn-by-hand",
-          "titre": "Might and Magic meets, er, paper in sunny new RPG Rise of Furax, a turn-based island tale that is entirely drawn by hand"
-        }
-      ]
-    },
-    {
-      "id": "dawn-of-war-4-s-newest-trailer-teases-the-appearance-of-a-fa",
-      "titre": "Dawn of War 4's newest trailer teases the appearance of a fan-favourite character in the game's post-launch DLC",
-      "url": "https://www.eurogamer.net/dawn-of-war-4-trailer-vashtorr-chaos-tease",
+      "id": "remedy-ceo-praises-rockstar-s-support-for-the-max-payne-1-2",
+      "titre": "Remedy CEO praises Rockstar's support for the Max Payne 1 & 2 remake and respecting Remedy's creative vision",
+      "url": "https://www.eurogamer.net/remedy-max-payne-1-2-remake-rockstar-relationship",
       "sources": [
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 21.6,
-      "chaleur": 3,
+      "heures": 9.4,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/dawn-of-war-4-trailer-vashtorr-chaos-tease",
-          "titre": "Dawn of War 4's newest trailer teases the appearance of a fan-favourite character in the game's post-launch DLC"
+          "url": "https://www.eurogamer.net/remedy-max-payne-1-2-remake-rockstar-relationship",
+          "titre": "Remedy CEO praises Rockstar's support for the Max Payne 1 & 2 remake and respecting Remedy's creative vision"
         }
       ]
     },
     {
-      "id": "finally-some-former-valorant-and-sky-devs-have-answered-the",
-      "titre": "Finally, some former Valorant and Sky devs have answered the call for a Peak-style platformer about throwing a cat through a hole in spacetime",
-      "url": "https://www.rockpapershotgun.com/finally-some-former-valorant-and-sky-devs-have-answered-the-call-for-a-peak-style-platformer-about-throwing-a-cat-through-a-hole-in-spacetime",
+      "id": "game-feel-is-impossible-to-copy-ceo-of-probably-stolen-publ",
+      "titre": "\"Game feel is impossible to copy\": CEO of Probably Stolen publisher tinyBuild says devs \"shouldn't be afraid\" of AI clones",
+      "url": "https://www.rockpapershotgun.com/game-feel-is-impossible-to-copy-ceo-of-probably-stolen-publisher-tinybuild-says-devs-shouldnt-be-afraid-of-ai-clones",
       "sources": [
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 22.6,
-      "chaleur": 3,
+      "heures": 9.5,
+      "chaleur": 4,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/finally-some-former-valorant-and-sky-devs-have-answered-the-call-for-a-peak-style-platformer-about-throwing-a-cat-through-a-hole-in-spacetime",
-          "titre": "Finally, some former Valorant and Sky devs have answered the call for a Peak-style platformer about throwing a cat through a hole in spacetime"
+          "url": "https://www.rockpapershotgun.com/game-feel-is-impossible-to-copy-ceo-of-probably-stolen-publisher-tinybuild-says-devs-shouldnt-be-afraid-of-ai-clones",
+          "titre": "\"Game feel is impossible to copy\": CEO of Probably Stolen publisher tinyBuild says devs \"shouldn't be afraid\" of AI clones"
         }
       ]
     },
     {
-      "id": "this-week-in-pc-games-raise-a-psychedelic-baby-invent-terrib",
-      "titre": "This week in PC games: Raise a psychedelic baby, invent terrible new religions, and run your own PC hardware business",
-      "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-raise-a-psychedelic-baby-invent-terrible-new-religions-and-run-your-own-pc-hardware-business",
+      "id": "the-reason-behind-pok-mon-s-mysterious-social-media-countdow",
+      "titre": "The Reason Behind Pokémon's Mysterious Social Media Countdown Has Been Revealed",
+      "url": "https://www.nintendolife.com/news/2026/11/the-reason-behind-pokemons-mysterious-social-media-countdown-has-been-revealed",
       "sources": [
-        "Rock Paper Shotgun"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 23.0,
-      "chaleur": 3,
+      "heures": 9.8,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-raise-a-psychedelic-baby-invent-terrible-new-religions-and-run-your-own-pc-hardware-business",
-          "titre": "This week in PC games: Raise a psychedelic baby, invent terrible new religions, and run your own PC hardware business"
-        }
-      ]
-    },
-    {
-      "id": "plug-in-digital-acquires-news-tower-publisher-twin-sails-int",
-      "titre": "Plug in Digital acquires News Tower publisher Twin Sails Interactive, creating new publishing group to \"compete in a highly competitive market\"",
-      "url": "https://www.gamesindustry.biz/plug-in-digital-acquires-news-tower-publisher-twin-sails-interactive-creating-new-publishing-group-to-compete-in-a-highly-competitive-market",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 23.5,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/plug-in-digital-acquires-news-tower-publisher-twin-sails-interactive-creating-new-publishing-group-to-compete-in-a-highly-competitive-market",
-          "titre": "Plug in Digital acquires News Tower publisher Twin Sails Interactive, creating new publishing group to \"compete in a highly competitive market\""
-        }
-      ]
-    },
-    {
-      "id": "devs-can-now-utilize-the-high-end-ambient-occlusion-techniqu",
-      "titre": "Devs can now utilize the high-end ambient occlusion technique seen in EVE: Frontier",
-      "url": "https://www.gamedeveloper.com/programming/devs-can-now-utilize-high-end-ambient-occlusion-technique-seen-in-eve-frontier",
-      "sources": [
-        "Game Developer"
-      ],
-      "reprises": 1,
-      "heures": 23.6,
-      "chaleur": 3,
-      "liens": [
-        {
-          "source": "Game Developer",
-          "url": "https://www.gamedeveloper.com/programming/devs-can-now-utilize-high-end-ambient-occlusion-technique-seen-in-eve-frontier",
-          "titre": "Devs can now utilize the high-end ambient occlusion technique seen in EVE: Frontier"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/the-reason-behind-pokemons-mysterious-social-media-countdown-has-been-revealed",
+          "titre": "The Reason Behind Pokémon's Mysterious Social Media Countdown Has Been Revealed"
         }
       ]
     }
   ],
   "alertes": [
-    "\"The torch passes to the open source recomp and emulation projects\": GTA 6 leaker Cyberleek claims to have released crimsim's Xbox executable and denies crypto grifting",
-    "GTA 6 was the \"biggest launch in PlayStation history\", with the highest number of concurrent players ever"
+    "The difference between The Witcher 3 and Witcher 4 will be 'comparable' to that of GTA 5 and GTA 6, CD Projekt boss says: 'I mean, it's been 11 years'",
+    "PS5 RPG Lords of the Fallen 2 Locks on to April 2027 Release Date Following Lengthy Delay"
   ]
 };
