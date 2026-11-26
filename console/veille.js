@@ -1,83 +1,41 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "25/11/2026 à 21h35",
+  "collecte": "26/11/2026 à 04h05",
   "seuil": 14,
   "sujets": [
     {
-      "id": "gta-6-vault-how-to-open-them-during-big-bank-jobs",
-      "titre": "GTA 6 vault: How to open them during big bank jobs",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-vault-how-to-open/",
+      "id": "capcom-s-quirky-dinosaur-fighting-hero-shooter-is-shutting-d",
+      "titre": "Capcom's quirky dinosaur-fighting hero shooter is shutting down in 2027",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/capcoms-quirky-dinosaur-fighting-hero-shooter-is-shutting-down-in-2027/",
       "sources": [
+        "Eurogamer",
+        "GamesIndustry.biz",
         "PC Gamer",
-        "VGC"
+        "Rock Paper Shotgun"
       ],
-      "reprises": 2,
-      "heures": 0.1,
-      "chaleur": 12,
+      "reprises": 4,
+      "heures": 6.5,
+      "chaleur": 13,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-vault-how-to-open/",
-          "titre": "GTA 6 vault: How to open them during big bank jobs"
+          "url": "https://www.pcgamer.com/games/third-person-shooter/capcoms-quirky-dinosaur-fighting-hero-shooter-is-shutting-down-in-2027/",
+          "titre": "Capcom's quirky dinosaur-fighting hero shooter is shutting down in 2027"
         },
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/how-to-auto-drive-in-gta-6/",
-          "titre": "How to Auto Drive in GTA 6"
-        }
-      ]
-    },
-    {
-      "id": "no-one-gets-left-behind-cdpr-says-the-witcher-4-will-launch",
-      "titre": "‘No one gets left behind’: CDPR says The Witcher 4 will launch on Xbox day one, despite Sony agreement",
-      "url": "https://www.videogameschronicle.com/news/no-one-gets-left-behind-cdpr-says-the-witcher-4-will-launch-on-xbox-day-one-despite-sony-agreement/",
-      "sources": [
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 1.0,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/no-one-gets-left-behind-cdpr-says-the-witcher-4-will-launch-on-xbox-day-one-despite-sony-agreement/",
-          "titre": "‘No one gets left behind’: CDPR says The Witcher 4 will launch on Xbox day one, despite Sony agreement"
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/capcom-will-shut-down-exoprimal-servers-in-september-2027",
+          "titre": "Capcom will shut down Exoprimal servers in September 2027"
         },
         {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/sony-will-support-the-witcher-4s-marketing-much-like-gta-6",
-          "titre": "Sony Will Support The Witcher 4's Marketing, Much Like GTA 6"
-        }
-      ]
-    },
-    {
-      "id": "hollow-knight-silksong-dlc-news-and-exciting-reveals-from-de",
-      "titre": "Hollow Knight: Silksong DLC News and 'Exciting' Reveals from Dev Team Cherry Coming This Week",
-      "url": "https://www.pushsquare.com/news/2026/11/hollow-knight-silksong-dlc-news-and-exciting-reveals-from-dev-team-cherry-coming-this-week",
-      "sources": [
-        "Nintendo Life",
-        "Push Square",
-        "VGC"
-      ],
-      "reprises": 3,
-      "heures": 3.6,
-      "chaleur": 12,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/hollow-knight-silksong-dlc-news-and-exciting-reveals-from-dev-team-cherry-coming-this-week",
-          "titre": "Hollow Knight: Silksong DLC News and 'Exciting' Reveals from Dev Team Cherry Coming This Week"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/capcom-dinosaur-shooter-exoprimals-servers-will-go-extinct-next-year-as-shutdown-meteor-looms",
+          "titre": "Capcom dinosaur shooter Exoprimal's servers will go extinct next year, as shutdown meteor looms"
         },
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/team-cherry-will-share-an-update-on-silksongs-dlc-on-november-27/",
-          "titre": "Team Cherry will share an ‘update’ on Silksong’s DLC on November 27"
-        },
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/hollow-knight-silksong-dlc-news-is-coming-this-week-in-a-team-cherry-special-presentation",
-          "titre": "Hollow Knight: Silksong DLC News Is Coming This Week In A Team Cherry 'Special Presentation'"
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/exo-primal-shutting-down-2027",
+          "titre": "Capcom's sci-fi dinosaur shooter Exoprimal is shutting down next year"
         }
       ]
     },
@@ -91,7 +49,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 4.1,
+      "heures": 10.6,
       "chaleur": 12,
       "liens": [
         {
@@ -112,56 +70,80 @@ const VEILLE = {
       ]
     },
     {
-      "id": "ubisoft-staff-must-justify-not-using-generative-ai-in-pitche",
-      "titre": "Ubisoft staff must justify not using generative AI in pitches, report claims",
-      "url": "https://www.gamesindustry.biz/ubisoft-staff-must-justify-not-using-generative-ai-in-pitches-report-claims",
+      "id": "no-one-gets-left-behind-cdpr-on-the-witcher-4-releasing-on",
+      "titre": "\"No One Gets Left Behind\" - CDPR On The Witcher 4 Releasing On All Platforms At The Same Time",
+      "url": "https://www.nintendolife.com/news/2026/11/no-one-gets-left-behind-cdpr-on-the-witcher-4-releasing-on-all-platforms-at-the-same-time",
       "sources": [
-        "GamesIndustry.biz",
+        "Nintendo Life",
         "VGC"
       ],
       "reprises": 2,
-      "heures": 1.3,
+      "heures": 0.5,
       "chaleur": 11,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/ubisoft-staff-must-justify-not-using-generative-ai-in-pitches-report-claims",
-          "titre": "Ubisoft staff must justify not using generative AI in pitches, report claims"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/no-one-gets-left-behind-cdpr-on-the-witcher-4-releasing-on-all-platforms-at-the-same-time",
+          "titre": "\"No One Gets Left Behind\" - CDPR On The Witcher 4 Releasing On All Platforms At The Same Time"
         },
         {
           "source": "VGC",
-          "url": "https://www.videogameschronicle.com/news/ubisoft-is-reportedly-requiring-developers-to-justify-not-using-generative-ai/",
-          "titre": "Ubisoft is reportedly requiring developers to justify not using generative AI"
+          "url": "https://www.videogameschronicle.com/news/no-one-gets-left-behind-cdpr-says-the-witcher-4-will-launch-on-xbox-day-one-despite-sony-agreement/",
+          "titre": "‘No one gets left behind’: CDPR says The Witcher 4 will launch on Xbox day one, despite Sony agreement"
         }
       ]
     },
     {
-      "id": "capcom-will-shut-down-exoprimal-servers-in-september-2027",
-      "titre": "Capcom will shut down Exoprimal servers in September 2027",
-      "url": "https://www.gamesindustry.biz/capcom-will-shut-down-exoprimal-servers-in-september-2027",
+      "id": "the-witcher-4-is-not-a-ps5-exclusive-cdpr-clarifies-after-so",
+      "titre": "The Witcher 4 Is Not a PS5 Exclusive, CDPR Clarifies After Sony Deal",
+      "url": "https://www.pushsquare.com/news/2026/11/the-witcher-4-is-not-a-ps5-exclusive-cdpr-clarifies-after-sony-deal",
       "sources": [
         "Eurogamer",
-        "GamesIndustry.biz",
-        "Rock Paper Shotgun"
+        "Push Square"
       ],
-      "reprises": 3,
-      "heures": 4.3,
-      "chaleur": 10,
+      "reprises": 2,
+      "heures": 2.6,
+      "chaleur": 11,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/capcom-will-shut-down-exoprimal-servers-in-september-2027",
-          "titre": "Capcom will shut down Exoprimal servers in September 2027"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/capcom-dinosaur-shooter-exoprimals-servers-will-go-extinct-next-year-as-shutdown-meteor-looms",
-          "titre": "Capcom dinosaur shooter Exoprimal's servers will go extinct next year, as shutdown meteor looms"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/the-witcher-4-is-not-a-ps5-exclusive-cdpr-clarifies-after-sony-deal",
+          "titre": "The Witcher 4 Is Not a PS5 Exclusive, CDPR Clarifies After Sony Deal"
         },
         {
           "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/exo-primal-shutting-down-2027",
-          "titre": "Capcom's sci-fi dinosaur shooter Exoprimal is shutting down next year"
+          "url": "https://www.eurogamer.net/cd-projekt-red-signs-new-marketing-partnership-deal-with-sony-for-the-witcher-4-and-to-increase-the-presence-of-its-games-on-playstation",
+          "titre": "CD Projekt Red signs new marketing partnership deal with Sony for The Witcher 4, and to increase \"the presence\" of its games on PlayStation"
+        }
+      ]
+    },
+    {
+      "id": "hollow-knight-silksong-dlc-news-and-exciting-reveals-from-de",
+      "titre": "Hollow Knight: Silksong DLC News and 'Exciting' Reveals from Dev Team Cherry Coming This Week",
+      "url": "https://www.pushsquare.com/news/2026/11/hollow-knight-silksong-dlc-news-and-exciting-reveals-from-dev-team-cherry-coming-this-week",
+      "sources": [
+        "Nintendo Life",
+        "Push Square",
+        "VGC"
+      ],
+      "reprises": 3,
+      "heures": 10.1,
+      "chaleur": 10,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/hollow-knight-silksong-dlc-news-and-exciting-reveals-from-dev-team-cherry-coming-this-week",
+          "titre": "Hollow Knight: Silksong DLC News and 'Exciting' Reveals from Dev Team Cherry Coming This Week"
+        },
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/team-cherry-will-share-an-update-on-silksongs-dlc-on-november-27/",
+          "titre": "Team Cherry will share an ‘update’ on Silksong’s DLC on November 27"
+        },
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/hollow-knight-silksong-dlc-news-is-coming-this-week-in-a-team-cherry-special-presentation",
+          "titre": "Hollow Knight: Silksong DLC News Is Coming This Week In A Team Cherry 'Special Presentation'"
         }
       ]
     },
@@ -174,7 +156,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 2,
-      "heures": 5.2,
+      "heures": 11.7,
       "chaleur": 10,
       "liens": [
         {
@@ -190,50 +172,152 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-6-recompilers-and-vibe-coders-implore-ai-chatbots-to-wor",
-      "titre": "GTA 6 recompilers and vibe-coders implore AI chatbots to 'work faster' and 'make no mistakes' as they race to get the game running on PC",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-gen-ai-chatbots-work-faster-prompts",
+      "id": "the-legend-of-zelda-ocarina-of-time-switch-2-updated-version",
+      "titre": "The Legend Of Zelda: Ocarina Of Time Switch 2 Updated (Version 1.1.2), Here Are The Patch Notes",
+      "url": "https://www.nintendolife.com/news/2026/11/the-legend-of-zelda-ocarina-of-time-switch-2-updated-version-1-1-2-here-are-the-patch-notes",
       "sources": [
-        "Eurogamer",
-        "PC Gamer"
+        "Nintendo Life"
       ],
-      "reprises": 2,
-      "heures": 6.3,
-      "chaleur": 10,
+      "reprises": 1,
+      "heures": 2.8,
+      "chaleur": 9,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/grand-theft-auto-6-gen-ai-chatbots-work-faster-prompts",
-          "titre": "GTA 6 recompilers and vibe-coders implore AI chatbots to 'work faster' and 'make no mistakes' as they race to get the game running on PC"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-recomp-explained/",
-          "titre": "The race to port GTA 6 to PC, explained"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/the-legend-of-zelda-ocarina-of-time-switch-2-updated-version-1-1-2-here-are-the-patch-notes",
+          "titre": "The Legend Of Zelda: Ocarina Of Time Switch 2 Updated (Version 1.1.2), Here Are The Patch Notes"
         }
       ]
     },
     {
-      "id": "cd-projekt-red-signs-new-marketing-partnership-deal-with-son",
-      "titre": "CD Projekt Red signs new marketing partnership deal with Sony for The Witcher 4, and to increase \"the presence\" of its games on PlayStation",
-      "url": "https://www.eurogamer.net/cd-projekt-red-signs-new-marketing-partnership-deal-with-sony-for-the-witcher-4-and-to-increase-the-presence-of-its-games-on-playstation",
+      "id": "gta-6-s-map-has-a-useful-feature-i-ve-only-just-noticed",
+      "titre": "GTA 6's Map Has a Useful Feature I've Only Just Noticed",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6s-map-has-a-useful-feature-ive-only-just-noticed",
       "sources": [
-        "Eurogamer",
         "Push Square"
       ],
-      "reprises": 2,
-      "heures": 9.5,
-      "chaleur": 10,
+      "reprises": 1,
+      "heures": 3.1,
+      "chaleur": 9,
       "liens": [
         {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/cd-projekt-red-signs-new-marketing-partnership-deal-with-sony-for-the-witcher-4-and-to-increase-the-presence-of-its-games-on-playstation",
-          "titre": "CD Projekt Red signs new marketing partnership deal with Sony for The Witcher 4, and to increase \"the presence\" of its games on PlayStation"
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6s-map-has-a-useful-feature-ive-only-just-noticed",
+          "titre": "GTA 6's Map Has a Useful Feature I've Only Just Noticed"
+        }
+      ]
+    },
+    {
+      "id": "ubisoft-staff-must-justify-not-using-generative-ai-in-pitche",
+      "titre": "Ubisoft staff must justify not using generative AI in pitches, report claims",
+      "url": "https://www.gamesindustry.biz/ubisoft-staff-must-justify-not-using-generative-ai-in-pitches-report-claims",
+      "sources": [
+        "GamesIndustry.biz",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 7.8,
+      "chaleur": 9,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/ubisoft-staff-must-justify-not-using-generative-ai-in-pitches-report-claims",
+          "titre": "Ubisoft staff must justify not using generative AI in pitches, report claims"
         },
         {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/ubisoft-is-reportedly-requiring-developers-to-justify-not-using-generative-ai/",
+          "titre": "Ubisoft is reportedly requiring developers to justify not using generative AI"
+        }
+      ]
+    },
+    {
+      "id": "video-xenoblade-chronicles-3-switch-2-edition-overview-trail",
+      "titre": "Video: Xenoblade Chronicles 3 - Switch 2 Edition Overview Trailer Showcases New Features & Enhancements",
+      "url": "https://www.nintendolife.com/news/2026/11/video-xenoblade-chronicles-3-switch-2-edition-overview-trailer-showcases-new-features-and-enhancements",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 2.0,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/video-xenoblade-chronicles-3-switch-2-edition-overview-trailer-showcases-new-features-and-enhancements",
+          "titre": "Video: Xenoblade Chronicles 3 - Switch 2 Edition Overview Trailer Showcases New Features & Enhancements"
+        }
+      ]
+    },
+    {
+      "id": "nintendo-restocks-metroid-dread-physical-copies-ahead-of-met",
+      "titre": "Nintendo Restocks Metroid Dread Physical Copies Ahead Of Metroid Ravenous Launch",
+      "url": "https://www.nintendolife.com/news/2026/11/nintendo-restocks-metroid-dread-physical-copies-ahead-of-metroid-ravenous-launch",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 3.3,
+      "chaleur": 8,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/nintendo-restocks-metroid-dread-physical-copies-ahead-of-metroid-ravenous-launch",
+          "titre": "Nintendo Restocks Metroid Dread Physical Copies Ahead Of Metroid Ravenous Launch"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-has-weird-purple-streetlights-because-actual-florida-s",
+      "titre": "GTA 6 has weird purple streetlights because actual Florida screwed up its streetlights",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-has-weird-purple-streetlights-because-actual-florida-screwed-up-its-streetlights/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 5.5,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-has-weird-purple-streetlights-because-actual-florida-screwed-up-its-streetlights/",
+          "titre": "GTA 6 has weird purple streetlights because actual Florida screwed up its streetlights"
+        }
+      ]
+    },
+    {
+      "id": "guide-gta-6-secret-controls-the-game-doesn-t-tell-you",
+      "titre": "Guide: GTA 6: Secret Controls the Game Doesn't Tell You",
+      "url": "https://www.pushsquare.com/guides/gta-6-secret-controls-the-game-doesnt-tell-you",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 6.1,
+      "chaleur": 7,
+      "liens": [
+        {
           "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/cd-projekt-red-expects-gta-5-to-gta-6-like-upgrade-in-the-witcher-4",
-          "titre": "CD Projekt Red Expects GTA 5 to GTA 6-Like Upgrade in The Witcher 4"
+          "url": "https://www.pushsquare.com/guides/gta-6-secret-controls-the-game-doesnt-tell-you",
+          "titre": "Guide: GTA 6: Secret Controls the Game Doesn't Tell You"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-vault-how-to-open-them-during-big-bank-jobs",
+      "titre": "GTA 6 vault: How to open them during big bank jobs",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-vault-how-to-open/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.6,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-vault-how-to-open/",
+          "titre": "GTA 6 vault: How to open them during big bank jobs"
         }
       ]
     },
@@ -246,8 +330,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 2,
-      "heures": 0.8,
-      "chaleur": 9,
+      "heures": 7.3,
+      "chaleur": 7,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -269,8 +353,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 2.8,
-      "chaleur": 9,
+      "heures": 9.3,
+      "chaleur": 7,
       "liens": [
         {
           "source": "VGC",
@@ -287,8 +371,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 3.0,
-      "chaleur": 9,
+      "heures": 9.5,
+      "chaleur": 7,
       "liens": [
         {
           "source": "VGC",
@@ -305,61 +389,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 3.7,
-      "chaleur": 9,
+      "heures": 10.2,
+      "chaleur": 7,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/guide/gta-6-hidden-charges-ask-for-help-or-go-solo/",
           "titre": "GTA 6 Hidden Charges: Ask for Help or Go Solo?"
-        }
-      ]
-    },
-    {
-      "id": "lords-of-the-fallen-2-launches-april-2027-final-date-coming",
-      "titre": "Lords Of The Fallen 2 Launches April 2027, Final Date Coming Next Month",
-      "url": "https://www.nintendolife.com/news/2026/11/lords-of-the-fallen-2-launches-april-2027-final-date-coming-next-month",
-      "sources": [
-        "Nintendo Life",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 8.6,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/lords-of-the-fallen-2-launches-april-2027-final-date-coming-next-month",
-          "titre": "Lords Of The Fallen 2 Launches April 2027, Final Date Coming Next Month"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/ps5-rpg-lords-of-the-fallen-2-locks-on-to-april-2027-release-date-following-lengthy-delay",
-          "titre": "PS5 RPG Lords of the Fallen 2 Locks on to April 2027 Release Date Following Lengthy Delay"
-        }
-      ]
-    },
-    {
-      "id": "nvidia-release-new-graphics-card-driver-hopefully-finally-fi",
-      "titre": "Nvidia release new graphics card driver, hopefully finally fixing that SSD-hammering unnecessary write bug the previous hotfix couldn't seem to sort",
-      "url": "https://www.rockpapershotgun.com/nvidia-release-new-graphics-card-driver-hopefully-finally-fixing-that-ssd-hammering-unnecessary-write-bug-the-previous-hotfix-couldnt-seem-to-sort",
-      "sources": [
-        "PC Gamer",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 4.2,
-      "chaleur": 7,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/nvidia-release-new-graphics-card-driver-hopefully-finally-fixing-that-ssd-hammering-unnecessary-write-bug-the-previous-hotfix-couldnt-seem-to-sort",
-          "titre": "Nvidia release new graphics card driver, hopefully finally fixing that SSD-hammering unnecessary write bug the previous hotfix couldn't seem to sort"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-patch-finally-eradicates-the-ssd-hammering-bug-its-last-hotfix-didnt-actually-fix/",
-          "titre": "Nvidia patch finally eradicates the SSD-hammering bug its last hotfix didn't actually fix"
         }
       ]
     },
@@ -372,7 +408,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 4.3,
+      "heures": 10.8,
       "chaleur": 7,
       "liens": [
         {
@@ -396,7 +432,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 4.3,
+      "heures": 10.8,
       "chaleur": 7,
       "liens": [
         {
@@ -419,13 +455,67 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 11.4,
       "chaleur": 7,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/gta-6-empathy-criminal-profile-why-rockstar-added-it-rob-nelson",
           "titre": "Why did Rockstar Games make empathy a key mechanic in GTA 6? \"Because it's fun\" says head of development Rob Nelson"
+        }
+      ]
+    },
+    {
+      "id": "playstation-plus-games-for-december-include-tony-hawk-s-pro",
+      "titre": "PlayStation Plus games for December include Tony Hawk’s Pro Skater 3+4",
+      "url": "https://www.videogameschronicle.com/news/playstation-plus-games-for-december-include-tony-hawks-pro-skater-34/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 5.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/news/playstation-plus-games-for-december-include-tony-hawks-pro-skater-34/",
+          "titre": "PlayStation Plus games for December include Tony Hawk’s Pro Skater 3+4"
+        }
+      ]
+    },
+    {
+      "id": "star-trek-voyager-across-the-unknown-final-dlc-ventures-to-s",
+      "titre": "Star Trek: Voyager - Across The Unknown Final DLC Ventures To Switch 2 Next Month",
+      "url": "https://www.nintendolife.com/news/2026/11/star-trek-voyager-across-the-unknown-final-dlc-ventures-to-switch-2-next-month",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 11.6,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/star-trek-voyager-across-the-unknown-final-dlc-ventures-to-switch-2-next-month",
+          "titre": "Star Trek: Voyager - Across The Unknown Final DLC Ventures To Switch 2 Next Month"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-recompilers-and-vibe-coders-implore-ai-chatbots-to-wor",
+      "titre": "GTA 6 recompilers and vibe-coders implore AI chatbots to 'work faster' and 'make no mistakes' as they race to get the game running on PC",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-gen-ai-chatbots-work-faster-prompts",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 12.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/grand-theft-auto-6-gen-ai-chatbots-work-faster-prompts",
+          "titre": "GTA 6 recompilers and vibe-coders implore AI chatbots to 'work faster' and 'make no mistakes' as they race to get the game running on PC"
         }
       ]
     },
@@ -437,8 +527,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.1,
-      "chaleur": 7,
+      "heures": 13.6,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
@@ -455,8 +545,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 7.3,
-      "chaleur": 7,
+      "heures": 13.8,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
@@ -473,8 +563,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.5,
-      "chaleur": 7,
+      "heures": 14.0,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
@@ -491,8 +581,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 7.6,
-      "chaleur": 7,
+      "heures": 14.1,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -509,8 +599,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.9,
-      "chaleur": 7,
+      "heures": 14.4,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
@@ -527,8 +617,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 10.3,
-      "chaleur": 7,
+      "heures": 16.8,
+      "chaleur": 6,
       "liens": [
         {
           "source": "PC Gamer",
@@ -545,247 +635,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 10.9,
-      "chaleur": 7,
+      "heures": 17.4,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/ai-generated-gta-6-pc-ports-get-nuked-in-alleged-rockstar-takedown-spree-as-former-bungie-dev-hails-most-ridiculous-dumpster-fire-ever",
           "titre": "AI-generated GTA 6 PC ports get nuked in alleged Rockstar takedown spree, as former Bungie dev hails \"most ridiculous dumpster fire ever\""
-        }
-      ]
-    },
-    {
-      "id": "trump-admin-didn-t-investigate-jensen-huang-before-pushing-n",
-      "titre": "Trump admin didn't investigate Jensen Huang before pushing Nvidia to bring him back: 'What does that mean, had Huang been investigated? For what?'",
-      "url": "https://www.pcgamer.com/software/ai/trump-admin-didnt-investigate-jensen-huang-before-pushing-nvidia-to-bring-him-back-what-does-that-mean-had-huang-been-investigated-for-what/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 0.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/trump-admin-didnt-investigate-jensen-huang-before-pushing-nvidia-to-bring-him-back-what-does-that-mean-had-huang-been-investigated-for-what/",
-          "titre": "Trump admin didn't investigate Jensen Huang before pushing Nvidia to bring him back: 'What does that mean, had Huang been investigated? For what?'"
-        }
-      ]
-    },
-    {
-      "id": "deceased-bbc-football-commentator-resurrected-with-ai-for-ea",
-      "titre": "Deceased BBC football commentator resurrected with AI for EA Sports FC: The family says it's a 'touching tribute' but some fans call it 'gross' and 'bleak'",
-      "url": "https://www.pcgamer.com/software/ai/deceased-bbc-football-commentator-resurrected-with-ai-for-ea-sports-fc-the-family-says-its-a-touching-tribute-but-some-fans-call-it-gross-and-bleak/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/deceased-bbc-football-commentator-resurrected-with-ai-for-ea-sports-fc-the-family-says-its-a-touching-tribute-but-some-fans-call-it-gross-and-bleak/",
-          "titre": "Deceased BBC football commentator resurrected with AI for EA Sports FC: The family says it's a 'touching tribute' but some fans call it 'gross' and 'bleak'"
-        }
-      ]
-    },
-    {
-      "id": "the-fable-reboot-had-to-look-beyond-lionhead-s-rpg-trilogy-b",
-      "titre": "The Fable reboot had to look beyond Lionhead's RPG trilogy because games like The Witcher 3 \"became the gold standard\"",
-      "url": "https://www.eurogamer.net/fable-the-witcher-3-gold-standard",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 1.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/fable-the-witcher-3-gold-standard",
-          "titre": "The Fable reboot had to look beyond Lionhead's RPG trilogy because games like The Witcher 3 \"became the gold standard\""
-        }
-      ]
-    },
-    {
-      "id": "as-the-us-treasury-suffers-a-cybersecurity-breach-its-chief",
-      "titre": "As the US Treasury suffers a cybersecurity breach, its chief tech guy is vibecoding a Civilization clone",
-      "url": "https://www.pcgamer.com/software/ai/as-the-us-treasury-suffers-a-cybersecurity-breach-its-chief-tech-guy-is-vibecoding-a-civilization-clone/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/software/ai/as-the-us-treasury-suffers-a-cybersecurity-breach-its-chief-tech-guy-is-vibecoding-a-civilization-clone/",
-          "titre": "As the US Treasury suffers a cybersecurity breach, its chief tech guy is vibecoding a Civilization clone"
-        }
-      ]
-    },
-    {
-      "id": "original-devil-may-cry-and-bayonetta-director-hideki-kamiya",
-      "titre": "Original Devil May Cry and Bayonetta director Hideki Kamiya really wants Konami to let him make a \"truly insane\" Castlevania game",
-      "url": "https://www.eurogamer.net/hideki-kamiya-konami-truly-insane-castlevania",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/hideki-kamiya-konami-truly-insane-castlevania",
-          "titre": "Original Devil May Cry and Bayonetta director Hideki Kamiya really wants Konami to let him make a \"truly insane\" Castlevania game"
-        }
-      ]
-    },
-    {
-      "id": "roblox-signs-licensing-deal-with-prs-for-music",
-      "titre": "Roblox signs licensing deal with PRS for Music",
-      "url": "https://www.gamesindustry.biz/roblox-signs-licensing-deal-with-prs-for-music",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 3.5,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/roblox-signs-licensing-deal-with-prs-for-music",
-          "titre": "Roblox signs licensing deal with PRS for Music"
-        }
-      ]
-    },
-    {
-      "id": "ea-is-resurrecting-a-dead-commentator-with-ai-for-ea-sports",
-      "titre": "EA is resurrecting a dead commentator with AI for EA Sports FC 27, years after his last appearance in a FIFA game",
-      "url": "https://www.eurogamer.net/ea-sports-fc27-dead-commentator-ai",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/ea-sports-fc27-dead-commentator-ai",
-          "titre": "EA is resurrecting a dead commentator with AI for EA Sports FC 27, years after his last appearance in a FIFA game"
-        }
-      ]
-    },
-    {
-      "id": "star-trek-voyager-across-the-unknown-final-dlc-ventures-to-s",
-      "titre": "Star Trek: Voyager - Across The Unknown Final DLC Ventures To Switch 2 Next Month",
-      "url": "https://www.nintendolife.com/news/2026/11/star-trek-voyager-across-the-unknown-final-dlc-ventures-to-switch-2-next-month",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 5.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/star-trek-voyager-across-the-unknown-final-dlc-ventures-to-switch-2-next-month",
-          "titre": "Star Trek: Voyager - Across The Unknown Final DLC Ventures To Switch 2 Next Month"
-        }
-      ]
-    },
-    {
-      "id": "letter-from-the-editor-s-21-that-game-everyone-is-and-isn-t",
-      "titre": "Letter from the Editor(s) #21: That game everyone is and isn't playing, and how we report on AI",
-      "url": "https://www.rockpapershotgun.com/letter-from-the-editors-21-that-game-everyone-is-and-isnt-playing-and-how-we-report-on-ai",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 6.9,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/letter-from-the-editors-21-that-game-everyone-is-and-isnt-playing-and-how-we-report-on-ai",
-          "titre": "Letter from the Editor(s) #21: That game everyone is and isn't playing, and how we report on AI"
-        }
-      ]
-    },
-    {
-      "id": "feature-8-ways-to-make-zelda-ocarina-of-time-more-difficult",
-      "titre": "Feature: 8 Ways To Make Zelda: Ocarina Of Time More Difficult",
-      "url": "https://www.nintendolife.com/features/8-ways-to-make-zelda-ocarina-of-time-more-difficult",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 7.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/features/8-ways-to-make-zelda-ocarina-of-time-more-difficult",
-          "titre": "Feature: 8 Ways To Make Zelda: Ocarina Of Time More Difficult"
-        }
-      ]
-    },
-    {
-      "id": "maybe-they-hate-me-but-i-love-nintendo-kamiya-shares-his-co",
-      "titre": "\"Maybe They Hate Me, But I Love Nintendo\" - Kamiya Shares His Collaboration Bucket List",
-      "url": "https://www.nintendolife.com/news/2026/11/maybe-they-hate-me-but-i-love-nintendo-kamiya-shares-his-collaboration-bucket-list",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 7.8,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/maybe-they-hate-me-but-i-love-nintendo-kamiya-shares-his-collaboration-bucket-list",
-          "titre": "\"Maybe They Hate Me, But I Love Nintendo\" - Kamiya Shares His Collaboration Bucket List"
-        }
-      ]
-    },
-    {
-      "id": "ho-ho-holy-moly-nintendo-s-winter-range-is-awesome",
-      "titre": "Ho-Ho-Holy Moly, Nintendo's Winter Range Is Awesome",
-      "url": "https://www.nintendolife.com/news/2026/11/ho-ho-holy-moly-nintendos-winter-range-is-awesome",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 9.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/ho-ho-holy-moly-nintendos-winter-range-is-awesome",
-          "titre": "Ho-Ho-Holy Moly, Nintendo's Winter Range Is Awesome"
-        }
-      ]
-    },
-    {
-      "id": "promising-action-rpg-showa-american-story-has-been-delayed-i",
-      "titre": "Promising action-RPG, Showa American Story, has been delayed into late 2027 in order to feel \"cohesive, responsive and complete\" at launch",
-      "url": "https://www.eurogamer.net/showa-american-story-delay-2027",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 11.4,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/showa-american-story-delay-2027",
-          "titre": "Promising action-RPG, Showa American Story, has been delayed into late 2027 in order to feel \"cohesive, responsive and complete\" at launch"
         }
       ]
     },
@@ -797,7 +653,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 18.0,
+      "heures": 24.5,
       "chaleur": 6,
       "liens": [
         {
@@ -815,31 +671,13 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 19.6,
+      "heures": 26.1,
       "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/11/real-life-gta-6-trading-cards-are-about-to-get-scalped",
           "titre": "Real-Life GTA 6 Trading Cards Are About to Get Scalped"
-        }
-      ]
-    },
-    {
-      "id": "feature-we-travelled-across-gta-6-s-map-using-only-public-tr",
-      "titre": "Feature: We Travelled Across GTA 6's Map Using Only Public Transport",
-      "url": "https://www.pushsquare.com/news/2026/11/we-travelled-across-gta-6s-map-using-only-public-transport",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 20.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/we-travelled-across-gta-6s-map-using-only-public-transport",
-          "titre": "Feature: We Travelled Across GTA 6's Map Using Only Public Transport"
         }
       ]
     },
@@ -851,7 +689,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 22.5,
+      "heures": 29.0,
       "chaleur": 6,
       "liens": [
         {
@@ -862,20 +700,74 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-6-was-the-biggest-launch-in-playstation-history-with-the",
-      "titre": "GTA 6 was the \"biggest launch in PlayStation history\", with the highest number of concurrent players ever",
-      "url": "https://www.gamesindustry.biz/gta-6-was-the-biggest-launch-in-playstation-history-with-the-highest-number-of-concurrent-players-ever",
+      "id": "letter-from-the-editor-s-21-that-game-everyone-is-and-isn-t",
+      "titre": "Letter from the Editor(s) #21: That game everyone is and isn't playing, and how we report on AI",
+      "url": "https://www.rockpapershotgun.com/letter-from-the-editors-21-that-game-everyone-is-and-isnt-playing-and-how-we-report-on-ai",
       "sources": [
-        "GamesIndustry.biz"
+        "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 33.9,
-      "chaleur": 6,
+      "heures": 13.4,
+      "chaleur": 5,
       "liens": [
         {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/gta-6-was-the-biggest-launch-in-playstation-history-with-the-highest-number-of-concurrent-players-ever",
-          "titre": "GTA 6 was the \"biggest launch in PlayStation history\", with the highest number of concurrent players ever"
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/letter-from-the-editors-21-that-game-everyone-is-and-isnt-playing-and-how-we-report-on-ai",
+          "titre": "Letter from the Editor(s) #21: That game everyone is and isn't playing, and how we report on AI"
+        }
+      ]
+    },
+    {
+      "id": "maybe-they-hate-me-but-i-love-nintendo-kamiya-shares-his-co",
+      "titre": "\"Maybe They Hate Me, But I Love Nintendo\" - Kamiya Shares His Collaboration Bucket List",
+      "url": "https://www.nintendolife.com/news/2026/11/maybe-they-hate-me-but-i-love-nintendo-kamiya-shares-his-collaboration-bucket-list",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 14.3,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/maybe-they-hate-me-but-i-love-nintendo-kamiya-shares-his-collaboration-bucket-list",
+          "titre": "\"Maybe They Hate Me, But I Love Nintendo\" - Kamiya Shares His Collaboration Bucket List"
+        }
+      ]
+    },
+    {
+      "id": "ho-ho-holy-moly-nintendo-s-winter-range-is-awesome",
+      "titre": "Ho-Ho-Holy Moly, Nintendo's Winter Range Is Awesome",
+      "url": "https://www.nintendolife.com/news/2026/11/ho-ho-holy-moly-nintendos-winter-range-is-awesome",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 16.1,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/ho-ho-holy-moly-nintendos-winter-range-is-awesome",
+          "titre": "Ho-Ho-Holy Moly, Nintendo's Winter Range Is Awesome"
+        }
+      ]
+    },
+    {
+      "id": "promising-action-rpg-showa-american-story-has-been-delayed-i",
+      "titre": "Promising action-RPG, Showa American Story, has been delayed into late 2027 in order to feel \"cohesive, responsive and complete\" at launch",
+      "url": "https://www.eurogamer.net/showa-american-story-delay-2027",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 17.9,
+      "chaleur": 5,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/showa-american-story-delay-2027",
+          "titre": "Promising action-RPG, Showa American Story, has been delayed into late 2027 in order to feel \"cohesive, responsive and complete\" at launch"
         }
       ]
     },
@@ -887,7 +779,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 19.5,
+      "heures": 26.0,
       "chaleur": 5,
       "liens": [
         {
@@ -898,20 +790,164 @@ const VEILLE = {
       ]
     },
     {
-      "id": "mini-review-kuloniku-bowl-up-switch-2-a-satisfying-tactile-c",
-      "titre": "Mini Review: KuloNiku: Bowl Up! (Switch 2) - A Satisfying, Tactile Cooking Sim",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/kuloniku-bowl-up",
+      "id": "warhammer-survivors-update-buffs-xp-and-weapons-nerfs-those",
+      "titre": "Warhammer Survivors update buffs XP and weapons, nerfs those damn Beasts of Nurgle",
+      "url": "https://www.pcgamer.com/games/roguelike/warhammer-survivors-update-buffs-xp-and-weapons-nerfs-those-damn-beasts-of-nurgle/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 31.6,
-      "chaleur": 5,
+      "heures": 5.6,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/kuloniku-bowl-up",
-          "titre": "Mini Review: KuloNiku: Bowl Up! (Switch 2) - A Satisfying, Tactile Cooking Sim"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/roguelike/warhammer-survivors-update-buffs-xp-and-weapons-nerfs-those-damn-beasts-of-nurgle/",
+          "titre": "Warhammer Survivors update buffs XP and weapons, nerfs those damn Beasts of Nurgle"
+        }
+      ]
+    },
+    {
+      "id": "trump-admin-didn-t-investigate-jensen-huang-before-pushing-n",
+      "titre": "Trump admin didn't investigate Jensen Huang before pushing Nvidia to bring him back: 'What does that mean, had Huang been investigated? For what?'",
+      "url": "https://www.pcgamer.com/software/ai/trump-admin-didnt-investigate-jensen-huang-before-pushing-nvidia-to-bring-him-back-what-does-that-mean-had-huang-been-investigated-for-what/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 6.6,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/trump-admin-didnt-investigate-jensen-huang-before-pushing-nvidia-to-bring-him-back-what-does-that-mean-had-huang-been-investigated-for-what/",
+          "titre": "Trump admin didn't investigate Jensen Huang before pushing Nvidia to bring him back: 'What does that mean, had Huang been investigated? For what?'"
+        }
+      ]
+    },
+    {
+      "id": "deceased-bbc-football-commentator-resurrected-with-ai-for-ea",
+      "titre": "Deceased BBC football commentator resurrected with AI for EA Sports FC: The family says it's a 'touching tribute' but some fans call it 'gross' and 'bleak'",
+      "url": "https://www.pcgamer.com/software/ai/deceased-bbc-football-commentator-resurrected-with-ai-for-ea-sports-fc-the-family-says-its-a-touching-tribute-but-some-fans-call-it-gross-and-bleak/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 7.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/deceased-bbc-football-commentator-resurrected-with-ai-for-ea-sports-fc-the-family-says-its-a-touching-tribute-but-some-fans-call-it-gross-and-bleak/",
+          "titre": "Deceased BBC football commentator resurrected with AI for EA Sports FC: The family says it's a 'touching tribute' but some fans call it 'gross' and 'bleak'"
+        }
+      ]
+    },
+    {
+      "id": "the-fable-reboot-had-to-look-beyond-lionhead-s-rpg-trilogy-b",
+      "titre": "The Fable reboot had to look beyond Lionhead's RPG trilogy because games like The Witcher 3 \"became the gold standard\"",
+      "url": "https://www.eurogamer.net/fable-the-witcher-3-gold-standard",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 8.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/fable-the-witcher-3-gold-standard",
+          "titre": "The Fable reboot had to look beyond Lionhead's RPG trilogy because games like The Witcher 3 \"became the gold standard\""
+        }
+      ]
+    },
+    {
+      "id": "as-the-us-treasury-suffers-a-cybersecurity-breach-its-chief",
+      "titre": "As the US Treasury suffers a cybersecurity breach, its chief tech guy is vibecoding a Civilization clone",
+      "url": "https://www.pcgamer.com/software/ai/as-the-us-treasury-suffers-a-cybersecurity-breach-its-chief-tech-guy-is-vibecoding-a-civilization-clone/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 9.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/as-the-us-treasury-suffers-a-cybersecurity-breach-its-chief-tech-guy-is-vibecoding-a-civilization-clone/",
+          "titre": "As the US Treasury suffers a cybersecurity breach, its chief tech guy is vibecoding a Civilization clone"
+        }
+      ]
+    },
+    {
+      "id": "original-devil-may-cry-and-bayonetta-director-hideki-kamiya",
+      "titre": "Original Devil May Cry and Bayonetta director Hideki Kamiya really wants Konami to let him make a \"truly insane\" Castlevania game",
+      "url": "https://www.eurogamer.net/hideki-kamiya-konami-truly-insane-castlevania",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 9.2,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/hideki-kamiya-konami-truly-insane-castlevania",
+          "titre": "Original Devil May Cry and Bayonetta director Hideki Kamiya really wants Konami to let him make a \"truly insane\" Castlevania game"
+        }
+      ]
+    },
+    {
+      "id": "roblox-signs-licensing-deal-with-prs-for-music",
+      "titre": "Roblox signs licensing deal with PRS for Music",
+      "url": "https://www.gamesindustry.biz/roblox-signs-licensing-deal-with-prs-for-music",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "reprises": 1,
+      "heures": 10.0,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/roblox-signs-licensing-deal-with-prs-for-music",
+          "titre": "Roblox signs licensing deal with PRS for Music"
+        }
+      ]
+    },
+    {
+      "id": "ea-is-resurrecting-a-dead-commentator-with-ai-for-ea-sports",
+      "titre": "EA is resurrecting a dead commentator with AI for EA Sports FC 27, years after his last appearance in a FIFA game",
+      "url": "https://www.eurogamer.net/ea-sports-fc27-dead-commentator-ai",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 10.1,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/ea-sports-fc27-dead-commentator-ai",
+          "titre": "EA is resurrecting a dead commentator with AI for EA Sports FC 27, years after his last appearance in a FIFA game"
+        }
+      ]
+    },
+    {
+      "id": "nvidia-release-new-graphics-card-driver-hopefully-finally-fi",
+      "titre": "Nvidia release new graphics card driver, hopefully finally fixing that SSD-hammering unnecessary write bug the previous hotfix couldn't seem to sort",
+      "url": "https://www.rockpapershotgun.com/nvidia-release-new-graphics-card-driver-hopefully-finally-fixing-that-ssd-hammering-unnecessary-write-bug-the-previous-hotfix-couldnt-seem-to-sort",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 10.7,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/nvidia-release-new-graphics-card-driver-hopefully-finally-fixing-that-ssd-hammering-unnecessary-write-bug-the-previous-hotfix-couldnt-seem-to-sort",
+          "titre": "Nvidia release new graphics card driver, hopefully finally fixing that SSD-hammering unnecessary write bug the previous hotfix couldn't seem to sort"
         }
       ]
     },
@@ -923,7 +959,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 11.0,
       "chaleur": 4,
       "liens": [
         {
@@ -941,7 +977,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 11.1,
       "chaleur": 4,
       "liens": [
         {
@@ -959,7 +995,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.9,
+      "heures": 11.4,
       "chaleur": 4,
       "liens": [
         {
@@ -977,7 +1013,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 5.4,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -995,8 +1031,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 5.8,
-      "chaleur": 4,
+      "heures": 12.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -1013,8 +1049,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.8,
-      "chaleur": 4,
+      "heures": 12.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1031,8 +1067,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.0,
-      "chaleur": 4,
+      "heures": 12.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -1049,8 +1085,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.6,
-      "chaleur": 4,
+      "heures": 13.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1067,8 +1103,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 6.7,
-      "chaleur": 4,
+      "heures": 13.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -1085,8 +1121,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.6,
-      "chaleur": 4,
+      "heures": 14.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -1103,8 +1139,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 7.7,
-      "chaleur": 4,
+      "heures": 14.2,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -1121,67 +1157,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 8.4,
-      "chaleur": 4,
+      "heures": 14.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/analyst-dont-expect-hardware-price-cuts-until-at-least-2028",
           "titre": "Analyst: Don't expect hardware price cuts until at least 2028"
-        }
-      ]
-    },
-    {
-      "id": "inside-retro-reset-the-really-inspirational-father-and-son-p",
-      "titre": "Inside Retro Reset, the \"really inspirational\" father and son project teaching kids about classic games hardware from aboard a converted bus",
-      "url": "https://www.rockpapershotgun.com/inside-retro-reset-the-really-inspirational-father-and-son-project-teaching-kids-about-classic-games-hardware-from-aboard-a-converted-bus",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 8.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/inside-retro-reset-the-really-inspirational-father-and-son-project-teaching-kids-about-classic-games-hardware-from-aboard-a-converted-bus",
-          "titre": "Inside Retro Reset, the \"really inspirational\" father and son project teaching kids about classic games hardware from aboard a converted bus"
-        }
-      ]
-    },
-    {
-      "id": "cyberpunk-2-development-really-ramping-up-as-team-targets-bi",
-      "titre": "Cyberpunk 2 Development Really Ramping Up as Team Targets Big 2027",
-      "url": "https://www.pushsquare.com/news/2026/11/cyberpunk-2-development-really-ramping-up-as-team-targets-big-2027",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 8.6,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/cyberpunk-2-development-really-ramping-up-as-team-targets-big-2027",
-          "titre": "Cyberpunk 2 Development Really Ramping Up as Team Targets Big 2027"
-        }
-      ]
-    },
-    {
-      "id": "unreal-engine-6-won-t-include-blueprints-or-actor-gameplay-f",
-      "titre": "Unreal Engine 6 won't include Blueprints or Actor Gameplay Framework",
-      "url": "https://www.gamesindustry.biz/unreal-engine-6-wont-include-blueprints-or-actor-gameplay-framework",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 8.9,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/unreal-engine-6-wont-include-blueprints-or-actor-gameplay-framework",
-          "titre": "Unreal Engine 6 won't include Blueprints or Actor Gameplay Framework"
         }
       ]
     }
