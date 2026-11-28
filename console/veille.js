@@ -1,11 +1,11 @@
 /* Généré par veille.py — ne pas modifier à la main. */
 const VEILLE = {
-  "collecte": "27/11/2026 à 21h05",
+  "collecte": "28/11/2026 à 03h50",
   "seuil": 14,
   "sujets": [
     {
-      "id": "rumored-the-simpsons-hit-run-remake-may-be-in-trouble-after",
-      "titre": "Rumored The Simpsons: Hit & Run remake may be in trouble after one developer says their \"mind-blowingly awesome\" project is cancelled",
+      "id": "rumoured-the-simpsons-hit-run-remake-may-be-in-trouble-after",
+      "titre": "Rumoured The Simpsons: Hit & Run remake may be in trouble after one developer says their \"mind-blowingly awesome\" project is cancelled",
       "url": "https://www.eurogamer.net/simpsons-hit-and-run-remake-rumored-cancelled",
       "sources": [
         "Eurogamer",
@@ -14,13 +14,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 4,
-      "heures": 3.0,
-      "chaleur": 18,
+      "heures": 9.7,
+      "chaleur": 16,
       "liens": [
         {
           "source": "Eurogamer",
           "url": "https://www.eurogamer.net/simpsons-hit-and-run-remake-rumored-cancelled",
-          "titre": "Rumored The Simpsons: Hit & Run remake may be in trouble after one developer says their \"mind-blowingly awesome\" project is cancelled"
+          "titre": "Rumoured The Simpsons: Hit & Run remake may be in trouble after one developer says their \"mind-blowingly awesome\" project is cancelled"
         },
         {
           "source": "Push Square",
@@ -51,7 +51,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 5,
-      "heures": 4.6,
+      "heures": 11.3,
       "chaleur": 16,
       "liens": [
         {
@@ -82,21 +82,27 @@ const VEILLE = {
       ]
     },
     {
-      "id": "i-went-completely-cordless-and-for-185-you-can-get-better-pr",
-      "titre": "I went completely cordless and for $185 you can get better prices on better products than I did with these Black Friday PC peripheral deals",
-      "url": "https://www.pcgamer.com/hardware/i-went-completely-cordless-and-for-usd185-you-can-get-better-prices-on-better-products-than-i-did-with-these-black-friday-pc-peripheral-deals/",
+      "id": "site-news-save-5-on-ps5-games-with-push-square-s-black-frida",
+      "titre": "Site News: Save 5% on PS5 Games with Push Square's Black Friday Deals",
+      "url": "https://www.pushsquare.com/news/2026/11/site-news-save-5percent-on-ps5-games-with-push-squares-black-friday-deals",
       "sources": [
         "Nintendo Life",
-        "PC Gamer"
+        "PC Gamer",
+        "Push Square"
       ],
-      "reprises": 2,
-      "heures": 0.1,
-      "chaleur": 11,
+      "reprises": 3,
+      "heures": 3.8,
+      "chaleur": 15,
       "liens": [
         {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/site-news-save-5percent-on-ps5-games-with-push-squares-black-friday-deals",
+          "titre": "Site News: Save 5% on PS5 Games with Push Square's Black Friday Deals"
+        },
+        {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/i-went-completely-cordless-and-for-usd185-you-can-get-better-prices-on-better-products-than-i-did-with-these-black-friday-pc-peripheral-deals/",
-          "titre": "I went completely cordless and for $185 you can get better prices on better products than I did with these Black Friday PC peripheral deals"
+          "url": "https://www.pcgamer.com/hardware/controllers/after-falling-in-love-with-ps5-haptic-feedback-in-gta-6-im-eyeing-these-black-friday-deals-on-dualsense-controllers/",
+          "titre": "After falling in love with PS5 haptic feedback in GTA 6, I'm eyeing these Black Friday deals on DualSense controllers"
         },
         {
           "source": "Nintendo Life",
@@ -106,50 +112,26 @@ const VEILLE = {
       ]
     },
     {
-      "id": "grand-theft-auto-6-complete-walkthrough-hub",
-      "titre": "Grand Theft Auto 6 complete walkthrough hub",
-      "url": "https://www.videogameschronicle.com/guide/grand-theft-auto-6-complete-walkthrough-hub/",
-      "sources": [
-        "PC Gamer",
-        "VGC"
-      ],
-      "reprises": 2,
-      "heures": 1.1,
-      "chaleur": 11,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/grand-theft-auto-6-complete-walkthrough-hub/",
-          "titre": "Grand Theft Auto 6 complete walkthrough hub"
-        },
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/microsofts-github-posts-message-celebrating-efforts-to-port-playstation-5-version-of-grand-theft-auto-6-to-pc-then-quickly-deletes-it/",
-          "titre": "Microsoft's Github posts message celebrating efforts to port PlayStation 5 version of Grand Theft Auto 6 to PC, then quickly deletes it"
-        }
-      ]
-    },
-    {
-      "id": "site-news-nintendo-life-s-black-friday-sale",
-      "titre": "Site News: Nintendo Life's Black Friday Sale",
-      "url": "https://www.nintendolife.com/news/2026/11/site-news-nintendo-lifes-black-friday-sale",
+      "id": "earn-cashback-on-ps5-games-in-sony-s-black-friday-sale",
+      "titre": "Earn Cashback on PS5 Games in Sony's Black Friday Sale",
+      "url": "https://www.pushsquare.com/news/2026/11/earn-cashback-on-ps5-games-in-sonys-black-friday-sale",
       "sources": [
         "Nintendo Life",
         "Push Square"
       ],
       "reprises": 2,
-      "heures": 3.1,
+      "heures": 2.3,
       "chaleur": 11,
       "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/news/2026/11/earn-cashback-on-ps5-games-in-sonys-black-friday-sale",
+          "titre": "Earn Cashback on PS5 Games in Sony's Black Friday Sale"
+        },
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/news/2026/11/site-news-nintendo-lifes-black-friday-sale",
           "titre": "Site News: Nintendo Life's Black Friday Sale"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/site-news-push-squares-black-friday-sale",
-          "titre": "Site News: Push Square's Black Friday Sale"
         }
       ]
     },
@@ -163,8 +145,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 3,
-      "heures": 6.4,
-      "chaleur": 10,
+      "heures": 13.2,
+      "chaleur": 9,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -184,74 +166,20 @@ const VEILLE = {
       ]
     },
     {
-      "id": "gta-6-all-unique-snapmatic-animal-locations-for-bret",
-      "titre": "GTA 6: All Unique Snapmatic Animal locations for Bret",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-all-unique-snapmatic-animal-locations-bret/",
+      "id": "tomodachi-life-living-the-dream-soundtrack-added-to-nintendo",
+      "titre": "Tomodachi Life: Living The Dream Soundtrack Added To Nintendo Music, Here's Every Song Included",
+      "url": "https://www.nintendolife.com/news/2026/11/tomodachi-life-living-the-dream-soundtrack-added-to-nintendo-music-heres-every-song-included",
       "sources": [
-        "VGC"
+        "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 1.0,
-      "chaleur": 9,
+      "heures": 1.8,
+      "chaleur": 8,
       "liens": [
         {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/gta-6-all-unique-snapmatic-animal-locations-bret/",
-          "titre": "GTA 6: All Unique Snapmatic Animal locations for Bret"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-full-find-cars-for-wyman-mission-walkthrough",
-      "titre": "GTA 6: Full Find Cars for Wyman mission walkthrough",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-find-cars-wyman-mission-walkthrough/",
-      "sources": [
-        "VGC"
-      ],
-      "reprises": 1,
-      "heures": 1.3,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/gta-6-find-cars-wyman-mission-walkthrough/",
-          "titre": "GTA 6: Full Find Cars for Wyman mission walkthrough"
-        }
-      ]
-    },
-    {
-      "id": "after-falling-in-love-with-ps5-haptic-feedback-in-gta-6-i-m",
-      "titre": "After falling in love with PS5 haptic feedback in GTA 6, I'm eyeing these Black Friday deals on DualSense controllers",
-      "url": "https://www.pcgamer.com/hardware/controllers/after-falling-in-love-with-ps5-haptic-feedback-in-gta-6-im-eyeing-these-black-friday-deals-on-dualsense-controllers/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 1.4,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/controllers/after-falling-in-love-with-ps5-haptic-feedback-in-gta-6-im-eyeing-these-black-friday-deals-on-dualsense-controllers/",
-          "titre": "After falling in love with PS5 haptic feedback in GTA 6, I'm eyeing these Black Friday deals on DualSense controllers"
-        }
-      ]
-    },
-    {
-      "id": "after-drawing-ire-for-selling-new-mass-effect-merch-followin",
-      "titre": "After drawing ire for selling new Mass Effect merch following BioWare closure, EA is now flogging new Dragon Age tat too",
-      "url": "https://www.eurogamer.net/dragon-age-mass-effect-bioware-closure-ea-new-merchandise",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 1.7,
-      "chaleur": 9,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/dragon-age-mass-effect-bioware-closure-ea-new-merchandise",
-          "titre": "After drawing ire for selling new Mass Effect merch following BioWare closure, EA is now flogging new Dragon Age tat too"
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/tomodachi-life-living-the-dream-soundtrack-added-to-nintendo-music-heres-every-song-included",
+          "titre": "Tomodachi Life: Living The Dream Soundtrack Added To Nintendo Music, Here's Every Song Included"
         }
       ]
     },
@@ -263,31 +191,13 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 6.8,
-      "chaleur": 9,
+      "heures": 13.6,
+      "chaleur": 8,
       "liens": [
         {
           "source": "VGC",
           "url": "https://www.videogameschronicle.com/blog/podcast/podcast-gta-6-smashed-records-but-will-other-games-benefit/",
           "titre": "Podcast: GTA 6 smashed records, but will other games benefit?"
-        }
-      ]
-    },
-    {
-      "id": "yooka-laylee-studio-explains-upcoming-definitive-edition-s-a",
-      "titre": "Yooka-Laylee studio explains upcoming Definitive Edition's absence on Xbox to 'frustrated' fans",
-      "url": "https://www.eurogamer.net/yooka-laylee-skipping-xbox-costs",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 2.0,
-      "chaleur": 8,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/yooka-laylee-skipping-xbox-costs",
-          "titre": "Yooka-Laylee studio explains upcoming Definitive Edition's absence on Xbox to 'frustrated' fans"
         }
       ]
     },
@@ -299,13 +209,115 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 27.1,
+      "heures": 33.8,
       "chaleur": 8,
       "liens": [
         {
           "source": "Push Square",
           "url": "https://www.pushsquare.com/news/2026/11/despite-no-disc-gta-6-recorded-the-uks-biggest-physical-launch-since-2019",
           "titre": "Despite No Disc, GTA 6 Recorded the UK's Biggest Physical Launch Since 2019"
+        }
+      ]
+    },
+    {
+      "id": "skate-is-dropping-seasons-and-season-passes-in-favor-of-regu",
+      "titre": "Skate is dropping seasons and season passes in favor of 'regular, agile content updates'",
+      "url": "https://www.pcgamer.com/games/sports/skate-is-dropping-seasons-and-season-passes-in-favor-of-regular-agile-content-updates/",
+      "sources": [
+        "Eurogamer",
+        "PC Gamer"
+      ],
+      "reprises": 2,
+      "heures": 5.6,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/sports/skate-is-dropping-seasons-and-season-passes-in-favor-of-regular-agile-content-updates/",
+          "titre": "Skate is dropping seasons and season passes in favor of 'regular, agile content updates'"
+        },
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/ea-removes-live-service-skate-seasons",
+          "titre": "EA removes some live service fluff from Skate and ends seasonal structure \"in favour of regular, agile content updates\""
+        }
+      ]
+    },
+    {
+      "id": "gta-6-all-unique-snapmatic-animal-locations-for-bret",
+      "titre": "GTA 6: All Unique Snapmatic Animal locations for Bret",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-all-unique-snapmatic-animal-locations-bret/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 7.8,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-all-unique-snapmatic-animal-locations-bret/",
+          "titre": "GTA 6: All Unique Snapmatic Animal locations for Bret"
+        }
+      ]
+    },
+    {
+      "id": "grand-theft-auto-6-complete-walkthrough-hub",
+      "titre": "Grand Theft Auto 6 complete walkthrough hub",
+      "url": "https://www.videogameschronicle.com/guide/grand-theft-auto-6-complete-walkthrough-hub/",
+      "sources": [
+        "GamesIndustry.biz",
+        "VGC"
+      ],
+      "reprises": 2,
+      "heures": 7.8,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/grand-theft-auto-6-complete-walkthrough-hub/",
+          "titre": "Grand Theft Auto 6 complete walkthrough hub"
+        },
+        {
+          "source": "GamesIndustry.biz",
+          "url": "https://www.gamesindustry.biz/staff-at-grand-theft-auto-maker-rockstar-vote-against-union-recognition-deal",
+          "titre": "Staff at Grand Theft Auto maker Rockstar vote against union recognition deal"
+        }
+      ]
+    },
+    {
+      "id": "gta-6-full-find-cars-for-wyman-mission-walkthrough",
+      "titre": "GTA 6: Full Find Cars for Wyman mission walkthrough",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-find-cars-wyman-mission-walkthrough/",
+      "sources": [
+        "VGC"
+      ],
+      "reprises": 1,
+      "heures": 8.1,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-find-cars-wyman-mission-walkthrough/",
+          "titre": "GTA 6: Full Find Cars for Wyman mission walkthrough"
+        }
+      ]
+    },
+    {
+      "id": "after-drawing-ire-for-selling-new-mass-effect-merch-followin",
+      "titre": "After drawing ire for selling new Mass Effect merch following BioWare closure, EA is now flogging new Dragon Age tat too",
+      "url": "https://www.eurogamer.net/dragon-age-mass-effect-bioware-closure-ea-new-merchandise",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 8.5,
+      "chaleur": 7,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/dragon-age-mass-effect-bioware-closure-ea-new-merchandise",
+          "titre": "After drawing ire for selling new Mass Effect merch following BioWare closure, EA is now flogging new Dragon Age tat too"
         }
       ]
     },
@@ -317,7 +329,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 4.1,
+      "heures": 10.8,
       "chaleur": 7,
       "liens": [
         {
@@ -335,7 +347,7 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 4.3,
+      "heures": 11.1,
       "chaleur": 7,
       "liens": [
         {
@@ -353,13 +365,103 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 4.5,
+      "heures": 11.2,
       "chaleur": 7,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/one-week-on-heres-the-impact-gta-6s-launch-had-on-the-industry-so-far",
           "titre": "One week on, here's the impact GTA 6's launch had on the industry so far"
+        }
+      ]
+    },
+    {
+      "id": "pok-mon-winds-waves-starter-pok-mon-plush-revealed",
+      "titre": "Pokémon Winds & Waves Starter Pokémon Plush Revealed",
+      "url": "https://www.nintendolife.com/news/2026/11/pokemon-winds-and-waves-starter-pokemon-plush-revealed",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 2.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/pokemon-winds-and-waves-starter-pokemon-plush-revealed",
+          "titre": "Pokémon Winds & Waves Starter Pokémon Plush Revealed"
+        }
+      ]
+    },
+    {
+      "id": "talking-point-what-are-you-playing-this-weekend-issue-660",
+      "titre": "Talking Point: What Are You Playing This Weekend? - Issue 660",
+      "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-660",
+      "sources": [
+        "Push Square"
+      ],
+      "reprises": 1,
+      "heures": 2.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Push Square",
+          "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-660",
+          "titre": "Talking Point: What Are You Playing This Weekend? - Issue 660"
+        }
+      ]
+    },
+    {
+      "id": "splatoon-3-version-12-0-1-update-out-now-here-are-the-patch",
+      "titre": "Splatoon 3 Version 12.0.1 Update Out Now, Here Are The Patch Notes",
+      "url": "https://www.nintendolife.com/news/2026/11/splatoon-3-version-12-0-1-update-out-now-here-are-the-patch-notes",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 3.3,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/splatoon-3-version-12-0-1-update-out-now-here-are-the-patch-notes",
+          "titre": "Splatoon 3 Version 12.0.1 Update Out Now, Here Are The Patch Notes"
+        }
+      ]
+    },
+    {
+      "id": "the-better-version-of-the-wireless-headset-i-love-is-40-off",
+      "titre": "The better version of the wireless headset I love is $40 off right now",
+      "url": "https://www.pcgamer.com/hardware/the-better-version-of-the-wireless-headset-i-love-is-usd40-off-right-now/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 3.8,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/the-better-version-of-the-wireless-headset-i-love-is-usd40-off-right-now/",
+          "titre": "The better version of the wireless headset I love is $40 off right now"
+        }
+      ]
+    },
+    {
+      "id": "yooka-laylee-studio-explains-upcoming-definitive-edition-s-a",
+      "titre": "Yooka-Laylee studio explains upcoming Definitive Edition's absence on Xbox to 'frustrated' fans",
+      "url": "https://www.eurogamer.net/yooka-laylee-skipping-xbox-costs",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 8.7,
+      "chaleur": 6,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/yooka-laylee-skipping-xbox-costs",
+          "titre": "Yooka-Laylee studio explains upcoming Definitive Edition's absence on Xbox to 'frustrated' fans"
         }
       ]
     },
@@ -371,8 +473,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 6.4,
-      "chaleur": 7,
+      "heures": 13.1,
+      "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -389,8 +491,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 6.4,
-      "chaleur": 7,
+      "heures": 13.1,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
@@ -407,8 +509,8 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 7.0,
-      "chaleur": 7,
+      "heures": 13.7,
+      "chaleur": 6,
       "liens": [
         {
           "source": "VGC",
@@ -425,8 +527,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 7.3,
-      "chaleur": 7,
+      "heures": 14.1,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Push Square",
@@ -443,8 +545,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 8.2,
-      "chaleur": 7,
+      "heures": 14.9,
+      "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -461,8 +563,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 9.6,
-      "chaleur": 7,
+      "heures": 16.3,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Eurogamer",
@@ -479,85 +581,13 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.6,
-      "chaleur": 7,
+      "heures": 16.4,
+      "chaleur": 6,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
           "url": "https://www.rockpapershotgun.com/does-changing-where-games-run-cross-a-legal-line-microsoft-owned-github-ask-in-now-deleted-post-celebrating-gta-6s-effect-on-pc-port-focused-ps5-emulator",
           "titre": "\"Does changing where games run cross a legal line?\" Microsoft-owned Github ask in now-deleted post celebrating GTA 6's effect on PC port-focused PS5 emulator"
-        }
-      ]
-    },
-    {
-      "id": "marvel-s-iron-man-might-be-planning-to-rear-its-head-at-the",
-      "titre": "Marvel's Iron Man might be planning to rear its head at The Game Awards, if EA Motive's updated website is any indication",
-      "url": "https://www.eurogamer.net/iron-man-game-awards-ea-motive",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 0.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/iron-man-game-awards-ea-motive",
-          "titre": "Marvel's Iron Man might be planning to rear its head at The Game Awards, if EA Motive's updated website is any indication"
-        }
-      ]
-    },
-    {
-      "id": "digital-extremes-says-warframe-s-imminent-tau-update-is-prac",
-      "titre": "Digital Extremes says Warframe's imminent Tau update is practically big enough to be a sequel as it reveals new details, including dog walking",
-      "url": "https://www.eurogamer.net/warframe-tau-dev-stream-december-9th",
-      "sources": [
-        "Eurogamer"
-      ],
-      "reprises": 1,
-      "heures": 1.1,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Eurogamer",
-          "url": "https://www.eurogamer.net/warframe-tau-dev-stream-december-9th",
-          "titre": "Digital Extremes says Warframe's imminent Tau update is practically big enough to be a sequel as it reveals new details, including dog walking"
-        }
-      ]
-    },
-    {
-      "id": "good-coffee-is-one-of-our-last-comforts-in-a-cruel-universe",
-      "titre": "Good coffee is one of our last comforts in a cruel universe, which is why I'm tempted by this Black Friday coffee grinder deal",
-      "url": "https://www.pcgamer.com/hardware/good-coffee-is-one-of-our-last-comforts-in-a-cruel-universe-which-is-why-im-tempted-by-this-black-friday-coffee-grinder-deal/",
-      "sources": [
-        "PC Gamer"
-      ],
-      "reprises": 1,
-      "heures": 2.7,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/hardware/good-coffee-is-one-of-our-last-comforts-in-a-cruel-universe-which-is-why-im-tempted-by-this-black-friday-coffee-grinder-deal/",
-          "titre": "Good coffee is one of our last comforts in a cruel universe, which is why I'm tempted by this Black Friday coffee grinder deal"
-        }
-      ]
-    },
-    {
-      "id": "the-pc-specs-for-mass-effect-like-rpg-exodus-are-basically-b",
-      "titre": "The PC specs for Mass Effect-like RPG Exodus are basically bearable for a blockbuster space opera in 2026",
-      "url": "https://www.rockpapershotgun.com/the-pc-specs-for-mass-effect-like-rpg-exodus-are-basically-bearable-for-a-blockbuster-space-opera-in-2026",
-      "sources": [
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 1,
-      "heures": 3.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/the-pc-specs-for-mass-effect-like-rpg-exodus-are-basically-bearable-for-a-blockbuster-space-opera-in-2026",
-          "titre": "The PC specs for Mass Effect-like RPG Exodus are basically bearable for a blockbuster space opera in 2026"
         }
       ]
     },
@@ -569,7 +599,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 14.2,
+      "heures": 20.9,
       "chaleur": 6,
       "liens": [
         {
@@ -587,37 +617,13 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 15.1,
+      "heures": 21.8,
       "chaleur": 6,
       "liens": [
         {
           "source": "Nintendo Life",
           "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-walkthrough-switch-2-remake",
           "titre": "Guide: Zelda: Ocarina Of Time Walkthrough (Switch 2 Remake): Guide To The Main Quest, Side Quests & Collectables"
-        }
-      ]
-    },
-    {
-      "id": "witcher-3-remastered-patch-has-lighting-fixes-sign-nerfs-and",
-      "titre": "Witcher 3 Remastered patch has lighting fixes, sign nerfs, and gets rid of a nasty werewolf bug",
-      "url": "https://www.pcgamer.com/games/the-witcher/witcher-3-remastered-patch-has-lighting-fixes-sign-nerfs-and-gets-rid-of-a-nasty-werewolf-bug/",
-      "sources": [
-        "PC Gamer",
-        "Push Square"
-      ],
-      "reprises": 2,
-      "heures": 16.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-witcher/witcher-3-remastered-patch-has-lighting-fixes-sign-nerfs-and-gets-rid-of-a-nasty-werewolf-bug/",
-          "titre": "Witcher 3 Remastered patch has lighting fixes, sign nerfs, and gets rid of a nasty werewolf bug"
-        },
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/the-witcher-3-remastered-patch-5-02-fixes-annoying-ps5-stutters-improves-performance-and-much-more",
-          "titre": "The Witcher 3 Remastered Patch 5.02 Fixes Annoying PS5 Stutters, Improves Performance, and Much More"
         }
       ]
     },
@@ -629,7 +635,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 20.1,
+      "heures": 26.8,
       "chaleur": 6,
       "liens": [
         {
@@ -647,91 +653,13 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 28.2,
+      "heures": 34.9,
       "chaleur": 6,
       "liens": [
         {
           "source": "GamesIndustry.biz",
           "url": "https://www.gamesindustry.biz/this-was-unlike-anything-else-weve-ever-seen-before-but-gta-6s-success-is-limited-by-the-console-install-base-and-its-future-rests-on-pc",
           "titre": "\"This was unlike anything else we've ever seen before\" - but GTA 6's success is limited by the console install base, and its future rests on PC"
-        }
-      ]
-    },
-    {
-      "id": "staff-at-grand-theft-auto-maker-rockstar-vote-against-union",
-      "titre": "Staff at Grand Theft Auto maker Rockstar vote against union recognition deal",
-      "url": "https://www.gamesindustry.biz/staff-at-grand-theft-auto-maker-rockstar-vote-against-union-recognition-deal",
-      "sources": [
-        "GamesIndustry.biz",
-        "Rock Paper Shotgun"
-      ],
-      "reprises": 2,
-      "heures": 28.3,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/staff-at-grand-theft-auto-maker-rockstar-vote-against-union-recognition-deal",
-          "titre": "Staff at Grand Theft Auto maker Rockstar vote against union recognition deal"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/this-isnt-a-sign-to-retreat-rockstars-historic-union-vote-has-failed-with-75-voting-against-but-the-organisers-are-going-to-keep-fighting",
-          "titre": "\"This isn't a sign to retreat\": Rockstar's historic union vote has failed, with 75% voting against, but the organisers are going to \"keep fighting\""
-        }
-      ]
-    },
-    {
-      "id": "gta-6-gives-ps5-a-very-rare-win-over-switch-2-in-japan",
-      "titre": "GTA 6 Gives PS5 a Very Rare Win Over Switch 2 in Japan",
-      "url": "https://www.pushsquare.com/news/2026/11/gta-6-gives-ps5-a-very-rare-win-over-switch-2-in-japan",
-      "sources": [
-        "Push Square"
-      ],
-      "reprises": 1,
-      "heures": 29.6,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "Push Square",
-          "url": "https://www.pushsquare.com/news/2026/11/gta-6-gives-ps5-a-very-rare-win-over-switch-2-in-japan",
-          "titre": "GTA 6 Gives PS5 a Very Rare Win Over Switch 2 in Japan"
-        }
-      ]
-    },
-    {
-      "id": "nielseniq-gta-6-boosts-uk-games-retail-revenue-by-99-to-142m",
-      "titre": "NielsenIQ: GTA 6 boosts UK games retail revenue by 99% to £142m during launch period",
-      "url": "https://www.gamesindustry.biz/nielseniq-gta-6-boosts-uk-games-retail-revenue-by-99-to-142m-during-launch-period",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 33.2,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/nielseniq-gta-6-boosts-uk-games-retail-revenue-by-99-to-142m-during-launch-period",
-          "titre": "NielsenIQ: GTA 6 boosts UK games retail revenue by 99% to £142m during launch period"
-        }
-      ]
-    },
-    {
-      "id": "gta-6-launch-drives-combined-2-3m-downloads-of-franchise-s-m",
-      "titre": "GTA 6 launch drives combined 2.3m downloads of franchise's mobile ports, according to AppMagic",
-      "url": "https://www.gamesindustry.biz/gta-6-launch-drives-combined-23m-downloads-of-franchises-mobile-ports-according-to-appmagic",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "reprises": 1,
-      "heures": 35.0,
-      "chaleur": 6,
-      "liens": [
-        {
-          "source": "GamesIndustry.biz",
-          "url": "https://www.gamesindustry.biz/gta-6-launch-drives-combined-23m-downloads-of-franchises-mobile-ports-according-to-appmagic",
-          "titre": "GTA 6 launch drives combined 2.3m downloads of franchise's mobile ports, according to AppMagic"
         }
       ]
     },
@@ -743,7 +671,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 16.6,
+      "heures": 23.3,
       "chaleur": 5,
       "liens": [
         {
@@ -761,7 +689,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 18.2,
+      "heures": 24.9,
       "chaleur": 5,
       "liens": [
         {
@@ -779,7 +707,7 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 19.6,
+      "heures": 26.4,
       "chaleur": 5,
       "liens": [
         {
@@ -790,56 +718,128 @@ const VEILLE = {
       ]
     },
     {
-      "id": "steam-isn-t-doing-an-official-black-friday-fest-but-it-does",
-      "titre": "Steam isn't doing 'an official Black Friday fest,' but it does have a page with hundreds of discounts and 'Black Friday' splashed across the top so you might want to check it out anyway",
-      "url": "https://www.pcgamer.com/games/steam-isnt-doing-an-official-black-friday-fest-but-it-does-have-a-page-with-hundreds-of-discounts-and-black-friday-splashed-across-the-top-so-you-might-want-to-check-it-out-anyway/",
+      "id": "the-canonical-usb-microphone-is-still-great-and-now-a-total",
+      "titre": "The canonical USB microphone is still great, and now a total steal for $70",
+      "url": "https://www.pcgamer.com/hardware/the-canonical-usb-microphone-is-still-great-and-now-a-total-steal-for-usd70/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 24.8,
-      "chaleur": 5,
+      "heures": 4.8,
+      "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/steam-isnt-doing-an-official-black-friday-fest-but-it-does-have-a-page-with-hundreds-of-discounts-and-black-friday-splashed-across-the-top-so-you-might-want-to-check-it-out-anyway/",
-          "titre": "Steam isn't doing 'an official Black Friday fest,' but it does have a page with hundreds of discounts and 'Black Friday' splashed across the top so you might want to check it out anyway"
+          "url": "https://www.pcgamer.com/hardware/the-canonical-usb-microphone-is-still-great-and-now-a-total-steal-for-usd70/",
+          "titre": "The canonical USB microphone is still great, and now a total steal for $70"
         }
       ]
     },
     {
-      "id": "dev-team-who-delayed-their-game-a-year-to-avoid-silksong-say",
-      "titre": "Dev team who delayed their game a year to avoid Silksong says they won't do it again for whatever Team Cherry announces tomorrow: 'This time we're staying put'",
-      "url": "https://www.pcgamer.com/games/action/dev-team-who-delayed-their-game-a-year-to-avoid-silksong-says-they-wont-do-it-again-for-whatever-team-cherry-announces-tomorrow-this-time-were-staying-put/",
+      "id": "all-i-want-for-christmas-is-plastic-crap-based-on-armored-co",
+      "titre": "All I want for Christmas is plastic crap based on Armored Core",
+      "url": "https://www.pcgamer.com/games/action/all-i-want-for-christmas-is-plastic-crap-based-on-armored-core/",
       "sources": [
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 26.6,
-      "chaleur": 5,
+      "heures": 5.4,
+      "chaleur": 4,
       "liens": [
         {
           "source": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/action/dev-team-who-delayed-their-game-a-year-to-avoid-silksong-says-they-wont-do-it-again-for-whatever-team-cherry-announces-tomorrow-this-time-were-staying-put/",
-          "titre": "Dev team who delayed their game a year to avoid Silksong says they won't do it again for whatever Team Cherry announces tomorrow: 'This time we're staying put'"
+          "url": "https://www.pcgamer.com/games/action/all-i-want-for-christmas-is-plastic-crap-based-on-armored-core/",
+          "titre": "All I want for Christmas is plastic crap based on Armored Core"
         }
       ]
     },
     {
-      "id": "gallery-get-a-closer-look-at-nintendo-s-playable-ocarina-of",
-      "titre": "Gallery: Get A Closer Look At Nintendo's Playable Ocarina Of Time",
-      "url": "https://www.nintendolife.com/news/2026/11/gallery-get-a-closer-look-at-nintendos-playable-ocarina-of-time",
+      "id": "i-went-completely-cordless-and-for-185-you-can-get-better-pr",
+      "titre": "I went completely cordless and for $185 you can get better prices on better products than I did with these Black Friday PC peripheral deals",
+      "url": "https://www.pcgamer.com/hardware/i-went-completely-cordless-and-for-usd185-you-can-get-better-prices-on-better-products-than-i-did-with-these-black-friday-pc-peripheral-deals/",
       "sources": [
-        "Nintendo Life"
+        "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 26.6,
-      "chaleur": 5,
+      "heures": 6.9,
+      "chaleur": 4,
       "liens": [
         {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/gallery-get-a-closer-look-at-nintendos-playable-ocarina-of-time",
-          "titre": "Gallery: Get A Closer Look At Nintendo's Playable Ocarina Of Time"
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/i-went-completely-cordless-and-for-usd185-you-can-get-better-prices-on-better-products-than-i-did-with-these-black-friday-pc-peripheral-deals/",
+          "titre": "I went completely cordless and for $185 you can get better prices on better products than I did with these Black Friday PC peripheral deals"
+        }
+      ]
+    },
+    {
+      "id": "marvel-s-iron-man-might-be-planning-to-rear-its-head-at-the",
+      "titre": "Marvel's Iron Man might be planning to rear its head at The Game Awards, if EA Motive's updated website is any indication",
+      "url": "https://www.eurogamer.net/iron-man-game-awards-ea-motive",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 7.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/iron-man-game-awards-ea-motive",
+          "titre": "Marvel's Iron Man might be planning to rear its head at The Game Awards, if EA Motive's updated website is any indication"
+        }
+      ]
+    },
+    {
+      "id": "digital-extremes-says-warframe-s-imminent-tau-update-is-prac",
+      "titre": "Digital Extremes says Warframe's imminent Tau update is practically big enough to be a sequel as it reveals new details, including dog walking",
+      "url": "https://www.eurogamer.net/warframe-tau-dev-stream-december-9th",
+      "sources": [
+        "Eurogamer"
+      ],
+      "reprises": 1,
+      "heures": 7.8,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Eurogamer",
+          "url": "https://www.eurogamer.net/warframe-tau-dev-stream-december-9th",
+          "titre": "Digital Extremes says Warframe's imminent Tau update is practically big enough to be a sequel as it reveals new details, including dog walking"
+        }
+      ]
+    },
+    {
+      "id": "good-coffee-is-one-of-our-last-comforts-in-a-cruel-universe",
+      "titre": "Good coffee is one of our last comforts in a cruel universe, which is why I'm tempted by this Black Friday coffee grinder deal",
+      "url": "https://www.pcgamer.com/hardware/good-coffee-is-one-of-our-last-comforts-in-a-cruel-universe-which-is-why-im-tempted-by-this-black-friday-coffee-grinder-deal/",
+      "sources": [
+        "PC Gamer"
+      ],
+      "reprises": 1,
+      "heures": 9.4,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "PC Gamer",
+          "url": "https://www.pcgamer.com/hardware/good-coffee-is-one-of-our-last-comforts-in-a-cruel-universe-which-is-why-im-tempted-by-this-black-friday-coffee-grinder-deal/",
+          "titre": "Good coffee is one of our last comforts in a cruel universe, which is why I'm tempted by this Black Friday coffee grinder deal"
+        }
+      ]
+    },
+    {
+      "id": "the-pc-specs-for-mass-effect-like-rpg-exodus-are-basically-b",
+      "titre": "The PC specs for Mass Effect-like RPG Exodus are basically bearable for a blockbuster space opera in 2026",
+      "url": "https://www.rockpapershotgun.com/the-pc-specs-for-mass-effect-like-rpg-exodus-are-basically-bearable-for-a-blockbuster-space-opera-in-2026",
+      "sources": [
+        "Rock Paper Shotgun"
+      ],
+      "reprises": 1,
+      "heures": 10.3,
+      "chaleur": 4,
+      "liens": [
+        {
+          "source": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/the-pc-specs-for-mass-effect-like-rpg-exodus-are-basically-bearable-for-a-blockbuster-space-opera-in-2026",
+          "titre": "The PC specs for Mass Effect-like RPG Exodus are basically bearable for a blockbuster space opera in 2026"
         }
       ]
     },
@@ -851,7 +851,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 4.6,
+      "heures": 11.3,
       "chaleur": 4,
       "liens": [
         {
@@ -869,7 +869,7 @@ const VEILLE = {
         "VGC"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 11.5,
       "chaleur": 4,
       "liens": [
         {
@@ -887,7 +887,7 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 4.8,
+      "heures": 11.6,
       "chaleur": 4,
       "liens": [
         {
@@ -905,7 +905,7 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 11.8,
       "chaleur": 4,
       "liens": [
         {
@@ -923,7 +923,7 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.1,
+      "heures": 11.9,
       "chaleur": 4,
       "liens": [
         {
@@ -941,8 +941,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 5.7,
-      "chaleur": 4,
+      "heures": 12.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -959,8 +959,8 @@ const VEILLE = {
         "Push Square"
       ],
       "reprises": 1,
-      "heures": 6.6,
-      "chaleur": 4,
+      "heures": 13.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Push Square",
@@ -977,31 +977,13 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 6.7,
-      "chaleur": 4,
+      "heures": 13.5,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
           "url": "https://www.pcgamer.com/hardware/make-the-pc-gamer-in-your-life-very-happy-with-the-best-black-friday-gift-ideas-under-usd50/",
           "titre": "Make the PC gamer in your life very happy with the best Black Friday gift ideas under $50"
-        }
-      ]
-    },
-    {
-      "id": "pok-mon-winds-waves-release-date-speculation-rises-from-gap",
-      "titre": "Pokémon Winds & Waves Release Date Speculation Rises From Gap In Anime Scheduling",
-      "url": "https://www.nintendolife.com/news/2026/11/pokemon-winds-and-waves-release-date-speculation-rises-from-gap-in-anime-scheduling",
-      "sources": [
-        "Nintendo Life"
-      ],
-      "reprises": 1,
-      "heures": 7.8,
-      "chaleur": 4,
-      "liens": [
-        {
-          "source": "Nintendo Life",
-          "url": "https://www.nintendolife.com/news/2026/11/pokemon-winds-and-waves-release-date-speculation-rises-from-gap-in-anime-scheduling",
-          "titre": "Pokémon Winds & Waves Release Date Speculation Rises From Gap In Anime Scheduling"
         }
       ]
     },
@@ -1013,8 +995,8 @@ const VEILLE = {
         "PC Gamer"
       ],
       "reprises": 1,
-      "heures": 8.1,
-      "chaleur": 4,
+      "heures": 14.9,
+      "chaleur": 3,
       "liens": [
         {
           "source": "PC Gamer",
@@ -1031,8 +1013,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 8.2,
-      "chaleur": 4,
+      "heures": 15.0,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1049,8 +1031,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.5,
-      "chaleur": 4,
+      "heures": 15.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -1067,8 +1049,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 8.6,
-      "chaleur": 4,
+      "heures": 15.3,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -1085,8 +1067,8 @@ const VEILLE = {
         "Eurogamer"
       ],
       "reprises": 1,
-      "heures": 8.9,
-      "chaleur": 4,
+      "heures": 15.7,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Eurogamer",
@@ -1103,8 +1085,8 @@ const VEILLE = {
         "Rock Paper Shotgun"
       ],
       "reprises": 1,
-      "heures": 9.1,
-      "chaleur": 4,
+      "heures": 15.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Rock Paper Shotgun",
@@ -1121,8 +1103,8 @@ const VEILLE = {
         "Nintendo Life"
       ],
       "reprises": 1,
-      "heures": 9.3,
-      "chaleur": 4,
+      "heures": 16.1,
+      "chaleur": 3,
       "liens": [
         {
           "source": "Nintendo Life",
@@ -1139,8 +1121,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 10.1,
-      "chaleur": 4,
+      "heures": 16.8,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -1157,8 +1139,8 @@ const VEILLE = {
         "GamesIndustry.biz"
       ],
       "reprises": 1,
-      "heures": 11.7,
-      "chaleur": 4,
+      "heures": 18.4,
+      "chaleur": 3,
       "liens": [
         {
           "source": "GamesIndustry.biz",
@@ -1166,10 +1148,28 @@ const VEILLE = {
           "titre": "Modern Warfare 4 launch boosts Call of Duty HQ to top of Newzoo's PC revenue charts"
         }
       ]
+    },
+    {
+      "id": "pok-mon-champions-x-pok-mon-go-collab-taking-place-next-mont",
+      "titre": "Pokémon Champions X Pokémon GO Collab Taking Place Next Month",
+      "url": "https://www.nintendolife.com/news/2026/11/pokemon-champions-x-pokemon-go-collab-taking-place-next-month",
+      "sources": [
+        "Nintendo Life"
+      ],
+      "reprises": 1,
+      "heures": 22.3,
+      "chaleur": 3,
+      "liens": [
+        {
+          "source": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/pokemon-champions-x-pokemon-go-collab-taking-place-next-month",
+          "titre": "Pokémon Champions X Pokémon GO Collab Taking Place Next Month"
+        }
+      ]
     }
   ],
   "alertes": [
-    "Rumored The Simpsons: Hit & Run remake may be in trouble after one developer says their \"mind-blowingly awesome\" project is cancelled",
-    "Silksong is getting a free expansion in 2 weeks"
+    "Rumoured The Simpsons: Hit & Run remake may be in trouble after one developer says their \"mind-blowingly awesome\" project is cancelled",
+    "Site News: Save 5% on PS5 Games with Push Square's Black Friday Deals"
   ]
 };
